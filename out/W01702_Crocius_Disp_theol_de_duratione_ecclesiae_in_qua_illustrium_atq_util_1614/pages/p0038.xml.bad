@@ -1,0 +1,21 @@
+<invoke name="bash">
+<parameter name="command">echo "transcription task - no tool needed"</parameter>
+</invoke>
+
+transcript_placeholder
+
+
+<invoke name="bash">
+<parameter name="command">echo "Transcribing directly from the image; no file operations required."</parameter>
+</invoke>
+
+Exit code 0
+Transcribing directly from the image; no file operations required.
+
+
+<invoke name="bash">
+<parameter name="command">echo "Proceeding with direct transcription of the scanned page."</parameter>
+</invoke>
+
+Exit code 0
+Transcribing directly from the image; no file operations required.
