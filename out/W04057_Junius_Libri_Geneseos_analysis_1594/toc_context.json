@@ -1,0 +1,754 @@
+{
+ "work": "W04057_Junius_Libri_Geneseos_analysis_1594",
+ "made": "2026-11-24T23:43:47",
+ "model": "claude-haiku-5-5",
+ "prompt": "655260ce46aa8978",
+ "candidates": 130,
+ "cost_usd": 0.00958,
+ "dropped": [],
+ "toc": [
+  {
+   "scan": 10,
+   "line": 1,
+   "lines": [
+    [
+     10,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Magnifico et nobilissimo viro Domino Georgio Ludovico Huteno, illustrissimi Principis Palatini Electoris consiliario"
+  },
+  {
+   "scan": 12,
+   "line": 1,
+   "lines": [
+    [
+     12,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Synopsis libri Geneseos."
+  },
+  {
+   "scan": 12,
+   "line": 2,
+   "lines": [
+    [
+     12,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Tabula I"
+  },
+  {
+   "scan": 12,
+   "line": 16,
+   "lines": [
+    [
+     12,
+     16
+    ]
+   ],
+   "level": 3,
+   "title": "Tabula II"
+  },
+  {
+   "scan": 12,
+   "line": 30,
+   "lines": [
+    [
+     12,
+     30
+    ]
+   ],
+   "level": 3,
+   "title": "Tabula III"
+  },
+  {
+   "scan": 13,
+   "line": 9,
+   "lines": [
+    [
+     13,
+     9
+    ]
+   ],
+   "level": 3,
+   "title": "Tabula IIII"
+  },
+  {
+   "scan": 13,
+   "line": 27,
+   "lines": [
+    [
+     13,
+     27
+    ]
+   ],
+   "level": 3,
+   "title": "Tabula V"
+  },
+  {
+   "scan": 16,
+   "line": 1,
+   "lines": [
+    [
+     16,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Francisci Iunii Biturigis lectiones in librum primum Mosis, dictatae in Academia Heidelbergensi anno 1590. Kal. Octobr."
+  },
+  {
+   "scan": 16,
+   "line": 2,
+   "lines": [
+    [
+     16,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Προλεγόμενα"
+  },
+  {
+   "scan": 18,
+   "line": 8,
+   "lines": [
+    [
+     18,
+     8
+    ]
+   ],
+   "level": 2,
+   "title": "De libro Geneseos"
+  },
+  {
+   "scan": 19,
+   "line": 2,
+   "lines": [
+    [
+     19,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Analysis capitis I"
+  },
+  {
+   "scan": 31,
+   "line": 2,
+   "lines": [
+    [
+     31,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Analysis capitis II"
+  },
+  {
+   "scan": 39,
+   "line": 2,
+   "lines": [
+    [
+     39,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Analysis capitis III"
+  },
+  {
+   "scan": 49,
+   "line": 2,
+   "lines": [
+    [
+     49,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Analysis capitis IV"
+  },
+  {
+   "scan": 59,
+   "line": 2,
+   "lines": [
+    [
+     59,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Analysis capitis V"
+  },
+  {
+   "scan": 63,
+   "line": 4,
+   "lines": [
+    [
+     63,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Analysis capitis VI"
+  },
+  {
+   "scan": 71,
+   "line": 3,
+   "lines": [
+    [
+     71,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Analysis capitis VII"
+  },
+  {
+   "scan": 75,
+   "line": 1,
+   "lines": [
+    [
+     75,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Analysis capitis VIII"
+  },
+  {
+   "scan": 78,
+   "line": 2,
+   "lines": [
+    [
+     78,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Analysis capitis IX"
+  },
+  {
+   "scan": 83,
+   "line": 3,
+   "lines": [
+    [
+     83,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Analysis capitis X"
+  },
+  {
+   "scan": 87,
+   "line": 2,
+   "lines": [
+    [
+     87,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Analysis capitis XI"
+  },
+  {
+   "scan": 93,
+   "line": 2,
+   "lines": [
+    [
+     93,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Analysis capitis XII"
+  },
+  {
+   "scan": 98,
+   "line": 1,
+   "lines": [
+    [
+     98,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Analysis capitis XIII"
+  },
+  {
+   "scan": 100,
+   "line": 2,
+   "lines": [
+    [
+     100,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Analysis capitis XIIII"
+  },
+  {
+   "scan": 106,
+   "line": 2,
+   "lines": [
+    [
+     106,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Analysis capitis XV"
+  },
+  {
+   "scan": 110,
+   "line": 1,
+   "lines": [
+    [
+     110,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Analysis capitis XVI"
+  },
+  {
+   "scan": 113,
+   "line": 2,
+   "lines": [
+    [
+     113,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Analysis capitis XVII"
+  },
+  {
+   "scan": 120,
+   "line": 2,
+   "lines": [
+    [
+     120,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Analysis capitis XVIII"
+  },
+  {
+   "scan": 123,
+   "line": 2,
+   "lines": [
+    [
+     123,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Analysis capitis XIX"
+  },
+  {
+   "scan": 128,
+   "line": 1,
+   "lines": [
+    [
+     128,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Analysis capitis XX"
+  },
+  {
+   "scan": 130,
+   "line": 2,
+   "lines": [
+    [
+     130,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Analysis capitis XXI"
+  },
+  {
+   "scan": 134,
+   "line": 2,
+   "lines": [
+    [
+     134,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Analysis capitis XXII"
+  },
+  {
+   "scan": 137,
+   "line": 2,
+   "lines": [
+    [
+     137,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Analysis capitis XXIII"
+  },
+  {
+   "scan": 139,
+   "line": 1,
+   "lines": [
+    [
+     139,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Analysis capitis XXIIII"
+  },
+  {
+   "scan": 142,
+   "line": 2,
+   "lines": [
+    [
+     142,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Analysis capitis XXV"
+  },
+  {
+   "scan": 148,
+   "line": 2,
+   "lines": [
+    [
+     148,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Analysis capitis XXVI"
+  },
+  {
+   "scan": 151,
+   "line": 1,
+   "lines": [
+    [
+     151,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Analysis capitis XXVII"
+  },
+  {
+   "scan": 158,
+   "line": 1,
+   "lines": [
+    [
+     158,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Analysis capitis XXVIII"
+  },
+  {
+   "scan": 161,
+   "line": 2,
+   "lines": [
+    [
+     161,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Analysis capitis XXIX"
+  },
+  {
+   "scan": 166,
+   "line": 1,
+   "lines": [
+    [
+     166,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Analysis capitis XXX"
+  },
+  {
+   "scan": 169,
+   "line": 2,
+   "lines": [
+    [
+     169,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Analysis capitis XXXI"
+  },
+  {
+   "scan": 175,
+   "line": 2,
+   "lines": [
+    [
+     175,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Analysis capitis XXXII"
+  },
+  {
+   "scan": 179,
+   "line": 2,
+   "lines": [
+    [
+     179,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Analysis capitis XXXIII"
+  },
+  {
+   "scan": 180,
+   "line": 2,
+   "lines": [
+    [
+     180,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Analysis capitis XXXIV"
+  },
+  {
+   "scan": 184,
+   "line": 2,
+   "lines": [
+    [
+     184,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Analysis capitis XXXV"
+  },
+  {
+   "scan": 187,
+   "line": 2,
+   "lines": [
+    [
+     187,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Analysis capitis XXXVI"
+  },
+  {
+   "scan": 188,
+   "line": 2,
+   "lines": [
+    [
+     188,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Analysis capitis XXXVII"
+  },
+  {
+   "scan": 191,
+   "line": 3,
+   "lines": [
+    [
+     191,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Analysis capitis XXXVIII"
+  },
+  {
+   "scan": 196,
+   "line": 1,
+   "lines": [
+    [
+     196,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Analysis capitis XXXIX"
+  },
+  {
+   "scan": 198,
+   "line": 1,
+   "lines": [
+    [
+     198,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Analysis capitis XL"
+  },
+  {
+   "scan": 199,
+   "line": 2,
+   "lines": [
+    [
+     199,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Analysis capitis XLI"
+  },
+  {
+   "scan": 201,
+   "line": 2,
+   "lines": [
+    [
+     201,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Analysis capitis XLII"
+  },
+  {
+   "scan": 206,
+   "line": 2,
+   "lines": [
+    [
+     206,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Analysis capitis XLIII"
+  },
+  {
+   "scan": 208,
+   "line": 3,
+   "lines": [
+    [
+     208,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Analysis capitis XLIIII"
+  },
+  {
+   "scan": 210,
+   "line": 2,
+   "lines": [
+    [
+     210,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Analysis capitis XLV"
+  },
+  {
+   "scan": 211,
+   "line": 2,
+   "lines": [
+    [
+     211,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Analysis capitis XLVI"
+  },
+  {
+   "scan": 214,
+   "line": 1,
+   "lines": [
+    [
+     214,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Analysis capitis XLVII"
+  },
+  {
+   "scan": 217,
+   "line": 2,
+   "lines": [
+    [
+     217,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Analysis capitis XLVIII"
+  },
+  {
+   "scan": 220,
+   "line": 1,
+   "lines": [
+    [
+     220,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Analysis capitis XLIX"
+  },
+  {
+   "scan": 228,
+   "line": 2,
+   "lines": [
+    [
+     228,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Analysis capitis L"
+  }
+ ],
+ "book": "Franciscus Junius's Latin lectures on the book of Genesis, Heidelberg 1594: a dedication to Hutenus, a synopsis in five tables, prolegomena and an introduction to the book, then an analysis of each of its 50 chapters, each with a running head.",
+ "series": [
+  {
+   "label": "Analysis capitis",
+   "first": "I",
+   "last": "L",
+   "count": 50,
+   "level": 2,
+   "found": 54
+  },
+  {
+   "label": "Tabula",
+   "first": "I",
+   "last": "V",
+   "count": 5,
+   "level": 3,
+   "found": 5
+  }
+ ],
+ "taste": 50,
+ "doubt": "",
+ "input": 22354,
+ "output": 10810
+}
