@@ -1,0 +1,39 @@
+{
+  "units": [
+    "352.1",
+    "352.2",
+    "352.3",
+    "352.4",
+    "352.5",
+    "352.6",
+    "352.7",
+    "352.8",
+    "352.9",
+    "352.10",
+    "352.11",
+    "352.12",
+    "352.13",
+    "352.14",
+    "353.2",
+    "353.3",
+    "353.4",
+    "353.5",
+    "353.6",
+    "353.7",
+    "353.8",
+    "353.9",
+    "353.10",
+    "353.11"
+  ],
+  "model": "subscription/claude-haiku-5-5",
+  "prompt_sha256": "ea32bb09775c45f4",
+  "stop_reason": "end_turn",
+  "batch": false,
+  "usage": {
+    "input_tokens": 2,
+    "output_tokens": 1347,
+    "cache_creation_input_tokens": 2199,
+    "cache_read_input_tokens": 1828
+  },
+  "cost_usd": 0.0
+}

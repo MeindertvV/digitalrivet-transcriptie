@@ -1,0 +1,35 @@
+{
+  "units": [
+    "242.9",
+    "242.10",
+    "242.11",
+    "242.12",
+    "242.13",
+    "243.1",
+    "243.2",
+    "243.3",
+    "243.4",
+    "243.5",
+    "243.6",
+    "243.7",
+    "243.8",
+    "243.9",
+    "243.10",
+    "243.11",
+    "243.12",
+    "244.2",
+    "244.3",
+    "244.4"
+  ],
+  "model": "subscription/claude-haiku-5-5",
+  "prompt_sha256": "ea32bb09775c45f4",
+  "stop_reason": "end_turn",
+  "batch": false,
+  "usage": {
+    "input_tokens": 2,
+    "output_tokens": 1058,
+    "cache_creation_input_tokens": 1836,
+    "cache_read_input_tokens": 1828
+  },
+  "cost_usd": 0.0
+}

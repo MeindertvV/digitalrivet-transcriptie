@@ -1,0 +1,41 @@
+{
+  "units": [
+    "24.1",
+    "24.3",
+    "24.4",
+    "24.5",
+    "24.6",
+    "24.7",
+    "24.8",
+    "24.9",
+    "24.10",
+    "24.11",
+    "24.12",
+    "24.13",
+    "24.14",
+    "24.15",
+    "25.1",
+    "25.2",
+    "25.3",
+    "25.4",
+    "25.5",
+    "25.6",
+    "25.7",
+    "25.8",
+    "25.9",
+    "25.10",
+    "25.11",
+    "25.12"
+  ],
+  "model": "subscription/claude-haiku-5-5",
+  "prompt_sha256": "ea32bb09775c45f4",
+  "stop_reason": "end_turn",
+  "batch": false,
+  "usage": {
+    "input_tokens": 2,
+    "output_tokens": 672,
+    "cache_creation_input_tokens": 1424,
+    "cache_read_input_tokens": 1828
+  },
+  "cost_usd": 0.0
+}

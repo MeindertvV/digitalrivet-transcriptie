@@ -1,0 +1,32 @@
+{
+  "units": [
+    "726.3",
+    "727.2",
+    "727.3",
+    "727.4",
+    "727.5",
+    "728.2",
+    "728.3",
+    "729.2",
+    "729.3",
+    "729.4",
+    "729.5",
+    "730.2",
+    "730.3",
+    "730.4",
+    "730.5",
+    "731.2",
+    "731.3"
+  ],
+  "model": "subscription/claude-haiku-5-5",
+  "prompt_sha256": "ea32bb09775c45f4",
+  "stop_reason": "end_turn",
+  "batch": false,
+  "usage": {
+    "input_tokens": 2,
+    "output_tokens": 2761,
+    "cache_creation_input_tokens": 4416,
+    "cache_read_input_tokens": 1828
+  },
+  "cost_usd": 0.0
+}

@@ -1,0 +1,33 @@
+{
+  "units": [
+    "80.3",
+    "80.4",
+    "80.5",
+    "80.6",
+    "80.7",
+    "80.8",
+    "80.9",
+    "80.10",
+    "80.11",
+    "80.12",
+    "80.13",
+    "80.14",
+    "81.2",
+    "81.3",
+    "81.4",
+    "81.5",
+    "81.6",
+    "81.7"
+  ],
+  "model": "subscription/claude-haiku-5-5",
+  "prompt_sha256": "ea32bb09775c45f4",
+  "stop_reason": "end_turn",
+  "batch": false,
+  "usage": {
+    "input_tokens": 2,
+    "output_tokens": 665,
+    "cache_creation_input_tokens": 1382,
+    "cache_read_input_tokens": 1828
+  },
+  "cost_usd": 0.0
+}

@@ -1,0 +1,36 @@
+{
+  "units": [
+    "306.3",
+    "306.4",
+    "306.5",
+    "306.6",
+    "306.7",
+    "306.8",
+    "306.9",
+    "306.10",
+    "306.11",
+    "306.12",
+    "307.2",
+    "307.3",
+    "307.4",
+    "307.5",
+    "307.6",
+    "307.7",
+    "307.8",
+    "307.9",
+    "307.10",
+    "308.2",
+    "308.3"
+  ],
+  "model": "subscription/claude-haiku-5-5",
+  "prompt_sha256": "ea32bb09775c45f4",
+  "stop_reason": "end_turn",
+  "batch": false,
+  "usage": {
+    "input_tokens": 2,
+    "output_tokens": 1171,
+    "cache_creation_input_tokens": 2117,
+    "cache_read_input_tokens": 1828
+  },
+  "cost_usd": 0.0
+}
