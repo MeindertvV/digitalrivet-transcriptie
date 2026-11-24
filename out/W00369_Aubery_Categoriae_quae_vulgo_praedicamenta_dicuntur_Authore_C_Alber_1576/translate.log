@@ -1,0 +1,35 @@
+Translating 16 group(s) into English with claude-haiku-5-5, effort medium
+  2.1: ok  [25 units, 362 out, $0.0000, total $0.00]
+  9.2: ok  [6 units, 1264 out, $0.0000, total $0.00]
+  4.1: ok  [18 units, 2599 out, $0.0000, total $0.00]
+  12.1: ok  [18 units, 3132 out, $0.0000, total $0.00]
+    note: unit(s) [11, 13] without the italics of the Latin
+  17.3: ok  [13 units, 2807 out, $0.0000, total $0.00]
+  23.2: ok  [5 units, 833 out, $0.0000, total $0.00]
+    note: unit(s) [1, 2, 4] without the italics of the Latin
+  30.2: ok  [4 units, 1381 out, $0.0000, total $0.00]
+  25.1: FAILED: unit [7] appears twice  [13 units, 3246 out, $0.0000, total $0.00]
+    note: unit(s) [6, 7, 8] without the italics of the Latin
+  32.2: ok  [8 units, 2870 out, $0.0000, total $0.00]
+    note: unit(s) [2, 3, 4, 11, 13] without the italics of the Latin
+  25.1~2: ok  [13 units, 2602 out, $0.0000, total $0.00]
+  37.5: 2 of 12 units ok, unit(s) ['37.5', '40.2', '40.3'] much longer than the Latin; unit(s) ['37.6', '39.3', '41.2', '42.2'] next to a unit that failed; unit(s) ['39.4', '42.1'] much shorter than the Latin; unit(s) ['42.3'] missing  [12 units, 2409 out, $0.0000, total $0.00]
+  42.4: ok  [17 units, 2877 out, $0.0000, total $0.00]
+  37.5~2: 8 of 10 units ok, unit(s) ['37.5'] much longer than the Latin; unit(s) ['37.6'] next to a unit that failed  [10 units, 2074 out, $0.0000, total $0.00]
+  37.5~3: FAILED: unit(s) ['37.5'] much longer than the Latin; unit(s) ['37.6'] next to a unit that failed  [2 units, 266 out, $0.0000, total $0.00]
+  37.5: translating its 2 remaining units one by one
+  37.5~4: FAILED: unit(s) ['37.5'] much longer than the Latin  [1 units, 117 out, $0.0000, total $0.00]
+  37.5~5: FAILED: unit(s) ['37.5'] much longer than the Latin  [1 units, 55 out, $0.0000, total $0.00]
+  48.2: ok  [7 units, 2372 out, $0.0000, total $0.00]
+  37.5~6: FAILED: unit(s) ['37.5'] much longer than the Latin  [1 units, 57 out, $0.0000, total $0.00]
+  37.6: ok  [1 units, 390 out, $0.0000, total $0.00]
+    note: unit(s) [1] without the italics of the Latin
+  52.2: ok  [5 units, 1739 out, $0.0000, total $0.00]
+  60.2: ok  [13 units, 708 out, $0.0000, total $0.00]
+  64.1: ok  [5 units, 61 out, $0.0000, total $0.00]
+    note: unit(s) [13, 18] without the italics of the Latin
+  55.3: ok  [18 units, 2407 out, $0.0000, total $0.00]
+Translated 33 of 33 running head(s)  [$0.0000]
+1 group(s) failed, listed in /home/user/digitalrivet-transcriptie/out/W00369_Aubery_Categoriae_quae_vulgo_praedicamenta_dicuntur_Authore_C_Alber_1576/translation_en/failed.txt
+Spent this run: $0.000
+186 of 187 units translated -> /home/user/digitalrivet-transcriptie/out/W00369_Aubery_Categoriae_quae_vulgo_praedicamenta_dicuntur_Authore_C_Alber_1576/translation_en.json
