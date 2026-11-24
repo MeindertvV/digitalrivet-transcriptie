@@ -1,0 +1,36 @@
+{
+  "units": [
+    "50.3",
+    "50.13",
+    "50.20",
+    "50.21",
+    "51.1",
+    "51.7",
+    "51.8",
+    "51.11",
+    "51.20",
+    "51.21",
+    "51.24",
+    "51.25",
+    "52.1",
+    "52.15",
+    "52.26",
+    "53.1",
+    "53.10",
+    "53.11",
+    "53.19",
+    "54.1",
+    "54.8"
+  ],
+  "model": "subscription/claude-haiku-5-5",
+  "prompt_sha256": "8027430236ca57a1",
+  "stop_reason": "end_turn",
+  "batch": false,
+  "usage": {
+    "input_tokens": 2,
+    "output_tokens": 3315,
+    "cache_creation_input_tokens": 4692,
+    "cache_read_input_tokens": 1794
+  },
+  "cost_usd": 0.0
+}

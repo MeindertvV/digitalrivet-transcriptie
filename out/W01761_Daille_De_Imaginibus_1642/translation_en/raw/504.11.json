@@ -1,0 +1,27 @@
+{
+  "units": [
+    "504.11",
+    "504.12",
+    "504.13",
+    "504.24",
+    "504.25",
+    "504.26",
+    "504.27",
+    "504.28",
+    "504.29",
+    "504.30",
+    "504.31",
+    "504.32"
+  ],
+  "model": "subscription/claude-haiku-5-5",
+  "prompt_sha256": "8027430236ca57a1",
+  "stop_reason": "end_turn",
+  "batch": false,
+  "usage": {
+    "input_tokens": 2,
+    "output_tokens": 161,
+    "cache_creation_input_tokens": 869,
+    "cache_read_input_tokens": 1794
+  },
+  "cost_usd": 0.0
+}

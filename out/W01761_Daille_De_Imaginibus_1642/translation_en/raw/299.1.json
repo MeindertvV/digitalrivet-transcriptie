@@ -1,0 +1,26 @@
+{
+  "units": [
+    "299.1",
+    "299.17",
+    "300.1",
+    "300.19",
+    "301.1",
+    "301.4",
+    "301.20",
+    "301.23",
+    "302.3",
+    "302.23",
+    "303.1"
+  ],
+  "model": "subscription/claude-haiku-5-5",
+  "prompt_sha256": "8027430236ca57a1",
+  "stop_reason": "end_turn",
+  "batch": false,
+  "usage": {
+    "input_tokens": 2,
+    "output_tokens": 3468,
+    "cache_creation_input_tokens": 4739,
+    "cache_read_input_tokens": 1794
+  },
+  "cost_usd": 0.0
+}

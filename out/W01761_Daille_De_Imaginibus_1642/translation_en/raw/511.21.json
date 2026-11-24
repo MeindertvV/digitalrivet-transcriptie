@@ -1,0 +1,37 @@
+{
+  "units": [
+    "511.21",
+    "511.22",
+    "511.23",
+    "511.24",
+    "511.25",
+    "511.26",
+    "511.27",
+    "511.28",
+    "511.29",
+    "511.30",
+    "511.31",
+    "511.32",
+    "512.1",
+    "512.2",
+    "512.3",
+    "512.4",
+    "512.5",
+    "512.6",
+    "512.7",
+    "512.8",
+    "512.9",
+    "512.10"
+  ],
+  "model": "subscription/claude-haiku-5-5",
+  "prompt_sha256": "8027430236ca57a1",
+  "stop_reason": "end_turn",
+  "batch": false,
+  "usage": {
+    "input_tokens": 2,
+    "output_tokens": 305,
+    "cache_creation_input_tokens": 909,
+    "cache_read_input_tokens": 1794
+  },
+  "cost_usd": 0.0
+}

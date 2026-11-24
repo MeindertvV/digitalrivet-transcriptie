@@ -1,0 +1,31 @@
+{
+  "units": [
+    "403.18",
+    "404.1",
+    "404.18",
+    "405.3",
+    "405.17",
+    "405.21",
+    "405.24",
+    "406.1",
+    "406.2",
+    "406.3",
+    "406.21",
+    "407.3",
+    "407.11",
+    "408.1",
+    "408.2",
+    "408.17"
+  ],
+  "model": "subscription/claude-haiku-5-5",
+  "prompt_sha256": "8027430236ca57a1",
+  "stop_reason": "end_turn",
+  "batch": false,
+  "usage": {
+    "input_tokens": 2,
+    "output_tokens": 3095,
+    "cache_creation_input_tokens": 4466,
+    "cache_read_input_tokens": 1794
+  },
+  "cost_usd": 0.0
+}
