@@ -1,9 +1,9 @@
 # Transcription in the cloud (a minimal copy of DigitalRivet's transcription step)
 
-The only job here: transcribe the works of `works.tsv` (scanned Latin books, 16th–17th c.) page by page and push
-the results. The owner's rules:
+The only job here: the works of `works.tsv` (scanned Latin books, 16th–17th c.) through the steps of `cloud/run.py`
+(transcription, failed pages again, OCR line check, contents, English translation), and push the results. The owner's rules:
 
-- **Haiku only.** `transcribe.py` runs `claude -p --model haiku` (`--via claude`, the subscription). Never Sonnet or
+- **Haiku only.** Every step runs `claude -p --model haiku` (`--via claude`, the subscription). Never Sonnet or
   Opus, never `--model`, never the API (`ANTHROPIC_API_KEY` is removed from the run). You do not read or transcribe
   pages yourself: the script does.
 - Do not change the prompt or the code in `backend/`. If something breaks, stop and report it.
