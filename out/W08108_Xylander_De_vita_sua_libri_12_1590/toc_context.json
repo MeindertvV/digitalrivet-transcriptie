@@ -1,0 +1,593 @@
+{
+ "work": "W08108_Xylander_De_vita_sua_libri_12_1590",
+ "made": "2026-11-24T23:59:03",
+ "model": "claude-haiku-5-5",
+ "prompt": "655260ce46aa8978",
+ "candidates": 192,
+ "cost_usd": 0.02309,
+ "dropped": [
+  "order: {'ids': [1, 2, 3, 14], 'level': 1, 'title': 'Antonini Liberalis Transformationum congeries.'}",
+  "no scans for 2 wanted"
+ ],
+ "toc": [
+  {
+   "scan": 6,
+   "line": 1,
+   "lines": [
+    [
+     6,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Εἰς Ὑλερμον τὸν Ξυλανδρον Σεβαστοπολίτην, Κ. Ο."
+  },
+  {
+   "scan": 7,
+   "line": 1,
+   "lines": [
+    [
+     7,
+     1
+    ],
+    [
+     7,
+     2
+    ],
+    [
+     7,
+     3
+    ],
+    [
+     7,
+     4
+    ]
+   ],
+   "level": 1,
+   "title": "Gvilielmvs Xylander Augustanus, Alberto Steten, Georgij V.C.F. adolescenti optimæ indolis atque spei."
+  },
+  {
+   "scan": 21,
+   "line": 8,
+   "lines": [
+    [
+     21,
+     8
+    ]
+   ],
+   "level": 2,
+   "title": "ΖΙ. Ἄνθος."
+  },
+  {
+   "scan": 53,
+   "line": 16,
+   "lines": [
+    [
+     53,
+     16
+    ]
+   ],
+   "level": 2,
+   "title": "Δρυόπη."
+  },
+  {
+   "scan": 67,
+   "line": 1,
+   "lines": [
+    [
+     67,
+     1
+    ],
+    [
+     67,
+     2
+    ],
+    [
+     67,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Φλέγοντος Τραλλιανοῦ ἀπελεύθερου Καίσαρος περὶ θαυμασίων καὶ μακροβίων."
+  },
+  {
+   "scan": 67,
+   "line": 5,
+   "lines": [
+    [
+     67,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "ἘΛΜΕΠΙΣ τ. νδ."
+  },
+  {
+   "scan": 104,
+   "line": 22,
+   "lines": [
+    [
+     104,
+     22
+    ]
+   ],
+   "level": 2,
+   "title": "Οἱ ἀπὸ τῶν ἑκατὸν δέκα ἐτῶν μέχρι ἑκατὸν εἴκοσι ἀπογραψάμενοι."
+  },
+  {
+   "scan": 111,
+   "line": 1,
+   "lines": [
+    [
+     111,
+     1
+    ],
+    [
+     111,
+     2
+    ],
+    [
+     111,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Φλέγοντος ἀπελευθέρου Ἀδριανοῦ Καίσαρος περὶ τῶν Ὀλυμπίων."
+  },
+  {
+   "scan": 115,
+   "line": 1,
+   "lines": [
+    [
+     115,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Ἀπολλωνίου ἱστορίαι θαυμάσιαι."
+  },
+  {
+   "scan": 129,
+   "line": 1,
+   "lines": [
+    [
+     129,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Ἀντιγόνου ἱστοριῶν παραδόξων συναγωγή."
+  },
+  {
+   "scan": 167,
+   "line": 1,
+   "lines": [
+    [
+     167,
+     1
+    ],
+    [
+     167,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Βιβλίον α'. Μάρκου Ἀντωνίνου αὐτοκράτορος, τῶν εἰς ἑαυτὸν Βιβλίων α'."
+  },
+  {
+   "scan": 179,
+   "line": 8,
+   "lines": [
+    [
+     179,
+     8
+    ],
+    [
+     179,
+     9
+    ]
+   ],
+   "level": 2,
+   "title": "Βιβλίον β'. Μάρκου Ἀντωνίνου αὐτοκράτορος, τῶν εἰς ἑαυτὸν Βιβλίων β'."
+  },
+  {
+   "scan": 186,
+   "line": 7,
+   "lines": [
+    [
+     186,
+     7
+    ],
+    [
+     186,
+     8
+    ]
+   ],
+   "level": 2,
+   "title": "Βιβλίον γ'. Τὰ εἰς Καρνουῶτα. Μάρκου Ἀντωνίνου αὐτοκράτορος, τῶν εἰς ἑαυτὸν Βιβλίων γ'."
+  },
+  {
+   "scan": 197,
+   "line": 2,
+   "lines": [
+    [
+     197,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Βιβλίον δ'. Μάρκου Ἀντωνίνου αὐτοκράτορος, τῶν εἰς ἑαυτὸν Βιβλίων δ'."
+  },
+  {
+   "scan": 213,
+   "line": 1,
+   "lines": [
+    [
+     213,
+     1
+    ],
+    [
+     213,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Βιβλίον ε'. Μάρκου Ἀντωνίνου αὐτοκράτορος, τῶν εἰς ἑαυτὸν Βιβλίων ε'."
+  },
+  {
+   "scan": 228,
+   "line": 5,
+   "lines": [
+    [
+     228,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Βιβλίον ς'. Μάρκου Ἀντωνίνου αὐτοκράτορος, τῶν εἰς ἑαυτὸν Βιβλίων ς'."
+  },
+  {
+   "scan": 243,
+   "line": 10,
+   "lines": [
+    [
+     243,
+     10
+    ]
+   ],
+   "level": 2,
+   "title": "Βιβλίον ζ'. Μάρκου Ἀντωνίνου αὐτοκράτορος, τῶν εἰς ἑαυτὸν Βιβλίων ζ'."
+  },
+  {
+   "scan": 258,
+   "line": 10,
+   "lines": [
+    [
+     258,
+     10
+    ]
+   ],
+   "level": 2,
+   "title": "Βιβλίον η'. Μάρκου Ἀντωνίνου αὐτοκράτορος, τῶν εἰς ἑαυτὸν Βιβλίων η'."
+  },
+  {
+   "scan": 274,
+   "line": 1,
+   "lines": [
+    [
+     274,
+     1
+    ],
+    [
+     274,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Βιβλίον θ'. Μάρκου Ἀντωνίνου αὐτοκράτορος, τῶν εἰς ἑαυτὸν Βιβλίων θ'."
+  },
+  {
+   "scan": 289,
+   "line": 1,
+   "lines": [
+    [
+     289,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Βιβλίον ι'. Μάρκου Ἀντωνίνου αὐτοκράτορος, τῶν εἰς ἑαυτὸν Βιβλίων ι'."
+  },
+  {
+   "scan": 304,
+   "line": 5,
+   "lines": [
+    [
+     304,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Βιβλίον ια'. Μάρκου Ἀντωνίνου αὐτοκράτορος, τῶν εἰς ἑαυτὸν Βιβλίων ια'."
+  },
+  {
+   "scan": 318,
+   "line": 1,
+   "lines": [
+    [
+     318,
+     1
+    ],
+    [
+     318,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Βιβλίον ιβ'. Μάρκου Ἀντωνίνου αὐτοκράτορος, τῶν εἰς ἑαυτὸν Βιβλίων ιβ'."
+  },
+  {
+   "scan": 329,
+   "line": 1,
+   "lines": [
+    [
+     329,
+     1
+    ],
+    [
+     329,
+     2
+    ],
+    [
+     329,
+     3
+    ],
+    [
+     329,
+     4
+    ],
+    [
+     329,
+     5
+    ]
+   ],
+   "level": 1,
+   "title": "Gvilielmi Xylandri Annotatiunculæ. In Metamorphoses Antonini Liberalis."
+  },
+  {
+   "scan": 330,
+   "line": 9,
+   "lines": [
+    [
+     330,
+     9
+    ],
+    [
+     330,
+     10
+    ]
+   ],
+   "level": 1,
+   "title": "In Phlegontis Mirabilia."
+  },
+  {
+   "scan": 332,
+   "line": 18,
+   "lines": [
+    [
+     332,
+     18
+    ],
+    [
+     332,
+     19
+    ]
+   ],
+   "level": 1,
+   "title": "In fragmentum de Olympijs."
+  },
+  {
+   "scan": 333,
+   "line": 1,
+   "lines": [
+    [
+     333,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "In Apollonium."
+  },
+  {
+   "scan": 336,
+   "line": 19,
+   "lines": [
+    [
+     336,
+     19
+    ],
+    [
+     336,
+     20
+    ],
+    [
+     336,
+     21
+    ]
+   ],
+   "level": 1,
+   "title": "In Marci Antonini de vita sua libros, annotationes."
+  },
+  {
+   "scan": 339,
+   "line": 17,
+   "lines": [
+    [
+     339,
+     17
+    ]
+   ],
+   "level": 2,
+   "title": "In librum I."
+  },
+  {
+   "scan": 342,
+   "line": 23,
+   "lines": [
+    [
+     342,
+     23
+    ]
+   ],
+   "level": 2,
+   "title": "In librum II."
+  },
+  {
+   "scan": 345,
+   "line": 1,
+   "lines": [
+    [
+     345,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "In librum III."
+  },
+  {
+   "scan": 346,
+   "line": 17,
+   "lines": [
+    [
+     346,
+     17
+    ]
+   ],
+   "level": 2,
+   "title": "In librum IIII."
+  },
+  {
+   "scan": 348,
+   "line": 16,
+   "lines": [
+    [
+     348,
+     16
+    ]
+   ],
+   "level": 2,
+   "title": "lib. 8. Pompeiorum interitus mentio."
+  },
+  {
+   "scan": 348,
+   "line": 25,
+   "lines": [
+    [
+     348,
+     25
+    ]
+   ],
+   "level": 2,
+   "title": "In librum V."
+  },
+  {
+   "scan": 354,
+   "line": 2,
+   "lines": [
+    [
+     354,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "In librum VI."
+  },
+  {
+   "scan": 355,
+   "line": 23,
+   "lines": [
+    [
+     355,
+     23
+    ]
+   ],
+   "level": 2,
+   "title": "In librum VII."
+  },
+  {
+   "scan": 357,
+   "line": 27,
+   "lines": [
+    [
+     357,
+     27
+    ]
+   ],
+   "level": 2,
+   "title": "In librum X."
+  },
+  {
+   "scan": 358,
+   "line": 8,
+   "lines": [
+    [
+     358,
+     8
+    ]
+   ],
+   "level": 2,
+   "title": "In librum XI."
+  },
+  {
+   "scan": 359,
+   "line": 1,
+   "lines": [
+    [
+     359,
+     1
+    ],
+    [
+     359,
+     2
+    ],
+    [
+     359,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Rerum et verborum in præcedentibus libellis memorabilium index."
+  }
+ ],
+ "book": "Volume of several Greek and Latin works, 1590: Antoninus Liberalis, Phlegon's two pieces, Apollonius, Antigonus and Marcus Aurelius's Meditations, each with a dedication or preface, Xylander's notes, and an index.",
+ "series": [
+  {
+   "label": "Βιβλίον",
+   "first": "α'",
+   "last": "ιβ'",
+   "count": 12,
+   "level": 2,
+   "found": 26
+  },
+  {
+   "label": "",
+   "first": "α'",
+   "last": "μα'",
+   "count": 41,
+   "level": 2,
+   "found": 26
+  },
+  {
+   "label": "In librum",
+   "first": "I",
+   "last": "XII",
+   "count": 12,
+   "level": 2,
+   "found": 26
+  }
+ ],
+ "taste": 50,
+ "doubt": "",
+ "input": 48022,
+ "output": 27552
+}
