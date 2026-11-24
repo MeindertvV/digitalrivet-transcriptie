@@ -1,0 +1,22 @@
+{
+  "units": [
+    "17.3",
+    "17.4",
+    "17.5",
+    "18.1",
+    "18.2",
+    "18.3",
+    "18.4"
+  ],
+  "model": "subscription/claude-haiku-5-5",
+  "prompt_sha256": "11e1908398db35b7",
+  "stop_reason": "end_turn",
+  "batch": false,
+  "usage": {
+    "input_tokens": 2,
+    "output_tokens": 2502,
+    "cache_creation_input_tokens": 4150,
+    "cache_read_input_tokens": 1817
+  },
+  "cost_usd": 0.0
+}

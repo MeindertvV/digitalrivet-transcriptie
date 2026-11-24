@@ -1,0 +1,34 @@
+{
+  "units": [
+    "9.81",
+    "9.82",
+    "9.83",
+    "9.87",
+    "9.88",
+    "9.89",
+    "9.90",
+    "9.91",
+    "9.92",
+    "9.93",
+    "9.94",
+    "9.95",
+    "9.96",
+    "9.97",
+    "9.98",
+    "9.99",
+    "9.100",
+    "9.101",
+    "9.102"
+  ],
+  "model": "subscription/claude-haiku-5-5",
+  "prompt_sha256": "11e1908398db35b7",
+  "stop_reason": "end_turn",
+  "batch": false,
+  "usage": {
+    "input_tokens": 2,
+    "output_tokens": 305,
+    "cache_creation_input_tokens": 1061,
+    "cache_read_input_tokens": 1817
+  },
+  "cost_usd": 0.0
+}
