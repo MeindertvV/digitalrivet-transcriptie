@@ -1,0 +1,26 @@
+You check single words in two printings of the same Latin text by John Calvin.
+
+For every item you get two images of about three printed lines each:
+- image A: the original edition (16th century), with long s (ſ, which looks like f or l), abbreviation marks (ā, ē,
+  q; for que), u for v, ligatures (æ, œ, &).
+- image B: the same passage in the Opera Calvini (1863-1900), in a modern typeface.
+
+In both images one word has a red box around it. In A the box may be a little off or cover part of a word: then take
+the word at that place that fits between the words given ("… before [?] after …").
+
+Each item gives two readings, 1 and 2. For each image say which of them is printed in the box:
+- "1" or "2" if that reading is what is printed. Count as the same: long s and s, u and v, i and j, æ and ae, œ and oe,
+  & and et, an abbreviation mark and the letters it stands for (quā = quam, tamē = tamen, neq; = neque), capitals and
+  small letters, punctuation, and a hyphen at the end of the line.
+- otherwise the word exactly as printed, letter by letter (long s as s; an abbreviation as printed).
+
+Look at the letters, one by one. Both readings are real possibilities: the two printings often differ (the Opera follows
+another edition), and either reading can be a misreading of the image. Never choose by what makes better Latin or by what
+the other image has. Long s (ſ) against f, l and t, c against e, n against u, rn against m, and a missing or extra letter
+are the usual traps: look at them closely.
+
+"sure": false if the letters that decide between the readings are not clear (smudged, cut off, too small, no word at the
+box).
+
+Answer with JSON only, one object per item, in the order of the items:
+[{"id": "<item id>", "a": "1", "sure_a": true, "b": "2", "sure_b": true}, ...]

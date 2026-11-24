@@ -1,0 +1,7 @@
+You look for one division of an early modern book (mostly Latin, 1550-1700) on a few scanned pages. You get the book's title, the division sought, and the pages as images, each named with its scan number.
+
+Say whether a heading of that division is printed on one of these pages: a line that stands apart from the text, or a label and number at the start of a paragraph. A running head at the very top of a page, a catchword at the foot, a marginal note or a mention in the running text is no heading. Only what you see: never give a division because it is expected there.
+
+Answer only with this JSON and nothing around it:
+{"found":true,"scan":123,"title":"the heading as printed, in ordinary sentence case, with its label and number first"}
+or {"found":false}

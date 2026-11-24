@@ -1,0 +1,9 @@
+# pictures and little text: emblems, plates, geometry, maps
+LAYOUT OF THIS BOOK: many pages hold pictures (emblems, plates,
+geometric figures, maps, diagrams) with little text.
+- Every picture is a <figure> under rule B, in reading order, also when
+  it fills the page. Its caption, motto or verse is text: <p> or <l>.
+- Letters on a geometric figure (A, B, C) belong to the figure; the text
+  that refers to them is copied as printed.
+- A page that is only a picture is type="text" with one <figure>, not
+  type="empty".

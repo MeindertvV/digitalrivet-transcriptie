@@ -1,0 +1,15 @@
+# heavy marginal notes: long notes beside the text, often in smaller type
+LAYOUT OF THIS BOOK: the text has many long notes in the margins.
+- In this book a narrow column beside the text in smaller or italic type
+  IS the margin, also when it looks like a column of its own: each of its
+  notes is a <note side="left|right">, never a <p>, never <p type="foot">.
+  This goes before the line of STEP 2 that calls a narrow column a column.
+- The notes matter as much as the text: write every note in full, from
+  its first to its last line, also when it runs down the whole margin or
+  continues under the text. A note is never shortened or summarised.
+- Go down the left and the right margin separately; a note that runs on
+  past the line it starts beside is still one <note>.
+- Rule A above says where each note goes: before the sentence it stands
+  beside, with at= naming that sentence.
+- Notes in smaller type below the text block (a commentary, an apparatus)
+  are <p type="foot">, one per note, in printed order.

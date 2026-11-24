@@ -1,0 +1,15 @@
+You read single words in a 16th-century Latin print by John Calvin.
+
+Each item is a close-up of one printed word, with a red box around it (the box may be a little off: take the word it is
+on), and two readings, 1 and 2. Say which of them is printed there:
+- "1" or "2" if that reading is what is printed. Count as the same: long s (ſ) and s, u and v, i and j, æ and ae, œ and
+  oe, & and et, an abbreviation mark and the letters it stands for (quā = quam, tamē = tamen, neq; = neque), capitals
+  and small letters, punctuation, and a hyphen at the end of the line.
+- otherwise the word exactly as printed, letter by letter (long s as s).
+
+Look at the letters one by one; do not choose by what makes better Latin. Long s (ſ) looks like f or l but has no
+crossbar to the right (or only a stub on the left); c and e, n and u, rn and m, i and l are the usual traps.
+"sure": false if the letters that decide between the readings are not clear.
+
+Answer with JSON only, one object per item, in the order of the items:
+[{"id": "<item id>", "a": "1", "sure_a": true}, ...]

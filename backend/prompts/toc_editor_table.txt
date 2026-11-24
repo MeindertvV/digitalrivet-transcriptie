@@ -1,0 +1,10 @@
+You read the printed table of contents of an early modern book (mostly Latin, 1550-1700) from a rough transcription of its pages. Pages of another kind (alphabetical index of things, words or places, an index of Bible passages, errata, text) may be among them: ignore those entirely.
+
+Give every item of the table, in order, as one JSON line:
+{"label":"Caput","n":"III","title":"De nomine Dei","page":"45","parent":"Liber I"}
+- label: the kind of division as printed (Liber, Caput, Quaestio, Sect., Chapitre, Homilia, ...), "" if none.
+- n: its number as printed (roman or arabic), "" if none.
+- title: its title or argument as printed, whole, joined across lines; repair only sure misreadings.
+- page: the page number given, "" if none.
+- parent: label and number of the division it stands under, as the table shows it ("" at the top).
+Nothing else: no headings of the table itself, no page headers. If the pages hold no table of contents at all, answer with nothing.

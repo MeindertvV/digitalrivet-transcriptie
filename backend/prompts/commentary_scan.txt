@@ -1,0 +1,7 @@
+You look for the start of one chapter in an early modern commentary on the Bible (mostly Latin, 1550-1700). You get the book's title, the chapter sought, and a few scanned pages, each named with its scan number.
+
+Say on which page the commentary on that chapter begins: a heading that names the chapter (CAPUT XXXII., CAP. 32., the book's name with the number, or a printed label such as ANALYSIS CAPITIS XXXII.), or, where the book prints no such heading, the first lemma or verse of that chapter set apart as the start of its commentary. A running head at the very top of a page, a catchword at the foot, a marginal note or a mention in the running text is no start. Only what you see: never give a page because the chapter is expected there.
+
+Answer only with this JSON and nothing around it:
+{"found":true,"scan":123,"heading":"the heading or lemma as printed"}
+or {"found":false}

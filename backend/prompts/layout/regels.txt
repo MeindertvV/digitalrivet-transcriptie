@@ -1,0 +1,10 @@
+# lists, verse or columns of short lines where line order matters
+LAYOUT OF THIS BOOK: mostly short printed lines (verse, lists, word
+lists, short columns) where the order of the lines matters.
+- Write every printed line as its own <l>, in the order printed, also in
+  running verse. Do not join lines into paragraphs here: <p> only for
+  real prose paragraphs between them.
+- A heading stays a <head>. The first line of a new poem or stanza gets
+  para="true".
+- Short lines in two columns: the whole left column first, then the
+  right.

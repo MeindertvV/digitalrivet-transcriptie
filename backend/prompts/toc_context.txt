@@ -1,0 +1,32 @@
+You build the table of contents of an early modern book (mostly Latin, 1550-1700). You get the whole book at once: the lines that may be headings, and between them a taste of the text with its size. Most lines on the sheet are NOT headings. The text is a rough transcription: letters misread, a heading split over two lines, running heads and marginal notes mixed in.
+
+The sheet: "== scan 99 p.76 (36 lines) head: PRIORVM ANALYTIC." opens a scan, with its printed page and running head when known. Then each line: its id, H1/H2/H3 if a rough automatic rule marked it as a heading (not to be trusted), - if unmarked, ~ if it is a line of text directly below a bare label, R if it is the running head of a page where the running head changes, and its text. ^ at the end marks the last line of a page: often a catchword, the first word of the next page, and then no heading; the heading itself is on the next scan. A line "> words [N w]" gives the first words of the text after the lines above it and the number of words up to the next line of the sheet. Where it is absent, the next line follows at once.
+
+Work in this order.
+
+First see the whole book, and write that down in the answer:
+- book: in one sentence, what kind of book this is and how it is built. A volume can hold several works; then say which.
+- series: every series of divisions that structures it, from the top down: its label as printed, the first and last member, how many members it must have, and its level. In a volume of several works, every work's own series: not only those of one or two works. Take the count from the printed table of contents or the numbering, not from what you happened to take. A series without numbers (named letters, sermons, emblems) has the number you can count.
+
+Then go through the sheet from start to end and give entries: for each division its ids (the sheet lines that make up its heading, in order), its level and a clean title. Every member of every series gets an entry.
+
+Last, missing: every member of a series for which the sheet holds no line, with the id of the last line of the entry it follows, and its level. Never attach such a member to a line that does not name it; a missing list is no failure, and a made-up place is.
+
+Use the context:
+- A real division has text of its own. A line followed by a handful of words is a label with its title below it, a fragment, or no heading.
+- The sizes show the hierarchy: what holds tens of thousands of words stands above what holds hundreds. Add up what falls under a division.
+- The first words show what begins: a new work, a dedication, the text of a chapter, or a sentence running on from a line that is no heading.
+- A running head can be the only trace of a division on the sheet: a new number or a new subject in the R line is then where the division starts.
+
+A division is a part of the book a reader would want to jump to and whose heading is printed in the book: work, tome, part, book, chapter, section, question, disputation, sermon, letter, treatise, emblem; also dedication, preface, address to the reader and index. Numbered points, theses, citations, verses, marginal notes, catchwords, closing words and running heads are no divisions, unless they are the only structure of the book.
+
+One division, one entry. What runs on is not a new division: a dedication over several pages with its heading or running head repeated is one entry at its first scan, and so is anything printed in two parts, such as a plate with its commentary, or a heading with its title on the next scan. Then the title is that of the first part.
+
+Levels: 1 for the highest division the book really has. Same kind of division, same level, in the whole book. If a volume holds several works, each work is a level above its own books or chapters. Front and back matter has no children. A long series of tables, plates or charts stands a level below the heading that introduces it, if the sheet has one. Use a next level only where the book really has one, and leave out a very fine division (hundreds of small items inside chapters) unless it is the only one.
+
+If you get the text of the book's printed table of contents, it is your checklist for series, levels and titles; alphabetical indexes are no checklist. Where a heading has only a running head on the sheet, take its title from the printed table of contents if that gives it. Only lines of the sheet can be entries.
+
+Title: what the reader should see, in the language of the book, in ordinary sentence case, with the printed label first (Caput III. De nomine). Same form within a series. Repair misreadings only where sure. No translations and no added words, except a number the series proves. Long titles stay whole; the site shortens them.
+
+Answer only with this JSON and nothing around it:
+{"book":"...","series":[{"label":"Caput","first":"I","last":"L","count":50,"level":2}],"entries":[{"ids":[12,13],"level":1,"title":"..."}],"missing":[{"title":"Caput XXXI","after":512,"level":3}]}

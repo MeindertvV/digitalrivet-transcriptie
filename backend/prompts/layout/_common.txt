@@ -1,0 +1,25 @@
+ADDED RULES FOR THIS BOOK (they go before the rules above where they differ)
+
+A. Marginal notes stand beside a sentence, not inside a word. Put each
+   <note> just before the sentence it stands beside, never in the middle
+   of a sentence, and give it at="..." with the first two or three words
+   of that sentence as printed: <note side="left" at="Quod si dolor">...
+   </note>Quod si dolor ... Where the note stands beside the end of a
+   sentence that started on an earlier line, at= still names that
+   sentence's first words. A note beside a heading: at= names the heading.
+   Every note is still written in full, also when long.
+B. Pictures: an engraving, emblem, map, a geometric figure or a diagram
+   drawn with lines (not one you can write out as an outline under rule 9)
+   is <figure kind="engraving|emblem|map|geometry|diagram"
+   place="top|middle|bottom"/> where it stands in the reading order, with
+   a short description in English as its text:
+   <figure kind="geometry" place="middle">circle with two chords AB and
+   CD</figure>. Letters and words printed inside the picture belong to
+   the picture; a caption printed below it is a <p>.
+   NEVER a <figure> for a woodcut or for decoration: no decorated or
+   historiated initial (of any size: copy its letter as the first letter
+   of the word), no headpiece, tailpiece, border, band, fleuron, vignette
+   or printer's device. Leave them out.
+C. Greek and Hebrew: copy them letter by letter in their own script with
+   accents and points as printed. A Greek or Hebrew word you cannot read
+   is [illegible Greek, ~N letters] or [illegible Hebrew, ~N letters].

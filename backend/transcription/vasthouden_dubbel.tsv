@@ -1,0 +1,378 @@
+# Stap 0 van backend/docs/DUBBELEN.md (stap0.py, 2026-11-07): transcribe.py en budget_run.py starten deze
+# werken niet, tot er een besluit is (dan de regel weghalen) of met transcribe.py --ook-dubbel.
+# werk	reden	tweelingen (* = al getranscribeerd)
+W00015	tweeling klaar	W00018*
+W00016	tweeling klaar	W00018*
+W00017	tweeling klaar	W00018*
+W00100	open tweeling gaat voor	W00078
+W00129	tweeling klaar	W00128*,W00132*
+W00130	tweeling klaar	W00128*
+W00133	tweeling klaar	W00132*
+W00134	open tweeling gaat voor	W00135
+W00182	tweeling klaar	W00181*,W00184
+W00184	tweeling klaar	W00181*,W00182,W00183*
+W00185	tweeling klaar	W00181*
+W00186	tweeling klaar	W00181*
+W00187	tweeling klaar	W00181*
+W00189	tweeling klaar	W00181*
+W00196	tweeling klaar	W00197*
+W00207	tweeling klaar	W00197*,W00205*,W00206,W00208
+W00286	tweeling klaar	W00287*
+W00293	tweeling klaar	W00296
+W00295	tweeling klaar	W00294,W00296
+W00306	tweeling klaar	W00304*
+W00312	tweeling klaar	W00321,W00326
+W00319	tweeling klaar	W00318*,W00320
+W00320	tweeling klaar	W00319
+W00322	tweeling klaar	W00321
+W00324	tweeling klaar	W00317*
+W00325	tweeling klaar	W07493*,W07494*
+W00326	tweeling klaar	W00312,W00338*
+W00337	open tweeling gaat voor	W00330
+W00342	tweeling klaar	W00341,W00345*,W00347*
+W00344	tweeling klaar	W00340,W00345*,W00347*
+W00370	tweeling klaar	W00375*
+W00550	open tweeling gaat voor	W00545
+W00576	tweeling klaar	W00573,W00574*
+W00608	tweeling klaar	W00609*
+W00627	tweeling klaar	W00626*
+W00655	tweeling klaar	W04883*,W04897*
+W00732	open tweeling gaat voor	W00736
+W00740	tweeling klaar	W00739*
+W00766	tweeling klaar	W00771*
+W00772	tweeling klaar	W00765*
+W00787	tweeling klaar	W00788*
+W00825	tweeling klaar	W00707*,W00826*
+W00836	tweeling klaar	W00835*
+W00838	tweeling klaar	W00837*
+W00846	tweeling klaar	W00845*
+W00853	tweeling klaar	W00854*
+W00864	tweeling klaar	W00865*
+W00892	tweeling klaar	W00899*,W02319*
+W00894	tweeling klaar	W02319*
+W00902	tweeling klaar	W00903,W00907
+W00903	tweeling klaar	W00902,W00907
+W00924-02	open tweeling gaat voor	W00921
+W00925	tweeling klaar	W00924*
+W00957	tweeling klaar	W00962*
+W00961	tweeling klaar	W00956*
+W00967	tweeling klaar	W00965*
+W00969	tweeling klaar	W06510*
+W00981	tweeling klaar	W00991*
+W01017	tweeling klaar	W01126*
+W01024	tweeling klaar	W01083*,W01095,W01124
+W01028	tweeling klaar	W01029*
+W01031	open tweeling gaat voor	W01026
+W01037	tweeling klaar	W01111
+W01042	tweeling klaar	W01023,W01025,W01080,W01081*,W01082,W01083*,W01084,W01085,W01093,W01094
+W01056	tweeling klaar	W01055*,W01153*,W01157
+W01059	tweeling klaar	W01038*,W01058
+W01071	tweeling klaar	W01068*,W01069,W01070*
+W01078	tweeling klaar	W01076*,W01077*
+W01095	tweeling klaar	W01023,W01024,W01025,W01033,W01081*,W01082,W01083*,W01084,W01085,W01093,W01094,W01124
+W01098	tweeling klaar	W01102*
+W01106	open tweeling gaat voor	W01103,W01136
+W01110	tweeling klaar	W00707*,W00826*
+W01111	tweeling klaar	W01037,W01109*,W01112,W01113
+W01112	tweeling klaar	W01111
+W01113	tweeling klaar	W01111
+W01124	tweeling klaar	W01023,W01024,W01025,W01033,W01081*,W01082,W01083*,W01084,W01085,W01093,W01094,W01095
+W01135	open tweeling gaat voor	W01103
+W01136	open tweeling gaat voor	W01103,W01106
+W01138	tweeling klaar	W01099*
+W01147	open tweeling gaat voor	W01148,W01149,W01150,W01151,W01152,W01155
+W01148	tweeling klaar	W01055*,W01147,W01153*,W01155
+W01152	open tweeling gaat voor	W01147,W01155
+W01157	tweeling klaar	W01055*,W01056,W01153*
+W01161	tweeling klaar	W04295*
+W01162	tweeling klaar	W01144*,W01154*
+W01179	tweeling klaar	W01177*,W01235*
+W01181	tweeling klaar	W01185*,W04914*
+W01182	tweeling klaar	W01180*,W01185*,W01201,W04914*
+W01190	open tweeling gaat voor	W01191,W01192
+W01196	open tweeling gaat voor	W01218
+W01201	open tweeling gaat voor	W01182
+W01203	tweeling klaar	W01184*
+W01207	tweeling klaar	W01206*,W01208*,W01215,W01220
+W01215	tweeling klaar	W01206*,W01207
+W01217	tweeling klaar	W01184*,W01211,W01216*,W01218,W01219,W01220,W01221,W99001
+W01219	open tweeling gaat voor	W01217,W01226
+W01220	tweeling klaar	W01206*,W01207,W01217
+W01222	tweeling klaar	W01223*
+W01225	tweeling klaar	W01223*
+W01232	tweeling klaar	W01235*
+W01233	tweeling klaar	W01177*,W01235*
+W01308	tweeling klaar	W01309*
+W01315	tweeling klaar	W01321*
+W01319	tweeling klaar	W01320*
+W01371	open tweeling gaat voor	W01379
+W01376	tweeling klaar	W01370*,W01377
+W01409	tweeling klaar	W01408*,W04715*
+W01420	tweeling klaar	W01421*
+W01423	tweeling klaar	W01424,W07287*
+W01424	tweeling klaar	W01423
+W01462	tweeling klaar	W01460*,W01467
+W01465	tweeling klaar	W01463*
+W01472	tweeling klaar	W01460*
+W01474	tweeling klaar	W01475
+W01475	tweeling klaar	W01474,W07566*,W07985*
+W01477	tweeling klaar	W01476*
+W01478	tweeling klaar	W01460*,W01476*
+W01575	tweeling klaar	W01573*
+W01595	open tweeling gaat voor	W01596,W01599,W01602,W01603
+W01599	open tweeling gaat voor	W01595,W01598,W01600,W01601,W01603
+W01600	open tweeling gaat voor	W01596,W01597,W01599,W01602,W01603
+W01601	open tweeling gaat voor	W01596,W01599,W01602,W01603
+W01602	open tweeling gaat voor	W01595,W01598,W01600,W01601,W01603,W01604,W01605
+W01603	open tweeling gaat voor	W01595,W01596,W01598,W01599,W01600,W01601,W01602
+W01679	open tweeling gaat voor	W01678,W01680
+W01684	tweeling klaar	W01682*,W01683,W01684-02
+W01684-02	tweeling klaar	W01684
+W01722	tweeling klaar	W01721*
+W01724	tweeling klaar	W01720*,W01725,W01726
+W01754	open tweeling gaat voor	W01757
+W01762	tweeling klaar	W01773*,W01776
+W01775	open tweeling gaat voor	W01759
+W01784	tweeling klaar	W01785*
+W01788	tweeling klaar	W01787*
+W01790	tweeling klaar	W01789*
+W01796	tweeling klaar	W01795*,W01797
+W01809	tweeling klaar	W01808*
+W01811	tweeling klaar	W01810*
+W01826	open tweeling gaat voor	W01827
+W01837	tweeling klaar	W01836*
+W01842	tweeling klaar	W01840
+W01846	tweeling klaar	W01844,W01845*
+W01847	tweeling klaar	W01795*
+W01857	tweeling klaar	W01854*,W01858*
+W01894	open tweeling gaat voor	W01893
+W01906	tweeling klaar	W01905*
+W02074	open tweeling gaat voor	W02073
+W02102	open tweeling gaat voor	W02097
+W02103	open tweeling gaat voor	W02089
+W02149	tweeling klaar	W02147*
+W02186	open tweeling gaat voor	W02185,W02193
+W02189	tweeling klaar	W02192*
+W02193	open tweeling gaat voor	W02186
+W02233	tweeling klaar	W02215
+W02260	tweeling klaar	W02262*
+W02343	tweeling klaar	W02344*
+W02462	tweeling klaar	W02458*,W02460*,W02463*
+W02490	open tweeling gaat voor	W02488
+W02492	tweeling klaar	W02506*,W02516*
+W02494	tweeling klaar	W02493*
+W02504	tweeling klaar	W02516*
+W02547	tweeling klaar	W02555*
+W02548	tweeling klaar	W02542*
+W02594	tweeling klaar	W02592*,W02790*,W02811*,W02818*
+W02697	open tweeling gaat voor	W02729
+W02700	tweeling klaar	W02698*
+W02701	tweeling klaar	W02698*
+W02702	tweeling klaar	W02698*
+W02710	open tweeling gaat voor	W02587
+W02725	open tweeling gaat voor	W02704
+W02792	tweeling klaar	W02818*
+W02810	open tweeling gaat voor	W02813
+W02812	tweeling klaar	W02811*
+W02815	tweeling klaar	W02823*
+W02819	tweeling klaar	W02818*
+W02832	tweeling klaar	W02831*
+W02857	tweeling klaar	W02858*,W02859
+W02859	tweeling klaar	W02857,W02858*
+W02937	tweeling klaar	W02939*
+W02981	tweeling klaar	W02982*
+W03056	tweeling klaar	W03057*
+W03072	tweeling klaar	W03071*
+W03114	tweeling klaar	W02967
+W03149	open tweeling gaat voor	W03022
+W03172	tweeling klaar	W03173*
+W03197	open tweeling gaat voor	W03217
+W03212	tweeling klaar	W03185*,W03191*
+W03268	tweeling klaar	W03269*
+W03284	open tweeling gaat voor	W03273
+W03293-02	open tweeling gaat voor	W03293
+W03295	open tweeling gaat voor	W03393
+W03296	open tweeling gaat voor	W03393
+W03368	open tweeling gaat voor	W03297
+W03384	open tweeling gaat voor	W03382
+W03397	open tweeling gaat voor	W03376,W03394
+W03413	open tweeling gaat voor	W03417,W03421
+W03414	open tweeling gaat voor	W03417
+W03416	open tweeling gaat voor	W03417
+W03417	open tweeling gaat voor	W03413,W03414,W03415,W03416,W03418,W03419,W03420
+W03419	open tweeling gaat voor	W03417,W03418
+W03420	open tweeling gaat voor	W03417
+W03421	open tweeling gaat voor	W03413
+W03473	tweeling klaar	W03474*
+W03602-03	tweeling klaar	W03602*,W03603*
+W03603-02	tweeling klaar	W03602*,W03603*
+W03614	tweeling klaar	W03615*
+W03621	tweeling klaar	W03620*
+W03623	tweeling klaar	W03618*
+W03637	open tweeling gaat voor	W03638
+W03647	open tweeling gaat voor	W03648
+W03658	open tweeling gaat voor	W03659
+W03660	tweeling klaar	W03689*
+W03665	tweeling klaar	W03664*
+W03671	tweeling klaar	W03672*
+W03682	open tweeling gaat voor	W03685,W03686,W03687
+W03685	open tweeling gaat voor	W03682,W03686
+W03687	open tweeling gaat voor	W03682
+W03692	open tweeling gaat voor	W03710
+W03696	tweeling klaar	W03689*
+W03713	tweeling klaar	W03661*
+W03724	tweeling klaar	W00141*,W03723*
+W03757	tweeling klaar	W03764*
+W03760	tweeling klaar	W03726
+W03788-07	tweeling klaar	W03788*
+W03791	tweeling klaar	W03788*
+W03867	open tweeling gaat voor	W03868,W03869
+W03870	tweeling klaar	W03877*
+W03897	tweeling klaar	W03907*
+W03901	open tweeling gaat voor	W03900
+W03917	tweeling klaar	W03899*,W03912*
+W03918	tweeling klaar	W03895*,W03919*
+W03946	tweeling klaar	W03947*
+W03988	tweeling klaar	W03987*
+W03989	tweeling klaar	W03990*
+W04091	tweeling klaar	W04098*
+W04092	tweeling klaar	W04098*
+W04100	tweeling klaar	W04098*
+W04108	open tweeling gaat voor	W04107
+W04111	open tweeling gaat voor	W04113
+W04168	open tweeling gaat voor	W04157,W04167
+W04190	open tweeling gaat voor	W04188
+W04194	open tweeling gaat voor	W04191,W04195
+W04256	open tweeling gaat voor	W04253
+W04266	tweeling klaar	W04267*
+W04276	open tweeling gaat voor	W04273
+W04304	tweeling klaar	W04305*
+W04376	tweeling klaar	W04377,W04378*,W04379*
+W04377	tweeling klaar	W04375,W04376,W04378*,W04379*
+W04388	tweeling klaar	W04389*
+W04390	tweeling klaar	W04391*
+W04393	tweeling klaar	W04380*
+W04394	tweeling klaar	W04395*
+W04398	tweeling klaar	W04399*
+W04405	tweeling klaar	W04385*
+W04406	tweeling klaar	W04407*
+W04408	tweeling klaar	W04407*
+W04411	tweeling klaar	W04410*
+W04426	tweeling klaar	W04434*
+W04455	open tweeling gaat voor	W04454
+W04456	open tweeling gaat voor	W04454
+W04460	open tweeling gaat voor	W04454
+W04462	open tweeling gaat voor	W04454
+W04473	open tweeling gaat voor	W04476
+W04489	tweeling klaar	W04490*
+W04504	tweeling klaar	W01083*,W04516
+W04507	open tweeling gaat voor	W04508
+W04551	tweeling klaar	W04553*
+W04555	tweeling klaar	W04559*,W04561-03
+W04561	tweeling klaar	W04559*
+W04561-03	tweeling klaar	W04555
+W04581	tweeling klaar	W04582*
+W04583	tweeling klaar	W04582*
+W04600	tweeling klaar	W04599*
+W04605	open tweeling gaat voor	W04603
+W04614	tweeling klaar	W04615*,W04616*
+W04639	tweeling klaar	W04636*
+W04674	tweeling klaar	W04668*
+W04686	tweeling klaar	W04685*
+W04807-01	tweeling klaar	W04807*
+W04915	tweeling klaar	W01185*,W04914*
+W04927	tweeling klaar	W04925*,W04926*
+W05092	tweeling klaar	W05090*
+W05118	open tweeling gaat voor	W05117,W05119
+W05119	open tweeling gaat voor	W05117,W05118
+W05120	tweeling klaar	W04295*
+W05155	open tweeling gaat voor	W05153
+W05161	open tweeling gaat voor	W05149,W05150
+W05190	open tweeling gaat voor	W05191
+W05194	open tweeling gaat voor	W05191
+W05254	tweeling klaar	W05256*
+W05262	open tweeling gaat voor	W05268
+W05274	tweeling klaar	W05275,W05281*
+W05275	tweeling klaar	W05274,W05281*
+W05276	tweeling klaar	W05280*
+W05277	tweeling klaar	W05281*
+W05282	tweeling klaar	W05278,W05283*
+W05316	open tweeling gaat voor	W05315
+W05321	tweeling klaar	W05327*
+W05335	open tweeling gaat voor	W05336
+W05343	open tweeling gaat voor	W05413
+W05375	tweeling klaar	W05387*
+W05379	tweeling klaar	W05378*
+W05388	tweeling klaar	W05346*
+W05391	tweeling klaar	W05374*
+W05551	open tweeling gaat voor	W05556
+W05555	open tweeling gaat voor	W05556
+W05565	open tweeling gaat voor	W05556,W05559
+W05645	open tweeling gaat voor	W05644
+W05647	open tweeling gaat voor	W05644
+W05648	open tweeling gaat voor	W05644
+W05702	tweeling klaar	W05701*,W05703*
+W05975	tweeling klaar	W05918*
+W06124	tweeling klaar	W06112*
+W06205	open tweeling gaat voor	W06204
+W06330	open tweeling gaat voor	W06329
+W06389	tweeling klaar	W06388*,W06392
+W06392	tweeling klaar	W06389
+W06426	open tweeling gaat voor	W06428
+W06428	open tweeling gaat voor	W06426,W06427,W06429,W06430
+W06429	open tweeling gaat voor	W06428
+W06430	open tweeling gaat voor	W06428
+W06494	tweeling klaar	W06467*
+W06505	tweeling klaar	W06505-01*
+W06522	tweeling klaar	W06529*,W06534
+W06530	tweeling klaar	W06529*
+W06532	tweeling klaar	W06529*,W06531*
+W06533	tweeling klaar	W06523*,W06529*,W06531*
+W06534	tweeling klaar	W06522
+W06629	tweeling klaar	W06627,W06628,W06635,W06636*,W06637*,W06641,W06648
+W06635	tweeling klaar	W06629,W06641
+W06641	tweeling klaar	W06629,W06635
+W06729	open tweeling gaat voor	W06725,W06728
+W06822	tweeling klaar	W06825*
+W06823	tweeling klaar	W00239*
+W06979	tweeling klaar	W06945*
+W07061	open tweeling gaat voor	W07062
+W07082	open tweeling gaat voor	W07083
+W07340	tweeling klaar	W07351-12*
+W07406	tweeling klaar	W07405*
+W07407	tweeling klaar	W07409
+W07409	tweeling klaar	W07407,W07410*
+W07441	tweeling klaar	W07442*
+W07468	tweeling klaar	W07467*,W07469
+W07469	tweeling klaar	W07468
+W07497	tweeling klaar	W07495*,W07505
+W07499	tweeling klaar	W07495*
+W07500	tweeling klaar	W07495*
+W07548	open tweeling gaat voor	W07547,W07562
+W07549	open tweeling gaat voor	W07547
+W07595	open tweeling gaat voor	W07596-04,W07604,W07605,W07607
+W07596	open tweeling gaat voor	W07604,W07605
+W07596-04	open tweeling gaat voor	W07595
+W08028	tweeling klaar	W08033*
+W08036	tweeling klaar	W08037*
+W08125	open tweeling gaat voor	W08156,W08158
+W08125-01	open tweeling gaat voor	W08157
+W08132	open tweeling gaat voor	W08125-02,W08133
+W08156	open tweeling gaat voor	W08125
+W08158	open tweeling gaat voor	W08125,W08157
+W08239	tweeling klaar	W08236*
+W99001	tweeling klaar	W01206*,W01217,W99001-02
+W99001-02	tweeling klaar	W01206*,W99001
+W99001-05	tweeling klaar	W01212*
+W99001-06	tweeling klaar	W01177*,W01235*
+W99001-07	tweeling klaar	W01209*
+W99001-23	tweeling klaar	W01184*,W01216*,W04913*
+W99001-24	tweeling klaar	W01184*,W01216*
+W99001-25	tweeling klaar	W01184*,W01216*
+W99001-31	tweeling klaar	W01185*,W04914*
+W99001-32	tweeling klaar	W01185*,W04914*
+W99001-36	tweeling klaar	W01180*
+W99001-37	tweeling klaar	W01180*
+W99001-42	tweeling klaar	W01223*
+W99001-43	tweeling klaar	W01223*
+W99001-44	tweeling klaar	W01223*

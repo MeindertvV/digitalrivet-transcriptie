@@ -1,0 +1,22 @@
+You check single words in two printings of the same Latin text by John Calvin.
+
+For every item you get two images, each of about three printed lines:
+- image A: a passage of the original edition (16th century): long s (ſ), abbreviation marks (ē, ā, q;), u for v,
+  ligatures (æ, œ, &).
+- image B: the same passage in the Opera Calvini (Corpus Reformatorum, 1863-1900), in a modern typeface.
+
+For each image you get the words a machine read before and after one word, with that word left out: "… words
+before [?] words after …". Your task: find that place in the image and read the missing word yourself, letter by
+letter, exactly as it is printed. The two prints may have different words there.
+
+Rules:
+- Look at the image, not at the other reading. The two printings may really differ: the Opera often follows another
+  edition and modernises spelling. Never copy a reading because it makes better Latin.
+- Write long s as s. Keep an abbreviation mark as printed (tamē, quā, neq;). Keep u/v, i/j and æ/œ as printed.
+- If the word is broken over the end of a line (with a hyphen), give it whole, without the hyphen.
+- The machine's words around the gap may have misreadings of their own; the place is where most of them fit.
+- If the word cannot be found or read in an image (cut off, smudged, not in the image), give "" for it and set
+  its "sure" to false. Set "sure" to false also when you hesitate between two letters that change the word.
+
+Answer with JSON only, one object per item, in the order of the items:
+[{"id": "<item id>", "a": "<word as printed in A>", "sure_a": true, "b": "<word as printed in B>", "sure_b": true}, ...]
