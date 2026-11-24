@@ -1,0 +1,29 @@
+{
+  "units": [
+    "399.10",
+    "399.11",
+    "399.14",
+    "399.18",
+    "399.19",
+    "400.17",
+    "400.30",
+    "401.5",
+    "401.12",
+    "402.2",
+    "402.3",
+    "402.9",
+    "402.13",
+    "402.14"
+  ],
+  "model": "subscription/claude-haiku-5-5",
+  "prompt_sha256": "3d870c60807b3aee",
+  "stop_reason": "end_turn",
+  "batch": false,
+  "usage": {
+    "input_tokens": 2,
+    "output_tokens": 13079,
+    "cache_creation_input_tokens": 2983,
+    "cache_read_input_tokens": 1822
+  },
+  "cost_usd": 0.0
+}

@@ -1,0 +1,40 @@
+{
+  "units": [
+    "64.19",
+    "64.20",
+    "65.1",
+    "65.2",
+    "65.3",
+    "65.4",
+    "65.5",
+    "65.6",
+    "65.7",
+    "65.8",
+    "65.9",
+    "65.10",
+    "65.11",
+    "65.12",
+    "65.13",
+    "65.14",
+    "65.15",
+    "65.16",
+    "65.17",
+    "65.18",
+    "65.19",
+    "65.20",
+    "66.18",
+    "66.19",
+    "67.47"
+  ],
+  "model": "subscription/claude-haiku-5-5",
+  "prompt_sha256": "3d870c60807b3aee",
+  "stop_reason": "end_turn",
+  "batch": false,
+  "usage": {
+    "input_tokens": 2,
+    "output_tokens": 3412,
+    "cache_creation_input_tokens": 4476,
+    "cache_read_input_tokens": 1822
+  },
+  "cost_usd": 0.0
+}

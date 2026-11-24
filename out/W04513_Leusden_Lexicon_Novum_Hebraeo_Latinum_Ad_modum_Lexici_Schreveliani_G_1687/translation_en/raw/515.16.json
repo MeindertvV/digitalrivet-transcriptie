@@ -1,0 +1,25 @@
+{
+  "units": [
+    "515.16",
+    "515.17",
+    "515.18",
+    "515.19",
+    "515.20",
+    "515.21",
+    "515.22",
+    "519.26",
+    "519.27",
+    "519.28"
+  ],
+  "model": "subscription/claude-haiku-5-5",
+  "prompt_sha256": "3d870c60807b3aee",
+  "stop_reason": "end_turn",
+  "batch": false,
+  "usage": {
+    "input_tokens": 2,
+    "output_tokens": 5332,
+    "cache_creation_input_tokens": 5277,
+    "cache_read_input_tokens": 1822
+  },
+  "cost_usd": 0.0
+}
