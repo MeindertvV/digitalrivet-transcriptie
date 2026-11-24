@@ -8,7 +8,7 @@ one another into out/<work>/, all with Haiku on the subscription (claude -p):
   2. the pages in failed.txt once more
   3. ocr_check/line_compare.py: every line beside the scan's OCR (ocr_regels.json; no model)
   4. contents/toc_context.py: the contents (toc_context.json)
-  5. translation/translate.py --lang en --via claude (translation_en.json)
+  5. translation/translate.py --lang en --via claude (translation_en.json); skipped with --no-translate
 Then it deletes the PDF, and commits and pushes out/<work>/ to the branch results-<shard> (also after step 1,
 so a stop loses little). A step that fails is logged in out/<work>/<step>.log; the next steps still run. A work whose out/<work>/book.json is already there is skipped,
 so a stopped run just starts again. Stops when the subscription's usage limit is reached.
@@ -56,7 +56,9 @@ def main() -> None:
     ap.add_argument("--workers", type=int, default=4)
     ap.add_argument("--base", default=DEFAULT_BASE, help="URL of the folder with the PDFs")
     ap.add_argument("--limit", type=int, default=0, help="stop after this many works (0: all)")
+    ap.add_argument("--no-translate", action="store_true", help="skip step 5 (the English translation)")
     a = ap.parse_args()
+    done_files = DONE[:-1] if a.no_translate else DONE
     if not a.base:
         sys.exit("give --base or PDF_BASE")
     branch = f"results-{a.shard}"
@@ -72,7 +74,7 @@ def main() -> None:
     env.pop("ANTHROPIC_API_KEY", None)          # the subscription, never the API
     done = 0
     for w in mine:
-        if all((OUT / w / f).exists() for f in DONE):
+        if all((OUT / w / f).exists() for f in done_files):
             continue
         pdf = PDFS / f"{w}.pdf"
         t0 = time.time()
@@ -99,7 +101,7 @@ def main() -> None:
                 step(w, "ocr_regels", ["ocr_check/line_compare.py", str(OUT / w), "--pdf", str(pdf)], env)
             if not (OUT / w / "toc_context.json").exists():
                 step(w, "toc_context", ["contents/toc_context.py", wid], env)
-            if not (OUT / w / "translation_en.json").exists():
+            if not a.no_translate and not (OUT / w / "translation_en.json").exists():
                 step(w, "translate", ["translation/translate.py", str(OUT / w), "--lang", "en", "--via", "claude",
                                       "--workers", str(a.workers)], env)
         pdf.unlink(missing_ok=True)
