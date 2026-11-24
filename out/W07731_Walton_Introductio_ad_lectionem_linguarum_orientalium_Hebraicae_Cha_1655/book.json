@@ -22077,13 +22077,188 @@
   },
   {
    "n": 131,
-   "type": "missing",
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "number": "21",
    "warnings": [
     {
-     "type": "missing_page",
-     "text": "page 131 was not transcribed: no <page>...</page> in response"
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: edidit."
     }
-   ]
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "Et hæc quidem ex Buxtorfio, de Dieu, aliisque",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "collecta, ad lectionem hujus linguæ sufficiant;",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "Qui vero plenam linguæ hujus cognitionem de-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "siderat, Grammaticos consulat, qui præcepta",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "Grammaticalia tradiderunt. Inter innumeros",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "vero qui hodie extant, Buxtorfius videtur pal-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "mam aliis præripere, cujus Epitomen primum,",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "vel Schickardi Horologium ediscat, postea evol-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "vat Buxtorfii Thesaurum Grammaticum qui",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "omnium accuratissime, & copiosissime hujus linguæ",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "mysteria pandit. De ipso enim Judæi hoc",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "Elogium reliquerunt in præf. Bibl. Rabbinico-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "rum quæ præfixa est editioni Bafilienfi: <i>\"Sapi-</i>",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "<i>ens præ sapientibus Nazaræorum, Doctor</i>",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "<i>magnus in lingua sacra, & Chaldaica, & in</i>",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "<i>Grammaticis earum, ita ut similis ei non in-</i>",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "<i>veniatur inter eos, vir Magnificus, dominu-</i>",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "<i>s Johannes Buxtorfius.\"</i>",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "Hujus vero Lexicon Hebraicum & Chaldai-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 20,
+     "text": "cum una cum Lexico Chaldæo-Rabbinico-Tal-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "mudico (opere 30 annorum) & concordantiis",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "ejus Hebraicis, quæ præter concordantias Bib-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "licas etiam Lexicon Hebraicum absolutissimum",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "exhibent, ut maximè utilia, ad perfectam hujus",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "& aliarum Linguarum Orientalium cognitio-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "nem, omnium doctorum calculo approban-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "tur.",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "Chaldaicam vero Grammaticam inter alios,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 29,
+     "text": "scripsit idem Buxtorf. cum Syriaca conjunctim;",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "Idem etiam compendiose præstitit Andr. Sen-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "nertus, qui Syriaca proprio charactere describit,",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "non Hebraico, ut Buxtorfius.",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "Unà cum Syriaco Chaldaicum etiam Lexicon",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "catchword": "edidit.",
+   "notes": "Page is a text page with no margin notes. Printed \"(21)\" at head taken as page number. Ornamental catchword/signature not visible. Some line-end words in the scan are faint or smudged, notably in \"Judæi\", \"Magnificus\", and \"Chaldaicum\"; transcribed as read, no [?] added where clear. The original's wording \"Sapi-ens\" and \"Hujus vero Lexicon\", as well as the sentence with \"Chaldaicam ... cum Syriaca\" and \"Andr. Sennertus\", is transcribed as printed, including the printer's spelling \"scripfit\" rendered from the scan as \"scripfit\" in the source; a few letters in the lower lines are blurred and may warrant checking against the original."
   },
   {
    "n": 132,
