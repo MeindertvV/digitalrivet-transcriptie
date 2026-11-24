@@ -515,13 +515,35 @@
   },
   {
    "n": 16,
-   "type": "missing",
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "number": "136",
    "warnings": [
     {
-     "type": "missing_page",
-     "text": "page 16 was not transcribed: no <page>...</page> in response"
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: audeas"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
     }
-   ]
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "demonstrarent. Sed Æthnâ gravior hic eis labor erit. Nam Gratianus, tomi concilio-rum,aliiq; auctores luculerè docet, qui, quid, quādo & quantū in ecclesiâ invexerint, & pro- libidine mutârint. Talpâ cœcior sit, cui non videat in annos sua errores crementa habuis-se, alios atq; alios pontificibus noviter comminiscentibus. Mille annorum duratio, si ea in errores Romanos omnes congruat, non satis longa foret ad cōciliandum eis decus veritatis. Judaismus est antiquior, & gentilismus. Neuter verus, neuter verae religioni affinis. Quid ergo prae his habeat papismus? Id ergo concedas saltem, durationem non esse veram ecclesiae notam, quā tutō à falsis coetibus discernatur. Durant enim hi quoq; juxtā cum illa. Perge.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "II. Deinde nostram ecclesiam esse veram ecclesiam probari potest etiam hoc argumento. Nam ante Lutheri tempora, non erant in mundo, nisi hæ religiones, paganismus, judaismus, Mahumetismus, Græcismus, Nestorianismus, Husitarum hæresis, & Romana ecclesia: Jed certum est non fuisse veram ecclesiam Christi apudullam ex prædictis, sed etiam Lutherani fatentur. Ergo fuit apud Romanam ecclesiam, aut certè periit de mundo omnis vera & visibilis ecclesia; quod non possefieri, supra docuimus, &c. Mirum, quā scientiā religiones ad tam pauxillas cōtrahere",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "catchword": "audeas",
+   "notes": "Page is in old orthography with long-s and ligature forms; the printed marginal space is blank. Clear Latin is copied; the heavy stain at the lower right (the word \"audeas\" and the line above it) and some letters in the running text near the \"s\" forms were read with caution, and the phrase \"non possefieri\" as printed is faithful to the scan but may be a printing error for \"non posse fieri\". Italic passages are the second paragraph (the \"II.\" argument) and are marked in the text only as plain text; the italic in the original is not reproduced because of inconsistent reading. The section numeral \"II.\" and \"4\" in the margin of the first paragraph are printed marks."
   },
   {
    "n": 17,
@@ -1298,6 +1320,10 @@
    "running_head": "de reformatis Ecclesiis",
    "warnings": [
     {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: ptura."
+    },
+    {
      "type": "line_split",
      "text": "no usable OCR layer: paragraphs could not be split into printed lines"
     }
@@ -1323,7 +1349,7 @@
     },
     {
      "n": 4,
-     "text": "Sensus conclusionis est, nos ex sacrarum literarum perpetuo tenore ac sensu evidenter ostendere, nihil novi, nihil sicti continere doctrinam ecclesiæ, quæ a papatu recepit ac secrevit. Ratione attulimus hanc, quod scripturam sacram incolumem habemus. Firmum judico argumentum. Quæ ecclesia scripturam sacram habet incolumem, ejus doctrinæ constantia ex scripturis probatur. Atqui ecclesia reformata s. scri- ptura.",
+     "text": "Sensus conclusionis est, nos ex sacrarum literarum perpetuo tenore ac sensu evidenter ostendere, nihil novi, nihil sicti continere doctrinam ecclesiæ, quæ a papatu recepit ac secrevit. Ratione attulimus hanc, quod scripturam sacram incolumem habemus. Firmum judico argumentum. Quæ ecclesia scripturam sacram habet incolumem, ejus doctrinæ constantia ex scripturis probatur. Atqui ecclesia reformata s. scri-",
      "heading": 0,
      "para": true
     }
@@ -1337,17 +1363,39 @@
      "text": "M 3"
     }
    ],
+   "catchword": "ptura.",
    "notes": "Printed text is a fragment at the bottom (\"Atqui ecclesia reformata f. scri- / ptura\"), the page ends with signature \"M 3\" at the foot. Italic passages in the conclusion heading and the phrase \"quod scriptura sacram incolumem habemus\" are set in italic in the original. Several words are uncertain due to damage and show-through; the Latin is reconstructed from the scan and marked where unclear. The catchword is not visible. The original long s has been written as s throughout."
   },
   {
    "n": 38,
-   "type": "missing",
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "number": "158",
    "warnings": [
     {
-     "type": "missing_page",
-     "text": "page 38 was not transcribed: no <page>...</page> in response"
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    },
+    {
+     "type": "repaired_xml",
+     "text": "missing or unbalanced tag(s) repaired by the script; the words are unchanged"
     }
-   ]
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "pturam habet in colurnem. Ergo. Quid enim Eo ipso doctrina est constans, quod solu Dei verbum integre amplectitur. Jam vero eccle- siae reformatae id omne sunt damnare promta paratasq; , quod praeter & contra Dei verbum tanquam ad salutem necessarium docetur. Je- suita regerit. <i>Omnia falsa. Et dilaniasti scri- pturas foedissime, quod in thesi 13. reservo, & e- jus sensum sacrilege pervertisti, quod thesis 14. monstrabit.</i> Bona verba! Nempe Jesuita di- cit, & omnia falsa sunt quae dicimus. Sed qui- nia hoc caput differs in alium locum, nos quoque ibi sequemur, ubi foeditates vestras, & sacri- legia, q nobis criminose ac caluniose impingi- tis, vestrae esse clare demonstrabimus. Nos sa- cram scripturam integre legimus, sensum ve- ro etiam scripturae cum religione retinemus, quicquid oblatret os maledicum.",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "Conclusio octava. <i>Praeconium doctrinae reformatae publicum injuria temporum & ma- litia crudelissimorum hostium aliquamdiu fuit in sylvas, in montes, in carceres compactu.</i> Haec conclusio iam demonstratu est facilis, postquam reformatam doctrinam nullam agnoscimus aliam, quam quae verbo Dei scripto per omnia, iis quae ad cultum Dei & salutem hominis praecipue sunt necessaria, exacte respondeat. Talem a. eam esse fanste affirmamus, vere credimus, constanter docemus. De hujus doctrinae perse",
+     "heading": 2,
+     "para": true
+    }
+   ],
+   "catchword": "perfe",
+   "notes": "Printed text is set in roman with italic passages; the heading is set in larger type. Several words are damaged and uncertain (e.g., \"Ergo\", \"Quid enim\", \"sacrilege\", \"fanste\", \"docemus\", \"perfe\" at the foot). Words such as \"pturam\" and \"colurnem\" at the top are likely broken by the scan edge; \"Eo ipso\" and \"solu\" are doubtful. Mark: the marginal sign \"*\" at the left near line \"credimus\" is a reference mark with no visible note. The scan is cut off at the bottom; the catchword is the only visible word there."
   },
   {
    "n": 39,
