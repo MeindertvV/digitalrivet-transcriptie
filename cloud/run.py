@@ -61,7 +61,12 @@ def main() -> None:
         pdf = PDFS / f"{w}.pdf"
         t0 = time.time()
         try:
-            urllib.request.urlretrieve(f"{a.base.rstrip('/')}/{w}.pdf", pdf)
+            # Cloudflare refuses Python's own User-Agent (403), so name ourselves
+            req = urllib.request.Request(f"{a.base.rstrip('/')}/{w}.pdf",
+                                         headers={"User-Agent": "digitalrivet-transcriptie/1.0"})
+            with urllib.request.urlopen(req, timeout=300) as r, open(pdf, "wb") as fh:
+                while chunk := r.read(1 << 20):
+                    fh.write(chunk)
         except Exception as e:
             print(f"download failed {w}: {e}", flush=True)
             continue
