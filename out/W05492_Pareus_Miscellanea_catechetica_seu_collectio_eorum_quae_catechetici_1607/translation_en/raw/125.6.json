@@ -1,0 +1,33 @@
+{
+  "units": [
+    "125.6",
+    "125.7",
+    "125.8",
+    "126.2",
+    "126.3",
+    "126.4",
+    "126.5",
+    "126.6",
+    "126.7",
+    "127.2",
+    "127.3",
+    "127.4",
+    "127.5",
+    "128.2",
+    "128.3",
+    "128.4",
+    "128.5",
+    "128.6"
+  ],
+  "model": "subscription/claude-haiku-5-5",
+  "prompt_sha256": "f8bc6c9cba0912f5",
+  "stop_reason": "end_turn",
+  "batch": false,
+  "usage": {
+    "input_tokens": 2,
+    "output_tokens": 2524,
+    "cache_creation_input_tokens": 4230,
+    "cache_read_input_tokens": 1812
+  },
+  "cost_usd": 0.0
+}

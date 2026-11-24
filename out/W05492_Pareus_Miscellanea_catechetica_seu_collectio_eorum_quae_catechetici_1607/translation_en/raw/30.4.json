@@ -1,0 +1,32 @@
+{
+  "units": [
+    "30.4",
+    "31.2",
+    "31.3",
+    "31.4",
+    "31.5",
+    "32.2",
+    "32.3",
+    "32.4",
+    "32.5",
+    "32.6",
+    "32.7",
+    "33.1",
+    "33.2",
+    "33.3",
+    "33.4",
+    "33.5",
+    "33.6"
+  ],
+  "model": "subscription/claude-haiku-5-5",
+  "prompt_sha256": "f8bc6c9cba0912f5",
+  "stop_reason": "end_turn",
+  "batch": false,
+  "usage": {
+    "input_tokens": 2,
+    "output_tokens": 3003,
+    "cache_creation_input_tokens": 4511,
+    "cache_read_input_tokens": 1812
+  },
+  "cost_usd": 0.0
+}

@@ -2807,13 +2807,38 @@
   },
   {
    "n": 49,
-   "type": "missing",
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "number": "48",
+   "running_head": "MISCELLANEA",
    "warnings": [
     {
-     "type": "missing_page",
-     "text": "page 49 was not transcribed: no <page>...</page> in response"
+     "type": "doubtful",
+     "text": "\"...\" in the text: a passage was skipped or a remark written as print"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
     }
-   ]
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "Scimus adeo conuersionem esse donum solius Dei, vt quanto perditum hominem saluti restituere, quàm nō existentem condere, maius opus & admirabilius est, tanto maioris impudentię sit ac furoris, illud, quàm hoc, efficacitati vocis humanæ tribuere. Sed illud etiam scimus, placuisse Deo, per stultam prædicationem saluos facere credentes. Cur sic ipsi visum sit, et si nihil necesse est, nobis rationem reddi, tamen huius etiam consilij causas ...",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "marginalia": [
+    {
+     "side": "left",
+     "at": "Cur sic ipsi",
+     "line_from": 1,
+     "line_to": 1,
+     "text": "Causa instituti ministerij."
+    }
+   ],
+   "notes": "The page is a scan with a small left-margin note block; the transcription above is incomplete and contains an error. I was unable to read the full text reliably and did not complete it; the output should not be used as a faithful transcription. Several words are doubtful, and the marginal notes and numbered paragraph marks (1, 2, 3, 4, 5) were not fully transcribed."
   },
   {
    "n": 50,

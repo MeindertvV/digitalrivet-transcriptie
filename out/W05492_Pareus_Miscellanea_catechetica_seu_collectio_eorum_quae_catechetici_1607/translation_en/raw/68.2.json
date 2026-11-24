@@ -1,0 +1,33 @@
+{
+  "units": [
+    "68.2",
+    "69.1",
+    "69.2",
+    "69.3",
+    "70.1",
+    "70.2",
+    "70.3",
+    "70.4",
+    "70.5",
+    "70.6",
+    "70.7",
+    "70.8",
+    "70.9",
+    "70.10",
+    "70.11",
+    "70.12",
+    "70.13",
+    "71.2"
+  ],
+  "model": "subscription/claude-haiku-5-5",
+  "prompt_sha256": "f8bc6c9cba0912f5",
+  "stop_reason": "end_turn",
+  "batch": false,
+  "usage": {
+    "input_tokens": 2,
+    "output_tokens": 2616,
+    "cache_creation_input_tokens": 4120,
+    "cache_read_input_tokens": 1812
+  },
+  "cost_usd": 0.0
+}
