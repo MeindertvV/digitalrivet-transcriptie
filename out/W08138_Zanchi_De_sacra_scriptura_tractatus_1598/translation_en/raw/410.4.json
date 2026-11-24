@@ -1,0 +1,39 @@
+{
+  "units": [
+    "410.4",
+    "411.1",
+    "411.2",
+    "411.3",
+    "411.4",
+    "411.5",
+    "412.2",
+    "412.3",
+    "412.4",
+    "412.5",
+    "412.6",
+    "413.2",
+    "413.3",
+    "413.4",
+    "413.5",
+    "413.6",
+    "413.7",
+    "414.1",
+    "414.2",
+    "414.3",
+    "414.4",
+    "414.5",
+    "415.2",
+    "415.3"
+  ],
+  "model": "subscription/claude-haiku-5-5",
+  "prompt_sha256": "4a41aad3aee906ff",
+  "stop_reason": "end_turn",
+  "batch": false,
+  "usage": {
+    "input_tokens": 2,
+    "output_tokens": 3031,
+    "cache_creation_input_tokens": 4510,
+    "cache_read_input_tokens": 1801
+  },
+  "cost_usd": 0.0
+}
