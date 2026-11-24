@@ -1,0 +1,36 @@
+{
+  "units": [
+    "215.1",
+    "215.25",
+    "216.2",
+    "216.4",
+    "216.6",
+    "216.8",
+    "216.9",
+    "216.11",
+    "216.12",
+    "216.16",
+    "216.18",
+    "216.20",
+    "216.21",
+    "216.24",
+    "216.27",
+    "217.6",
+    "217.15",
+    "217.22",
+    "217.26",
+    "219.21",
+    "219.28"
+  ],
+  "model": "subscription/claude-haiku-5-5",
+  "prompt_sha256": "c9da75f78e23d03f",
+  "stop_reason": "end_turn",
+  "batch": false,
+  "usage": {
+    "input_tokens": 2,
+    "output_tokens": 2376,
+    "cache_creation_input_tokens": 4154,
+    "cache_read_input_tokens": 1811
+  },
+  "cost_usd": 0.0
+}

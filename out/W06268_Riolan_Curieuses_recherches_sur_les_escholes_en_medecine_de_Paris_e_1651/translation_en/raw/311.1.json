@@ -1,0 +1,31 @@
+{
+  "units": [
+    "311.1",
+    "311.3",
+    "311.4",
+    "312.25",
+    "312.26",
+    "313.13",
+    "313.14",
+    "314.18",
+    "314.20",
+    "315.6",
+    "315.8",
+    "315.20",
+    "315.22",
+    "316.12",
+    "316.18",
+    "316.22"
+  ],
+  "model": "subscription/claude-haiku-5-5",
+  "prompt_sha256": "c9da75f78e23d03f",
+  "stop_reason": "end_turn",
+  "batch": false,
+  "usage": {
+    "input_tokens": 2,
+    "output_tokens": 2429,
+    "cache_creation_input_tokens": 3889,
+    "cache_read_input_tokens": 1811
+  },
+  "cost_usd": 0.0
+}
