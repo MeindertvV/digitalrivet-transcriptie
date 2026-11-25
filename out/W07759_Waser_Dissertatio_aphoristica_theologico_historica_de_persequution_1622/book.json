@@ -1,0 +1,1316 @@
+{
+ "source": "W07759_Waser_Dissertatio_aphoristica_theologico_historica_de_persequution_1622.pdf",
+ "pages": [
+  {
+   "n": 1,
+   "type": "empty",
+   "model": "subscription/claude-haiku-5-5",
+   "notes": "Digitiser's cover sheet (e-rara.ch), not a printed page of the book. Contains the e-rara logo, website address, bibliographic data supplied by the digitiser (author Waser, Kaspar; place and date Tigvri, M. DC. XXII; Zentralbibliothek Zürich; shelf mark 5.121,16; persistent link), multilingual terms-of-use notices and the Visual Library logo. Omitted as digitiser material. The book's own title page is not on this scan. For reference, the digitiser's title reads: Dissertatio Aphoristica, Theologico-Historica, De Perseqvvtionibvs Ecclesiæ Dei, cùm priscis, tum recentibus causis item earum."
+  },
+  {
+   "n": 2,
+   "type": "title",
+   "model": "subscription/claude-haiku-5-5",
+   "lines": [
+    {
+     "n": null,
+     "text": "DISSERTATIO",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Aphoristica, Theologico-Historica:",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "De",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "PERSEQVVTIONIBVS",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Ecclesiæ Dei, cùm priscis, tum recentibus:",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Causis item earum,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Cur nempe illæ & à Deo infligantur, & ab homine Christiano æquo animo ferri debeant: ubi & de Persequutorum nonnullorum horrendis pœnis:",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "AVTORE",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "CASPARO VVASERO,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Professore S. Literarum in Schola Tig.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Subiecta disquisitioni publicæ, die Synodum Maii proxime insequente.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Interrogantibus respondebit",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "IOSIAS VVASERVS, C. F.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Minister verbi Dei.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "TIGVRI,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Typis Ioh. Rodolphi VVolphii,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "M.DC.XXII.",
+     "heading": 0
+    }
+   ],
+   "notes": "The handwritten \"16.\" in the upper right corner is a manuscript pagination mark, not printed, so it is left out. The small fleuron ornament above the imprint is not text and is left out. The line \"Maii proxime insequente.\" is partly worn at its left end; the words are read from the context and the visible letters, but \"Maii\" and \"insequente\" are slightly unclear in the scan and are not marked, as they are legible enough."
+  },
+  {
+   "n": 3,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "merged_lines",
+     "text": "1 line(s) contain several printed lines merged together (longest 788 chars, median 164); line numbering is unreliable"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "Nobilissimo Viro: Dn. DANIELI STUDERO, Patritio Sancti Galli, &c. fautori suo honorando S. D. CASPAR VVASERVS.",
+     "heading": 1,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "NON arbitror, quenquam esse, qui non acerbissimo dolore saepe apud se reputet luctuosam faciem praesentis tempestatis, & proximè praeteritae: in qua Christi Ecclesia tot discriminibus, periculis, difficultatibus & persecutionibus, toto ferè orbe, affligitur, ut cum sanctissimo Jeremia nemo non optimo jure exclamare possit, O utinam redigat aliquis caput meum in aquam, & oculos meos in scaturiginem lacrymarum[?] tum deflerem interdiu & noctu confessos filiæ populi mei.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "Ista recordatio fecit, ut cogitanti mihi, quid hac recurrente vice, de Scholæ nostræ instituto, disquisitioni publicæ solenni subicerem, animum meum subierit, haud <i>ἀπροσδιονύσως</i>[?] facturum me, si præsentem de Persequutionibus Ecclesiæ Dissertationem in aspectum lucemque proferrem.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "Tibi verò illam inscribere, nobilissime STUDERE, volui, quòd scirem his re[?] studiis delectari[?], & in sacra ac profana historia, unde illa depromptæ sunt, versatum esse, ac proinde dextrè de eis judicare posse. Studio quinetiam habui, isto, ceu publico symbolo, testari, benevolentiam tuam, quam de propagandâ amicitiâ, quæ aliquammultos annos cum optimo cognato tuo felicis memoriæ, Dn. JACOBO STUDERO, Senatorii ordinis viro, mellinia[?] sanè mihi intercesit, sponte obtulisti, gratam acceptamque exstitisse. Te, obsecro, leve munus, leve si pauculas chartas spectes, sed tamen argumenti dignitate grave, & his temporibus apprimè accommodum, nec non devoti in te animi plenum boni consulas, placideque accipias. Deus te, & honoratissimam familiam tuam sospitet & superstitet diu diu.",
+     "heading": 0,
+     "para": true,
+     "merged": true
+    },
+    {
+     "n": 5,
+     "text": "Tiguri KL, Maiis M. DC. XXII.",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "notes": "The line \"quòd scirem his re studiis delectari\" is partly damaged; \"re\" and \"delectari\" are uncertain. \"mellinia\" is hard to read and may be a printing error. \"depromptæ\" is partly obscured. The Greek word after \"facturum me\" is uncertain in its accents and letters. The mark after \"lacrymarum\" is unclear. The printed \"aliquammultos\" and \"spectes\" are left as printed. The library stamp at the foot was omitted."
+  },
+  {
+   "n": 4,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "number": "I.",
+   "warnings": [
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "PERSEQVTIONVM nomine cōplectimur quæcunq; à persequutoribus malignè fiunt in injuriam & contumeliā hominum fidelium: quæ multa sunt ac varia: veluti odia, inimicitiæ, falsæ accusationes, convitia, carceres, vincula, exilia, relegationes, confiscationes bonorum, mors denique ipsa, & hujus diversa immania tormenta ac supplicia; quibus corpus illi quidem necare, at animæ damnum nullum inferre possunt.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "II. Hujusmodi persequutionib. tam vetus Ecclesia in veteri, quàm nova in novo Test. semper exagitata fuit.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "III. VETERIS Ecclesiæ persequutiones fuere cùm particulares, tùm universales.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "IV. Particulares; quæ in certas personas exercebantur: veluti in Abelem, Isaacum, Iacobum, Iosephum, Davidem, Eliam, Esajam, Ieremiam, Danielem ejusq; socios, aliósve summæ sanctitatis & authoritatis viros: qui persequutores suos capitales habuere Kaïnum, Ismaëlem, Esavum, suos met fratres germanos, Saulem, Izabelem, Nabuchodonosorem, & alios Libycæ arenæ numero carentes.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "V. Universales; quæ exercebantur in Iudæorum gentem universam: quo in numero præcipuè fuere persequutiones à Pharaonibus in Ægypto, à regibus Assyriorum in Babylonia, & Antiochis in Syria instituta atq; agitata: quæ scelleratissima Tyrannorum cohors, nihil petulantiæ, contumeliæ, injuriæ, crudelitatis & immanitatis, quibus Dei Ecclesiam funditus exstirparent, intermisit.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "VI. Hoc quàm verissimum esse, ex omni veteri historia constat, præsertim Pentateuchi, Regum, Prophetarum, Macchabæorum & aliorum: idémque locupletissimè testantur Psaltis[?] valdè pathetica verba, O Deus, ingressæ sunt gentes in hæreditatem tuam: polluerunt templum sanctum tuum: redegerunt Hierosolymam in acervos: dederunt cadavera servorum tuorum in cibos volucribus cœli, carnem beneficorum tuorum bestijs terræ: effuderunt sanguinem eorum velut aquam circa Hierosolymam; nec erat qui sepeliret: facti sumus opprobrium vicinis nostris, sanna & ludificatio iis; qui circa nos sunt, &c. item Apostoli ad Hebræos: Alij verò fustuario[?] multati sunt, non accipientes liberationem, ut meliorem resurrectionem",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "notes": "The initial \"P\" is a decorative woodcut and is joined to the first word. \"fustuario\" is uncertain: the letter pair at the start of the word is a long-s/f ligature, read here as \"fu\". \"Psaltis\" is uncertain and may be a printing error. \"Test.\" is set without a space in the scan. The scan has a torn corner at the top right, but no words are lost."
+  },
+  {
+   "n": 5,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "merged_lines",
+     "text": "1 line(s) contain several printed lines merged together (longest 338 chars, median 7); line numbering is unreliable"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "acciperent: alij rursus ludibria & flagella sunt experti, insu- per & vincula & carcerem : alij lapidati, ferrâ dissecti sunt, cremati sunt, gladio cæsi occubuerunt : oberraverunt cum ovillis & caprinis pellibus : destituti,pressi,malè habíti; quí- bus indignus erat Mundus:in desertis errantes,& montibus ac speluncis, & cavernis terræ. <i>Vide Psal. 79, & Hebr. 11,35, 36,37,&c.</i>",
+     "heading": 0,
+     "merged": true
+    },
+    {
+     "n": 2,
+     "text": "<i>VII. NOVAE Ecclesiae persequutiones fuere ei partim à Iudæis ipsis intentatæ : partim ab Imperatoribus Romanis : partim à Pontificibus Romanis. De Hæreticis enim, qui & ipsi Ecclesiam vehementer afflixerunt, hîc quæstio non est.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "<i>VIII. In persequutionibus, quas Iudæi Ecclesiæ inflixerunt, numeratur prima Iudæorum regis, HERODIS Magni : qui tum ipsummet DOMINVM ad necem sceleratam quæsivit, tum omnes puellos Bethlehemiticos bimulos inauditâ feritate trucidavit.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "<i>IX. Altera refertur HERODIS Antipæ, Magni filii, Iudæorum tetrarchæ; qui sævi parentis sæva vestigia [?] pressit. Quum enim sanctissimus vir, Iohannes Baptista, quo Sol non vidit magis pium, incestos ejus nexus jure taxâsset, optimum ille tanti viri caput à cervice revellit, quum putida meretrix vincla necemq; ei parâsset. quo scelere non exsaturatus atrox parricida, unâ cum Pilato, Clero, & Senatu Populoq; Iudaico, Mundi servatorem jam adultum, indignissimo ausu persequi non cessavit: donec improba coluvies in medium cæli terræque levatum ignominiosæ cruci tandem affixerunt & necârunt.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "<i>X. Tertia censetur Concilii HIEROSOLYMITANI: quod non tantùm sanctos Apostolos vinculis multavit, & flagris cruentavit, sed etiam lapidum grandine sanctum Stephanum interemit: propterea quòd multis gravibus rationibus, maximè exemplo Abrahæ, piorum patrum & Dei ipsius testimonioq; Mosis, solidè atq; evidenter probavit, Deum templo & ritibus Mosis per se non delestari, necutrunq; perpetuò durare velle.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "<i>XI. Quarta numeratur HERODIS Agrippæ, Magni nepotis; qui ut gratum faceret Iudæis, Petrum Apostolum in carcerem conjecit: capite verò truncavit Iacobum Majorem, filium Zebedæi, fratrem Iohannis Evangelistæ, primum inter Apostolos martyrii</i>",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "marginalia": [
+    {
+     "side": "left",
+     "at": "X. Tertia censetur",
+     "line_from": 5,
+     "line_to": 5,
+     "text": "An.Dom. XXXV."
+    },
+    {
+     "side": "left",
+     "at": "XI. Quarta numeratur",
+     "line_from": 6,
+     "line_to": 6,
+     "text": "An. Dom. XLV."
+    }
+   ],
+   "catchword": "lauream",
+   "notes": "The \"*\" mark in the left margin above the first note is unclear; its meaning cannot be determined. The Greek word after \"vestigia\" (ἀφθονωτάτως) is uncertain and marked [?]. Long s is written as plain s throughout. Printed spellings such as \"puellos\", \"bimulos\", \"coluvies\", \"delestari\" and \"necutrunq;\" are kept as printed. The left margin notes are copied as printed (\"An.Dom.\" and \"An. Dom.\" spacing differs). The page ends mid-sentence, and the catchword \"lauream\" starts the next page."
+  },
+  {
+   "n": 6,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "lauream adeptum; quem paucis annis post, anno nempe LXIII. glo-riosè infequutus est Iacobus Minor, Episcopus Hierosolymitanus, frater DOMINI, cognomento justus, filius Mariae, sororis Virginis Mariae: quì e templi fastigio præcipitatus, atque inter lapidandum fullonis fuste percussus atq; occisus perhibetur.",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "XII. Iudaeorum perfequutiones mox subsequutae sunt <i>IMPE-RATORVM & CAESARVM</i> Romanorum: quae perplures fuere. Quum enim Satan, [?]ἀγριόθυμῳ ille & [?]δαιμονὸς & veritatis hostis, hanc funditus exstirpare omni ope niteretur, excitavit Neronem, Domitianum, Trajanum, Antoninum Verum, Severum, Maximinum, Decium, Valerianum, Aurelianum, Diocletianum et Maximianum, ingentia Naturae monstra; quibus ad persequendos Christianos, ceu strenuis carnificibus, est usus. Quantas enim illi caedes, occisiones, strages, lanienas, quàm indignas, magnas, horribiles ediderint, qui dicere vellet, hunc tempus citius quàm oratio deficeret.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "XIII. Prima Imperatoria persequutio sub <i>NERONE</i> exstitit, impurissimo illo hominis propudio: qui Christianos tanto furore infestatus est, ut non modò funestum Romae incendium, quod sex diebus & totidem noctibus continenter arsit, cujus author & autoptes ipsemet esse voluit, ita Trojae incendium videre se gestiens, insontibus imputaret: sed publico etiam in eos edicto, Romae & in omnibus provinciis, stirpitus exscindendos, velut hostes Deorum, et urbis incendiarios mandaret. quod initium duntaxat laniena fuit. Nam paulò post aliquos ludibrii causa tergoribus ferarum insui, & canibus ad lacerandum objici præcepit: alios exuri: alios suspendi & crucifigi: nonnullos aliis suppliciis mactari voluit, ut, quemadmodum Tacitus scribit, ipsamet Romana plebs ingenti erga illos misericordia afficeretur. Primipilares martyres, hac grassante tempestate, fuere Petrus Apostolus; qui cruci dicitur affixus pedib. in cælum erectis: & Paulus Apostolus, illud [?]σκεῦος τῆς ἐκλογῆς τοῦ Θεοῦ; qui capite plexus est Romae anno LXX. et universa Ecclesia Christiana, Hierosolymae id temporis congregata; quae anno ante, nempe LXIX. divinitus monita, in oppidum Pellam, trans Iordanem situm, patriae dulci solo pulsa, dissipataque fuit.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "XIV. Altera sub DOMITIANO obtinuit. Quum enim ille blasphemo ore Deum se jactare non erubesceret, & sic appellari ac coli",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "notes": "Greek words in the text (ἀγριόθυμῳ, δαιμονὸς, σκεῦος τῆς ἐκλογῆς τοῦ Θεοῦ) are read from a small, slightly blurred print; the accents and final letters are doubtful and are marked [?]. The top line is a continuation from the previous page. The page ends mid-paragraph at \"coli\", which continues on the next page. No running head, catchword or page number is printed."
+  },
+  {
+   "n": 7,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "<i>vellet ab omnibus, pedes quin etiam, quod nemo Caesarum ante ipsum, praeter unum Domitianum[?] post ipsum, petierat, osculari sibi jussisset: Christianos, qui solum Deum adorabant, nullis non tormentorum exquisitissimorum generibus, excruciavit ac sustulit. Obtinentes hac carnificina Iohannes Apostolus, quum ferventis olei aheno percoctus incolumis evasisset, in Pathmum est relegatus, ubi Apocalypsin vidit: Timotheus Ephesi lapidibus interemtus: Dionysius Areopagita Parisiis, Gervasius & Protasius Mediolani gladio necati fuerunt.</i>",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "<i>XVI. Tertia coepit sub TRAJANO: qui Christianos stirpi-tus eradicandos censuit, propterea quod templa, aras, sacrificia, imagines, dies festos, totamque religionem Romanam improbarent & detestarentur: e contrario Deum unum adorarent, Christum Dei fili-um sospitatorem unum colerent; idque in spiritu & veritate: unde immenso illi numero ad varias miseras mortes rapti trucidatique sunt. Inter hos Simeon Hierosolymitanus Episcopus, annos natus centum viginti in crucem acti, Ignatius Episcopus Antiochenus Romae in Circo bestiis dilaniandus objecti, Quirinus militum tribunus, Sulpitius, Eustachius, Sophia cum tribus filiabus Fide, Spe et Charitate, Sabina item, victoriosam mortem Redemtoris sui causa oppetiverunt.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "<i>XVI. Memorabile cumprimis est, quod de Ignatij martyrio hi-storia ecclesiastica memorat, hoc loco minime praetereundum. Ille, ubi cum bestiis sibi confligendum vidit, alacri plane & laetabundo animo, et martyrii desideratissimo, Optarem, inquit, iam iam bestiis illis frui, quae ad me dilaniandum paratae sunt.</i> Mihi est in votis eas brevi reperire, quas valde blande compellabo, ut me carptim & absque mora devorent, neque à me dentes abstine-ant, ut à quibusdam; quos metu perculsae non auderent attingere. Quòd si illae recusent me adoriri, ego ipse eas instigabo. Date vos mihi veniam. Quid mihi profuturum, equidem non ignoro. Iam incipio Christi discipulus esse: facessat à me rerum omnium sive oculis subiectarum, sive eorum aciem fugientium admiratio, ut Iesum Christum assequar. Ignis, crux, bestiarum conflictationes, ossium distractiones, concisiones membrorum, totius corporis tanquam molitae farinae attritiones, omnia deniq; suppliciorum genera, à Diabolo excogi-",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "marginalia": [
+    {
+     "side": "left",
+     "at": "vellet ab omnibus,",
+     "line_from": 1,
+     "line_to": 1,
+     "text": "An Dom. XCVI."
+    },
+    {
+     "side": "left",
+     "at": "Tertia coepit sub",
+     "line_from": 2,
+     "line_to": 2,
+     "text": "An Dom. CVIII."
+    },
+    {
+     "side": "left",
+     "at": "Memorabile cumprimis est,",
+     "line_from": 3,
+     "line_to": 3,
+     "text": "An Dom. CIX."
+    }
+   ],
+   "catchword": "excogi-",
+   "notes": "Printed text on the page is a fragment at the start (\"vellet\") and continues into the next page's text. \"Domitianum\" is partly obscured by a printed correction over the word; the reading is uncertain. The italic/roman boundary in the third paragraph is approximate (roman from \"Mihi est in votis\"). \"Redemtoris\", \"sospitatorem\" (long s printed as f), and \"stirpi-tus\" are copied as printed or normalised per rules."
+  },
+  {
+   "n": 8,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "excogitata, in me coacervantur, ut Iesum Christum duntaxat adipiscar, &c.",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "XVII. <i>Quarta persecutio sequuta est, in Imperium succedente ANTONINO VERO, Philosopho. quo tempore hostes Christianorum, ingenti molimine connixi, fulminis instar in eos irruere, atq; dirissime grassando rem gessere, nullus non omnino strenuus, nullus non adversus in Christianos. unde acriter saevitum: sed quod saevum certamen indigne abstulit imperterritos alioqui Christi athletas Polycarpum Smyrnensis Ecclesiæ pastorem, Asiæ doctorem & Christianorum id temporis patrem communem, Iustinum Philosophum, Irenæum Episcopum Lugdunensem, Maturum, Pothenum, Attalum, Blandinam, & alios: qui cum alibi, tum imprimis Lugduni & Vienna in Gallis[?], ubi omnium gravissime saevit tempestas, atrocibus & diuturnis cruciatibus excruciabantur: propterea quod ne latum unguem a fide orthodoxa discedere vellent, tam magno & constanti animo, ut non dubitarint ipsam etiam Ethnicæ religionis vanitatem palam improbare & taxare.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "XVIII. <i>Memorabile hic est, quod de nonagenarii prope senis Polycarpi martyrio eadem historia narrat. Quum enim proconsul Romanus bestiarum laniatus illi minitaretur,</i> Accerse illas, <i>inquit, pius martyr:</i> nam nobis rata ac decreta stat sententia: & multum ab eo absumus, ut aliquando animo mutato, nos meliorum poeniteat quo deteriora sequamur. <i>Quū proconsul instaret</i> At vero te ardentibus flammarum incendiis domitū & mansuetum reddā, si bestiarū laniatus contemnas, & non resipiscas ocyus[?]: <i>ille invicto animo</i> Ignem mihi minitaris, qui ad tempus exardescit quidem, sed paulo post penitus exstinguitur: verum ignem illum futuri iudicii, ad perpetuum impiorum supplicium ac cruciatum reservatum, omnino ignoras. Sed quid cunctaris? Profer bestias, aut aliud quod lubet, &c. <i>Hîc quum rogo exstructo, manibus a tergo circumplicatis constrictusq; firmè teneretur, & clavis etiam esset affigendus,</i> Sinite me, <i>inquit, hoc modo:</i> nam qui mihi patientiam ad ignis flammas sustinen-das pro sua clementia largitur largietur etiā, ut sine cōmissu-ris clavorum, quibus me affigere statuitis, constans absque ulla corporis commotione rogo adhærescam. Tibi vero, pater di-",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "marginalia": [
+    {
+     "side": "right",
+     "at": "Quarta persecutio sequuta",
+     "line_from": 2,
+     "line_to": 2,
+     "text": "An.Dom. CLXVIII."
+    }
+   ],
+   "notes": "Page number, running head, catchword and signature: none printed. The margin note \"An.Dom. CLXVIII.\" is a printed date note at the right margin. Doubtful readings: \"Gallis\" (last word of the line \"Vienna in Gallis\", the scan is unclear, possibly \"Gallia\"); \"ocyus\" (the word after \"non resipiscas\", likely a mis-set or abbreviated form, not clearly \"oculus\"). Italic was used where the scan shows slanted type; the boundaries of the italic runs in the second paragraph (especially \"Romanus bestiarum laniatus\" and \"Accerse illas\") are uncertain. \"palam\" may be printed with a macron, which I could not confirm. Hyphens \"sustinen-das\", \"cōmissu-ris\", \"Vien-na\" and \"di-\" are printed line-end hyphens. The paragraph ending \"pater di-\" continues on the next page. Faint marks at the bottom edge are not text and were omitted."
+  },
+  {
+   "n": 9,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "<i>lecti filii tui Iesu Christi, per quem tui cognitionem accepimus, gratias ago, quòd me huius diei & horæ celebritate donasti, in qua cum in martyrum numero, tum in calice passionis Christi tui, tormentorum particeps fiam, in resurrectionem vitæ æternæ, tam animæ, quam corporis, per immortalem Spiritus sancti virtutem, &c.</i>",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "<i>XIX. Quanta in adeundo ac subeundo martyrio Blandinæ magnanimitas et constantia fuerit: itidem ex historia ecclesiastica liquet. Hæc enim ad omnia cruciamentorum genera quasi lætitia gestiens, ac de ipso vitæ suæ exitu permagno gaudio exsultans properabat: non quasi ad bestias crudeliter projecta, sed ad cœnam sponsi amicè invitata. Post verbera, post bestiarum laniatus, post sartaginis exustionem, ad extremum in rete involuta, tauri ictib. objectatur. Quæ quum ab animali illo diu multumque icta exagitataq. fuisset, ac nullum sensum haberet tormentorum, quæ hactenus ei obtigissent, partim propter spem, quam Dei promissis firmè adhærescebat, partim propter colloquia, quæ intra se cum Christo conferebat, tandem ensejugula-ta fuit. unde gentes ipsæ palàm testabantur, mulierem apud se nun-quam tot tamque acerba tormenta tam viriliter & constanter tolle-râsse ac superâsse.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "<i>XX. Stridente hac procellâ, quæ Dei ὑπεραρρήτῳ[?] & est miseri-cordia, exorti sunt, tanquam amœnissimæ Plejades, aliquot doctissimi viri, qui apologeticis suis Christianorum innocentiam, fidemque ac religionem masculè asserebant, propugnabant, celebrabant. Tales fuere Quadratus, Aristides, prædictus Iustinus, Asianus, Apollinaris, Athenagoras, Apollonius, Tertullianus, & alii, qui divinis suis libellis, quos Imperatoribus, Senatui et Præsidibus Rom. obtulerant, hoc tandem obtinuere, ut litteras ab Impp. ad Asiæ præsides exaratas, ne quam Christianis porrò molestiam aspergerent, vetarent, nisi qui convicti essent, tentâsse quidpiam contra Rempubl. Rom.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "<i>XXI. Verumenimvero ἀντιζήλῳ[?] & ille, ὡς βάσκανος[?] & ἀντινει-μάχῳ[?] & τῷ γένει τῶν δικαίων, neque dum exsaturatus fuit. Nam ad Imperii gubernacula sedente SEVERO quinta persequutio excitata atq; severè exercitata fuit. quæ præter alios illustres fidei Christianæ assertores Leonidem patrem Origenis, Heraclidem & Heronem excarnificavit. Chartagine, famosâ illâ Africæ urbe, Perpetua</i>",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "marginalia": [
+    {
+     "side": "left",
+     "at": "XXI. Verumenimvero ἀντιζήλῳ[?]",
+     "line_from": 4,
+     "line_to": 4,
+     "text": "An.Dom. CCIII."
+    }
+   ],
+   "catchword": "&[?]",
+   "notes": "The Greek words in XX and XXI are uncertain and are marked [?]. The catchword at the foot right is a symbol that may be an ampersand or a short word; marked [?]. The first line is a fragment at the page head and is kept as printed. The top paragraph is italic; the whole page is set in italic type except the Greek. No running head, page number or signature is printed."
+  },
+  {
+   "n": 10,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "<i>& Felicitas bestiis objecta, atque ab illis dilaniatae sunt.</i>",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "<i>XXII. Sexta ab Imp. MAXIMINO suscepta fuit praecipue in Doctores & Episcopos Christianorum. Facillimum enim fore ratus est Tyrannus, ut ipsa tota fides Christiana mox evanesceret, si antistites ejus e medio tollerentur: ut etiam custodibus ovilus remotis, in oves unctosq; Christi tanto liberius involare, eosq perdere pos-set. quod tamen nefarium institutum, Dei benignitate, non successit.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "<i>XXIII. Septima fuit commota ab Imp. DECIO. Hic promulgatis in toto Imp. sanguinolentissimis edictis, magno numero viros praeclaros ad supplicia raptavit: cujus truculentissimo aevo aliquis nihil audiverit, nisi truncare, mutilare, laniare, deturbare, urere, assare, confodere, concidere, occidere, & quae sunt hujus generis alia ab ipso Orco excogitata tormenta infinita. Inter alios Sixtus Episcopus Romanus capite truncatus, ejus diaconus Laurentius in craticula assatus, Hippolytus a feris equis dilaceratus, Serapion multis prius vulnerib. concisus, tum ex adium suarum summitate praeceps datus fuit. Macarius, Alexander, Epimachus vivi exusti: multae ornatissimae virgines miserabiliter prius excruciatae, postea occisae sunt, veluti Apollonia, Eugenia, Victoria, Theodora, Anatolia, Ruffina, & aliae complures.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "<i>XXIV. De Babyla Antiocheno Episcopo, viro aetate gravi, [?]ἀξιομνημονεύτως refert Chrysostomus, quod quum ipse et filii ejus idolis sacrificare recusassent, capitis damnati fuerint. Pater ad supplicium ductus, ut filii prius necaretur voluit, ne forte paterni supplicii magnitudine territi juvenes a fide resilirent. Hic ergo miser pater miserandae necis dulcissimorum filiorum spectator una cum uxore fuit; & quidem magna voce filios est consolatus, adque constantiam hortatus: tum & ipse truncatus, postquam Psalmi verba, Revertere anima mea in requiem tuam, recitasset.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "<i>XXV. Octava persecutio concitata fuit sub Imp. VALERIANO. qui etsi primis Imperii annis mitis erga Christianos exstitit: tamen postea a mago quodam Aegyptio persuasus, non illos solum acerbe est persecutus, sed etiam magicis artib. deditus, ab isto nebulone tenella infantium viscera dissecare, humanasq; hostias mactare didicit. Dominante ista fluctuatione submersi sunt Cornelius Romae in Italia Episcopus, & Cyprianus Carthaginensis in Africa, duo splen-</i>",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "marginalia": [
+    {
+     "side": "right",
+     "at": "XXII. Sexta ab",
+     "line_from": 2,
+     "line_to": 2,
+     "text": "An Dom. CCXXXVI."
+    },
+    {
+     "side": "right",
+     "at": "XXIII. Septima fuit",
+     "line_from": 3,
+     "line_to": 3,
+     "text": "An Dom. CCLI."
+    },
+    {
+     "side": "right",
+     "at": "XXV. Octava persecutio",
+     "line_from": 5,
+     "line_to": 5,
+     "text": "An Dom. CCLXXII."
+    }
+   ],
+   "signature": "B",
+   "notes": "Greek word in XXIV (\"ἀξιομνημονεύτως\") is uncertain in its accents; marked [?]. \"pos-set\" is a reading of a hyphenated line break at \"perdere pof- fet\", where long s is read as s. \"splen-\" continues on the next page. Marginal notes read \"An Dom. CCXXXVI.\", \"An Dom. CCLI.\" and \"An Dom. CCLXXII.\" (the last two as printed, with the year in Roman numerals). No page number or running head is printed."
+  },
+  {
+   "n": 11,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "didissima Ecclesiae luminaria, quo tempore inauditum antea & horri-ficum excoriationis supplicium contra fideles usurpari coepit, si forte hoc modo à fide Christianâ ad Ethnicam abduci possent. Id vero nequissimi persecutores inusitatis illis immanitatibus obtinere quum non valerent, insidiosis voluptatum illecebris innocentiam Christia-norum foedare, sicque ad lapsum eos impellere sunt nixi, formosas illis mulieres offerentes, quae ad improbam libidinem eos inflamma-rent. Refert Hieronymus, quemdam hujus temporis martyrem lingu-am sibi dentibus abscidisse, eamq; in faciem ejusmodi mulieris exspu-isse, ut ab ea liberaretur.",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "XXVI. Nona ab Imp. AVRELIANO indicta, sed morte ejus interrupta fuit: unde inter decem persequutiones à quibusdam non numeratur.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "XXVII.Decima sub Impp. DIOCLETIANO & MAXI-MIANO excitata praecedentibus & diuturnior fuit & crudelior. Nam anno Imperii Diocletiani decimo nono, mense Martio, instante festo dominicae passionis, oratoria Christianorum solo aequari, sacra Biblia cremari, & qui publicis fungebantur honoribus deponi, privati vero libertate orbari publico edicto jubebantur. Non multo post alio edicto mandatum, ut Ecclesiarum pastores in vincula tra-derentur, & omnibus adhibitis machinis ad sacrificandum idolis adi-gerentur. Magnis igitur agminibus omnes Christiani cum summi, tum infimi, ad idolorum templa, eorumque sacrificia raptati, & qui cultui illic vacare recusabant, verberibus & gladiis caesi sunt. Tandem edicta de tollendis Christianis ita exasperabantur, ut uno mense martyrum millia septendecim, exceptis exulibus, miserandum in modum trucidata sint. Unus Riciomarus[?], Diocletiani dux, tantam vim sanguinis Christianorum profudit, ut Mosella, undosus Germaniae fluvius, ad sex milliaria martyrum cruore tinctus rubue-rit, & putei complures cadaveribus eorum Coloniae Agrippinae re-pleti fuerint. Tyri in Palaestina, Thebaide in Aegypto, Nicomediae in Bithynia, in Syria, Arabia, Cappadocia, Mesopotamia, Ponto, & alibi ubique gentium & locorum, omnes carceres, omnia loca pub-lica civitatum plena erant Christianis captivis, qui vel belluis obje-cti[?], vel duabus inflexis arboribus utrinque pedibus alligati, ut iis de-inde in altum redeuntibus dilacerarentur, fuerunt. Portentosa alia",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "marginalia": [
+    {
+     "side": "left",
+     "at": "XXVI. Nona ab",
+     "line_from": 2,
+     "line_to": 2,
+     "text": "An. Dom. CCLXXV"
+    },
+    {
+     "side": "left",
+     "at": "XXVII.Decima sub Impp.",
+     "line_from": 3,
+     "line_to": 3,
+     "text": "An Dom. CCCIII."
+    }
+   ],
+   "notes": "Fragment at the top: the first word \"didissima\" is cut at the left edge and may be incomplete. \"Riciomarus\" is hard to read at the print and is marked [?]. \"obje-cti\" is marked [?] because the last letters at the line end are hard to make out. The catchword \"tormenta\" is at the lower right below the last line. The small dark marks at the left edge and the brown spot near \"sanguinis\" are stains, not text."
+  },
+  {
+   "n": 12,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "<i>tormenta ac supplicia, quæ Eusebius nono & decimo capitib. octavi libri commemorat, brevitatis causa omitto.</i>",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "<i>XXVIII. In Phrygia quadam urbe, Christiani omnis ordinis, sexus & ætatis, Imperatoris exercitu cincti, succensi & vivi combusti sunt, ut ne unus evaserit. Alexandriæ Dorothea virgo nobilis atque modestia inclyta, & aliæ virgines morum castimonia clara, quæ libidini persequutorum non acquiescebant, excruciata & cæsæ fuerunt. Romæ nobilis matrona Sophronia, conjux præfecti urbi, manu suâ mori maluit, quàm ab impuro Tyranno violari. Quid istâ spuman-te lanienâ acciderit Sylvano Tyrio, Petro Alexandrino, Luciano Antiocheno atque aliis viris clarissimis & de Ecclesiâ optimè me-ritis, nemini non notum.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "<i>XXIX. Eximia historia de Thebæa legione, à Thebis Ægypti urbe sic dictâ, legitur in veteri quodam Martyrologio, Petro de Natalibus, Vincentio & aliis, digna quæ huic loco inseratur: Evocatus à Maximiano ex Orientis partibus venit dux Mauritius cum eâ legione, ut ingenti exercitu, quem undiquaque conscripserat, Bagandas Imperio rebelles opprimeret Maximianus: qui Christianos propterea rebelles judicabat, quòd fidem Christi abjicere, & idolis immolare recusarent, atque in hos facilius in Occidente, quàm in Oriente sævire se posse existimabat. Erant autem in hac legione viri in rebus bellicis strenui, virtute nobiles, sed fide nobiliores, ut qui Christiana religionis ritum ab Hierosolymitana urbis Episcopo susceperant. Hi exercitum Imperatoris per Alpes in Galliam usque sequuti sunt. Castra autem Cæsar constituit non procul ab Octoduro, quod oppidum in Valesia situm LX. fere millib. passuum à Genevesi urbe distat: ibiq; dæmonibus suis Maximianus sacrum instituit, convocavitque omnes ad id tum Orientis, tum Occidentis milites, seriò mandans per Deorum aras jurarent, pugnare velle se & adversus Bagandas rebelles, & Christianos Diis Imperatoris inimicos persequi. Nuntiatur Imperatoris mandatum Thebanorum quoq; exercitui, qui ad Rhodanum amnem, in loco, quem Agaunum dixere, consederat: sed Octoduro accedere non vult: & secum singuli certò constituunt, animósque obfirmant, eo loci exstingui se, quàm aut Diis sacrificare, aut contra Christianos arma sumere, malle. Quod & animo intrepido Maximiano accersenti eos, sacramenti militaris nomine & religio-</i>",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "signature": "B 2",
+   "notes": "The whole page is set in italic type, so each paragraph is wrapped in italics. The \"XXVIII.\" and \"XXIX.\" openings are printed as paragraph starts followed by text, so they are not headings. The bottom \"B 2\" is read as a gathering signature (B, leaf 2). No page number is printed at the head or foot, so none is given. No running head or catchword is printed. The page ends mid-word-group with \"religio-\", which continues on the next page. Words are copied as printed, including \"Diis\", \"Octoduro\", \"Genevesi\" and \"dæmonibus\". Some letters at the line ends are slightly blurred but readable."
+  },
+  {
+   "n": 13,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: nobis"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "ne respondent: hoc insuper addentes, misisse quidem Thebæos ad Imp-eleciam militum legionem, verum cum hoc mandato, ut in bellis justis Imperatorem juvarent, contra Christianos nequaquam arma moverent, sed seipsos potius defenderent contra injustam violentiam. Ibi tum ira percitus Tyrannus decimum quemq; ejus legionis gladio caedi jussit: cui illi certatim ingenti cum laetitia cervices suas objecere. Addidit hoc ipsum factum magnum & animi & fidei robur Mauritio, qui milites confestim gravissima concione ad constantiam & fortitudinem exhortatus est. Qui rursus accersiti Imperatori responderejusserunt, Suscepisse se arma pro Reip. defensione, non contra Christianos: quod ad sacra vero Idolorum attineret, vitam eripi sibi potí-ùs commissuros, quam Deum se pernegaturos, aut daemonum sacrificiis religionem suam contaminaturos. Iubet igitur ad supplicium postulari Tyrannus iterum decimum quemq;, & caeteros nihilominus ad haec, quae spreverant, compelli. Quibus mandatis denuò in castra perlatis, segregatus est atque percussus qui decimus forte obvenerat: reliqua vero se se militum multitudo mutuo sermone instigabat, ut in tam praeclaro opere perfisterent. Maximiano igitur insania adhuc æstuanti hujusmodi mandata mittunt: Milites sumus, Imperator, tui, sed non tam servi, quam liberi, confitemur Deum: tibi militiam debemus, illi innocentiam: à te stipendium laboris accipimus, ab illo exordium sumsimus. Sequi Imperatorem in hoc nequaquam possumus, ut authorem negemus Deum, utique authorem nostrum, Dominum velis nolis & tuum. Sed non in tam funestam rem compellimur, ut in hoc eum offendamus: tibi, ut fecimus hactenus, adhuc parebimus; sin aliter, illi parebimus potius, quam tibi. Offerimus in quemlibet hostem manus, <i>quas</i> sanguine innocentum cruentare nefas dicimus. <i>Dextræ istæ pugnare</i> adversus impios atque inimicos sciunt, laniare pios & cives nesciunt. Meminimus nos pro civibus potius, quam adversus cives arma sumsisse. Pugnavimus semper pro iustitia, pro pietate, pro innocentum salute. <i>Haec</i> fuerunt hactenus nobis pretia periculorum. Pugnavimus pro fide: quam quo pacto conservamus tibi, si hanc Deo nostro non exhibemus? Iuravimus primum in sacramenta divina; iuravimus deinde in sacramenta regia. Nihil",
+     "heading": 0
+    }
+   ],
+   "catchword": "nobis",
+   "notes": "Catchword: \"nobis\" printed at the foot right; \"Nihil\" stands at the right end of the last line. Some italic/roman distinctions in the scan are uncertain (e.g. \"Quibus\", \"Iuravimus\"). \"Dextræ istæ\" may be partly roman. Long s is transcribed as s throughout. Scan is slanted; a few words at the top-left edge are faint. No page number, running head or signature is printed. The left edge of the page carries paper damage, but no text is lost."
+  },
+  {
+   "n": 14,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "nobis de secundis credas necesse est, si prima perrumpimus. Christianos ad poenam per nos requiri iubes, jam tibi ex hoc alii requirendi non sunt. Habes hic nos confitentes Deum Patrem & Filium eius Iesum Christum, & Spiritu sanctum credimus. Vidimus laborum nostrorum socios, nobis quoque eorum sanguine aspersis, trucidari ferro, & tamen sanctissimorum commilitonum mortes & fratrum funera non flevimus, non doluimus, sed potius laudavimus, & gaudio prosequuti sumus, quia digni habiti essent pati pro Domino Deo eorum. Non nos vero haec ultima necessitas cogit: non nos adversum te, <i>Imperator</i>, armavit ipsa, quae fortissima est in periculis, desperatio. Tenemus <i>ecce</i> arma, & non resistimus tibi, quia mori, quam occidere malumus, & innocentes interire, quam noxii vivere praeponimus, si quid in nos ultra statueris, si quid adhuc iusseris, si quid admoveris, ignes, tormenta, ferrum, subire parati sumus. Christianos nos confitemur: persequi Christianos non possumus. <i>Quum haec Maximianus audivisset, obstinatosque in fide Christi cerneret animos Thebaeorum, desperans gloriosam eorum constantiam posse revocari, omni bellua cruentior, iterum ad ingenii sui saevitiam rediit, atq; una sententia interfici omnes decernit. Immisit igitur in Legione exercitu suum omnem, tam pedestrem, quam equestrem, ac cinctam undiquaq;[?] jugulari praecepit. Caedebantur itaque passim gladiis non reclamantes, sed & depositis armis cervices persequutoribus, & intectum corpus offerentes, non vel ipsa suorum multitudine, non armorum motione elati sunt, ut ferro conarentur afferre injustitiae causam, sed haec solum reminiscentes, se illum confiteri, qui nec reclamando ad occisionem ductus est, & tanquam agnus non aperuit os suum, ipsi quoque tanquam grex dominicarum ovium, laniari se, tanquam ab irruentibus lupis, passi sunt. Neque ulla unquam rabies tantam humanorum corporum stragem dedit.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "XXX. <i>Quid illa ipsa tempestate acciderit</i> Felici & Regulae, <i>fratribus germanis, et</i> Exsuperatio, <i>inconcussae fidei heroibus, neminem, vel mediocriter in annalibus nostratibus versatum, latet. Etsi enim illi è lanienâ modo commemorata evasere, unâ cum</i> Victore <i>et</i> Vrso <i>qui Soloduri postmodum capitis supplicium sunt passi: tamen à Decio,</i>",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "signature": "B 3",
+   "notes": "Uncertain: \"undiquaq;\" (the abbreviation is hard to read in the scan). The italic/roman boundaries in the final paragraph are approximate. The last line is cut off by the foot of the page and continues on the next page. No catchword is printed."
+  },
+  {
+   "n": 15,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "præside Rom. in arce Tigurina habitante, tandem gladio interemti sunt: in quam urbem, superatis Lepontiis alpib. per agrum Glaronen-sem secundo lacu pervenère, circa annum Domini CCXCV. ubi incolis urbis, tum Ethnicis & Idololatris, veram religionem integrum decennium purè fideliterq; prædicârunt, quæ fides sanctorum martyrum inde à mille trecentis viginti septem annis, ab ipsis tradita, et sanguine eorum obsignata, in ecclesia Tig. singulari beneficio, etiam num hodie salva integraq; retinetur ac docetur.",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "XXXI. His atq; aliis sævis persequutionib. Ecclesia Dei ab Impp. & Tyrannis Rom. tribus circiter seculis horrendum in modum afflictata fuit, usq; ad tempora Imp. Constantini M. qui decimo Imperii sui anno turbatæ Ecclesiæ halcyonia quadam dedit: donec Imp. Julianus apostata, & Imp. Valens, camerinâ denuo moventes, armis & sophisticationib. suis, novas strages fecerunt. Nam præter plurima crudelitatis ipsorum exempla, quæ plenius in Hist.trip. apud Ruffinum, Theodoretum, Sozomenum & alios videre liceat, illo etiam tum ævo multi insignes Christi servi palmam martyrii consequuti sunt: in quo nobili grege celebrantur Gregorius Alexandrinus, Eusebius, Nectarius, Zenon, Basilius, Ancyranus, Cyrillus Hierolymitanus, etc. Aegypti urbe complures honestæ virgines nudæ in theatrum productæ, deinde dissectæ, & avenâ ac hordeo repletæ porcis ad laniandum objectæ fuerunt.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "XXXII. Persequutiones, quas Ecclesiæ Dei intentârunt Impp. Romani, sequutæ sunt PONTIFICVM ROMANORVM: quib. aliquot retrò seculis, auxilio Regum & Principum, Ecclesiam infestârunt. Harum fuere perplures. In præcipuis numerantur illæ in Petrum Valdum, Iohannem Viclefum, Iohannem Huffum, Hieronymum Pragensem, Hieronymam Savanorolam & pios eorum assectas, in flammatæ atq; exercitatæ ab anno MCLXX. usq; ad annum MDXXX. a quo tempore, postquam salvifica Evangelii lux ex profundo tenebrarum fundo emersit, innumeræ ad hanc diem persequutiones accidere.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "XXXIII. Notæ sunt in orthodoxos Gallos exercitatæ diversis locis: nominatim Meti, Meldæ, apud Lingones & Cadurcos, Andegavi, Ambasiæ, Vassij, Carcassone, Velaunoduri, Augustonemeti, Castroduni, Divione, Blæsis, Torusij, Pictavij, Rotomagi: ubi clarissimus vir, Augustinus Marloratus, ante Mariæ templum suspensus truncatus, & caput ejus supra pontem palo affixum fuit.",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "notes": "\"Hieronymum\" before \"Savanorolam\" is struck through in the print; transcribed as printed, the strike is not shown. A small reference mark (\"3\") stands at the right edge beside \"suspensus\", with no matching note. Printing error preserved: \"Hieronymam\" for Hieronymum Savonarolam's name spelling as printed. \"Lepontiis\" read with some uncertainty."
+  },
+  {
+   "n": 16,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "XXXIIII. Notæ sunt etiam Merindoliana & Cabrariensis in Provincia; quæ accidit anno MDXLIII. & V. Araufiensis; quæ anno MDLXII. Parisina, Trojana, Aureliana, Bituricensis, Tolosana, & Burdegalensis; quæ accidere anno MDLXXII. infausti illâ Sambartolomaei die, & seqq. in quibus locis sancti Martyres alii suspensi, alii exusti, alii lapidibus obruti, alii præcipites dati, alii submersi, nonnulli exsecti, dissecti, confossi, suffossi, cæsi, concîsi, atque aliis immanissimis supplicis mactati fuerunt.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "XXXV. Silentio hîc prætereiri non debet illa in Araufienses postissimum exercitata crudelitas: quam augustissimus huius ævi historicus Augustus Thuanus his verbis elegantibus, sed patheticis describit, quum inquit: Victor hostis nullo non immanitatis genere in eos, qui in urbe remanserant, sævit. Nam qui primum impetum effugêre, alii lentis ac minutis pugionum ictibus, sic, ut se mori sentirent, occisi: alii supra contos, sarissas ac strictos enses præcipitati: alii ad cremisterum [?] paxillos appensi & combusti: alii deniq; exsecti, nec decrepitis senibus mutilatis, & in lecto per valetudinaria decumbentibus ægris miserúq;, messoribus, subitâ obsessione in urbe oppressis, quibus nulla præter falces arma, parcitum: pleræq; fœminæ interfectæ: aliæ ad fenestras & porticus suspensæ, & avulsis ex earum amplexibus parvulis infantibus, scloppetorum ictibus confossæ: multæ virgines per vim corruptæ: pueri multi item rapti, & ad nefandam libidinem stiandam in miseram captivitatem; ex qua nonnisi diu post redierunt, abductî. Auxerunt crudelitatem contumeliosa spectacula pro ductis mulierum cadaveribus, & in earum pudenda boum cornibus & saxis ac stipitibus ad ludibrium injectis. Virorum item interfectorum plagæ foliis sacrorum librorum farctæ, qui ut vernaculâ lingua scripti ab illi discerpti passim jacebant. Nec adversa factio, quæ hosti ad oppidum capiendum, prodita concivium salute, viam straverat, furorem evasit: nam quum se in platea armati cum uxoribus ac pueris conglobâssen, hostes eos ad defensionem se parare rati, irruunt; & ad unum omnes [?] rucidant: nec proinde illi civium suorū exitio diu lætati sunt. Inde d[?]arcem itum, cujus præsidiarij vita pasti, ad unum omnes, qui CIX. [?]umerati sunt, aut præcipitati, aut gladio deleti sunt, exundate passim per urbe cruore: post cædeis in domos incendiis sævitū, publicæ ædes srpetibus flammis, etiâ Episcopi palatiû absumptû est, & CCC. privatorum domus, in isq; plæriq;, qui latebant, præfocati: vixq; exora-",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "notes": "Several words in the second paragraph are blurred or broken by the scan and are marked [?]: \"cremisterum\" (probably cœmeterium), \"omnes rucidant\" (probably \"trucidant\"), \"d[?]arcem\" (probably \"ad arcem\"), \"[?]umerati\" (probably \"numerati\"). The line \"exora-\" ends the page; the hyphen is printed and the word continues on the next page. Printed forms such as \"Sambartolomaei\", \"exsecti\", \"mactati\" and \"supplicis\" are copied as they appear in the scan. The first paragraph begins at the top of the page and is not a continuation."
+  },
+  {
+   "n": 17,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "tis post ingentia tonitrua insolitis imbribus incendium restingui potuit; qua commoditate usi plerique, qui a strage superabant per noctem aufugiunt, & ad socios, qui Seriniani substiterant, se conferunt: tum direptae ae-des, quibus ignis pepercerat, ac postridie moenia, Serbelloni jussu, a fundamentis eversa. Haec Thuanus: ex quibus, tanquam ex ungue leonem, persequutorum Evangelii efferatum animum, & plus quàm Phalaricum cognoscere nobis liceat.",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "XXXVI. Quantam heu! barbariè in Parisinâ laniena unius Co-linius, Galliae admiralius, expertus sit, horrendum est dictu. Quùm fortis ille Heros in cubili suo gladio interemtus è fenestrâ praecipitatus esset cadaver ejus miris modis injuriosè foedatum, in stabulum proximum abjectum, & postremò capite, quod Romam usque perlatum, velut Ecclesiae ejus trophaeum, pudendis item & manibus ac pedibus trun-catis, per vicos ad Sequanae ripam tractum fuit: ubi aliquot dies spe-ctantium libidini, multorum etiam justa indignatione, qui rabiem illam Regi & Galliae in posterum magno constituram augurabantur, prostabat. Multas myriades trucidatorum aliorum sileo: è quorum id temporis pretioso sanguine valida Galliae flumina, Rhodanus, Se-quana, Ligeris, Garumna, hinc inde rubebant.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "XXXVII. Quàm miserabilis strages fidelium etiam extra Galliam, iisdem annis, maximè ab anno MDXLII. quo Tri-dentinum Concilium à Pontifice Rom. ad KL. Novemb. indictum fuerat, sit edita: testantur martyrologia ecclesiarum Anglicarum, Bel-gicarum, Hispanicarum praesertim Hispalensis, Italicarum praesertim regni Neapolitani, Pedemontanarum praesertim Saluziensis, Lotha-ringicarum et Germanicarum Smalcadici praesertim belli tempore: in quibus utriusque sexus homines, regio orti stemmate, doctrinâ, virtute & dignitate praestantes, & in unâ quidem Angliâ uno biennio supra octingentos, occubuêre: interq; alios Iohanna Graja Angliae haeres, Thomas Cranmerus Angliae Archiepiscopus & primas, Iohannes Hopperus Episcopus Glocestriae, Nicolaus Ridleus Episcopus Londini, Hugo Latimerus Episcopus Vorcestriae, Iohannes Aegidius, Constantius Fontius canonici et doctores Hispalenses, Iohannes Diazius, Ludoicus Pascalis, & alii principes viri: in quibus Martinus Bucerus, & Paulus Fagius, in Angliâ Professores, ante quadriennium mortui, effosi combustiq; sunt.",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "catchword": "fum[?]",
+   "notes": "The right edge of the scan cuts off the ends of the lines, so the last letters of the right-hand lines are not visible; hyphenated line-ends are marked as printed. The catchword at the lower right is cut off and read as \"fum\" with doubt. The reading \"combustiq;\" in the last line is doubtful. A strip of another page is visible at the top right, not transcribed. The top of the page carries no running head."
+  },
+  {
+   "n": 18,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "merged_lines",
+     "text": "2 line(s) contain several printed lines merged together (longest 886 chars, median 284); line numbering is unreliable"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "XXXVIII. Referunt non sine miseratione annales Belgici, furiatum tyrannum, Albæ Ducem, plane exutâ fronte gloriari au-sum, se tẽpore administrationis suæ Belgicæ octodecim millia Evan-gelicorum carnificis manu necanda procurasse: facinore inaudito, quodq; solum probavit qui commisit.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "XXXIX. Persequutiones, quas Ecclesiæ non tantùm in Carinthiâ, Styriâ & Austriâ, sed etiam in Bohemiâ, Moraviâ, Silesiâ, Lusatiâ, Ungariâ, & locis aliis vicinis, Palatinatu item superiore & inferiore, his ultimis annis passæ sunt, nemo enarret, nisi",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "Cui linguæ centum sint oráque centum.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "Fumant adhuc urbes eversæ: oppida, arces, monasteria acervus sepulta jacent: pagi viduati colonis laceri sunt aut exusti: agri squalent inarati atque frequentibus populatibus horrent: ne sylvis quidem melius est, ut quæ tædiu [?] manent aut in frondes: nusquam culturæ honos, ne mentio quidem ulla aut memoria: mœstos locos & solitudini relictos infelices insident aves, quib. non aliunde pabulū, quàm exstrage corporum, partim ferro, partim frigore interemtorum: ossa, quæ omnis semper Religio contexit, quæ pietas non sustinet videre, dissipantur, confringuntur, proteruntur. Eccui ferae, obsecro, sua feritas tam pertinax, sua saevitia tam inexplebilis, ut suis vulneribus delectetur? ut propriis manibus hæc laxet & laceret? At enim Religionis orthodoxæ persequutorum saevitia irrorata cruore humano, prodigiosa ista crimina progignit, quorum nec dum prob dolor! est finis.",
+     "heading": 0,
+     "para": true,
+     "merged": true
+    },
+    {
+     "n": 5,
+     "text": "XL. Nemini quin etiam ignota est atrox laniena, quæ in nobili Rætorum provincia Valtelinâ plane barbarum in modum, circa sesqui modo annū exercitata fuit: in qua Evangelii professores omnis ætatis, sexūs & conditionis, nullo aut fidei datæ, aut locorum sacrorū, ubi precibus operam dabant, respectu, à Pontificiis incolis, etiam ipsis met propinquis ac fratribus, magno numero, partim ferro, plumbo, igne, aquis & lapidibus, ut oviculæ à laniis, mactati, trajecti, exusti, suffocati & collisi, partim triste in exilium, asperas per alpes, pulsi dissipatiq; sunt: lamentabili ad modum spectaculo, quum per avia senes pueris mixti incedere, & mulieres in cunis inter brachia, in sinu denique infantes ejulantes gestare, ædes etiam dirui, & ossa multorum humo effossa inflammari conspiceretur, et ne quidē summis Magistratibus parceretur, tantâ perduellione, & tantâ saevitiâ, quantam sera",
+     "heading": 0,
+     "para": true,
+     "merged": true
+    }
+   ],
+   "signature": "C",
+   "notes": "No page number, running head or catchword is printed. The gathering signature \"C\" stands at the foot. Doubtful readings are marked with [?]: \"tædiu\" (final letters) and \"tẽpore\", with its tilde. The line-end \"quantam sera\" is left unfinished, as printed. Printed paragraphs are kept as they stand, with the numbered openings XXXVIII, XXXIX and XL written as paragraphs, not headings, because they are numbered sections of running text."
+  },
+  {
+   "n": 19,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "posteritas haud credet, aut si credat, plenùs deflebit lacrymis, detestabi-tur & abominabitur.",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "XLI. Quid Ratis ipsis, Valtelinae dominus, perpaucos ante menses acciderit, hodieq; accidat: notius est, quàm ut longâ commemoratione indigeat. Hic victor hostis cùm in alios innocuos homines, qui domi remanserant, tum verò atque imprimis in aliquos verbi ministros nullo non crudelitatis genere est usus, ut partim spoliatis, partim in vincula detrusis, partim denique arduos per montes fugatis dissipatis, et penè nū[?] frigore famèq; enectis, postquam templa hinc inde, cathedras & subsellia eorum vastavit, diruit, conspurcavit, idololatrico cultu in illa ocyus introducto.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "XLII. Veterib. illus et recentib. persequutionibus annumerari debet Gallica hodierna, quae etiamnum durat: in qua orthodoxi Galli pluribus locis, per totum regnum, nominatim in Bearnensi provinciâ, Aquitaniâ, Pictaviâ, & alibi, coacervato undiq; ex omni loco et ordine, experientissimo milite regio, graves conflictationes ab ultimo biennio sustinuere: quib. alii oppressi, sub Antichristi jugo imos singultus ducunt: nonnulli veluti Montalbanenses, Rupellenses, & alii, Deo pro ipsis è coelo pugnante, hactenus superiores sunt facti, ingenti ipsorum solatio & gaudio: persequutorum verò indelebili nævo, & ineffabili clade: quippe horum quinquaginta circiter Principes, Mareschalli, Duces, Barones, & mille ac quingenti è primariâ nobilitate, et vicies circiter mille capitanei & gregarii milites partim ferro, partim lue absumti sunt: admirando & miraculoso exemplo auxilii Dei; qui etiamnum hodie populo suo, recti conscio, & precum memori, & manu animoq; forti, Gedeones suos ostendit, quibus auxiliantibus hostem feriant, & se suamq; religionem defendant, ut nosse discant, à Dei solius dextrâ victoriam stare & impetrari.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "XLIII. Memorabilis hîc est beati Martyris Danielis Chamierii virtus, cujus operâ grande Bellarmini opus totum prostratum, mox luci commissum videbimus. Is durante Montalbanensis civitatis, cujus id temporis pastor erat, obsidione, magnos spiritus nō hortãdo tantùm gessit, sed pugnãdo etiã inter certãtes cùm viros, tum mulieres (quae et ipsae hîc amplam laudem retulerunt) concitavit, adurbis moenia, ferreos inter imbres, stans intrepidus, licet elucente tormentis flam-mâ coelum ac solum mugire audiret: licet moenia ipsa iteratos",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "catchword": "pex[?]",
+   "notes": "Doubtful readings: \"nū[?]\" (line 'penè nũ', tilde over u, probably nudo); \"hortãdo\" and \"hortâdo\" read with a tilde over a, probably hortando; \"adurbis\" printed joined, possibly \"ad urbis\"; \"hodieq;\" with superscript mark; \"Mareschalli\" printed as \"Marefchalli\" with long-s form, normalized to s; \"pex[?]\" is the catchword at the lower right, only partly legible. The text ends mid-sentence and continues on the next page. No printing errors were corrected."
+  },
+  {
+   "n": 20,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "merged_lines",
+     "text": "1 line(s) contain several printed lines merged together (longest 1020 chars, median 277); line numbering is unreliable"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "per bombos tenuati, milites conscendere, & pedes inferre, tubis tym-panisque omnia perstrepere, pugnantes clamare, morientes fremere videret: donec ipse pro lege & grege, pro aris & focis, tormenti majo-rus illatus, fortiter occubuit, triumphalis martyrii coronam con-sequutus.",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "XLIV. CAETERUM has atq; alias graves persequutiones cur Deus Ecclesiæ Christianæ, charissimæ sponsæ suæ, quæ pupilla oculi ipsius est, immiserit, non injuria piæ mentes quærere solet. Hic causæ cur id faciat, sunt perplures ac graves; & præcipuæ quidem istæ:",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "XLV. Prima: quia Deus vult ejusmodi persequutionib. declara-re gloriam, potentiam ac majestatem suam: quòd nempe ceu fidelis noster conditor & possit & velit in medio persequutionum æstu nos tueri servare ac liberare. Et quanquam non semper tuta præstat corpora, sed illa sæpe à Tyrannis affligi atq; occidi sinit: tamen semper confirmat fidelium suorum animos, ut intrepidè ac fortiter cruciatus corporis perferant ac vincant. quod non tantùm veteris ævi historia Esdræ, Estheræ, Danielis, Macchabæorum & aliorum, sed etiam ævi posterioris & hodierna clarissimè testatur: ex qua divinas ejusmodi et miraculosas conservationes omninò plures accidisse constat. Hoc Paulus docet, quum inquit, Fidelis autem est Deus, qui non sinet vos tentari supra id, quod potestis, sed unà cum tentatione præstabit etiam exitum, ut possitis sufferre, 1. Cor. 10,13, Item, In omnibus premimur, at non coarctamur: hæsitamus, at nō prorsus hæremus: persequutionem patimur, sed in eā non deserimur: deiicimur, at non perimus, 2. Cor. 4,8.9.",
+     "heading": 0,
+     "para": true,
+     "merged": true
+    },
+    {
+     "n": 4,
+     "text": "XLVI. Altera: quia Deo visum est persequutionibus patefacere hominib. veritatem verbi sui. Fit enim, ut fideles in vincula detrusi, capti atq; in judicia pertracti illam aperte ac liberè cõfiteantur: ut pro ara & puppim salutis suæ faciant unicum & perfectissimū meritum DN.N.I.CHRISTI, post habitis meritis, satisfactionib. et operib. humanis, sacrificio Missæ, religioso imaginum cultu, peregrinationi-bus ad imagines, intercessionib. Sanctorum, igne purgatorio, & aliis cerebri humani putidis commentis & superstitionib. vanis ac impiis infinitis: quibus hodie in Papatu magnâ religione ad placandum Deum, & promerendum peccatorum veniam vacatur.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "XLVII. Tertia: quia Deo placet justo judicio, sed tamē paterno fideles suos ob peccata, quib. ipsi quoq; sunt obnoxii, punire et castigare, sicq;",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "marginalia": [
+    {
+     "side": "right",
+     "at": "CAETERUM has atq;",
+     "line_from": 2,
+     "line_to": 2,
+     "text": "II. Causæ, cur Deus per-sequutio-nes immit-tat."
+    }
+   ],
+   "signature": "C 2",
+   "notes": "Left margin: no text. Right margin: \"II.\" with \"Causæ, cur Deus per-sequutiones immit-tat.\" (five lines), transcribed as one note at the start of paragraph XLIV. Doubtful readings: \"per\" at the start of the first line [?] not marked, \"tubis\" [?] not marked, \"illatus\" [?] not marked, \"ara\" in \"ut pro ara & puppim\" (printed as \"ram\", read as \"ara\") and \"fideles\" (word at line end, hyphen not clear) are doubtful; \"tamē\" as printed. The printed \"1o\" in \"10,13\" is read as 10. No page number, running head or catchword printed. The text ends mid-sentence at the foot of the page (\"sicq;\"), continuing on the next page."
+  },
+  {
+   "n": 21,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: in"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "<i>ad resipiscentiā</i> eos vocare. <i>Hac de causā Deus Iudæos Babylonių, Chaldæis aliisq; tyrannis affligendos quondam permisit: & hinc beatus martyr Cyprianus testatur, causam persequutionis sui temporis fuisse fidelium vitam dissolutiorem. Similem indicat Eusebius, persequutionem sub Diocletiano describens: innuens, emolumento fidelium fieri, si ipsi persequutionum mole premantur. quod Paulus pariter docet, quum inquit, Sed quum judicamur, à Domino castigamur, ne cum Mundo condemnemur, 1. Cor. 11.32.</i>",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "XLVIII. Quarta: quia Deus persequutionib. vult probare fidem nostram, et experiri, an illa sit sincera, firma & constans: sicut aurifices aurum & argentum probant & purgant igne. Huc respicit Petrus, inquiens, Charissimi, ne tanquam hospites, exploratione illa per ignem, quæ fit in nobis ad vestri experimentum, percellimini, ut si peregrinum aliquid vobis accideret. Imò ineo, quod consortes estis afflictionum Christi gaudete, ut & quum patefiet ejus gloria, gaudeatis exultantes: <i>puta Apostolorum ipsorum met exemplo, qui persequutionem passi à primoribus Hierosolymitanis, abierunt gaudentes, quod digni habiti essent, qui pro nomine Iesu contumeliā afficerentur, 1. Pet. 4, 12, 13. Actor. 5, 21.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "XLIX. Quinta: quia Deus persequutionibus, quibus exercet fideles, significare vult, quid exspectandum sit infidelibus, nempe longe gravius & truculentius judicium: idque non in hac tantum vita, sed etiam post eam in exitio æterno. Etenim si in virenti ligno ista accidūt, in arido quid fiet? <i>inquit Dominus.</i> Et eodē illo loco Petrus, Tempus est, ut incipiat judicium à domo Dei: quòd si primum incipit à nobis, quis erit finis eorum, qui non parent Evangelio? Et si justus vix servatur: impius & peccator ubi comparabit? <i>Confer quæ Daniel scribit de severo judicio exercendo à Deo in bestias, hoc est, persequutores Ecclesiæ, cap. 7. v. 9. & seqq.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "L. Alias rationes brevitatis causā omittimus. Ut vero persequutiones æquo animo ferant homines fideles: & jam commemorata cautiones, & subsequentes, stimulo magno eis esse possunt ac debent.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "LI. Etenim quotquot persequutiones ob confessionem Evangelii patiuntur, certò norunt, se consortes fieri persequutionum Christi, Servatoris sui: ut qui eadem de causā captus, casus, acerbissimis contumeliis[?] exceptus, ludibrio habitus, flagris cruentatus, spinis coronatus,",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "marginalia": [
+    {
+     "side": "left",
+     "at": "Ut vero persequutiones",
+     "line_from": 4,
+     "line_to": 4,
+     "text": "III. Causæ, cur persequutiones æquo animo sint tolerandæ."
+    }
+   ],
+   "catchword": "in",
+   "notes": "The first word of the page is a fragment continuing from the previous page. \"Babylonių\" is uncertain (possibly Babyloniis). \"contumeliis\" is read from a hyphenated line end and the following word is uncertain. The left-margin note is printed in narrow type and runs beside the lower paragraphs. Long s is normalised to s throughout."
+  },
+  {
+   "n": 22,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "in crucem actus, vulneribus concisus & occisus fuit. Perhonorificum autem est, conformari capiti, magistro ac domino suo. Hoc argumento Christus ipse Apostolos suos est consolatus, Si mundus vos odit, scitis, me prius, quam vos, illis odio habitum, Iohan.15, 18,19,20.",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "LII. Deinde certi sunt, si constanter tulerint & pertulerint persequutiones atque ita communicaverint cum perpessionib. Christi: ipsos consortes quoque futuros gloriae Christi & gaudiorum caelestium. Idem tradit Paulus, inquiens, Cum eo patimur, ut cum eo etiam glorificemur, Rom.8,17. item, Si toleramus, etiam cum eo regnabimus, 2. Tim.2,11,12.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "LIII. Praterea sciunt, quum patienter ferunt probra Mundi propter nomen Christi: id ipsis cedere in gloriam ac salutem: ut quod iudicio sit, requiescere super ipsos spiritum Dei. Etenim homo carnalis pronus est ad probra non ferendum, sed regerendum. Id non tantum Petrus loco citato ostendit, quum inquit, Si probris afficimini ob nomen Christi, beati estis: quoniam ille gloriae & ille Dei Spiritus super vos requiescit: sed etiam Dominus ipse beatos nos pronunciat, quum propter justitiam convitiis proscindimur, mendaciis obruimur, & injuriis dilaceramur.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "LIV. Persuasi sunt etiam sub crucegementes[?], Deum, tanquam justum judicem, innocentiam suam suo tempore asserturum: quum videlicet puniet persequutores in hac vita, & post eam: juxta gravissimam sententiam Apostoli, Iustum est apud Deum vicissim reddere iis, qui affligunt vos, afflictionem, 2. Thess.1,5.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "LV. Et certè si historias cum veteres, tum recentes pervolvimus: manifestè deprehendimus, persequutores populi Dei plurimùm horrendis poenis è medio sublatos esse.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "LVI. Pharao, rex Aegypti, quo tyrannum truculentiorem Sol non vidit, postquam Hebraeos dirum in modum diu vexâsset, tandem cum potentissimo exercitu suo, in mari rubro miserè periit. Achab, rex Israelis, in bello cōtra Syros telo percussus, & Iezabel uxor ejus è fenestra praeceps data, equo conculcata & canibus dilanianda projecta fuit. Assyriis & Chaldaeis septies Deus rependit, illos faciens tetrum spectaculum Mundi totius. Antiochus, rex Syriae, insanabili percussus plagâ, ex quâ saevus viscerum dolor eum comprehenderat,",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "marginalia": [
+    {
+     "side": "right",
+     "at": "Et certè si",
+     "line_from": 5,
+     "line_to": 5,
+     "text": "IV. Persequutorum horrendæ pœnæ."
+    }
+   ],
+   "signature": "C 3",
+   "notes": "Doubtful readings: \"crucegementes\" (probably crucifigentes) is marked [?]. The long s is printed as f-like in several words and is given as s. \"Praterea\" is copied as printed. The word \"Perhonorificum\" is printed as one word, with no space or hyphen. The marginal note is printed \"horren-\" / \"dæ poenæ\", joined here to \"horrendæ pœnæ\"."
+  },
+  {
+   "n": 23,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "arru gestatorio delapsus, isto casu adeo affectus est, ut vermes ex corpore ipsius scaturirent, & teter putredinis ejus odor toti exercitui gravis esset, sic, ut à nemine amplius gestari posset.",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "LVII. Herodes Magnus paulò post crudele infanticidium saevissimis morbis excarnificatus interiit Hierichunte, agitantibus & inquietantibus illum ultricibus furiis, & divinâ Nemesi ad supplicia raptante. Herodes Antipas novennio post jugulatum Iohannem Baptistam, unâ cum Herodiade pudendum subivit exilium. Herodes Agrippa à vermibus erosus concidit. Pilatus in multas incidens ca-lamitates manu suâ se interfecit Vienna in Gallia, quò in faedum exilium relegatus erat, septennio à morte Domini, quem ipse morti insontem adjudicaverat. Et Iudaeorum infelix natio universa nondum exsatiata fuit caede servorum Dei, quum grave judicium est experta, gladio & fame peremtis undecies centenis millib. & centenis millibus venditis.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "LVIII. Nero sibimet mortem conscivit gladio, qui Christianos gladio persequebatur, quo tempore tricies mille homines peste occubuêre Romae, & atrox civile bellum non multò post plura alia Romanorum millia absorpsit. Domitianus ut exitum suâ in Christianos saevitiâ dignum sortiretur, à propriis suis libertis interfectus est, & absque honore, aut cujusquam mœrore sepultus, imaginibus & statuis ejus à Senatu Rom. ubique abolitis extremo cum decore. Traianus in manibus suis persequutionib. vindic[?]am Dei in Rom. Imperium adeo concitavit, ut Tiberis aquis auctus Romam inundârit totam, inaesti-mabili damno domorum ac bonorum. Aurea domus Neronis subitò tunc conflagravit: Pantheon fulmine tactum & ipsum totum cum idolis est absumtum: terraemotu vehementi id temporis corruêre quatuor in Asiâ urbes, duae insignes in Graciâ, tres in Galatiâ, periitque funditus Antiochia, horribiliter per universum Imperium dominantibus fame & peste. quod et Antonini & Veri temporib. accidisse constat. Valerianus à Sapore, rege Persarum, victus & captus in carcere mansit ad senectam: unde emissus non est nisi quum regi equū conscensuro, pro scabello se substernere cogebatur. Aurelianus à suis confossus occidit. Diocletian[?] jam senex in horribili desperatione veneno hausto necavit semetipse. Maximianus, ejus in affligendis Christianis socius, à Constantino Massiliae obsessus, captus & suspensus est: ac in Ti-",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "catchword": "berim",
+   "notes": "The reading \"vindic[?]am\" and \"Diocletian[?]\" are uncertain: the letters are blurred. The superscript after \"Diocletian\" may be a footnote or reference mark, not part of the name. The numerals LVII. and LVIII. open paragraphs and are set as paragraph openers, not headings. The top line is a continuation of the previous page's text, with its start cut off by the scan edge. The catchword \"berim\" completes the hyphenated word \"Ti-\" at the end of the text."
+  },
+  {
+   "n": 24,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "merged_lines",
+     "text": "1 line(s) contain several printed lines merged together (longest 990 chars, median 277); line numbering is unreliable"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "berim juxta ponte Milvium precipitatus et submersus <i>Maxentius Maximiani filius</i>. Julianus apostata ingente exercitum ducturus in Persas, eo animo, ut illis domitis deinceps Christianos exstirparet, telo, quod nemo vidit unde venerit, in latere percussus interiit, quum sanguinem e vulnere manu accipiens, & in coelum spargens desperabundus dixisset, Νενίχηκας [?] Γαλιλαῖε, Vicisti Galilae, Christum contumeliose intelligens. Valens haeresi Arianorum addictus, & orthodoxorum persequutor acerrimus, in bello contra Gothos, caesus exercitu, telo itidem percussus est, & quum in casam quandam confugisset, ab insequente hoste una cum casa exustus. Phocas, qui Mauritium Imp. cum quinque filiis & Petro fratre occidit, victus in portu Constantinopolitano a Prisco genero suo, Heraciano & Photio, cujus ille uxorem vi construpaverat, quum in regiam confugisset, solio deturbatus, purpura spoliatus est, adq; Heraclium Imp. deductus, qui confestim ei jussit amputari manus, pedes, pudenda & caput, trunco reliquo combusto a militibus in foro, &c.",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "LIX. Exempla integrorum populorum, veluti Vandalorum, Hunnorum, Gothorum, Saracenorum & aliorum, qui & ipsi Ecclesiam Dei dire exagitarunt, sed horrendas omnis generis poenas subivere, in medium afferri possent, sed horum commemoratione, ne nimis longum faciamus, supersedemus.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "LX. Quàm misero funestóque fato aliquot Pontifices Romani, qui posterioribus seculis fidem orthodoxam oppressam voluere, perempti sunt: historiae non sine horribili formidine testantur. Etenim plures illorum morbis antea inauditis oppressi sunt: aliqui mortui a suis inventi subito exspirarunt: quidam pulsi & capti: quidam veneno consumti sunt. Lucius II. a suis lapidibus obrutus: Lucius III. urbe ejectus, familia ejus caesa est: nonnullis oculi sunt eruti: alii conversa facie asinis impositi per urbem contumeliose circumducti. Hadrianus IV. suffocatus obiit. Johannes XXI. fornice subito ruente est oppressus. Johannem XII immanissimum & foedissimum monstrum, civis in adulterio uxoris suae deprehensu occidit. Bonifacium VIII. captivum Romam adduci curavit Philippus Pulcher, rex Gallia-rum: ubi intra dies XXXV. prae moerore exstinctus est: de quo exstat vulgatum, Intravit ut vulpes, regnavit ut leo, mortuus est ut canis. Platina, tanquam epiphonema historiae illius addit, dignum",
+     "heading": 0,
+     "para": true,
+     "merged": true
+    }
+   ],
+   "notes": "The first word \"berim\" is a fragment cut off at the left edge (Tiberim). The Greek \"Νενίχηκας\" is hard to read in the scan; the first word is marked [?]. \"tumeliosè\" and \"dire\" are read from a small scan and may be off. \"misero\" and the accent in \"funestóque\" are faint. \"Maxentius\" is set in larger type within the line. The last line is cut off at the foot of the page and continues on the next page. \"Quàm\" and \"funestóque\" keep their printed accents."
+  },
+  {
+   "n": 25,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "merged_lines",
+     "text": "1 line(s) contain several printed lines merged together (longest 310 chars, median 38); line numbering is unreliable"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "memoriâ: Hoc modo mortuus est Bonifacius ille, qui Imperatoribus, Regibus, Principibus, nationibus & populis, terrorem potiùs, quàm religionem, injicere conabatur: quique dare regna & auferre, pellere homines & reducere pro arbitrio animi conabatur, aurum undique conquisitum plus quàm dici potest sitiens, &c.",
+     "heading": 0,
+     "para": true,
+     "merged": true
+    },
+    {
+     "n": 2,
+     "text": "<i>LXI. Portentosa classis Hispanica, quæ Dei ecclesiam in Angliâ, Scotiâ, Hibernia, Galliâ, Belgio et alibi subjugum Ibericum et leges Romanas coactura, ac quasi vivam absorptura erat, horrendum in Oceano interitum nemo est, qui nesciat. Hæc auspiciis Philippi II. regis Hispaniarum, totum fermè triennium apparata, navium militarium grandium centum quinquaginta, militibus veteranis ex Hispaniâ, Italiâ & aliunde collectis viginti mille, nautis decies mille, tormentis bis mille sexcentis quinquaginta, pyrio pulvere, globis & annonâ ad semestre instructissima, die XXVIII. Maji, ex portu Ulyssibonensi solvens, quum Angliam appetiisset, ab Anglis, Carolo Howardo thalassiarcho, & Francisco Draco prothalassiarcho, KL. Aug. & seqq. diebus, usque ad finem Aug. creberrimis incursionibus & conflictibus, sed maximè Deo è cœlis pugnante, labefactata, victa & profligata est, ingenti prædâ in potestatem serenissimæ Reginæ Elizabethæ redactâ. Digni sunt versus sequentes, qui de classis interitu huic loco inserantur:</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "Straverat innumeris Hispanus navibus æquor,",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "Regnis iuncturus sceptra Britanna suis.",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "Tanti huius rogitas, quæ motus causa: feroces",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "Movit in innocuos Christicolas Rabies.",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "Impulit Ambitio gentem scelerata superbam,",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "Et cupidos orbis vexit Avaritia.",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "Quàm bene in innocuos grassandi efferbuit æstus,",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "Milite Marrano funda petente maris:",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "Quàm bene te, Ambitio mersit vanissima ventus",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "Et tumidos tumidæ vos superastis aquæ:",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "Quàm bene totius raptores orbis avaros",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "Hausit inexhausti iusta vorago salis:",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "<i>LXII. Decennio post anno nempe MDXCVIII. mense Septembri, ipse etiam classis hujusce architectus</i> Philippus <i>interiit, postquâ</i>",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "catchword": "acutiùs",
+   "notes": "The first word of the page reads \"memoriâ\" with a printed mark (\"^\") after it; the mark is uncertain. The line \"Quàm bene in innocuos grassandi efferbuit æstus\" has an uncertain ligature in \"æstus\". The verse line \"Tanti huius rogitas, quæ motus causa:\" is printed as shown. The page ends mid-sentence and the paragraph continues on the next page."
+  },
+  {
+   "n": 26,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "merged_lines",
+     "text": "1 line(s) contain several printed lines merged together (longest 1394 chars, median 256); line numbering is unreliable"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "acutis humoribus corpus ejus horribili dolore diu jactatum fuit : qui quum nullis medicamentis abigi possent, aperto ad eos educendos corpore, ingens quotidie pediculorum copia, & pestilens pus effluxit, tanto foetore, ut praesentiam ejus nemo sustineret. <i>Testis Ioh. Bouchier, oratione in laudem Philippi compositâ.</i>",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "LXIII. Non minus horrendum fatum mansit ante illud tempus aliquot Galliae reges, quorum permissu & jussu Evangelici ipsorum subditi diras persequutiones sunt passi. Heinricus II. frequentiac laetospectaculo concurrens cum Mongomerio comite, confractis utrinque hastis, aperta forte casside, in oculo ex trunci secundaria percussio ne tantum vulnus accepit, ut paucis diebus post, exhaustis acerrimis doloribus, obierit, anno MDLIX. mense Iulio: quum paulo ante mortem adadversam Bastiliam respiciens, & Senatorum, qui in ea capti detinebantur, recordatus dixisset, Vereri se[?], ne injuriam innocentibus hominibus fecisset. Carolus IX. Heinrici filius, in suomet sanguine, quem tantè ante copia profuderat, in Sanbartholomaeà praesertim lanienà, suffocatus periit: à quo toto tempore, quod supervixit, tam diris horroribus nocturnis infestabatur, ut somnum amplius capere nequiret. Heinricus III. ejus frater, à Iacobo Clemente Senensi, Monacho ordinis Praedicatorum, litteras ei offerente, cultro acuto oblongo in imo ventre vulneratus occubuit anno MDLXXXIX. quum anno proximè elapso in comitiis Blaesensibus Heinricum Principem Guisium ad d. XIII. Decembr. & postridie Ludoicum Cardinalem, Heinrici fratrem, saevum utrunque Ecclesiae Dei persequutorem, pugionibus & hastis confodi, eorumque cadavera calce vivâ, ad id ex consilio chirurgi paratâ, ne cineres superessent, consumi procurasset.",
+     "heading": 0,
+     "para": true,
+     "merged": true
+    },
+    {
+     "n": 3,
+     "text": "LXIIII. Haec, & alia exempla, quae sigillatim enumerare est ἐκτὸς τοῦ λόγου[?], satis ostendunt, verum esse illud Psalmi CIV. Deus non permittit cuiquam opprimere suos fideles: quin etiam reges propter illos reprehendit & castigat. <i>Et quamvis multi saepe persequutores nihilo deterius habent in hoc seculo: tamen Deus poenas de eis sumit in futuro, ubi cruciatuum non est finis. De his enim ratum est illud Abrahami ad epulonem divitem: Bona tua recepisti in vita tua: nunc autem cruciaris, Luc. 16.25. Econtrario fideles etsi infinitis in hac terra calamitatibus à Tyrannis afficiuntur, vitâ</i>",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "catchword": "D",
+   "notes": "The Greek phrase \"ἐκτὸς τοῦ λόγου\" is doubtful in its first word and accents; marked [?]. \"Vereri se\" is printed as a run-together form (\"Vererife\"); marked [?]. Italic type is used for the passage beginning \"Et quamvis\" and for the Testis line; the italic boundaries are approximate. A brown stain at the left-centre of the page is ignored."
+  },
+  {
+   "n": 27,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "merged_lines",
+     "text": "1 line(s) contain several printed lines merged together (longest 190 chars, median 7); line numbering is unreliable"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "denique ipsa corporali privantur: tamen privari non possunt cælesti & æterna, quod Dominus his claris verbis testatur, Corpus equidem trucidant: ast animā haud possunt trucidare, Matt.10.28.",
+     "heading": 0,
+     "merged": true
+    },
+    {
+     "n": 2,
+     "text": "<i>LXV.</i> Et quomodo, obsecro, is, qui rationem habet non passercu-lorum tantum minutissimorum, sed etiam capitis nostri pilorum, rei tam parvæ, vilis, exilis, abjectæ & despectæ, quam revera pili quispi-am non faciat, sic, ut nullus eorum sine voluntate ejus, ex capite aut corpore nostro pereat aut amittatur, rationem non habeat Ecclesiæ, dilectissimæ sponsæ suæ: pro qua ipse met se exposuit, quam proprio suo met sanguine acquisivit, quam in suomet latibulo sedere, in suamet umbrâ pernoctare testatur? cujus se receptum, portionem, calicem su-turum promisit, ut à rabidis istis canibus, lupis, ursis, leonibus, leo-pardis, tigribus, aliisque belluis, quas tristes illi persequutores ad vi-rum referunt, allatretur ac dilanietur?",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "<i>LXVI.</i> Homines fideles memores certæ ac gloriosæ victoriæ contra persequutiones, frequenter apud se reputet illa consolationis plenissima verba, Hi sunt, qui venerunt ex afflictione illâ magnâ, & laverunt stolas suas, ac dealbârunt eas in sanguine agni. Ideo sunt ante thronum Dei, & serviunt ei die ac nocte in templo ejus: & qui insidet throno, obumbrabit eos. Non esurient amplius, neque sitient amplius, nec in eos incidet sol, neque æstus: quoniam Agnus, qui in medio throni est, pascet eos, & deducet eos ad vivos fontes aquarum: & abstersurus est Deus omnem lacrymam ab oculis eorum, Apoc.7.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "<i>LXVII.</i> Quod reliquum est, cæli terræq; e nihilo conditorem, supplices veneremur, ut, quum Christi Ecclesiam, hoc etiam ævo, vehementer concuti passim videamus, illam, contra tot vafra consilia & cruentas machinationes, inter tot in fidæ Bellonæ casus horribiliter fluctuantem, protegat, tueatur, conservet: nec permittat, ut exstincta verbi sui luce adversarii communes dicant, Ubi nunc est Deus istorum? ubi est Evangelium istorum? Etenim si unius hominis permotus precibus benignus Deus, pater miserationum, solis inhibuit cursum: quis obse-ro dubitet, quin tot fidelium ubique dispersorum communibus votis adductus, cursum malorum, quæ ipsos circumstipant, benignè sit inhi-biturus, ad gloriam nominis sui, & Ecclesiæ totius salutem?",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "FINIS",
+     "heading": 1,
+     "para": true
+    }
+   ],
+   "notes": "Page is printed in roman with italic section numerals (LXV, LXVI, LXVII) and italic citations. The headings LXVI and LXVII were set as run-in paragraphs; the LXVI opening is set in a larger-indented paragraph and is transcribed as a head only where it is a separate line. Doubtful: \"illi\" in \"quas tristes illi persequutores\" and \"s\" in \"sitient\" read as printed. A printed faint stain (orange spot) near \"victoriæ\" is not text. The page edge at the left shows show-through and is excluded. No page number, running head, catchword or signature is printed on this scan."
+  },
+  {
+   "n": 28,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "merged_lines",
+     "text": "2 line(s) contain several printed lines merged together (longest 461 chars, median 88); line numbering is unreliable"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "THEODORETUS.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "Veluti quondam rubus ille, quem vidit Moses, ardore ignis non est absumtus: ita nec Christianos impiorum bellis petitos tela hostilia consumserunt: quin potius sicut lignato-ribus sylvam caedentibus multo plures pullulant propagi-nes a radicibus, quam sunt rami, qui inciduntur: ita nunc quo-que compluribus interfectis, multo plures quotidie ad do-ctrinam Evangelicam accedebant, cruorque ille caesorum corporum irrigatio quaedam erat novis emergentib.plantis.",
+     "heading": 0,
+     "para": true,
+     "merged": true
+    },
+    {
+     "n": 3,
+     "text": "TERTULLIANUS ad Persequutores.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "Cruciate, torquete, atterite. Probatio enim est innocentiae nostrae iniquitas vestra. Ideo nos haec pati Deus patitur. Exquisitior quaeque crudelitas vestra illecebra est magis sectae. Plures efficimur, quoties metimur a vobis: semen est sanguis Christianorum. Quum damnamur a vobis, absolvimur, &c. quod Poeta Christianus signanter his verbis expressit:",
+     "heading": 0,
+     "para": true,
+     "merged": true
+    },
+    {
+     "n": 5,
+     "text": "Sanguine fundata est Ecclesia: sanguine crevit: Sanguine succrevit: sanguine finis erit.",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "notes": "The heading \"TERTULLIANUS\" appears printed with a reversed-looking R in the first letters; read as TERTULLIANUS. Printed diamond-shaped stops after words are rendered as ordinary full stops. The verse is printed as two lines within one stanza, rendered on one line here. The line \"Sanguine succrevit\" is set indented in the original. Tail of the \"ad Persequutores.\" line is set in italic and rendered without markup."
+  },
+  {
+   "n": 29,
+   "type": "empty",
+   "model": "subscription/claude-haiku-5-5",
+   "notes": "No printed text on this page. The faint, mirrored lines at the top (about the upper third) and the faint marks in the middle and lower part are show-through from the reverse side, not printed text here. The round stamp at the centre (STADTBIBLIOTHEK ZÜRICH, with a coat of arms) is a library stamp and is left out."
+  }
+ ]
+}
