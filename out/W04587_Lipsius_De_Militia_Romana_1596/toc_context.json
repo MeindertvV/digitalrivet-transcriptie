@@ -1,0 +1,1840 @@
+{
+ "work": "W04587_Lipsius_De_Militia_Romana_1596",
+ "made": "2026-11-25T18:27:55",
+ "model": "claude-haiku-5-5",
+ "prompt": "655260ce46aa8978",
+ "candidates": 301,
+ "cost_usd": 0.03279,
+ "dropped": [
+  "title 'Dialogus II. De Dilectu.' moved from 'IUSTI LIPSI ANALECTA siue OBSERVATIONES LIB. I. DIAL. II' to 'DIALOG. III.'"
+ ],
+ "toc": [
+  {
+   "scan": 10,
+   "line": 0,
+   "lines": [
+    [
+     10,
+     0
+    ],
+    [
+     10,
+     0
+    ],
+    [
+     10,
+     0
+    ],
+    [
+     10,
+     0
+    ],
+    [
+     10,
+     0
+    ],
+    [
+     10,
+     0
+    ]
+   ],
+   "level": 1,
+   "title": "Iusti Lipsi De militia Romana libri quinque. Commentarius ad Polybium."
+  },
+  {
+   "scan": 12,
+   "line": 1,
+   "lines": [
+    [
+     12,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Philippo III. Hispaniarum et Indiarum principi."
+  },
+  {
+   "scan": 20,
+   "line": 1,
+   "lines": [
+    [
+     20,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Lectori meo."
+  },
+  {
+   "scan": 23,
+   "line": 1,
+   "lines": [
+    [
+     23,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Index dialogismorum libri primi."
+  },
+  {
+   "scan": 26,
+   "line": 1,
+   "lines": [
+    [
+     26,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Iusti Lipsi De militia Romana liber I."
+  },
+  {
+   "scan": 26,
+   "line": 2,
+   "lines": [
+    [
+     26,
+     2
+    ],
+    [
+     26,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus I. Præfatiuncula & occasio dicendi, tum laus aliqua militiæ Romanæ."
+  },
+  {
+   "scan": 29,
+   "line": 3,
+   "lines": [
+    [
+     29,
+     3
+    ],
+    [
+     29,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus II. Modus & Ordo dicendorum, tum de Dilectu, de Tribunis, de Stipendiis."
+  },
+  {
+   "scan": 43,
+   "line": 1,
+   "lines": [
+    [
+     43,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus III. Ratio & modus legendi. Signa proposita, dies edictus. Tribuni per legiones distributi. Sortitio tribuum, & alia."
+  },
+  {
+   "scan": 53,
+   "line": 4,
+   "lines": [
+    [
+     53,
+     4
+    ],
+    [
+     53,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus IIII. Quædam Polybio non dicta. Subitarij milites. Pœna & coercitio nonparentium. Item de Vacationibus."
+  },
+  {
+   "scan": 60,
+   "line": 2,
+   "lines": [
+    [
+     60,
+     2
+    ],
+    [
+     60,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus V. Equitum dilectus. genera & discrimen. De equo publico accurate differtum, & transfvectione."
+  },
+  {
+   "scan": 68,
+   "line": 4,
+   "lines": [
+    [
+     68,
+     4
+    ],
+    [
+     68,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus VI. Sacramentum militiæ. Qui exegerint: quomodo datum aut dictum: quibus verbis."
+  },
+  {
+   "scan": 72,
+   "line": 2,
+   "lines": [
+    [
+     72,
+     2
+    ],
+    [
+     72,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus VII. Sociorum electio. Discrimen inter Auxilia. Præfectus eorum, & Quæstor."
+  },
+  {
+   "scan": 77,
+   "line": 2,
+   "lines": [
+    [
+     77,
+     2
+    ],
+    [
+     77,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus VIII. Additum de Euocatis. Cur ita dicti, & quid, & quam multi fuerint. Dignitas eorum, & paritas cum Centurionibus."
+  },
+  {
+   "scan": 82,
+   "line": 2,
+   "lines": [
+    [
+     82,
+     2
+    ],
+    [
+     82,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus IX. Conquisitores ad Dilectum. Tirones possessoribus indicti. Incute puncti."
+  },
+  {
+   "scan": 86,
+   "line": 1,
+   "lines": [
+    [
+     86,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "Tabula seu Breviarium libri primi."
+  },
+  {
+   "scan": 87,
+   "line": 1,
+   "lines": [
+    [
+     87,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Iusti Lipsi De militia Romana liber II."
+  },
+  {
+   "scan": 87,
+   "line": 2,
+   "lines": [
+    [
+     87,
+     2
+    ],
+    [
+     87,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus I. De Ordine, & is quotuplex, tum de quattuor generibus militum, Velitibus, Hastatis, Principibus, Triarijs."
+  },
+  {
+   "scan": 92,
+   "line": 4,
+   "lines": [
+    [
+     92,
+     4
+    ],
+    [
+     92,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus II. De Manipulis militum. Eorum numerus, & Græca nomina."
+  },
+  {
+   "scan": 97,
+   "line": 1,
+   "lines": [
+    [
+     97,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus III. Inuoluta quaedam Livij super Ordine evoluta, partim emendata."
+  },
+  {
+   "scan": 106,
+   "line": 2,
+   "lines": [
+    [
+     106,
+     2
+    ],
+    [
+     106,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus IIII. Cohors, Numeri, Spira. Cohors prima, Cohors Praetoria."
+  },
+  {
+   "scan": 110,
+   "line": 2,
+   "lines": [
+    [
+     110,
+     2
+    ],
+    [
+     110,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus V. Legio, & paullatim eius augmenta."
+  },
+  {
+   "scan": 113,
+   "line": 2,
+   "lines": [
+    [
+     113,
+     2
+    ],
+    [
+     113,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus VI. Equitum diuisio, Turmæ, & eorum in legione numerus."
+  },
+  {
+   "scan": 117,
+   "line": 2,
+   "lines": [
+    [
+     117,
+     2
+    ],
+    [
+     117,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus VII. Sociorum diuisio, & numerus. Extraordinarij, Ablecti, Alares, & Ala."
+  },
+  {
+   "scan": 127,
+   "line": 2,
+   "lines": [
+    [
+     127,
+     2
+    ],
+    [
+     127,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus VIII. De Centurionum numero, ordine, prærogatiua, de Optionibus, Primopilis, omnia accuratè."
+  },
+  {
+   "scan": 149,
+   "line": 1,
+   "lines": [
+    [
+     149,
+     1
+    ],
+    [
+     149,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus IX. De Tribunis militum. eorum electio. item discrimina, munia, insignia."
+  },
+  {
+   "scan": 156,
+   "line": 2,
+   "lines": [
+    [
+     156,
+     2
+    ],
+    [
+     156,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus X. Sociorum Duces & Præfecti."
+  },
+  {
+   "scan": 160,
+   "line": 2,
+   "lines": [
+    [
+     160,
+     2
+    ],
+    [
+     160,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus XI. De Legatis, qui Imperatoribus attributi."
+  },
+  {
+   "scan": 163,
+   "line": 2,
+   "lines": [
+    [
+     163,
+     2
+    ],
+    [
+     163,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus XII. De Imperatore ipso: Ductu & Auspiciis. Lictores, Paludamenta, Equi eius."
+  },
+  {
+   "scan": 173,
+   "line": 1,
+   "lines": [
+    [
+     173,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "Tabula ordinis in militibus."
+  },
+  {
+   "scan": 174,
+   "line": 1,
+   "lines": [
+    [
+     174,
+     1
+    ],
+    [
+     174,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Tabula ordinis in ducibus."
+  },
+  {
+   "scan": 175,
+   "line": 1,
+   "lines": [
+    [
+     175,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Iusti Lipsi De militia Romana liber III."
+  },
+  {
+   "scan": 175,
+   "line": 2,
+   "lines": [
+    [
+     175,
+     2
+    ],
+    [
+     175,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus I. Ad Arma ventum. De Velitibus prædictum, eorumque origine. tum Hastis eorum, Parmâ, Galeâ."
+  },
+  {
+   "scan": 187,
+   "line": 4,
+   "lines": [
+    [
+     187,
+     4
+    ],
+    [
+     187,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus II. De Scuto accuratè. Discrimen à Clypeo. Magnitudo eius, Circulus, Vmbo, Origo, & exemplum."
+  },
+  {
+   "scan": 200,
+   "line": 2,
+   "lines": [
+    [
+     200,
+     2
+    ],
+    [
+     200,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus III. Gladius Hispaniensis. Origo, Usus, Bonitas."
+  },
+  {
+   "scan": 205,
+   "line": 4,
+   "lines": [
+    [
+     205,
+     4
+    ],
+    [
+     205,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus IIII. Pilum totum descriptum. magnitudo, forma, violentia: & siquid mutatum."
+  },
+  {
+   "scan": 215,
+   "line": 1,
+   "lines": [
+    [
+     215,
+     1
+    ],
+    [
+     215,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus V. De Galea, & multiplici cristâ."
+  },
+  {
+   "scan": 221,
+   "line": 2,
+   "lines": [
+    [
+     221,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus VI. De Lorica, & varia eius specie."
+  },
+  {
+   "scan": 238,
+   "line": 1,
+   "lines": [
+    [
+     238,
+     1
+    ],
+    [
+     238,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus VII. De Ocreis obiter, tum ex professo & plenè de Equitum armis."
+  },
+  {
+   "scan": 253,
+   "line": 1,
+   "lines": [
+    [
+     253,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "Collectio armorum."
+  },
+  {
+   "scan": 254,
+   "line": 1,
+   "lines": [
+    [
+     254,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Iusti Lipsi De militia Romana liber IIII."
+  },
+  {
+   "scan": 254,
+   "line": 2,
+   "lines": [
+    [
+     254,
+     2
+    ],
+    [
+     254,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus I. Dispositio Aciei & communis ordo, tum via & intervalla: perque ista accessio & recessio."
+  },
+  {
+   "scan": 265,
+   "line": 2,
+   "lines": [
+    [
+     265,
+     2
+    ],
+    [
+     265,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus II. Velites ubi olim & postea locati. item Equites, & Socii."
+  },
+  {
+   "scan": 269,
+   "line": 2,
+   "lines": [
+    [
+     269,
+     2
+    ],
+    [
+     269,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus III. Signa quot, & ubi fuerint. Antesignani & Postsignani."
+  },
+  {
+   "scan": 274,
+   "line": 1,
+   "lines": [
+    [
+     274,
+     1
+    ],
+    [
+     274,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus IIII. Ducum, militumque locatio distincte: & poena qui ordinem liquisset."
+  },
+  {
+   "scan": 279,
+   "line": 2,
+   "lines": [
+    [
+     279,
+     2
+    ],
+    [
+     279,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus V. In occasione de Signis dictum, de formâ eorum singillatim, de cultu & religione."
+  },
+  {
+   "scan": 297,
+   "line": 2,
+   "lines": [
+    [
+     297,
+     2
+    ],
+    [
+     297,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus VI. Duplex, triplexque acies, & aliquot eius formæ."
+  },
+  {
+   "scan": 302,
+   "line": 2,
+   "lines": [
+    [
+     302,
+     2
+    ],
+    [
+     302,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus VII. Alia quaedam acierum formæ. Cuneus, Globus, Forfex, Turris, Serra."
+  },
+  {
+   "scan": 306,
+   "line": 1,
+   "lines": [
+    [
+     306,
+     1
+    ],
+    [
+     306,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus VIII. Exempla aliquot pugnarum: Crassi, Manlij, Cæsaris cum Afranio, Cæsaris cum Pompeio."
+  },
+  {
+   "scan": 313,
+   "line": 1,
+   "lines": [
+    [
+     313,
+     1
+    ],
+    [
+     316,
+     1
+    ],
+    [
+     318,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "Iconismus aciei vulgatæ."
+  },
+  {
+   "scan": 319,
+   "line": 2,
+   "lines": [
+    [
+     319,
+     2
+    ]
+   ],
+   "level": 4,
+   "title": "Velites interiecti manipulis sunt, etsi aliter fuisse etiam suprà dictum."
+  },
+  {
+   "scan": 327,
+   "line": 2,
+   "lines": [
+    [
+     327,
+     2
+    ],
+    [
+     327,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus IX. Allocutio exercitus ante pugnam, de suffragio & refragio militari."
+  },
+  {
+   "scan": 334,
+   "line": 1,
+   "lines": [
+    [
+     334,
+     1
+    ],
+    [
+     334,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus X. De Classico, de Tubâ, Lituo, Cornibus, Buccinâ, seorsim: item de Tympanis."
+  },
+  {
+   "scan": 347,
+   "line": 1,
+   "lines": [
+    [
+     347,
+     1
+    ],
+    [
+     347,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus XI. Clamor militum sub pugnam & Baritus: concussio item armorum."
+  },
+  {
+   "scan": 353,
+   "line": 2,
+   "lines": [
+    [
+     353,
+     2
+    ],
+    [
+     353,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus XII. Signum pugnæ, Tunica punicea: signum pugnæ, vox & tessera."
+  },
+  {
+   "scan": 359,
+   "line": 1,
+   "lines": [
+    [
+     359,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "Breviarium libri quarti."
+  },
+  {
+   "scan": 362,
+   "line": 0,
+   "lines": [
+    [
+     362,
+     0
+    ],
+    [
+     362,
+     0
+    ],
+    [
+     364,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Liber quintus. Qui est de disciplina."
+  },
+  {
+   "scan": 364,
+   "line": 2,
+   "lines": [
+    [
+     364,
+     2
+    ],
+    [
+     364,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus I. Ad Disciplinam transitum, ac primò de sede eius, Castris. Ea laudata, diuisa, partes recensitæ."
+  },
+  {
+   "scan": 371,
+   "line": 3,
+   "lines": [
+    [
+     371,
+     3
+    ],
+    [
+     371,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus II. Prætorij positura, eius magnitudo & partes."
+  },
+  {
+   "scan": 378,
+   "line": 2,
+   "lines": [
+    [
+     378,
+     2
+    ],
+    [
+     378,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus III. Tribunorum metatura, Quæstoris, Euocatorum, Ablectorum, Extraordinariorum."
+  },
+  {
+   "scan": 390,
+   "line": 1,
+   "lines": [
+    [
+     390,
+     1
+    ],
+    [
+     390,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus IIII. Inferior castrorum pars explicata, & deinde cum Declaratione & Podismis suis proposita."
+  },
+  {
+   "scan": 401,
+   "line": 1,
+   "lines": [
+    [
+     401,
+     1
+    ],
+    [
+     402,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "Tabula et forma castrorum."
+  },
+  {
+   "scan": 402,
+   "line": 3,
+   "lines": [
+    [
+     402,
+     3
+    ]
+   ],
+   "level": 4,
+   "title": "Pars supera, et prætorium."
+  },
+  {
+   "scan": 408,
+   "line": 2,
+   "lines": [
+    [
+     408,
+     2
+    ]
+   ],
+   "level": 4,
+   "title": "Pars infera."
+  },
+  {
+   "scan": 412,
+   "line": 2,
+   "lines": [
+    [
+     412,
+     2
+    ]
+   ],
+   "level": 4,
+   "title": "Podismi."
+  },
+  {
+   "scan": 413,
+   "line": 4,
+   "lines": [
+    [
+     413,
+     4
+    ]
+   ],
+   "level": 4,
+   "title": "Parte infra, primi equites."
+  },
+  {
+   "scan": 414,
+   "line": 2,
+   "lines": [
+    [
+     414,
+     2
+    ],
+    [
+     414,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus V. De Tentoriis, Fossa, Vallo, Portis."
+  },
+  {
+   "scan": 428,
+   "line": 1,
+   "lines": [
+    [
+     428,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus VI. De operibus. qui Immunes in iis, qui Munifices. Secordia posterioris aui."
+  },
+  {
+   "scan": 435,
+   "line": 2,
+   "lines": [
+    [
+     435,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus VII."
+  },
+  {
+   "scan": 439,
+   "line": 2,
+   "lines": [
+    [
+     439,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus VIII. De ministeriis, quæ Tribunis & Equitibus & alibi præstantur, item de Excubiis & Stationibus."
+  },
+  {
+   "scan": 451,
+   "line": 2,
+   "lines": [
+    [
+     451,
+     2
+    ],
+    [
+     451,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus IX. De Vigiliis. Tessera in iis, Tesserula, & Diuisio, & Circuitio, omnia distincte."
+  },
+  {
+   "scan": 480,
+   "line": 2,
+   "lines": [
+    [
+     480,
+     2
+    ],
+    [
+     480,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus X. De imperiis castrorum, & administratione in his talibus. Tribuni per vices faciunt. Et Salutationes ducum."
+  },
+  {
+   "scan": 485,
+   "line": 2,
+   "lines": [
+    [
+     485,
+     2
+    ],
+    [
+     485,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus XI. Ad Exercitia transitum. Ea diuisa, & primò dictum de Oneris exercitiis. Tulisse cibos, vallos, sarcinas, præter arma."
+  },
+  {
+   "scan": 495,
+   "line": 2,
+   "lines": [
+    [
+     495,
+     2
+    ],
+    [
+     495,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus XII. De Agmine toto, tum de metatione castrorum, & metatoribus."
+  },
+  {
+   "scan": 509,
+   "line": 3,
+   "lines": [
+    [
+     509,
+     3
+    ],
+    [
+     509,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus XIII. De Exercitio Operis. Exempla aliquot eiusmodi illustria."
+  },
+  {
+   "scan": 516,
+   "line": 1,
+   "lines": [
+    [
+     516,
+     1
+    ],
+    [
+     516,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus XIIII. Armorum exercitia, quàm crebra, & quàm passim? Tum ordine quædam data."
+  },
+  {
+   "scan": 528,
+   "line": 2,
+   "lines": [
+    [
+     528,
+     2
+    ],
+    [
+     528,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus XV. Ad Leges itum, ac primò de eâ quæ Furta tangit, tum quæ Prædam."
+  },
+  {
+   "scan": 533,
+   "line": 2,
+   "lines": [
+    [
+     533,
+     2
+    ],
+    [
+     533,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus XVI. De stipendio militum, eius origine & auctu. De Frumenti modo, & hordei. de iis quæ ad victum."
+  },
+  {
+   "scan": 554,
+   "line": 2,
+   "lines": [
+    [
+     554,
+     2
+    ],
+    [
+     554,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus XVII. Præmia militaria, Hastæ, Armillæ, Torques, Phaleræ, Spolia."
+  },
+  {
+   "scan": 571,
+   "line": 2,
+   "lines": [
+    [
+     571,
+     2
+    ],
+    [
+     571,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus XVIII. De Pœnis, quis inflixerit, & quas: tum etiam de variis Ignominiis."
+  },
+  {
+   "scan": 593,
+   "line": 2,
+   "lines": [
+    [
+     593,
+     2
+    ],
+    [
+     593,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus XIX. De Missione quadruplici, Honesta, Causaria, Gratiosa, Ignominiosa: & de Commodis missorum."
+  },
+  {
+   "scan": 598,
+   "line": 1,
+   "lines": [
+    [
+     598,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus XX. Conclusio sermonum quinque, & militiæ veteris cum nostrâ breuis comparatio."
+  },
+  {
+   "scan": 616,
+   "line": 5,
+   "lines": [
+    [
+     616,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Breviarium libri ultimi."
+  },
+  {
+   "scan": 618,
+   "line": 0,
+   "lines": [
+    [
+     618,
+     0
+    ],
+    [
+     618,
+     0
+    ],
+    [
+     618,
+     0
+    ],
+    [
+     618,
+     0
+    ],
+    [
+     618,
+     0
+    ]
+   ],
+   "level": 1,
+   "title": "Iusti Lipsi Analecta siue Observationes reliquæ ad militiam et hosce libros."
+  },
+  {
+   "scan": 620,
+   "line": 0,
+   "lines": [
+    [
+     620,
+     0
+    ]
+   ],
+   "level": 2,
+   "title": "Ad lectorem."
+  },
+  {
+   "scan": 622,
+   "line": 1,
+   "lines": [
+    [
+     622,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Liber I."
+  },
+  {
+   "scan": 623,
+   "line": 3,
+   "lines": [
+    [
+     623,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus II. De Dilectu."
+  },
+  {
+   "scan": 623,
+   "line": 3,
+   "lines": [
+    [
+     623,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus III."
+  },
+  {
+   "scan": 623,
+   "line": 5,
+   "lines": [
+    [
+     623,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus VII."
+  },
+  {
+   "scan": 624,
+   "line": 3,
+   "lines": [
+    [
+     624,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus VIII."
+  },
+  {
+   "scan": 624,
+   "line": 5,
+   "lines": [
+    [
+     624,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus IX."
+  },
+  {
+   "scan": 625,
+   "line": 1,
+   "lines": [
+    [
+     625,
+     1
+    ],
+    [
+     625,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Liber II."
+  },
+  {
+   "scan": 625,
+   "line": 2,
+   "lines": [
+    [
+     625,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus II."
+  },
+  {
+   "scan": 625,
+   "line": 5,
+   "lines": [
+    [
+     625,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus III."
+  },
+  {
+   "scan": 625,
+   "line": 8,
+   "lines": [
+    [
+     625,
+     8
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus V."
+  },
+  {
+   "scan": 628,
+   "line": 2,
+   "lines": [
+    [
+     628,
+     2
+    ]
+   ],
+   "level": 4,
+   "title": "Nomina legionum."
+  },
+  {
+   "scan": 630,
+   "line": 5,
+   "lines": [
+    [
+     630,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus VII."
+  },
+  {
+   "scan": 631,
+   "line": 7,
+   "lines": [
+    [
+     631,
+     7
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus XII."
+  },
+  {
+   "scan": 632,
+   "line": 1,
+   "lines": [
+    [
+     632,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Liber III."
+  },
+  {
+   "scan": 632,
+   "line": 1,
+   "lines": [
+    [
+     632,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus I."
+  },
+  {
+   "scan": 637,
+   "line": 4,
+   "lines": [
+    [
+     637,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus II."
+  },
+  {
+   "scan": 641,
+   "line": 2,
+   "lines": [
+    [
+     641,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus III."
+  },
+  {
+   "scan": 645,
+   "line": 4,
+   "lines": [
+    [
+     645,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus IIII."
+  },
+  {
+   "scan": 646,
+   "line": 2,
+   "lines": [
+    [
+     646,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus V."
+  },
+  {
+   "scan": 647,
+   "line": 4,
+   "lines": [
+    [
+     647,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus VI."
+  },
+  {
+   "scan": 647,
+   "line": 8,
+   "lines": [
+    [
+     647,
+     8
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus VII."
+  },
+  {
+   "scan": 648,
+   "line": 2,
+   "lines": [
+    [
+     648,
+     2
+    ],
+    [
+     648,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Liber IIII."
+  },
+  {
+   "scan": 648,
+   "line": 3,
+   "lines": [
+    [
+     648,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus I."
+  },
+  {
+   "scan": 648,
+   "line": 5,
+   "lines": [
+    [
+     648,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus II."
+  },
+  {
+   "scan": 648,
+   "line": 7,
+   "lines": [
+    [
+     648,
+     7
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus V."
+  },
+  {
+   "scan": 649,
+   "line": 3,
+   "lines": [
+    [
+     649,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus VI."
+  },
+  {
+   "scan": 649,
+   "line": 5,
+   "lines": [
+    [
+     649,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus VIII."
+  },
+  {
+   "scan": 650,
+   "line": 3,
+   "lines": [
+    [
+     650,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus X."
+  },
+  {
+   "scan": 650,
+   "line": 5,
+   "lines": [
+    [
+     650,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus XI."
+  },
+  {
+   "scan": 651,
+   "line": 1,
+   "lines": [
+    [
+     651,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Liber V."
+  },
+  {
+   "scan": 651,
+   "line": 1,
+   "lines": [
+    [
+     651,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus III."
+  },
+  {
+   "scan": 651,
+   "line": 3,
+   "lines": [
+    [
+     651,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus V."
+  },
+  {
+   "scan": 651,
+   "line": 5,
+   "lines": [
+    [
+     651,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus VII."
+  },
+  {
+   "scan": 651,
+   "line": 7,
+   "lines": [
+    [
+     651,
+     7
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus IX."
+  },
+  {
+   "scan": 652,
+   "line": 1,
+   "lines": [
+    [
+     652,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus XII."
+  },
+  {
+   "scan": 652,
+   "line": 3,
+   "lines": [
+    [
+     652,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus XIII."
+  },
+  {
+   "scan": 652,
+   "line": 7,
+   "lines": [
+    [
+     652,
+     7
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus XIIII."
+  },
+  {
+   "scan": 653,
+   "line": 1,
+   "lines": [
+    [
+     653,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "Dialogus XVI."
+  },
+  {
+   "scan": 654,
+   "line": 2,
+   "lines": [
+    [
+     654,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "In Latinis."
+  },
+  {
+   "scan": 654,
+   "line": 27,
+   "lines": [
+    [
+     654,
+     27
+    ]
+   ],
+   "level": 2,
+   "title": "In Græcis."
+  },
+  {
+   "scan": 656,
+   "line": 1,
+   "lines": [
+    [
+     656,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Approbatio."
+  },
+  {
+   "scan": 657,
+   "line": 0,
+   "lines": [
+    [
+     657,
+     0
+    ]
+   ],
+   "level": 2,
+   "title": "Privilegium Cæsareum."
+  },
+  {
+   "scan": 659,
+   "line": 0,
+   "lines": [
+    [
+     659,
+     0
+    ]
+   ],
+   "level": 2,
+   "title": "Summa privilegii regii."
+  }
+ ],
+ "book": "Iusti Lipsi De militia Romana libri quinque, a commentary on Polybius in five books, each a series of dialogues with a preface, dedication, index, tabulae and plates, followed by a second work, the Analecta siue Observationes, with its own title, preface, books, errata and privilege.",
+ "series": [
+  {
+   "label": "Liber",
+   "first": "I",
+   "last": "V",
+   "count": 10,
+   "level": 2,
+   "found": 19
+  },
+  {
+   "label": "Dialogus",
+   "first": "I",
+   "last": "IX",
+   "count": 60,
+   "level": 3,
+   "found": 100
+  }
+ ],
+ "taste": 50,
+ "doubt": "",
+ "input": 43140,
+ "output": 48906
+}
