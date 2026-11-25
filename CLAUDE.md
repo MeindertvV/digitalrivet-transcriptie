@@ -12,7 +12,7 @@ The only job here: the works of `works.tsv` (scanned Latin books, 16th–17th c.
 ## Run
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt -r requirements-interlinear.txt   # the second list for step 6
 python cloud/run.py --shard 0 --of 1 --workers 4 --base "$PDF_BASE"
 ```
 
