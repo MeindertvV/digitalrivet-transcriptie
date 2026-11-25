@@ -1,0 +1,1537 @@
+{
+ "work": "W07489_Vermigli_In_librum_iudicum_D_Petri_Martyris_Vermilii_Florentini_profe_1561",
+ "made": "2026-11-25T12:34:58",
+ "model": "claude-haiku-5-5",
+ "prompt": "655260ce46aa8978",
+ "candidates": 201,
+ "cost_usd": 0.01863,
+ "dropped": [
+  "title 'Magnificis atque clarissimis viris, dominis Scholarchis Gymnasij Argentoratensis' is not in 'M. D. LXI. EPISTOLA NVNCVPATORIA.': to the scan",
+  "no scans for 1 wanted"
+ ],
+ "toc": [
+  {
+   "scan": 12,
+   "line": 1,
+   "lines": [
+    [
+     12,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Index rerum atque verborum praecipue in hac historia observandarum"
+  },
+  {
+   "scan": 42,
+   "line": 1,
+   "lines": [
+    [
+     42,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Index locorum sacrae scripturae, videlicet tam veteris quam novi Testamenti, qui passim ab authore in hoc libro exponuntur"
+  },
+  {
+   "scan": 42,
+   "line": 2,
+   "lines": [
+    [
+     42,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Ex Genesi"
+  },
+  {
+   "scan": 42,
+   "line": 12,
+   "lines": [
+    [
+     42,
+     12
+    ]
+   ],
+   "level": 2,
+   "title": "Ex Exodo"
+  },
+  {
+   "scan": 42,
+   "line": 18,
+   "lines": [
+    [
+     42,
+     18
+    ]
+   ],
+   "level": 2,
+   "title": "Ex Levitico"
+  },
+  {
+   "scan": 42,
+   "line": 21,
+   "lines": [
+    [
+     42,
+     21
+    ]
+   ],
+   "level": 2,
+   "title": "Ex Numeris"
+  },
+  {
+   "scan": 42,
+   "line": 27,
+   "lines": [
+    [
+     42,
+     27
+    ]
+   ],
+   "level": 2,
+   "title": "Ex Deuteronomio"
+  },
+  {
+   "scan": 42,
+   "line": 35,
+   "lines": [
+    [
+     42,
+     35
+    ]
+   ],
+   "level": 2,
+   "title": "Ex Iosue"
+  },
+  {
+   "scan": 42,
+   "line": 38,
+   "lines": [
+    [
+     42,
+     38
+    ]
+   ],
+   "level": 2,
+   "title": "Ex libro primo Samuelis"
+  },
+  {
+   "scan": 42,
+   "line": 41,
+   "lines": [
+    [
+     42,
+     41
+    ]
+   ],
+   "level": 2,
+   "title": "Ex libro secundo Samuelis"
+  },
+  {
+   "scan": 42,
+   "line": 45,
+   "lines": [
+    [
+     42,
+     45
+    ]
+   ],
+   "level": 2,
+   "title": "Ex libro primo Melachim"
+  },
+  {
+   "scan": 42,
+   "line": 51,
+   "lines": [
+    [
+     42,
+     51
+    ]
+   ],
+   "level": 2,
+   "title": "Ex libro secundo Melachim"
+  },
+  {
+   "scan": 42,
+   "line": 53,
+   "lines": [
+    [
+     42,
+     53
+    ]
+   ],
+   "level": 2,
+   "title": "Ex libro primo Paralipomenon"
+  },
+  {
+   "scan": 42,
+   "line": 55,
+   "lines": [
+    [
+     42,
+     55
+    ]
+   ],
+   "level": 2,
+   "title": "Ex libro secundo Paralipomenon"
+  },
+  {
+   "scan": 43,
+   "line": 2,
+   "lines": [
+    [
+     43,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Ex libro Iob"
+  },
+  {
+   "scan": 43,
+   "line": 4,
+   "lines": [
+    [
+     43,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Ex libro Psalmorum"
+  },
+  {
+   "scan": 43,
+   "line": 27,
+   "lines": [
+    [
+     43,
+     27
+    ]
+   ],
+   "level": 2,
+   "title": "Ex Isaia"
+  },
+  {
+   "scan": 43,
+   "line": 39,
+   "lines": [
+    [
+     43,
+     39
+    ]
+   ],
+   "level": 2,
+   "title": "Ex Ieremia"
+  },
+  {
+   "scan": 43,
+   "line": 48,
+   "lines": [
+    [
+     43,
+     48
+    ]
+   ],
+   "level": 2,
+   "title": "Ex Bzechiele"
+  },
+  {
+   "scan": 43,
+   "line": 52,
+   "lines": [
+    [
+     43,
+     52
+    ]
+   ],
+   "level": 2,
+   "title": "Ex Daniele"
+  },
+  {
+   "scan": 43,
+   "line": 54,
+   "lines": [
+    [
+     43,
+     54
+    ]
+   ],
+   "level": 2,
+   "title": "Ex Hoseah"
+  },
+  {
+   "scan": 43,
+   "line": 58,
+   "lines": [
+    [
+     43,
+     58
+    ]
+   ],
+   "level": 2,
+   "title": "Ex Ioele"
+  },
+  {
+   "scan": 44,
+   "line": 2,
+   "lines": [
+    [
+     44,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Ex Amos"
+  },
+  {
+   "scan": 44,
+   "line": 4,
+   "lines": [
+    [
+     44,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Ex Michea"
+  },
+  {
+   "scan": 44,
+   "line": 6,
+   "lines": [
+    [
+     44,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "Ex Zacharia"
+  },
+  {
+   "scan": 44,
+   "line": 12,
+   "lines": [
+    [
+     44,
+     12
+    ]
+   ],
+   "level": 2,
+   "title": "Ex Ecclesiastico"
+  },
+  {
+   "scan": 44,
+   "line": 16,
+   "lines": [
+    [
+     44,
+     16
+    ]
+   ],
+   "level": 2,
+   "title": "Ex libro Sapientiae"
+  },
+  {
+   "scan": 44,
+   "line": 18,
+   "lines": [
+    [
+     44,
+     18
+    ]
+   ],
+   "level": 2,
+   "title": "Ex evangelio S. Matthaei"
+  },
+  {
+   "scan": 44,
+   "line": 33,
+   "lines": [
+    [
+     44,
+     33
+    ]
+   ],
+   "level": 2,
+   "title": "Ex evangelio Marci"
+  },
+  {
+   "scan": 44,
+   "line": 35,
+   "lines": [
+    [
+     44,
+     35
+    ]
+   ],
+   "level": 2,
+   "title": "Ex evangelio Lucae"
+  },
+  {
+   "scan": 44,
+   "line": 42,
+   "lines": [
+    [
+     44,
+     42
+    ]
+   ],
+   "level": 2,
+   "title": "Ex evangelio Ioannis"
+  },
+  {
+   "scan": 44,
+   "line": 51,
+   "lines": [
+    [
+     44,
+     51
+    ]
+   ],
+   "level": 2,
+   "title": "Ex Actis apostolorum"
+  },
+  {
+   "scan": 45,
+   "line": 1,
+   "lines": [
+    [
+     45,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Ex epistola Pauli ad Romanos"
+  },
+  {
+   "scan": 45,
+   "line": 22,
+   "lines": [
+    [
+     45,
+     22
+    ]
+   ],
+   "level": 2,
+   "title": "Ex priore epistola ad Corinthios"
+  },
+  {
+   "scan": 45,
+   "line": 61,
+   "lines": [
+    [
+     45,
+     61
+    ]
+   ],
+   "level": 2,
+   "title": "Ex epistola ad Galatas"
+  },
+  {
+   "scan": 45,
+   "line": 67,
+   "lines": [
+    [
+     45,
+     67
+    ]
+   ],
+   "level": 2,
+   "title": "Ex epistola ad Ephesios"
+  },
+  {
+   "scan": 45,
+   "line": 76,
+   "lines": [
+    [
+     45,
+     76
+    ]
+   ],
+   "level": 2,
+   "title": "Ex epistola ad Philippenses"
+  },
+  {
+   "scan": 45,
+   "line": 81,
+   "lines": [
+    [
+     45,
+     81
+    ]
+   ],
+   "level": 2,
+   "title": "Ex epistola ad Colossenses"
+  },
+  {
+   "scan": 45,
+   "line": 86,
+   "lines": [
+    [
+     45,
+     86
+    ]
+   ],
+   "level": 2,
+   "title": "Ex priore epistola ad Thessalonicenses"
+  },
+  {
+   "scan": 45,
+   "line": 88,
+   "lines": [
+    [
+     45,
+     88
+    ]
+   ],
+   "level": 2,
+   "title": "Ex posteriore epistola ad Thessalonicenses"
+  },
+  {
+   "scan": 45,
+   "line": 93,
+   "lines": [
+    [
+     45,
+     93
+    ]
+   ],
+   "level": 2,
+   "title": "Ex I. epistola ad Timotheum"
+  },
+  {
+   "scan": 46,
+   "line": 2,
+   "lines": [
+    [
+     46,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Ex II. epistola ad Timotheum"
+  },
+  {
+   "scan": 46,
+   "line": 5,
+   "lines": [
+    [
+     46,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Ex epistola ad Titum"
+  },
+  {
+   "scan": 46,
+   "line": 7,
+   "lines": [
+    [
+     46,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "Ex epistola ad Hebraeos"
+  },
+  {
+   "scan": 46,
+   "line": 14,
+   "lines": [
+    [
+     46,
+     14
+    ]
+   ],
+   "level": 2,
+   "title": "Ex epistola Iacobi"
+  },
+  {
+   "scan": 46,
+   "line": 16,
+   "lines": [
+    [
+     46,
+     16
+    ]
+   ],
+   "level": 2,
+   "title": "Ex priore epistola Petri"
+  },
+  {
+   "scan": 46,
+   "line": 19,
+   "lines": [
+    [
+     46,
+     19
+    ]
+   ],
+   "level": 2,
+   "title": "Ex epistola prima Ioannis"
+  },
+  {
+   "scan": 46,
+   "line": 21,
+   "lines": [
+    [
+     46,
+     21
+    ]
+   ],
+   "level": 2,
+   "title": "Ex Apocalypsi Ioannis"
+  },
+  {
+   "scan": 46,
+   "line": 23,
+   "lines": [
+    [
+     46,
+     23
+    ]
+   ],
+   "level": 1,
+   "title": "Index locorum communium, qui in his commentariis succincta methodo explicantur"
+  },
+  {
+   "scan": 50,
+   "line": 1,
+   "lines": [
+    [
+     50,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "In librum Iudicum D. Petri Martyris Vermilii, Florentini, professoris divinarum literarum in Schola Tigurina, commentarii"
+  },
+  {
+   "scan": 57,
+   "line": 4,
+   "lines": [
+    [
+     57,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Caput I."
+  },
+  {
+   "scan": 101,
+   "line": 4,
+   "lines": [
+    [
+     101,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "De proditione"
+  },
+  {
+   "scan": 107,
+   "line": 6,
+   "lines": [
+    [
+     107,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "De missa"
+  },
+  {
+   "scan": 112,
+   "line": 6,
+   "lines": [
+    [
+     112,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "An Christianis liceat cum infidelibus habitare"
+  },
+  {
+   "scan": 132,
+   "line": 1,
+   "lines": [
+    [
+     132,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Caput II."
+  },
+  {
+   "scan": 137,
+   "line": 2,
+   "lines": [
+    [
+     137,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "De lachrymis"
+  },
+  {
+   "scan": 138,
+   "line": 6,
+   "lines": [
+    [
+     138,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "De sacrificio"
+  },
+  {
+   "scan": 145,
+   "line": 3,
+   "lines": [
+    [
+     145,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "De idololatria"
+  },
+  {
+   "scan": 153,
+   "line": 2,
+   "lines": [
+    [
+     153,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "De foedere"
+  },
+  {
+   "scan": 156,
+   "line": 2,
+   "lines": [
+    [
+     156,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput III."
+  },
+  {
+   "scan": 159,
+   "line": 9,
+   "lines": [
+    [
+     159,
+     9
+    ]
+   ],
+   "level": 3,
+   "title": "An Deus causa sit peccati"
+  },
+  {
+   "scan": 167,
+   "line": 8,
+   "lines": [
+    [
+     167,
+     8
+    ]
+   ],
+   "level": 3,
+   "title": "De dolo"
+  },
+  {
+   "scan": 172,
+   "line": 3,
+   "lines": [
+    [
+     172,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "De veritate et mendacio"
+  },
+  {
+   "scan": 176,
+   "line": 3,
+   "lines": [
+    [
+     176,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "De simulatione"
+  },
+  {
+   "scan": 177,
+   "line": 2,
+   "lines": [
+    [
+     177,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "An liceat mentiri pro vita proximi conseruanda"
+  },
+  {
+   "scan": 177,
+   "line": 6,
+   "lines": [
+    [
+     177,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "An subditis liceat contra suos principes iniurgere"
+  },
+  {
+   "scan": 179,
+   "line": 3,
+   "lines": [
+    [
+     179,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput IIII."
+  },
+  {
+   "scan": 182,
+   "line": 4,
+   "lines": [
+    [
+     182,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "De coniugio ministrorum"
+  },
+  {
+   "scan": 190,
+   "line": 6,
+   "lines": [
+    [
+     190,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "An liceat piis pacem habere cum impiis"
+  },
+  {
+   "scan": 194,
+   "line": 1,
+   "lines": [
+    [
+     194,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Caput V."
+  },
+  {
+   "scan": 194,
+   "line": 4,
+   "lines": [
+    [
+     194,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "De musica et carminibus"
+  },
+  {
+   "scan": 208,
+   "line": 4,
+   "lines": [
+    [
+     208,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Caput VI."
+  },
+  {
+   "scan": 217,
+   "line": 3,
+   "lines": [
+    [
+     217,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "De visionibus, seu quomodo et quantum Deus ab hominibus possit cognosci"
+  },
+  {
+   "scan": 229,
+   "line": 3,
+   "lines": [
+    [
+     229,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "De miraculis"
+  },
+  {
+   "scan": 237,
+   "line": 3,
+   "lines": [
+    [
+     237,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput VII."
+  },
+  {
+   "scan": 241,
+   "line": 3,
+   "lines": [
+    [
+     241,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "De insomniis"
+  },
+  {
+   "scan": 251,
+   "line": 3,
+   "lines": [
+    [
+     251,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput VIII."
+  },
+  {
+   "scan": 251,
+   "line": 9,
+   "lines": [
+    [
+     251,
+     9
+    ]
+   ],
+   "level": 3,
+   "title": "De affectibus invidiae ac aemulationis"
+  },
+  {
+   "scan": 252,
+   "line": 5,
+   "lines": [
+    [
+     252,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "De misericordia"
+  },
+  {
+   "scan": 267,
+   "line": 0,
+   "lines": [
+    [
+     267,
+     0
+    ]
+   ],
+   "level": 3,
+   "title": "De bona intentione"
+  },
+  {
+   "scan": 269,
+   "line": 1,
+   "lines": [
+    [
+     269,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "De matrimonio et concubinatu"
+  },
+  {
+   "scan": 272,
+   "line": 1,
+   "lines": [
+    [
+     272,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Caput IX."
+  },
+  {
+   "scan": 272,
+   "line": 8,
+   "lines": [
+    [
+     272,
+     8
+    ]
+   ],
+   "level": 3,
+   "title": "Versio domus Gideonis explicatur, et detestabilis tyrannidis usurpatio"
+  },
+  {
+   "scan": 274,
+   "line": 6,
+   "lines": [
+    [
+     274,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "De ambitione"
+  },
+  {
+   "scan": 275,
+   "line": 4,
+   "lines": [
+    [
+     275,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "De parricidio"
+  },
+  {
+   "scan": 277,
+   "line": 4,
+   "lines": [
+    [
+     277,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "De fabula et apologo"
+  },
+  {
+   "scan": 280,
+   "line": 3,
+   "lines": [
+    [
+     280,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "De vino et ebrietate"
+  },
+  {
+   "scan": 286,
+   "line": 7,
+   "lines": [
+    [
+     286,
+     7
+    ]
+   ],
+   "level": 3,
+   "title": "De homicidio"
+  },
+  {
+   "scan": 287,
+   "line": 8,
+   "lines": [
+    [
+     287,
+     8
+    ]
+   ],
+   "level": 3,
+   "title": "Quomodo peccatum a Deo pendeat"
+  },
+  {
+   "scan": 289,
+   "line": 2,
+   "lines": [
+    [
+     289,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "An gratiae Dei possimus resistere"
+  },
+  {
+   "scan": 296,
+   "line": 3,
+   "lines": [
+    [
+     296,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput X."
+  },
+  {
+   "scan": 300,
+   "line": 3,
+   "lines": [
+    [
+     300,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Quomodo Deus dicat se nolle dare quod est datur, et contra"
+  },
+  {
+   "scan": 303,
+   "line": 2,
+   "lines": [
+    [
+     303,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XI."
+  },
+  {
+   "scan": 304,
+   "line": 2,
+   "lines": [
+    [
+     304,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "De spuriis et illegitime natis"
+  },
+  {
+   "scan": 306,
+   "line": 2,
+   "lines": [
+    [
+     306,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "An filius ferat iniquitatem patris"
+  },
+  {
+   "scan": 316,
+   "line": 4,
+   "lines": [
+    [
+     316,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "De rebus quae capiuntur iure belli"
+  },
+  {
+   "scan": 319,
+   "line": 5,
+   "lines": [
+    [
+     319,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "De praescriptione"
+  },
+  {
+   "scan": 320,
+   "line": 4,
+   "lines": [
+    [
+     320,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "De consuetudine"
+  },
+  {
+   "scan": 326,
+   "line": 1,
+   "lines": [
+    [
+     326,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "De voto Iephtae"
+  },
+  {
+   "scan": 331,
+   "line": 7,
+   "lines": [
+    [
+     331,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XII."
+  },
+  {
+   "scan": 332,
+   "line": 8,
+   "lines": [
+    [
+     332,
+     8
+    ]
+   ],
+   "level": 3,
+   "title": "De seditione"
+  },
+  {
+   "scan": 336,
+   "line": 11,
+   "lines": [
+    [
+     336,
+     11
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XIII."
+  },
+  {
+   "scan": 337,
+   "line": 10,
+   "lines": [
+    [
+     337,
+     10
+    ]
+   ],
+   "level": 3,
+   "title": "De voto Nazir"
+  },
+  {
+   "scan": 345,
+   "line": 9,
+   "lines": [
+    [
+     345,
+     9
+    ]
+   ],
+   "level": 3,
+   "title": "De sacrificio"
+  },
+  {
+   "scan": 348,
+   "line": 2,
+   "lines": [
+    [
+     348,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "De visionibus angelorum"
+  },
+  {
+   "scan": 354,
+   "line": 1,
+   "lines": [
+    [
+     354,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XIIII."
+  },
+  {
+   "scan": 356,
+   "line": 1,
+   "lines": [
+    [
+     356,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "An liceat filiis matrimonium inire absque consensu parentum"
+  },
+  {
+   "scan": 362,
+   "line": 3,
+   "lines": [
+    [
+     362,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "De ludis"
+  },
+  {
+   "scan": 368,
+   "line": 1,
+   "lines": [
+    [
+     368,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XV."
+  },
+  {
+   "scan": 372,
+   "line": 7,
+   "lines": [
+    [
+     372,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XVI."
+  },
+  {
+   "scan": 376,
+   "line": 6,
+   "lines": [
+    [
+     376,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "De scortatione"
+  },
+  {
+   "scan": 388,
+   "line": 1,
+   "lines": [
+    [
+     388,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XVII."
+  },
+  {
+   "scan": 393,
+   "line": 3,
+   "lines": [
+    [
+     393,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XVIII."
+  },
+  {
+   "scan": 394,
+   "line": 2,
+   "lines": [
+    [
+     394,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "De capite ecclesiae"
+  },
+  {
+   "scan": 402,
+   "line": 2,
+   "lines": [
+    [
+     402,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "De securitate"
+  },
+  {
+   "scan": 404,
+   "line": 2,
+   "lines": [
+    [
+     404,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XIX."
+  },
+  {
+   "scan": 406,
+   "line": 4,
+   "lines": [
+    [
+     406,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "De reconciliatione coniugum post adulterium admissum"
+  },
+  {
+   "scan": 414,
+   "line": 6,
+   "lines": [
+    [
+     414,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "De magistratu"
+  },
+  {
+   "scan": 431,
+   "line": 4,
+   "lines": [
+    [
+     431,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XX."
+  },
+  {
+   "scan": 439,
+   "line": 3,
+   "lines": [
+    [
+     439,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "De meritis"
+  },
+  {
+   "scan": 442,
+   "line": 2,
+   "lines": [
+    [
+     442,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "De ieiunio"
+  },
+  {
+   "scan": 450,
+   "line": 4,
+   "lines": [
+    [
+     450,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXI."
+  },
+  {
+   "scan": 455,
+   "line": 7,
+   "lines": [
+    [
+     455,
+     7
+    ]
+   ],
+   "level": 3,
+   "title": "De raptu"
+  },
+  {
+   "scan": 460,
+   "line": 3,
+   "lines": [
+    [
+     460,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "De choreis"
+  },
+  {
+   "scan": 465,
+   "line": 0,
+   "lines": [
+    [
+     465,
+     0
+    ]
+   ],
+   "level": 1,
+   "title": "De fidei mysteriis comment."
+  }
+ ],
+ "book": "Commentary on the book of Judges by Peter Martyr Vermigli (Zurich, Froschauer, 1561), with a dedication to the scholarchs of the Strasbourg Gymnasium, three indexes (matters and words, Scripture passages, common places) and, at the end, the opening of a second work, De fidei mysteriis commentarius. The commentary has a introduction, 21 chapters, and topical excursuses inside the chapters.",
+ "series": [
+  {
+   "label": "Caput",
+   "first": "I",
+   "last": "XXI",
+   "count": 21,
+   "level": 2,
+   "found": 67
+  },
+  {
+   "label": "EX",
+   "first": "Genesi",
+   "last": "Apocalypsi",
+   "count": 46,
+   "level": 2,
+   "found": 67
+  }
+ ],
+ "taste": 50,
+ "doubt": "",
+ "input": 33937,
+ "output": 24267
+}
