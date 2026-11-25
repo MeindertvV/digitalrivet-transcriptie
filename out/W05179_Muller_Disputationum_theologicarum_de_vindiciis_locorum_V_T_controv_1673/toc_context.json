@@ -1,0 +1,117 @@
+{
+ "work": "W05179_Muller_Disputationum_theologicarum_de_vindiciis_locorum_V_T_controv_1673",
+ "made": "2026-11-25T12:50:15",
+ "model": "claude-haiku-5-5",
+ "prompt": "655260ce46aa8978",
+ "candidates": 33,
+ "cost_usd": 0.00549,
+ "dropped": [
+  "title 'Thesis XII.' moved from 'XII. Ejusdem sunt acuminis, quae Menasse Ben-Isr. in' to 'Exod. Quaest. 50. p.171. habet: Ita volunt Legem a litera ב in-'",
+  "no scans for 14 wanted"
+ ],
+ "toc": [
+  {
+   "scan": 4,
+   "line": 1,
+   "lines": [
+    [
+     4,
+     1
+    ],
+    [
+     4,
+     2
+    ],
+    [
+     4,
+     3
+    ],
+    [
+     4,
+     4
+    ],
+    [
+     4,
+     5
+    ]
+   ],
+   "level": 1,
+   "title": "Vindiciæ Genes. 1. versus 1. adversus heterodoxos, qua veteres, qua recentiores, παρερμηνείᾳ[?] hujus loci, errores suos incrustantes, veritatemque arietantes."
+  },
+  {
+   "scan": 4,
+   "line": 6,
+   "lines": [
+    [
+     4,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "Thesis I."
+  },
+  {
+   "scan": 4,
+   "line": 8,
+   "lines": [
+    [
+     4,
+     8
+    ]
+   ],
+   "level": 2,
+   "title": "Thesis II."
+  },
+  {
+   "scan": 10,
+   "line": 7,
+   "lines": [
+    [
+     10,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "Thesis XII."
+  },
+  {
+   "scan": 14,
+   "line": 17,
+   "lines": [
+    [
+     14,
+     17
+    ]
+   ],
+   "level": 2,
+   "title": "Thesis XVIII."
+  },
+  {
+   "scan": 32,
+   "line": 1,
+   "lines": [
+    [
+     32,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Mantissa."
+  }
+ ],
+ "book": "Single printed disputation (Prima) by Johannes Müller, Tigurum 1673, on Genesis 1:1: a title page with the respondents, the disputation heading, numbered theses I to XVIII with long commentary, then a Mantissa of Augustine testimonies, ending in Finis.",
+ "series": [
+  {
+   "label": "Thesis",
+   "first": "I",
+   "last": "XVIII",
+   "count": 18,
+   "level": 2,
+   "found": 4
+  }
+ ],
+ "taste": 50,
+ "doubt": "4 of 18 of series 'Thesis'",
+ "input": 4398,
+ "output": 9802
+}
