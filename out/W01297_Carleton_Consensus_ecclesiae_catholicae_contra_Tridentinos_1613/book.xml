@@ -2554,8 +2554,22 @@
     </marginalia>
     <notes>The right-hand strip (text of the following printed page) is cut off at the scan edge and was left out as the neighbouring page's edge. Doubtful readings: "si contraria", "si quis", "praeter" in the Apostolus sentence (the italic line is faint); "trutinam" in the italic Chrysostom quotation; the Greek-free text otherwise clear. Printed "avaritiam" and "invidiam" are read from the scan as "auaritiam", "inuidiam"; the spelling "auaritiam" is kept in the sense of the printed u/v rule, yet the printed spelling may be "auaritiam"; checked as avaritiam. The paragraph ends mid-word ("regu-") and continues on the next page.</notes>
   </page>
-  <page type="missing" n="79">
-    <warning type="missing_page">page 79 was not transcribed: invalid XML: reference to invalid character number: line 6, column 782</warning>
+  <page type="text" lines="none" n="79" model="subscription/claude-haiku-5-5">
+    <warning type="catchword_in_text">catchword taken out of the main text: animæ</warning>
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One page of running text in a single column; a marginal note stands in the right margin beside the text. The narrow strip at the left edge is the neighbouring page and is not transcribed.</layout>
+    <page_number>57</page_number>
+    <running_head>CAPVT</running_head>
+    <main_text>
+      <l n="1">regulam, vnum gnomonem, vnam trutinam, sacram Scripturam. Noli mihi illud respondere, quod nec quæro, nec refert. Profero, quid dicat, quid doceat. Scriptura est, inquit, exactissima trutina &amp; regula. Cur non igitur ad hanc regulam Pontificias traditiones non scriptas reuocemus. Monet Chrysostomus, ne opinionum vento circumferamur, sed Scripturarum regulam sequamur. Et quia locus hic luculentissime Pontificias traditiones conuellit, verba Chrysostomi fusius apponam, quia ferunt Pontificios: {a}<i>Ne igitur multorum opiniones habeamus, sed res ipsas inquiramus. Quomodo autem non absurdum est propter pecunias aliis non credere, sed ipsas numerare, &amp; supputare, pro rebus autem amplioribus [?] aliorum sententiam sequi simpliciter? Præsertim quam habeant omnium exactissimam trutinam &amp; gnomonem, &amp; regulam domesticarum [?], inquam, legum affer-tionem [?]. Ideo obsecro &amp; pro vobis omnes, vt relinquatis, quid huic vel illi videatur, deq; his à Scripturis hac omnia inquirite.</i> Hæc ille. Nos sedulo quidem facimus, quod iubet Chrysostomus. Pontificii traditiones non scriptas nobis obtrudunt quasi pecunias; imo quasi verbum Dei omni thesauro pretiosius. Quod igi-tur homines non omnino supini facere solent in pecuniis excipiendis, vt non aliis credant, nec excipiant pecunias, nisi supputatas, &amp; numeratas; Num prohibebunt Pontificii, nos idem facere in re omnium pretiosissima, in fide suscipienda? in </l>
+    </main_text>
+    <marginalia>
+      <note letter="a" side="right" at="Et quia locus" line_from="1" line_to="1">in 1. Corin. homil. 13.</note>
+    </marginalia>
+    <notes>The marginal note reads "a in 1. Corin. homil. 13."; the reference mark "a" stands before "Ne igitur". Doubtful readings: "amplioribus" (scan may read "ampliorbus"), "domesticarum" (word after "regulam" is hard to read), "affer-tionem" (the word after "legum" is blurred and the hyphenation is uncertain), "Corin." (abbreviation in the note is partly obscured). The printed text reads "quasi pecunias", as seen. The line ending "in animæ" continues beyond this page. The left-hand strip of another page and show-through were not transcribed.</notes>
+    <bottom_margin>
+      <catchword>animæ</catchword>
+    </bottom_margin>
   </page>
   <page type="text" lines="ocr" n="80" model="subscription/claude-haiku-5-5">
     <warning type="merged_lines">3 line(s) contain several printed lines merged together (longest 380 chars, median 49); line numbering is unreliable</warning>
