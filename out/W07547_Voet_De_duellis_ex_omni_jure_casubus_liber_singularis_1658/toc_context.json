@@ -1,0 +1,984 @@
+{
+ "work": "W07547_Voet_De_duellis_ex_omni_jure_casubus_liber_singularis_1658",
+ "made": "2026-11-25T16:11:30",
+ "model": "claude-haiku-5-5",
+ "prompt": "655260ce46aa8978",
+ "candidates": 244,
+ "cost_usd": 0.02112,
+ "dropped": [
+  "no scans for 1 wanted"
+ ],
+ "toc": [
+  {
+   "scan": 9,
+   "line": 1,
+   "lines": [
+    [
+     9,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Ad lectorem"
+  },
+  {
+   "scan": 10,
+   "line": 1,
+   "lines": [
+    [
+     10,
+     1
+    ],
+    [
+     10,
+     2
+    ],
+    [
+     10,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Index capitum. Tractatus de duellis"
+  },
+  {
+   "scan": 15,
+   "line": 1,
+   "lines": [
+    [
+     15,
+     1
+    ],
+    [
+     15,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "De duellis licitis & illicitis"
+  },
+  {
+   "scan": 15,
+   "line": 3,
+   "lines": [
+    [
+     15,
+     3
+    ],
+    [
+     15,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Caput I. De voce, & definitione duelli"
+  },
+  {
+   "scan": 27,
+   "line": 16,
+   "lines": [
+    [
+     27,
+     16
+    ],
+    [
+     27,
+     17
+    ],
+    [
+     27,
+     18
+    ]
+   ],
+   "level": 2,
+   "title": "Caput II. Utrum licita duella ludicra, gloriæ causâ suscepta?"
+  },
+  {
+   "scan": 39,
+   "line": 10,
+   "lines": [
+    [
+     39,
+     10
+    ],
+    [
+     39,
+     11
+    ]
+   ],
+   "level": 2,
+   "title": "Caput III. Utrum corporis exercitium licitum?"
+  },
+  {
+   "scan": 49,
+   "line": 16,
+   "lines": [
+    [
+     49,
+     16
+    ],
+    [
+     49,
+     17
+    ],
+    [
+     49,
+     18
+    ]
+   ],
+   "level": 2,
+   "title": "Caput IV. Quid statuendum sit de nudorum certaminibus?"
+  },
+  {
+   "scan": 54,
+   "line": 1,
+   "lines": [
+    [
+     54,
+     1
+    ],
+    [
+     54,
+     2
+    ],
+    [
+     54,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput V. Utrum armorum exercitium licitum atque utile?"
+  },
+  {
+   "scan": 64,
+   "line": 11,
+   "lines": [
+    [
+     64,
+     11
+    ],
+    [
+     64,
+     12
+    ],
+    [
+     64,
+     13
+    ]
+   ],
+   "level": 2,
+   "title": "Caput VI. Utrum duella judicialia admittenda?"
+  },
+  {
+   "scan": 83,
+   "line": 19,
+   "lines": [
+    [
+     83,
+     19
+    ],
+    [
+     83,
+     20
+    ],
+    [
+     83,
+     21
+    ],
+    [
+     83,
+     22
+    ]
+   ],
+   "level": 2,
+   "title": "Caput VII. An quis licitè acceptet conditionem certaminis singularis, si sit innocens & adversarius calumniator?"
+  },
+  {
+   "scan": 89,
+   "line": 12,
+   "lines": [
+    [
+     89,
+     12
+    ],
+    [
+     89,
+     13
+    ],
+    [
+     89,
+     14
+    ],
+    [
+     89,
+     15
+    ]
+   ],
+   "level": 2,
+   "title": "Caput VIII. Inquiritur in duella, ex quibus belli aut prælii futuri desumitur præjudicium?"
+  },
+  {
+   "scan": 94,
+   "line": 19,
+   "lines": [
+    [
+     94,
+     19
+    ],
+    [
+     94,
+     20
+    ],
+    [
+     94,
+     21
+    ],
+    [
+     94,
+     22
+    ]
+   ],
+   "level": 2,
+   "title": "Caput IX. Quid statuendum de certamine duorum ultimo supplicio justè addictorum?"
+  },
+  {
+   "scan": 101,
+   "line": 15,
+   "lines": [
+    [
+     101,
+     15
+    ],
+    [
+     101,
+     16
+    ],
+    [
+     101,
+     17
+    ]
+   ],
+   "level": 2,
+   "title": "Caput X. Quid statuendum de duello utilitatis publicæ gratiâ suscepto?"
+  },
+  {
+   "scan": 111,
+   "line": 3,
+   "lines": [
+    [
+     111,
+     3
+    ],
+    [
+     111,
+     4
+    ],
+    [
+     111,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XI. Duella privata ab hostibus oblata, num accipienda?"
+  },
+  {
+   "scan": 117,
+   "line": 7,
+   "lines": [
+    [
+     117,
+     7
+    ],
+    [
+     117,
+     8
+    ],
+    [
+     117,
+     9
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XII. Utrum patrem patriæ proditorem liceat occidere?"
+  },
+  {
+   "scan": 131,
+   "line": 16,
+   "lines": [
+    [
+     131,
+     16
+    ],
+    [
+     131,
+     17
+    ],
+    [
+     131,
+     18
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XIII. De duellis seriis extra judicia gloriæ causâ susceptis."
+  },
+  {
+   "scan": 136,
+   "line": 19,
+   "lines": [
+    [
+     136,
+     19
+    ],
+    [
+     136,
+     20
+    ],
+    [
+     136,
+     21
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XIV. Duellum serium ostentationis gratiâ initum, num licitum?"
+  },
+  {
+   "scan": 144,
+   "line": 8,
+   "lines": [
+    [
+     144,
+     8
+    ],
+    [
+     144,
+     9
+    ],
+    [
+     144,
+     10
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XV. Utrum duella ad defensionem sui adhibita, licita sint?"
+  },
+  {
+   "scan": 154,
+   "line": 17,
+   "lines": [
+    [
+     154,
+     17
+    ],
+    [
+     154,
+     18
+    ],
+    [
+     154,
+     19
+    ],
+    [
+     154,
+     20
+    ],
+    [
+     154,
+     21
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XVII. An si provocans interfecerit provocatum justæ defensionis beneficio usus esse censeatur, aut vice versâ?"
+  },
+  {
+   "scan": 158,
+   "line": 7,
+   "lines": [
+    [
+     158,
+     7
+    ],
+    [
+     158,
+     8
+    ],
+    [
+     158,
+     9
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XVIII. Utrum æqualitas armorum sit necessaria?"
+  },
+  {
+   "scan": 164,
+   "line": 18,
+   "lines": [
+    [
+     164,
+     18
+    ],
+    [
+     164,
+     19
+    ],
+    [
+     164,
+     20
+    ],
+    [
+     164,
+     21
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XIX. Utrum insultatus ab insultante primum ictum excipere teneatur, utrum vero eundem antevertere possit?"
+  },
+  {
+   "scan": 174,
+   "line": 10,
+   "lines": [
+    [
+     174,
+     10
+    ],
+    [
+     174,
+     11
+    ],
+    [
+     174,
+     12
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XX. Defensio necessaria utrum licita adversus Magistratum?"
+  },
+  {
+   "scan": 180,
+   "line": 1,
+   "lines": [
+    [
+     180,
+     1
+    ],
+    [
+     180,
+     2
+    ],
+    [
+     180,
+     3
+    ],
+    [
+     180,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXI. Utrum eum liceat occidere, qui aliquem aggreditur animo tantùm mutilandi?"
+  },
+  {
+   "scan": 183,
+   "line": 10,
+   "lines": [
+    [
+     183,
+     10
+    ],
+    [
+     183,
+     11
+    ],
+    [
+     183,
+     12
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXII. Utrum fugere teneatur, qui fugere potuit?"
+  },
+  {
+   "scan": 187,
+   "line": 16,
+   "lines": [
+    [
+     187,
+     16
+    ],
+    [
+     187,
+     17
+    ],
+    [
+     187,
+     18
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXIII. Utrum mortem minantem liceat occidere?"
+  },
+  {
+   "scan": 190,
+   "line": 11,
+   "lines": [
+    [
+     190,
+     11
+    ],
+    [
+     190,
+     12
+    ],
+    [
+     190,
+     13
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXIV. Utrum ad defensionem pudicitiæ stuprare volentem liceat necare?"
+  },
+  {
+   "scan": 196,
+   "line": 16,
+   "lines": [
+    [
+     196,
+     16
+    ],
+    [
+     196,
+     17
+    ],
+    [
+     196,
+     18
+    ],
+    [
+     196,
+     19
+    ],
+    [
+     196,
+     20
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXV. Utrum, qui moderamine adhibito aggressorem occidit, in multam pecuniariam aut in impensas sit condemnandus?"
+  },
+  {
+   "scan": 199,
+   "line": 4,
+   "lines": [
+    [
+     199,
+     4
+    ],
+    [
+     199,
+     5
+    ],
+    [
+     199,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXVI. Utrum defensio cognatorum aliorumque sit permissa?"
+  },
+  {
+   "scan": 208,
+   "line": 19,
+   "lines": [
+    [
+     208,
+     19
+    ],
+    [
+     208,
+     20
+    ],
+    [
+     208,
+     21
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXVII. Utrum ad solam rerum defensionem furem occidere liceat?"
+  },
+  {
+   "scan": 224,
+   "line": 1,
+   "lines": [
+    [
+     224,
+     1
+    ],
+    [
+     224,
+     2
+    ],
+    [
+     224,
+     3
+    ],
+    [
+     224,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXVIII. Utrum duella licentiâ superiorum inter socios aut subditos suscepta, sint licita?"
+  },
+  {
+   "scan": 233,
+   "line": 1,
+   "lines": [
+    [
+     233,
+     1
+    ],
+    [
+     233,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXIX. Quae sit occasio duellorum?"
+  },
+  {
+   "scan": 241,
+   "line": 15,
+   "lines": [
+    [
+     241,
+     15
+    ],
+    [
+     241,
+     16
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXX. Utrum duellorum ulla sit utilitas?"
+  },
+  {
+   "scan": 245,
+   "line": 20,
+   "lines": [
+    [
+     245,
+     20
+    ],
+    [
+     245,
+     21
+    ],
+    [
+     245,
+     22
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXXI. Duellantes utrum audaces, an meticulosi?"
+  },
+  {
+   "scan": 253,
+   "line": 1,
+   "lines": [
+    [
+     253,
+     1
+    ],
+    [
+     253,
+     2
+    ],
+    [
+     253,
+     3
+    ],
+    [
+     253,
+     4
+    ],
+    [
+     253,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXXII. Utrum singulare certamen injuriarum illatarum, honoris defendendi gratiâ susceptum, sit licitum?"
+  },
+  {
+   "scan": 291,
+   "line": 5,
+   "lines": [
+    [
+     291,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXXIII."
+  },
+  {
+   "scan": 291,
+   "line": 6,
+   "lines": [
+    [
+     291,
+     6
+    ],
+    [
+     291,
+     7
+    ],
+    [
+     291,
+     8
+    ]
+   ],
+   "level": 3,
+   "title": "Quaestio I. Utrum si quis aliquem expectet, dicendo; nolim tecum congredi, verum aliquo sum iturus, qui me adoritur, virum me sentit: excusetur à delicto?"
+  },
+  {
+   "scan": 294,
+   "line": 1,
+   "lines": [
+    [
+     294,
+     1
+    ],
+    [
+     294,
+     2
+    ],
+    [
+     294,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Quaestio 2. An quis aliquem licitè occidat, si primum illi concesserit, aut permiserit arma?"
+  },
+  {
+   "scan": 296,
+   "line": 1,
+   "lines": [
+    [
+     296,
+     1
+    ],
+    [
+     296,
+     2
+    ],
+    [
+     296,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Quaestio 3. Utrum qui insignibus vel armis alterius familiæ usus est, duello provocari possit?"
+  },
+  {
+   "scan": 298,
+   "line": 1,
+   "lines": [
+    [
+     298,
+     1
+    ],
+    [
+     298,
+     2
+    ],
+    [
+     298,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Quaestio 3. Utrum duellum religionis gratiâ susceptum, sit licitum?"
+  },
+  {
+   "scan": 302,
+   "line": 6,
+   "lines": [
+    [
+     302,
+     6
+    ],
+    [
+     302,
+     7
+    ],
+    [
+     302,
+     8
+    ]
+   ],
+   "level": 3,
+   "title": "Quaestio 4. Utrum duellum licitum, quod inter rivales suscipitur?"
+  },
+  {
+   "scan": 306,
+   "line": 1,
+   "lines": [
+    [
+     306,
+     1
+    ],
+    [
+     306,
+     2
+    ],
+    [
+     306,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXXIV. Rationes dissuadentes singulare certamen proponuntur."
+  },
+  {
+   "scan": 321,
+   "line": 4,
+   "lines": [
+    [
+     321,
+     4
+    ],
+    [
+     321,
+     5
+    ],
+    [
+     321,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXXV. & ultimum. Remedia contra duella."
+  },
+  {
+   "scan": 347,
+   "line": 7,
+   "lines": [
+    [
+     347,
+     7
+    ],
+    [
+     347,
+     8
+    ],
+    [
+     347,
+     9
+    ],
+    [
+     347,
+     10
+    ],
+    [
+     347,
+     11
+    ],
+    [
+     347,
+     12
+    ]
+   ],
+   "level": 1,
+   "title": "Disputatio juridica, ad l. 2. Cod. leg. Cornel. De sicariis. Prima"
+  },
+  {
+   "scan": 364,
+   "line": 12,
+   "lines": [
+    [
+     364,
+     12
+    ],
+    [
+     364,
+     13
+    ],
+    [
+     364,
+     14
+    ],
+    [
+     364,
+     15
+    ]
+   ],
+   "level": 1,
+   "title": "Disputatio juridica, ad l. 2. Cod. leg. Cornel. De sicariis. Secunda"
+  },
+  {
+   "scan": 380,
+   "line": 9,
+   "lines": [
+    [
+     380,
+     9
+    ],
+    [
+     380,
+     10
+    ],
+    [
+     380,
+     11
+    ],
+    [
+     380,
+     12
+    ],
+    [
+     380,
+     13
+    ],
+    [
+     380,
+     14
+    ]
+   ],
+   "level": 1,
+   "title": "Disputatio juridica, ad l. 2. Cod. leg. Cornel. De sicariis. Tertia"
+  }
+ ],
+ "book": "Single treatise, Paulus Voet's De duellis licitis & illicitis, in the 1658 volume 'De duellis ex omni jure casibus liber singularis': an address to the reader and a chapter index, then 35 chapters (I–XXXV), then three juridical disputations De sicariis (Prima–Tertia).",
+ "series": [
+  {
+   "label": "Caput",
+   "first": "I",
+   "last": "XXXV",
+   "count": 35,
+   "level": 2,
+   "found": 34
+  },
+  {
+   "label": "Quaestio",
+   "first": "I",
+   "last": "4",
+   "count": 4,
+   "level": 3,
+   "found": 5
+  },
+  {
+   "label": "Disputatio juridica",
+   "first": "Prima",
+   "last": "Tertia",
+   "count": 3,
+   "level": 1,
+   "found": 6
+  }
+ ],
+ "taste": 50,
+ "doubt": "",
+ "input": 22777,
+ "output": 33712
+}
