@@ -1,0 +1,36 @@
+<page type="text" lines="none">
+  <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+  <layout>One column of running text, with short lines of paragraphs; a heading (Sectio X) in the middle of the column, below it the text continues to the foot. Marginal notes in the right margin: "Decima sectio." beside the heading, and "Offa pe-dum" beside the last lines. Bottom: signature "Z 3" at left, catchword "ossi-" at right, below the last line.</layout>
+  <page_number>357</page_number>
+  <running_head>CAPUT XXXII.</running_head>
+  <bottom_margin>
+    <catchword>ossi-</catchword>
+    <signature>Z 3</signature>
+  </bottom_margin>
+  <main_text>
+    <l n="1" para="true">Digitorum autem <i>ossa</i> articuli sunt vel magni vel parvi.</l>
+    <l n="2" para="true">
+      <i>Magni</i> sunt articuli primi, singulorum digitorum quantitatis magnae.</l>
+    <l n="3" para="true">
+      <i>Articuli primi</i> committuntur vel brachialis, vel postbrachialis ossibus.</l>
+    <l n="4" para="true">
+      <i>Articulus primus commissus brachiali</i> est primum pollicis os.</l>
+    <l n="5" para="true">
+      <i>Reliquorum digitorum articuli primi</i> cum postbrachiali coarticulantur.</l>
+    <l n="6" para="true">
+      <i>Parvi articuli digitorum</i> sunt reliqui articuli digitorum, quantitatis parvae.</l>
+    <l n="7" para="true">Eorum alii sunt minores, alii minimi.</l>
+    <l n="8" para="true">
+      <i>Minores</i> sunt secundi digitorum articuli.</l>
+    <l n="9" para="true">
+      <i>Minimi</i> sunt tertii &amp; extremi articuli.</l>
+    <l n="10" type="heading" level="1" caput="10" para="true">SECTIO X. DE OSSE ILIUM, PUBIS, ET COXENDICIS.</l>
+    <l n="11" para="true">Hactenus de ossibus superioribus extremae partis trunci: <i>Inferiora</i> sunt, quae ab ima medii trunci parte enata propen-dent, reliquum superius totum &amp; ere-ctum gestantia.</l>
+    <l n="12" para="true">Suntq; ossa pedum, quae hic totam</l>
+  </main_text>
+  <marginalia>
+    <note side="right" at="DE OSSE ILIUM," line_from="10" line_to="10">Decima sectio.</note>
+    <note side="right" at="Suntq; ossa pedum," line_from="12" line_to="12">Ossa pe-dum,</note>
+  </marginalia>
+  <notes>The heading's marginal note "Decima sectio." is placed inside the head element because no paragraph stands beside it. Printed long s was transcribed as plain s throughout (e.g. "ofsibus" as "ossibus", "fuperioribus" as "superioribus", "eft" as "est"). The marginal note "Offa pe-dum," is read with [?] doubt on its first letters; the text "Offa" may be the printed form of "Ossa". Catchword "ofsi-" read as "ossi-".</notes>
+</page>

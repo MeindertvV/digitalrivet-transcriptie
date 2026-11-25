@@ -1,0 +1,35 @@
+<page type="text" lines="none">
+  <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+  <layout>One page of running text in one column, with a running head at the top above the text and a catchword at the lower right; marginal notes in the right margin, each beside the paragraph line where it stands.</layout>
+  <page_number>123</page_number>
+  <running_head>CAPVT QVINTVM.</running_head>
+  <bottom_margin>
+    <catchword>Caput</catchword>
+  </bottom_margin>
+  <main_text>
+    <l n="1">salsi vel è mari retinent originem, vel per loca salsuginea, &amp;c.</l>
+    <l n="2" para="true">
+      <i>Odorabilis qualitas</i> est varius itidem odor aquarum: vel enim lambunt terram olidam, vel in se halitus adustos, aut succum odoratum recipiunt: vel quia nonnihil sunt coctæ: vel quia in locis cavis detentæ putrescunt, &amp;c.</l>
+    <l n="3" para="true">
+      <i>Ingens est aquarum varietas, quæ breviter ita possunt constringi</i>: <i>Aquæ scilicet fluidæ, sunt Simplices vel Minerales.</i>
+    </l>
+    <l n="4" para="true">Simplices, <i>quæ simplicem suam &amp; nativam vulgaremq; retinent naturam: ut aqua fontana, Mera.</i>
+    </l>
+    <l n="5" para="true">Minerales <i>dicuntur, quæ à simplici, vulgari &amp; mera discedentes, cum aliqua subterraneorum minera conspirarunt, et aut spiritaliter sunt tinctæ, aut mistæ corporaliter.</i>
+    </l>
+    <l n="6" para="true">
+      <i>Mineralis appellari generaliter quoq; posset Sabulosa, glareosa, &amp; similis. At specialiter dicta Mineralis est, quæ ex minera mutationem quandam patitur.</i>
+    </l>
+    <l n="7" para="true">
+      <i>Est autem</i> Minera <i>matrix subterranea, in qua aliquid fossilium efficacium ex genere mistorum exoriri solet, sive id metallum sit, sive lapis, sive succus, sive gleba, terrave minera-lis. De quibus infra.</i>
+    </l>
+  </main_text>
+  <marginalia>
+    <note side="right" at="Odorabilis qualitas est" line_from="2" line_to="2">Odorabilis.</note>
+    <note side="right" at="Ingens est aquarum" line_from="3" line_to="3">Aquarum alia distinctio.</note>
+    <note side="right" at="Simplices, quæ simplicem" line_from="4" line_to="4">Aquæ simplices.</note>
+    <note side="right" at="Minerales dicuntur, quæ" line_from="5" line_to="5">Minerales.</note>
+    <note side="right" at="De quibus infra." line_from="7" line_to="7">Minera.</note>
+  </marginalia>
+  <notes>Printed text in the right margin: "Odorabi-lis", "Aquarum alia di-stinctio", "Aquæ sim-plices", "Minera-les", "Minera". Those words are notes. Scan is slightly skewed and the page edges show show-through from the reverse side, which was left out. The text "Caput" at lower right is a catchword. Doubtful readings: "vulgaremq;" and "salsuginea" are read from the scan with reasonable but not complete certainty.</notes>
+</page>
