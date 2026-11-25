@@ -1,0 +1,5918 @@
+{
+ "source": "W03785_Hottinger_Gymnasii_theologici_disputatio_secunda_de_theologiae_homonym_1662.pdf",
+ "pages": [
+  {
+   "n": 1,
+   "type": "empty",
+   "model": "subscription/claude-haiku-5-5",
+   "notes": "Digitiser's cover sheet from e-rara.ch (logo, title block, persistent link and terms of use in several languages), not printed text of the book. Omitted. The book's title as given on the sheet: \"Gymnasii theologici disputatio secunda\", Johann Heinrich Hottinger, Tiguri 1662."
+  },
+  {
+   "n": 2,
+   "type": "title",
+   "model": "subscription/claude-haiku-5-5",
+   "lines": [
+    {
+     "n": null,
+     "text": "GYMNASII THEOLOGICI",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Disputatio secunda,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "<i>De</i>",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "THEOLOGIÆ",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "HOMONYMIA,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "FALSISQUE SOPHISTARUM",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "DISTINCTIONIBUS THEO-",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "LOGICIS.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "<i>Quam;</i>",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Deo Triuno regente & favente,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "<i>Præside</i>",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Viro admodum Venerando, Clarissimo,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Excellentissimo,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "D: JOH.HENR.HOTTINGERO",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "S. S. Theologiæ Doctore, ejusdemque in il-",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "lustri Lyceo Tigurino Professore celeberrimo,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Scholarcha p. t. Magnifico, Mæcenate, ac Promotore",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "suo colendissimo,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "<i>Dissertationi publicæ subjectam pro viribus</i>",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "<i>defendere conabitur</i>",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "JOH.RODOLPHUS HIRZELIUS.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "<i>ad diem</i> 17 <i>Decembris</i>",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "loco horisque solitis.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "TIGURI, Anno M DC LXII.",
+     "heading": 0
+    }
+   ],
+   "notes": "The \"D:\" before JOH.HENR.HOTTINGERO is printed in a heavier face and is transcribed as printed. The handwritten mark in the upper right corner is manuscript and is left out. The strip of text at the left edge belongs to the neighbouring page and is left out. No page number, running head, catchword or signature is printed on this page."
+  },
+  {
+   "n": 3,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "Reverendis, Clarissimis, Doctissimisque Viris:",
+     "heading": 1,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "DN. JOH: HENRICO ZELLERO, S.S.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "Theologiæ per Novum Testamentum Profes-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "sori ordinario, Scholæque superioris Intendenti.",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "DN. JOH: CASPARO SUICERO Græ-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "cæ, Hebraicæque Linguæ Professori publico.",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "DN. JOH: CASPARO HIRZELIO,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 8,
+     "text": "Scholæ Abbatissanæ Provisori.",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "Prudentissimo item, Præstantissimoque",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 10,
+     "text": "Viro",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "DN. JOH: CONRADO HOLZHALBIO,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 12,
+     "text": "Oeconomiæ Abbatissanæ p. t. Administratori",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "fidissimo,",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "D.D. Mæcenatibus, Fautoribus, Cognatis,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 15,
+     "text": "Fratri, Avunculo, nunquam non co-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "lendis, hócce Studiorum Speci-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "men sacrum esse vult",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "JOH. RODOLPHUS HIRZELIUS.",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "notes": "The ornamental border at the top is a printer's ornament, not text. A small printer's mark lies below the signature and is not transcribed. Faint show-through of text from the reverse side is visible across the page and was left out, as was a handwritten annotation in the top left corner. The printed hyphens in \"Profes-sori\", \"Græ-cæ\" and \"co-lendis\" are kept at the line ends. Spelling follows the print, with long s written as s."
+  },
+  {
+   "n": 4,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: tamen"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "THESIS I.",
+     "heading": 1,
+     "caput": "1",
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "Versamur adhuc in tractatione Nominis, varia-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "que vocabuli <i>Theologiæ</i> significatione, à qua ipsa",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "quoque rerum planior, & plenior explicatio",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "pendet.",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "II.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "Est ergo.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 8,
+     "text": "ה <i>Theologia</i> vel <i>infusa</i>, vel <i>acquisita</i>.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 9,
+     "text": "Fluit hæc distinctio ex diversis causis efficientibus. <i>Illa</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 10,
+     "text": "enim ordinario studio, & subsidiis requisitis comparatur; adeò-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "que ἐπίκτητος est; hæc extraordinariè, nulla prævia institutione,",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "infusa, adeoque θεόδιδακτος[?] appellari potest. De illa Apostolus lo-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "quitur, 2.Tim.1.v.13. Teneto ὑποτύπωσιν[?] expressam formam",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "saniorum sermonum, quos à me audivisti, &c. & cap.3.v.15.",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "ἀπὸ βρέφους, a puero nõlti[?] sacras literas. De hac verò Petrus, ex",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "Joële, <i>Act</i>: 2.v.17.18. <i>Effundam de Spiritu meo in omnem car-</i>",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "<i>nem: & prophetabunt filii vestri, & filiæ vestræ, & juvenes</i>",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "<i>vestri visiones videbunt &c.</i> de hac quoque ipse Servator",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "<i>Matth.10.v.19. Cùm autem tradiderint vos, ne estote soliciti</i>",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "<i>quomodo aut quid loquuturi sitis, dabitur enim vobis ea ipsa</i>",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "<i>hora, quid loquamini.</i>",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "Canon, de infusa: <i>Theologia infusa, ratione Finis, vel Ca-</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 23,
+     "text": "<i>nonica est, vel exomologetica tantum.</i> Differentia hæc diligenter",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "est observanda. Ea enim Theologia, quæ Prophetis, Apostolis,",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "Evangelistis est concessa atque communicata immediatè, non il-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "lorum tantùm usibus privatis, sed <i>communi</i> Ecclesiæ ædificatio-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "ni debebat inservire: adeòque & Canonica est. Sed quæ Mar-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "tyribus, cerdonibus sæpe illiteratis, data est, & cælitus infusa re-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "rum divinarum notitia, tantùm <i>Exomologetica</i> est, singula-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "riùm potissimùm bono <i>speciali</i> concessa. Etsi enim illi vel prop-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "terea, quòd adversarii subtilissimi, & acutissimi, τῇ",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "ἀπαιδεύτῳ[?] sapientiæ, & Spiritui, quo loquuntur, <i>Act.6.v.10.</i> resistere non",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "possunt, ad exemplum constantiæ nobis ponantur; Canonicam",
+     "heading": 0
+    }
+   ],
+   "catchword": "tamen",
+   "signature": "A 2",
+   "notes": "The left strip beyond the gutter (partial words such as \"S.S.\", \"ofef\", \"AO\", \"gnatis\") is the edge of the neighbouring page and was left out. Handwritten pen marks (underline under \"Canonica est, vel exomologetica tantum\", small marks in the margin and at \"ἀπαιδεύτῳ\") are not printed and were left out. Doubtful readings: \"nõlti\" (possibly \"nosti\"), the Greek words \"θεόδιδακτος\", \"ὑποτύπωσιν\" and \"ἀπαιδεύτῳ\", each marked [?]. The initial V is part of the word \"Versamur\"."
+  },
+  {
+   "n": 5,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "tamen authoritatem solis relinquimus Prophetis, Evangelistis,",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "& Apostolis.",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "I. <i>Theologia</i> vel Systematica <i>est vel</i> habitualis. Diffe-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "runt ut causa & effectus. Systematis enim, ceu causae, beneficio,",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "acquiritur habitus, tanquam effectus.",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "III.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "Atque haec quidem de vario usu, receptisque vocabuli",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 8,
+     "text": "Theologiae <i>distinctionibus</i> : operae pretium forte esset, caeteras",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "nos etiam, sed usitatiores tantùm, & solidiores in usum Studioso-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "rum praemittere distinctiones, earúmque per universam Theo-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "logiam diffusarum exhibere syllabum ; quando vero ad per-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "tractationem Systematis properamus, earum saltem distinctio-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "num, quibus fucum facere & tenebras veritati obducere conan-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "tur Sophistae, breve & succinctum praemittemus examen.",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "IV.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 16,
+     "text": "Rejicimus ergò in <i>materia</i> de <i>Theologia</i>, & <i>Religione</i> in",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 17,
+     "text": "genere, <i>capitibus item Theologicis</i>, distinctionem, <i>Articulorum</i>",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "<i>fundamentalium</i>, & <i>non fundamentalium</i>, ex sensu tum <i>Ponti-</i>",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "<i>ficio</i>, tum <i>Sociniano</i>, tum etiam <i>communis religionis Patrono-</i>",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "<i>rum</i>. Distingui articulos in <i>fundamentales</i>, & <i>non fundamenta-</i>",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "<i>les</i>, extra Controversiae aleam ponimus. De origine & usu di-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "stinctionis videri possunt <i>Cent.nost.p.37</i>. In Scholis olim Pon-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "tificiis notae erant distinctiones aequipollentes, in id, quod est <i>de</i>",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "<i>fide</i>, & quod <i>de Scholarum Theologia</i> : in ea, quae sunt <i>de necessi-</i>",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "<i>tate salutis</i>, & <i>quae non sunt</i> ; in <i>veritates fidei</i>, & <i>veritates doct-</i>",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "<i>rinae Christianae</i> ; in <i>Catholicas veritates</i> quae ita ad fidem per-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "tinent, ut his sublatis tollatur fides, & <i>illas veritates</i>, quibus sub-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "latis non ipsa statim tollatur fides nostra. Negamus tamen,",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "distinctionem illam admitti posse, sensu Pontificio, qui nume-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "rum fundamentalium praeter necessitatem auxerunt, ea etiam",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "nomine fundamenti obtrudentes, quae superstructionis nomen-",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "claturam tolerabilem non sustinent. Omnia enim Pontificum",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "decreta faciunt fundamentalia, non nemo etiam omnia Patrum",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "dicta. 2. Rejicitur etiam usu <i>Sociniano</i>, qui fibulam nimium",
+     "heading": 0
+    }
+   ],
+   "catchword": "con-",
+   "signature": "A 2",
+   "notes": "Faint orange stain on \"per-\" in \"ad per-tractationem\"; the word is legible. Handwritten underlines and strokes in pen above \"effectus\", \"tanquam effectus\", and under \"Omnia enim Pontificum decreta faciunt fundamentalia\" are not printed and are not transcribed. Show-through from the reverse is faint at the lower right and left out. The reading \"praemittemus examen\" has a small gap that may be a spacing irregularity; the word division is taken as examen. Long s rendered as plain s throughout; \"ufu\" read as \"usu\", \"noft\" as \"nost\", \"Syftematis\" as \"Systematis\"."
+  },
+  {
+   "n": 6,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "constringentes, paucissimos asserunt articulos fundamentales.",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "Unde, libellis hinc inde sparsis, tradiderunt, facilem esse com-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "positionem dissidiorum de Religione. Plerasque con-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "troversias esse de <i>Conclusionibus Theologicis</i> sive <i>dogma-</i>",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "<i>tibus Scholarum</i>, non autem de <i>fundamentalibus fidei</i> arti-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "culis: quo stratagemate praecipuos fidei articulos de Trinitate,",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "Satisfactione Christi &c. excluserunt. 3. Sed neque, ex Patro-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "norum religionis communis salvificae, admittenda sensu. <i>Her-</i>",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "<i>bertus</i>, Scriptor Anglus, in scriptis suis hinc inde, quaestione prae-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "sertim, quid mediis diversarum universo orbe militantium Ec-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "clesiarum terroribus laicus de religione optima statuerit; 29.",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "S.3. distinguit inter <i>austeros, tetricosque quosdam fidei articulos</i>,",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "& <i>Catholicas veritates</i>, quas p.31. recenset. 1. <i>esse aliquod supre-</i>",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "<i>mum numen. 2. numen illud coli debere. 3. Virtutem cum pie-</i>",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "<i>tate conjunctam optimam esse rationem cultus divini. 4. Re-</i>",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "<i>sipiscendum esse a peccatis. 5. Dari praemium vel poenam post hanc</i>",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "<i>vitam.</i> Ut ergo Pontificii <i>excessive</i>, Judaeis, ita posteriores",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "<i>Socinani</i>, & communis religionis Patroni, <i>defective</i>, Muhammeda-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "nis, quorum utrique distinctionem hanc admittunt, proxime ac-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "cedunt. Caeterum distinctionem in articulos fidei <i>Theologicos</i>",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "<i>& Catholicos</i> absolute non rejicimus. Modo per <i>illos</i> intelligan-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "tur, qui non omnibus ad salutem aspiraturis scita sunt necessarii,",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "sed publicis in Scholis vel Ecclesiis Doctoribus. Per <i>hos</i> vero, qui",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "ad obtinendam salutem ab uno quoque requiruntur. Atque sic",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "haec distinctio cum superiori in <i>fundamentales & non funda-</i>",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "<i>mentales</i> coincidit. Quibus vero characteribus <i>fundamen-</i>",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "<i>tales</i> possint distingui, alibi excussimus. Vide Cent.quaest.p.47.",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "V.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 29,
+     "text": "Circa Scripturam <i>spuriae distinctiones censentur: a. Verbi</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 30,
+     "text": "<i>Dei in ἐγγραφον & ἀγγραφον, sensu Judaico, Pontificio & Mu-</i>",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "<i>hammedico.</i> Non negamus, commodo sensu, distinctionem hanc",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "posse admitti. Illud n. verbum, quod ἐγγραφον jam est, olim fuit",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "ἀγγραφον. Ita vero non differunt specie; nec enim divisio haec est",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "generis in species, sed subjecti in accidentia, sive rei in diversmo-",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "dos. Pontificii vero hic constituunt differentiam duarum specierum-",
+     "heading": 0
+    }
+   ],
+   "catchword": "rum",
+   "signature": "A 3",
+   "notes": "The left-hand strip (fragments such as \"gelitis\", \"Diff.\", \"nefici\", \"Theo\", \"Ponti\") is the edge of the neighbouring page and was left out. The underline under \"Quibus vero\" and the ink flourish at the right of the rule are handwriting and were left out. \"diversmo-dos\" at the line end is read from a worn edge; the first part may be \"diversmo\" with a long s and is not certain. The Greek accents are read from a small, slightly blurred print."
+  },
+  {
+   "n": 7,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "rum realem,adeo ut <i>non scriptum sit</i> illud,quod in Scriptura non",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "extat, sive dogmata sint, sive ritus. Id quod variis probatorum",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "Authorum testimoniis demonstravimus in scripto <i>Hodeg.</i> P. 1.",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "p. 155. Eandem <i>Judaeorum & Muchammedanorum</i> esse men-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "tem, diximus, in <i>Thef. Philolog.</i> 154. & <i>Bibl. Orient.</i> p. 113.",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "<i>Append. Grammat. Harmon.</i> p. 188. Quo etiam consensus argu-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "mento, sed praepostere, Ecclesia Romana utitur.",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "b. <i>Canonis Judaici tres distinctas constitutiones.</i> Ut",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 9,
+     "text": "probent Pontificii, libros <i>Macchabaicos, Ecclesiasticum</i> &c. ad ca-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "nonem pertinere Scripturae, V.T. triplicem Canonis ordinatio-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "nem confingunt. <i>Primam</i> ad Esrae tempora referunt: <i>Secundam</i>",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "diebus Eleazari accidisse notant: <i>Tertiam</i> ad Iohannis Hyrcani",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "aetatem rejiciunt. Placuit hoc primum figmentum <i>Genebrardo,</i>",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "Doctori Sorbonico, quod ab illo postea mutavit <i>Bailius</i> Jesuita,",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "quorum verba extant in <i>Thef. Phil.</i> p. 110. Sed frivolum",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "est hoc [illegible, ~9 letters], cui repugnat, 1. Tota antiquitas Judaeorum &",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "Christianorum. 2. Diserta confessionum Judaicarum verba,",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "quae Macchabaeorum libros canone excludunt, <i>Thef. Phil.</i>",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "<i>p. 521. 3.</i> Ipsorum Doctorum Pontificiorum suffragium. Quod",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "si vel Josephus, vel alii Judaei subinde ex Apocryphis quaedam ci-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "tent, & quidem sub nomine כתובים oppositè ad libros Canoni-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "cos intelligi debere, monuimus <i>Thef. Phil. p. 519.</i>",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "c. <i>Canonis Veteris Testamenti, in Judaicum & Christia-</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 24,
+     "text": "<i>num.</i> In hac distinctione οἱ ἐξ ἐναρξίας [?] suaviter sibi blandiuntur:",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "sed frustra. Neque enim esse <i>sermonem</i> de Canone totali, utrius-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "que Testamenti, sed de partiali, adeoque Veteris tantum Testa-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "menti scriptis; notandum est. Nolunt Pontificii, ut assuant ῥάκος",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "ὑπόκρυφον [?], standum Synagogae judicio. <i>Sumus ne Judaei?</i> satis",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "pro imperio quaerit <i>Bailius</i> Jesuita, <i>Cath. tom.</i> 1. q. 13. quasi",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "inter Judaeos veteres, de quibus Apostolus, quod illis ἐπιστεύθησαν",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "τὰ λόγια τοῦ Θεοῦ [?] <i>Rom. 3. 2.</i> & recentiores Κυριοκτόνος [?] non sit",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "discrimen, & qui jam sunt acetum peffimum, olim non fuerint",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "vinum generosissimum. Ut ergo Canon <i>Judaicus</i> dicitur non",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "ratione temporis <i>praesentis</i>, sed <i>praeteriti</i>, ita negamus, <i>aliam</i>",
+     "heading": 0
+    }
+   ],
+   "catchword": "V. T.",
+   "signature": "A [?]",
+   "notes": "Doubtful readings: the Greek in \"οἱ ἐξ ἐναρξίας\", \"ῥάκος ὑπόκρυφον\", \"ἐπιστεύθησαν τὰ λόγια τοῦ Θεοῦ\" and \"Κυριοκτόνος\" is hard to read in the scan; accents and exact forms are uncertain. The Greek word after \"hoc\" in the second paragraph is not legible. The signature \"A\" at the foot is faint and any figure after it is unclear. \"adeo\" may carry an accent that is not visible. The Hebrew \"כתובים\" is set in a slightly irregular form in the scan. Pen underlines and marks in the margins and text are handwriting and are omitted."
+  },
+  {
+   "n": 8,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "V. T. regulam fuisse olim Judæorum, <i>aliam</i> nunc Christiano-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "rum: Olim <i>pauciores</i> libros, nunc <i>plures</i>. De vindiciis hujus Ca-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "nonis consuli potest <i>Alt. Theol.</i> Problem. nov. loc. 2. Pro-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "blem. 17.",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "d. <i>Authoritatis Scripturæ consideratæ intensive & ex-</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "<i>tensive.</i> Quæstio est in Scholis Theologicis gravis de Scripturæ",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "authoritate, collatæ ad authoritatem Ecclesiæ. Pontificiorum",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "variæ de hac quæstione sunt sententiæ, quas fideliter refert <i>Ferdi-</i>",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "<i>nand.</i> de <i>Escal.</i> Clyp. Concion. 1, 3. c. 8. & nos ex eo, Primit.",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "<i>Heidelb.</i> p.45. Ipse, rejectis reliquis vel <i>excessive</i>, vel <i>defective</i>",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "peccantibus opinionibus, concedit, sacram Scripturam majoris",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "quidem authoritatis esse <i>intensive</i>, quàm Ecclesiam; Ecclesiam",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "verò majoris authoritatis esse <i>extensive</i>, quàm Sacram Scriptu-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "ram. Sed quia hæc distinctio architectonica est superioris di-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "stinctionis Pontificiæ, verbi Dei in ἔγγραφον [?] & ἄγραφον, utpote",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "quæ <i>extensionis</i> nomine authoritatem intelligit Ecclesiæ, ea im-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "ponendi, & obtrudendi, quæ <i>neq; aperte, neq; obscure habentur in</i>",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "<i>Scriptura,</i> ut ex Innocentio loquitur author, eam non minùs",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "quàm reliquas eidem relinquimus: sufficienter ex Scriptura",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "edocti, eam, ceu θεόπνευστον [?], <i>extensive</i> etiam omni ratione &",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "modo Ecclesiæ officio, subordinato & διακονικῷ [?], esse superiorem.",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "e. <i>Authoritatis Scripturæ in se, & quo ad nos.</i> Cùm de",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 23,
+     "text": "Scripturæ & Ecclesiæ ageretur authoritate, erant ex superiorum",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "sæculorum Theologis Pontificiis, qui absolutè Scripturam post-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "ponebant authoritati Ecclesiæ, quæ sententia, cùm Societatis Pat-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "ribus nimis videretur absurda, σοφῷ φαρμάκῳ [?] emollienda ab illis",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "erat. Concesserunt ergo, S. Scripturam <i>in se</i> majoris esse autho-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "ritatis, minorem <i>quo ad nos.</i> Quam sententiam, citatus modò",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "Theologus Hispanus, fatetur, esse <i>quorundam modernorum</i>, quo",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "innuit, nec in Scholis antea fuisse receptam, nec plerisque postea",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "placuisse. Quando verò authoritatis nomine, non tam <i>dignitas</i>",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "intelligitur, & <i>potestas</i>, quàm <i>errandi impossibilitas</i>, & <i>Canonis</i>,",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "etiam <i>quo ad nos</i>, eodem teste Theologo Pontificio, <i>prærogativa</i>,",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "Scriptura autem <i>majores & meliores habet causas, ut à veritate</i>",
+     "heading": 0
+    }
+   ],
+   "catchword": "non",
+   "notes": "Greek words ἔγγραφον, θεόπνευστον, διακονικῷ and σοφῷ φαρμάκῳ are uncertain at the accents and breathings and are marked [?]. \"Escal.\" is printed with a long s (\"Efcal.\"), normalised to plain s. The Latin abbreviations neq; and the \"p.45\" figures are copied as printed. The line ending \"ut à veritate\" is the last full line; the catchword \"non\" is not repeated in the text. No page number or running head is printed on this page."
+  },
+  {
+   "n": 9,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "non possit recedere, quàm Ecclesia, distinctionis cariosa sponte",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "ruunt fulcra. Est n. <i>authoritas</i> intrinsecus & essentialis Scriptu-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "ræ character omni, etiam humano, respectu. Quòd si verò sal-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "lax hominum judicium, Χάλκεια ἀντὶ χρυσεῖων ampledatur,",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "non Scripturæ illud vitio, sed hominum ἀμβλυωπιῶντων [?] impu-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "tari debet defectui, cæcæque mentis stolidæ discretioni. Sed plu-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "ribus de origine huius distinctionis, ejusque futilitate egimus in",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "<i>Primit. Heidelb. p.</i> 43.",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "f. <i>Verbi in externum & internum.</i> Non negamus, ver-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 10,
+     "text": "bum aliud esse ἀσώματος [?], essentiale, <i>Christum Dei filium</i>, de quo",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "frequenter Patres; aliud ζ. ἐνδιάθετον [?], <i>internum</i>, ὁ ἐν καρδίᾳ",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "λαλούμενον [?], <i>animo conceptum</i>, aliud ζ. προφορικὸν [?] <i>prolatum</i>, <i>exter-</i>",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "<i>num</i>; Scripturam. Fanaticorum tamen deliriis, quatenus idem",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "verbum προφορικόν [?], Scripturam Sacram, in <i>internum</i> distin-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "guunt & <i>externum</i>; quorum illud <i>foris</i>, hoc <i>intus</i> percipiatur:",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "illud <i>literæ</i> & <i>Scripturæ</i>, hoc <i>Spiritui</i> tribuunt, non patrocinamur.",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "Inde hic promanavit error, quòd <i>rem</i> à <i>modo</i> percipiendi",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "non distinguerent. Eadem est <i>res</i>, verbum Dei, manens in æter-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "num, <i>1.Pet.1.v.23</i>. Sed <i>modus percipiendi</i> duplex, <i>internus</i> &",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "<i>externus</i>, <i>explicativus</i>, & <i>applicativus</i>, <i>auditus</i>, & <i>custoditus</i>, Ef.",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "6.v.8.9. Idem est semen, etsi diversis locis exceptum. Idem ver-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "bum, quod & audiendum, & custodiendum, Luc. 11.v.27.",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "g. <i>Sensus Scripturæ in Historicum Allegoricum & Ana-</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 24,
+     "text": "<i>gogicum.</i> Si sumantur oppositè, ut facit Schola Pontificiorum,",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "nempe, ut Sensus & Sensus, ἄλλο καὶ ἄλλο, non vero ut <i>sensus &</i>",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "<i>applicatio sensus</i>, ἄλλως καὶ ἄλλως. Dantur Allegoriæ in Scrip-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "tura, non vero <i>Sensus Allegoricus</i>, Historico oppositus, ex Scrip-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "tura; vide <i>Centur. nostr.</i> p. 242. &c.",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "h. <i>Distinctio Sensus in literalem & mysticum</i>: sensu vide-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 30,
+     "text": "licet Pontificio, & Judaico, quo duplex hic sibi sensus & opponitur",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "(ut <i>cortex</i> & <i>nucleus</i>, os & <i>medulla</i>, corpus & anima) & literalis",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "quidem, etsi <i>proximus</i>, <i>immediatus</i> & <i>innatus</i> rejicitur; my-",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "sticus verò, <i>fidiculis extortus</i>, & <i>vi illatus</i> obtruditur. Vide <i>Cent.</i>",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "<i>quæst.</i> p. 240. &c.",
+     "heading": 0
+    }
+   ],
+   "catchword": "Di-",
+   "signature": "1.",
+   "notes": "Ink underlines and strike marks cross the lines beginning \"in internum\", \"foris, hoc intus\", and \"tribuunt, non patrocinamur\". These are handwriting, not print, and are not transcribed. Greek words marked [?] are uncertain at this scan resolution, notably ἀσώματος, ἐνδιάθετον, λαλούμενον, προφορικὸν and ἀμβλυωπιῶντων. The words \"possit\" and \"Ef.\" are read from the scan as printed. The page carries no printed page number or running head."
+  },
+  {
+   "n": 10,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: vulgò"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "<i>1. Distinctio αὐθεντίας verborum, & rerum cum grano</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "<i>salis debet intelligi.</i> Sunt qui hanc adhibent distinctionem, ut",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "differentiam ostendant inter fontem & rivulos. Editionem ori-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "ginariam, & ortam. <i>Illam</i> & verborum esse volunt, & rerum,",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "<i>hanc</i> rerum tantum. Sed malumus inter 'Αὐθεντίαν distinguere <i>αὐτόπιστον</i>",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "[?] & <i>ἐτερόπιστον</i> [?], <i>propter se, & propter aliud, primam &</i>",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "<i>ortam, principij & principiati, archetypam & ectypam.</i> Illa",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "Linguis Originalibus respondet, <i>hæc</i> Translationibus. Aliâs re-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "rum <i>αὐθέντια</i> dari non potest, quæ verborum non innitatur",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "fundamento.",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "VI.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 12,
+     "text": "<i>Pergimus ad locum de</i> Deo <i>ubi censuram merentur di-</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 13,
+     "text": "<i>stinctiones,</i>",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "a. <i>Potentiæ Dei in absolutam</i>; citra limitationem vel sub-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 15,
+     "text": "jecti, vel objecti, <i>& actualem.</i> Hanc distinctionem admittimus,",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "quatenus per <i>absolutam</i> quidem eam intelligimus, quâ Deus po-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "test quicquid non implicat, aut naturæ ejus repugnat. <i>Extraor-</i>",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "<i>dinaria</i> aliâs vocatur: ineptè à Scholasticis <i>inordinata.</i> Per",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "<i>actualem</i> verò; quæ <i>& ordinaria</i>; quam actu ipso exerit. <i>Illa</i> ex",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "infinita Dei provenit essentia, <i>hæc,</i> cum voluntate ejus limitata,",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "est conjuncta. De utraque loquitur Scriptura: De absoluta,",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "<i>Matth.</i> 3. v. 9. & cap. 26. v. 13. De hac, <i>Psal.</i> 115. v. 3. <i>Esaj.</i>",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "46. v. 9. 10. Quatenus verò absolutæ potentiæ quidlibet sub-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "jicitur, illud etiam, quod objecti respectu est impossibile, subjecti",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "verò ratione contradictorium, eatenus alterum distinctionis",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "membrum removemus. Neque enim ita potentia absolutè de-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "bet intelligi, sed cum restrictione objecti, quod non est simplici-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "ter <i>τὸ ὄν,</i> sed <i>τὸ δυνατόν.</i> Quicquid enim vel ex parte subjecti",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "Dei, contradictionem implicat, vel ex parte objecti, rei, est, <i>ὃ</i>",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "<i>γὰρ ἀδυνάτων</i> [?], ad Potentiæ divinæ peripheriam referri non",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "debet.",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "b. <i>Distinctio Scientiæ Dei in eam, quæ est simplicis intelli-</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 33,
+     "text": "<i>gentiæ, visionis, & mediam, nova est, Scripturæ contraria, sui</i>",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "<i>destructiva, & Semipelagianismi Architectonica.</i> Distingui",
+     "heading": 0
+    }
+   ],
+   "catchword": "vulgò",
+   "signature": "B",
+   "notes": "Left margin is cropped by the scan edge: the note fragments visible there (for example \"ocrip.\", \"ero fa\", \"edanu\", \"impu\", \"ed plu\", \"mus in\", \"de qua\", \"exte\", \"idem\", \"tur\", \"in Scr\", \"x Scr\", \"1.De\") are partial and were not reconstructed beyond what is legible; they are given here as remarks only, not as transcribed notes. Greek words \"αὐτόπιστον\", \"ἐτερόπιστον\" and \"ὃ γὰρ ἀδυνάτων\" are doubtful. Page carries no printed page number or running head."
+  },
+  {
+   "n": 11,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "vulgò solet <i>Scientia Dei in necessariam & liberam. Illa</i> Deus",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "<i>fe cognoscit ipsum: hac</i> objecta extra se externa, quæ iterum in",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "<i>indefinitam</i> eorum, quæ ulla ratione fieri possunt, nihil tamen de",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "iis in alterutram partem a Deo est definitum, cujus objectum sunt",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "<i>τὰ δυνατά</i>; & <i>definitam</i>, distinguitur, cujus objectum <i>τὰ ἐσόμενα</i>.",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "<i>Illa alias simplicis intelligentia, hæc visionis & intuitiva</i> appel-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "lari solet. His duabus speciebus tertiam quidam addunt, scien-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "tiam <i>mediam</i>, quòd, ceu intermedia, ab utraque differat, adeòque",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "nec definitorum sit, nec indefinitorum, sed a certa <i>conditione</i>",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "<i>suspensorum.</i> Sententia hæc nova est, quia ante paucos annos",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "a Jesuitis <i>Fonseca, Molina, Lefsio</i>, inventa primùm, postea qui-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "busdam (non Arminianis tantùm, sed &) Theologis Ortho-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "doxis placere coepit. Est & <i>Scriptura contraria</i>, omne enim de-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "cretum, deliberatum esse, determinatúmque consilium voluntatis",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "<i>divinæ</i>, <i>Scriptura aperte loquuntur</i>, Esaj.46.v.10.Psal.115.v.3.",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "adeo ut si vel maxime Ex. Gr. 1.Sam.23.v.11.12. sermo sit de",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "<i>su-turis</i> respectu causarum secundarum, posita certa conditione;",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "tamen de <i>possibilibus</i> tantùm, agitur respectu causæ primæ.",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "Atque sic scientia hæc <i>media</i>, commodè explicata, receptæ",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "distinctioni in scientiam <i>simplicis intelligentiæ τῆς δυνατῆς</i> [?]",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "& <i>visionis τῆς ἐσομένης</i> [?] accedit. <i>Sui destructiva</i> est. Id, quod ex scho-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "lasticorum definitione satis patet. <i>Castan.</i> scientiam <i>mediam</i>",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "definit, <i>quâ cognoscat Deus quid acturum esset liberum arbit-</i>",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "<i>rium, pro sua innata libertate, si in hoc vel illo ordine aut cir-</i>",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "<i>cumstantÿs collocaretur: cum tamen posset si vellet, re ipsa fa-</i>",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "<i>cere oppositum. Istam autem scientiam non esse in Deo ratione</i>",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "<i>sui arbitrÿ, sed solum comparatione creati arbitrÿ.</i> Audacissima",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "profecto <i>σοφίσματα</i> [?], <i>quæ Deum absoluto suo in creaturas dominio</i>",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "<i>spoliat!</i> Creatorem creaturis subjicit, eventum ab earum optione",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "suspendit; se ipsam plane evertit. Si enim de illo loquatur auc-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "tor objecto, quod certò evenire potest, positis conditionibus, per-",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "tinet illud ad <i>simplicis intelligentiæ</i> notitiam: Si de <i>isto</i>, quod",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "eventurum actu est, tunc decretum ratione causalitatis, aliquod",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "<i>vel effectivum</i> vel <i>permissivum</i>, ratione modi <i>absolutum</i> vel",
+     "heading": 0
+    }
+   ],
+   "notes": "Greek words in the lines marked [?] are printed small and italic; I could not read their letters with confidence. The verse reference \"11s\" reads as Psal. 115 but the final digit is uncertain. No page number, running head or signature is printed."
+  },
+  {
+   "n": 12,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: talis"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "conditionatum, mediatum, vel immediatum praesupponit. Est",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "denique <i>Semipelagianismi architectonica.</i> Ideo enim Scholasti-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "cis & Novatoribus tantopere haec placet Helena, ut suam de prae-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "visis fide, & bonis operibus facilius tueantur hypothesin. De qui-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "bus suo loco plenius.'",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "c. <i>Distinctionem tamen attributorum Dei in absoluta &</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "<i>relata, rectè intellectam, defendimus.</i> Quatenus videlicet <i>abso-</i>",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "<i>luta</i> sunt, quae Deo competunt absque σχέσει[?] ad objectum extra",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "se, ut est, esse <i>omnipotentem, sapientem</i> &c. <i>Relata</i> vero denomi-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "nationem habent à σχέσει[?] ad objectum extra Deum, ita, cùm",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "Deus dicitur Creator &c. denominationem extrinsecus accipit",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "à creatura. Neque vero hinc, quod <i>Vorstiani</i> urgent, sequitur;",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "<i>Attributa non esse ipsum Deum, quia Deus fuerit, antequam ex-</i>",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "<i>titerunt attributa relata.</i> Deum esse necessitate Naturae & Essen-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "tiae; Attributa relata, libertate voluntatis. Facile enim hic sol-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "vitur nodus. Attributa relata, vel <i>materialiter</i> & in se, conside-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "rantur, vel <i>formaliter</i> & τῷ σχέσιν[?]; vel ratione <i>fundamenti</i> in-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "trinseci, vel ratione <i>denominationis</i> sive termini extrinseci.",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "<i>Res, materiale, fundamentum,</i> esse potuerunt, prout re vera fuit",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "<i>voluntas</i> ejus, omnipotentia, &c. id est, Deus volens, omnipotens",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "&c. Neque tamen necessaria esse debuit σχέσις[?] voluntatis ad extra,",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "omnipotentiae scil. & sapientiae, ad productionem Creaturarum.",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "<i>Relata</i> igitur vocantur attributa haec non a priori, sed a posterio-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "ri, non ex parte Dei, sed respectu rei. Neque enim Deus vel de-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "cernendo vel creando prodiit à potentia ad actum, sed res vel de-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "creta, vel creata.",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "d. <i>Male æternitas distinguitur in simplicem & partici-</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 28,
+     "text": "<i>patam.</i> Ita ex Scholasticis <i>Castan.</i> Sed 1. <i>vitiosa</i> est haec di-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "stinctio. Est enim æternitas absolute attributum Dei incom-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "municabile, ac proinde nulli participata. 2. <i>Periculosa</i> etiam",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "est, quia sic Vorstiani æternitatem aliquam successioni",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "temporum subjici, facilius obtinerent. Quòd si tamen eo",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "sumatur sensu, ut <i>simplex</i> sit ea, quae est <i>simpliciter</i> talis à parte",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "<i>ante,</i> & à parte <i>post,</i> quaeque solius Dei est: <i>Participata</i> vero, quae",
+     "heading": 0
+    }
+   ],
+   "marginalia": [
+    {
+     "side": "left",
+     "at": "conditionatum, mediatum, vel",
+     "line_from": 1,
+     "line_to": 1,
+     "text": "á Deu"
+    },
+    {
+     "side": "left",
+     "at": "c. Distinctionem tamen",
+     "line_from": 6,
+     "line_to": 6,
+     "text": "rum in"
+    },
+    {
+     "side": "left",
+     "at": "c. Distinctionem tamen",
+     "line_from": 6,
+     "line_to": 6,
+     "text": "men&"
+    },
+    {
+     "side": "left",
+     "at": "c. Distinctionem tamen",
+     "line_from": 6,
+     "line_to": 6,
+     "text": "im fur"
+    },
+    {
+     "side": "left",
+     "at": "c. Distinctionem tamen",
+     "line_from": 6,
+     "line_to": 6,
+     "text": "ouam."
+    },
+    {
+     "side": "left",
+     "at": "c. Distinctionem tamen",
+     "line_from": 6,
+     "line_to": 6,
+     "text": "appel"
+    },
+    {
+     "side": "left",
+     "at": "c. Distinctionem tamen",
+     "line_from": 6,
+     "line_to": 6,
+     "text": "scien"
+    },
+    {
+     "side": "left",
+     "at": "c. Distinctionem tamen",
+     "line_from": 6,
+     "line_to": 6,
+     "text": "soque"
+    },
+    {
+     "side": "left",
+     "at": "c. Distinctionem tamen",
+     "line_from": 6,
+     "line_to": 6,
+     "text": "dition"
+    },
+    {
+     "side": "left",
+     "at": "c. Distinctionem tamen",
+     "line_from": 6,
+     "line_to": 6,
+     "text": "anna"
+    },
+    {
+     "side": "left",
+     "at": "c. Distinctionem tamen",
+     "line_from": 6,
+     "line_to": 6,
+     "text": "a qu"
+    },
+    {
+     "side": "left",
+     "at": "c. Distinctionem tamen",
+     "line_from": 6,
+     "line_to": 6,
+     "text": "rtho"
+    },
+    {
+     "side": "left",
+     "at": "c. Distinctionem tamen",
+     "line_from": 6,
+     "line_to": 6,
+     "text": "n de"
+    },
+    {
+     "side": "left",
+     "at": "c. Distinctionem tamen",
+     "line_from": 6,
+     "line_to": 6,
+     "text": "tatis"
+    },
+    {
+     "side": "left",
+     "at": "d. Male æternitas",
+     "line_from": 27,
+     "line_to": 27,
+     "text": "s.j."
+    },
+    {
+     "side": "left",
+     "at": "d. Male æternitas",
+     "line_from": 27,
+     "line_to": 27,
+     "text": "s si"
+    },
+    {
+     "side": "left",
+     "at": "d. Male æternitas",
+     "line_from": 27,
+     "line_to": 27,
+     "text": "sea"
+    },
+    {
+     "side": "left",
+     "at": "d. Male æternitas",
+     "line_from": 27,
+     "line_to": 27,
+     "text": "nna"
+    },
+    {
+     "side": "left",
+     "at": "d. Male æternitas",
+     "line_from": 27,
+     "line_to": 27,
+     "text": "ept"
+    },
+    {
+     "side": "left",
+     "at": "d. Male æternitas",
+     "line_from": 27,
+     "line_to": 27,
+     "text": "é, &"
+    },
+    {
+     "side": "left",
+     "at": "d. Male æternitas",
+     "line_from": 27,
+     "line_to": 27,
+     "text": "ho"
+    },
+    {
+     "side": "left",
+     "at": "d. Male æternitas",
+     "line_from": 27,
+     "line_to": 27,
+     "text": "liam"
+    },
+    {
+     "side": "left",
+     "at": "d. Male æternitas",
+     "line_from": 27,
+     "line_to": 27,
+     "text": "rbit"
+    },
+    {
+     "side": "left",
+     "at": "d. Male æternitas",
+     "line_from": 27,
+     "line_to": 27,
+     "text": "ut cir"
+    },
+    {
+     "side": "left",
+     "at": "d. Male æternitas",
+     "line_from": 27,
+     "line_to": 27,
+     "text": "psa s"
+    },
+    {
+     "side": "left",
+     "at": "d. Male æternitas",
+     "line_from": 27,
+     "line_to": 27,
+     "text": "ratiu"
+    },
+    {
+     "side": "left",
+     "at": "d. Male æternitas",
+     "line_from": 27,
+     "line_to": 27,
+     "text": "aciss"
+    },
+    {
+     "side": "left",
+     "at": "d. Male æternitas",
+     "line_from": 27,
+     "line_to": 27,
+     "text": "lomi"
+    },
+    {
+     "side": "left",
+     "at": "d. Male æternitas",
+     "line_from": 27,
+     "line_to": 27,
+     "text": "opiu"
+    },
+    {
+     "side": "left",
+     "at": "d. Male æternitas",
+     "line_from": 27,
+     "line_to": 27,
+     "text": "ut ax"
+    },
+    {
+     "side": "left",
+     "at": "d. Male æternitas",
+     "line_from": 27,
+     "line_to": 27,
+     "text": "bus pe"
+    },
+    {
+     "side": "left",
+     "at": "d. Male æternitas",
+     "line_from": 27,
+     "line_to": 27,
+     "text": "sa, qui"
+    },
+    {
+     "side": "left",
+     "at": "d. Male æternitas",
+     "line_from": 27,
+     "line_to": 27,
+     "text": "aliquo"
+    },
+    {
+     "side": "left",
+     "at": "d. Male æternitas",
+     "line_from": 27,
+     "line_to": 27,
+     "text": "tum vi"
+    },
+    {
+     "side": "left",
+     "at": "d. Male æternitas",
+     "line_from": 27,
+     "line_to": 27,
+     "text": "con."
+    }
+   ],
+   "catchword": "talis",
+   "signature": "B 2",
+   "notes": "Left margin notes are cropped at the scan edge, so most are fragments and some letters are uncertain; they are copied as far as visible. Greek words (σχέσει, σχέσις, τῷ σχέσιν) are read from a small, blurred print and marked [?]. The right-margin manuscript mark (a pen flourish under \"antequam\") is handwriting and is not transcribed. Printed spellings are kept, including \"Quòd\" and \"Helena\". The page number is not printed; only the signature \"B 2\" appears."
+  },
+  {
+   "n": 13,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "talis est <i>secundum quid</i>, & tantùm à parte <i>post</i>, quæ Angelorum",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "est, tam bonorum, quàm malorum, & animæ rationalis, quam",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "Ævum <i>aliàs</i> appellant, facilè eam admittimus.",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "e. <i>Perperàm scientia visionis & intuitiva à Scholasticis</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "<i>distinguitur in absolutam, & conditionatam.</i> Cùm enim nul-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "lum decretum sit conditionatum i. e. dubiæ & vel ancipitis futu-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "ritionis ; scientia verò visionis nitatur Dei decreto, nulla potest",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "dari scientia visionis <i>conditionata.</i> Aut enim res certò futura",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "est ; etsi positis certis conditionibus ; & sic ad scientiam pertinet",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "visionis, vel non futura, quo respectu subjicitur Scientiæ simplicis",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "<i>intelligentiæ</i>, quæ est possibilium, non verò scientiæ <i>visionis</i>,",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "quæ est futurorum.",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "f. <i>Scientia visionis absoluta, perperàm subdistinguitur</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 14,
+     "text": "in scientiam <i>approbationis, & reprobationis, duplicis;</i>",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "<i>Positivæ</i>, quâ dicitur, Deum nescire & ignorare, quæ reprobat,",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "peccata & peccatores: & <i>negativæ</i>, eorum scilicet, ad quæ quasi",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "indifferenter se habet. <i>Primò</i> enim reprobatio in Theologia",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "non tam approbationi opponitur, quàm electioni. <i>Deinde</i> Scien-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "tia Dei <i>approbativa</i> est practica, <i>visionis</i> verò præcisè conside-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "rata est theoretica. Tertiò non dantur actus voluntatis divinæ",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "indifferentes. Nihil enim fit Deo nolente. Ne id quidem, quod",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "contra Dei voluntatem fit. Quæ non <i>effectivè</i>, <i>ea permissivè</i>,",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "<i>directivè</i>, & <i>determinativè</i> vult. 4. Aliter longè Theologi hac",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "distinctione utuntur in doctrina Prædestinationis æternæ, ut",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "postea, loco de decretis, audiemus. Statuere ergo, quòd per scien-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "tiam reprobationis negativæ Deus se habeat indifferenter ad",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "nonnulla, est loqui contra stylum Scripturæ. Quodcunque enim",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "Deus efficit, illud approbat, & in illo delectatur, tanquam in opere",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "manuum suarum, & nihil est, quòd odio habeat, vel improbet,",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "peccatum.",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "g. <i>Comparatio, quam instituunt Scholastici inter Scien-</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 32,
+     "text": "<i>tiam Dei simplicis intelligentia, practicam, & visionis sive in-</i>",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "<i>tuitivam, vitiosa est. Primam enim & secundam abstractivam</i>",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "vocant; <i>tertiam intuitivam.</i> Tertiam constituunt merè <i>specu-</i>",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "<i>lativam</i>. Tertiam constituunt merè <i>speculativam</i>",
+     "heading": 0
+    }
+   ],
+   "catchword": "lativam.",
+   "notes": "Long s is printed as s throughout and is written as plain s. Doubtful reading: \"elecționi\" is printed with a letter that may be a form of ct; written as \"electioni\". Italic and roman boundaries follow the scan as closely as possible. Hyphens at line ends are kept as printed (futu-, scien-, in-, confide-, specu-). The final paragraph ends on \"specu-\" and the catchword \"lativam.\" completes it. The last sentence above is a duplicate of the phrase in the transcription and should be checked against the scan: the paragraph ends with \"merè specu-\"."
+  },
+  {
+   "n": 14,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: Testimo-"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "<i>lativam</i> ; primam & secundam etiam <i>practicam</i>. Sed male. Scien-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "tia enim practica, non est abstractiva, cum fundamentum habeat",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "decretum operativum rerum, quas novit. 2. Scientia <i>simplicis</i>",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "<i>intelligentia</i>, non est practica, sed mere speculativa, quae Dei de-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "cretum, in signo rationis, antecedens, circa sola possibilia versatur.",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "Ex possibilium vero cognitione nihil sequitur. Alias omnia pos-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "sibilia fieri deberent. Neque scientia <i>simplicis intelligentia</i>, cau-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "sa rerum dici potest, nisi forte causa exemplaris statuatur, &",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "idealis.",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "1. <i>Inter unum, & multa, non est necessaria semper</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 11,
+     "text": "<i>realis oppositio, sed amica saepe compositio.</i> Prius quidem vellent, ut",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "more suo, infinitum Trinitatis mysterium finitae capacitatis suae",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "modulo includerent, Anti-Trinitarii. In homine certe multa",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "sunt, sive essentiales spectemus partes, sive integrales, & tamen",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "homo unus est. Multa sunt in Christo Θεάνθρωπῳ [?], in quo duae",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "distinctae naturae sunt considerandae, & tamen unus est, neque",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "divisus, quo ad Personam. Tres sunt Personae in divinis, unus ta-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "men est Deus, essentia & natura.",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "k. <i>Distinctionem inter invocationem & adorationem,</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 20,
+     "text": "<i>sensu Pontificio & Socinano, rejicimus.</i> Habent enim hanc",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "distinctionem Pontificii cum Socinianis, communem. Et Ponti-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "ficii quidem, ut εἰκονολατρείαν [?] suam defendant, & ἀ̈ολατρείαν [?],",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "<i>Vid. Hodeg. p. 111. p 56. 57. 58.</i> Socinus vero passim inter",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "<i>adorationem, & invocationem</i> distinguit. Illam pro corporis, vel",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "animi inclinatione, & reverentia modo aliqua, ut tamen nihil",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "petas, accipit: hanc ubi alterius etiam imploras opem. Illam",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "Christo nos debere, illam licere tantum tribuere, asserit. Placet",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "haereticis commentum, ut vim argumenti pro Deitate Filii, ex",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "adoratione structum, enervent. Quam impietatem masculè",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "praeter alios nuper profligavit celeb. <i>Hornbek. tom. 2. Sociniani</i>",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "<i>confut. p. 192.</i> Sed repugnat huic figmento promiscuus & recip-",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "rocus ubique vocum <i>adorandi & invocandi</i>, usus. <i>Confer Psalm.</i>",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "<i>50. v. 15. & Matth. 4. v. 10.</i> Ipsa quidem adoratio in <i>civilem</i> di-",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "stinguitur & <i>religiosam</i>, religiosa tamen, ipsorum Turcarum",
+     "heading": 0
+    }
+   ],
+   "marginalia": [
+    {
+     "side": "left",
+     "at": "lativam ; primam",
+     "line_from": 1,
+     "line_to": 1,
+     "text": "[illegible, ~8 letters]"
+    },
+    {
+     "side": "left",
+     "at": "1. Inter unum,",
+     "line_from": 10,
+     "line_to": 10,
+     "text": "[illegible, ~6 letters]"
+    },
+    {
+     "side": "left",
+     "at": "k. Distinctionem inter",
+     "line_from": 19,
+     "line_to": 19,
+     "text": "[illegible, ~5 letters]"
+    }
+   ],
+   "catchword": "Testimo-",
+   "notes": "Left margin: cropped note fragments, mostly unreadable at the edge of the scan, placed beside the first three paragraphs. Red brackets, underlining and \"e\" marks in the text are manuscript annotations and are not transcribed. Greek words in the k-paragraph are uncertain and marked [?]: \"ἀ̈ολατρείαν\" is hard to read. The Greek in the 2nd paragraph is also uncertain. The text ends mid-word at \"Testimo-\" and continues on the next page."
+  },
+  {
+   "n": 15,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "merged_lines",
+     "text": "1 line(s) contain several printed lines merged together (longest 154 chars, median 41); line numbering is unreliable"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "testimonio, soli Deo congruit, quem & à cultu, omnium pene",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "Orientalium exemplo, vocant אל[?], quod σέβασμα[?] proprie no-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "tat, Numen venerandum.",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "1. <i>Distinctionem contra invocationis, in absolutam & re-</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "<i>latam, contra Socinianos admittimus; objectum vero adoratio-</i>",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "<i>nis primarium & secundarium contra Pontificios, & Socinianos</i>",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "<i>negamus.</i> Socinus vult, omnem adorationem esse relativam.",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "Quod quidem, si sumatur extra considerationem, ad objectum",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "restrictius verum est: Sed si objectorum diversorum habeatur re-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "spectus, tum vel <i>absoluta</i> est, quà tota S.S. Trinitas adoratur;",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "vel <i>relativa</i>, qua Pater per Filium invocatur. Altera distinctio",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "<i>Socinianorum est, & Pontificiorum: Illorum,</i> ut adorationem",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "tueantur Christi, quem Deum esse negant: <i>horum,</i> ut cultui crea-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "turarum patrocinentur. Eodem sensu distinguunt in <i>mediatam</i>",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "<i>& immediatam; ultimatam & non ultimatam,</i> sed frustra. Uni-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "cum enim adorationis est objectum, Deus nempe, & quidem pri-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "mitate, ut loquuntur Scholastici, <i>adæquationis, attributionis, in-</i>",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "<i>tentionis, proportionis, &c.</i>",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "VII.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 20,
+     "text": "De decretis multæ in Scholas Christianorum irrepserunt",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 21,
+     "text": "distinctiones, quæ sublimia illa mysteria obscurant, & in-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "volvunt, qualis est, Usitatissima distinctio voluntatis divinæ",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "à. <i>In voluntatem antecedentem, & consequentem.</i> Et quia di-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "stinctionis huius, in foro Theologico, usus est frequentissimus, non",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "fuerit ἀδύνατον[?], si de ea paulo agamus distinctius. <i>Originem</i>",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "ejus referunt ad ipsum quidam Chrysostomum, quando vero",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "non satis causæ fidunt alii, malunt agnoscere Patrem Damasce-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "num, qui aperte satis & clare voluntatem distinguit in θεληματικὴν[?] καὶ ἐπομένην[?]. Damasceni verba sunt: Λέγεται τὸ μὲν πρῶτον προηγούμενον[?] θέλημα,",
+     "heading": 0,
+     "merged": true
+    },
+    {
+     "n": 29,
+     "text": "καὶ εὐδοκία ἐξ αὐτοῦ. Τὸ δὲ δεύτερον ἐπόμενον θέλημα καὶ παραχώρησις ἐξ ἡμετέρας αἰτίας. <i>Prima voluntas, & beneplacitum dicitur, quod ex ipso est. Se-</i>",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "<i>cunda vero voluntas sequens est, & permissio dicitur, quæ ex</i>",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "<i>nostra causa vel culpa oritur.</i> lib. 2. Cath. fid. cap. 29. Quid ipse,",
+     "heading": 0
+    }
+   ],
+   "catchword": "qui",
+   "notes": "No page number or running head is printed. Catchword \"qui\" at the lower right. The reddish mark beside \"adorationem\" on the right edge is a stain and is not transcribed. The Greek and Hebrew words were read from a small, slightly blurred scan. Marked [?]: the Hebrew word after \"Orientalium\", \"σέβασμα\", \"ἀδύνατον\", \"θεληματικὴν\", \"ἐπομένην\" and \"προηγούμενον\". The rest of the Greek of the Damascene quotation is legible but should be checked against the original. The first line of the page is a continuation from the previous page."
+  },
+  {
+   "n": 16,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "qui hac primùm usus est distinctione, intenderit <i>Damascenus</i>, non",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "fatis liquet. Sunt, qui <i>Semipelagianismum</i> sapere eam volunt, ita",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "<i>Alting.</i> &c. Alii tamen mitiùs de eo sentiunt. <i>VValæus</i> existimat",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "<i>Damascenum</i> per <i>voluntatem antecedentem</i> varia Dei beneficia",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "intelligere, & quæcunque à nobis bona proficiscuntur, quæ nul-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "lam habent causam in homine, aut hominis merito: ad conse-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "quentem verò tantùm pœnas, quia earum causæ sunt in homine,",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "sine quarum respectu Deus pœnam non vult, peccata verò ad",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "Dei permissionem, & gubernationem referri. Omninò existimo,",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "<i>Damasceni</i> verba commodum admittere sensum, nisi commu-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "nis Græcorum opinio περὶ τ̃ ἀντιξεσίας[?], quæ hominem suæ sa-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "lutis facit fabrum, <i>Damascenum</i> involverit. Hæc postmodum",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "distinctio à Scholasticis ventilata, & pluribus non modò verbis",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "exposita, sed & diverso sensu fuit applicata. <i>Thomas</i>",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "antecedentem esse dixit, quâ res non tantùm consideratur secun-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "dum primam suam Naturam: sed etiam, secundum omnes ad-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "junctas circumstantias, ut cùm judex considerat hominis natu-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "ram absolutè, pacem item & vitam, vult homines pacatè vivere,",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "sed quando eum cum omnibus circumstantiis spectat, furti nem-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "pe reum, latrocinii, cædis, aliorúmque scelerum, tum interfici eum",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "vult. Unde prior voluntas <i>Velleitas</i> potiùs ab iis vocatur, i.e. ali-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "quod desiderium, seu propensus affectus, posterior proprie <i>volun-</i>",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "<i>tas.</i> Solus Bonaventura, cum quibusdam recentioribus, vocat",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "<i>voluntatem antecedentem</i> id, quod Deus vult in causis suis,",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "ut: omnes homines vivere, quia vult omnibus, juxta hanc",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "sententiam, media & causas vitæ. <i>Consequentem</i> verò, quâ",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "vult res non tantùm in causis suis, sed etiam immediatè in se, ut;",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "vitam obedientibus, mortem inobedientibus. Castanæus. <i>Ante-</i>",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "<i>cedens dicitur propter relationem ad aliam aliquam voluntatem,</i>",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "<i>quæ nostro intelligendi modo subsequitur: Ideóque à Chrysosto-</i>",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "<i>mo dicitur primaria, est q[?] quâ Deus vult id, quod ex se, & per se</i>",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "<i>ipsi placet, & est gratum, ut peccatores converti, unde & bene-</i>",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "<i>placiti vocatur.</i> Consequens est, <i>quæ aliquam aliam volunta-</i>",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "<i>tem nostro intelligendi modo subsequitur. Ideoq; ab eodem Chry-sosto-</i>",
+     "heading": 0
+    }
+   ],
+   "notes": "Left edge: fragments of the facing page's text, cut off by the gutter, not printed on this page; left out. Greek in the sentence \"περὶ τ̃ ἀντιξεσίας\" is only partly legible and is marked [?]. The abbreviation after \"est\" is unclear and marked [?]. No page number, running head or catchword is printed on this page."
+  },
+  {
+   "n": 17,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "<i>fostomo[?] secundaria appellatur. Utraque antecedens & subse-</i>",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "<i>quens declarantur à Thoma hoc exemplo: Deus, voluntate ante-</i>",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "<i>cedente & primaria, vult omnes homines salvos fieri, sed quia</i>",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "<i>multi homines voluntati divinæ non obtemperant, ideo non sal-</i>",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "<i>vantur. Hæc autem voluntas consequens, semper est efficax:</i>",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "<i>illa autem vocatur Antecedens, respectu hujus, quia ex se illam</i>",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "<i>habet, ex intrinseca inclinatione suæ bonitatis, non autem ex ali-</i>",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "<i>quo priori & parte subjecti. Hanc vero habet ex aliquo extrin-</i>",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "<i>seco priore: contra inclinationem quodámodo coactus.</i> Atque sic",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "patet, quâ ratione Damasceni distinctio suis creverit progressibus,",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "& quomodo præruptâ moles periculosis sustentata fuerit fulc-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "ris. Valde enim absurdum est, quod huic illustrandæ distinctio-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "ni adinvenerunt exemplum. Nusquam in Sacra Scriptura legi-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "mus, Deum velle <i>omnes & singulos</i> salvos fieri. Neque quod evita-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "re volunt, obtinent. Tam enim verum esset dicere, Deum vo-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "luntate antecedente velle omnes damnari, si sint increduli, ac,",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "velle servari, si credant. Nec magis hoc posterius illi tribuen-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "dum ex intrinseca inclinatione suæ bonitatis, quàm illud prius ex",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "inclinatione suæ justitiæ. Absurdum cum primis est, quod dicit",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "<i>Castanæus</i>, Deum in voluntate consequenti contra inclinationem",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "quodámodo cogi. Quis enim resistet ejus voluntati, <i>Rom. 9. v. 19.</i>",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "aut quis Deo jure, & proprie tribuit velleitates inefficaces, & frust-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "ranea desideria in prætensa[?] illa voluntate antecedenti, qui intel-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "lexerit, <i>Deum facere, quicquid vult?</i> Hæc paulò operosius de",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "<i>Origine, usu, & abusu</i> distinctionis in voluntatem antecedentem,",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "& consequentem. <i>Bonaventuræ</i> explicationem sequi videtur",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "<i>Schola Arminiana.</i> Eadem distinctione, ex iis, qui <i>Reformati</i>",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "cluent[?], alii sensu deteriori adeóque Semi-Pelagiano, abutuntur;",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "alii vero, sano sensu, sobrie <i>utuntur.</i> Illis ergo <i>voluntas ante-</i>",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "<i>cedens</i> sive conditionata, <i>velleitas</i> tantum quædam est, sive con-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "silium Dei de omnibus in universum hominibus servandis,",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "<i>voluntas consequens</i> de servandis credentibus, & damnandis in-",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "credulis. <i>Illa</i> sic dicitur, quòd actum humanæ voluntatis, sive",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "actiones humanas bonas vel malas antecedit. <i>Ista</i> vero, quia",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "mali",
+     "heading": 0
+    }
+   ],
+   "catchword": "mali",
+   "notes": "No marginal notes. Running head, page number and signature not printed. Right edge shows show-through and the neighbouring page edge, not transcribed. Doubtful readings: \"fostomo\" (first word, italic, possibly \"postremo\"), \"cluent\" and \"prætensa\" are marked [?]. Long s is rendered as s throughout. Printed text \"Nusquam\" is read as \"Nusquam\" in the scan; \"Nuspiam\" also possible."
+  },
+  {
+   "n": 18,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "posterior est humana voluntate & ab ejus actionibus, bonis vel",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "malis dependet. Inter utramque voluntatem ergo <i>media</i> inter-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "venit voluntas humana, quae ut plurimum efficit, ut Deus rescin-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "dat voluntatem antecedentem longe optimam. Hoc sensu, quem",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "Schola Arminii & Lutheri defendit, distinctio in foro Theolo-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "gico admitti non potest, ut quae injuria est in Deum ipsum.",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "1. Impingit in sapientiam ejus, immutabilitatem & potentiam,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 8,
+     "text": "Nihil certe vel praenosse, vel praedefinire potest, quod hominum",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "non stet cadatve arbitrio. 2. Aeternam electionem subruit.",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "Suspenditur enim electio ab hominum voluntate. 3. Toti re-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "pugnat Scripturae Sacrae, quae de voluntatis Dei immutabilitate",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "aliter loquitur. Atque haec causa est, quod ex Theologis Orthodo-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "xis plerique hanc distinctionem, tanquam Jesuiticam, Pelagia-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "nam, & Remonstraticam plane rejiciunt, ut <i>Maresius, &c. Alij</i>",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "tamen certo eam respectu admittunt: adeoque sobrie illa utuntur.",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "Zanchius, <i>antecedentem</i> voluntatem ipsa vocat praecepta, &",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "admonitiones, item promissiones & minas, quas Deus homini",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "proponit antequam salvet aut damnet. <i>Consequentem</i> vero actio-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "nes Dei, quae nostram obedientiam, vel inobedientiam conse-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "quuntur, ut sunt justificatio, damnatio &c. <i>Polano</i> antecedens est,",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "qua Deus omnes vult servare, si credant, & resipiscant: <i>conse-</i>",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "<i>quens,</i> qua Deus poenam inobedientibus, praemium obedientibus",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "tribuit. <i>Antecedentem</i> non semper impleri, quia conditio-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "nem adjunctam habet, quae non semper impletur ab homine,",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "sed <i>consequentem</i> semper impleri, quia est absoluta & simpliciter",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "voluntas, quae semper effectum suum sortitur. <i>Petrus Molinaeus</i>",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "eandem admittit. 1. Quatenus fatendum est, inter decreta Dei",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "certum esse ordinem, & unum alterum sequi. 2. Quatenus vo-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "luntatis humanae & determinationis praesupponitur considera-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "tio, quae intervenit; Ita Mediatoris destinatio praesupponit lapsum",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "hominis. <i>VValaeus</i> fatetur, praestare, hanc distinctionem plane omit-",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "ti, quam occasionem dissensus per eam praeberi. <i>Molinaei</i> tamen",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "explicationi subscribit, nisi quod malit, ordinem esse inter <i>varia</i>",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "<i>objecta</i> unius decreti, quam inter <i>varia decreta,</i> quia Deus unico",
+     "heading": 0
+    }
+   ],
+   "marginalia": [
+    {
+     "side": "left",
+     "at": "1. Impingit in",
+     "line_from": 7,
+     "line_to": 7,
+     "text": "[?]"
+    }
+   ],
+   "catchword": "om-",
+   "signature": "C",
+   "notes": "Left margin is cropped at the scan edge: only fragments of notes remain (for example \"s fubj\", \"ite am\", \"fed qu\", \"non fi\", \"effica\", \"ex al\", \"extrin\", \"inclio\", \"rita\", \"ac,\", \"onem\", \". 19.\", \"ruft\", \"ntel\", \"entem\", \"viden\", \"formä\", \"as au\", \"rvanc\", \"atis\", \"erò, qu\", \"mal\"). They are too short to be read in full and are not transcribed as notes. The margin notes are therefore unreliable and cannot be assigned to their text. The word \"Aliy\" is read as \"Alij\" (the j is a long-descender i). The reference mark in the text ({y}) is not visible. The text ends mid-sentence at the foot of the page, before the catchword."
+  },
+  {
+   "n": 19,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "omnia firmavit decreto E. G. praevidit Deus in prima hominis",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "creatione hominem abusurum donis ab ipso concessis, priusquam",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "media ordinare statuit, per quae homo lapsus restauraretur. Prius",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "ergo illud decretum, vel potius prior pars hujus decreti, poste-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "rius, vel posteriorem potius ejus partem antecedit. <i>Altingius</i>",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "eandem admittit, tum de Decreto, tum de voluntate Dei com-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "mode explicatam. De <i>decretis</i> Dei, quatenus certus eorum ordo",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "& series est; alia priora, alia posteriora, non quidem ex parte",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "voluntatis divinae; sed objectorum, sive volitorum respectu.",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "Neque etiam negat, posse dari, ordinem decretorum Dei, inter",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "quae voluntas humana interveniat. De <i>mandatis</i> vero Dei, qua-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "tenus voluntas <i>antecedens</i> est in praeceptis; <i>Fac hoc</i>: <i>Consequens</i>",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "in promissis, & minis, quae, sanctionis ergo, praeceptis adduntur,",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "<i>Vives, non vives.</i> Et sic medio loco intervenit voluntas huma-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "na, de qua <i>Ief.</i> 1. v. 19. 20. <i>Si volueritis audire, bona terrae</i>",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "<i>comedetis, sin renueritis, gladius devorabit vos.</i> Nostra brevi-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "ter ἐπίχρισις[?] ita habet. 1. <i>Damasceni</i> distinctionem in benig-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "niorem & mitiorem partem sumi posse. 2. Voluntatem Dei <i>abso-</i>",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "<i>lute</i> distingui posse in antecedentem & consequentem, tam ra-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "tione Decretorum, quam ratione executionis. In <i>illis</i> datur prius",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "& posterius, antecedens, & consequens, non ratione Dei volentis,",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "sed objectorum volitorum. In <i>hac</i> peccatum antecedens est,",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "poena consequens, &c. 3. <i>Relate vero</i>, in ordine ad voluntatem",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "humanam mediam, quae antecedentem divinam sufflaminare",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "possit aut remorari, distinctionem hanc missam facimus. 4. Et",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "quia tam a Scholasticis, quam a Lutheranis Remonstrantibus",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "detorquetur tutius illa, tot rixarum mater omittitur, quam ad",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "incrustanda periculosa dogmata adhibetur.",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "b. <i>Distinctio voluntatis in eam, quae est signi, & beneplaciti</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 30,
+     "text": "<i>recepta quidem, nec tamen omnibus Theologis probata est.</i> De",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "receptione non est dubitandi locus: obvia quippe, in plerorum-",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "que Theologorum Systematibus. Aliis tamen non placet. Ut-",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "risque suae sunt rationes. <i>Illorum</i> expressae sunt in <i>Cursu</i> nostro",
+     "heading": 0
+    }
+   ],
+   "signature": "p. 8o.",
+   "notes": "The Greek word after \"Nostra breviter\" is read as ἐπίχρισις with some doubt; marked [?]. The printed \"p. 8o.\" at the foot right is given as a signature; it may be a catchword or format mark. A handwritten pen line runs under \"recepta quidem ... probata est. De\" and is not printed text, so it is ignored. Long s is written as plain s throughout (e.g. \"posse\" for printed \"poffe\"). The left and right margins show no printed notes."
+  },
+  {
+   "n": 20,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "p. 80. Has breviter indicat celeb. <i>Maresius</i> in Not. ad Di-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "stinct. Castan. p. 489. 1. quia omne signum, id est, voluntas",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "signi debet respondere alicui beneplacito, quod significet, aliàs",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "signum falsum erit. 2. Etiam id, quod ad occultum Dei bene-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "placitum aliàs spectat, Deus nonnunquam nobis significat & re-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "velat. Putem ego, has sententias non esse oppositas, sed subordi-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "natas, adeóque vel admitti posse, vel rejici hanc sive distinctio-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "nem; sive vocis potiùs ambiguæ explicationem, cùm voluntas",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "signi aliud nihil sit, quàm verbum Dei, verbum autem Dei vo-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "luntatis effectum, non ipsa voluntas. Admittitur autem illa con-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "siderata καθ' ἡμᾶς[?]. Certum enim est, non omnem voluntatem",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "beneplaciti divini nobis signari, signo externo, verbo vel Sacra-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "mento, revelari. Sunt quædam βάθη πλέτυ[?] σοφίας καὶ",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "γνώσεως Θεῦ[?], Rom. 11. v. 33. 34. Illa autem, quæ revelata nobis est, signum",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "vocari commodè poterit, utpote nobis data, ut signet. καθ' ἑαυτὴν[?]",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "vero voluntatis hæc distinctio sumta nulla est. Eadem quippe",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "voluntas, quæ <i>signi</i> dicitur respectu <i>objecti</i>, etiam <i>beneplaciti</i> est,",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "ratione <i>subjecti</i>. Nihil enim Deus in tempore revelat, quod non",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "beneplaciti voluntati respondeat. Ubi & hoc notandum, volun-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "tatem <i>beneplaciti</i> non dici talem, ratione <i>objecti</i>, sed ratione <i>causæ</i>",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "<i>impulsivæ</i>, sive ex modo volendi, quod scil. ita agat, ex eo",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "quod ipsi placet. Unde non dicimus, Deo omnia, quæ eveniunt, placere;",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "&si voluntate beneplaciti omnia eveniunt; aliàs enim &",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "peccata ei placerent.",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "c. <i>Distinctio voluntatis in absolutam seu simplicem, &</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 26,
+     "text": "<i>conditionatam seu secundum quid</i>; vel simpliciter <i>respuenda</i>, vel",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "<i>commodo sensu est admittenda.</i> Rejicitur sensu Scholastico, quo",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "<i>absoluta & simplex</i> est, quà Deus aliquid vult omninò absolutè &",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "efficaciter. <i>Conditionata</i>, sive secundum quid, <i>Velleitas</i> tantùm",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "est, quà aliquid vult non absolutè & efficaciter, sed sub conditio-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "ne. Omne enim Dei decretum liberum est à conditione incerta,",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "potestativa, & dubia, certámque habet futuritionem, adeóque",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "necessitatem infert vel <i>consequentis</i>, si ea Practicam Dei præ-",
+     "heading": 0
+    }
+   ],
+   "catchword": "scien-",
+   "signature": "C 2",
+   "notes": "Handwritten underlining and pen marks (including a bracket and \"c.\" mark in the margin area) are not printed and are not transcribed. Greek words with [?] are doubtful readings of a small or faint scan: πλέτυ, Θεῦ, καθ' ἡμᾶς and καθ' ἑαυτὴν. The Greek of Rom. 11. v. 33 is also uncertain. The text \"p. 80.\" is printed at the start of the first line, as a reference inside the text, and is transcribed there rather than as a page number. The word \"Di-stinct.\" is broken at the line end with its printed hyphen."
+  },
+  {
+   "n": 21,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "scientiam, habeat fundamentum; vel consequentia, si Theoreti-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "cam. <i>Admitti</i> tamen potest sano sensu, quatenus Dei decretum",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "non est absolutum ab omni causa & conditione. Saepe enim de-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "cretum conditionem supponit in objecto, & res decreta futura",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "est ex eodem Dei decreto, per suas conditiones, & causas antece-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "denter ab ipso Deo praedefinitas. Potest esse decretum absolu-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "tum ratione <i>causae antecedentis</i> & <i>finis</i>: conditionatum",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "tamen, respectu objecti. Conditiones illae non sunt ex parte",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "<i>Dei</i>, quasi dubio aliquid relinqueret eventui, sed ex parte",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "<i>rei</i>, & mediorum, quae tamen ipsa conditio futuritionem suspen-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "dere aut sufflaminare non potest.",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "d. <i>Distinctio voluntatis divinae in approbantem tantum,</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 13,
+     "text": "<i>vel approbantem, & efficientem simul, nulla est.</i> Quicquid enim",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "Deus approbat, illud etiam vult, & efficit, <i>Psalm. 115. v. 3. Om-</i>",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "<i>nia facit κατὰ τὴν βουλὴν τῷ θελήματος αὐτοῦ[?]</i>, <i>Ephes. 1.11.</i> Incom-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "moda proinde eorum est distinctionis hujus applicatio, qui di-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "cunt, Deum omnium velle salutem <i>approbative</i>, non <i>effective</i>.",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "Eodem fere recidit distinctio voluntatis <i>efficacis</i> & <i>inefficacis</i>.",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "Omnis enim Dei voluntas, ratione eventus, <i>efficax</i> est, etiam si",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "non semper immediate <i>efficiens</i>, ratione causalitatis.",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "e. <i>Distinctio decreti in affirmans & negans, diverso</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 22,
+     "text": "<i>sensu, vel approbatur, vel reprobatur.</i> Approbatur, quatenus",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "affirmativum aequipollet <i>positivo</i>, negans <i>privativo</i>. Et ita con-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "stat Sacram Scripturam, de quibusdam decretis loqui <i>negative</i>,",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "ut, <i>Matth. 7. v. 23. Ioh. 10. v. 26.</i> de aliis <i>affirmative</i>, ut,",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "<i>Rom. 9. v. 18. 21. 22.</i> Rejicitur vero, quatenus <i>negans</i> eorum",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "est, quae Deus non est facturus, ut mittere Christo duodecim le-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "giones Angelorum, <i>Matth. 26. v. 13. Affirmans</i> eorum, quae",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "idem facturus est. <i>Illius</i> objectum essent <i>τὰ δυνατά</i>, hujus",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "<i>τὰ μέλλοντα</i>. Quo sensu distinctio suo distincto repugnat. Neque",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "enim de possibilibus, sed de futuris decreta agunt. Sed de abusu",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "hujus distinctionis plura loco de Providentia.",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "f. <i>Distinctio Electionis in generalem fidelium, &</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 34,
+     "text": "<i>particularem personarum singularium; in definitam & in-</i>",
+     "heading": 0
+    }
+   ],
+   "catchword": "de-",
+   "notes": "The Greek in paragraph d (after \"Omnia facit\") is uncertain and marked [?]. The printed Greek seems to read κατὰ τὴν βουλὴν τοῦ θελήματος αὐτοῦ, but the scan is too faint to confirm. The brown underline under the last line is handwritten annotation and is not transcribed. The word \"de-\" at the lower right is treated as a catchword, since it sits below the last full line and is not a continuation. No page number or running head is printed. The page is a left-hand printed page with a flat, unbroken text block."
+  },
+  {
+   "n": 22,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "definitam; in completam, & incompletam: in revocabilem, &",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "irrevocabilem,in eam quæ Veteris,& quæ Novi Testamenti est,",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "divisò suo repugnat, Scripturæ contraria est, & ex falsis hy-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "pothesibus exstructa. Divisò suo repugnat: Nulla enim electio",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "est indefinita,incompleta, aut revocabilis, neque alia V.alia N.",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "Testamenti.<i>Scripturæ</i> est contraria, quæ unam eandemque ubi-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "que agnoscit Electionem, tam quoad thesin, quàm quoad",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "hypothesin. <i>Falsis</i> etiam nititur hypothesibus decreti absoluti, &",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "conditionati, voluntatis antecedentis & consequentis,mutabilis &",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "immutabilis &c.",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "VIII.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 12,
+     "text": "<i>Hæc de decretis: In executione præcedit</i> Creatio, <i>de qua</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 13,
+     "text": "<i>sequentium distinctionum instituimus censuram.</i>",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "1. <i>Distinctio verborum</i> ברא creavit יצר formavit, עשׂה fecit,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 15,
+     "text": "<i>Grammatica potius est,quàm Logica.</i> Distinguuntur enim ac-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "cidentibus tantùm Grammaticis; usu promiscua sunt,& pro iis-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "dem fere ubique sumuntur. Vide <i>Hexaem.</i> p. 17.",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "2. <i>Distinctio Angeli in creatum, & increatum Scriptu-</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 19,
+     "text": "<i>ræ est, & orthodoxæ antiquitatis.</i> Sociniani, & AntiTrinitarii;",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "Pontificii etiam, plerique in patrocinium Ἀγγελολατρείας[?] distin-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "ctionem hanc tollunt: quam tamen S. L. luculenter tradunt. An-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "gelum enim <i>increatum</i> esse, patet ex nomine Essentiali Jehova,",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "quod ei tribuitur, <i>Genes.</i> 22. v. 11. 12. collat. cum v. 16. 17.",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "dicitur <i>Angelus faciei,</i> Esaj. 63. v. 9. id est, Filius in quo acquie-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "vit Pater, <i>Matth.</i> 3. v. 17. Est Angelus Fœderis, <i>Malach.</i> 3. v. 1.",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "מטטרון Metator,de quo prolixè hinc inde Hebræi,& nos brevi-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "ter alibi. Confer <i>Lex. Talmud.</i> Buxtorf. p. 1192. Sed & Ve-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "teres, Græcos & Latinos Patres hanc distinctionem admisisse,",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "& contra AntiTrinitarios defendisse, operosè ab aliis est proba-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "tum, vid. <i>Rivet.</i> in Genes. p. 311. & ad c. 12. <i>Hos.</i> p. 760.",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "3. <i>Distinctio</i> צלם imaginis, & דמות similitudinis",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 32,
+     "text": "<i>non est vel Logica, vel Theologica, sed Grammatica</i>",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "<i>tantum.</i> Ex Veteribus plerique <i>imaginem</i> ad Substantiam ani-",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "mæ, <i>similitudinem</i> ad qualitates, virtutes & actiones referunt.",
+     "heading": 0
+    }
+   ],
+   "catchword": "Sed.",
+   "signature": "C 3",
+   "notes": "Ink blot over \"Veteribus plerique\" and \"ad\" in the last paragraph; the words are read from context and the stain is partly legible: \"Veteribus\", \"plerique\" and \"ad\" are fairly certain. The Greek \"Ἀγγελολατρείας\" is doubtful (the scan looks like a misprinted ξ), marked [?]. Brace marks at the right beside paragraphs 1 and 3 are not text. The left strip is the neighbouring page and is omitted. No page number or running head is printed."
+  },
+  {
+   "n": 23,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "<i>Sed obstat.</i> 1. Etymologia utriusque vocis, quae in eundem re-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "cidit significatum. 2. Promiscuus utriusque usus, tam in ipsa",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "Scriptura, quàm apud Translatores. 3. Stylus Spiritus Sancti,",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "qui delectatur aequipollentibus. Sed de his plenius in nostr.",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "<i>Hexaem.</i>p.266.",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "IX. <i>In loco de</i> Providentia,",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "<i>1. Insidiosa est Socinianorum distinctio inter τὰ</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 8,
+     "text": "<i>ἐσόμενα[?], καὶ τὰ μέλλοντα.</i> Mutuarunt hanc distinctionem ex Aristotele,",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "quam perperam suae ἀναλεύειν[?] ὑποθέσει cogunt. <i>Illa</i> fatalibus",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "annumerant, <i>hæc</i> non. Hinc alia absolutè <i>contingentia</i> esse",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "volunt, alia <i>necessaria</i>, <i>hæc</i> tantum Præscientiæ, & Providentiæ",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "divinæ admittunt; <i>Illa</i> incertis, & fortuitis relinquunt even-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "tibus. Nos non negamus, necessaria esse quaedam, quaedam con-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "tingentia. Non quo ad Deum, sive causam primam, cujus re-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "spectu necessaria omnia sunt, adeoque futuritionem habent in-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "fallibilem: Sed quoad nos, & in ordine ad causas secundas. Om-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "nia igitur, respectu <i>Præscientiae</i> infallibilis, eveniunt necessario;",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "ratione tamen <i>modi</i> executionis, alia necessario fiunt, alia con-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "tingenter.",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "<i>2. Distinctio providentiae in generalem, & specialem,</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 21,
+     "text": "<i>est legitima.</i> Negant eam Peripatetici, & Pelagiani, qui Gene-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "ralem tantum agnoscunt Providentiam, secundum quam Deus",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "uno, & indifferenti influxu moveat, & regat creaturas suas. At nos",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "ex sensu, sana ratione, & omnium pene Gentium consensu di-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "dicimus, tres, pro diversitate creaturarum, Providentiae esse gra-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "dus, <i>omnium Creaturarum</i>, hominis ex creaturis, & <i>fidelium</i>",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "ex hominibus. De <i>Primo</i>, Nehem. 3. v, 6. <i>Secundo</i>, Psalm. 8.",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "v. 6.7.8. <i>Tertio</i>, 1. Tim. 4. v. 10.",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "<i>3. Distinctiones ad fatalitatem termini vitalis everten-</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 30,
+     "text": "<i>dam, adhiberi solitae, sunt ineptae.</i> Talis est. 1. Distinctio inter",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "<i>mortem absolute</i> & per se spectatam, quae sit definita a Deo; &",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "<i>determinate</i> consideratam, quo ad genus, & tempus, quae non sit",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "definita. 2. Inter terminum vitae <i>Physicum</i>, qui respicit causas",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "vitae naturales, & <i>hyperphysicum</i>, supernaturalem Dei actionem,",
+     "heading": 0
+    }
+   ],
+   "catchword": "praeter",
+   "notes": "The red-brown underlining and strokes through the text, the bracket-like mark at the left edge beside the second line, and the blot near \"Physicum\" are manuscript marks, not printed. The left-margin \"3.\" is also handwritten. The small letters along the right edge belong to the neighbouring page. Doubtful: the first Greek word of paragraph 1 (τὰ ἐσόμενα) and the Greek word \"ἀναλεύειν\" are uncertain from the scan. The opening \"Sed obstat.\" may continue a paragraph from the previous page; it is not marked cont because the scan does not show this clearly. Printed spellings kept as they are: \"Hexaem.p.266\", \"Nehem. 3. v, 6.\""
+  },
+  {
+   "n": 24,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "præter aut supra vires causarum secundarum. 3. Constitutio‑",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "nem terminivitæ in <i>absolutam, & limitatam.</i> 4. Inter <i>regulam</i>",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "<i>ordinariam, & exceptiones extraordinarias.</i> Quo enim cunque",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "modo terminum vitæ sumas, <i>peremtorius</i> est, <i>fatalis, absolutus,</i>",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "ratione decreti, & ordinationis divinæ ; etsi <i>conditionatus</i> sit",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "respectu mediorum, executioni subordinatorum, quæ decretum",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "non excludit, sed includit.",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "4. <i>Distinctio necessitatis in absolutam, & hypotheticam</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 9,
+     "text": "<i>vel admittitur, vel rejicitur. Admittitur,</i> quatenus necessitas",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "<i>absoluta</i> est eorum, quæ re ipsa & natura sunt immutabilia, ut",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "contradictoria eorum simpliciter sint impossibilia. Unde &",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "<i>simplex</i> vocatur, quæ nullam recipit contingentiam, <i>per se,</i> quæ",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "non oritur aut dependet ab alio ; <i>Consequentis</i> etiam, quia con-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "sequens, sive res ipsa, sua natura necessaria est, cum Logici conse-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "quentiam ex materiæ necessitate nascentem designant. Hujus",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "necessitatis causa immutabilis est Dei natura, quæ nulli alteratio-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "ni obnoxia. Hypothetica vero eorum, quæ suâ naturâ mutabilia",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "& contingentia sunt, sed propter Dei ordinationem & Decretum",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "non mutantur. Hypothetica igitur dicitur propter suppositio-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "nem voluntatis divinæ ; Item <i>per aliud,</i> non autem per se & sua",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "natura : <i>secundum quid,</i> quoad ordinem videl. Providentiæ di-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "vinæ : & <i>consequentia,</i> propter connexionem cum Dei volunta-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "te & Præscientia : Atque hæc necessitas contingentiam non ex-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "cludit. Estque hypothetica sive necessitas vel <i>immutabilitatis</i> ex",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "decreto, Luc. 22. v. 22. Act. 2. v. 23. vel <i>infallibilitatis</i> ex præ-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "scientia, Matth. 26. v. 53. 54. Luc. 24. v. 26. <i>Rejicitur</i> vero",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "ex mente <i>Lutheranorum, & Pontificiorum. Illi</i> enim absolutam",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "necessitatem vocant, quorum necessaria est connexio in Decreto,",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "& voluntate Dei, & quæ talia sunt, non ex sua natura, sed ex hypo-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "thesi voluntatis immutabilis. Hinc etiam calumnia Stoicæ ne-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "cessitatis in nostros struitur. <i>Hypotheticam</i> eam vocant, quæ",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "pendet à conditione, tanquam causa extra Deum : quam ipsam",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "& <i>sequentem</i> nominant, quod rerum eventum demum sequitur.",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "Rejiciunt etiam distinctionem necessitatis hypotheticæ, partim,",
+     "heading": 0
+    }
+   ],
+   "marginalia": [
+    {
+     "side": "left",
+     "at": "Rejiciunt etiam distinctionem",
+     "line_from": 34,
+     "line_to": 34,
+     "text": "[?]"
+    }
+   ],
+   "catchword": "quia",
+   "notes": "Left margin notes are cut off by the scan edge and mostly unreadable. Only fragments are visible, such as \"em re.\", \"in ips\", \"Sanct\", \"nost\", \"eve\", \"con\", \"in\", \"Deus\", \"salm\", \"non s\" and \"paris\" (the last one may be the catchword area). They are not transcribed as text, and the placeholder above marks only the position of the margin. Where a fragment is a legible word, it was left as printed in the margin, but the full notes cannot be recovered from this scan. Catchword \"quia\" is printed at the lower right below the last full line and is placed in bottom_margin, not in the text. No page number, running head or signature is printed on this page. Printing errors left as printed: \"terminivitæ\" (with underline in print), \"videl.\" (with following line break mark), \"partim,\" at line end."
+  },
+  {
+   "n": 25,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "quia non quicquid praesciat Deus, illud etiam decrevit, partim",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "quia praescientia Dei nullam rebus saltem a priori, necessitatem",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "imponat cum certum sit, nihil a Deo praescire futurum, quod",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "non decreverit, si non <i>approbative</i>, & <i>efficienter</i>: saltem <i>per-</i>",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "<i>missive</i> & ordinative. Praescientia etiam Practica rerum futu-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "rarum, immutabilitatis necessitatem infert, cum constet, Deum",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "res scire e longinquo ; priusquam venerint in cogitationem",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "hominis, ut est <i>Ezech.</i> 11.v. 5. Cor Regis esse in manu Domini,",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "<i>Proverb.</i>21,v.1. Cum <i>Lutheranis</i> per omnia fere sentiunt <i>Pon-</i>",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "<i>tificij</i>, nisi quod negent nonnulli <i>Iesuitae</i>, <i>necessitatem Decreti,</i>",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "<i>seu immutabilitatis circa hominem universe</i>, ita ut Deus nihil",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "operetur, sed constituerit tantum ab aeterno, ut voluntas libera",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "actionum esset causa : quae opinio Pelagiana est, hominem ab",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "ordine Providentiae plane eximens. Alii etiam tollunt <i>necessita-</i>",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "<i>tem infallibilitatis</i>, ut, qui nullam certam ac determinatam su-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "turorum contingentium Praescientiam in Deo admittunt, prius-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "quam illa eveniunt. Quam sententiam disertis verbis, anno 41.",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "hujus seculi propugnantem audivi Jesuitam Rupellae, magno",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "cum horrore. Contrariam quippe Scripturae Sacrae, <i>Act.</i> 15.",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "v. 18. <i>Hebr.</i> 4.v.-13. & alibi, & Gentium plerarumque, Judaeo-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "um & Muhammedanorum, consensus : de quo <i>Compend</i> Theol.",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "<i>Jud.</i> & <i>Archaeol. Orient.</i>",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "5. <i>Omnia esse necessaria in sensu composito,non in sensu di-</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 24,
+     "text": "<i>visio</i>; & [?] <i>Ea etiam fieri necessario ratione causae primae, quae re-</i>",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "<i>spectu causae secundae eveniunt contingenter, facile possunt con-</i>",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "<i>ciliari.</i> Non placet haec posterior loquendi ratio Theologis non-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "nullis. Quia, quod ratione causae primae necessarium est, necessarium",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "etiam sit respectu causae secundae, primae quippe subordinatae, nec",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "agentis, nisi motae a Deo. Rectius ergo dici cum Scholasticis, om-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "nia esse necessaria <i>in sensu composito</i> in ordine ad decretum, non",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "vero <i>in sensu divisio</i>, i.e. rerum in se consideratarum, ratione ha-",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "bilitatis, secundum quam ad hoc vel illud a Deo ordinari pote-",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "rant. Sed facile scrupulus tollitur. Omnino, quae ratione causae",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "primae censentur necessaria, talia etiam sunt respectu secundae,",
+     "heading": 0
+    }
+   ],
+   "catchword": "ubi",
+   "notes": "Handwritten ink underlining runs across the lines beginning \"visio\" through \"ciliari.\" and partly overlays the printed words; the underlined words are read from the print beneath. The \"&\" and the mark before \"Ea\" in the underlined line are uncertain. \"necessariò\" in the underlined line is read with its printed accent. The right edge shows letters from the neighbouring page, not transcribed. Printed spacing after full stops is irregular and normalised here."
+  },
+  {
+   "n": 26,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: plures"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "ubi τὸ ἐνέργημα spectes, & rem ipsam; ubi vero τὰς ἐνεργοῦντας,",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "& modum ἐνεργείας, concursus, dubio procul, est duarum causarum",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "diversarum: <i>Liberae</i> (<i>antecedenter</i> tamen, & absolute; non <i>con-</i>",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "<i>sequenter</i> ratione decreti, cujus intuitu est necessaria) remota-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "e; & <i>contingentis</i> proximae, cujus respectu effectus contingens di-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "citur. Cum enim causae secundae effectuum suorum causae sint,",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "quaedam autem nec libere agant, nec necessario, sed contingen-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "ter; contingentiae ei effectus abjudicari non potest.",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "X.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 10,
+     "text": "<i>In loco de</i> peccato <i>distinctionem,</i>",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 11,
+     "text": "a. <i>In peccatum veniale & mortale rejicimus.</i> Quo com-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 12,
+     "text": "pendio haec distinctio a Schola Romana introducta sit, alibi mo-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "nuimus vid. <i>Hodeg.</i> p. III. p. 239. Non negamus, peccata quaedam",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "esse venialia, quaedam mortalia; non vero <i>per se, & sua natura</i>; sed",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "<i>per accidens, & aliud</i>, Christi nempe meritum, cujus respectu e-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "ventualiter omnia peccata sunt venialia, eo excepto, quod est in",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "Spiritum S. & finali ἀπώλεια[?]. Caeterum, peccata, sua natura, omnia",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "esse mortalia, quorum stipendium mors est, ad <i>Rom. 6.</i> omnes de-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "sectus, legi Dei contrarios, esse ἀνομία, sive aberrationes a scopo",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "(hoc enim est proprie Hebraeorum חטא[?]) quae brabeo, reum ju-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "stissimo Dei judicio privent, alibi prolixius a nobis est dictum.",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "Vid. <i>Analect.</i> p. 214. & <i>Curs.</i> p. 154. Cum n. peccati <i>demeritum</i>",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "sit infinitum, <i>tum</i> objective, quatenus Deus infinitus offenditur;",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "<i>tum</i> subjective, sed secundum quid, quatenus gravior malitia non",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "concipi potest ea, quae convenit peccato, sive transgressioni legis",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "divinae; Infinitam poenam, vel levissimum peccatum, sua na-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "tura sequi, necesse est.",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "b. <i>Distinctio mali, in malum culpae & poenae, non est gene-</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 29,
+     "text": "<i>ris in species; sed aequivoci in aequivocata, nec est adaequata abso-</i>",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "<i>lute, sed relate ad hominis miseriam.</i> Non generis in species 1.",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "quia malum non praedicatur de culpa univoce. 2. Differunt toto",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "genere. Illud est ἀνομία, hoc δικαίωμα. <i>Sed aequivoci in aequ-</i>",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "<i>ivocata.</i> 1. quia Scriptura utriusque exempla proponit; <i>culpae</i>,",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "Psalm. 5. v. 5. <i>poenae</i>, Amos. 3. v. 6. 2. Bonum vel virtutis est &",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "praemii. E. & malum vel culpae vel poenae. <i>Non absolute</i>; quia",
+     "heading": 0
+    }
+   ],
+   "marginalia": [
+    {
+     "side": "left",
+     "at": "ubi τὸ ἐνέργημα",
+     "line_from": 1,
+     "line_to": 1,
+     "text": "patrum"
+    }
+   ],
+   "catchword": "plures",
+   "notes": "Left margin: the notes are clipped by the gutter and many words are unreadable. Readable fragments were transcribed at their approximate heights; the lowest fragments (ensis, quavis, sunt cur, gis non, essanus and similar) are very uncertain. The Greek word after \"finali\" and the Hebrew word חטא are doubtful. The final word \"plures\" is partly covered by handwritten ink."
+  },
+  {
+   "n": 27,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "plures sunt significationes vocis mali. Est malum naturale, mo-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "rale, artificiale &c: <i>Sed relatè ad miseriam humanam.</i> Ut enim,",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "peccatum & pœna, sunt partes integrantes miseriæ humanæ, ita",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "malum culpæ & pœnæ sunt vocabula eam adæquatè, & per par-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "tes significantia.",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "<i>c. Distinctio reatus in eum, qui culpæ est & pœnæ, nec so-</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "<i>lida est in thesi, nec commoda in hypothesi. In thesi</i> quidam vo-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "lunt, reatum culpæ esse, quo peccator indignus est Dei gratia,",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "dignus autem ipsius ira; pœnæ verò, quo obnoxius est dam-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "nationi. Hanc distinctionem Sacra Scriptura ignorat, unum-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "que tantum nobis ostendit reatum, qui est obligatio ad pœ-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "nam propter culpam, ex ordine justitiæ divinæ, <i>Rom. 1. v. 32. In</i>",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "<i>hypothesi</i> incommoda est, quatenus primum reatum tolli volunt",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "per Christum: Secundum autem impediri, quo minùs veniat in",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "executionem; cùm 1. Nulla condemnatio superfit fidelibus,",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "<i>Rom. 8. 1. 2.</i> Peccata non amplius commemorentur. E. reatus",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "plane tollitur, <i>Esaj. 18. v. 22.</i>[?] 3. <i>Δικαίωμα, & Δικαιοσύνη</i> in Chri-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "sto, opponantur <i>τῷ ἁμαρτήματι, καὶ κατακρίματι</i>[?] in Adamo.",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "<i>d. Distinctio pœnæ in pœnam damni,</i> quæ est carentia bea-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 20,
+     "text": "titudinis, <i>& sensus,</i> quæ est perpessio dolorum, <i>sobriè intellecta,</i>",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "recipitur. <i>Rejicitur verò ex sensu Scholæ Pontificiorum, & No-</i>",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "<i>vatorum. Sobriè</i> intelligitur gemina adhibita limitatione, <i>Logi-</i>",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "<i>câ, & Theologicâ. Illâ,</i> nec est distinctio generis in distinctas spe-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "cies, nec totius in partes, sed terminorum <i>à quo, & ad quem. Hac,</i>",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "non distrahuntur subjectis, aut separantur realiter; ut vel in lim-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "bo, sive infantum, sive Patrum tantùm sit pœna damni, quod sin-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "gunt Pontificii; vel Deus, sive ex consideratione peccatorum in",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "se, sive ex <i>ἐπιεικείᾳ</i>[?] & strictî juris moderamine, non omnibus pec-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "catis æternam statuerit pœnam damni, & sensus, ut volunt Nova-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "tores.",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "XI.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 32,
+     "text": "<i>Circa</i> Legem <i>notandum.</i>",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 33,
+     "text": "a. <i>Distinctionem Legis in Naturalem, & Moralem valere</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 34,
+     "text": "<i>demùm in statu destituto. In instituto</i> enim, ante lapsum, Lex Mo-",
+     "heading": 0
+    }
+   ],
+   "notes": "Greek words in the second paragraph and the word after \"sive ex\" are read with doubt and are marked [?]. The reference \"Esaj. 18. v. 22.\" has a superscript-like mark after \"Efaj\" that is uncertain. The line-final \"Mo-\" continues on the next page. Long s rendered as s throughout, so \"Eft\" is printed as Est. Roman numeral \"XI.\" is a bare number and is kept as a paragraph."
+  },
+  {
+   "n": 28,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "Moralis & Naturalis eadem erat, Sed in statu <i>destituto</i> Lex Mo-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "ralis, <i>Naturalis</i>, & <i>Decalogi</i> differunt. <i>Illa</i> enim integra est &",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "perfecta; hæc imperfecta, & particula tantùm quædam Legis",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "moralis in natura hominis post lapsum reliqua. <i>Decalogi</i> verò",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "lex à morali differt, ut contracta ab explicata.",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "b. <i>Distinctio inter Præcepta, & consilia Christi Evange-</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "<i>lica, nulla est.</i> Quicquid enim Christus nobis consulit, illud &",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "præcipit absolutè; limitatè tamen ad casum; sive ad certas cir-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "cumstantias personarum, temporum, &c. Vid. <i>Ennead.</i>disp.Hei-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "delb.p.43.<i>Curs.Theol.</i>p.211.",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "c. <i>Distinctio præceptorum in ea, quæ sunt Imperii, & quæ</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 12,
+     "text": "<i>indulgentiæ, sui destructiva est.</i> Sunt ex Theologis, qui volunt,",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "Deum multa <i>mandare</i> in Scriptura, quæ impunè possimus omit-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "tere. Ea <i>indulgentiæ</i> præcepta vocant. Sed non video distinctio-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "nem hanc posse subsistere. Quicquid enim Deus præcipit, illud",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "optioni tum nostræ, aut libertati non amplius relinquit. Obligant",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "proinde præcepta <i>omnia, sed non omnes; semper, sed non ad sem-</i>",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "<i>per.</i> Sunt præcepta e. gr.de divortio, de hæreditate, juvandis",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "pauperibus, jure ducendæ fratriæ, &c. quæ Israë-litas <i>semper</i>",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "obligabant, neque tamen vel omnes, vel <i>ad semper</i>, quia Israë-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "litarum multi, ad leges illas astricti, defectu vel occasionis, vel me-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "diorum suo implere eas exemplo non poterant.",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "d. <i>Opera malè in Legalia, & Evangelica</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 24,
+     "text": "<i>distinguuntur.</i> Novatorum, qui hominem operibus Evangelicis",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "fide, & usu Sacramentorum salvari volunt, hæc est distinctio. Sed nescit Evan-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "gelium strictè sic dictum, & Legi oppositum, opera; quæ Legis",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "tantùm sunt, non Evangelii, ut suo loco audiemus.",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "e. <i>Distinctio Legis in Mosaicam imperfectam, & Christi perfectam, nec Logica est, nec</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 29,
+     "text": "<i>Theologica.</i> Non <i>illa</i>, quia Legi Mosaicæ Christi Lex opponitur, cùm sit eadem. Nam & Chri-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "stus, quâ Deus, est νομοθέτης[?] ille, qui servare potest & occidere",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "<i>Jacob.</i>4.v.12. & qui fidelis sui ministri, Mosis, opera, in promul-",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "gandâ Lege, fuit usus. Non <i>hæc</i>, quia aperte blasphema, ut alibi",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "fusius[?] monstratum est, & deinceps, in continuatione vindiciarum",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "cap.5.<i>Matth.</i>οὖν Ἰησ.[?], ostendemus.",
+     "heading": 0
+    }
+   ],
+   "catchword": "fDi-[?]",
+   "signature": "D 2",
+   "notes": "Handwritten marks excluded: the \"N3\" marks in the right margin, the bracket beside paragraphs b and c, and the underlining and strikethrough in brown ink over parts of paragraphs b, d and e (the printed words beneath them are transcribed). Left edge fragments belong to the neighbouring page and are excluded. Doubtful readings: \"fusius\" in paragraph e; the Greek \"νομοθέτης\" and the Greek words after \"Matth.\" are partly covered by handwriting and marked [?]. Catchword \"fDi-\" is marked [?] because the initial letter is unclear. Italic extent in paragraph e (illa, hæc) is partly obscured. Printed \"Curf.\" read as \"Curs.\" under the long-s rule."
+  },
+  {
+   "n": 29,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: non"
+    },
+    {
+     "type": "doubtful",
+     "text": "\"...\" in the text: a passage was skipped or a remark written as print"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "f. Distinctio cultus in λατρείαν[?], quæ Deo, δουλείαν[?], quæ",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "sanctis, & ὑπερδουλείαν[?], quæ B. Virgini tribuitur, nec Grammatica",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "est, neque Theologica. Non illa, quia puriores eam Græci igno-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "rant; Non hæc, quia colit τὴν κτίσιν[?] ... τὸν κτίσαντα[?], Rom. 1. v, 25.",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "XII.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "<i>De Evangelio monemus,</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "<i>Distinctionem promissionum Evangelii in absolutas, & conditionatas, non simpliciter</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 8,
+     "text": "<i>repudiandum.</i> Id quod superiori seculo, illi voluerunt, qui putabant, conditiones tantum pertinere",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "ad Legem, ad Evangelium non item. <i>Conditionatum</i> igitur illis",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "æquipollet merito; absolutum, gratuito. Ut ut ergò hoc sensu",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "distinctio esset rejicienda; ipsa tamen phrasis à stylo Scripturæ, &",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "receptis in ea loquendi formulis, quæ promissiones, cum condi-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "tione vel <i>expressa,</i> vel <i>implicita,</i> proponit, non est aliena.",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "XIII.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 15,
+     "text": "De Christo, <i>ejus persona & officio, distinctiones & regulæ</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 16,
+     "text": "<i>non modo vitiosæ ab Adversariis adhibentur, sed & commodæ,</i>",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "rejiciuntur. Ita e.g. absurda est distinctio,",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "<i>a Socinianorum, inter assumtionem, sive ascensionem Chri-</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 19,
+     "text": "<i>sti in cælos primam, & secundam.</i> Mirum novæ hujus sectæ fig-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "mentum de Christo in cœlum ante passionem (de tempore non",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "satis inter eos convenit: quod commentum non immerito, ut",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "pleraque alia, Muhammedanis deberi, Hornbek. observat. P.II.",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "Socinianis. refut. p.218.) ejus nec vola apparet, nec vestigium in",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "S.Scriptura, quod proinde indicasse, confutasse fuerit. Alteram ab",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "iis concedi ascensionem, qui nullum Religionis Christianæ caput",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "inviolatum pene relinquunt; mirum est.",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "b. <i>Distinctio communicationis Idiomatum in realem &</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 28,
+     "text": "<i>verbalem, vel Orthodoxa est, vel heterodoxa. Orthodoxa,</i>",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "quatenus per <i>realem</i> intelligitur communio proprietatum in toto",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "Christo, i.e. Persona Christi, per <i>verbalem</i> phraseologia, quâ com-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "munio illa declaratur, & quam veteres κοινωνίαν ὀνομάτων, &",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "τρόπον[?] ἀντιδόσεως appellare consueverunt. <i>Realis,</i> ratione fundamen-",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "ti, personalis nimirum unionis. Ut enim vere utraque natura in",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "Persona Filii Dei subsistit, ita proprietates utriusque naturæ ei",
+     "heading": 0
+    }
+   ],
+   "catchword": "non",
+   "notes": "No page number or running head printed. The strikethrough line across \"non simpliciter repudiandum\" and \"Id quod superiori\" is a manuscript stroke in ink; the printed words under it are transcribed. Greek in the first paragraph and in the last paragraph is doubtful and marked [?]. Stains at the left edge and the marks at the right edge are not printed text and are omitted."
+  },
+  {
+   "n": 30,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: tuerunt."
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "non vel transitione, vel confusione, vel inversione, sed [illegible, ~9",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "letters] ἡ ἀσυγχύτως sunt communes. <i>Verbalis</i> ratione modi loquendi. <i>A-</i>",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "<i>lii</i> succinctius dicunt, <i>realiter</i> in concreto, <i>verbaliter</i> in abstra-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "cto. Quanquam illa communicatio non est ἰδιωμάτων[?], sed tan-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "tum ὀνομάτων. <i>Heterodoxa</i>, quatenus communicare <i>realiter</i> est",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "<i>dare, indere</i> humanitati, quod Deitatis est: quod non in personali;",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "sed in ea fit unione, ubi per conversionem, aut commutationem",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "partes coëunt in unum.",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "c. <i>Distinctio scientiae Christi in beatam, infusam, acquisi-</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 10,
+     "text": "<i>tam, increatam, & experimentalem, sensu Scholastico, non est sa-</i>",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "<i>na.</i> Sunt n. membra dividentia partim latiora, partim angustiora",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "suo divisor: <i>Beatam</i> vocant, qua Christus Deum viderit secundum",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "essentiam, in ipso tanquam speculo omnia tuetur. Talis vero est",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "<i>apprehensorum, Phil. 3.v.9.</i> non <i>viatorum</i>, qualis etiam Christus",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "fuit. <i>Infusam</i>, qua supernaturali habitu cognoverit res coelestes;",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "excepto tamen Deo, quem ad praecedentem scientiae periphe-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "riam referunt. Quo ipso turpiter implicant; cum à cælestibus, &",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "gratia, Cœli & gratiæ Dominus excludi non possit. <i>Acquisitam</i>,",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "qua intellexerit, quae lumine rationis agnosci queunt. Haec vero",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "Christo ab exordio vitae tribui non potest. <i>Experimentalem</i>, non",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "quae per experientiam acquiratur, sed quae agendo ostendatur. Ita",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "autem male ab <i>acquisita</i>, distinguitur, quae cum superiori coinci-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "dit; vel si differant, gradu tantum, non obiecto, aut fine differre",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "censendae sunt. <i>Increata</i> est naturae divinae. Etsi vero sano sen-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "su, distinctio scientiae, naturae humanae, in donativam, <i>infusam</i>, &",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "experimentalem tolerari, & adhiberi possit, acquiescimus tamen",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "in διχοτομία, scientiae <i>infusae</i>, qua Christus cum Spiritu S. cuncta",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "novit, quicquid ad res coelestes pertinet, & aliàs nonnisi per gra-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "tiae lumen videri potest: & <i>acquisitae</i>, tum <i>rationalis</i>, conclusio-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "nes deducentis ex principiis scientiae infusae, tum <i>experimentalis</i>,",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "per observationem, singularium inductione, collectae.",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "d. <i>Communicatio idiomatum est Essentiale quidunionis</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 33,
+     "text": "<i>hypostaticae, non constitutive, sed consecutive.</i> Prius volunt",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "Brentius, Schmidlinus, aliique Lutherani, qui in proprietatum es-",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "sentialium communicatione formam unionis personalis consti-",
+     "heading": 0
+    }
+   ],
+   "marginalia": [
+    {
+     "side": "left",
+     "at": "non vel transitione,",
+     "line_from": 1,
+     "line_to": 1,
+     "text": "[illegible, ~3 letters]"
+    }
+   ],
+   "catchword": "tuerunt.",
+   "signature": "D 3",
+   "notes": "Left margin: only cut-off fragments survive at the scan edge (for example \"matica\", \"cigno.\", and short scraps of Latin); most are illegible and were not fully recoverable. The first paragraph's left-margin note is shown as a placeholder. Handwritten (manuscript) marks, not printed: the underline under \"Heterodoxa\", the curled mark at the end of that line, and the bracket in the right margin beside the \"c.\" paragraph. These are left out. Doubtful readings: the first Greek word after \"sed\" (ἀ… ἰπ…ως), the Greek after \"non\" in \"ἰδιωμάτων\", and the Greek \"διχοτομία\" (accents uncertain). \"Phil. 3.v.9.\" is as printed. \"quidunionis\" is printed without a space and is kept as it appears."
+  },
+  {
+   "n": 31,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: utra-"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "tuerunt. Posterius Reformati, quibus ex Lutheranis, eatenus",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "saltem, illi accedunt, qui effectum sive consequens esse affir-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "mant. Quanquam à reali & transitiva (quæ nec <i>Essentiæ</i> τῆς",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "λόγῳ[?], nec <i>proprietatum</i> essentialium est) communicatione ne illi qui-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "dem sibi temperant.",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "f. <i>Totus Christus, & totum Christi differunt. Illud</i> per-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "sona est, <i>hoc</i> alterutrius naturæ. <i>Totus</i> Christus est adorandus,",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "<i>totum</i> Christi, natura humana, non item.",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "g. <i>Distinctio abstracti & concreti; significatu non Logi-</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 10,
+     "text": "<i>co; sed Theologico; in doctrina de Christo magni est usus.</i> In",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "vexata de communicatione Idiomatum controversia, non est",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "quæstio de communicatione proprietatum in <i>concreto personæ</i>,",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "quam modo asseruimus; Sed in abstracto naturæ, quam nega-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "mus. Etenim per unionem personalem Naturæ divinæ & huma-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "næ, earum proprietates, <i>personæ</i> verè & realiter communicatas",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "esse agnoscimus; At proprietates Naturæ divinæ communicatas,",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "id est, infusas, inditas humanæ, id verò est, quod diffitemur.",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "h. <i>Non nominalis vel grammatica tantum, sed & realis</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 19,
+     "text": "<i>est differentia inter potentiam & potestatem.</i> Male ergo qui-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "dam ex <i>potestate</i>, Christo tributa, ejus colligunt <i>omnipotentiam.</i>",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "Potestas est ἐξουσία, nomen officii denotans; potentia δύναμις, &",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "ad <i>qualitatem</i> refertur. <i>Potestatem</i> multi habent causam suam",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "defendendi, qui potentiâ destituuntur.",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "i. <i>Officium Christi, in Propheticum, Regium, & Sacerdo-</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 25,
+     "text": "<i>tale, recte distinguitur.</i> Contendunt Sociniani, regium, & Sacer-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "dotale Christi officium esse idem. Sed turpem committi petitio-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "nem principii, & duo hæc officia differre, suis formis, finibus pro-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "priis, & objectis, alibi operosius demonstratum est. <i>Vide Hornb.</i>",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "Socin. confut: P.II. p.486. <i>Curf. Theol.</i> p.290.",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "XIV.",
+     "heading": 1,
+     "caput": "14",
+     "para": true
+    },
+    {
+     "n": 31,
+     "text": "De Ecclesia notandum",
+     "heading": 1,
+     "caput": "14"
+    },
+    {
+     "n": 32,
+     "text": "a. <i>Distinctionem Ecclesiæ in visibilem, & invisibilem,</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 33,
+     "text": "Pontificios non convellere; Socinianos verò, discrimen inter Ec-",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "clesiam Dei, & Christi non posse offendere. De priori distinctio-",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "ne alibi egimus. <i>Posterior</i> tollitur ex identitate notarum, quas",
+     "heading": 0
+    }
+   ],
+   "catchword": "utra-",
+   "notes": "No margin notes. No running head, page number, catchword or signature is printed on this page. Greek word after Essentiæ is uncertain (marked [?]). Socinianos and Socinianos spelling in paragraph i. is read as printed. The right edge of the scan shows the neighbouring page and was left out."
+  },
+  {
+   "n": 32,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "utraque Ecclesia habet communes; Vid. <i>Hornb.</i> p. 305. Ubi tamen",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "observandum, <i>priorem</i> distinctionem non esse generis in species;",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "sed subjecti in diversos modos, sive in Accidentia. Eadem enim",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "Ecclesia, quae est visibilis <i>materialiter</i>; <i>formaliter</i>, ratione nem-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "pe <i>formae internae</i>, est invisibilis.",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "b. <i>Ecclesia, in militantem, & triumphantem recte distin-</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "<i>guitur.</i> Negant Sociniani, Libertini, Anabaptistae, dari Eccle-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "siam triumphantem; sed aliter nos docet Scriptura, & ex ea peti-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "tae rationes. <i>Illa</i> in V. & N.T. ostendit exempla eorum, qui de-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "victis hostibus, in coelo cum Christo triumphant; vide <i>Hebr.</i>",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "12.v.22.23.24. <i>Hae</i> docent, militiam terminari morte; Sanctos",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "defunctos immediata Dei visione frui; eosdem Angelis associari",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "coelicolis.",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "c. <i>Ecclesiam in coetum vocatorum tantum, & vocatorum</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 15,
+     "text": "<i>electorum, exemplo Scripturae, distinguimus.</i> Hanc tollere vi-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "dentur distinctionem Anabaptistae, & Cathari, qui hypocritas Ec-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "clesia ejiciunt; Sed Scriptura utrorumque meminit, tum <i>expres-</i>",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "<i>sis dictis; Matth.</i> 20.v.16. c. 22.v.14. tum <i>parabolis, arca</i>",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "<i>Matth.</i>3.v.12. <i>agri</i> c.13.v.47. <i>Verriculi</i>",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "c.22.v.10.&c.",
+     "heading": 0
+    }
+   ],
+   "marginalia": [
+    {
+     "side": "left",
+     "at": "utraque Ecclesia habet",
+     "line_from": 1,
+     "line_to": 1,
+     "text": "eatenus [?]"
+    },
+    {
+     "side": "left",
+     "at": "b. Ecclesia, in",
+     "line_from": 6,
+     "line_to": 6,
+     "text": "se affu[?]"
+    },
+    {
+     "side": "left",
+     "at": "b. Ecclesia, in",
+     "line_from": 6,
+     "line_to": 6,
+     "text": "illegible, ~6 letters"
+    }
+   ],
+   "notes": "The left-margin notes are cut off at the left edge of the scan, so most of their words are fragments. Readings marked [?] are tentative. Lower margin fragments (not transcribed individually): \"ifibilis\", \"nter E\", \"fincin\", \"ums qu\", \"utra\", and a partly visible Greek fragment near the top. Woodcut ornament below the text, not transcribed."
+  },
+  {
+   "n": 33,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "incomplete",
+     "text": "8 lines hold only a marker: a block was given up"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "[illegible, ~60 letters]",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "[illegible, ~200 letters]",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "[illegible, ~200 letters]",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "[illegible, ~40 letters] [illegible, ~45 letters] [illegible, ~40 letters] [illegible, ~38 letters] [illegible, ~42 letters] [illegible, ~30 letters]",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "[illegible, ~35 letters] [illegible, ~40 letters] [illegible, ~28 letters] [illegible, ~36 letters]",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "[illegible, ~20 letters] [illegible, ~18 letters]",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "[illegible, ~30 letters] [illegible, ~25 letters] [illegible, ~32 letters]",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 8,
+     "text": "[illegible, ~24 letters] [illegible, ~20 letters]",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "notes": "The printed text is very faint and mostly unreadable. Much of the visible writing is mirrored show-through from the other side of the leaf and is left out. The paragraph breaks and line counts are estimates. The woodcut ornament at lower right carries no readable text. No printed numbers, running head, catchword or signature are legible on this part. The text is very faint and the scan is blurred, so almost no line can be read letter by letter. The line lengths above are estimates and the paragraph breaks are uncertain. Only the first lines show possible Latin words, and I could not confirm any of them. No page number, running head, catchword or signature is visible. The woodcut ornament at the lower left is not transcribed."
+  }
+ ]
+}
