@@ -1,0 +1,1454 @@
+{
+ "work": "W05337_Pacius_Analysis_Institutionum_imperialium_Bernardi_Schotani_By_Juli_1686",
+ "made": "2026-11-25T19:01:58",
+ "model": "claude-haiku-5-5",
+ "prompt": "655260ce46aa8978",
+ "candidates": 1821,
+ "cost_usd": 0.05631,
+ "dropped": [
+  "title 'Titulus XXIX. Quibus modis tollitur obligatio.' kept on the number of 'QUIBUS NODIS OBLIGATIO TOLLITUR. TITULUS XXIX.'",
+  "title 'Titulus I. De obligationibus, quæ ex delicto nascuntur.' moved from 'TITULUS PRIMUS.' to 'INSTITUTIONUM LIBER QUARTUS. DE OBLIGATIONIBUS; QUÆ EX DELICTO NASCUNTUR.'",
+  "no scans for 25 wanted"
+ ],
+ "toc": [
+  {
+   "scan": 14,
+   "line": 1,
+   "lines": [
+    [
+     14,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Series titulorum, ordine librorum & materiarum, adjecta collatione locorum similium ex Selectis."
+  },
+  {
+   "scan": 17,
+   "line": 1,
+   "lines": [
+    [
+     17,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Index titulorum. Eorundem titulorum syllabus."
+  },
+  {
+   "scan": 19,
+   "line": 37,
+   "lines": [
+    [
+     19,
+     37
+    ]
+   ],
+   "level": 1,
+   "title": "Nota."
+  },
+  {
+   "scan": 20,
+   "line": 1,
+   "lines": [
+    [
+     20,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Prolegomena. De libris utriusque juris."
+  },
+  {
+   "scan": 30,
+   "line": 1,
+   "lines": [
+    [
+     30,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Institutionum proœmium."
+  },
+  {
+   "scan": 37,
+   "line": 18,
+   "lines": [
+    [
+     37,
+     18
+    ]
+   ],
+   "level": 2,
+   "title": "Anacephalaeosis institutionum. Libri primi."
+  },
+  {
+   "scan": 39,
+   "line": 1,
+   "lines": [
+    [
+     39,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Institutionum liber primus. De justitia & jure."
+  },
+  {
+   "scan": 39,
+   "line": 3,
+   "lines": [
+    [
+     39,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus I. De justitia & jure."
+  },
+  {
+   "scan": 43,
+   "line": 6,
+   "lines": [
+    [
+     43,
+     6
+    ],
+    [
+     43,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus II. De jure naturali, gentium & civili."
+  },
+  {
+   "scan": 55,
+   "line": 15,
+   "lines": [
+    [
+     55,
+     15
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus III. De jure personarum."
+  },
+  {
+   "scan": 60,
+   "line": 5,
+   "lines": [
+    [
+     60,
+     5
+    ],
+    [
+     60,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus IV. De ingenuis."
+  },
+  {
+   "scan": 61,
+   "line": 9,
+   "lines": [
+    [
+     61,
+     9
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus V. De libertinis."
+  },
+  {
+   "scan": 65,
+   "line": 6,
+   "lines": [
+    [
+     65,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus VI. Qui et ex quibus causis manumittere non possunt."
+  },
+  {
+   "scan": 72,
+   "line": 4,
+   "lines": [
+    [
+     72,
+     4
+    ],
+    [
+     72,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus VII. De lege Fusia Caninia tollenda."
+  },
+  {
+   "scan": 73,
+   "line": 5,
+   "lines": [
+    [
+     73,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus VIII. De his, qui sui vel alieni juris sunt."
+  },
+  {
+   "scan": 77,
+   "line": 1,
+   "lines": [
+    [
+     77,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus IX. De patria potestate."
+  },
+  {
+   "scan": 80,
+   "line": 6,
+   "lines": [
+    [
+     80,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus X. De nuptiis."
+  },
+  {
+   "scan": 91,
+   "line": 2,
+   "lines": [
+    [
+     91,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus XI. De adoptionibus."
+  },
+  {
+   "scan": 98,
+   "line": 1,
+   "lines": [
+    [
+     98,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus XII. Quibus modis jus potestatis solvitur."
+  },
+  {
+   "scan": 106,
+   "line": 5,
+   "lines": [
+    [
+     106,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus XIII. De tutelis."
+  },
+  {
+   "scan": 110,
+   "line": 8,
+   "lines": [
+    [
+     110,
+     8
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus XIV. Qui testamento tutores dari possunt."
+  },
+  {
+   "scan": 114,
+   "line": 9,
+   "lines": [
+    [
+     114,
+     9
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus XV. De legitima adgnatorum tutela."
+  },
+  {
+   "scan": 116,
+   "line": 9,
+   "lines": [
+    [
+     116,
+     9
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus XVI. De capitis deminutione."
+  },
+  {
+   "scan": 121,
+   "line": 1,
+   "lines": [
+    [
+     121,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus XVII. De legitima patronorum tutela."
+  },
+  {
+   "scan": 123,
+   "line": 1,
+   "lines": [
+    [
+     123,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus XVIII. De legitima parentum tutela."
+  },
+  {
+   "scan": 124,
+   "line": 1,
+   "lines": [
+    [
+     124,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus XIX. De fiduciaria tutela."
+  },
+  {
+   "scan": 126,
+   "line": 1,
+   "lines": [
+    [
+     126,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus XX. De Atiliano tutore, et eo qui ex lege Julia & Titia dabatur."
+  },
+  {
+   "scan": 130,
+   "line": 1,
+   "lines": [
+    [
+     130,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus XXI. De auctoritate tutorum."
+  },
+  {
+   "scan": 133,
+   "line": 10,
+   "lines": [
+    [
+     133,
+     10
+    ],
+    [
+     133,
+     11
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus XXII. Quibus modis tutela finitur."
+  },
+  {
+   "scan": 137,
+   "line": 6,
+   "lines": [
+    [
+     137,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus XXIII. De curatoribus."
+  },
+  {
+   "scan": 141,
+   "line": 10,
+   "lines": [
+    [
+     141,
+     10
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus XXIV. De satisdatione tutorum vel curatorum."
+  },
+  {
+   "scan": 146,
+   "line": 6,
+   "lines": [
+    [
+     146,
+     6
+    ],
+    [
+     146,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus XXV. De excusationibus tutorum vel curatorum."
+  },
+  {
+   "scan": 156,
+   "line": 5,
+   "lines": [
+    [
+     156,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus XXVI. De suspectis tutoribus vel curatoribus."
+  },
+  {
+   "scan": 162,
+   "line": 1,
+   "lines": [
+    [
+     162,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Anacephalaeosis institutionum. Liber secundus."
+  },
+  {
+   "scan": 164,
+   "line": 1,
+   "lines": [
+    [
+     164,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Institutionum liber secundus. De rerum divisione."
+  },
+  {
+   "scan": 164,
+   "line": 1,
+   "lines": [
+    [
+     164,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus I. De rerum divisione [& acquirendo ipsarum dominio.]"
+  },
+  {
+   "scan": 202,
+   "line": 6,
+   "lines": [
+    [
+     202,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus II. De rebus corporalibus et incorporalibus."
+  },
+  {
+   "scan": 204,
+   "line": 5,
+   "lines": [
+    [
+     204,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus III. De servitutibus praediorum."
+  },
+  {
+   "scan": 211,
+   "line": 1,
+   "lines": [
+    [
+     211,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus IV. De usufructu."
+  },
+  {
+   "scan": 216,
+   "line": 11,
+   "lines": [
+    [
+     216,
+     11
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus V. De usu et habitatione."
+  },
+  {
+   "scan": 220,
+   "line": 8,
+   "lines": [
+    [
+     220,
+     8
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus VI. De usucapionibus et longi temporis praescriptionibus."
+  },
+  {
+   "scan": 230,
+   "line": 8,
+   "lines": [
+    [
+     230,
+     8
+    ],
+    [
+     230,
+     9
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus VII. De donationibus."
+  },
+  {
+   "scan": 237,
+   "line": 11,
+   "lines": [
+    [
+     237,
+     11
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus VIII. Quibus alienare licet vel non."
+  },
+  {
+   "scan": 243,
+   "line": 7,
+   "lines": [
+    [
+     243,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus IX. Per quas personas nobis acquiritur."
+  },
+  {
+   "scan": 251,
+   "line": 7,
+   "lines": [
+    [
+     251,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus X. De testamentis ordinandis."
+  },
+  {
+   "scan": 262,
+   "line": 17,
+   "lines": [
+    [
+     262,
+     17
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus XI. De militari testamento."
+  },
+  {
+   "scan": 268,
+   "line": 1,
+   "lines": [
+    [
+     268,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus XII. Quibus non est permissum facere testamentum."
+  },
+  {
+   "scan": 274,
+   "line": 13,
+   "lines": [
+    [
+     274,
+     13
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus XIII. De exheredatione liberorum."
+  },
+  {
+   "scan": 284,
+   "line": 1,
+   "lines": [
+    [
+     284,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus XIV. De heredibus instituendis."
+  },
+  {
+   "scan": 298,
+   "line": 1,
+   "lines": [
+    [
+     298,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus XV. De vulgari substitutione."
+  },
+  {
+   "scan": 305,
+   "line": 1,
+   "lines": [
+    [
+     305,
+     1
+    ],
+    [
+     305,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus XVI. De pupillari substitutione."
+  },
+  {
+   "scan": 313,
+   "line": 4,
+   "lines": [
+    [
+     313,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus XVII. Quibus modis testamenta infirmantur."
+  },
+  {
+   "scan": 320,
+   "line": 11,
+   "lines": [
+    [
+     320,
+     11
+    ],
+    [
+     320,
+     12
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus XVIII. De inofficioso testamento."
+  },
+  {
+   "scan": 328,
+   "line": 14,
+   "lines": [
+    [
+     328,
+     14
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus XIX. De heredum qualitate et differentia."
+  },
+  {
+   "scan": 336,
+   "line": 1,
+   "lines": [
+    [
+     336,
+     1
+    ],
+    [
+     336,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus XX. De legatis."
+  },
+  {
+   "scan": 373,
+   "line": 17,
+   "lines": [
+    [
+     373,
+     17
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus XXI. De ademptione legatorum et translatione."
+  },
+  {
+   "scan": 375,
+   "line": 8,
+   "lines": [
+    [
+     375,
+     8
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus XXII. De lege Falcidia."
+  },
+  {
+   "scan": 380,
+   "line": 10,
+   "lines": [
+    [
+     380,
+     10
+    ],
+    [
+     380,
+     11
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus XXIII. De fideicommissariis hereditatibus."
+  },
+  {
+   "scan": 393,
+   "line": 9,
+   "lines": [
+    [
+     393,
+     9
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus XXIV. De singulis rebus per fideicommissum relictis."
+  },
+  {
+   "scan": 397,
+   "line": 1,
+   "lines": [
+    [
+     397,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus XXV. De codicillis."
+  },
+  {
+   "scan": 401,
+   "line": 1,
+   "lines": [
+    [
+     401,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Anacephalaeosis institutionum. Liber tertius."
+  },
+  {
+   "scan": 403,
+   "line": 1,
+   "lines": [
+    [
+     403,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Institutionum liber tertius. De hereditatibus quae ab intestato deferuntur."
+  },
+  {
+   "scan": 403,
+   "line": 1,
+   "lines": [
+    [
+     403,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus I. De hereditatibus quae ab intestato deferuntur."
+  },
+  {
+   "scan": 417,
+   "line": 19,
+   "lines": [
+    [
+     417,
+     19
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus II. De legitima agnatorum successione."
+  },
+  {
+   "scan": 426,
+   "line": 0,
+   "lines": [
+    [
+     426,
+     0
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus III. De Senatusconsulto Tertulliano."
+  },
+  {
+   "scan": 431,
+   "line": 12,
+   "lines": [
+    [
+     431,
+     12
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus IV. De Senatusconsulto Orphitiano."
+  },
+  {
+   "scan": 434,
+   "line": 4,
+   "lines": [
+    [
+     434,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus V. De successione cognatorum."
+  },
+  {
+   "scan": 437,
+   "line": 7,
+   "lines": [
+    [
+     437,
+     7
+    ],
+    [
+     437,
+     8
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus VI. De gradibus cognationis."
+  },
+  {
+   "scan": 450,
+   "line": 1,
+   "lines": [
+    [
+     450,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus VII. De successione libertorum."
+  },
+  {
+   "scan": 454,
+   "line": 6,
+   "lines": [
+    [
+     454,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus VIII. De assignatione libertorum."
+  },
+  {
+   "scan": 456,
+   "line": 8,
+   "lines": [
+    [
+     456,
+     8
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus IX. De bonorum possessionibus."
+  },
+  {
+   "scan": 464,
+   "line": 7,
+   "lines": [
+    [
+     464,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus X. De acquisitione per arrogationem."
+  },
+  {
+   "scan": 467,
+   "line": 6,
+   "lines": [
+    [
+     467,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus XI. De eo, cui libertatis causa bona addicuntur."
+  },
+  {
+   "scan": 471,
+   "line": 7,
+   "lines": [
+    [
+     471,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus XII. De successionibus sublatis, quae fiebant per bonorum venditionem, et ex Senatusconsulto Claudiano."
+  },
+  {
+   "scan": 472,
+   "line": 8,
+   "lines": [
+    [
+     472,
+     8
+    ],
+    [
+     472,
+     9
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus XIII. De obligationibus."
+  },
+  {
+   "scan": 476,
+   "line": 3,
+   "lines": [
+    [
+     476,
+     3
+    ],
+    [
+     476,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus XIV. Quibus modis re contrahitur obligatio."
+  },
+  {
+   "scan": 486,
+   "line": 19,
+   "lines": [
+    [
+     486,
+     19
+    ],
+    [
+     486,
+     20
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus XV. De verborum obligationibus."
+  },
+  {
+   "scan": 495,
+   "line": 1,
+   "lines": [
+    [
+     495,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus XVI. De duobus reis stipulandi et promittendi."
+  },
+  {
+   "scan": 497,
+   "line": 9,
+   "lines": [
+    [
+     497,
+     9
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus XVII. De stipulatione servorum."
+  },
+  {
+   "scan": 500,
+   "line": 9,
+   "lines": [
+    [
+     500,
+     9
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus XVIII. De divisione stipulationum."
+  },
+  {
+   "scan": 503,
+   "line": 5,
+   "lines": [
+    [
+     503,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus XIX. De inutilibus stipulationibus."
+  },
+  {
+   "scan": 522,
+   "line": 22,
+   "lines": [
+    [
+     522,
+     22
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus XX. De fidejussoribus."
+  },
+  {
+   "scan": 529,
+   "line": 10,
+   "lines": [
+    [
+     529,
+     10
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus XXI. De literarum obligationibus."
+  },
+  {
+   "scan": 532,
+   "line": 1,
+   "lines": [
+    [
+     532,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus XXII. De obligationibus ex consensu."
+  },
+  {
+   "scan": 533,
+   "line": 3,
+   "lines": [
+    [
+     533,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus XXIII. De emptione et venditione."
+  },
+  {
+   "scan": 543,
+   "line": 1,
+   "lines": [
+    [
+     543,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus XXIV. De locatione et conductione."
+  },
+  {
+   "scan": 551,
+   "line": 11,
+   "lines": [
+    [
+     551,
+     11
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus XXV. De societate."
+  },
+  {
+   "scan": 558,
+   "line": 1,
+   "lines": [
+    [
+     558,
+     1
+    ],
+    [
+     558,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus XXVI. De mandato."
+  },
+  {
+   "scan": 566,
+   "line": 19,
+   "lines": [
+    [
+     566,
+     19
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus XXVII. De obligationibus, quæ quasi ex contractu nascuntur."
+  },
+  {
+   "scan": 573,
+   "line": 15,
+   "lines": [
+    [
+     573,
+     15
+    ],
+    [
+     573,
+     16
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus XXVIII. Per quas personas nobis obligatio acquiritur."
+  },
+  {
+   "scan": 576,
+   "line": 1,
+   "lines": [
+    [
+     576,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus XXIX. Quibus modis tollitur obligatio."
+  },
+  {
+   "scan": 585,
+   "line": 1,
+   "lines": [
+    [
+     585,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Liber IV. De obligationibus, quæ ex delicto nascuntur."
+  },
+  {
+   "scan": 585,
+   "line": 1,
+   "lines": [
+    [
+     585,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus I. De obligationibus, quæ ex delicto nascuntur."
+  },
+  {
+   "scan": 603,
+   "line": 10,
+   "lines": [
+    [
+     603,
+     10
+    ],
+    [
+     603,
+     11
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus II. De vi bonorum raptorum."
+  },
+  {
+   "scan": 608,
+   "line": 2,
+   "lines": [
+    [
+     608,
+     2
+    ],
+    [
+     608,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus III. De lege Aquilia."
+  },
+  {
+   "scan": 618,
+   "line": 14,
+   "lines": [
+    [
+     618,
+     14
+    ],
+    [
+     618,
+     15
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus IV. De injuriis."
+  },
+  {
+   "scan": 628,
+   "line": 16,
+   "lines": [
+    [
+     628,
+     16
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus V. De obligationibus, quæ quasi ex delicto nascuntur."
+  },
+  {
+   "scan": 633,
+   "line": 9,
+   "lines": [
+    [
+     633,
+     9
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus VI. De actionibus."
+  },
+  {
+   "scan": 691,
+   "line": 1,
+   "lines": [
+    [
+     691,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus VII. Quod cum eo, qui in aliena potestate est, negotium gestum esse dicitur."
+  },
+  {
+   "scan": 702,
+   "line": 5,
+   "lines": [
+    [
+     702,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus VIII. De noxalibus actionibus."
+  },
+  {
+   "scan": 706,
+   "line": 10,
+   "lines": [
+    [
+     706,
+     10
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus IX. Si quadrupes pauperiem fecisse dicatur."
+  },
+  {
+   "scan": 710,
+   "line": 2,
+   "lines": [
+    [
+     710,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus X. De his per quos agere possumus."
+  },
+  {
+   "scan": 712,
+   "line": 9,
+   "lines": [
+    [
+     712,
+     9
+    ],
+    [
+     712,
+     10
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus XI. De satisdationibus."
+  },
+  {
+   "scan": 718,
+   "line": 5,
+   "lines": [
+    [
+     718,
+     5
+    ],
+    [
+     718,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus XII. De perpetuis et temporalibus actionibus, et quæ ad heredes et in heredes transeunt."
+  },
+  {
+   "scan": 722,
+   "line": 1,
+   "lines": [
+    [
+     722,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus XIII. De exceptionibus."
+  },
+  {
+   "scan": 730,
+   "line": 12,
+   "lines": [
+    [
+     730,
+     12
+    ],
+    [
+     730,
+     14
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus XIV. De replicationibus."
+  },
+  {
+   "scan": 733,
+   "line": 2,
+   "lines": [
+    [
+     733,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus XV. De interdictis."
+  },
+  {
+   "scan": 744,
+   "line": 9,
+   "lines": [
+    [
+     744,
+     9
+    ],
+    [
+     744,
+     10
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus XVI. De poena temere litigantium."
+  },
+  {
+   "scan": 749,
+   "line": 5,
+   "lines": [
+    [
+     749,
+     5
+    ],
+    [
+     749,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus XVII. De officio judicis."
+  },
+  {
+   "scan": 758,
+   "line": 7,
+   "lines": [
+    [
+     758,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus XVIII. De publicis judiciis."
+  }
+ ],
+ "book": "Julius Pacius a Beriga's analysis of Justinian's Institutes (Institutiones Imperiales), with notes by Bernardus Schotanus (Trajecti ad Rhenum, 1686): front matter (title series and index, prolegomena, proemium, anacephalaeoses), then the Institutes in four books of titles, each title split into paragraphs with analysed headings.",
+ "series": [
+  {
+   "label": "Liber",
+   "first": "I",
+   "last": "IV",
+   "count": 4,
+   "level": 1,
+   "found": 9
+  },
+  {
+   "label": "Titulus",
+   "first": "I",
+   "last": "XXVI",
+   "count": 98,
+   "level": 2,
+   "found": 101
+  }
+ ],
+ "taste": 12,
+ "doubt": "",
+ "input": 159320,
+ "output": 50064
+}
