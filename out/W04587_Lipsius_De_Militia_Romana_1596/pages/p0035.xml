@@ -1,0 +1,20 @@
+<page type="text" lines="none">
+  <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+  <layout>One page of running text in one column, with marginal notes in the left margin. Running head and page number at the top. The right edge of the scan shows the neighbouring page, which is left out.</layout>
+  <page_number>10</page_number>
+  <running_head>DE MILITIA ROMANA</running_head>
+  <main_text>
+    <l n="1">ria missio post expleta stipendia non datur. Idem numerus in Codice Theodosij aliquoties, etsi in eodem etiam de <i>viginti quinque aut quattuor</i> stipendiis leges: sed in certo genere militum &amp; conditionis deterioris. Hæc mihi ita videntur, quid erudito viro, qui in Polybio hîc corrigi voluit: ὡς δὲ πεζὰς ἐξ ἃ δεῖ στρατείας τελεῖν[?]: non equidem scio, nec scintillam lucis in iis verbis video.</l>
+    <l n="2" para="true">» <i>In annis quadraginta sex.</i>] Est hæc Servij regis definitio, qui annos eos vtiles militiæ fecit. Nam distinxit Classes in Centurias Iuniorum &amp; Seniorum: illos qui militarent, hos qui vacarent, nisi in magna necessitate.</l>
+    <l n="3" para="true">
+      <i>Iuniores, ad annum quadragesimum sextum</i> (ita Tubero apud Agellium) <i>supraque eum Seniores appellauit.</i> Censorinus anno uno minus numerare videtur: <i>Vsque{*}quin-que &amp; quadraginta annos Iuuenes appellatos, quod remp: in re militari possent iuuare.</i> Hoc ergo Polybius nunc dicit, vicena illa stipendia complenda fuisse in orbe tot annorum. Sed cur non principium etiam militiæ ponit, cum dixerit finem? Licet ex eodem Tuberone apud Agellium addas: <i>Seruius ab anno decimoseptimo, quod idoneos iam esse reip. arbitrabatur, milites scripsit.</i> Atque istud manfit. &amp; in Punico secundo bello, cum necessi-tas violasset, tum decretum <i>ut</i> Tribuni plebis (Liuij verba) <i>ad populum ferrent, ut qui minores annis septem &amp; decem sacramento dixissent, iis proinde stipendia procederent, ac si septem &amp; decem annorum, aut maiores, milites facti essent.</i> Ecce, in iuuentutis inopia, quidam tunc etiam praetextati milites capti: id ne fraudi iis esset, &amp; quia praeter Servij ac vetus institutum, lege subuentum fuit, &amp; anni illi in stipendia venerunt, haud secus quam si a de-cimo-</l>
+  </main_text>
+  <marginalia>
+    <note side="left" at="Nam distinxit Classes" line_from="2" line_to="2">Annimili-tiæ viles.</note>
+    <note side="left" at="Iuniores, ad annum" line_from="3" line_to="3">Lib.x.cap. XXVIII. De die Natali.</note>
+    <note letter="*" side="left" at="Hoc ergo Polybius" line_from="3" line_to="3">intellege completos.</note>
+    <note side="left" at="Sed cur non" line_from="3" line_to="3">Initium militiæ.</note>
+    <note side="left" at="&amp; in Punico" line_from="3" line_to="3">Lib.xxv.</note>
+  </marginalia>
+  <notes>Printed text is fairly clear. Doubtful: the Greek phrase in the first paragraph (ὡς δὲ πεζὰς ἐξ ἃ δεῖ στρατείας τελεῖν), marked [?]. The left-margin note "Annimili-tiæ viles." is partly unclear at its line break. The asterisk mark is in the text after "videtur:Vsque" and matches the note "intellege completos." The last line "cimo-" is printed right-aligned and ends the page's text. The "ut" in the Livy quotation is set in italic. Ampersands are written as &amp; for XML validity.</notes>
+</page>
