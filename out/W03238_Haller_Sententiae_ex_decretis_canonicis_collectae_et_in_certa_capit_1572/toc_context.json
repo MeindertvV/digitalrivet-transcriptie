@@ -1,0 +1,598 @@
+{
+ "work": "W03238_Haller_Sententiae_ex_decretis_canonicis_collectae_et_in_certa_capit_1572",
+ "made": "2026-11-25T01:05:41",
+ "model": "claude-haiku-5-5",
+ "prompt": "655260ce46aa8978",
+ "candidates": 303,
+ "cost_usd": 0.01718,
+ "dropped": [],
+ "toc": [
+  {
+   "scan": 8,
+   "line": 1,
+   "lines": [
+    [
+     8,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Amplissimis viris Nicolao a Gravenriet Germanicae, et Hieronymo Manueli Sabaudicae ditionis, in inclyta Bernensium repu"
+  },
+  {
+   "scan": 9,
+   "line": 0,
+   "lines": [
+    [
+     9,
+     0
+    ]
+   ],
+   "level": 1,
+   "title": "Epistola"
+  },
+  {
+   "scan": 13,
+   "line": 1,
+   "lines": [
+    [
+     13,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Summa rerum tractatarum capita, quæ in hoc libro tractantur"
+  },
+  {
+   "scan": 15,
+   "line": 1,
+   "lines": [
+    [
+     15,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Sententiae ex decretis canonicis collectae"
+  },
+  {
+   "scan": 15,
+   "line": 2,
+   "lines": [
+    [
+     15,
+     2
+    ],
+    [
+     15,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput I. De doctrina"
+  },
+  {
+   "scan": 16,
+   "line": 4,
+   "lines": [
+    [
+     16,
+     4
+    ],
+    [
+     16,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Caput II. De sacra scriptura"
+  },
+  {
+   "scan": 19,
+   "line": 5,
+   "lines": [
+    [
+     19,
+     5
+    ],
+    [
+     19,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "Caput III. De patribus eorumque scriptis"
+  },
+  {
+   "scan": 21,
+   "line": 4,
+   "lines": [
+    [
+     21,
+     4
+    ],
+    [
+     21,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Caput IIII. De conciliis"
+  },
+  {
+   "scan": 25,
+   "line": 7,
+   "lines": [
+    [
+     25,
+     7
+    ],
+    [
+     25,
+     8
+    ]
+   ],
+   "level": 2,
+   "title": "Caput V. De synodis bis in anno celebrandis"
+  },
+  {
+   "scan": 26,
+   "line": 4,
+   "lines": [
+    [
+     26,
+     4
+    ],
+    [
+     26,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Caput VI. De constitutionibus humanis"
+  },
+  {
+   "scan": 29,
+   "line": 1,
+   "lines": [
+    [
+     29,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Caput VII. De consuetudinibus"
+  },
+  {
+   "scan": 31,
+   "line": 0,
+   "lines": [
+    [
+     31,
+     0
+    ]
+   ],
+   "level": 2,
+   "title": "Caput VIII. De abusibus tollendis"
+  },
+  {
+   "scan": 32,
+   "line": 2,
+   "lines": [
+    [
+     32,
+     2
+    ],
+    [
+     32,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput IX. De gratia, remissione peccatorum, & sola fide iustificante"
+  },
+  {
+   "scan": 36,
+   "line": 6,
+   "lines": [
+    [
+     36,
+     6
+    ],
+    [
+     36,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "Caput X. De sacramentis"
+  },
+  {
+   "scan": 41,
+   "line": 2,
+   "lines": [
+    [
+     41,
+     2
+    ],
+    [
+     41,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XI. De baptismo"
+  },
+  {
+   "scan": 45,
+   "line": 4,
+   "lines": [
+    [
+     45,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XII. De cœna Domini"
+  },
+  {
+   "scan": 56,
+   "line": 8,
+   "lines": [
+    [
+     56,
+     8
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XIII. De excommunicatione"
+  },
+  {
+   "scan": 61,
+   "line": 3,
+   "lines": [
+    [
+     61,
+     3
+    ],
+    [
+     61,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XIIII. De ritibus ecclesiasticis seu adiaphoris"
+  },
+  {
+   "scan": 63,
+   "line": 3,
+   "lines": [
+    [
+     63,
+     3
+    ],
+    [
+     63,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XV. De cantu ecclesiastico"
+  },
+  {
+   "scan": 64,
+   "line": 2,
+   "lines": [
+    [
+     64,
+     2
+    ],
+    [
+     64,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XVI. De bonis ecclesiasticis"
+  },
+  {
+   "scan": 67,
+   "line": 5,
+   "lines": [
+    [
+     67,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XVII. De magistratu"
+  },
+  {
+   "scan": 68,
+   "line": 2,
+   "lines": [
+    [
+     68,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XVIII. De iureiurando et votis"
+  },
+  {
+   "scan": 71,
+   "line": 2,
+   "lines": [
+    [
+     71,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XIX. De haereticis"
+  },
+  {
+   "scan": 71,
+   "line": 6,
+   "lines": [
+    [
+     71,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XX. De primatu in ecclesia & de papa"
+  },
+  {
+   "scan": 78,
+   "line": 1,
+   "lines": [
+    [
+     78,
+     1
+    ],
+    [
+     78,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXI. De electionibus et ordinationibus"
+  },
+  {
+   "scan": 92,
+   "line": 2,
+   "lines": [
+    [
+     92,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXII. De simonia"
+  },
+  {
+   "scan": 103,
+   "line": 1,
+   "lines": [
+    [
+     103,
+     1
+    ],
+    [
+     103,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXIII. De officio et studiis sacerdotum & episcoporum"
+  },
+  {
+   "scan": 105,
+   "line": 7,
+   "lines": [
+    [
+     105,
+     7
+    ],
+    [
+     105,
+     8
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXIIII. De vita et conversatione clericorum"
+  },
+  {
+   "scan": 117,
+   "line": 2,
+   "lines": [
+    [
+     117,
+     2
+    ],
+    [
+     117,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXV. Contra luxum sacerdotum"
+  },
+  {
+   "scan": 122,
+   "line": 1,
+   "lines": [
+    [
+     122,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXVI. De fornicatione sacerdotum"
+  },
+  {
+   "scan": 132,
+   "line": 1,
+   "lines": [
+    [
+     132,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXVII. De coniugio, secundis nuptiis, & divortio"
+  },
+  {
+   "scan": 137,
+   "line": 5,
+   "lines": [
+    [
+     137,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXVIII. De coniugio sacerdotum"
+  },
+  {
+   "scan": 144,
+   "line": 5,
+   "lines": [
+    [
+     144,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXIX. De monachis, monialibus & claustris"
+  },
+  {
+   "scan": 152,
+   "line": 2,
+   "lines": [
+    [
+     152,
+     2
+    ],
+    [
+     152,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXX. De ieiunio"
+  },
+  {
+   "scan": 154,
+   "line": 2,
+   "lines": [
+    [
+     154,
+     2
+    ],
+    [
+     154,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXXI. De confessione auriculari"
+  },
+  {
+   "scan": 158,
+   "line": 2,
+   "lines": [
+    [
+     158,
+     2
+    ],
+    [
+     158,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXXII. De feriis"
+  },
+  {
+   "scan": 160,
+   "line": 2,
+   "lines": [
+    [
+     160,
+     2
+    ],
+    [
+     160,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXXIII. De eleemosynis et oblationibus ex rebus iniuste acquisitis"
+  },
+  {
+   "scan": 162,
+   "line": 2,
+   "lines": [
+    [
+     162,
+     2
+    ],
+    [
+     162,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXXIIII. De peregrinationibus religionis ergo & locis sacris"
+  },
+  {
+   "scan": 163,
+   "line": 5,
+   "lines": [
+    [
+     163,
+     5
+    ],
+    [
+     163,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXXV. De sepultura, purgatorio, & defunctorum exequijs"
+  },
+  {
+   "scan": 169,
+   "line": 1,
+   "lines": [
+    [
+     169,
+     1
+    ],
+    [
+     171,
+     4
+    ]
+   ],
+   "level": 1,
+   "title": "Summa librorum iuris quod vocant canonici"
+  }
+ ],
+ "book": "Haller's 1572 'Sententiae ex decretis canonicis collectae': a single work framed by front matter (dedication, epistle, table of contents) and back matter (a summary of the canon law books). Its body is patristic and canonical sentences arranged under 35 numbered chapters (Caput I to XXXV), each with a topic title and unnumbered sententiae beneath.",
+ "series": [
+  {
+   "label": "Caput",
+   "first": "I",
+   "last": "XXXV",
+   "count": 35,
+   "level": 2,
+   "found": 35
+  }
+ ],
+ "taste": 50,
+ "doubt": "",
+ "input": 49834,
+ "output": 15019
+}
