@@ -86,8 +86,19 @@
     </main_text>
     <notes>Set in roman with small capitals for names and italic for the verse; the italic runs are marked as far as I could judge them. "V dum" is printed with a capital V and read as "Ut dum", since the initial letter is a vowel. "cresçet" is printed with a cedilla-like mark under c; kept as seen. "AstGente" is printed without a space and kept so. Line-end and line-start joins were kept as printed. The page number "* 4" is printed at the foot right.</notes>
   </page>
-  <page type="missing" n="9">
-    <warning type="missing_page">page 9 was not transcribed: invalid XML: junk after document element: line 12, column 0</warning>
+  <page type="text" lines="none" n="9" model="subscription/claude-haiku-5-5">
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One page of text, centred verse block at top, then a dedication in two lines and a signature line; below them a woodcut vignette; catchword at lower right.</layout>
+    <bottom_margin>
+      <catchword>AD</catchword>
+    </bottom_margin>
+    <main_text>
+      <l n="1" para="true">MARTE <i>feros meditetur hostes Pulsare iusto</i>: <i>seu</i> PATRIÆ <i>bonas Seruare paces cogitet, &amp; suos Ditare subiectos verendus Iustitia moderante</i> PRINCEPS. <i>Cui sacra dono,</i> DUX BONE, <i>si faues Lamenta</i> HEBRÆO <i>carmine quæ prius</i> MYSTES <i>Ionauit. Sacra non sunt Consiliis nocitura rectis.</i>
+      </l>
+      <l n="2" para="true">Vestræ Celsitudini deditissimus</l>
+      <l n="3" para="true">J. Jacomotus B.</l>
+    </main_text>
+    <notes>Woodcut vignette below the signature (a cherub's head flanked by fruit-garlands and scrolls) is an ornament, not text, and is not transcribed. Faint mirrored text at the right edge is show-through and is omitted. Spelling changed per the u/v and i/j rule: "Dvx" read as DUX, "Iustitia"/"iusto" as Justitia/justo, "seruare" as servare, "Ionauit" as Jonavit, "faues" as faves, "Consilijs" as Consiliis, "Iacomotus" as Jacomotus; the printed spellings are the originals. Verse lines are kept as one paragraph per stanza, with line breaks.</notes>
   </page>
   <page type="text" lines="none" n="10" model="subscription/claude-haiku-5-5">
     <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>

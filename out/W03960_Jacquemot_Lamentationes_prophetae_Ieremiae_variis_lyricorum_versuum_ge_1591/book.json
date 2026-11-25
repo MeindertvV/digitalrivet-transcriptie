@@ -188,13 +188,36 @@
   },
   {
    "n": 9,
-   "type": "missing",
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
    "warnings": [
     {
-     "type": "missing_page",
-     "text": "page 9 was not transcribed: invalid XML: junk after document element: line 12, column 0"
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
     }
-   ]
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "MARTE <i>feros meditetur hostes Pulsare iusto</i>: <i>seu</i> PATRIÆ <i>bonas Seruare paces cogitet, & suos Ditare subiectos verendus Iustitia moderante</i> PRINCEPS. <i>Cui sacra dono,</i> DUX BONE, <i>si faues Lamenta</i> HEBRÆO <i>carmine quæ prius</i> MYSTES <i>Ionauit. Sacra non sunt Consiliis nocitura rectis.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "Vestræ Celsitudini deditissimus",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "J. Jacomotus B.",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "catchword": "AD",
+   "notes": "Woodcut vignette below the signature (a cherub's head flanked by fruit-garlands and scrolls) is an ornament, not text, and is not transcribed. Faint mirrored text at the right edge is show-through and is omitted. Spelling changed per the u/v and i/j rule: \"Dvx\" read as DUX, \"Iustitia\"/\"iusto\" as Justitia/justo, \"seruare\" as servare, \"Ionauit\" as Jonavit, \"faues\" as faves, \"Consilijs\" as Consiliis, \"Iacomotus\" as Jacomotus; the printed spellings are the originals. Verse lines are kept as one paragraph per stanza, with line breaks."
   },
   {
    "n": 10,
