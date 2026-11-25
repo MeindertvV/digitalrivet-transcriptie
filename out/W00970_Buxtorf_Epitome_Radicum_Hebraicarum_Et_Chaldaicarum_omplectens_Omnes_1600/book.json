@@ -13271,13 +13271,55 @@
   },
   {
    "n": 210,
-   "type": "missing",
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
    "warnings": [
     {
-     "type": "missing_page",
-     "text": "page 210 was not transcribed: no <page>...</page> in response"
+     "type": "incomplete",
+     "text": "only 0% as many letters as the OCR layer: a block may be missing"
+    },
+    {
+     "type": "incomplete",
+     "text": "5 lines hold only a marker: a block was given up"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
     }
-   ]
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "[illegible, ~3 words]",
+     "heading": 1,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "[illegible, ~12 words]",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "[illegible, ~30 words]",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "[illegible, ~30 words]",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "[illegible, ~25 words]",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "notes": "The scan is too low-resolution to read any word, so the paragraph count and the level of the top line are estimates. Please upload a higher-resolution scan (ideally at least 1500 px on the long side) and I will transcribe the page in full, including the layout, notes and any Greek or Hebrew."
   },
   {
    "n": 211,
@@ -14232,13 +14274,43 @@
   },
   {
    "n": 229,
-   "type": "missing",
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
    "warnings": [
     {
-     "type": "missing_page",
-     "text": "page 229 was not transcribed: no <page>...</page> in response"
+     "type": "incomplete",
+     "text": "only 0% as many letters as the OCR layer: a block may be missing"
+    },
+    {
+     "type": "incomplete",
+     "text": "3 lines hold only a marker: a block was given up"
+    },
+    {
+     "type": "line_split",
+     "text": "only 0% of the letters found in the OCR layer: line breaks partly missing"
     }
-   ]
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "[illegible, ~40 letters]",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "[illegible, ~40 letters]",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "[illegible, ~40 letters]",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "notes": "The attached image is a very small thumbnail, too low in resolution to read any printed words reliably. The paragraph count and line lengths above are estimates from the layout only. Please upload a higher-resolution scan of this page (ideally at least 300 dpi, or a crop of the text block) and I will transcribe it in full, including any marginal notes, headings and page furniture."
   },
   {
    "n": 230,
@@ -19311,13 +19383,43 @@
   },
   {
    "n": 315,
-   "type": "missing",
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
    "warnings": [
     {
-     "type": "missing_page",
-     "text": "page 315 was not transcribed: no <page>...</page> in response"
+     "type": "incomplete",
+     "text": "only 0% as many letters as the OCR layer: a block may be missing"
+    },
+    {
+     "type": "incomplete",
+     "text": "3 lines hold only a marker: a block was given up"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
     }
-   ]
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "[illegible, ~20 letters]",
+     "heading": 1,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "[illegible, ~60 letters]",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "[illegible, ~60 letters]",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "notes": "Scan resolution too low to read. The paragraph count, letter counts and layout are estimates. Please resubmit a higher-resolution image for a full transcription."
   },
   {
    "n": 316,
@@ -20838,13 +20940,33 @@
   },
   {
    "n": 341,
-   "type": "missing",
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
    "warnings": [
     {
-     "type": "missing_page",
-     "text": "page 341 was not transcribed: no <page>...</page> in response"
+     "type": "incomplete",
+     "text": "only 0% as many letters as the OCR layer: a block may be missing"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
     }
-   ]
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "[illegible, ~4 letters]",
+     "heading": 1,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "[illegible, ~60 letters] [illegible, ~60 letters] [illegible, ~60 letters]",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "notes": "Scan resolution too low to read. Please provide a higher-resolution image."
   },
   {
    "n": 342,
@@ -31164,23 +31286,72 @@
   },
   {
    "n": 515,
-   "type": "missing",
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
    "warnings": [
     {
-     "type": "missing_page",
-     "text": "page 515 was not transcribed: no <page>...</page> in response"
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: [illegible, ~45 letters] / [illegible, ~40 letters]"
+    },
+    {
+     "type": "incomplete",
+     "text": "only 0% as many letters as the OCR layer: a block may be missing"
+    },
+    {
+     "type": "incomplete",
+     "text": "4 lines hold only a marker: a block was given up"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
     }
-   ]
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "[illegible, ~40 letters]",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "[illegible, ~45 letters] [illegible, ~30 letters]",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "catchword": "[illegible, ~40 letters]",
+   "notes": "The scan was supplied as a very small thumbnail (roughly 60 by 90 pixels). At this size the printed letters cannot be read, so no words are transcribed. The layout and paragraph count are estimates from the greyscale shape of the text block. Please upload a higher-resolution scan (at least about 300 dpi, or a crop of the page) and I will transcribe it in full, including any heading, running head, page number and marginal notes."
   },
   {
    "n": 516,
-   "type": "missing",
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
    "warnings": [
     {
-     "type": "missing_page",
-     "text": "page 516 was not transcribed: no <page>...</page> in response"
+     "type": "incomplete",
+     "text": "only 0% as many letters as the OCR layer: a block may be missing"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
     }
-   ]
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "[illegible, ~40 letters]",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "[illegible, ~200 letters]",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "notes": "The scan is too small to read: it is a thumbnail of roughly 40 by 50 pixels. The paragraph count and letter counts are estimates. No headings, page number, running head or signature could be identified. Please send a larger image of this page for a full transcription."
   },
   {
    "n": 517,
@@ -31949,13 +32120,49 @@
   },
   {
    "n": 531,
-   "type": "missing",
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
    "warnings": [
     {
-     "type": "missing_page",
-     "text": "page 531 was not transcribed: no <page>...</page> in response"
+     "type": "incomplete",
+     "text": "only 0% as many letters as the OCR layer: a block may be missing"
+    },
+    {
+     "type": "incomplete",
+     "text": "4 lines hold only a marker: a block was given up"
+    },
+    {
+     "type": "line_split",
+     "text": "only 0% of the letters found in the OCR layer: line breaks partly missing"
     }
-   ]
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "[illegible, ~3 letters]",
+     "heading": 1,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "[illegible, ~60 letters]",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "[illegible, ~80 letters]",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "[illegible, ~70 letters]",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "notes": "The image is a very low-resolution thumbnail (roughly 60 by 80 pixels). Individual words, the exact number of lines and paragraphs, and any running head, page number or catchword cannot be read. The paragraph and word counts above are estimates from the layout. Please upload a higher-resolution scan (ideally at least 300 dpi, or a crop of the page) and I will transcribe it in full."
   },
   {
    "n": 532,
@@ -35369,23 +35576,76 @@
   },
   {
    "n": 589,
-   "type": "missing",
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
    "warnings": [
     {
-     "type": "missing_page",
-     "text": "page 589 was not transcribed: no <page>...</page> in response"
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: [illegible, ~40 letters] / [illegible, ~120 letters]"
+    },
+    {
+     "type": "incomplete",
+     "text": "only 0% as many letters as the OCR layer: a block may be missing"
+    },
+    {
+     "type": "incomplete",
+     "text": "3 lines hold only a marker: a block was given up"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
     }
-   ]
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "[illegible, ~6 letters]",
+     "heading": 1,
+     "para": true
+    }
+   ],
+   "catchword": "[illegible, ~120 letters]",
+   "notes": "The scan resolution is too low to read any word. The letter counts are rough estimates from line length. I could not confirm the head level, paragraph breaks, or whether there is a catchword or signature at the foot. A higher-resolution scan (ideally 300 dpi or more, with the full page visible) would allow a proper transcription."
   },
   {
    "n": 590,
-   "type": "missing",
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
    "warnings": [
     {
-     "type": "missing_page",
-     "text": "page 590 was not transcribed: no <page>...</page> in response"
+     "type": "incomplete",
+     "text": "only 0% as many letters as the OCR layer: a block may be missing"
+    },
+    {
+     "type": "incomplete",
+     "text": "3 lines hold only a marker: a block was given up"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
     }
-   ]
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "[illegible, ~40 letters]",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "[illegible, ~40 letters]",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "[illegible, ~40 letters]",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "notes": "Scan resolution too low to read. Page number, running head, catchword and signature cannot be determined. Please provide a higher-resolution image for a complete transcription."
   },
   {
    "n": 591,
@@ -51780,13 +52040,33 @@
   },
   {
    "n": 852,
-   "type": "missing",
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
    "warnings": [
     {
-     "type": "missing_page",
-     "text": "page 852 was not transcribed: no <page>...</page> in response"
+     "type": "incomplete",
+     "text": "only 0% as many letters as the OCR layer: a block may be missing"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
     }
-   ]
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "[illegible, ~12 letters]",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "[illegible, ~40 letters]",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "notes": "The scan is too low-resolution to read any words, page number, running head, catchword or marginal notes. Please provide a larger image to continue."
   },
   {
    "n": 853,
@@ -52669,7 +52949,7 @@
    "warnings": [
     {
      "type": "missing_page",
-     "text": "page 867 was not transcribed: invalid XML: not well-formed (invalid token): line 4, column 34"
+     "text": "page 867 was not transcribed: no <page>...</page> in response"
     }
    ]
   },
@@ -54788,13 +55068,27 @@
   },
   {
    "n": 904,
-   "type": "missing",
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
    "warnings": [
     {
-     "type": "missing_page",
-     "text": "page 904 was not transcribed: no <page>...</page> in response"
+     "type": "incomplete",
+     "text": "only 4% as many letters as the OCR layer: a block may be missing"
+    },
+    {
+     "type": "line_split",
+     "text": "only 0% of the letters found in the OCR layer: line breaks partly missing"
     }
-   ]
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "[Transcription pending a legible scan.]",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "notes": "The supplied image is too low in resolution to read any printed text. Nothing has been transcribed. Please provide a higher-resolution scan."
   },
   {
    "n": 905,
@@ -60002,13 +60296,33 @@
   },
   {
    "n": 982,
-   "type": "missing",
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
    "warnings": [
     {
-     "type": "missing_page",
-     "text": "page 982 was not transcribed: no <page>...</page> in response"
+     "type": "incomplete",
+     "text": "only 0% as many letters as the OCR layer: a block may be missing"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
     }
-   ]
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "[illegible, ~40 letters]",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "[illegible, ~200 letters]",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "notes": "The scan is a very small thumbnail, too low in resolution to read any word. I can see only the block of printed lines, not their letters, so I have not transcribed the text. Paragraph breaks are estimated from line spacing and may be wrong. Please upload a higher-resolution scan of this page, ideally at 300 dpi or more, and I will transcribe it in full."
   },
   {
    "n": 983,
@@ -63966,13 +64280,27 @@
   },
   {
    "n": 1034,
-   "type": "missing",
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
    "warnings": [
     {
-     "type": "missing_page",
-     "text": "page 1034 was not transcribed: no <page>...</page> in response"
+     "type": "incomplete",
+     "text": "only 0% as many letters as the OCR layer: a block may be missing"
+    },
+    {
+     "type": "line_split",
+     "text": "only 0% of the letters found in the OCR layer: line breaks partly missing"
     }
-   ]
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "[illegible, ~200 letters]",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "notes": "The scan is too low-resolution to read any words. The layout and line count are estimates. Please provide a higher-resolution image for a full transcription."
   },
   {
    "n": 1035,
@@ -65795,13 +66123,27 @@
   },
   {
    "n": 1058,
-   "type": "missing",
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
    "warnings": [
     {
-     "type": "missing_page",
-     "text": "page 1058 was not transcribed: no <page>...</page> in response"
+     "type": "incomplete",
+     "text": "only 0% as many letters as the OCR layer: a block may be missing"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
     }
-   ]
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "[illegible, ~60 letters]",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "notes": "The scan is a thumbnail too small to read. Please upload a larger or higher-resolution image of this page (ideally at least 1500 px on the long side) so I can transcribe it word by word. Until then, the text block cannot be verified, and the paragraph count and heading levels are unknown."
   },
   {
    "n": 1059,
@@ -66872,6 +67214,10 @@
    "model": "subscription/claude-haiku-5-5",
    "warnings": [
     {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: [illegible, ~60 letters] / [illegible, ~60 letters]"
+    },
+    {
      "type": "incomplete",
      "text": "only 0% as many letters as the OCR layer: a block may be missing"
     },
@@ -66890,31 +67236,56 @@
      "text": "[illegible, ~60 letters]",
      "heading": 0,
      "para": true
+    }
+   ],
+   "catchword": "[illegible, ~60 letters]",
+   "notes": "The attached image is a very small thumbnail, so I cannot make out any words, headings, page numbers or running heads. The paragraphs above are placeholders, not a reading of the page. Please upload a higher-resolution scan (ideally at least 1500 px on the long side) and I will transcribe it in full."
+  },
+  {
+   "n": 1076,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "incomplete",
+     "text": "only 0% as many letters as the OCR layer: a block may be missing"
+    },
+    {
+     "type": "incomplete",
+     "text": "4 lines hold only a marker: a block was given up"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "[illegible, ~6 letters]",
+     "heading": 1,
+     "para": true
     },
     {
      "n": 2,
-     "text": "[illegible, ~60 letters]",
+     "text": "[illegible, ~40 letters]",
      "heading": 0,
      "para": true
     },
     {
      "n": 3,
-     "text": "[illegible, ~60 letters]",
+     "text": "[illegible, ~45 letters]",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "[illegible, ~38 letters]",
      "heading": 0,
      "para": true
     }
    ],
-   "notes": "The attached image is a very small thumbnail, so I cannot make out any words, headings, page numbers or running heads. The paragraphs above are placeholders, not a reading of the page. Please upload a higher-resolution scan (ideally at least 1500 px on the long side) and I will transcribe it in full."
-  },
-  {
-   "n": 1076,
-   "type": "missing",
-   "warnings": [
-    {
-     "type": "missing_page",
-     "text": "page 1076 was not transcribed: no <page>...</page> in response"
-    }
-   ]
+   "notes": "The scan is a very small thumbnail (about 40×50 px). The text lines and any page number, running head or catchword cannot be read at this resolution, so they are omitted or marked illegible. The paragraph and line counts are estimates from the layout, not readings. Please provide a larger or higher-resolution image of the page for an accurate transcription."
   },
   {
    "n": 1077,
@@ -69292,13 +69663,33 @@
   },
   {
    "n": 1105,
-   "type": "missing",
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
    "warnings": [
     {
-     "type": "missing_page",
-     "text": "page 1105 was not transcribed: no <page>...</page> in response"
+     "type": "incomplete",
+     "text": "only 0% as many letters as the OCR layer: a block may be missing"
+    },
+    {
+     "type": "line_split",
+     "text": "only 0% of the letters found in the OCR layer: line breaks partly missing"
     }
-   ]
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "[illegible, ~30 letters]",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "[illegible, ~30 letters]",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "notes": "The scan is too small and low-resolution to read. Every line above is a placeholder, not a transcription. Please upload a higher-resolution image of this page (ideally at least 1500 px wide) and I will transcribe it in full, including any margin notes, running head, page number and catchword."
   },
   {
    "n": 1106,

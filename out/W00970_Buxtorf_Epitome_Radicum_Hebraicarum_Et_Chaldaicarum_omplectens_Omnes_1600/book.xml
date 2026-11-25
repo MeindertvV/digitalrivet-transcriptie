@@ -4841,8 +4841,19 @@
     </main_text>
     <notes>The scan is too low in resolution to read any words. Please upload a scan of at least about 1000 pixels on the long side, ideally 300 dpi or more, so the page can be transcribed accurately. The page number, running head, catchword and signature are also not visible at this size.</notes>
   </page>
-  <page type="missing" n="210">
-    <warning type="missing_page">page 210 was not transcribed: no &lt;page&gt;...&lt;/page&gt; in response</warning>
+  <page type="text" lines="none" n="210" model="subscription/claude-haiku-5-5">
+    <warning type="incomplete">only 0% as many letters as the OCR layer: a block may be missing</warning>
+    <warning type="incomplete">5 lines hold only a marker: a block was given up</warning>
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One page of text in a single block, with a short title-like line above the body. No clearly visible margin notes or running head at this resolution.</layout>
+    <main_text>
+      <l n="1" type="heading" level="1" para="true">[illegible, ~3 words]</l>
+      <l n="2" para="true">[illegible, ~12 words]</l>
+      <l n="3" para="true">[illegible, ~30 words]</l>
+      <l n="4" para="true">[illegible, ~30 words]</l>
+      <l n="5" para="true">[illegible, ~25 words]</l>
+    </main_text>
+    <notes>The scan is too low-resolution to read any word, so the paragraph count and the level of the top line are estimates. Please upload a higher-resolution scan (ideally at least 1500 px on the long side) and I will transcribe the page in full, including the layout, notes and any Greek or Hebrew.</notes>
   </page>
   <page type="text" lines="ocr" n="211" model="subscription/claude-haiku-5-5">
     <warning type="line_split">only 4% of the letters found in the OCR layer: line breaks partly missing</warning>
@@ -5239,8 +5250,17 @@
     </main_text>
     <notes>Top right Hebrew mark and the Hebrew words in the first annotation are uncertain and transcribed from the scan with low confidence; they should be checked against the image. The Hebrew "לה קדש" and "לי׳הוה" are doubtful. Latin in the annotations has a few abbreviations and spellings transcribed as printed where legible; "Schemhamphorasch" and "Schimeon" are as printed. Printed "Tunc destiterunt fratres ejus" is a full line and continues beyond the scan's visible text, so no catchword is recorded.</notes>
   </page>
-  <page type="missing" n="229">
-    <warning type="missing_page">page 229 was not transcribed: no &lt;page&gt;...&lt;/page&gt; in response</warning>
+  <page type="text" lines="ocr" n="229" model="subscription/claude-haiku-5-5">
+    <warning type="incomplete">only 0% as many letters as the OCR layer: a block may be missing</warning>
+    <warning type="incomplete">3 lines hold only a marker: a block was given up</warning>
+    <warning type="line_split">only 0% of the letters found in the OCR layer: line breaks partly missing</warning>
+    <layout>One page of running text, centred block; no margin notes visible at this resolution.</layout>
+    <main_text>
+      <l n="1" para="true">[illegible, ~40 letters]</l>
+      <l n="2" para="true">[illegible, ~40 letters]</l>
+      <l n="3" para="true">[illegible, ~40 letters]</l>
+    </main_text>
+    <notes>The attached image is a very small thumbnail, too low in resolution to read any printed words reliably. The paragraph count and line lengths above are estimates from the layout only. Please upload a higher-resolution scan of this page (ideally at least 300 dpi, or a crop of the text block) and I will transcribe it in full, including any marginal notes, headings and page furniture.</notes>
   </page>
   <page type="missing" n="230">
     <warning type="missing_page">page 230 was not transcribed: no &lt;page&gt;...&lt;/page&gt; in response</warning>
@@ -7224,8 +7244,17 @@
     </main_text>
     <notes>Hebrew vowel points and some word forms are read from a small, slightly blurred scan; the marked [?] words should be checked against the original. The Hebrew running head is copied as printed. The text ends with the last entry; no catchword is visible. The "Digitized by Google" banner at the lower right is omitted.</notes>
   </page>
-  <page type="missing" n="315">
-    <warning type="missing_page">page 315 was not transcribed: no &lt;page&gt;...&lt;/page&gt; in response</warning>
+  <page type="text" lines="none" n="315" model="subscription/claude-haiku-5-5">
+    <warning type="incomplete">only 0% as many letters as the OCR layer: a block may be missing</warning>
+    <warning type="incomplete">3 lines hold only a marker: a block was given up</warning>
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One page of text, apparently in a single block; the top line may be a heading. Margins and the bottom of the page could not be assessed at this resolution.</layout>
+    <main_text>
+      <l n="1" type="heading" level="1" para="true">[illegible, ~20 letters]</l>
+      <l n="2" para="true">[illegible, ~60 letters]</l>
+      <l n="3" para="true">[illegible, ~60 letters]</l>
+    </main_text>
+    <notes>Scan resolution too low to read. The paragraph count, letter counts and layout are estimates. Please resubmit a higher-resolution image for a full transcription.</notes>
   </page>
   <page type="missing" n="316">
     <warning type="missing_page">page 316 was not transcribed: no &lt;page&gt;...&lt;/page&gt; in response</warning>
@@ -7795,8 +7824,15 @@
     </main_text>
     <notes>Doubtful readings: several Hebrew words and vowel points are uncertain, especially in the Hiphil, Hophal and Chaldee forms, the construct phrase "חִקְרֵי־לֵב" and the word "תְּהֹתִיּוֹת" (printed תהתיות). The Hebrew in the first line and the Pih. entry is marked [?] where not read with certainty. "Præter." after "Pih." may read "Præterit." in the printed line. The mark at the foot left is a signature, uncertain as Z. No catchword is visible. The printed "Digitized by Google" stamp is left out.</notes>
   </page>
-  <page type="missing" n="341">
-    <warning type="missing_page">page 341 was not transcribed: no &lt;page&gt;...&lt;/page&gt; in response</warning>
+  <page type="text" lines="none" n="341" model="subscription/claude-haiku-5-5">
+    <warning type="incomplete">only 0% as many letters as the OCR layer: a block may be missing</warning>
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One printed page: one text block; check the margins for notes once the scan is clearer.</layout>
+    <main_text>
+      <l n="1" type="heading" level="1" para="true">[illegible, ~4 letters]</l>
+      <l n="2" para="true">[illegible, ~60 letters] [illegible, ~60 letters] [illegible, ~60 letters]</l>
+    </main_text>
+    <notes>Scan resolution too low to read. Please provide a higher-resolution image.</notes>
   </page>
   <page type="text" lines="none" n="342" model="subscription/claude-haiku-5-5">
     <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
@@ -11634,11 +11670,30 @@
     </main_text>
     <notes>Hebrew and Greek were copied from the scan; uncertain vowel points and letters are marked [?]. The Greek word "ἡ μάχαιρα" and the Hebrew word "יוני" at the line end are doubtful. The word "quI" in the printed text was read as "qui". The partly obscured Hebrew at the start of the first paragraph is uncertain.</notes>
   </page>
-  <page type="missing" n="515">
-    <warning type="missing_page">page 515 was not transcribed: no &lt;page&gt;...&lt;/page&gt; in response</warning>
+  <page type="text" lines="none" n="515" model="subscription/claude-haiku-5-5">
+    <warning type="catchword_in_text">catchword taken out of the main text: [illegible, ~45 letters] / [illegible, ~40 letters]</warning>
+    <warning type="incomplete">only 0% as many letters as the OCR layer: a block may be missing</warning>
+    <warning type="incomplete">4 lines hold only a marker: a block was given up</warning>
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One page of running text in a single column; no margin notes visible at this resolution; no running head, page number or catchword can be read.</layout>
+    <main_text>
+      <l n="1" para="true">[illegible, ~40 letters]</l>
+      <l n="2" para="true">[illegible, ~45 letters] [illegible, ~30 letters]</l>
+    </main_text>
+    <notes>The scan was supplied as a very small thumbnail (roughly 60 by 90 pixels). At this size the printed letters cannot be read, so no words are transcribed. The layout and paragraph count are estimates from the greyscale shape of the text block. Please upload a higher-resolution scan (at least about 300 dpi, or a crop of the page) and I will transcribe it in full, including any heading, running head, page number and marginal notes.</notes>
+    <bottom_margin>
+      <catchword>[illegible, ~40 letters]</catchword>
+    </bottom_margin>
   </page>
-  <page type="missing" n="516">
-    <warning type="missing_page">page 516 was not transcribed: no &lt;page&gt;...&lt;/page&gt; in response</warning>
+  <page type="text" lines="none" n="516" model="subscription/claude-haiku-5-5">
+    <warning type="incomplete">only 0% as many letters as the OCR layer: a block may be missing</warning>
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One block of running text, full width. No visible margin notes, running head, page number or catchword at this resolution.</layout>
+    <main_text>
+      <l n="1" para="true">[illegible, ~40 letters]</l>
+      <l n="2" para="true">[illegible, ~200 letters]</l>
+    </main_text>
+    <notes>The scan is too small to read: it is a thumbnail of roughly 40 by 50 pixels. The paragraph count and letter counts are estimates. No headings, page number, running head or signature could be identified. Please send a larger image of this page for a full transcription.</notes>
   </page>
   <page type="text" lines="ocr" n="517" model="subscription/claude-haiku-5-5">
     <warning type="merged_lines">1 line(s) contain several printed lines merged together (longest 601 chars, median 167); line numbering is unreliable</warning>
@@ -11922,8 +11977,18 @@
     </main_text>
     <notes>Hebrew headwords and vowel points are read from a small, blurred scan; vowel points are mostly omitted where not clearly legible. Doubtful Hebrew forms (מנדה, מנעא) are uncertain. The running head is Hebrew and is copied as printed. The entry for מנה ends the page mid-entry, so no catchword is printed.</notes>
   </page>
-  <page type="missing" n="531">
-    <warning type="missing_page">page 531 was not transcribed: no &lt;page&gt;...&lt;/page&gt; in response</warning>
+  <page type="text" lines="ocr" n="531" model="subscription/claude-haiku-5-5">
+    <warning type="incomplete">only 0% as many letters as the OCR layer: a block may be missing</warning>
+    <warning type="incomplete">4 lines hold only a marker: a block was given up</warning>
+    <warning type="line_split">only 0% of the letters found in the OCR layer: line breaks partly missing</warning>
+    <layout>One page of text in a single column; no margin notes visible at this resolution.</layout>
+    <main_text>
+      <l n="1" type="heading" level="1" para="true">[illegible, ~3 letters]</l>
+      <l n="2" para="true">[illegible, ~60 letters]</l>
+      <l n="3" para="true">[illegible, ~80 letters]</l>
+      <l n="4" para="true">[illegible, ~70 letters]</l>
+    </main_text>
+    <notes>The image is a very low-resolution thumbnail (roughly 60 by 80 pixels). Individual words, the exact number of lines and paragraphs, and any running head, page number or catchword cannot be read. The paragraph and word counts above are estimates from the layout. Please upload a higher-resolution scan (ideally at least 300 dpi, or a crop of the page) and I will transcribe it in full.</notes>
   </page>
   <page type="missing" n="532">
     <warning type="missing_page">page 532 was not transcribed: no &lt;page&gt;...&lt;/page&gt; in response</warning>
@@ -13224,11 +13289,31 @@
     </main_text>
     <notes>Hebrew words are transcribed from the scan with uncertain vowel points and letters; each carries [?]. The Hebrew running head reads נפ. The headword at the foot right is the catchword. "Genef" printed with long s, read as Genes. "invi-cem" hyphenation taken as printed at the line end. The mark after "eosq" is a small superscript sign, read as q;. Greek and Latin elements are checked against the scan only.</notes>
   </page>
-  <page type="missing" n="589">
-    <warning type="missing_page">page 589 was not transcribed: no &lt;page&gt;...&lt;/page&gt; in response</warning>
+  <page type="text" lines="none" n="589" model="subscription/claude-haiku-5-5">
+    <warning type="catchword_in_text">catchword taken out of the main text: [illegible, ~40 letters] / [illegible, ~120 letters]</warning>
+    <warning type="incomplete">only 0% as many letters as the OCR layer: a block may be missing</warning>
+    <warning type="incomplete">3 lines hold only a marker: a block was given up</warning>
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One page of text, one column. Top of the page: a short centred line, possibly a heading. Below: several lines of running text in a single column. No margin notes, running head, or page number visible.</layout>
+    <main_text>
+      <l n="1" type="heading" level="1" para="true">[illegible, ~6 letters]</l>
+    </main_text>
+    <notes>The scan resolution is too low to read any word. The letter counts are rough estimates from line length. I could not confirm the head level, paragraph breaks, or whether there is a catchword or signature at the foot. A higher-resolution scan (ideally 300 dpi or more, with the full page visible) would allow a proper transcription.</notes>
+    <bottom_margin>
+      <catchword>[illegible, ~120 letters]</catchword>
+    </bottom_margin>
   </page>
-  <page type="missing" n="590">
-    <warning type="missing_page">page 590 was not transcribed: no &lt;page&gt;...&lt;/page&gt; in response</warning>
+  <page type="text" lines="none" n="590" model="subscription/claude-haiku-5-5">
+    <warning type="incomplete">only 0% as many letters as the OCR layer: a block may be missing</warning>
+    <warning type="incomplete">3 lines hold only a marker: a block was given up</warning>
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One block of running text on a single printed page; no visible margin notes at this resolution.</layout>
+    <main_text>
+      <l n="1" para="true">[illegible, ~40 letters]</l>
+      <l n="2" para="true">[illegible, ~40 letters]</l>
+      <l n="3" para="true">[illegible, ~40 letters]</l>
+    </main_text>
+    <notes>Scan resolution too low to read. Page number, running head, catchword and signature cannot be determined. Please provide a higher-resolution image for a complete transcription.</notes>
   </page>
   <page type="text" lines="none" n="591" model="subscription/claude-haiku-5-5">
     <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
@@ -19171,8 +19256,15 @@ Hebrew and Greek-style letters are transcribed as best legible; the Hebrew vocal
   <page type="missing" n="851">
     <warning type="missing_page">page 851 was not transcribed: no &lt;page&gt;...&lt;/page&gt; in response</warning>
   </page>
-  <page type="missing" n="852">
-    <warning type="missing_page">page 852 was not transcribed: no &lt;page&gt;...&lt;/page&gt; in response</warning>
+  <page type="text" lines="none" n="852" model="subscription/claude-haiku-5-5">
+    <warning type="incomplete">only 0% as many letters as the OCR layer: a block may be missing</warning>
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One page of running text, one column. Margins and page number not discernible at this resolution.</layout>
+    <main_text>
+      <l n="1" para="true">[illegible, ~12 letters]</l>
+      <l n="2" para="true">[illegible, ~40 letters]</l>
+    </main_text>
+    <notes>The scan is too low-resolution to read any words, page number, running head, catchword or marginal notes. Please provide a larger image to continue.</notes>
   </page>
   <page type="text" lines="none" n="853" model="subscription/claude-haiku-5-5">
     <warning type="merged_lines">1 line(s) contain several printed lines merged together (longest 530 chars, median 143); line numbering is unreliable</warning>
@@ -19472,7 +19564,7 @@ Hebrew and Greek-style letters are transcribed as best legible; the Hebrew vocal
     <notes>Hebrew vowel points and some consonants at the line ends are faint at this scan resolution; marked [?] where not certain. The running head is Hebrew and its exact letters are uncertain. The headword rendered רַס may carry a different point. Ecclef.3.21 is printed as in the scan; the Hebrew verse reference was not checked against the source. No marginal notes present.</notes>
   </page>
   <page type="missing" n="867">
-    <warning type="missing_page">page 867 was not transcribed: invalid XML: not well-formed (invalid token): line 4, column 34</warning>
+    <warning type="missing_page">page 867 was not transcribed: no &lt;page&gt;...&lt;/page&gt; in response</warning>
   </page>
   <page type="text" lines="ocr" n="868" model="subscription/claude-haiku-5-5">
     <warning type="incomplete">only 0% as many letters as the OCR layer: a block may be missing</warning>
@@ -20280,8 +20372,14 @@ Hebrew and Greek-style letters are transcribed as best legible; the Hebrew vocal
     </main_text>
     <notes>Scan is blurred with stains, so many Hebrew vowel points and some Latin letters are uncertain. Doubtful readings are marked [?]. The Hebrew headwords and the asterisk line are reproduced from the visible shapes and may differ in exact pointing. The word "satagens" is uncertain. The catchword is taken from the Hebrew at the foot right.</notes>
   </page>
-  <page type="missing" n="904">
-    <warning type="missing_page">page 904 was not transcribed: no &lt;page&gt;...&lt;/page&gt; in response</warning>
+  <page type="text" lines="ocr" n="904" model="subscription/claude-haiku-5-5">
+    <warning type="incomplete">only 4% as many letters as the OCR layer: a block may be missing</warning>
+    <warning type="line_split">only 0% of the letters found in the OCR layer: line breaks partly missing</warning>
+    <layout>[Not determinable from the thumbnail. Describe the blocks once a readable scan is available.]</layout>
+    <main_text>
+      <l n="1" para="true">[Transcription pending a legible scan.]</l>
+    </main_text>
+    <notes>The supplied image is too low in resolution to read any printed text. Nothing has been transcribed. Please provide a higher-resolution scan.</notes>
   </page>
   <page type="text" lines="none" n="905" model="subscription/claude-haiku-5-5">
     <warning type="merged_lines">1 line(s) contain several printed lines merged together (longest 1668 chars, median 119); line numbering is unreliable</warning>
@@ -22201,8 +22299,15 @@ Hebrew and Greek-style letters are transcribed as best legible; the Hebrew vocal
     </main_text>
     <notes>Hebrew and Greek forms copied from the scan at reduced resolution; vowel points and some letters are uncertain, marked [?]. The Greek word after "Thalamus:" is not legible. The entry for תאב at the foot is the catchword. Headword ת is a letter heading set as a paragraph. The Hebrew in the entry שתק (Futurum line) is set in two lines with the Latin glosses and may be in a different order than printed; the readings marked [?] should be checked.</notes>
   </page>
-  <page type="missing" n="982">
-    <warning type="missing_page">page 982 was not transcribed: no &lt;page&gt;...&lt;/page&gt; in response</warning>
+  <page type="text" lines="none" n="982" model="subscription/claude-haiku-5-5">
+    <warning type="incomplete">only 0% as many letters as the OCR layer: a block may be missing</warning>
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One column of running text, filling most of the page. No margin notes visible. No running head, page number or catchword visible at this resolution.</layout>
+    <main_text>
+      <l n="1" para="true">[illegible, ~40 letters]</l>
+      <l n="2" para="true">[illegible, ~200 letters]</l>
+    </main_text>
+    <notes>The scan is a very small thumbnail, too low in resolution to read any word. I can see only the block of printed lines, not their letters, so I have not transcribed the text. Paragraph breaks are estimated from line spacing and may be wrong. Please upload a higher-resolution scan of this page, ideally at 300 dpi or more, and I will transcribe it in full.</notes>
   </page>
   <page type="text" lines="none" n="983" model="subscription/claude-haiku-5-5">
     <warning type="catchword_in_text">catchword taken out of the main text: Dan.</warning>
@@ -23510,8 +23615,14 @@ Hebrew and Greek-style letters are transcribed as best legible; the Hebrew vocal
     </main_text>
     <notes>Hebrew vowel points and some Greek letters are doubtful at this scan resolution; Hebrew and Greek readings may be off in places, notably the points on טָפִי, שַׂגִּי, טְפוּף and the Greek τύπω, which may read differently. The printer's ornament between the rule and the second block is not transcribed. The Hebrew headword forms at the start of each entry follow the printed order as closely as legible.</notes>
   </page>
-  <page type="missing" n="1034">
-    <warning type="missing_page">page 1034 was not transcribed: no &lt;page&gt;...&lt;/page&gt; in response</warning>
+  <page type="text" lines="ocr" n="1034" model="subscription/claude-haiku-5-5">
+    <warning type="incomplete">only 0% as many letters as the OCR layer: a block may be missing</warning>
+    <warning type="line_split">only 0% of the letters found in the OCR layer: line breaks partly missing</warning>
+    <layout>One page of running text, one column; no margin notes visible at this resolution.</layout>
+    <main_text>
+      <l n="1" para="true">[illegible, ~200 letters]</l>
+    </main_text>
+    <notes>The scan is too low-resolution to read any words. The layout and line count are estimates. Please provide a higher-resolution image for a full transcription.</notes>
   </page>
   <page type="text" lines="ocr" n="1035" model="subscription/claude-haiku-5-5">
     <warning type="line_split">only 0% of the letters found in the OCR layer: line breaks partly missing</warning>
@@ -24133,8 +24244,14 @@ Hebrew and Greek-style letters are transcribed as best legible; the Hebrew vocal
     </main_text>
     <notes>Ink blot over part of the last entry ("id est") and a dark smudge at the right edge; the Hebrew vowel points and some letters in the first Hebrew words of several entries are faint and read with [?]. Page number may be 939 rather than 930. Top black bar and scan marks left out.</notes>
   </page>
-  <page type="missing" n="1058">
-    <warning type="missing_page">page 1058 was not transcribed: no &lt;page&gt;...&lt;/page&gt; in response</warning>
+  <page type="text" lines="none" n="1058" model="subscription/claude-haiku-5-5">
+    <warning type="incomplete">only 0% as many letters as the OCR layer: a block may be missing</warning>
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One page of text in a single column, with a possible ornament or heading at the top. No visible margin notes. Resolution too low to confirm further blocks.</layout>
+    <main_text>
+      <l n="1" para="true">[illegible, ~60 letters]</l>
+    </main_text>
+    <notes>The scan is a thumbnail too small to read. Please upload a larger or higher-resolution image of this page (ideally at least 1500 px on the long side) so I can transcribe it word by word. Until then, the text block cannot be verified, and the paragraph count and heading levels are unknown.</notes>
   </page>
   <page type="text" lines="none" n="1059" model="subscription/claude-haiku-5-5">
     <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
@@ -24508,19 +24625,31 @@ Hebrew and Greek-style letters are transcribed as best legible; the Hebrew vocal
     <notes>Hebrew vowel points and several Hebrew words are not fully legible at this scan resolution and are given from best reading; they are not certain. The first line ends "Ed", read as the start of Eo-ut continued on the next line; the hyphen is inferred. In the entry "Postea declarabis", "distinguES" is a probable misreading and should be checked against the scan. The running head is a Hebrew letter, not a title. The signature at the foot is doubtful. The first Hebrew word in the second paragraph is uncertain.</notes>
   </page>
   <page type="text" lines="none" n="1075" model="subscription/claude-haiku-5-5">
+    <warning type="catchword_in_text">catchword taken out of the main text: [illegible, ~60 letters] / [illegible, ~60 letters]</warning>
     <warning type="incomplete">only 0% as many letters as the OCR layer: a block may be missing</warning>
     <warning type="incomplete">3 lines hold only a marker: a block was given up</warning>
     <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
     <layout>One page of running text in a single column, apparently with no margin notes. The scan is too small for me to read any line.</layout>
     <main_text>
       <l n="1" para="true">[illegible, ~60 letters]</l>
-      <l n="2" para="true">[illegible, ~60 letters]</l>
-      <l n="3" para="true">[illegible, ~60 letters]</l>
     </main_text>
     <notes>The attached image is a very small thumbnail, so I cannot make out any words, headings, page numbers or running heads. The paragraphs above are placeholders, not a reading of the page. Please upload a higher-resolution scan (ideally at least 1500 px on the long side) and I will transcribe it in full.</notes>
+    <bottom_margin>
+      <catchword>[illegible, ~60 letters]</catchword>
+    </bottom_margin>
   </page>
-  <page type="missing" n="1076">
-    <warning type="missing_page">page 1076 was not transcribed: no &lt;page&gt;...&lt;/page&gt; in response</warning>
+  <page type="text" lines="none" n="1076" model="subscription/claude-haiku-5-5">
+    <warning type="incomplete">only 0% as many letters as the OCR layer: a block may be missing</warning>
+    <warning type="incomplete">4 lines hold only a marker: a block was given up</warning>
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One page of text in a single column; a heading or title block at the top; no visible margin notes.</layout>
+    <main_text>
+      <l n="1" type="heading" level="1" para="true">[illegible, ~6 letters]</l>
+      <l n="2" para="true">[illegible, ~40 letters]</l>
+      <l n="3" para="true">[illegible, ~45 letters]</l>
+      <l n="4" para="true">[illegible, ~38 letters]</l>
+    </main_text>
+    <notes>The scan is a very small thumbnail (about 40×50 px). The text lines and any page number, running head or catchword cannot be read at this resolution, so they are omitted or marked illegible. The paragraph and line counts are estimates from the layout, not readings. Please provide a larger or higher-resolution image of the page for an accurate transcription.</notes>
   </page>
   <page type="text" lines="none" n="1077" model="subscription/claude-haiku-5-5">
     <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
@@ -25260,8 +25389,15 @@ Hebrew and Greek-style letters are transcribed as best legible; the Hebrew vocal
     </main_text>
     <notes>Page number 962 printed top left. A small symbol in a box stands at the top right; it is not a running title and is left out. Printed signature "Ppp 4" at the foot. The last line breaks mid-word ("obdormi-") and no catchword is printed. Hebrew and Greek vowel points are copied as far as the scan shows them; the Hebrew entries are hard to read at this resolution, so some vowel points and letters may be wrong and should be checked against a higher-resolution scan. The word "Quamprimùm" and the entries with Hebrew forms like "תִּיקָא" and "הַכָּף שֶׁיָּשָׁן" are the least certain readings. Mark these with [?] in a corrected pass if needed.</notes>
   </page>
-  <page type="missing" n="1105">
-    <warning type="missing_page">page 1105 was not transcribed: no &lt;page&gt;...&lt;/page&gt; in response</warning>
+  <page type="text" lines="ocr" n="1105" model="subscription/claude-haiku-5-5">
+    <warning type="incomplete">only 0% as many letters as the OCR layer: a block may be missing</warning>
+    <warning type="line_split">only 0% of the letters found in the OCR layer: line breaks partly missing</warning>
+    <layout>One page of text: a block of running text in the upper part, with a few shorter lines below it. No margin notes are visible at this resolution.</layout>
+    <main_text>
+      <l n="1" para="true">[illegible, ~30 letters]</l>
+      <l n="2" para="true">[illegible, ~30 letters]</l>
+    </main_text>
+    <notes>The scan is too small and low-resolution to read. Every line above is a placeholder, not a transcription. Please upload a higher-resolution image of this page (ideally at least 1500 px wide) and I will transcribe it in full, including any margin notes, running head, page number and catchword.</notes>
   </page>
   <page type="missing" n="1106">
     <warning type="missing_page">page 1106 was not transcribed: no &lt;page&gt;...&lt;/page&gt; in response</warning>
