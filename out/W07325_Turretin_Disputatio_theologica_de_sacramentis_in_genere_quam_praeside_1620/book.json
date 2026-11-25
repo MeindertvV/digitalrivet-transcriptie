@@ -1,0 +1,1194 @@
+{
+ "source": "W07325_Turretin_Disputatio_theologica_de_sacramentis_in_genere_quam_praeside_1620.pdf",
+ "pages": [
+  {
+   "n": 1,
+   "type": "empty",
+   "model": "subscription/claude-haiku-5-5",
+   "notes": "This is the e-rara.ch digitisation cover sheet, not a page of the printed book. Its banner, logo, title block (Turrettini, Disputatio theologica de sacramentis in genere, Genevae 1620, shelf mark Bf 880 (12)), persistent link, terms of use and Visual Library logo are the digitiser's own material and are left out of the transcription as instructed. The printed book's title page would be the next scan."
+  },
+  {
+   "n": 2,
+   "type": "title",
+   "model": "subscription/claude-haiku-5-5",
+   "lines": [
+    {
+     "n": null,
+     "text": "DISPUTATIO",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "THEOLOGICA",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "DE",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "SACRAMENTIS",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "IN GENERE",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Quam",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "DEO OPT. MAX. FAVENTE,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Præside Reuerendo Clarissimoque VI-",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "RO DN. BENEDICTO TVRRETTI-",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "NO SS. Theologiæ in inclytâ Gene-",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "vensium Academiâ Professore do-",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "ctissimo, ibidémque Ecclesiæ Pastore",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "vigilantissimo,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "<i>Publici examinis censuræ subiicit</i>",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "IACOBUS DORVILLIUS",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "AQUISGRANENSIS.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Ad diem 19. Augusti horâ locóque solitis.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "GENEVÆ,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Apud Petrum de la Rouiere.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "M. DC. XX.",
+     "heading": 0
+    }
+   ],
+   "notes": "Handwritten red-ink numeral \"18\" at the top right of the title block, beside \"THEOLOGICA\": handwriting, not transcribed. Faint show-through of the reverse page is visible in the white space around the border: not transcribed. The printed \"VI-/RO\" and \"TVRRETTI-/NO\" and \"Gene-/vensium\" and \"do-/ctissimo\" splits are line-end hyphens kept as printed. The V/U spellings were normalised by rule (DISPUTATIO, IACOBUS, DORVILLIUS, AQUISGRANENSIS, Genevensium, Reverendo); the printed forms were DISPVTATIO, IACOBVS, DORVILLIVS, AQVISGRANENSIS, Geneuensium, Reuerendo."
+  },
+  {
+   "n": 3,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "merged_lines",
+     "text": "1 line(s) contain several printed lines merged together (longest 236 chars, median 76); line numbering is unreliable"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "REVERENDIS CLARISSIMISQVE VIRIS",
+     "heading": 1,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "Dn.Ioanni Prideavxio SS.Theol. D. ac ce-leberrimæ Magnæ Britanniæ, quæ est Oxonij, A-cademiæ Professori Regio, & ibidem Collegij Ex-onienfis Rectori dignissimo, patrono ac fautori suo omni tempore suspiciendo.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "Dn.Pavlo Tossano SS.Theol. D. & Senatus Ecclesiastici in inferiori Palatinatu Consiliario, Adfini suo honorando.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "NEC NON",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "Clarissimo Charissimoqve Dn.Frideri-co Dorvillio SS.Theol. L. ac Illustrissimi Florentissimique Principis, ac Domini, Domini Henrici Iacobi Serenissimi Bohemiæ Regis, &c. Filij primogeniti Inspectori sedulo, fratri suo plurimum colendo.",
+     "heading": 0,
+     "para": true,
+     "merged": true
+    },
+    {
+     "n": 6,
+     "text": "Hanc suam De Sacramentis Dispu-tationem In grati animi ac debitæ obseruantiæ",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "τεκμήριον[?], D.D.D.C.Q.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 8,
+     "text": "IACOBVS DORVILLIVS Respondens.",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "notes": "The Greek word before D.D.D.C.Q. is hard to read at this scan resolution; the reading τεκμήριον is tentative. The Q of D.D.D.C.Q. appears underlined in the print. The line-end hyphens in \"ce-leberrimæ\", \"A-cademiæ\", \"Ex-onienfis\", \"Frideri-co\" and \"Dispu-tationem\" are the printer's own."
+  },
+  {
+   "n": 4,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "merged_lines",
+     "text": "1 line(s) contain several printed lines merged together (longest 209 chars, median 9); line numbering is unreliable"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "THESES THEOLOGICÆ DE SACRAMENTIS IN GENERE.",
+     "heading": 1,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "Thesis I.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "DEus ab initio Mundi non tantùm foederis & reconciliationis doctrinam Ecclesiæ tradidit: verùm etiam ritus externos promissionibus additos obseruari iussit, qui sunt alterum fidei nostræ adminiculum, & Latinè <i>Sacramenta</i> nuncupantur: quæ vox licet sit ἀ̓γέαφος[?], tamen Sacræ Scripturæ non aduersatur, sed respondet Græcè μυστήριον. In præsenti verò συζητήσει[?] & in quem finem instituta fuerint Sacramenta, & quis nunc eorum sit usus, σὺν θεῷ, demonstrabimus.",
+     "heading": 0,
+     "para": true,
+     "merged": true
+    },
+    {
+     "n": 4,
+     "text": "II.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "Verùm, ut hoc ordine perficiatur, primo lo-co vocabuli notio, deinde rei definitio consideran-da est.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "III.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "Vox <i>Sacramenti</i> à sacro dicta duo habet significa-ta, primò significat solenne iusiurandum, quod non nisi inuocato numine concipiebatur: hinc nata est",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "notes": "The woodcut headpiece and the woodcut initial D are decorations, not text. The \"Thesis I.\" label, and the numbers \"II.\" and \"III.\", are written as paragraphs because they are numbered theses or bare numbers. The Greek word after \"Ecclesiæ tradidit\" in the first paragraph is hard to read; I have marked it [?]. \"συζητήσει\" is also uncertain at the initial letters. The line-end hyphens in \"lo-co\", \"consideran-da\" and \"significa-ta\" are printed hyphens and are kept. The running head is not transcribed because the only text at the top is show-through from the other side. The printed number is the gathering signature \"A 2\", so there is no separate page number."
+  },
+  {
+   "n": 5,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "running_head": "DISPVTATIO",
+   "warnings": [
+    {
+     "type": "merged_lines",
+     "text": "1 line(s) contain several printed lines merged together (longest 590 chars, median 23); line numbering is unreliable"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "illa phrasis apud Cic. <i>Sacramento cum aliquo contendere:</i> secundo, pignus sive pecuniam à litigantibus apud Pontificem in sacro loco depositam, quâ multabatur is qui causâ ceciderat. <i>Varro de ling.lat.l.4.2. Qui in iudicio vicerat</i> (inquit ille) <i>auferebat suum Sacramentum.</i>",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "IV.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "Ab hac voce Scriptores Ecclesiastici quodcunque Mysterium designarunt. Ab illis enim vocabulum hoc interdum generaliter & latè, interdum specialiter & strictè sumitur. Priore significatu per Metalepsin significat Rei sacrae mysterium, secretum, & arcanum omne, qualia sunt Euangelium, Incarnatio Christi, Redemptio generis humani, Vocatio Gentium, Conuersio Iudaeorum, tota denique Religio Christiana; nec minus generali significatione per κατα-χρησιν[?] Mysterium diuinum & symbolicum intelligimus, vt sunt Ceremoniae, Typi, Parabolae, signa & Figurae, quae veteres Sacramenta appellarunt.",
+     "heading": 0,
+     "para": true,
+     "merged": true
+    },
+    {
+     "n": 4,
+     "text": "V.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "Posteriore, proprio, & strictiore significatu <i>Sacramenti</i> nomine intelligimus, signum Gratiae, atque sic potest, vt visum nonnullis, deduci à sacrando, quia per Sacramenta DEO quasi consecramur, vt ipse fiat DEUS noster, & nos templum ipsius simus: quâ in re mutuus est respectus, tum ex parte DEI Gratiam offerentis, tum ex parte hominis gratitudinem promittentis; atque hoc sensu illa vox rursus vsurpari solet vel <i>proprie</i> pro signo & signato, totaque actione sacrâ; vel synecdochicè pro alterutro seorsim.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "Dicun-",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "catchword": "Dicun-",
+   "notes": "The Greek word after \"per\" (κατα-χρησιν) is read from a line break and is doubtful; the accents are not clear on the scan. Small capitals DEO, DEUS and DEI are set in small caps in the print. The page number is not printed on this page. The right edge shows the neighbouring page and is left out."
+  },
+  {
+   "n": 6,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "running_head": "THEOLOGICA",
+   "warnings": [
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "VI.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "Dicuntur praeterea <i>Sacramenta</i> mysteria, non quòd sint miraculorum effectiones, sed Rei arcanæ ac spi-ritualis Ceremoniæ, seu (vt Aug. loquitur) <i>quia sunt si-gna rerum, aliud existentia, aliud significantia.</i> Verum satis superque de vocis definitione. Nunc spectandum quid sit Sacramentum.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "VII.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "<i>Sacramentum</i> est certum quoddam ac visibile testimonium à DEO institutum, in perpetuum Ecclesiæ in hoc Mundo peregrinantis usum; & DEI ipsius authoritate promissioni Euangelij de gratuitâ IesuChristi salute adiunctum, ut eo efficaciùs nobis per sensus ipsos demonstraret & applicatione singulari obsignaret ea quæ Verbo proponuntur, & per Spiritum S.in cordibus nostris efficiuntur: accedit etiam quod hæc sacra Ceremonia quotidiè nobis in memoriam omnia revocat officia, quibus præstandis, DEO & proximis obstricti sumus ex fœderis formulâ. Vetus definitio idem ferè complectitur. <i>Sacramentum</i> est visibile signum invisibilis Gratiæ. Apostolus <i>Rom.IV.11.</i> vocat σημεῖον καὶ σφραγῖδα τῆς δικαιοσύνης τῆς πίστεως.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "VIII.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "<i>Causa efficiens</i> Sacramentorum est solus DEVS, Ecclesiæ suæ Dominus & Legislator. Unde rectè Thomas, <i>Sacramentorum institutio, est excellentiæ, potestatis & Maiestatis diuinæ, quæ sola & ius habet promittendi signa-tum, & potentiam applicandi.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "IX.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 8,
+     "text": "DEVS autem Verbo Sacramenta addidit ad am-",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "signature": "A 3",
+   "notes": "The strip at the left edge is the neighbouring page and is left out. Faint ghost text at the top of the page is show-through and is left out. No page number is printed; the only furniture is the signature \"A 3\". The Greek is copied from the scan and has no independent check. The line \"signa-tum\" is a printed hyphen at a line end."
+  },
+  {
+   "n": 7,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "running_head": "DISPUTATIO",
+   "warnings": [
+    {
+     "type": "merged_lines",
+     "text": "2 line(s) contain several printed lines merged together (longest 306 chars, median 7); line numbering is unreliable"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "pliorem firmioremque verbi in animis nostris confirmationem & obsignationem; qui finiseft cur conscriptis literis ac testamentis sigilla apud omnes gentes apponantur: deinde ut essent visibilia verba suarum promissionum, captui nostro, qui adhuc terreni & animales sumus, accomodata. Unde scite Chry-sost. <i>Si spiritualis esses, DEVS dona sua spiritualia tibi spiritualiter proposuisset: nunc vero cum anima sit corpori alligata, dona sua spiritualia per corporalia proponit.</i> Sunt ergo addita propter infirmitatem nostram, ignorantiam ac fidei nostrae imbecillitatem, ut ea non tantum verbo, sed etiam visibilibus signis subleuetur.",
+     "heading": 0,
+     "merged": true
+    },
+    {
+     "n": 2,
+     "text": "X.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "Efficit DEVS Sacramentum verbo Institutionis tanquam instrumento, quo accedente ad Elementum fit Sacramentum, non Infusione nouæ <i>qualitatis</i>, sed <i>usus</i> Mutatione. Verbum hoc nonnulli vocant Operatorium, Consecratorium, Confectorium &c. existimantes vim quandam arcanam ipsis vocibus inseri; verùm hoc sensu vocabula hæc & commenta reiicimus.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "XI.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "Verbum autem Institutionis duas habet partes: Mandatum & Promissionem. Priore, Sacramentorum legitima administratio & perceptio præcipitur, dignitas & excellentia explicatur: posteriore, eorum usus & efficacia ex veritate diuinâ demonstratur, eorumque veluti vis & anima est.",
+     "heading": 0,
+     "para": true,
+     "merged": true
+    },
+    {
+     "n": 6,
+     "text": "XII.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "<i>Materia</i> Sacramentorum est duplex, una αἰσθητὴ[?] ex-terna,",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "signature": "A 4[?]",
+   "notes": "The neighbouring page's text at the right edge is cut off and not transcribed. The Greek word αἰσθητὴ is blurred and uncertain. The signature \"A 4\" at the foot is faint. No page number is printed on this page. The catchword is not visible."
+  },
+  {
+   "n": 8,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "running_head": "THEOLOGICA",
+   "warnings": [
+    {
+     "type": "merged_lines",
+     "text": "1 line(s) contain several printed lines merged together (longest 266 chars, median 39); line numbering is unreliable"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "terna, terrena, corporalis, nempe signum, ut aqua, pa-nis, vinum, vel ritus Ceremonialis, qui à Ministris le-gitimè vocatis peragitur: altera [illegible, ~4 letters], interna, coelestis, & spiritualis, nempe res significata, quæ est Christus cum omnibus suis opibus.",
+     "heading": 0,
+     "merged": true
+    },
+    {
+     "n": 2,
+     "text": "XIII.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "Nuncupantur Sacramenta signa, & non tantùm signa, sed <i>sacra signa & sigilla. Signa</i>, quia aliquid signi-ficant: <i>sacra signa</i>, tùm quia à Deo nobis dantur, tùm quia ad sacrum usum dantur. <i>Sigilla</i> quia confirmant & obsignant. <i>Signum</i> autem, finitore[?] Augustino est Res præter speciem, quam ingerit sensibus, aliud aliquid ex se faciens in cogitationem venire. Ut <i>Genes. XVII.11. Circumcisio</i> dicitur <i>signum fœderis</i>.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "XIV.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "Præterea duo sunt signorum genera, vel <i>naturalia</i>, quæ ex suâ naturâ significant: vel <i>voluntaria seu data</i> quæ dependent ex voluntate constituentis siue DEI, siue Hominis. Quæ à DEO sunt instituta, (de quibus hic est sermo) sunt vel <i>miraculosa</i>, qualia sunt opera DEI extraordinaria tum in V.T. ut <i>Exod.III.2. Rubus ardens absque consumptione. c.IV.3. Mosis virga. XIII.20. 21. Columna Nubis per diem & Columna Ignis per noctem, Ios.X.12 solis statio</i>, tum in N.T. <i>ut Excitationes mortuorum Matth.IX.25. Marc.V.42. Luc.VII.15. Ioh.XI.43.44. Sanationes morborum</i>, & alia eiusmodi: vel <i>Ira</i>, eaque vel <i>comminantia</i>, ut tempestates, cometæ, terræmotus; vel <i>punientia</i>, quæ sunt & <i>corporalia</i>, ut fames, pestis, bellum, & <i>spiritualia</i> ut hæreses, idololatria, schismata & c. vel <i>Gratiæ</i> quæ divinis promissionibus adduntur,",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "notes": "The superscript mark after \"altera\" (looks like a small \"vorr n\" or a wrong sort) is not legible; it is marked as illegible. \"finitore\" is uncertain (possibly a misprint for another word) and is marked [?]. \"c.IV.3.\" is read from a small, worn figure and may be inaccurate. Long s is written as plain s throughout. No page number, catchword or signature is visible on this page. The text continues onto the next page mid-sentence."
+  },
+  {
+   "n": 9,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "running_head": "DISPVTATIO",
+   "warnings": [
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "& hæc non simpliciter res promissas significant, verum etiam fidelibus illas obsignant, ad <i>πληροφορίαν</i> animis ipsorum de speciali Dei erga ipsos gratia corroborandam.",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "XV.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "Ex signis voluntariis, rursus alia sunt <i>μνημονευτικὰ</i>, quę res pridè peractas; ut passionem & mortem Christi, in memoriam nobis reuocant;alia <i>σημαντικὰ</i> significatiua rerum & donorum præsentium, quibus fruimur: vel <i>προγνωστικὰ</i>, quæ res futuras ut resurrectionem & vitam æternam in nobis adimplendas præ-nuntiant.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "XVI.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "<i>Ritus ceremonialis</i>, <i>seu Ceremonia</i> illa est actio tum Ministri in hoc negotio Christi vicem obeuntis, & sacra symbola distribuentis:tum Christianorum signa foris;res signatas intus percipientium.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "XVII.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "<i>Res significata</i>, quæ est secunda Sacramentalis mate-riæ pars, quęque à nonnullis Res Sacramenti seu Invi-sibilis Gratia nuncupatur, est ipse Christus cum omnibus suis meritis ac beneficiis. Nã tota eius persona secundum utramque naturam, & meritum eius in passione & morte, quæ præcipuè commemoranda exhibetur in Sacramentis;& beneficia, nempe Iustitia, Sapientia, Sanctificatio, & Redemptio in legitimo co-rundem usu nobis exhibita obsignantur.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 8,
+     "text": "XVIII.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 9,
+     "text": "Hactenus de partibus materiæ, sequitur earum co[illegible, ~6 letters]nentia &differentia. Conueniunt signa cum rebus",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "catchword": "rebus",
+   "notes": "The Greek words (πληροφορίαν, μνημονευτικὰ, σημαντικὰ, προγνωστικὰ) are printed small and slightly blurred. The accents and some letters are uncertain; they are copied as far as the scan allows but may contain errors. The word after \"co\" in the last paragraph is unreadable. The colon-like marks in \"distribuentis:tum\" and \"foris;res\" are reproduced as they appear in the scan. The text \"Invi-sibilis\" at the line end is hyphenated as \"Inui-\" in print; spelled with consonant v per the rule. The page number is not printed on this page. The right edge shows the neighbouring page and is not transcribed."
+  },
+  {
+   "n": 10,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "running_head": "THEOLOGICA.",
+   "warnings": [
+    {
+     "type": "merged_lines",
+     "text": "1 line(s) contain several printed lines merged together (longest 598 chars, median 7); line numbering is unreliable"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "significatis, I. Causa efficiente & institutione. II. Coniunctione Sacramenti, quâ res multùm inter se dif-ferentes coniunguntur. III. perceptione à fidelibus. Differunt autem I. Natura: Signum visibile, res si-gnificata inuisibilis. II. Obiecto, Signum ad corpus, res significata ad animam spectat. III. Modo commu-nicationis; Signi respectu est corporalis, rei significatæ verò spiritualis. IV. Necessitate; Signa non sunt o-mnibus saluandis absolutè necessaria, res autem signi-ficatę pernecessariæ sunt. V. Fine & usu; Signa dantur ad fidem confirmandam, res significata ad vitam con-sequendam.",
+     "heading": 0,
+     "merged": true
+    },
+    {
+     "n": 2,
+     "text": "XIX.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "<i>Forma</i> Sacramentorum est duplex, Externa, quæ est ipsa institutio. Interna, quæ posita est in pulcher-rimâ illâ <i>ἀναλογίᾳ</i> ac <i>χάσει</i> signi ad rem significatam, quarum altera in comparatione <i>ἐνεργειῶν</i>; ut, sicut aqua sordes, ita sanguis Christi peccata abluit: altera in ordine signi ad rem signatam consistit.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "XX.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "Hinc liquet, copulationem, coniunctionem, seu unionem signi cum re significata non esse <i>Physicam</i>, sed <i>Relativam</i>, quæ aliâs Sacramentalis seu m[?]ystica appellatur. id est, propter voluntatem & ordinatio-nem diuinam spiritualia bona in signis corporalibus intelliguntur, ac cum his, credentibus exhibentur. Hæc copulatio Relativa, etiam spiritualis est, quo-niam est diuinæ voluntatis, & Spiritus S. arctissimo fi-dei vinculo efficit, ut res cum signis accipiantur.",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "signature": "B",
+   "notes": "The initial word \"significatis,\" is a fragment and continues from the previous page. The Greek words after \"Sacramentorum\" (\"ἀναλογίᾳ\", \"χάσει\", \"ἐνεργειῶν\") are hard to read at this scan resolution, so their accents and letters are uncertain; the Greek after \"illâ\" and \"ac\" may be misread. The word after \"seu\" is printed as \"n ystica\" with a damaged first letter; read as \"m[?]ystica\". The \"u\" in \"Relatiuam\" and \"usu\" has been normalised to \"v\"/\"u\" as per convention. The page has no page number and no catchword visible."
+  },
+  {
+   "n": 11,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "DISPUTATIO XXI.",
+     "heading": 1,
+     "caput": "21",
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "Nulla igitur μεταβολὴν[?] signorum in signata, aut signatorum inclusio vel affixio cum signis fingeda est. Nam manet eadem signorum essentia & natura sensu & S. Scriptura testibus: sed respectus ad signatum ex Elemento sive actione Sacramentum facit. <i>1.Cor.X.16. Panis quem frangimus est κοινωνία corporis Christi:</i> nominat panem in ipso visu. Et Ambros. <i>De pane fit caro Christi, non sublatâ panis substantiâ, sed adiectâ pani corporis Christi gratiâ.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "XXII.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "Neque tamen propterea nuda & vacua relinquuntur signa in Sacramentorum usu, alioquin enim omnis aqua, panis, & vinum essent signa corporis ac sanguinis Christi. Sed mutatio adiicitur, quoad finem, conditionem & usum, cuius gratia in Ecclesia proponuntur: quo fit ut incipiant vere significare res plane diuinas. Exempli gratia, cum aqua, panis, & vinum a communi usu transferuntur, DEI mandato fiunt signa corporis & sanguinis Christi. Mutantur quoque nomina, ut maiorem rerum significatarum quàm signorum rationem habeamus. Et recte Theodoretus, Christus visibilia signa appellatione corporis & sanguinis sui honorauit, Οὐ τ̓ φύσιν μεταβαλὼν, ἀλλὰ τ̓ χάριν τῇ φύσει προσθεὶς[?].",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "XXIII.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "Non etiam Physicè conferunt Sacramenta aut continent Gratiam, sed collatam obsignant: quin Gratiam illis indere Idololatricum & superstitiosum est. Quòd si res signatæ dicuntur inesse Sacramētis, non eo sensu dicitur, ut cùm in corpore, aquâ, pane, & vino, quę-dam",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "notes": "A decorative mark (a small dagger or initial sign) stands in the left margin beside the first line of the first paragraph; it is not printed text and is left out. The Greek accents in the two Greek passages are hard to make out at this scan size, so those words are marked [?]. The Greek word after μεταβολὴ may be μεταβολὴν; the last Greek word of the second line is uncertain. The spelling \"fingeda\" and the capitals of \"DEI\" are kept as printed. The paragraph ends with the hyphenated word \"quę-\" and continues on the next page."
+  },
+  {
+   "n": 12,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "running_head": "THEOLOGICA.",
+   "warnings": [
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "dami nesse dicimus localiter, vel circumscriptiuè, vel definitiuè: sed dicuntur in eâ actione adesse, id est, re-vera exhiberi credentibus prout natura cujusque do-ni postulat.",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "XXIV.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "Nec justificant ex opere operato (ut loquuntur in scholis) quia plerique sancti prius justificantur & recipiuntur in gratiam, quam initientur Sacramentis: proinde etiam necessaria sunt credentibus tantùm necessitate <i>Mandati</i> non <i>Medij</i>[?]. Nam fieri potest ut quis in Gratiam recipiatur & salvetur Sacra-mentis non adhibitis, modò non contemtis. Contemnens enim Sacramenta, quæ Deus instituit, ne-mo salvatur: quum DEUM ipsum autorem spernat.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "XXV.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "Modus percipiendorum signorum est naturalis: Ideò signa tum à fidelibus tum ab infidelibus naturali & corporali modo percipiuntur, licet contrario even-tu. Res autem signatæ solis credentibus communi-cantur, DEI quidem respectu per spiritum sanctum: nostri verò ratione per fidem. Etenim res spirituales spirituali modo percipiuntur, ut spiritualia spiritualibus, & corporalia corporalibus respondeant.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "XXVI.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "Ex his manifestum est, non omnes Scripturæ locos semper κατὰ τὸ ῥητὸν[?] sed κατὰ διάνοιαν[?] esse intelligendos, præcipuè eos qui ad Sacramenta pertinét. Sunt autem quatuor prædicationum Sacramentalium genera. I. Cùm signum prædicatur de re significata ut <i>Genes.</i> XVII.20. 1.Cor.10.1[?]. II. Cum res significata prædica-",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "signature": "B 2",
+   "notes": "Long s rendered as plain s throughout. u/v and i/j normalised per instructions (e.g. justificant, cujusque, revera, vero, ut). Greek: the accents on κατὰ τὸ ῥητὸν and κατὰ διάνοιαν are uncertain on the scan. \"Medij\" is printed in a special italic glyph resembling Greek; read as Medij with doubt. Reference \"1.Cor.10.1\" is hard to read; the printed \"U\" in the second number may be a numeral. The small-capitals \"DEVM\" and \"DEI\" are printed in capitals and copied as such. No marginal notes; the left and right edges show only show-through and the neighbouring page, which were excluded."
+  },
+  {
+   "n": 13,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "running_head": "DISPVTATIO",
+   "warnings": [
+    {
+     "type": "merged_lines",
+     "text": "1 line(s) contain several printed lines merged together (longest 202 chars, median 60); line numbering is unreliable"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "tur de signo & illud esse dicitur, vt Matt. XXVI.26.28[?]. 1.Cor.XI.24. III. Cùm effectum rei significatę signo tribuitur ad Tit.III.5. IV. Cùm proprium signi de re significata prædicatur, vt Ioh.VI.53.",
+     "heading": 0,
+     "merged": true
+    },
+    {
+     "n": 2,
+     "text": "XXVII.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "Hæ locutiones siue prædicationes Sacramentales vocantur. I. <i>Relatiuæ</i>, quia cū disparatum de disparato prædicatur, relatio rerum sibi similium necessariò præsupponitur. II. <i>Analogicæ</i>, quia fit nominum permutatio propter analogiam. III. <i>Metonymicæ</i>, quia signum ponitur pro signato & contrà.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "XXVIII.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "Causa locutionum Sacramentalium est analogia signi & rei signatæ, de quâ Aug. <i>Si Sacramenta quandâ similitudinem earum rerum quarum sunt Sacramenta, non haberent, omninò Sacramenta non essent.</i> Item <i>Solent res quæ significant, eius rei quam significant, nomine significari.</i> Hinc dictum <i>Petra erat Christus</i> 1. Corinth. X. 4. <i>non autem petra significat Christum: tanquam hoc esset, quod utique per substantiam non erat, sed per significationem.</i> Verùm omnes hæ figuratæ prædicationes ad proprias reduci & per eas explicari possunt ac debent. Vt Circumcisio est Fœdus, Sacramentaliter videlicet.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "XXIX.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "Non etiam hîc silentio prætermittenda sunt significata vocabulorum <i>Essentialiter, Realiter, Substantialiter, Spiritualiter, Corporaliter, Sacramentaliter</i>, quæ sæpè occurrunt. <i>Realiter, Essentialiter, & Substantialiter</i> tum signa tum res signatæ percipi dicuntur: <i>Corporaliter & Spiritualiter</i> modum perceptionis denotant: itaque signa <i>corporaliter</i>, res verò <i>Spiritualiter</i> percipiuntur: at",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "catchword": "Sacra-",
+   "notes": "The Roman numeral group in the first line (\"XXVI.26.28\") is partly blurred and marked [?]. The right side of the scan shows the edge of the neighbouring page, which is not transcribed. The printed \"Sacra-\" at the foot is the catchword and is not repeated in the text."
+  },
+  {
+   "n": 14,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "running_head": "THEOLOGICA.",
+   "warnings": [
+    {
+     "type": "merged_lines",
+     "text": "1 line(s) contain several printed lines merged together (longest 224 chars, median 7); line numbering is unreliable"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "<i>Sacramentaliter</i> signa corporis & sanguinis Iesu Christi: & sæpè qui signo tenus participant, rem ipsam accipere, sed <i>Sacramentaliter</i>, dicuntur, quia rei Sacramentum sumunt.",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "XXX.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "<i>Genera</i> Sacramentorum fuerunt diuersa pro varia temporis ratione, & secundum dispensationem, qua Deo ter Opt. Max. visum est his aut illis modis sese hominibus exhibere. Alia autem fuerunt ante Adami lapsum, in statu integritatis, alia post lapsum. Ante lapsum Sacramenti rationem habuerunt duæ Arbores. <i>Altera immortalitatis</i>, adeóque Sacramentaliter <i>arbor vitæ</i> nuncupabatur, quoniam immortalitatis symbolum erat iis, quibus eius fructu vesci licebat. <i>Altera Probationis</i> & metonymicè <i>arbor scientiæ boni & mali</i> appellata est. Ab huius arboris esu abstinendum erat ad probandam Deo debitam obedientiam.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "XXXI.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "Sacramenta post lapsum à Deo instituta, & de quibus ex institutione peculiariter disserimus, sunt tum V.tum N.T. Illa Christum verum nostrum Messiam exhibendum præfigurabant, ista exhibitum testantur: illorum quædam fuerunt <i>Extraordinaria</i>, quibus semel vel ad tempus certum duntaxat usus est Deus; & vel nostro <i>Baptismo</i> respondent, ut Transitus per mare Erythræum. <i>Exod.XIV.22.</i> Diluuium. <i>Gen.VIII.6.</i> &c. vel <i>Cœnæ Dominicæ</i>, ut Manna cœlo datum. <i>Exod.XVI.</i> 14. 15. 16. Aquæ è petrâ <i>c. XVII.6.</i> quædam <i>Ordinaria</i>, quorum usus usque ad primum Christi aduentum duravit, & duo specialia fuerunt; unum Initiationis,",
+     "heading": 0,
+     "para": true,
+     "merged": true
+    }
+   ],
+   "signature": "B 3",
+   "notes": "Show-through from the reverse page is faintly visible and was left out. The numerals XXX. and XXXI. are set as centred headings but are bare numbers, so they are written as paragraphs. The reading \"Gen.VIII.6\" and \"Exod.XVI.\" is from a slightly blurred print and is probably correct. Small capitals in \"Deo\" are rendered in ordinary letters."
+  },
+  {
+   "n": 15,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "running_head": "DISPUTATIO",
+   "warnings": [
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "Receptionisque in Ecclesiam Dei, quod semel in vita erat accipiendum. Vt <i>Circumcisio Gen.XVII.10.</i> Alterum Continuationis in Fœdere Dei, seu Nutri-tionis, hocq; sæpius erat celebrandum vt <i>Pascha. Exod. XII.3.</i> His duobus additæ postea sunt purificationes, sacrificia, aliique ritus ex Mosaica lege, verum hæc omnia fuerunt Iudæorum.",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "XXXII.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "Abrogatis illis duo alia sub N.T. instituta fuerunt, quibus nunc Christiana Ecclesia utitur, <i>Baptismus</i> videlicet, qui Circumcisioni successit <i>Coloss. II. 11 12. Act. XXII.16. 1.Pet. III.21.</i> & <i>Cœna Domini</i>, quę Agno Paschali correspondet. <i>Luc. XX.15. 1.Cor. V.8. & c. XI.24.</i> Neque non[?] plura enumerantur ab Apostol. <i>1.Cor. XII.13.</i> quare merito reiicimus, illa quinque à Pontificiis addita, quæ non sunt Sacramenta proprie dicta. <i>Confir-matio</i> enim & <i>extrema Unctio</i> non sunt Cæremoniæ à Christo institutæ toti Ecclesiæ. <i>Pœnitentia</i> est concio Euangelij. <i>Ordinatio</i> Ministrorum ritum Sacramentalem, cui promissio sit annexa, nullū habet. <i>Ma-trimonium</i> denique, quod fuit ante V. & N.T. tempora institutum, nihil habet cuius ratione Sacramentum strictè vocari & haberi possit.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "XXXIII.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "Differunt Sacramenta V. & N.T. primò propter mutationem Sacerdotij: <i>nam mutato Sacerdotio, necessariò quoque Legis mutatio fit. Heb.VII.12.</i> Secundò pro-pter diuersitatem temporum: aliter enim olim, aliter nunc instituenda atque docenda fuit Ecclesia de Dei promissionibus. Vnde scitè Aug. <i>Aliter significamus fa-</i>",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "catchword": "cien-",
+   "notes": "The word \"non\" after \"Neque\" is partly covered by a dark smudge; read as \"non\" with [?]. \"Act.\" is read from a ligature that could also be \"Aft.\"; the long s is taken as s. The Roman numerals printed as \"U\" in \"1.Cor.U.8.\" and \"Heb.UII.12.\" are read as V. The catchword \"cien-\" is the start of the next page's first word. Show-through from the facing page was ignored."
+  },
+  {
+   "n": 16,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "number": "9[?]",
+   "running_head": "THEOLOGICA",
+   "warnings": [
+    {
+     "type": "merged_lines",
+     "text": "2 line(s) contain several printed lines merged together (longest 518 chars, median 8); line numbering is unreliable"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "cienda, <i>aliter pronuntiamus facta, quemadmodum passurus & passus non sunt idem:</i> propterea tamen non est mutatio in Deo.",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "XXXIV.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "Conueniunt Sacramenta V. & N.T. I. Causa efficiente, videlicet Deo, seu verbo Institutionis. II. Partibus, signo & re signata, vtrobique enim aliud est signum, aliud res signata. III. <i>σχέσει[?]</i> seu relatione inter signum & rem signatam, <i>1.Cor.X.3.4. Hebr.XIII.8. Iesus Christus heri & hodie idem & in secula.</i> IV. Efficacia, Gratiam significant non conferunt. V. Fine & effectu invisibilem Dei Gratiam obsignant. VI. Forma locutionis, quae est Sacramentalis. Breuiter. Vetera sub Lege & Noua sub Euangelio habuerunt eundem Deum, easdem promissiones, eundem Mediatorem, eundem spiritum regenerantem, eandem spem, fidem, & rem spiritualem.",
+     "heading": 0,
+     "para": true,
+     "merged": true
+    },
+    {
+     "n": 4,
+     "text": "XXXV.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "Differunt autem, I. Temporis circumstantia. Vetera enim ad primum Christi aduentum, Noua ad secundum vsque durare debent. II. Obiecti amplitudine, illa solos Abrahami posteros obstringebant, ista ad omnes gentes pertinent. III. Significatione, illa Christum promissum, quum adhuc expectaretur, adumbrarunt, haec exhibitum testantur. IV. Signis & Ritibus externis, illa cruenta, ista incruenta sunt. V. Numero &c. Olim fuerunt plura & operosiora; nunc sunt pauciora, vtilitate meliora, virtute maiora & actu faciliora. <i>In signis diuersa sunt, sed in re</i> PARIA.",
+     "heading": 0,
+     "para": true,
+     "merged": true
+    }
+   ],
+   "catchword": "PARIA",
+   "notes": "The Greek word after \"III.\" is hard to read; it looks like σχέσει (schesei) with an overbar, marked [?]. The page number \"9\" at the top right is small and uncertain. Faint show-through of the facing page is ignored. The catchword PARIA is printed at the lower right, below the last line."
+  },
+  {
+   "n": 17,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "merged_lines",
+     "text": "3 line(s) contain several printed lines merged together (longest 333 chars, median 10); line numbering is unreliable"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "DISPVTATIO",
+     "heading": 1,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "XXXVI.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "Commune est Verbo & Sacramentis, quòd sunt opus Dei, quod exercet per Ministros erga suam Ecclesiam; quod docent, offerunt, promittunt & applicant nobis eundem Christum cum omnibus suis meritis ac beneficiis, quòd sunt organa externa spiritus sancti per quae corda movet ad credendum.",
+     "heading": 0,
+     "para": true,
+     "merged": true
+    },
+    {
+     "n": 4,
+     "text": "XXXVII.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "Discrimen est, quod illud sermone, ista ritibus Dei erga nos voluntatem significant, illo fides & inchoatur & confirmatur, inchoata istis confirmatur; illud omnibus etiam incredulis praedicandum, haec solis Ecclesiae membris probabiliter cognitis communicantur; illud sine his docet, confirmat, & obsignat, ut videre est in Cornelio <i>Act.X.2.3.</i> haec non sine illo: denique sine verbi cognitione adulti non seruantur, sine Sacramentorum usu autem, si non ex contemptu fuerit omissus, seruari possunt. Verissimum enim illud Bernardi. <i>Damnat Sacramentorum non priuatio, sed contemptus.</i> Aug. utriusque convenientiam & differentiam expressit dicens, <i>Sacramentum esse visibile Verbum.</i>",
+     "heading": 0,
+     "para": true,
+     "merged": true
+    },
+    {
+     "n": 6,
+     "text": "XXXVIII.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "Tenenda hic quoque convenientia & differentia Sacramentorum & Sacrificiorum, ne Sacrificia de Sacramentis faciamus. Habent hoc commune, quod sunt opera à Deo mandata facienda in fide, quibus addita est symbolica significatio. Differunt genere seu materia. <i>Sacramenta</i> sunt Ceremoniae testantes de Dei voluntate, <i>Sacrificia</i> possunt esse & Ceremoniae & opera moralia, ut <i>Sacrificia</i> θυσιαστικά[?], Eleemosynae &c.",
+     "heading": 0,
+     "para": true,
+     "merged": true
+    }
+   ],
+   "notes": "Greek word θυσιαστικά after \"Sacrificia\" is uncertain in its accents and final letter; marked [?]. Printed \"Act.X.2.3.\" is in italics and kept as printed. Long s normalised to plain s throughout; u/v and i/j spelling adjusted per the rules; small-capital \"DEi\" rendered \"Dei\". No marginal notes, running head, page number or catchword are printed on this page."
+  },
+  {
+   "n": 18,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "running_head": "THEOLOGICA;",
+   "warnings": [
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "næ &c. deinde formâ. In Sacramentis DEus offert no-bis sua beneficia, in sacrificiis nos DEO nostram obedientiam præstamus & offerimus.",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "XXXIX.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "Solis Ecclesiæ Ministris, qui præconio Euangelij defunguntur concessum est administrare Sacramenta <i>Matth.XXVIII.28.</i> neque hi DEI σωτῆρες[?] rem Sacramenti administrant, sed terrena duntaxat signa conferunt ἔξωθεν[?]. Verù solus DEVS ἔσωθεν[?] cœlestia dona illis repræsentata confert. Signa habent præcipuam vim ab institutione DEI, quando eius forma ritè rectéque obseruatur.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "XL.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "Administranda sunt in cœtu fidelium, nec alibi, iisque omnibus, quos confessio, vita, aut institutio divina à Sacramentis non excludit <i>Matth.III.6.</i> & licet piis ac impiis Sacramenta nonnunquam communia sint, ut videre est in Absalome, Juda, Simone Mago &c. prosunt tamen iis solis quibus instituta, quique in DEI Fœdere sunt. Forma administrationis consistit in usurpatione signorum, quæ Christus instituit, institutionis verborum recitatione, ritibus à Filio DEI constitutis, & gratiarum actione.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "XLI.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "<i>Fines & causæ propter quas</i> DEVS Ecclesiæ suæ injunxit horum rituum observationem sunt multiplices; generalis, prima, & principalis est confirmatio fidei, quæ nobis fuit necessaria, non quod promissio DEI per se non satis sit certa, sed quia nostér in assentiendo magnus est languor. II. Distinctio veræ Ec-",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "signature": "C",
+   "notes": "Greek words σωτῆρες, ἔξωθεν and ἔσωθεν are read from a small scan and marked [?]; check against the original. \"nostér\" appears with an accent, possibly a printing error. The running head is clear; ghosted \"DISPVTATIO\" above it is show-through from the other side and was left out. No page number is printed. The first line is a fragment continuing from the previous page. The bottom \"C\" is the gathering signature, not a catchword."
+  },
+  {
+   "n": 19,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "running_head": "DISPUT. THEOLOGICA:",
+   "warnings": [
+    {
+     "type": "merged_lines",
+     "text": "1 line(s) contain several printed lines merged together (longest 475 chars, median 153); line numbering is unreliable"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "ecclesiæ ab aliis sectis, quâ tanquam notâ à reliquis Satanæ synagogis segregamur. III. Propagatio doctrinæ, & conseruatio memoriæ beneficiorum Christi. <i>Exod. XII.14: Erit hic dies vobis in recordationem.</i> IV. Testifica-tio pietatis in DEVM & charitatis in proximum. V. Admonitio de inito fœdere cum DEO, & fide illi da-tâ. VI. quæ & accidentalis, est hypocritarum sacris illis signis abutentium iusta condemnatio.",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "XLII.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "Conditiones sive proprietates Sacramentorum N.T. sunt duæ, prior est, ut sint ordinaria & perpetua posterior ut eorum usus sit communis omnibus ean-dem fidem profitentibus. Effecta sunt excitare fidem, corroborare spem, charitatem accendere &c. quem-admodum enim Verbum audibile ferit corda, sic ver-bum visibile, hoc est, Sacramentum, operante Spiritu sancto animos afficit, & ad vitæ spiritualis functiones peragendas tanquam singulari & repetito impulsu movet & confirmat.",
+     "heading": 0,
+     "para": true,
+     "merged": true
+    },
+    {
+     "n": 4,
+     "text": "SOLI DEO GLORIA.",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "notes": "The text begins mid-paragraph, continuing from the previous page. Roman numerals III to VI are run into the paragraph and kept as printed. Long s is plain s throughout. u/v spelling normalised (siue, vt, vsus, mouet changed). No doubtful readings flagged."
+  },
+  {
+   "n": 20,
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "<i>Ast apage ambages; tu contrà fortior aude, Augustæ mentis semina prode tuæ. Crede mihi laus est, etiam hæc audere Geneuæ, Nec mage digna tibi, nec mage digna loco. Gratulor hanc mentem, quam si quoque cernere tentes, Ne te extra quæras, nam tibi totus ades. Est animus mensura sui, & certissima norma; Hunc adeat, quisquis se benè nosse volet.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "A. H.",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "notes": "The large initial \"A\" is joined to \"st\" as \"Ast\"; the following word is set in small capitals (\"ST\"), which is read as \"Ast\". The border at the top is a printer's ornament and is not transcribed. The faint lines at the top (\"DISPVT. THEOLOGICA\") and in the lower half (the prose paragraph and the closing \"SOLI DEO GLORIA.\") are mirrored show-through from the reverse side and are left out; \"SOLI DEO GLORIA.\" is faint enough that it could also be a printed closing line, so this is a doubtful decision. The sliver at the left edge belongs to the neighbouring page and is not transcribed. No page number, running head, catchword or signature is clearly printed on this leaf."
+  },
+  {
+   "n": 21,
+   "type": "empty",
+   "model": "subscription/claude-haiku-5-5",
+   "notes": "The page is blank apart from show-through, so nothing is transcribed. The verse block (about 6 lines, mirrored, beginning \"St ... A...\") and the \"A. M.\" line below it are reversed and are printed on the other side of the leaf, not on this page. The faint marks in the lower half are also show-through, and so are the mirrored header letters at the top."
+  },
+  {
+   "n": 22,
+   "type": "empty",
+   "model": "subscription/claude-haiku-5-5",
+   "notes": "Blank page. No printed text, running head, page number, catchword or signature is visible. The left strip is the binding and the edge of the neighbouring page, which are not transcribed. Faint marks and stains are show-through or paper damage."
+  },
+  {
+   "n": 23,
+   "type": "title",
+   "model": "subscription/claude-haiku-5-5",
+   "lines": [
+    {
+     "n": null,
+     "text": "[illegible, ~20 letters]",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "DE",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "BONO FELICI-",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "[?]RANITATE [?]",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "[illegible, ~12 letters]",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "[illegible, ~30 letters]",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "[illegible, ~35 letters]",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "[illegible, ~25 letters]",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "[illegible, ~30 letters]",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "[illegible, ~20 letters]",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "[illegible, ~25 letters]",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "[illegible, ~20 letters]",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "[illegible, ~30 letters]",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "[illegible, ~25 letters]",
+     "heading": 0
+    }
+   ],
+   "notes": "The title block is very faint and blurred. The large title lines read only partly: \"DE\" and \"BONO FELICI-\" are fairly clear, and \"RANITATE\" is a guess (marked [?]). The smaller lines above and below the title, and the imprint at the foot, cannot be read letter by letter. Their word counts are estimates. A printer's device (woodcut emblem) stands in the centre of the lower half. It is not transcribed. The lines under the device are too faint to read at this resolution. Show-through from the reverse side is visible along the top edge and in the margins. It is not transcribed."
+  }
+ ]
+}
