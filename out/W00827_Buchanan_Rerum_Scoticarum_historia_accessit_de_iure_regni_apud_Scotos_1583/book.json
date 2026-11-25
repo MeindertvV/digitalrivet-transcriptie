@@ -43465,6 +43465,12 @@
    "type": "text",
    "model": "subscription/claude-haiku-5-5",
    "running_head": "RERUM SCOTICARUM",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: quam"
+    }
+   ],
    "lines": [
     {
      "n": 1,
@@ -43730,11 +43736,6 @@
      "n": 53,
      "text": "omnium æqualium adolescentium longe formosissimum, cum in aream suam propin-",
      "heading": 0
-    },
-    {
-     "n": 54,
-     "text": "quam",
-     "heading": 0
     }
    ],
    "marginalia": [
@@ -43746,17 +43747,342 @@
      "text": "CIↃ."
     }
    ],
+   "catchword": "quam",
    "notes": "Margin note at left, first line \"CIↃ.\" (= M.) and second line \"CXXCIIV.\" read from the scan; the year in the text reads \"M. CXXCIIV\" in the body and is copied as seen, with the final numerals doubtful. Several words in the body are doubtful and were copied as printed without marks where the scan was clear enough; the mid-page passages on the Gilbert/Rolland conflicts are dense and small, so exact letters are less certain. The running head is in capitals and printed as \"RERVM SCOTICARVM\", normalised to u/v per the rules. No page number, catchword or signature is visible. The page ends mid-sentence (\"cum in aream suam propinquam\"), continuing on the next page."
   },
   {
    "n": 152,
-   "type": "missing",
-   "warnings": [
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "number": "73",
+   "running_head": "LIBER OCTAVVS.",
+   "lines": [
     {
-     "type": "missing_page",
-     "text": "page 152 was not transcribed: invalid XML: not well-formed (invalid token): line 9, column 3729"
+     "n": 1,
+     "text": "quam benigne inuitat, ac, renuentem, prope inuitum ducit. Ibi, cum aetas, forma,",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "genus, mores facile mutuum amorem conciliassent, paucis conscijs, matrimonio",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "copulantur. Id cum Rex, cui ius erat puellae collocandae, rescisset, licet utrique",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "grauiter succenseret, tamen, per amicos, postea fuit placatus. Ex hoc matrimonio",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "genitus est Robertus Bruffius, qui posterius Regnum apud Scotos gessit. Igitur haec",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "praefati abunde, ad rem praesentem, & competitores venlamus. Hi autem erant,",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "Dornagilla, Dauidis Hundintonij ex maiore filia neptis, & ex minore, Robertus",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "Bruffius, Caricta Comes, eiusdem Dauidis pronepos. Pro Dornagilla, faciebat",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "mos patrius, quo, qui gradu propior est, iure potior haberut. Pro Roberto, sexus,",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "quod, in pati propinquitatis gradu, mares foeminis praeferantur. Itaque negabat,",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "aequum esse, vt, viuo nepote, nepus in auita bona succederet. Et quanquam in pri-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "uatorum popularium haereditatibus cernendis, interim aliter fiat, in eis tamen bonis;",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "quaesfodi (vt vocant) nomine tenentur, ac regnorum successionibus, contrarium ius",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "esse. Iactabatur exemplum recens, in controuersia, de Ducatu Burgundiae: quem,",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "qui petebat, Comes Niuernensis, licet haberet vxorem, Ducis proximi ex filio natu",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "maximo nepiem, tamen filio Ducis minori fratris adiudicata fuit haereditas. Robertus",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "igitur contendebat, fe Ioanni Balliolo gradu priorem, nempe nepoteni pro-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "nepote: Dornagillae autem, cum qua in gradu erat aequali, praeferendum, quippe ma-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "rem faeminae. Hanc controuersiam proceres domi non poterant diiudicare: quod,",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "ob partium potentiam, totam regnum in duas factiones discesserat. Balliolus enim,",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "per matrem, totam Gallouidiam (regionem amplissimam) renebat. Cuminiam",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "familiam, secundum Reges potentissimam, affinitate sibi iunctam habebat, per",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "Ioannem Cuminium, cui Maria, Dornagillae soror, nupserat. Robertus, qui in",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "Anglia Cleuelandiam, in Scotia Annandiam & Gariocham, & per filium, Caricta",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "Comitem (qui post regnauit) multis clatis familijs subnixus erat, populo maxime",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "suo vtebatur. Igitur cum, ob has maxime causas, controuersia, domi finiri,",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "non posset, nec fi maxime ex aequo & bono pronunciaretur, vlla tanta in Scotia",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "effet potentia, quae partes cogere posset, vt iudicato starent, prope omnium vo-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "luntate, consensum est, vt, Eduardo iudice, res decideretur. Neque quisquam, de",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "iofide eius, dubitabat: vt qui ex eo patre natus effet, quem superior Scotorum Rex",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "fuisset expertus, & socerum amantissimum, & tutorem aequissimum. Contra vero,",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "Anglus beneuolentiae Scotorum, erga fe, recens & illustre testimonium ha-",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "bebat: cum ei tam facile, de matrimonio Reginae suae, consenserunt. Igitur Eduar-",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "dus, cum primum Beruicum venit, eo Rectores Scotiae & Ordinum Legatos, per",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "literas, euocat, protestatus, fe eos, non tanquam subditos ad dominum, aut ma-",
+     "heading": 0
+    },
+    {
+     "n": 36,
+     "text": "gistratum legitimum, sed amicos, ad arbitrum ab ipsis electum, aceerfiffe. Primum",
+     "heading": 0
+    },
+    {
+     "n": 37,
+     "text": "omnium, iusiurandum a competitoribus exegit, fe decreto staturos. Deinde, ab",
+     "heading": 0
+    },
+    {
+     "n": 38,
+     "text": "Ordinum Principibus & Legatis, fe ei, quem ipse iuratus Regem daret, pariuros:",
+     "heading": 0
+    },
+    {
+     "n": 39,
+     "text": "ac, supet ea re, publicum omnium Ordinum diploma, singulorum sigillis appensis,",
+     "heading": 0
+    },
+    {
+     "n": 40,
+     "text": "sibi dari, poposcit. Deinde e singulorum Ordinum prudentioribus, selegit duo-",
+     "heading": 0
+    },
+    {
+     "n": 41,
+     "text": "decim Scotos, ac totidem Anglos eis adiunxit: a quibus etiam iusiurandum exegit,",
+     "heading": 0
+    },
+    {
+     "n": 42,
+     "text": "de eo, quod aequum ac verum crederent, iudicando. Haec palam, in speciem, ho-",
+     "heading": 0
+    },
+    {
+     "n": 43,
+     "text": "nesta, & popularia facta. Illud secreto, & inter paucos agitabatur, quomodo Sco-",
+     "heading": 0
+    },
+    {
+     "n": 44,
+     "text": "tiam suae ditionis faceret. Id cum facile existimaretur, Regno in duas factiones di-",
+     "heading": 0
+    },
+    {
+     "n": 45,
+     "text": "uiso, tamen, quo res esset expeditior, & fraus occultior, <i>praeter Brussium & Bal-</i>",
+     "heading": 0
+    },
+    {
+     "n": 46,
+     "text": "<i>liolum</i>, odio alios competitores excitauit: vt e maiore numero facilius esset, v-",
+     "heading": 0
+    },
+    {
+     "n": 47,
+     "text": "num, aut etiam plures in suas partes traducere. Ac, ne tanta res temere acta vi-",
+     "heading": 0
+    },
+    {
+     "n": 48,
+     "text": "deretur, consultatio eis est proposita, qui in Gallia pietate, prudentia, & luris scien-",
+     "heading": 0
+    },
+    {
+     "n": 49,
+     "text": "tia rum primi habebantur. Neque dubitabat (vt est id genus hominum nunquam",
+     "heading": 0
+    },
+    {
+     "n": 50,
+     "text": "inter se satis concors) aliquod se responsum, quod in rem suam faceret, relatu-",
+     "heading": 0
+    },
+    {
+     "n": 51,
+     "text": "rum. Et competitores quidem noui, cum nihil in causa suscepta fitmitatis vide-",
+     "heading": 0
+    },
+    {
+     "n": 52,
+     "text": "rent, sponte a petendo destiterunt. Iuris peritis vero ab Anglo, qui totius ne-",
+     "heading": 0
+    },
+    {
+     "n": 53,
+     "text": "gotij apud eos auctor & moderator erat, falsa species in hunc modum est proposita.",
+     "heading": 0
     }
-   ]
+   ],
+   "marginalia": [
+    {
+     "side": "left",
+     "at": "Pro Roberto, fexus,",
+     "line_from": 9,
+     "line_to": 9,
+     "text": "10"
+    },
+    {
+     "side": "left",
+     "at": "Robertus igitur contendebat,",
+     "line_from": 16,
+     "line_to": 16,
+     "text": "20"
+    },
+    {
+     "side": "left",
+     "at": "Igitur cum, ob",
+     "line_from": 26,
+     "line_to": 26,
+     "text": "30"
+    },
+    {
+     "side": "left",
+     "at": "Igitur Eduardus, cum",
+     "line_from": 33,
+     "line_to": 33,
+     "text": "40"
+    },
+    {
+     "side": "left",
+     "at": "Deinde, ab Ordinum",
+     "line_from": 37,
+     "line_to": 37,
+     "text": "50"
+    },
+    {
+     "side": "left",
+     "at": "Ac, ne tanta",
+     "line_from": 47,
+     "line_to": 47,
+     "text": "60"
+    },
+    {
+     "side": "left",
+     "at": "Neque dubitabat (vt",
+     "line_from": 49,
+     "line_to": 49,
+     "text": "70"
+    },
+    {
+     "side": "left",
+     "at": "Et competitores quidem",
+     "line_from": 51,
+     "line_to": 51,
+     "text": "80"
+    }
+   ],
+   "signature": "N",
+   "notes": "Marginal numbers 10–80 are printed line markers beside the column, left margin; the sequence visible on the scan runs 10, 20, 30, 40, 50 and 60, 70, 80 are included where the column carries them. Words ending the page appear to be printed \"Iuris peritis vero ab Anglo\" continuing onto the next page. Doubtful readings: \"venlamus\" (probably venimus or venimus-like), \"Caricta\" (Cariclæ?), \"pronepote\" (printed pronepote), \"haberut\" (printed as shown), \"rescisset\", \"selegit\". Several lines are at the scan edge and some letters are faint; no certain printing errors recorded. Paragraph breaks are uncertain because indents are not clearly visible; the text is given as one paragraph with a break before \"Igitur Eduardus\" as a best reading."
   },
   {
    "n": 153,
