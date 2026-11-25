@@ -1859,8 +1859,43 @@
     </marginalia>
     <notes>The right-margin note "Ambrosius" is set in a stylised display type with a mark; the reading is uncertain. The signature at the foot is faint ("C 2" or similar). The left margin holds the edge of the neighbouring page and was left out. The text "admittinus" and "vasa" are copied as printed.</notes>
   </page>
-  <page type="missing" n="37">
-    <warning type="missing_page">page 37 was not transcribed: invalid XML: junk after document element: line 16, column 0</warning>
+  <page type="text" lines="ocr" n="37" model="subscription/claude-haiku-5-5">
+    <warning type="catchword_in_text">catchword taken out of the main text: massam.</warning>
+    <layout>One page of running text, set in one column; in the left margin a marginal note block with a heading-like marginal label and small notes beside the text; in the right margin a narrow strip of marginal reference letters from a neighbouring page (not transcribed). Top centre: page number. No running head, no catchword, no signature.</layout>
+    <page_number>36</page_number>
+    <main_text>
+      <l n="1">ex differente materiâ. Contrà enim est hy-</l>
+      <l n="2">pothesis Apostoli: quia ex eâdem prot-</l>
+      <l n="3">sus massâ facit figulus vasa, pro ar-</l>
+      <l n="4">bitrio suo &amp; potestate. Neque enim de-</l>
+      <l n="5">bet massæ differentiam istam. Quare</l>
+      <l n="6">injuriam illi nō faceret; si tantùm vasa</l>
+      <l n="7">dedecoris, facere, aut honoris. Ita De-</l>
+      <l n="8">us justitiam non violat, quomodocun-</l>
+      <l n="9">que agat: omnium miserendo; aut o-</l>
+      <l n="10">mnes indurando; aut denique aliquo-</l>
+      <l n="11">rum miserendo, aliquos indurando; &amp;</l>
+      <l n="12">eos quidem, quos vult. Neque enim ul-</l>
+      <l n="13">li quicquam debet: non majori; non</l>
+      <l n="14">minori. Proinde, de debito &amp; justitiâ,</l>
+      <l n="15">aliena hîc est consideratio.</l>
+      <l n="16" para="true">Quartus locus fit <i>ille periculose ςρεˆ μεν δ a quibusdam:</i> Κενὴν</l>
+      <l n="17">ὀργὴς κατηρτισμένα εἰς ἀπώλειαν. v. 22. credo, ob explicatio-</l>
+      <l n="18">nes Pelagianas, humanęq; rationis, re-</l>
+      <l n="19">cedentes nõ solùm à literâ; sed etiam</l>
+      <l n="20">à mente contextus. A quo enim vasa sunt</l>
+      <l n="21">præparata; nisi à figulo, Deo? Cur vasa</l>
+      <l n="22">iræ; nisi ad interitū? quemadmodum</l>
+      <l n="23">misericordiæ, in gloriam. v.23. pro po-</l>
+      <l n="24">testate, quam habet figulus, in eandem</l>
+    </main_text>
+    <marginalia>
+      <note side="left" at="Quartus locus fit" line_from="16" line_to="16">4. De Vasis ad interitum paratis. ibid. v.22.</note>
+    </marginalia>
+    <notes>Marginal label "4. De Vasis ad interitum paratis. ibid. v.22." on the left, partly illegible at its edges. Greek phrases in the text are printed in Greek; the Greek in the paragraph (the first line after "quibusdam:" and the reference "εἰς ἀπώλειαν") is copied as closely as the scan allows, and the opening Greek word "ςρεˆ" and "μεν" are doubtful. The word "ςρεˆ" is a faint, damaged Greek word and may be misread. Several words in the body are slightly blurred but read with reasonable confidence. The right margin strip shows fragments of letters from the facing page and is not transcribed.</notes>
+    <bottom_margin>
+      <catchword>massam.</catchword>
+    </bottom_margin>
   </page>
   <page type="text" lines="ocr" n="38" model="subscription/claude-haiku-5-5">
     <layout>One printed page. Running text in one column, with marginal notes in the right margin (Chrysostomus, Ambrosius, Eph. reference, s.). Page number centred above the text. Gathering signature "C 3" at the foot.</layout>
