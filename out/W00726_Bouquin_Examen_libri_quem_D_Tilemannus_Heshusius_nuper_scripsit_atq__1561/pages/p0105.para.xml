@@ -1,0 +1,15 @@
+<page type="text">
+  <layout>One column of running text at full width, with marginal notes in the right margin beside its lower half. Running head and page number at the top; signature and catchword at the foot.</layout>
+  <page_number>101</page_number>
+  <running_head>DE COENA DOMINI.</running_head>
+  <bottom_margin>
+    <catchword>esse.</catchword>
+    <signature>g 3</signature>
+  </bottom_margin>
+  <main_text>
+    <p cont="true">quod in Baptismo fieri non dubitas, &amp; id Paulus diserte testatur: imò tu hoc ipso loco ex Apostoli sententia affirmas, &amp; paulo post aduersarium dire profcindis, quòd diuersum scripsisse tibi uidetur. Plenam igitur salutem Baptismus cofert, quia Christum continet totum, ex sententia Apostolica, cui tu subscribis. Itaq; exte quaero, Nouum illud quod tuo iudicio adfert Dom.cœna, &amp; cuius conferendi causa instituatam esse ais, quam ad rem datur, &amp; in quem recipitur finem? ocio-sum erit, nisi usum aliquem commonstres. Ocio-sum esse non dices, neq; debes, neque uis dicere.</p>
+    <p>Ad salutē necessariū esse si dixeris, tecū pugnabis, quia ipse sic scribis: <i>Et in Baptismo,&amp;c in prædicatione Euangelij, quādo id uera fide apprehenditur, totus Christus cū toto regno suo &amp; integra salus percipitur.</i> Toto quid deesse potest? integro quorsum aliquid addes? Nam pleno si quid adiicitur, non tantum redundat, sed etiam effunditur &amp; perit. Quid facias reliquum mensæ Dominicæ, tu ipse nunc uide, &amp; iudica. E-<note side="right"><i>Sacramen-tum cœnæ Domini-cæ uitā alit &amp; confir-mat spiritalem</i></note>go aliud superesse non uideo, quàm ut Christum totum in Baptismo receptum, &amp; cum eo uitam atq; salutem conferuet atq; contineat: id quod ego amplector. Verùm tibi non satisfacit, nisi aliud accedat, nondum acceptum. Et uerò tu sic scribis: <i>Si tantundem in publica Euangelij concione, 'quantum in S.cœna percipio, quorsum hac opus est? Nec enim est satis, si quis dicat fidem hac externa manducatione augeri &amp; excitari. Nam assidua, &amp;c.</i> Ostendis, tibi illud, quod dixi, non satisfacere: contineri nimirum acceptum Christum, &amp; uitam: imò ne augeri quidem solum uis: sed ut quiddam nondum datum, aut acceptum, accedat tibi, placet: aut frustra institutam</p>
+    <p type="foot">Sacramentum cœnæ Domini cæ uitā alit &amp; confirmat spiritalem.</p>
+  </main_text>
+  <notes>The marginal note is set in italics; the word "spiritalem" is split across the line end ("spirita" / "lem.") with no printed hyphen visible, so I have joined it whole. The "&amp;c" after "Baptismo," appears as an ampersand followed by a c-like stroke; reading is likely but not fully certain. Long s is transcribed as plain s throughout. The margin note has been placed beside the line "E-go"; the type="foot" element above is a duplicate of the margin note and is not printed below the text, so it should be removed if the script handles margins itself.</notes>
+</page>
