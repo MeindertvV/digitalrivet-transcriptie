@@ -7610,13 +7610,31 @@
   },
   {
    "n": 212,
-   "type": "missing",
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "number": "208[?]",
+   "running_head": "IN IESAIAE CAP. XX.",
    "warnings": [
     {
-     "type": "missing_page",
-     "text": "page 212 was not transcribed: invalid XML: not well-formed (invalid token): line 6, column 289"
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
     }
-   ]
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "est:Postquā omnino constitutū est à Domino, ut Aethio-pia & Aegyptus à rege Assyriorū superetur, vanū igi-tur est q; Iudæi in Aethiopiā respiciāt, aut in Aegypto glorientur, quasi harū præsidio possent aduersus trucu-lentiā regis Assyriorum defendi. [illegible, ~3 letters] respectus est, atq; ea res in qua quis respicit confiditq;. Inde artificio-se inducit ipsam Iudæam siue Ierusalem suis verbis tan-tundem confitentem. Insula pro Ierusalem, quandoqui-dem ut insula undequaq; concutitur aquarum fluctibus & procellis, ita Ierusalem ex omni parte erat ho-stib.exposita,& undiq; crudeliter impetebatur. Subij-citur etiam peraptè illis verbis, Quomodo liberabi-mur nos ? argumentum à maiore ad minus. Quasi di-cat:En Aegyptus atq; Aethiopia longè potentiores no-bis,& quibus maximè nitebamur, non potuerunt Re-gi Assyrio resistere, multò igitur minus resistemus nos. His iam tacitè annecti[?] debet: Quamobrem si liberari expetimus, ad Dominum Deum necesse est confugia-mus. Proinde ostendit hæc conclusio, in quem proprie usum vaticinia ista propalari apud Iudæos expedie-rit: nempe ut hinc discerent Iudæi, non esse sibi fiden-dum in humanis auxilijs, sed tum demum saluos fore, ubi in solum Deum spem omnè suam coniecerint. Por-rò ex tota hac concione multiplicem doctrinam quivis colligere poterit. 1. Vt peccata accumulantur pecca-tis, ita Dominum, ubi punire decreuerit, poenas poenis addere. 2. Neq; ullam esse religione aut ritus, quam-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "[The line ending \"libet\" stands at the lower right; it is the catchword.]",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "catchword": "libet",
+   "notes": "The Hebrew word after \"1.\" at the start of the paragraph was not legible at this scan resolution; it is marked as illegible. The page number \"208\" and the \"annecti\" reading are uncertain and marked [?]. The text is printed in roman type with a long s, which has been written as plain s. The line \"libet\" at the lower right is treated as the catchword and is not repeated in the text. The text continues onto the next page at \"quam-\", so the last paragraph is not complete here."
   },
   {
    "n": 213,

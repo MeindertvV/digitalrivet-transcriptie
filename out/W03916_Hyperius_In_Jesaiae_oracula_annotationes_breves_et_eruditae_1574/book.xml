@@ -3406,8 +3406,19 @@
     </main_text>
     <notes>Running head is "ANNOTATIONES." and page number 207 (printed "zo7"). Catchword "est:" is at the foot right, below the last line. Italic and roman boundaries in the commentary paragraph are approximate. The word after "Captiuitas &amp;" is hard to read because of a line-end break; "transmigratio" is a best reading. Where the ligature "Ioan." and "Samuel" references are unclear, they are copied as printed. The text in the first paragraph is italic, and "tantùm" keeps its grave accent.</notes>
   </page>
-  <page type="missing" n="212">
-    <warning type="missing_page">page 212 was not transcribed: invalid XML: not well-formed (invalid token): line 6, column 289</warning>
+  <page type="text" lines="none" n="212" model="subscription/claude-haiku-5-5">
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One page of text in a single column. Running head at top, with the page number at its left. Catchword at the lower right. No marginal notes.</layout>
+    <page_number>208[?]</page_number>
+    <running_head>IN IESAIAE CAP. XX.</running_head>
+    <bottom_margin>
+      <catchword>libet</catchword>
+    </bottom_margin>
+    <main_text>
+      <l n="1">est:Postquā omnino constitutū est à Domino, ut Aethio-pia &amp; Aegyptus à rege Assyriorū superetur, vanū igi-tur est q; Iudæi in Aethiopiā respiciāt, aut in Aegypto glorientur, quasi harū præsidio possent aduersus trucu-lentiā regis Assyriorum defendi. [illegible, ~3 letters] respectus est, atq; ea res in qua quis respicit confiditq;. Inde artificio-se inducit ipsam Iudæam siue Ierusalem suis verbis tan-tundem confitentem. Insula pro Ierusalem, quandoqui-dem ut insula undequaq; concutitur aquarum fluctibus &amp; procellis, ita Ierusalem ex omni parte erat ho-stib.exposita,&amp; undiq; crudeliter impetebatur. Subij-citur etiam peraptè illis verbis, Quomodo liberabi-mur nos ? argumentum à maiore ad minus. Quasi di-cat:En Aegyptus atq; Aethiopia longè potentiores no-bis,&amp; quibus maximè nitebamur, non potuerunt Re-gi Assyrio resistere, multò igitur minus resistemus nos. His iam tacitè annecti[?] debet: Quamobrem si liberari expetimus, ad Dominum Deum necesse est confugia-mus. Proinde ostendit hæc conclusio, in quem proprie usum vaticinia ista propalari apud Iudæos expedie-rit: nempe ut hinc discerent Iudæi, non esse sibi fiden-dum in humanis auxilijs, sed tum demum saluos fore, ubi in solum Deum spem omnè suam coniecerint. Por-rò ex tota hac concione multiplicem doctrinam quivis colligere poterit. 1. Vt peccata accumulantur pecca-tis, ita Dominum, ubi punire decreuerit, poenas poenis addere. 2. Neq; ullam esse religione aut ritus, quam-</l>
+      <l n="2" type="foot" para="true">[The line ending "libet" stands at the lower right; it is the catchword.]</l>
+    </main_text>
+    <notes>The Hebrew word after "1." at the start of the paragraph was not legible at this scan resolution; it is marked as illegible. The page number "208" and the "annecti" reading are uncertain and marked [?]. The text is printed in roman type with a long s, which has been written as plain s. The line "libet" at the lower right is treated as the catchword and is not repeated in the text. The text continues onto the next page at "quam-", so the last paragraph is not complete here.</notes>
   </page>
   <page type="text" lines="none" n="213" model="subscription/claude-haiku-5-5">
     <warning type="merged_lines">1 line(s) contain several printed lines merged together (longest 1112 chars, median 156); line numbering is unreliable</warning>

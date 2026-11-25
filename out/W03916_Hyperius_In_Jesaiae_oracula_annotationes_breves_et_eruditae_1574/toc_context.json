@@ -1,0 +1,986 @@
+{
+ "work": "W03916_Hyperius_In_Jesaiae_oracula_annotationes_breves_et_eruditae_1574",
+ "made": "2026-11-25T09:16:59",
+ "model": "claude-haiku-5-5",
+ "prompt": "655260ce46aa8978",
+ "candidates": 261,
+ "cost_usd": 0.01633,
+ "dropped": [],
+ "toc": [
+  {
+   "scan": 7,
+   "line": 1,
+   "lines": [
+    [
+     7,
+     1
+    ],
+    [
+     7,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Amplissimis viris, splendore generis, sapientia atq; pietate præstantibus, Domino Burcardo à Kramp Haßiæ ad Lanum propri"
+  },
+  {
+   "scan": 8,
+   "line": 0,
+   "lines": [
+    [
+     8,
+     0
+    ]
+   ],
+   "level": 1,
+   "title": "Praefatio."
+  },
+  {
+   "scan": 13,
+   "line": 1,
+   "lines": [
+    [
+     13,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Andreae Hyperii in Iesaiam prophetam breue Ἐξήγημα, in quo dispositionis potissimùm ratio redditur."
+  },
+  {
+   "scan": 13,
+   "line": 2,
+   "lines": [
+    [
+     13,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Argumentum."
+  },
+  {
+   "scan": 15,
+   "line": 2,
+   "lines": [
+    [
+     15,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Titulus sive inscriptio libri."
+  },
+  {
+   "scan": 16,
+   "line": 1,
+   "lines": [
+    [
+     16,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Prima pars libri, qua continentur uisiones & conciones habita sub rege Vzia."
+  },
+  {
+   "scan": 16,
+   "line": 2,
+   "lines": [
+    [
+     16,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput I"
+  },
+  {
+   "scan": 30,
+   "line": 3,
+   "lines": [
+    [
+     30,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput II"
+  },
+  {
+   "scan": 37,
+   "line": 2,
+   "lines": [
+    [
+     37,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput III"
+  },
+  {
+   "scan": 45,
+   "line": 4,
+   "lines": [
+    [
+     45,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Caput IIII"
+  },
+  {
+   "scan": 48,
+   "line": 3,
+   "lines": [
+    [
+     48,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput V"
+  },
+  {
+   "scan": 63,
+   "line": 2,
+   "lines": [
+    [
+     63,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Secunda pars libri, qua continentur uisiones & conciones habitæ sub Rege Iothan."
+  },
+  {
+   "scan": 63,
+   "line": 3,
+   "lines": [
+    [
+     63,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput VI"
+  },
+  {
+   "scan": 73,
+   "line": 0,
+   "lines": [
+    [
+     73,
+     0
+    ]
+   ],
+   "level": 1,
+   "title": "Tertia pars libri, qua continentur visiones & conciones habitæ sub Rege Achaz."
+  },
+  {
+   "scan": 73,
+   "line": 1,
+   "lines": [
+    [
+     73,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Caput VII"
+  },
+  {
+   "scan": 82,
+   "line": 4,
+   "lines": [
+    [
+     82,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Caput VIII"
+  },
+  {
+   "scan": 92,
+   "line": 3,
+   "lines": [
+    [
+     92,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput IX"
+  },
+  {
+   "scan": 104,
+   "line": 3,
+   "lines": [
+    [
+     104,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput X"
+  },
+  {
+   "scan": 116,
+   "line": 1,
+   "lines": [
+    [
+     116,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XI"
+  },
+  {
+   "scan": 124,
+   "line": 2,
+   "lines": [
+    [
+     124,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XII"
+  },
+  {
+   "scan": 130,
+   "line": 2,
+   "lines": [
+    [
+     130,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XIII"
+  },
+  {
+   "scan": 141,
+   "line": 4,
+   "lines": [
+    [
+     141,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XIIII"
+  },
+  {
+   "scan": 156,
+   "line": 2,
+   "lines": [
+    [
+     156,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Quarta pars libri, qua continentur visiones & conciones habitæ sub Rege Ezechia."
+  },
+  {
+   "scan": 161,
+   "line": 3,
+   "lines": [
+    [
+     161,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XV"
+  },
+  {
+   "scan": 169,
+   "line": 1,
+   "lines": [
+    [
+     169,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XVI"
+  },
+  {
+   "scan": 179,
+   "line": 2,
+   "lines": [
+    [
+     179,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XVII"
+  },
+  {
+   "scan": 188,
+   "line": 2,
+   "lines": [
+    [
+     188,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XVIII"
+  },
+  {
+   "scan": 194,
+   "line": 3,
+   "lines": [
+    [
+     194,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XIX"
+  },
+  {
+   "scan": 208,
+   "line": 2,
+   "lines": [
+    [
+     208,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XX"
+  },
+  {
+   "scan": 213,
+   "line": 2,
+   "lines": [
+    [
+     213,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXI"
+  },
+  {
+   "scan": 226,
+   "line": 5,
+   "lines": [
+    [
+     226,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXII"
+  },
+  {
+   "scan": 240,
+   "line": 2,
+   "lines": [
+    [
+     240,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXIII"
+  },
+  {
+   "scan": 252,
+   "line": 2,
+   "lines": [
+    [
+     252,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXIIII"
+  },
+  {
+   "scan": 268,
+   "line": 2,
+   "lines": [
+    [
+     268,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXV"
+  },
+  {
+   "scan": 274,
+   "line": 1,
+   "lines": [
+    [
+     274,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXVI"
+  },
+  {
+   "scan": 284,
+   "line": 1,
+   "lines": [
+    [
+     284,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXVII"
+  },
+  {
+   "scan": 294,
+   "line": 2,
+   "lines": [
+    [
+     294,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXVIII"
+  },
+  {
+   "scan": 311,
+   "line": 2,
+   "lines": [
+    [
+     311,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXIX"
+  },
+  {
+   "scan": 318,
+   "line": 3,
+   "lines": [
+    [
+     318,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXX"
+  },
+  {
+   "scan": 331,
+   "line": 3,
+   "lines": [
+    [
+     331,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXXI"
+  },
+  {
+   "scan": 335,
+   "line": 4,
+   "lines": [
+    [
+     335,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXXII"
+  },
+  {
+   "scan": 342,
+   "line": 1,
+   "lines": [
+    [
+     342,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXXIII"
+  },
+  {
+   "scan": 349,
+   "line": 3,
+   "lines": [
+    [
+     349,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXXIIII"
+  },
+  {
+   "scan": 355,
+   "line": 3,
+   "lines": [
+    [
+     355,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXXV"
+  },
+  {
+   "scan": 359,
+   "line": 3,
+   "lines": [
+    [
+     359,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXXVI"
+  },
+  {
+   "scan": 372,
+   "line": 2,
+   "lines": [
+    [
+     372,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXXVII"
+  },
+  {
+   "scan": 384,
+   "line": 2,
+   "lines": [
+    [
+     384,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXXVIII"
+  },
+  {
+   "scan": 397,
+   "line": 4,
+   "lines": [
+    [
+     397,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXXIX"
+  },
+  {
+   "scan": 400,
+   "line": 3,
+   "lines": [
+    [
+     400,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Quinta pars libri, quæ continentur uisiones & conciones pro tempore captiuitatis Babylonicæ."
+  },
+  {
+   "scan": 400,
+   "line": 4,
+   "lines": [
+    [
+     400,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XL"
+  },
+  {
+   "scan": 411,
+   "line": 4,
+   "lines": [
+    [
+     411,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XLI"
+  },
+  {
+   "scan": 421,
+   "line": 3,
+   "lines": [
+    [
+     421,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XLII"
+  },
+  {
+   "scan": 432,
+   "line": 3,
+   "lines": [
+    [
+     432,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XLIII"
+  },
+  {
+   "scan": 441,
+   "line": 4,
+   "lines": [
+    [
+     441,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XLIIII"
+  },
+  {
+   "scan": 452,
+   "line": 3,
+   "lines": [
+    [
+     452,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XLV"
+  },
+  {
+   "scan": 463,
+   "line": 1,
+   "lines": [
+    [
+     463,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XLVI"
+  },
+  {
+   "scan": 467,
+   "line": 2,
+   "lines": [
+    [
+     467,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XLVII"
+  },
+  {
+   "scan": 473,
+   "line": 4,
+   "lines": [
+    [
+     473,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XLVIII"
+  },
+  {
+   "scan": 483,
+   "line": 2,
+   "lines": [
+    [
+     483,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Sexta pars libri, qua continentur visiones & conciones perpetuæ de regno Christi, sive Messiæ."
+  },
+  {
+   "scan": 483,
+   "line": 3,
+   "lines": [
+    [
+     483,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XLIX"
+  },
+  {
+   "scan": 500,
+   "line": 4,
+   "lines": [
+    [
+     500,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Caput L"
+  },
+  {
+   "scan": 509,
+   "line": 1,
+   "lines": [
+    [
+     509,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Caput LI"
+  },
+  {
+   "scan": 521,
+   "line": 2,
+   "lines": [
+    [
+     521,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput LII"
+  },
+  {
+   "scan": 529,
+   "line": 3,
+   "lines": [
+    [
+     529,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput LIII"
+  },
+  {
+   "scan": 536,
+   "line": 1,
+   "lines": [
+    [
+     536,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Caput LIIII"
+  },
+  {
+   "scan": 542,
+   "line": 2,
+   "lines": [
+    [
+     542,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput LV"
+  },
+  {
+   "scan": 546,
+   "line": 4,
+   "lines": [
+    [
+     546,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Caput LVI"
+  },
+  {
+   "scan": 552,
+   "line": 2,
+   "lines": [
+    [
+     552,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput LVII"
+  },
+  {
+   "scan": 559,
+   "line": 1,
+   "lines": [
+    [
+     559,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Caput LVIII"
+  },
+  {
+   "scan": 565,
+   "line": 1,
+   "lines": [
+    [
+     565,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Caput LIX"
+  },
+  {
+   "scan": 570,
+   "line": 2,
+   "lines": [
+    [
+     570,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput LX"
+  },
+  {
+   "scan": 579,
+   "line": 2,
+   "lines": [
+    [
+     579,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput LXI"
+  },
+  {
+   "scan": 584,
+   "line": 2,
+   "lines": [
+    [
+     584,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput LXII"
+  },
+  {
+   "scan": 591,
+   "line": 2,
+   "lines": [
+    [
+     591,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput LXIII"
+  },
+  {
+   "scan": 601,
+   "line": 3,
+   "lines": [
+    [
+     601,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput LXIIII"
+  },
+  {
+   "scan": 605,
+   "line": 5,
+   "lines": [
+    [
+     605,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Caput LXV"
+  },
+  {
+   "scan": 616,
+   "line": 3,
+   "lines": [
+    [
+     616,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput LXVI"
+  },
+  {
+   "scan": 629,
+   "line": 0,
+   "lines": [
+    [
+     629,
+     0
+    ]
+   ],
+   "level": 1,
+   "title": "Rerum ac verborum hoc libro maximè memorabilium index."
+  },
+  {
+   "scan": 659,
+   "line": 25,
+   "lines": [
+    [
+     659,
+     25
+    ]
+   ],
+   "level": 1,
+   "title": "Errata."
+  }
+ ],
+ "book": "Andreae Hyperii In Iesaiae prophetam annotationes breves et eruditae (Basel, Oporinus, 1574), one commentary on Isaiah: a dedication and preface, then the text of Isaiah in six parts, each chapter followed by its annotations, then an index and errata.",
+ "series": [
+  {
+   "label": "Pars",
+   "first": "Prima",
+   "last": "Sexta",
+   "count": 6,
+   "level": 1,
+   "found": 13
+  },
+  {
+   "label": "Caput",
+   "first": "I",
+   "last": "LXVI",
+   "count": 66,
+   "level": 2,
+   "found": 66
+  }
+ ],
+ "taste": 50,
+ "doubt": "",
+ "input": 43686,
+ "output": 15771
+}
