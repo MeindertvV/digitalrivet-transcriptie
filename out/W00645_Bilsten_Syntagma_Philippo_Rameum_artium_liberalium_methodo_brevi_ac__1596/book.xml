@@ -868,8 +868,78 @@
     </main_text>
     <notes>Printed "Aliud" at bottom right is a catchword for the next page. Verse spelling follows the print; long s rendered as s. Orthographic peculiarities such as "Authori" and "Lac pueris aptum: solidus" are as printed in the scan; the scan is slightly soft in places but readable.</notes>
   </page>
-  <page type="missing" n="18">
-    <warning type="missing_page">page 18 was not transcribed: invalid XML: junk after document element: line 11, column 0</warning>
+  <page type="text" lines="ocr" n="18" model="subscription/claude-haiku-5-5">
+    <layout>One column of verse, full width, under a heading line at the top. Below the verse, a rule and a printed ornament (not text).</layout>
+    <main_text>
+      <l n="1" type="heading" level="2" para="true">ALIUD EJUSDEM.</l>
+      <l n="2" para="true">
+        <i>Sicut apis, saltus, hortosq; &amp; olentia nata</i>
+      </l>
+      <l n="3">
+        <i>Pascua, per flores &amp; thyma summa volat:</i>
+      </l>
+      <l n="4" para="true">
+        <i>Actore[?] hinc carpit, summo tenus optima quaq;</i>
+      </l>
+      <l n="5">
+        <i>Et dulcis fingit nobile mellis opus:</i>
+      </l>
+      <l n="6" para="true">
+        <i>Sic per Musarum, Tempeq; &amp; amœna vireta</i>
+      </l>
+      <l n="7">
+        <i>Bilstenius[?] volitans, optima quaq; legit.</i>
+      </l>
+      <l n="8" para="true">
+        <i>Atq; hinc gignit opus, genitumq; exponit in auras,</i>
+      </l>
+      <l n="9">
+        <i>Forsitan hoc Solis lucida tela fugit?</i>
+      </l>
+      <l n="10" para="true">
+        <i>Nil minus: ingenua nam totum continet orbem</i>
+      </l>
+      <l n="11">
+        <i>Doctrina, &amp; multis eruta sensa libris.</i>
+      </l>
+      <l n="12" para="true">
+        <i>Non in aperto igitur passim prostare veretur,</i>
+      </l>
+      <l n="13">
+        <i>Serviat ut studiis, Grex studiosa, tuis.</i>
+      </l>
+      <l n="14" para="true">
+        <i>Hoc lege, sed lectum, bene percipe, pectore conde:</i>
+      </l>
+      <l n="15">
+        <i>Hoc exprome usu, cum feret usus, opus.</i>
+      </l>
+      <l n="16" para="true">
+        <i>Nec vero hoc satis est: plus ultra, Symbolon esto</i>
+      </l>
+      <l n="17">
+        <i>(Dum contacta tibi ex ultima meta) tuum.</i>
+      </l>
+      <l n="18" para="true">
+        <i>Post ea quæ Sophiæ Proceres monumenta dedere,</i>
+      </l>
+      <l n="19">
+        <i>Illa leges oculis, illa teres manibus.</i>
+      </l>
+      <l n="20" para="true">
+        <i>Virtutis sectare viam: comitabitur illam,</i>
+      </l>
+      <l n="21">
+        <i>Ingredere, labor: progrediaris, amor.</i>
+      </l>
+      <l n="22" para="true">
+        <i>Emenso continget honor, pulcerrima merces</i>
+      </l>
+      <l n="23">
+        <i>Ergo age, virtutis perfice gnauus iter.</i>
+      </l>
+    </main_text>
+    <notes>The ornament below the rule is a printer's ornament, not text. Doubtful readings: "Actore" (first letters possibly a ct ligature, perhaps "Ab ore"), and "Bilstenius" (the long s may be misread). The ligature ct is copied as plain ct. Printed spelling and abbreviations (-que as q;) are kept as they stand.</notes>
   </page>
   <page type="text" lines="ocr" n="19" model="subscription/claude-haiku-5-5">
     <warning type="catchword_in_text">catchword taken out of the main text: Ergo</warning>
