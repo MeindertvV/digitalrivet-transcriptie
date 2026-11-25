@@ -1,0 +1,3240 @@
+{
+ "work": "W03962_Jacquemot_Selectorum_carminum_ex_doctiss_poetis_collectorum_et_nunc_pr_1590",
+ "made": "2026-11-25T12:59:40",
+ "model": "claude-haiku-5-5",
+ "prompt": "655260ce46aa8978",
+ "candidates": 447,
+ "cost_usd": 0.04086,
+ "dropped": [
+  "title \"1. L'eau va viste en s'escoulant, &c.\" moved from 'A.Zamarielis.' to \"3. Le beau du monde s'effacce,&c.\"",
+  "title '2. Tu me feras tesmoi, ô incostante Frace, &c.' is not in 'A.Zamarielis.': to the scan",
+  "title '14. Quand le iour fils du Soleil, &c.' moved from '13. Celuy qui pense pouuoir, &c.' to '8. Antiquité pourquoy as tu donné,&c.'",
+  "order: {'ids': [281.5], 'level': 3, 'title': '14. Quand le iour fils du Soleil, &c.'}",
+  "no scans for 3 wanted"
+ ],
+ "toc": [
+  {
+   "scan": 6,
+   "line": 1,
+   "lines": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Triumphale carmen, ad serenissimam Angliæ Reginam."
+  },
+  {
+   "scan": 11,
+   "line": 6,
+   "lines": [
+    [
+     11,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "Nerei vaticinium de ruina classis Ibericæ."
+  },
+  {
+   "scan": 16,
+   "line": 1,
+   "lines": [
+    [
+     16,
+     1
+    ],
+    [
+     16,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "In Hispanorum classem divinitus ab Anglis profligatam."
+  },
+  {
+   "scan": 17,
+   "line": 21,
+   "lines": [
+    [
+     17,
+     21
+    ]
+   ],
+   "level": 2,
+   "title": "Memoriæ S."
+  },
+  {
+   "scan": 19,
+   "line": 1,
+   "lines": [
+    [
+     19,
+     1
+    ],
+    [
+     19,
+     2
+    ],
+    [
+     19,
+     3
+    ],
+    [
+     19,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Ode monocolos. De strage classis Hispanicæ. Ad serenissimam Elizabetham Angliæ Reginam."
+  },
+  {
+   "scan": 25,
+   "line": 1,
+   "lines": [
+    [
+     25,
+     1
+    ],
+    [
+     25,
+     2
+    ],
+    [
+     25,
+     3
+    ],
+    [
+     25,
+     4
+    ],
+    [
+     25,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "De navali victoria, quam de Hispanis Angli reportarunt. Carmen iambicum, D. G. G. L. E."
+  },
+  {
+   "scan": 29,
+   "line": 1,
+   "lines": [
+    [
+     29,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "De clade Hispanica."
+  },
+  {
+   "scan": 31,
+   "line": 1,
+   "lines": [
+    [
+     31,
+     1
+    ],
+    [
+     31,
+     2
+    ],
+    [
+     31,
+     3
+    ],
+    [
+     31,
+     4
+    ],
+    [
+     31,
+     5
+    ],
+    [
+     31,
+     6
+    ],
+    [
+     31,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "Epigramma de subscripto ab Hispanorum classe idolo Christi symbolo, ex Psal. 73. Exurge Iehoua, iudica causam tuam: fatalium internecione coelitus comprobato anno Domini 1588."
+  },
+  {
+   "scan": 33,
+   "line": 1,
+   "lines": [
+    [
+     33,
+     1
+    ],
+    [
+     33,
+     2
+    ],
+    [
+     33,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "In Italos, qui falso rumore decepti θεῷ τῆς νίκης ἐγκώμιον celebrarunt."
+  },
+  {
+   "scan": 33,
+   "line": 13,
+   "lines": [
+    [
+     33,
+     13
+    ],
+    [
+     33,
+     14
+    ],
+    [
+     33,
+     15
+    ]
+   ],
+   "level": 2,
+   "title": "Hispanis, vetitum ne cladem amissæ classis lugerent."
+  },
+  {
+   "scan": 34,
+   "line": 1,
+   "lines": [
+    [
+     34,
+     1
+    ],
+    [
+     34,
+     2
+    ],
+    [
+     34,
+     3
+    ],
+    [
+     34,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "In distichon ab Eitzingero quodam adversus Reginam Angliæ scriptum."
+  },
+  {
+   "scan": 34,
+   "line": 8,
+   "lines": [
+    [
+     34,
+     8
+    ]
+   ],
+   "level": 2,
+   "title": "Responsio."
+  },
+  {
+   "scan": 35,
+   "line": 1,
+   "lines": [
+    [
+     35,
+     1
+    ],
+    [
+     35,
+     2
+    ],
+    [
+     35,
+     3
+    ],
+    [
+     35,
+     4
+    ],
+    [
+     35,
+     5
+    ],
+    [
+     35,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "In aurum, quod Hispaniæ Rex Philippus ad fœdus sanciendum in Heluetiam misit, collabentibus moenibus Tugi. Epigramma G. G. L. E. Anno 1588. Octobris die 5. Scriptum."
+  },
+  {
+   "scan": 36,
+   "line": 1,
+   "lines": [
+    [
+     36,
+     1
+    ],
+    [
+     36,
+     2
+    ],
+    [
+     36,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Liber II. In tumultus Gallicos."
+  },
+  {
+   "scan": 40,
+   "line": 14,
+   "lines": [
+    [
+     40,
+     14
+    ],
+    [
+     40,
+     15
+    ]
+   ],
+   "level": 2,
+   "title": "In obitum principis Condæi 1588."
+  },
+  {
+   "scan": 44,
+   "line": 1,
+   "lines": [
+    [
+     44,
+     1
+    ],
+    [
+     44,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "In Galliam bellis civilibus vexatam."
+  },
+  {
+   "scan": 45,
+   "line": 1,
+   "lines": [
+    [
+     45,
+     1
+    ],
+    [
+     45,
+     2
+    ],
+    [
+     45,
+     3
+    ],
+    [
+     45,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Panegyricus Christo, Deo, Admirabili, Consiliario dictus, A P. N. D."
+  },
+  {
+   "scan": 51,
+   "line": 1,
+   "lines": [
+    [
+     51,
+     1
+    ],
+    [
+     51,
+     2
+    ],
+    [
+     51,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Ode monocolos, in sublatum merita morte Guisium."
+  },
+  {
+   "scan": 59,
+   "line": 1,
+   "lines": [
+    [
+     59,
+     1
+    ],
+    [
+     59,
+     2
+    ],
+    [
+     59,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Henrico III. Franciæ et Poloniæ regi Christianissimo."
+  },
+  {
+   "scan": 64,
+   "line": 14,
+   "lines": [
+    [
+     64,
+     14
+    ]
+   ],
+   "level": 2,
+   "title": "Eidem."
+  },
+  {
+   "scan": 67,
+   "line": 1,
+   "lines": [
+    [
+     67,
+     1
+    ],
+    [
+     67,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Ad Henricum III. Navarræ regem."
+  },
+  {
+   "scan": 72,
+   "line": 14,
+   "lines": [
+    [
+     72,
+     14
+    ],
+    [
+     72,
+     15
+    ],
+    [
+     72,
+     16
+    ]
+   ],
+   "level": 2,
+   "title": "Eadem die dux Guisius interfectus, qua rex Navarrae natus."
+  },
+  {
+   "scan": 73,
+   "line": 1,
+   "lines": [
+    [
+     73,
+     1
+    ],
+    [
+     73,
+     10
+    ]
+   ],
+   "level": 2,
+   "title": "Aliud."
+  },
+  {
+   "scan": 74,
+   "line": 1,
+   "lines": [
+    [
+     74,
+     1
+    ],
+    [
+     74,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "In Guisii necem. Phaleucium carmen."
+  },
+  {
+   "scan": 74,
+   "line": 9,
+   "lines": [
+    [
+     74,
+     9
+    ]
+   ],
+   "level": 2,
+   "title": "In eandem."
+  },
+  {
+   "scan": 75,
+   "line": 1,
+   "lines": [
+    [
+     75,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "In ducem Maenium."
+  },
+  {
+   "scan": 76,
+   "line": 1,
+   "lines": [
+    [
+     76,
+     1
+    ],
+    [
+     76,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Guisiani supplicii effecta."
+  },
+  {
+   "scan": 76,
+   "line": 10,
+   "lines": [
+    [
+     76,
+     10
+    ],
+    [
+     76,
+     15
+    ]
+   ],
+   "level": 2,
+   "title": "Aliud."
+  },
+  {
+   "scan": 77,
+   "line": 4,
+   "lines": [
+    [
+     77,
+     4
+    ],
+    [
+     77,
+     5
+    ],
+    [
+     77,
+     6
+    ],
+    [
+     77,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "Liga soluta Blæsiis cæde. Henrici Lotharingi Ducis Guysij."
+  },
+  {
+   "scan": 78,
+   "line": 1,
+   "lines": [
+    [
+     78,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Guisiorum tumulus."
+  },
+  {
+   "scan": 79,
+   "line": 1,
+   "lines": [
+    [
+     79,
+     1
+    ],
+    [
+     79,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Liber III. Varia poemata."
+  },
+  {
+   "scan": 79,
+   "line": 3,
+   "lines": [
+    [
+     79,
+     3
+    ],
+    [
+     79,
+     4
+    ],
+    [
+     79,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Carmina, a Georgio Buchanano olim scripta, nunc primum typis edita."
+  },
+  {
+   "scan": 80,
+   "line": 21,
+   "lines": [
+    [
+     80,
+     21
+    ]
+   ],
+   "level": 2,
+   "title": "Calendæ Maiæ."
+  },
+  {
+   "scan": 82,
+   "line": 1,
+   "lines": [
+    [
+     82,
+     1
+    ],
+    [
+     82,
+     2
+    ],
+    [
+     82,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Ad Franciscum Olivarium Franciæ Cancellarium, εὐχαριστήριον."
+  },
+  {
+   "scan": 84,
+   "line": 1,
+   "lines": [
+    [
+     84,
+     1
+    ],
+    [
+     84,
+     2
+    ],
+    [
+     84,
+     3
+    ],
+    [
+     84,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Ad Henricum II. Francorum regem de soluta urbis Mediomatricum obsidione."
+  },
+  {
+   "scan": 86,
+   "line": 1,
+   "lines": [
+    [
+     86,
+     1
+    ],
+    [
+     86,
+     2
+    ],
+    [
+     86,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Ad Carolum Cossæum Brixiaci dynastam, post captas Vercellas."
+  },
+  {
+   "scan": 90,
+   "line": 1,
+   "lines": [
+    [
+     90,
+     1
+    ],
+    [
+     90,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "De amore Cossæi et Aretes."
+  },
+  {
+   "scan": 93,
+   "line": 1,
+   "lines": [
+    [
+     93,
+     1
+    ],
+    [
+     93,
+     2
+    ],
+    [
+     93,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Aliorum poetarum carmina. Ad clariss. virum D. Th. Bezam carmen."
+  },
+  {
+   "scan": 96,
+   "line": 1,
+   "lines": [
+    [
+     96,
+     1
+    ],
+    [
+     96,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Pocilli donum. Eidem."
+  },
+  {
+   "scan": 97,
+   "line": 1,
+   "lines": [
+    [
+     97,
+     1
+    ],
+    [
+     97,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Ad Petrum Poppæum poetam."
+  },
+  {
+   "scan": 99,
+   "line": 1,
+   "lines": [
+    [
+     99,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Laus specillorum."
+  },
+  {
+   "scan": 100,
+   "line": 10,
+   "lines": [
+    [
+     100,
+     10
+    ],
+    [
+     100,
+     11
+    ],
+    [
+     100,
+     12
+    ],
+    [
+     100,
+     13
+    ]
+   ],
+   "level": 2,
+   "title": "De culice globulo succino, sive electro includo, carmen. Ad I. Baptistam Rothanum."
+  },
+  {
+   "scan": 102,
+   "line": 11,
+   "lines": [
+    [
+     102,
+     11
+    ],
+    [
+     102,
+     12
+    ],
+    [
+     102,
+     13
+    ]
+   ],
+   "level": 2,
+   "title": "De poetis. Ad Gulielmum Mognaeum."
+  },
+  {
+   "scan": 104,
+   "line": 5,
+   "lines": [
+    [
+     104,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Ioanni Durantio."
+  },
+  {
+   "scan": 106,
+   "line": 1,
+   "lines": [
+    [
+     106,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Ad uxorem."
+  },
+  {
+   "scan": 107,
+   "line": 1,
+   "lines": [
+    [
+     107,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Novæo, reduci."
+  },
+  {
+   "scan": 109,
+   "line": 1,
+   "lines": [
+    [
+     109,
+     1
+    ],
+    [
+     109,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "De serenissima Angliæ Regina, carmen."
+  },
+  {
+   "scan": 110,
+   "line": 1,
+   "lines": [
+    [
+     110,
+     1
+    ],
+    [
+     110,
+     2
+    ],
+    [
+     110,
+     3
+    ],
+    [
+     110,
+     4
+    ],
+    [
+     110,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Epigrammata ex Buchanano de sumpta, et nunc primum edita. In Polyonymum."
+  },
+  {
+   "scan": 111,
+   "line": 1,
+   "lines": [
+    [
+     111,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "In Iulium II. Pontificem."
+  },
+  {
+   "scan": 111,
+   "line": 6,
+   "lines": [
+    [
+     111,
+     6
+    ],
+    [
+     111,
+     7
+    ],
+    [
+     111,
+     8
+    ]
+   ],
+   "level": 2,
+   "title": "De Nicotiana falso nomine Medicæa appellata."
+  },
+  {
+   "scan": 112,
+   "line": 1,
+   "lines": [
+    [
+     112,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Ex Graeco Simonidis."
+  },
+  {
+   "scan": 112,
+   "line": 16,
+   "lines": [
+    [
+     112,
+     16
+    ]
+   ],
+   "level": 2,
+   "title": "E Graeco Theognidis."
+  },
+  {
+   "scan": 113,
+   "line": 1,
+   "lines": [
+    [
+     113,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "E Graeco."
+  },
+  {
+   "scan": 113,
+   "line": 6,
+   "lines": [
+    [
+     113,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "In St. Doletum."
+  },
+  {
+   "scan": 113,
+   "line": 9,
+   "lines": [
+    [
+     113,
+     9
+    ]
+   ],
+   "level": 2,
+   "title": "In præposterè pium."
+  },
+  {
+   "scan": 113,
+   "line": 16,
+   "lines": [
+    [
+     113,
+     16
+    ]
+   ],
+   "level": 2,
+   "title": "In hominem vanum."
+  },
+  {
+   "scan": 114,
+   "line": 1,
+   "lines": [
+    [
+     114,
+     1
+    ],
+    [
+     114,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Ad Thomam Cromelum Anglum."
+  },
+  {
+   "scan": 114,
+   "line": 21,
+   "lines": [
+    [
+     114,
+     21
+    ]
+   ],
+   "level": 2,
+   "title": "De Mellino Sangelasio."
+  },
+  {
+   "scan": 115,
+   "line": 1,
+   "lines": [
+    [
+     115,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "E Graeco Simonidis."
+  },
+  {
+   "scan": 115,
+   "line": 7,
+   "lines": [
+    [
+     115,
+     7
+    ],
+    [
+     115,
+     9
+    ],
+    [
+     115,
+     11
+    ]
+   ],
+   "level": 2,
+   "title": "Ex eodem."
+  },
+  {
+   "scan": 115,
+   "line": 14,
+   "lines": [
+    [
+     115,
+     14
+    ]
+   ],
+   "level": 2,
+   "title": "In Beleagonem."
+  },
+  {
+   "scan": 116,
+   "line": 1,
+   "lines": [
+    [
+     116,
+     1
+    ],
+    [
+     116,
+     2
+    ],
+    [
+     116,
+     3
+    ],
+    [
+     116,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Aliorum epigrammatum, ex variis poetis collectorum, farrago. De Lutetia Parisiorum."
+  },
+  {
+   "scan": 117,
+   "line": 8,
+   "lines": [
+    [
+     117,
+     8
+    ],
+    [
+     117,
+     9
+    ],
+    [
+     117,
+     10
+    ]
+   ],
+   "level": 2,
+   "title": "Ad Syperium, Aurelianensium murorum destructorem."
+  },
+  {
+   "scan": 117,
+   "line": 19,
+   "lines": [
+    [
+     117,
+     19
+    ]
+   ],
+   "level": 2,
+   "title": "In eundem."
+  },
+  {
+   "scan": 118,
+   "line": 1,
+   "lines": [
+    [
+     118,
+     1
+    ],
+    [
+     118,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "In eundem."
+  },
+  {
+   "scan": 118,
+   "line": 7,
+   "lines": [
+    [
+     118,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "De Amphione & Syperio."
+  },
+  {
+   "scan": 119,
+   "line": 1,
+   "lines": [
+    [
+     119,
+     1
+    ],
+    [
+     119,
+     2
+    ],
+    [
+     119,
+     3
+    ],
+    [
+     119,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "De templo ab evangelicis Lugduni eo ipso in loco constructo, ubi prius martyres Evangelii solebant vstulari."
+  },
+  {
+   "scan": 120,
+   "line": 14,
+   "lines": [
+    [
+     120,
+     14
+    ]
+   ],
+   "level": 2,
+   "title": "In clerum papisticum."
+  },
+  {
+   "scan": 123,
+   "line": 1,
+   "lines": [
+    [
+     123,
+     1
+    ],
+    [
+     123,
+     2
+    ],
+    [
+     123,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "In Xistum, pontificem, et potorem strenuum."
+  },
+  {
+   "scan": 123,
+   "line": 16,
+   "lines": [
+    [
+     123,
+     16
+    ],
+    [
+     123,
+     21
+    ],
+    [
+     123,
+     24
+    ]
+   ],
+   "level": 2,
+   "title": "In eundem."
+  },
+  {
+   "scan": 124,
+   "line": 3,
+   "lines": [
+    [
+     124,
+     3
+    ],
+    [
+     124,
+     4
+    ],
+    [
+     124,
+     5
+    ],
+    [
+     124,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "Remedium præsens, quo Xistus pontifex omnem animi ægritudinem pellere solet."
+  },
+  {
+   "scan": 125,
+   "line": 3,
+   "lines": [
+    [
+     125,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "In eundem."
+  },
+  {
+   "scan": 125,
+   "line": 10,
+   "lines": [
+    [
+     125,
+     10
+    ]
+   ],
+   "level": 2,
+   "title": "In eundem."
+  },
+  {
+   "scan": 125,
+   "line": 16,
+   "lines": [
+    [
+     125,
+     16
+    ],
+    [
+     125,
+     17
+    ],
+    [
+     125,
+     18
+    ],
+    [
+     125,
+     19
+    ]
+   ],
+   "level": 2,
+   "title": "In archiepiscopum quendam, inter Gallicæ coniurationis architectos primarium."
+  },
+  {
+   "scan": 126,
+   "line": 7,
+   "lines": [
+    [
+     126,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "Aliud."
+  },
+  {
+   "scan": 126,
+   "line": 12,
+   "lines": [
+    [
+     126,
+     12
+    ]
+   ],
+   "level": 2,
+   "title": "Aliud."
+  },
+  {
+   "scan": 126,
+   "line": 16,
+   "lines": [
+    [
+     126,
+     16
+    ]
+   ],
+   "level": 2,
+   "title": "In Hispanum."
+  },
+  {
+   "scan": 127,
+   "line": 1,
+   "lines": [
+    [
+     127,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "In I. Auratum."
+  },
+  {
+   "scan": 127,
+   "line": 6,
+   "lines": [
+    [
+     127,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "In manum Paschasii."
+  },
+  {
+   "scan": 127,
+   "line": 17,
+   "lines": [
+    [
+     127,
+     17
+    ],
+    [
+     127,
+     18
+    ],
+    [
+     127,
+     19
+    ]
+   ],
+   "level": 2,
+   "title": "D. Francisco Hastingæ Domino, in Angliam revertenti."
+  },
+  {
+   "scan": 128,
+   "line": 1,
+   "lines": [
+    [
+     128,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "In Th. B. Psalmos."
+  },
+  {
+   "scan": 128,
+   "line": 8,
+   "lines": [
+    [
+     128,
+     8
+    ],
+    [
+     128,
+     9
+    ],
+    [
+     128,
+     10
+    ]
+   ],
+   "level": 2,
+   "title": "Quum decumberet ex morbo, 12. April. 1586. Ad Christum precatio."
+  },
+  {
+   "scan": 129,
+   "line": 11,
+   "lines": [
+    [
+     129,
+     11
+    ],
+    [
+     129,
+     12
+    ],
+    [
+     129,
+     13
+    ]
+   ],
+   "level": 2,
+   "title": "In librum Ioannis De Leri, quo Americæ historiam descripsit."
+  },
+  {
+   "scan": 130,
+   "line": 10,
+   "lines": [
+    [
+     130,
+     10
+    ],
+    [
+     130,
+     11
+    ]
+   ],
+   "level": 2,
+   "title": "In quendam cognomine Curionem, vere Dromonem."
+  },
+  {
+   "scan": 130,
+   "line": 14,
+   "lines": [
+    [
+     130,
+     14
+    ]
+   ],
+   "level": 2,
+   "title": "Ad Paulum."
+  },
+  {
+   "scan": 130,
+   "line": 17,
+   "lines": [
+    [
+     130,
+     17
+    ],
+    [
+     130,
+     18
+    ],
+    [
+     130,
+     19
+    ],
+    [
+     130,
+     20
+    ]
+   ],
+   "level": 2,
+   "title": "In librum Martini Marlorei Causidici Barrensis, cui titulum fecit De Orthodoxo Baptismo & Calviniano."
+  },
+  {
+   "scan": 131,
+   "line": 1,
+   "lines": [
+    [
+     131,
+     1
+    ],
+    [
+     131,
+     2
+    ],
+    [
+     131,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "In eiusdem libri carmen, quod sic incipit, Ne metuas prodire, liber."
+  },
+  {
+   "scan": 131,
+   "line": 16,
+   "lines": [
+    [
+     131,
+     16
+    ],
+    [
+     131,
+     17
+    ]
+   ],
+   "level": 2,
+   "title": "In poetam qui mirificos versus subinde facit."
+  },
+  {
+   "scan": 132,
+   "line": 3,
+   "lines": [
+    [
+     132,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "In coniugium impar."
+  },
+  {
+   "scan": 132,
+   "line": 6,
+   "lines": [
+    [
+     132,
+     6
+    ],
+    [
+     132,
+     7
+    ],
+    [
+     132,
+     8
+    ]
+   ],
+   "level": 2,
+   "title": "In Gallum qui subinde rationem ornandi capitis mutat."
+  },
+  {
+   "scan": 132,
+   "line": 14,
+   "lines": [
+    [
+     132,
+     14
+    ],
+    [
+     132,
+     15
+    ]
+   ],
+   "level": 2,
+   "title": "In quendam maledicum."
+  },
+  {
+   "scan": 132,
+   "line": 20,
+   "lines": [
+    [
+     132,
+     20
+    ]
+   ],
+   "level": 2,
+   "title": "Aliud."
+  },
+  {
+   "scan": 133,
+   "line": 13,
+   "lines": [
+    [
+     133,
+     13
+    ],
+    [
+     133,
+     14
+    ],
+    [
+     133,
+     15
+    ]
+   ],
+   "level": 2,
+   "title": "De Felice Peneto, olim caprario, nunc Pontifice Romano, Xisto seu Sixto V."
+  },
+  {
+   "scan": 134,
+   "line": 1,
+   "lines": [
+    [
+     134,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "De eodem."
+  },
+  {
+   "scan": 134,
+   "line": 21,
+   "lines": [
+    [
+     134,
+     21
+    ]
+   ],
+   "level": 2,
+   "title": "In hypocritas avaros."
+  },
+  {
+   "scan": 135,
+   "line": 1,
+   "lines": [
+    [
+     135,
+     1
+    ],
+    [
+     135,
+     2
+    ],
+    [
+     135,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Ad rixosos coniuges, et pari nequitia præditos."
+  },
+  {
+   "scan": 135,
+   "line": 8,
+   "lines": [
+    [
+     135,
+     8
+    ]
+   ],
+   "level": 2,
+   "title": "Ad impurum quendam."
+  },
+  {
+   "scan": 135,
+   "line": 17,
+   "lines": [
+    [
+     135,
+     17
+    ]
+   ],
+   "level": 2,
+   "title": "Vox Cratetis Milesij."
+  },
+  {
+   "scan": 135,
+   "line": 20,
+   "lines": [
+    [
+     135,
+     20
+    ]
+   ],
+   "level": 2,
+   "title": "Sat cito, si sat bene."
+  },
+  {
+   "scan": 136,
+   "line": 1,
+   "lines": [
+    [
+     136,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Iphicratis dictum."
+  },
+  {
+   "scan": 136,
+   "line": 5,
+   "lines": [
+    [
+     136,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Senectus."
+  },
+  {
+   "scan": 136,
+   "line": 13,
+   "lines": [
+    [
+     136,
+     13
+    ]
+   ],
+   "level": 2,
+   "title": "Eusthatio Turcamo."
+  },
+  {
+   "scan": 136,
+   "line": 18,
+   "lines": [
+    [
+     136,
+     18
+    ],
+    [
+     136,
+     19
+    ]
+   ],
+   "level": 2,
+   "title": "Veris descriptio, ex Anacreonte desumpta."
+  },
+  {
+   "scan": 137,
+   "line": 11,
+   "lines": [
+    [
+     137,
+     11
+    ],
+    [
+     137,
+     12
+    ],
+    [
+     137,
+     13
+    ]
+   ],
+   "level": 2,
+   "title": "Augustus cur edicto vetuit se dominum appellari."
+  },
+  {
+   "scan": 138,
+   "line": 1,
+   "lines": [
+    [
+     138,
+     1
+    ],
+    [
+     138,
+     2
+    ],
+    [
+     138,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "In machinam I. Durantii, qua in altum magna vis aquæ fertur."
+  },
+  {
+   "scan": 139,
+   "line": 1,
+   "lines": [
+    [
+     139,
+     1
+    ],
+    [
+     139,
+     2
+    ],
+    [
+     139,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "In icones et elogia clarorum virorum Th. Bezæ Vezelij."
+  },
+  {
+   "scan": 139,
+   "line": 4,
+   "lines": [
+    [
+     139,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "I."
+  },
+  {
+   "scan": 139,
+   "line": 23,
+   "lines": [
+    [
+     139,
+     23
+    ]
+   ],
+   "level": 3,
+   "title": "II."
+  },
+  {
+   "scan": 140,
+   "line": 3,
+   "lines": [
+    [
+     140,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "III."
+  },
+  {
+   "scan": 140,
+   "line": 10,
+   "lines": [
+    [
+     140,
+     10
+    ]
+   ],
+   "level": 3,
+   "title": "IIII."
+  },
+  {
+   "scan": 140,
+   "line": 13,
+   "lines": [
+    [
+     140,
+     13
+    ]
+   ],
+   "level": 3,
+   "title": "V."
+  },
+  {
+   "scan": 141,
+   "line": 1,
+   "lines": [
+    [
+     141,
+     1
+    ],
+    [
+     141,
+     2
+    ],
+    [
+     141,
+     3
+    ],
+    [
+     141,
+     4
+    ],
+    [
+     141,
+     5
+    ],
+    [
+     141,
+     6
+    ],
+    [
+     141,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "In colloquium vel fabulam potius Badensem, XX. Nouembris anno 1589 actam, binos histriones, Iohannem Pistorium fide apostatam, professione medicum, et Iacobum Andreæ fabellum Nestorieutychianæ Ubiquitatis fabrum, & Pseudapostolum."
+  },
+  {
+   "scan": 141,
+   "line": 16,
+   "lines": [
+    [
+     141,
+     16
+    ]
+   ],
+   "level": 2,
+   "title": "In eosdem."
+  },
+  {
+   "scan": 143,
+   "line": 5,
+   "lines": [
+    [
+     143,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "In fabrum Tubingum."
+  },
+  {
+   "scan": 144,
+   "line": 1,
+   "lines": [
+    [
+     144,
+     1
+    ],
+    [
+     144,
+     2
+    ],
+    [
+     144,
+     3
+    ],
+    [
+     144,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "In mundi inconstantiam et vanitatem epigrammata. Ex Gallicis A. Zamarielis."
+  },
+  {
+   "scan": 145,
+   "line": 5,
+   "lines": [
+    [
+     145,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "1. L'eau va viste en s'escoulant, &c."
+  },
+  {
+   "scan": 145,
+   "line": 5,
+   "lines": [
+    [
+     145,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "3. Le beau du monde s'effacce, &c."
+  },
+  {
+   "scan": 145,
+   "line": 14,
+   "lines": [
+    [
+     145,
+     14
+    ]
+   ],
+   "level": 3,
+   "title": "4. La glace est luisante & belle, &c."
+  },
+  {
+   "scan": 146,
+   "line": 1,
+   "lines": [
+    [
+     146,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "5. Mondain, si tu le scais, di moy, &c."
+  },
+  {
+   "scan": 146,
+   "line": 14,
+   "lines": [
+    [
+     146,
+     14
+    ],
+    [
+     146,
+     15
+    ]
+   ],
+   "level": 3,
+   "title": "6. Quand on arrestera la course coustumiere, &c."
+  },
+  {
+   "scan": 147,
+   "line": 5,
+   "lines": [
+    [
+     147,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "7. Le monde est vn iardin, &c."
+  },
+  {
+   "scan": 147,
+   "line": 18,
+   "lines": [
+    [
+     147,
+     18
+    ],
+    [
+     147,
+     19
+    ]
+   ],
+   "level": 3,
+   "title": "8. L'estranger estonné regarde & se pourmeine, &c."
+  },
+  {
+   "scan": 148,
+   "line": 5,
+   "lines": [
+    [
+     148,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "9. Antiquité pourquoy as tu donné, &c."
+  },
+  {
+   "scan": 148,
+   "line": 14,
+   "lines": [
+    [
+     148,
+     14
+    ]
+   ],
+   "level": 3,
+   "title": "10. Le Babylonié a rangé fous fes loix, &c."
+  },
+  {
+   "scan": 149,
+   "line": 1,
+   "lines": [
+    [
+     149,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "11. Plustoft on pourra faire, &c."
+  },
+  {
+   "scan": 149,
+   "line": 10,
+   "lines": [
+    [
+     149,
+     10
+    ]
+   ],
+   "level": 3,
+   "title": "12. Ievis vn iour le Monde combatant, &c."
+  },
+  {
+   "scan": 149,
+   "line": 23,
+   "lines": [
+    [
+     149,
+     23
+    ]
+   ],
+   "level": 3,
+   "title": "13. Celuy qui pense pouuoir, &c."
+  },
+  {
+   "scan": 151,
+   "line": 1,
+   "lines": [
+    [
+     151,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "16. Iamais n'auoir & tousiours desirer, &c."
+  },
+  {
+   "scan": 151,
+   "line": 14,
+   "lines": [
+    [
+     151,
+     14
+    ]
+   ],
+   "level": 3,
+   "title": "17. Quand le Mondain trauaille, &c."
+  },
+  {
+   "scan": 152,
+   "line": 5,
+   "lines": [
+    [
+     152,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "18. Au langage des Cieux, &c."
+  },
+  {
+   "scan": 153,
+   "line": 1,
+   "lines": [
+    [
+     153,
+     1
+    ],
+    [
+     153,
+     2
+    ],
+    [
+     153,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Epitaphia. Io. Caluini epicedium, à G. Buchanano scriptum."
+  },
+  {
+   "scan": 155,
+   "line": 10,
+   "lines": [
+    [
+     155,
+     10
+    ],
+    [
+     155,
+     11
+    ]
+   ],
+   "level": 2,
+   "title": "Nicolao Baconi Angliæ Procancellario."
+  },
+  {
+   "scan": 156,
+   "line": 1,
+   "lines": [
+    [
+     156,
+     1
+    ],
+    [
+     156,
+     2
+    ],
+    [
+     156,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Ioanni Ariskino comiti Marriæ, Scotorum proregi."
+  },
+  {
+   "scan": 156,
+   "line": 14,
+   "lines": [
+    [
+     156,
+     14
+    ]
+   ],
+   "level": 2,
+   "title": "Matthæo Stuarto, Leuinię Comiti Scotorum Proregi."
+  },
+  {
+   "scan": 157,
+   "line": 3,
+   "lines": [
+    [
+     157,
+     3
+    ],
+    [
+     157,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Annæ Walsingamiæ Thomæ Randolphi uxori."
+  },
+  {
+   "scan": 157,
+   "line": 11,
+   "lines": [
+    [
+     157,
+     11
+    ]
+   ],
+   "level": 2,
+   "title": "Alexandro Cocburno."
+  },
+  {
+   "scan": 158,
+   "line": 1,
+   "lines": [
+    [
+     158,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Marco Antonio Monlucio."
+  },
+  {
+   "scan": 158,
+   "line": 8,
+   "lines": [
+    [
+     158,
+     8
+    ]
+   ],
+   "level": 2,
+   "title": "Magdalenæ Scotorum Reginæ."
+  },
+  {
+   "scan": 159,
+   "line": 1,
+   "lines": [
+    [
+     159,
+     1
+    ],
+    [
+     159,
+     2
+    ],
+    [
+     159,
+     3
+    ],
+    [
+     159,
+     4
+    ],
+    [
+     159,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Carmen epicedion Petro Monavio Vratislaviensi, S.C.M. medico, viro trium linguarum & omnium liberalium disciplinarum cognitione insigni."
+  },
+  {
+   "scan": 159,
+   "line": 7,
+   "lines": [
+    [
+     159,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "Monavi."
+  },
+  {
+   "scan": 159,
+   "line": 16,
+   "lines": [
+    [
+     159,
+     16
+    ]
+   ],
+   "level": 2,
+   "title": "Eidem."
+  },
+  {
+   "scan": 160,
+   "line": 10,
+   "lines": [
+    [
+     160,
+     10
+    ],
+    [
+     160,
+     11
+    ]
+   ],
+   "level": 2,
+   "title": "Th. Beza. Eidem, N. Redingerus."
+  },
+  {
+   "scan": 160,
+   "line": 20,
+   "lines": [
+    [
+     160,
+     20
+    ]
+   ],
+   "level": 2,
+   "title": "Eidem."
+  },
+  {
+   "scan": 161,
+   "line": 1,
+   "lines": [
+    [
+     161,
+     1
+    ],
+    [
+     161,
+     2
+    ],
+    [
+     161,
+     3
+    ],
+    [
+     161,
+     4
+    ],
+    [
+     161,
+     5
+    ],
+    [
+     161,
+     6
+    ],
+    [
+     161,
+     7
+    ],
+    [
+     161,
+     21
+    ],
+    [
+     161,
+     22
+    ]
+   ],
+   "level": 2,
+   "title": "D. Opt. Max. S. et memoriæ cl. v. D. Iohannis Sturmii, summam pietatis, eruditionis, facundiæ laudem adeptі, summis regibus et principibus grati, de civitate et academia Argentinensi optime meriti. Theodorus Beza amicissimo suo M. P."
+  },
+  {
+   "scan": 162,
+   "line": 1,
+   "lines": [
+    [
+     162,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Ioanni Caluino."
+  },
+  {
+   "scan": 162,
+   "line": 15,
+   "lines": [
+    [
+     162,
+     15
+    ],
+    [
+     162,
+     16
+    ],
+    [
+     162,
+     17
+    ],
+    [
+     162,
+     18
+    ],
+    [
+     162,
+     19
+    ]
+   ],
+   "level": 2,
+   "title": "Illustri viro Galeacio Caraccioli Marchionis Vici, in Neapolitano regno, unico & legitimo hæredi, P.P. L. P."
+  },
+  {
+   "scan": 163,
+   "line": 11,
+   "lines": [
+    [
+     163,
+     11
+    ],
+    [
+     163,
+     12
+    ],
+    [
+     163,
+     13
+    ],
+    [
+     163,
+     14
+    ]
+   ],
+   "level": 2,
+   "title": "Lectissimæ matronæ Annæ Fremeriæ, illustris viri Galeacii Caraccioli uxori, P.P. L. P."
+  },
+  {
+   "scan": 164,
+   "line": 1,
+   "lines": [
+    [
+     164,
+     1
+    ],
+    [
+     164,
+     2
+    ],
+    [
+     164,
+     3
+    ],
+    [
+     164,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Epitaphium duorum fratrum gemellorum, qui eadem hora mortui sunt & eodem sepulchro conditi."
+  },
+  {
+   "scan": 164,
+   "line": 18,
+   "lines": [
+    [
+     164,
+     18
+    ]
+   ],
+   "level": 2,
+   "title": "Comitis cuiusdam Scoti Epitaphium."
+  },
+  {
+   "scan": 165,
+   "line": 4,
+   "lines": [
+    [
+     165,
+     4
+    ],
+    [
+     165,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Epicedion carmen spectatissimæ tum pietatis, tum doctrinæ viro, Theodoro Zvinggero, verè polyhistori, & alteri seculi nostri Varroni."
+  },
+  {
+   "scan": 166,
+   "line": 1,
+   "lines": [
+    [
+     166,
+     1
+    ],
+    [
+     166,
+     2
+    ],
+    [
+     166,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Th. Beza, in annum suum climactericum decimum exactum."
+  },
+  {
+   "scan": 167,
+   "line": 1,
+   "lines": [
+    [
+     167,
+     1
+    ],
+    [
+     167,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Cl. V. Iacobo Lectio amicissimo suo."
+  },
+  {
+   "scan": 171,
+   "line": 16,
+   "lines": [
+    [
+     171,
+     16
+    ]
+   ],
+   "level": 2,
+   "title": "Ad D. Bezam, V. Cl."
+  },
+  {
+   "scan": 177,
+   "line": 13,
+   "lines": [
+    [
+     177,
+     13
+    ]
+   ],
+   "level": 2,
+   "title": "Ad Iacobum Lectium."
+  },
+  {
+   "scan": 180,
+   "line": 1,
+   "lines": [
+    [
+     180,
+     1
+    ],
+    [
+     180,
+     2
+    ],
+    [
+     180,
+     3
+    ],
+    [
+     180,
+     4
+    ],
+    [
+     180,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Martino Marloreo, Barrensi causidico, impuro apostatæ, evangelicæ veritatis persecutori acerrimo, epitaphium I. I. B. posuit."
+  },
+  {
+   "scan": 181,
+   "line": 6,
+   "lines": [
+    [
+     181,
+     6
+    ],
+    [
+     181,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "Iacobo Andreæ, ubiquitatis pseudapostolo."
+  },
+  {
+   "scan": 181,
+   "line": 16,
+   "lines": [
+    [
+     181,
+     16
+    ],
+    [
+     181,
+     17
+    ]
+   ],
+   "level": 2,
+   "title": "Eidem. Ubiquitatis faberrimo fabro."
+  },
+  {
+   "scan": 182,
+   "line": 1,
+   "lines": [
+    [
+     182,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Eidem, amplissimo & grauissimo doctori."
+  },
+  {
+   "scan": 183,
+   "line": 1,
+   "lines": [
+    [
+     183,
+     1
+    ],
+    [
+     183,
+     2
+    ],
+    [
+     183,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Musarum dona. Iac. Lectius, Th. Bezæ, V. Cl. S."
+  },
+  {
+   "scan": 184,
+   "line": 12,
+   "lines": [
+    [
+     184,
+     12
+    ]
+   ],
+   "level": 2,
+   "title": "Th. Beza Iac. Lectio V. Cl."
+  },
+  {
+   "scan": 186,
+   "line": 1,
+   "lines": [
+    [
+     186,
+     1
+    ],
+    [
+     186,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Pauli Melissi Schedii, ad Theodorum Bezam, ode."
+  },
+  {
+   "scan": 188,
+   "line": 1,
+   "lines": [
+    [
+     188,
+     1
+    ],
+    [
+     188,
+     2
+    ],
+    [
+     188,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Eiusdem Melissi melos. Ad amicum quendam."
+  },
+  {
+   "scan": 190,
+   "line": 1,
+   "lines": [
+    [
+     190,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Satyra I. Roma."
+  },
+  {
+   "scan": 196,
+   "line": 18,
+   "lines": [
+    [
+     196,
+     18
+    ]
+   ],
+   "level": 2,
+   "title": "Satyra II. Cardinalis."
+  },
+  {
+   "scan": 202,
+   "line": 1,
+   "lines": [
+    [
+     202,
+     1
+    ],
+    [
+     202,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Satyra III. Svitæ."
+  },
+  {
+   "scan": 204,
+   "line": 10,
+   "lines": [
+    [
+     204,
+     10
+    ]
+   ],
+   "level": 2,
+   "title": "Dipnosophista."
+  },
+  {
+   "scan": 210,
+   "line": 8,
+   "lines": [
+    [
+     210,
+     8
+    ]
+   ],
+   "level": 2,
+   "title": "Philautia."
+  },
+  {
+   "scan": 217,
+   "line": 15,
+   "lines": [
+    [
+     217,
+     15
+    ]
+   ],
+   "level": 2,
+   "title": "M. Hospitalius, Galliarum Cancellarius."
+  },
+  {
+   "scan": 218,
+   "line": 1,
+   "lines": [
+    [
+     218,
+     1
+    ],
+    [
+     218,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Liber IIII. Cantica sacra."
+  },
+  {
+   "scan": 218,
+   "line": 3,
+   "lines": [
+    [
+     218,
+     3
+    ],
+    [
+     218,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Canticum Mosis. Ex cap. 15. Exodi."
+  },
+  {
+   "scan": 220,
+   "line": 20,
+   "lines": [
+    [
+     220,
+     20
+    ],
+    [
+     220,
+     21
+    ],
+    [
+     220,
+     22
+    ]
+   ],
+   "level": 2,
+   "title": "Paraphrasis in canticum Mosis, Deuteron. xxxii. cap."
+  },
+  {
+   "scan": 226,
+   "line": 1,
+   "lines": [
+    [
+     226,
+     1
+    ],
+    [
+     226,
+     2
+    ],
+    [
+     226,
+     3
+    ],
+    [
+     226,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Idem Mosis canticum, poetica paraphrasi ab initio ad finem usque, heroicis versibus expressum."
+  },
+  {
+   "scan": 231,
+   "line": 7,
+   "lines": [
+    [
+     231,
+     7
+    ],
+    [
+     231,
+     8
+    ],
+    [
+     231,
+     9
+    ]
+   ],
+   "level": 2,
+   "title": "Canticum Annæ matris Samuelis. Ex 1. Sam. cap. 2."
+  },
+  {
+   "scan": 233,
+   "line": 14,
+   "lines": [
+    [
+     233,
+     14
+    ],
+    [
+     233,
+     15
+    ]
+   ],
+   "level": 2,
+   "title": "Canticum Esaiæ prophetæ."
+  },
+  {
+   "scan": 235,
+   "line": 1,
+   "lines": [
+    [
+     235,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Duodecim psalmi Davidis, ab anonymo quodam poeta elegantiss., vario carminum genere pene ad verbum, & admodum feliciter expressi."
+  },
+  {
+   "scan": 235,
+   "line": 5,
+   "lines": [
+    [
+     235,
+     5
+    ],
+    [
+     235,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "Psalmus I. Constat sex versibus Hebraeis, totidem Latinis."
+  },
+  {
+   "scan": 236,
+   "line": 10,
+   "lines": [
+    [
+     236,
+     10
+    ],
+    [
+     236,
+     11
+    ]
+   ],
+   "level": 3,
+   "title": "Psalmus II. Constat xii. versibus Hebraeis, totidem Latinis."
+  },
+  {
+   "scan": 237,
+   "line": 9,
+   "lines": [
+    [
+     237,
+     9
+    ],
+    [
+     237,
+     10
+    ]
+   ],
+   "level": 3,
+   "title": "Psalmus III. Constat ix. versibus, præter inscriptionem."
+  },
+  {
+   "scan": 238,
+   "line": 3,
+   "lines": [
+    [
+     238,
+     3
+    ],
+    [
+     238,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Psalmus IIII. Constat ix. versibus Hebraeis, totidem Latinis."
+  },
+  {
+   "scan": 239,
+   "line": 1,
+   "lines": [
+    [
+     239,
+     1
+    ],
+    [
+     239,
+     2
+    ],
+    [
+     239,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Psalmus V. Constat xii. versibus Hebraeis præter inscriptionem, totidem Latinis."
+  },
+  {
+   "scan": 240,
+   "line": 1,
+   "lines": [
+    [
+     240,
+     1
+    ],
+    [
+     240,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Psalmus VI. Constat x. versibus Hebraeis, totidem Latinis."
+  },
+  {
+   "scan": 241,
+   "line": 1,
+   "lines": [
+    [
+     241,
+     1
+    ],
+    [
+     241,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Psalmus CXLV. Constat 21 versibus Hebraeis, totidem Latinis."
+  },
+  {
+   "scan": 242,
+   "line": 15,
+   "lines": [
+    [
+     242,
+     15
+    ],
+    [
+     242,
+     16
+    ]
+   ],
+   "level": 3,
+   "title": "Psalmus CXLVI. Constat x. versibus Hebraeis, totidem Latinis."
+  },
+  {
+   "scan": 243,
+   "line": 15,
+   "lines": [
+    [
+     243,
+     15
+    ],
+    [
+     243,
+     16
+    ]
+   ],
+   "level": 3,
+   "title": "Psalmus CXLVII. Constat 20 versibus Hebraeis, totidem Latinis."
+  },
+  {
+   "scan": 245,
+   "line": 5,
+   "lines": [
+    [
+     245,
+     5
+    ],
+    [
+     245,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "Psalmus CXLVIII. Constat 14 versibus Hebraeis, totidem Latinis."
+  },
+  {
+   "scan": 245,
+   "line": 23,
+   "lines": [
+    [
+     245,
+     23
+    ],
+    [
+     245,
+     24
+    ]
+   ],
+   "level": 3,
+   "title": "Psalmus CXLIX. Constat ix versibus Hebraeis, totidem Latinis."
+  },
+  {
+   "scan": 246,
+   "line": 17,
+   "lines": [
+    [
+     246,
+     17
+    ],
+    [
+     246,
+     18
+    ]
+   ],
+   "level": 3,
+   "title": "Psalmus CL. Constat vi versibus Hebraeis, totidem Latinis."
+  },
+  {
+   "scan": 247,
+   "line": 18,
+   "lines": [
+    [
+     247,
+     18
+    ]
+   ],
+   "level": 2,
+   "title": "Psalmus XI."
+  },
+  {
+   "scan": 248,
+   "line": 18,
+   "lines": [
+    [
+     248,
+     18
+    ],
+    [
+     248,
+     19
+    ]
+   ],
+   "level": 2,
+   "title": "Psalmus LXXXIX. Ecclesiæ desolatæ querimonia."
+  },
+  {
+   "scan": 250,
+   "line": 22,
+   "lines": [
+    [
+     250,
+     22
+    ]
+   ],
+   "level": 2,
+   "title": "Psalmus XCI."
+  },
+  {
+   "scan": 252,
+   "line": 1,
+   "lines": [
+    [
+     252,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Psalmus CXXXVI."
+  },
+  {
+   "scan": 252,
+   "line": 13,
+   "lines": [
+    [
+     252,
+     13
+    ],
+    [
+     252,
+     14
+    ],
+    [
+     252,
+     15
+    ]
+   ],
+   "level": 2,
+   "title": "Canticum Mariæ Virginis Sanctissimæ Domini nostri Iesu Christi matris."
+  },
+  {
+   "scan": 253,
+   "line": 15,
+   "lines": [
+    [
+     253,
+     15
+    ]
+   ],
+   "level": 2,
+   "title": "Canticum Simeonis."
+  },
+  {
+   "scan": 254,
+   "line": 1,
+   "lines": [
+    [
+     254,
+     1
+    ],
+    [
+     254,
+     2
+    ],
+    [
+     254,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Idem Simeonis canticum cum paraphrasi poetica I. I. B. expressum."
+  },
+  {
+   "scan": 256,
+   "line": 1,
+   "lines": [
+    [
+     256,
+     1
+    ],
+    [
+     256,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Æquo lectori, Typographus."
+  }
+ ],
+ "book": "Selectorum carminum ex doctiss. poetis collectorum, et nunc primum in lucem editorum, Taurini 1590: a Latin poetry anthology in four books (Liber I Iberica, Liber II Guisiaca, Liber III Varia poemata, Liber IIII Cantica sacra), each a run of headed poems, epigrams, satires and hymns, with an address to the reader at the end.",
+ "series": [
+  {
+   "label": "Liber",
+   "first": "I",
+   "last": "IIII",
+   "count": 4,
+   "level": 1,
+   "found": 4
+  },
+  {
+   "label": "Satyra",
+   "first": "I",
+   "last": "III",
+   "count": 3,
+   "level": 2,
+   "found": 159
+  },
+  {
+   "label": "Psalmus",
+   "first": "I",
+   "last": "CL",
+   "count": 12,
+   "level": 3,
+   "found": 32
+  },
+  {
+   "label": "",
+   "first": "I",
+   "last": "V",
+   "count": 23,
+   "level": 3,
+   "found": 32
+  }
+ ],
+ "taste": 50,
+ "doubt": "",
+ "input": 46050,
+ "output": 63892
+}
