@@ -1,0 +1,626 @@
+{
+ "work": "W03622_Hornius_Introductio_in_Historiam_Universalem_qvae_profectioribus_Mem_1679",
+ "made": "2026-11-25T02:10:17",
+ "model": "claude-haiku-5-5",
+ "prompt": "655260ce46aa8978",
+ "candidates": 446,
+ "cost_usd": 0.01311,
+ "dropped": [],
+ "toc": [
+  {
+   "scan": 3,
+   "line": 1,
+   "lines": [
+    [
+     3,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Præfatio ad Lectorem"
+  },
+  {
+   "scan": 7,
+   "line": 1,
+   "lines": [
+    [
+     7,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Tabula introductionem historiam universalem uno quasi intuitu repræsentans"
+  },
+  {
+   "scan": 8,
+   "line": 1,
+   "lines": [
+    [
+     8,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Introductio in historiam universalem"
+  },
+  {
+   "scan": 10,
+   "line": 7,
+   "lines": [
+    [
+     10,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "Imperium Babylonicum"
+  },
+  {
+   "scan": 16,
+   "line": 2,
+   "lines": [
+    [
+     16,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Imperium Persicum"
+  },
+  {
+   "scan": 17,
+   "line": 5,
+   "lines": [
+    [
+     17,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Imperium Scythicum"
+  },
+  {
+   "scan": 19,
+   "line": 3,
+   "lines": [
+    [
+     19,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Imperium Indiæ"
+  },
+  {
+   "scan": 20,
+   "line": 2,
+   "lines": [
+    [
+     20,
+     2
+    ],
+    [
+     20,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Imperia Africana. I. Ægypti"
+  },
+  {
+   "scan": 22,
+   "line": 2,
+   "lines": [
+    [
+     22,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Imperia Africana. II. Æthiopicum"
+  },
+  {
+   "scan": 23,
+   "line": 2,
+   "lines": [
+    [
+     23,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Imperia Europæa. I. Græcorum"
+  },
+  {
+   "scan": 32,
+   "line": 1,
+   "lines": [
+    [
+     32,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Imperia Europæa. II. Romanorum"
+  },
+  {
+   "scan": 34,
+   "line": 6,
+   "lines": [
+    [
+     34,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "Historia nova sive recentior"
+  },
+  {
+   "scan": 36,
+   "line": 3,
+   "lines": [
+    [
+     36,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Scandzica"
+  },
+  {
+   "scan": 43,
+   "line": 6,
+   "lines": [
+    [
+     43,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "Ost-Gothica"
+  },
+  {
+   "scan": 44,
+   "line": 2,
+   "lines": [
+    [
+     44,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "West-Gothica"
+  },
+  {
+   "scan": 50,
+   "line": 3,
+   "lines": [
+    [
+     50,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Francica"
+  },
+  {
+   "scan": 61,
+   "line": 1,
+   "lines": [
+    [
+     61,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "Anglo-Saxonica"
+  },
+  {
+   "scan": 69,
+   "line": 1,
+   "lines": [
+    [
+     69,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "Hunnica"
+  },
+  {
+   "scan": 75,
+   "line": 1,
+   "lines": [
+    [
+     75,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "Turcica"
+  },
+  {
+   "scan": 80,
+   "line": 2,
+   "lines": [
+    [
+     80,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Tartarica"
+  },
+  {
+   "scan": 89,
+   "line": 2,
+   "lines": [
+    [
+     89,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Sclavonica"
+  },
+  {
+   "scan": 90,
+   "line": 3,
+   "lines": [
+    [
+     90,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Sarmatica"
+  },
+  {
+   "scan": 91,
+   "line": 1,
+   "lines": [
+    [
+     91,
+     1
+    ]
+   ],
+   "level": 4,
+   "title": "Bohemica"
+  },
+  {
+   "scan": 93,
+   "line": 2,
+   "lines": [
+    [
+     93,
+     2
+    ]
+   ],
+   "level": 4,
+   "title": "Polonica"
+  },
+  {
+   "scan": 98,
+   "line": 6,
+   "lines": [
+    [
+     98,
+     6
+    ]
+   ],
+   "level": 4,
+   "title": "Russica"
+  },
+  {
+   "scan": 103,
+   "line": 2,
+   "lines": [
+    [
+     103,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Æthiopica"
+  },
+  {
+   "scan": 103,
+   "line": 7,
+   "lines": [
+    [
+     103,
+     7
+    ]
+   ],
+   "level": 3,
+   "title": "Arabica"
+  },
+  {
+   "scan": 115,
+   "line": 7,
+   "lines": [
+    [
+     115,
+     7
+    ]
+   ],
+   "level": 3,
+   "title": "Africana"
+  },
+  {
+   "scan": 116,
+   "line": 1,
+   "lines": [
+    [
+     116,
+     1
+    ]
+   ],
+   "level": 4,
+   "title": "Abyssina"
+  },
+  {
+   "scan": 119,
+   "line": 2,
+   "lines": [
+    [
+     119,
+     2
+    ]
+   ],
+   "level": 4,
+   "title": "Nigritica"
+  },
+  {
+   "scan": 120,
+   "line": 2,
+   "lines": [
+    [
+     120,
+     2
+    ]
+   ],
+   "level": 4,
+   "title": "Insularum Fortunatarum"
+  },
+  {
+   "scan": 122,
+   "line": 2,
+   "lines": [
+    [
+     122,
+     2
+    ]
+   ],
+   "level": 4,
+   "title": "Congensis"
+  },
+  {
+   "scan": 124,
+   "line": 2,
+   "lines": [
+    [
+     124,
+     2
+    ]
+   ],
+   "level": 4,
+   "title": "Monomotapana"
+  },
+  {
+   "scan": 125,
+   "line": 3,
+   "lines": [
+    [
+     125,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Indica"
+  },
+  {
+   "scan": 126,
+   "line": 1,
+   "lines": [
+    [
+     126,
+     1
+    ]
+   ],
+   "level": 4,
+   "title": "Regnum Kunkam"
+  },
+  {
+   "scan": 127,
+   "line": 4,
+   "lines": [
+    [
+     127,
+     4
+    ]
+   ],
+   "level": 4,
+   "title": "Regnum Malabar"
+  },
+  {
+   "scan": 128,
+   "line": 2,
+   "lines": [
+    [
+     128,
+     2
+    ]
+   ],
+   "level": 4,
+   "title": "Regna Narsingæ"
+  },
+  {
+   "scan": 129,
+   "line": 1,
+   "lines": [
+    [
+     129,
+     1
+    ]
+   ],
+   "level": 4,
+   "title": "Regnum Pegu"
+  },
+  {
+   "scan": 129,
+   "line": 6,
+   "lines": [
+    [
+     129,
+     6
+    ]
+   ],
+   "level": 4,
+   "title": "Regnum Javæ"
+  },
+  {
+   "scan": 130,
+   "line": 1,
+   "lines": [
+    [
+     130,
+     1
+    ]
+   ],
+   "level": 4,
+   "title": "Regnum Zeilon"
+  },
+  {
+   "scan": 130,
+   "line": 6,
+   "lines": [
+    [
+     130,
+     6
+    ]
+   ],
+   "level": 4,
+   "title": "Regna aliarum insularum"
+  },
+  {
+   "scan": 131,
+   "line": 2,
+   "lines": [
+    [
+     131,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Cataica"
+  },
+  {
+   "scan": 131,
+   "line": 7,
+   "lines": [
+    [
+     131,
+     7
+    ]
+   ],
+   "level": 4,
+   "title": "Sinensis"
+  },
+  {
+   "scan": 133,
+   "line": 5,
+   "lines": [
+    [
+     133,
+     5
+    ]
+   ],
+   "level": 4,
+   "title": "Coreana"
+  },
+  {
+   "scan": 134,
+   "line": 2,
+   "lines": [
+    [
+     134,
+     2
+    ]
+   ],
+   "level": 4,
+   "title": "Japonica"
+  },
+  {
+   "scan": 135,
+   "line": 2,
+   "lines": [
+    [
+     135,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Occidentalis sive Americana"
+  },
+  {
+   "scan": 143,
+   "line": 3,
+   "lines": [
+    [
+     143,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Australis"
+  },
+  {
+   "scan": 146,
+   "line": 1,
+   "lines": [
+    [
+     146,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Index"
+  },
+  {
+   "scan": 169,
+   "line": 1,
+   "lines": [
+    [
+     169,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Errata"
+  }
+ ],
+ "book": "Georgius Horn, Introductio in Historiam Universalem (Gotha, Reyher, 1679): a single work of front matter (preface, synoptic table), then canons with explanations divided into ancient and recent history by empire and nation, closing with an index and errata.",
+ "series": [
+  {
+   "label": "Imperia Africana",
+   "first": "I. Ægypti",
+   "last": "II. Æthiopicum",
+   "count": 2,
+   "level": 2,
+   "found": 9
+  },
+  {
+   "label": "Imperia Europæa",
+   "first": "I. Græcorum",
+   "last": "II. Romanorum",
+   "count": 2,
+   "level": 2,
+   "found": 9
+  }
+ ],
+ "taste": 50,
+ "doubt": "",
+ "input": 47335,
+ "output": 7886
+}
