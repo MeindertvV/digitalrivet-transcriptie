@@ -51730,6 +51730,12 @@
    "model": "subscription/claude-haiku-5-5",
    "number": "169",
    "running_head": "PROMISSIS EVANGELICIS.",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: quate-"
+    }
+   ],
    "lines": [
     {
      "n": 1,
@@ -51891,11 +51897,6 @@
      "n": 32,
      "text": "& per se hortari, sed per concomitantiam,",
      "heading": 0
-    },
-    {
-     "n": 33,
-     "text": "quate-",
-     "heading": 0
     }
    ],
    "marginalia": [
@@ -51907,17 +51908,187 @@
      "text": "Vindic gras.[?]"
     }
    ],
+   "catchword": "quate-",
    "notes": "The marginal note \"Vindic gras.\" is read as printed, with doubt on its abbreviation. The first line starts mid-word (\"mo\"), kept as a fragment. Long s rendered as plain s throughout. The printed \"quibusj\" is read as \"quibus;\". The name \"PembcOxoniensis\" is copied as printed. The scribbled marks in the lower right margin are not printed text and are omitted."
   },
   {
    "n": 288,
-   "type": "missing",
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "number": "170",
+   "running_head": "Exod. 2. C. 2. Deum sub finem[?]",
    "warnings": [
     {
-     "type": "missing_page",
-     "text": "page 288 was not transcribed: invalid XML: not well-formed (invalid token): line 12, column 0"
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: audi-"
     }
-   ]
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "quatenus electis externa societate permiscen-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "tur, ideoque sicut natura pluviarum demissio-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "ne fatorum, non rupium intendit irrigatio-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "nem, ita Deum, ut electi praecipue obe-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "diant & salventur; hortari omnes in ecclesia,",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "non reproborum causa: sed hi aliquid dicunt:",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "verbum enim praecipue mittitur ad electos.",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "Hinc epistolae <i>Paulinae</i> inscribuntur, sanctis,",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "dilectis, vocatis, sanctificatis, fidelibus fra-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "tribus: Et si quis est coetus, in quo nemo est",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "electus, videtur quod Christus candelam suam,",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "qua aes amissum quaereret, non esset ibi accen-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "surus. Sed hi omnem veritatem non assequun-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "tur: non enim casu, sed certo fine, Deus se-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "men curat spargendum in corda saxea: quae-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "stio enim manet, quo fine Deus hortetur re-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "probos electis commixtos, nec enim casu hoc",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "est factum, sed Dei consilio. Quid si hic pia",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "ignorantia exclamaremus cum <i>Paulo? O alti-</i>",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "<i>tudo &c. Rom. 11.</i> Ille enim illic disputat de",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "externa <i>Judæorum</i> vocatione, inter quos soli",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "electi assequuti sunt promissiones, reliqui oc-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "calluerunt.",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "14. Satis nobis est, posthabito fine <i>Armi-</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 25,
+     "text": "<i>niano</i>, quod nempe Deus reproborum obe-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "dientiam intendat, cum scripturis dicere, De-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "um ipsos hortari, ut inexcusabiles sint, <i>Act. 13,</i>",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "<i>46.</i> Poni Christum ut sit signum contradi-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "ctionis, <i>Luc. 2. 34.</i> Lapis & Petra offensio-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "nis <i>1. Pet. 2. 7, 8.</i> ut sciant inter ipsos fuisse",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "Prophetam, <i>Ezech. 2. 5.</i> ut sit iis in testimo-",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "nium, <i>Matt. 24. 14.</i> ut judicentur secundum",
+     "heading": 0
+    }
+   ],
+   "catchword": "audi-",
+   "notes": "The running head is uncertain: it reads roughly as \"Exod. 2. C. 2. Deum sub finem\" and is marked [?]. Hyphenated line-end words are kept with their printed hyphens. Long s and u/v are normalised as instructed. Several italic citations are inferred from the typeface. The last line of the page ends in \"audi-\", a hyphenated break carried over to the next page."
   },
   {
    "n": 289,
