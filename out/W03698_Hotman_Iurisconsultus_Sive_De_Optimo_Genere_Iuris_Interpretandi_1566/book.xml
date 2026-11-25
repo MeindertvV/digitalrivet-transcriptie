@@ -224,8 +224,13 @@
     </main_text>
     <notes>Two small ornaments (asterisk-like marks) below the text and a few specks on the page were not transcribed; they are not printed words. The first word of the page is written "Urothum" for the printed "Vurothum", following the u/v rule. "amplitudinem" is split across a line end in the scan with no clearly visible hyphen; it is written whole. The date line is copied as printed, with spaces and stops.</notes>
   </page>
-  <page type="missing" n="8">
-    <warning type="missing_page">page 8 was not transcribed: no &lt;page&gt;...&lt;/page&gt; in response</warning>
+  <page type="text" lines="none" n="8" model="subscription/claude-haiku-5-5">
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One block of running text in the centre-left of the page, about 30 faint lines. No margin notes, headings, or footnotes can be made out.</layout>
+    <main_text>
+      <l n="1" para="true">[illegible, ~400 letters]</l>
+    </main_text>
+    <notes>The scan is very faded and low in contrast. The text block shows only faint horizontal lines, and no individual word can be read with confidence, so nothing has been transcribed. The placeholder above stands for the whole block. No page number, running head, catchword, or signature is legible. The large pale blotches and spots are stains or show-through and have been left out. A higher-resolution or better-contrast scan of this page would allow a real transcription.</notes>
   </page>
   <page type="text" lines="ocr" n="9" model="subscription/claude-haiku-5-5">
     <layout>One column of running text, with a large woodcut initial at the start. Above the column, a centred title in capitals and italic, two lines long. A library stamp overlaps the right end of the title and is left out. No margin notes. No page number, running head or catchword. A signature mark stands at the foot.</layout>
@@ -6827,6 +6832,7 @@
     <notes>Running head is in a decorative face and could not be read. Line break "Decemui / ri" has no printed hyphen, so it is written whole as Decemviri. The Greek phrase "ὄνοι λύϱας" is doubtful, and the abbreviated mark after "ň," is unclear. "intellígiq," is uncertain. The paragraph "Partitio § Gallus." is treated as a level-2 heading. The catchword "Siue" is at the bottom right.</notes>
   </page>
   <page type="text" lines="ocr" n="219" model="subscription/claude-haiku-5-5">
+    <warning type="catchword_in_text">catchword taken out of the main text: EO</warning>
     <layout>One column of text with side-notes in the right margin. Running head at top, page number at top right.</layout>
     <page_number>205</page_number>
     <running_head>IN L. GALLVS</running_head>
@@ -6858,7 +6864,7 @@
       <l n="21">lum existimasse &amp; deprone-</l>
       <l n="22">pote:ut dicat testator,SI ME</l>
       <l n="23">VIVO NEPOS DECE-</l>
-      <l n="24">DAT, TVNC QVI EX EO</l>
+      <l n="24">DAT, TVNC QVI EX</l>
     </main_text>
     <marginalia>
       <note side="right" at="Idem credendum est" line_from="20" line_to="20">«</note>
@@ -6868,9 +6874,46 @@
       <note side="right" at="Idem credendum est" line_from="20" line_to="20">«</note>
     </marginalia>
     <notes>Right margin: five printed double-guillemet marks («) beside the lines "Idem", "pote:ut", "VIVO", "DAT" and "EO"; a decorative ring ornament sits beside "DECE-". Small printed mark after "EO" ignored. "Recte" is uncertain (the first letters are blurred). The line "EO" is the last line of the page, so the paragraph continues on the next page. Lead-ins in italics are marginal-style run-in labels set within the column. Long s is replaced by s throughout; "existimasse" and "uterq;" are as printed.</notes>
+    <bottom_margin>
+      <catchword>EO</catchword>
+    </bottom_margin>
   </page>
-  <page type="missing" n="220">
-    <warning type="missing_page">page 220 was not transcribed: invalid XML: junk after document element: line 11, column 0</warning>
+  <page type="text" lines="ocr" n="220" model="subscription/claude-haiku-5-5">
+    <layout>One page of text, printed page 106. Running text in one column with a quotation in roman type. A marginal note at the left ("nepo-te."). Below the text, a centred italic heading, then a paragraph in smaller type that forms a commentary below the main text. A catchword at the lower right. A signature at the lower left.</layout>
+    <page_number>106</page_number>
+    <running_head>[illegible, ~12 letters]</running_head>
+    <bottom_margin>
+      <catchword>aut</catchword>
+      <signature>Cc 4</signature>
+    </bottom_margin>
+    <main_text>
+      <l n="1" para="true">"EO PRONEPOS, &amp;c. Sed</l>
+      <l n="2">etsi uiuo filio, iam mortuo {*}pro</l>
+      <l n="3">nepote, cuius uxor prægnas</l>
+      <l n="4">essèt, testamentum faceret, p o</l>
+      <l n="5">test dicere, SI ME VIVO</l>
+      <l n="6">FILIVS DECEDAT,</l>
+      <l n="7">TVNC QVI PRONEPOS.</l>
+      <l n="8">Num si &amp; filius &amp; nepos</l>
+      <l n="9">uiuat, concipere utriusque mor-</l>
+      <l n="10">tuis, uiuo se, tunc qui prone-</l>
+      <l n="11">pos nasceretur? quod simili-</l>
+      <l n="12">ter admittendum est. ita safe</l>
+      <l n="13">nè, si prius nepos, deinde fi-</l>
+      <l n="14">lius decederet, ne successio-</l>
+      <l n="15">ne testamentum rumperetur."</l>
+      <l n="16" type="heading" level="2" para="true">
+        <i>Interpretatio Grammatica.</i>
+      </l>
+      <l n="17" type="foot" para="true">Idem credendum est.) Tres proponit</l>
+      <l n="18" type="foot">casus, quibus institui pronepos possit,</l>
+      <l n="19" type="foot">ad quos hanc pertinere formulam de-</l>
+      <l n="20" type="foot">monstrat: cum aut filio mortuo nepos,</l>
+    </main_text>
+    <marginalia>
+      <note letter="*" side="left" at="Sed etsi uiuo" line_from="1" line_to="1">nepo-te.</note>
+    </marginalia>
+    <notes>Printed line-initial quotation marks (») were not all reliably legible; the passage is given as one paragraph. The word "safe" is a printed line-end form of "sa-nè", with the hyphen before "nè" lost in the scan; check against the original. "essèt" and "testamentum" have a printed accent or tilde; read as the scan shows. The "p o test" spacing is as printed. The running head is too faint to read. The small circled symbol in the left margin beside the commentary is a printer's mark and was not transcribed. The catchword "aut" is printed at the lower right and was not repeated in the text. The signature "Cc 4" is partly obscured.</notes>
   </page>
   <page type="text" lines="ocr" n="221" model="subscription/claude-haiku-5-5">
     <layout>One page of running text in a single column, with run-in italic lemmas at the start of several paragraphs, a centred small title "Partitio." between the paragraphs, and a catchword at the lower right. No marginal notes.</layout>
@@ -12720,6 +12763,7 @@
     <notes>Reference marks (blue underlined or blue dotted numbers, such as 164.165, 297 and 129.130) are printed in the index and are copied as they stand; no marks are placed in curly braces because they are not mark letters in the text. The left column is cut off after "in-"; the entry continues on the other part of the scan. The letters O and P are printed as column headings. Left column is visible only from "troducta" down; its upper lines are not on this part of the scan. Doubtful: "troducta" first letter, "ii" for the numeral before "Philosophia duplex", and "uls" in the potestas entry.</notes>
   </page>
   <page type="contents" list="index" n="367" model="subscription/claude-haiku-5-5">
+    <warning type="catchword_in_text">catchword taken out of the main text: reticentiæ</warning>
     <layout>One column of index entries, running head at the top.; One column of index entries in alphabetical order, with page numbers at the right. Section letters (E X, Q, R) stand as their own lines. Continuation lines are indented. Catchword at bottom right.</layout>
     <running_head>I N D</running_head>
     <main_text>
@@ -12766,12 +12810,61 @@
       <l>recte dari, esse, licere, fie-ri, &amp;c. 298</l>
       <l>reipublicæ Romanæ be-ne constitutæ sex artes 10.13[?]</l>
       <l>responsorum olim quanta fuerit autoritas 58, 59</l>
-      <catchword>reticentiæ</catchword>
     </main_text>
     <notes>Blue marks beside several page numbers are handwriting and are not transcribed. "10.13" for the number after "sex artes" is uncertain. "ductu" is partly unclear in the scan. The first entry continues from the previous page.</notes>
+    <bottom_margin>
+      <catchword>reticentiæ</catchword>
+    </bottom_margin>
   </page>
-  <page type="missing" n="368">
-    <warning type="missing_page">page 368 was not transcribed: invalid XML: no element found: line 42, column 7</warning>
+  <page type="contents" list="index" n="368" model="subscription/claude-haiku-5-5">
+    <layout>One column of index entries on the right side of the page, with the running head "I N D" at the top right. Each entry is a line with its page reference at the far right. A section letter "S" stands alone between entries. The rest of the page is cut off.; One column of index entries, with page numbers at the right of each entry, under the letter heading "E X." at the top. Catchword and signature at the foot on the left and right.</layout>
+    <running_head>I N D</running_head>
+    <bottom_margin>
+      <catchword>Venditio-</catchword>
+      <signature>Z 3</signature>
+    </bottom_margin>
+    <main_text>
+      <l>reticentiæ pœna uendito ribus à Iurisconsultis constituta 33</l>
+      <l>rescribi quid 298</l>
+      <l>Romani præ cæteris, stu-dio administrandæ rei pub. olim maximè intenti ac dediti 9</l>
+      <l>Romani simul ut uelle cœperant, omnia poterant consequi 18</l>
+      <l>Romani non quemcunq; sed amplißimos quosque &amp; clarissimos uiros, &amp; iuri dicundo præficiebant 19.38</l>
+      <l>Romanorum generosißimus quisq; ā medicinæ studio abhorrebat 15</l>
+      <l>S</l>
+      <l>Seruitutis hostium &amp; mortis eadem ratio 215</l>
+      <l>Scripti et uoluntatis quæstio 178.179.180</l>
+      <l>scriptura ad numerationem pecuniæ antecedit 297</l>
+      <l>soluere et satisfacere quo modo differant 299</l>
+      <l>E X.</l>
+      <l>Spartam suam adornares</l>
+      <l>status negocialis 31</l>
+      <l>Summum ius summa iniu-</l>
+      <l>ria 304</l>
+      <l>Suus hæres quis 244 cur</l>
+      <l>dicatur. ibid. duobus</l>
+      <l>modis fit. ibid.</l>
+      <l>Suus hæres qui efficiatur</l>
+      <l>207 tribus temporib.</l>
+      <l>efficitur 275</l>
+      <l>Suus hæres etiam neccs-</l>
+      <l>farius est 291</l>
+      <l>Synthesis quid. 64. 65.</l>
+      <l>66.67.68.69</l>
+      <l>T</l>
+      <l>Testamenta rata confer-</l>
+      <l>vanda 272</l>
+      <l>Testamentum agnatione sui præteriti rumpi-</l>
+      <l>tur 249</l>
+      <l>Testatoris voluntas ex quibus æstimānda 168.</l>
+      <l>172</l>
+      <l>Tignum iniunctum quid</l>
+      <l>148.149</l>
+      <l>Tutela quid 81</l>
+      <l>Tutela tantum in liberis personis datur 81</l>
+      <l>Tutor non bonis, sed per</l>
+      <l>sonæ datur 82</l>
+    </main_text>
+    <notes>The page continues beyond this part, so the last entries may be incomplete. Several long s characters were written as plain s, as the rules require. Two readings are less certain: "rescribi" (printed "refcribi") and "dediti", which are copied as they appear on the scan. The entries are short index lines; hyphens at line ends are printed. Some page numbers are underlined in the print and are copied as they appear.</notes>
   </page>
   <page type="contents" list="index" lines="ocr" n="369" model="subscription/claude-haiku-5-5">
     <layout>One column of index entries under the heading "I N D" with the letter "V" beneath it, running down the right side of the page. "F I N" closes the column at the right, below the last entry.; One column of index entries, from top to bottom, under the letter heading "E X."; below them the letter heading "I S.".</layout>

@@ -675,13 +675,23 @@
   },
   {
    "n": 8,
-   "type": "missing",
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
    "warnings": [
     {
-     "type": "missing_page",
-     "text": "page 8 was not transcribed: no <page>...</page> in response"
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
     }
-   ]
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "[illegible, ~400 letters]",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "notes": "The scan is very faded and low in contrast. The text block shows only faint horizontal lines, and no individual word can be read with confidence, so nothing has been transcribed. The placeholder above stands for the whole block. No page number, running head, catchword, or signature is legible. The large pale blotches and spots are stains or show-through and have been left out. A higher-resolution or better-contrast scan of this page would allow a real transcription."
   },
   {
    "n": 9,
@@ -24781,6 +24791,12 @@
    "model": "subscription/claude-haiku-5-5",
    "number": "205",
    "running_head": "IN L. GALLVS",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: EO"
+    }
+   ],
    "lines": [
     {
      "n": 1,
@@ -24905,7 +24921,7 @@
     },
     {
      "n": 24,
-     "text": "DAT, TVNC QVI EX EO",
+     "text": "DAT, TVNC QVI EX",
      "heading": 0
     }
    ],
@@ -24946,17 +24962,133 @@
      "text": "«"
     }
    ],
+   "catchword": "EO",
    "notes": "Right margin: five printed double-guillemet marks («) beside the lines \"Idem\", \"pote:ut\", \"VIVO\", \"DAT\" and \"EO\"; a decorative ring ornament sits beside \"DECE-\". Small printed mark after \"EO\" ignored. \"Recte\" is uncertain (the first letters are blurred). The line \"EO\" is the last line of the page, so the paragraph continues on the next page. Lead-ins in italics are marginal-style run-in labels set within the column. Long s is replaced by s throughout; \"existimasse\" and \"uterq;\" are as printed."
   },
   {
    "n": 220,
-   "type": "missing",
-   "warnings": [
+   "type": "text",
+   "model": "subscription/claude-haiku-5-5",
+   "number": "106",
+   "running_head": "[illegible, ~12 letters]",
+   "lines": [
     {
-     "type": "missing_page",
-     "text": "page 220 was not transcribed: invalid XML: junk after document element: line 11, column 0"
+     "n": 1,
+     "text": "\"EO PRONEPOS, &c. Sed",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "etsi uiuo filio, iam mortuo {*}pro",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "nepote, cuius uxor prægnas",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "essèt, testamentum faceret, p o",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "test dicere, SI ME VIVO",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "FILIVS DECEDAT,",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "TVNC QVI PRONEPOS.",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "Num si & filius & nepos",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "uiuat, concipere utriusque mor-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "tuis, uiuo se, tunc qui prone-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "pos nasceretur? quod simili-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "ter admittendum est. ita safe",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "nè, si prius nepos, deinde fi-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "lius decederet, ne successio-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "ne testamentum rumperetur.\"",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "<i>Interpretatio Grammatica.</i>",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 17,
+     "text": "Idem credendum est.) Tres proponit",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 18,
+     "text": "casus, quibus institui pronepos possit,",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "ad quos hanc pertinere formulam de-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "monstrat: cum aut filio mortuo nepos,",
+     "heading": 0
     }
-   ]
+   ],
+   "marginalia": [
+    {
+     "letter": "*",
+     "side": "left",
+     "at": "Sed etsi uiuo",
+     "line_from": 1,
+     "line_to": 1,
+     "text": "nepo-te."
+    }
+   ],
+   "catchword": "aut",
+   "signature": "Cc 4",
+   "notes": "Printed line-initial quotation marks (») were not all reliably legible; the passage is given as one paragraph. The word \"safe\" is a printed line-end form of \"sa-nè\", with the hyphen before \"nè\" lost in the scan; check against the original. \"essèt\" and \"testamentum\" have a printed accent or tilde; read as the scan shows. The \"p o test\" spacing is as printed. The running head is too faint to read. The small circled symbol in the left margin beside the commentary is a printer's mark and was not transcribed. The catchword \"aut\" is printed at the lower right and was not repeated in the text. The signature \"Cc 4\" is partly obscured."
   },
   {
    "n": 221,
@@ -46959,6 +47091,12 @@
    "type": "contents",
    "model": "subscription/claude-haiku-5-5",
    "running_head": "I N D",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: reticentiæ"
+    }
+   ],
    "lines": [
     {
      "n": null,
@@ -47176,17 +47314,214 @@
      "heading": 0
     }
    ],
+   "catchword": "reticentiæ",
    "notes": "Blue marks beside several page numbers are handwriting and are not transcribed. \"10.13\" for the number after \"sex artes\" is uncertain. \"ductu\" is partly unclear in the scan. The first entry continues from the previous page."
   },
   {
    "n": 368,
-   "type": "missing",
-   "warnings": [
+   "type": "contents",
+   "model": "subscription/claude-haiku-5-5",
+   "running_head": "I N D",
+   "lines": [
     {
-     "type": "missing_page",
-     "text": "page 368 was not transcribed: invalid XML: no element found: line 42, column 7"
+     "n": null,
+     "text": "reticentiæ pœna uendito ribus à Iurisconsultis constituta 33",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "rescribi quid 298",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Romani præ cæteris, stu-dio administrandæ rei pub. olim maximè intenti ac dediti 9",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Romani simul ut uelle cœperant, omnia poterant consequi 18",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Romani non quemcunq; sed amplißimos quosque & clarissimos uiros, & iuri dicundo præficiebant 19.38",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Romanorum generosißimus quisq; ā medicinæ studio abhorrebat 15",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "S",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Seruitutis hostium & mortis eadem ratio 215",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Scripti et uoluntatis quæstio 178.179.180",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "scriptura ad numerationem pecuniæ antecedit 297",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "soluere et satisfacere quo modo differant 299",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "E X.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Spartam suam adornares",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "status negocialis 31",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Summum ius summa iniu-",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "ria 304",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Suus hæres quis 244 cur",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "dicatur. ibid. duobus",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "modis fit. ibid.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Suus hæres qui efficiatur",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "207 tribus temporib.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "efficitur 275",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Suus hæres etiam neccs-",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "farius est 291",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Synthesis quid. 64. 65.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "66.67.68.69",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "T",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Testamenta rata confer-",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "vanda 272",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Testamentum agnatione sui præteriti rumpi-",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "tur 249",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Testatoris voluntas ex quibus æstimānda 168.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "172",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Tignum iniunctum quid",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "148.149",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Tutela quid 81",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Tutela tantum in liberis personis datur 81",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Tutor non bonis, sed per",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "sonæ datur 82",
+     "heading": 0
     }
-   ]
+   ],
+   "catchword": "Venditio-",
+   "signature": "Z 3",
+   "notes": "The page continues beyond this part, so the last entries may be incomplete. Several long s characters were written as plain s, as the rules require. Two readings are less certain: \"rescribi\" (printed \"refcribi\") and \"dediti\", which are copied as they appear on the scan. The entries are short index lines; hyphens at line ends are printed. Some page numbers are underlined in the print and are copied as they appear."
   },
   {
    "n": 369,
