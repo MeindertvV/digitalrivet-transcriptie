@@ -1,0 +1,8 @@
+<page type="text">
+  <layout>One column of italic text. Above it, a centred heading "PRÆFATIO." No margin notes, no running head, no page number, no catchword.</layout>
+  <main_text>
+    <head level="1">PRÆFATIO.</head>
+    <p cont="true"><i>id verò justi voluminis &amp; magni est. Qua in re optandum est, non ut Theologi orthodo-xi infestis scriptis inter se con-currant, se convitiis, &amp; calum-niis invicem petant; insidias alii aliis struant; scripta, dicta, facta, sententias, consilia affin-gant innocenti, quæ ei nunquam vel per febrim aut somnium in mentem venerunt; &amp; dira quæ-vis per inauditam malitiam contra eum moliantur: sed ut conjunctis operis &amp; animis inter se conveniant; &amp; omnia, quæ ad hanc rem faciunt in unum a-liquod corpus re tota benè ex-pensa</i></p>
+  </main_text>
+  <notes>The whole passage is set in italic and is wrapped in one &lt;i&gt; element. The first word "id" is a fragment continuing from the previous page, so the paragraph is marked cont="true". The printed accents on verò and benè are kept as printed. The Digitized by Google watermark in the lower right corner is left out. No page number, running head, catchword or signature is printed on this page.</notes>
+</page>
