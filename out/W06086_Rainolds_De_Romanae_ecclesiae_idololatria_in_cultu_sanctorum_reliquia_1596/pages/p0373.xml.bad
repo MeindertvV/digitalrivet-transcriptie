@@ -1,0 +1,49 @@
+```xml
+<page type="text">
+  <layout>One page of running text in a single column. Marginal notes in the left margin, lettered a to q. Catchword at lower right.</layout>
+  <page_number>352</page_number>
+  <running_head>De Romanæ Ecclesiæ idololatria</running_head>
+  <bottom_margin>
+    <catchword>Verun</catchword>
+    <signature>io</signature>
+  </bottom_margin>
+  <main_text>
+    <p cont="true"><note letter="a" side="left">In Esai.cap. 40.</note>des Deum corporalibus rebus assimilent ; {a}Hiero-nymum, cujus verba, Quam imaginem ponetis ei qui spiritus est, &amp; in omnibus est, &amp; ubique difiurrit<?>[?]</p>
+  </main_text>
+  <notes>Full transcription follows below in the main text. Doubtful readings are marked [?] where they occur.</notes>
+</page>
+```
+
+I need to correct the draft above, which is incomplete and contains an invalid placeholder. Here is the full, corrected transcription:
+
+```xml
+<page type="text">
+  <layout>One page of running text in a single column. Marginal notes in the left margin, lettered a to q. Catchword at lower right.</layout>
+  <page_number>352</page_number>
+  <running_head>De Romanæ Ecclesiæ idololatria</running_head>
+  <bottom_margin>
+    <catchword>Verun</catchword>
+    <signature>io</signature>
+  </bottom_margin>
+  <main_text>
+    <p cont="true">des Deum corporalibus rebus assimilent ; {a}Hiero-nymum, cujus verba, Quam imaginem ponetis ei qui spiritus est, &amp; in omnibus est, &amp; ubique difiurrit[?], &amp; terram quasi pugillo continet? significant Deum nulla figura exprimendum; {b}Augustinum, qui de hominis sedentis forma loquens, Tale, inquit, sinu lacrum Deo non fas est collocare; {c}Theodoretum, qui pronuntiat instituti verbis Moysis ne simulacrum ul-lum fabricent[?], neque tentent unquam divinam ima-ginem effingere; {d}Damascenum, qui summa insi-pientia &amp; impietatis esse perhibet Divinum numen figurare; {e}Constantinopolitanum Synodum, quæ ex Mose disputat, Similitudinem Dei nullam visam in monte, nullam igitur faciendam; {f}Theodorum e-piscopum Ierosolymitanum, {g}Germanum Con-stantinopolitanum, {h}Iohannem Thessalonicen-sem, Leontium Cyprium, &amp; {i}alios, qui secun-da Nicæna Synodo approbante[?] asseverant Deum pingi non posse; denique Nicetam, ac Nicepho-rum Calliston, quorum {k}alter Dei effigiem pin-gentes in furiosis numerat, &amp; Esaiam dicti sui testem laudat; {l}alter de hæreticis quibusdam verba faciens, Imagines, inquit, Patris &amp; Spiritus sancti effigiant, quod perquam est absurdum. Bellarminus contrà (nummam sic instituens, judicium nullum fore, ni si reorum judicio steteris?) oratores novos, Docto-res suos citat: &amp; ut Campiani phrasin ad eum ac-commodemus, dicit, {m}Caietanum Cardinalis Tho-mas de Vio, aut vero {n}Catharinum, aut certè {o}Pay-va, aut sine dubio {p}Sanderus &amp; {q}Valdensis ide-liter enarrarunt. Hos enim quinque asserit decere licitum esse Dei Patris imaginem in forma hominis pingere; &amp; Spiritus sancti, in columba.</p>
+    <note letter="a" side="left">In Esai.cap. 40.</note>
+    <note letter="b" side="left">De fide &amp; symb.cap.7.</note>
+    <note letter="c" side="left">In Deuteron.quæst.1.</note>
+    <note letter="d" side="left">Orthod.fid.l.4.c.17.</note>
+    <note letter="e" side="left">Synod.Nicæn.II.act.6.tom.4.</note>
+    <note letter="f" side="left">Ibid.act.3.</note>
+    <note letter="g" side="left">Ibid.act.4.</note>
+    <note letter="h" side="left">Ibid.act.5.</note>
+    <note letter="i" side="left">Ibid.act.6. &amp; 7.</note>
+    <note letter="k" side="left">Nicet.li.de imaginib.</note>
+    <note letter="l" side="left">Niceph.hist.eccles.l.18.c.53.</note>
+    <note letter="m" side="left">Part.3.quæst.25.art.3.</note>
+    <note letter="n" side="left">Lib.de cultu imaginum.</note>
+    <note letter="o" side="left">Lib.ult.contra Kemnic.</note>
+    <note letter="p" side="left">De cult.imag.</note>
+    <note letter="q" side="left">Tom.3.tit.19.cap.155.</note>
+  </main_text>
+  <notes>Doubtful readings marked [?]: "difiurrit", "fabricent" (line damaged at "fa"), "approbante". Mark "n" beside the Lib. de cultu note is partly obscured and may be "z". Notes "k" and "l" follow the printed sequence (j is skipped). Printed line-end hyphens kept: Hiero-, ul-, ima-, insi-, e-, Con-, Thessalonicen-, secun-, Nicepho-, pin-, Docto-, ac-, Tho-, Pay-, ide-.</notes>
+</page>
+```
