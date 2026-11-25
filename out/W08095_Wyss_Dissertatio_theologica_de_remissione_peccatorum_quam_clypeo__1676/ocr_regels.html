@@ -1,0 +1,688 @@
+<!doctype html><meta charset=utf-8><meta name=viewport content='width=device-width,initial-scale=1'><title>OCR per regel</title><style>
+:root{--bg:#fffdf8;--ink:#2a241c;--muted:#857a69;--rule:#e4dccc;--goed:#2f7d32;--redelijk:#a07000;
+--afwijkend:#b3261e;--geen:#7a5aa8;--mark:#f7d77a}
+@media (prefers-color-scheme:dark){:root{--bg:#1f1b15;--ink:#e9e1d2;--muted:#9a8f7d;--rule:#383126;
+--goed:#7cc47f;--redelijk:#e0b54a;--afwijkend:#f08a80;--geen:#b9a0e0;--mark:#6b5414}}
+body{font:15px/1.45 Georgia,serif;max-width:1300px;margin:2em auto;padding:0 16px;color:var(--ink);background:var(--bg)}
+h1{font-size:1.4em} h3{margin:1.6em 0 .3em;font-size:1.05em} a{color:inherit}
+table{border-collapse:collapse;width:100%} td,th{border-bottom:1px solid var(--rule);padding:3px 6px;vertical-align:top;text-align:left}
+th{font:600 12px system-ui;color:var(--muted)} td.n,td.s{font:12px system-ui;white-space:nowrap;color:var(--muted)}
+td.s{text-align:right;font-weight:600} td.o{font-family:ui-monospace,monospace;font-size:13px;color:var(--muted)}
+tr.goed td.s{color:var(--goed)} tr.redelijk td.s{color:var(--redelijk)} tr.afwijkend td.s{color:var(--afwijkend)}
+tr.geen td.s{color:var(--geen)} tr.alleen td.s{color:var(--afwijkend)} td.gap{color:var(--muted);font-style:italic}
+tr.afwijkend td:first-child,tr.geen td:first-child,tr.alleen td:first-child{box-shadow:inset 3px 0 var(--afwijkend)}
+mark{background:var(--mark);color:inherit;border-radius:2px} .sum span{margin-right:1.4em;font:13px system-ui}
+.bar{display:flex;height:8px;border-radius:4px;overflow:hidden;margin:.5em 0 1em;max-width:600px}
+.bar i{display:block} p.no{color:var(--muted);font-style:italic}
+label{font:13px system-ui;color:var(--muted)} body.weak tr.goed,body.weak tr.redelijk{display:none}
+body.weak section:not(:has(tr.afwijkend,tr.geen,tr.alleen)){display:none}
+</style>
+<h1>OCR per regel: W08095_Wyss_Dissertatio_theologica_de_remissione_peccatorum_quam_clypeo__1676</h1>
+<p>22 scans met tekst, 21 met bruikbare OCR, waarvan 0 waar de OCR de pagina slecht volgt. 585 regels vergeleken, gemiddelde overeenkomst 90%.</p>
+<div class=bar><i style='width:79.31623931623932%;background:var(--goed)' title='goed: 464'></i><i style='width:18.632478632478634%;background:var(--redelijk)' title='redelijk: 109'></i><i style='width:0.5128205128205128%;background:var(--afwijkend)' title='afwijkend: 3'></i><i style='width:1.5384615384615385%;background:var(--geen)' title='geen: 9'></i></div>
+<p class=sum><span style='color:var(--goed)'>goed: 464</span><span style='color:var(--redelijk)'>redelijk: 109</span><span style='color:var(--afwijkend)'>afwijkend: 3</span><span style='color:var(--geen)'>geen: 9</span><span>OCR-regels zonder transcriptie: 2</span></p>
+<label><input type=checkbox onchange="document.body.classList.toggle('weak',this.checked)"> alleen afwijkende regels</label>
+<section><h3><a href='file:///tmp/pdfs/W08095_Wyss_Dissertatio_theologica_de_remissione_peccatorum_quam_clypeo__1676.pdf#page=2' target=_blank>scan 2</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=redelijk><td class=n>1</td><td>DISSERTATIO <mark>THEOLOGICA</mark></td><td class=o>DISSERTATIO</td><td class=s>69%</td></tr>
+<tr><td class=n>2</td><td>De</td><td class=o></td><td class=s></td></tr>
+<tr class=goed><td class=n>3</td><td>REMISSIONE</td><td class=o>REMISSIONE</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>4</td><td>PECCATORUM.</td><td class=o>PECCATORUM.</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>5</td><td><mark>Quam</mark></td><td class=o><mark>£ &gt;uam</mark></td><td class=s>86%</td></tr>
+<tr class=redelijk><td class=n>6</td><td>Bono <mark>cum DEO</mark></td><td class=o>Bono</td><td class=s>57%</td></tr>
+<tr class=goed><td class=n>7</td><td>Clypeo</td><td class=o>Clypeo</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>8</td><td>Reverendi, Clarissimi, Doctissimi Viri.</td><td class=o>Reverendi <mark>-</mark> Clarißimi <mark>.</mark> Doctißimi Viri.</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>9</td><td><mark>DN.</mark> DAVIDIS ALBINI,</td><td class=o>DAVIDIS ALBINI</td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>10</td><td><mark>In Illustrissimæ Reipublicæ</mark> Bernensis Athæneo</td><td class=o><mark>Iliustrislimae Reipubiicae</mark> Bernensis Athaeneo</td><td class=s>91%</td></tr>
+<tr class=goed><td class=n>11</td><td>Professoris, Theologi eximii, <mark>solidissimi, Mecænatis,</mark></td><td class=o>Professoris <mark>,</mark> Theologi eximii <mark>, solidissimi,Mec^nacis,</mark></td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>12</td><td>Fautoris <mark>&amp;</mark> Præceptoris sui <mark>summâ</mark></td><td class=o>Fautoris <mark>8c</mark> Praeceptoris fui <mark>summa</mark></td><td class=s>92%</td></tr>
+<tr class=goed><td class=n>13</td><td><mark>observantiâ</mark> colendi.</td><td class=o><mark>observantia</mark> colendi.</td><td class=s>94%</td></tr>
+<tr class=goed><td class=n>14</td><td><mark>Publicè</mark> &amp; <mark>placidè discutiendam proponit</mark></td><td class=o><mark>Publice</mark> &amp; <mark>placide discutiendamproponit</mark></td><td class=s>94%</td></tr>
+<tr class=redelijk><td class=n>15</td><td><mark>DANIEL FRANCK.</mark> SS. Th. <mark>Stud.</mark></td><td class=o><mark>FRA NCK .</mark> SS. Th.</td><td class=s>67%</td></tr>
+<tr class=goed><td class=n>16</td><td>Auth. &amp; Respondens.</td><td class=o>Auth <mark>.</mark> &amp; Respondens.</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>17</td><td><mark>Ad</mark> diem horis <mark>locoq;</mark> solitis.</td><td class=o><mark>i^Ad</mark> diem horis <mark>lococp</mark> solitis <mark>.</mark></td><td class=s>92%</td></tr>
+<tr class=goed><td class=n>18</td><td><mark>Excudebat</mark> ILLUSTRISSIMÆ REIPUBLICÆ</td><td class=o>ILLUSTRISSIMAE REIPUBLICAE</td><td class=s>85%</td></tr>
+<tr class=redelijk><td class=n>19</td><td><mark>BERNENSIS</mark> TYPOGRAPHUS,</td><td class=o>Typographus</td><td class=s>71%</td></tr>
+<tr class=goed><td class=n>20</td><td>Georgius Sonnleitnerus,</td><td class=o>Georgius Sonnleitnerus <mark>,</mark></td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>21</td><td><mark>MDCLXXVI.</mark></td><td class=o><mark>LXXVl</mark></td><td class=s>62%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/pdfs/W08095_Wyss_Dissertatio_theologica_de_remissione_peccatorum_quam_clypeo__1676.pdf#page=3' target=_blank>scan 3</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/pdfs/W08095_Wyss_Dissertatio_theologica_de_remissione_peccatorum_quam_clypeo__1676.pdf#page=4' target=_blank>scan 4</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=redelijk><td class=n>1</td><td><mark>DISSERTA</mark></td><td class=o><mark>DISSERTATIO</mark></td><td class=s>84%</td></tr>
+<tr class=geen><td class=n>2</td><td>REMI PECC g[?]</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=redelijk><td class=n>3</td><td><mark>C[illegible, ~6 letters] lucratus</mark> fuerit <mark>mundun</mark></td><td class=o><mark>luCratm</mark> fuerit <mark>mundum,</mark></td><td class=s>61%</td></tr>
+<tr class=goed><td class=n>4</td><td>beatus <mark>&amp;</mark> felix haberi</td><td class=o>beatus <mark>8t</mark> felix haberi</td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>5</td><td>cator &amp; inimicus Dei</td><td class=o>cator &amp;; inimicus Dei</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>6</td><td><mark>TIO</mark> THEOLOGICA <mark>De</mark></td><td class=o>THEOLOGICA</td><td class=s>80%</td></tr>
+<tr class=redelijk><td class=n>7</td><td><mark>ISSIONE CATORUM.</mark></td><td class=o><mark>PECCATORUM.</mark></td><td class=s>67%</td></tr>
+<tr class=geen><td class=n>8</td><td>Præmium.</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=goed><td class=n>9</td><td><mark>QUANQUAM</mark> honos,</td><td class=o><mark>Uanquam</mark> honos <mark>,</mark></td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>10</td><td>virtus, <mark>divitiæ,</mark> volu-</td><td class=o>virtus <mark>, divitia; ,</mark> volu¬</td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>11</td><td>ptates titillationes cor-</td><td class=o>ptates titillationes cor¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>12</td><td>poris apud filios hujus</td><td class=o>poris apud filios hujus</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>13</td><td>seculi pro <mark>cujusquè</mark> gu-</td><td class=o>seculi pro <mark>cujusque</mark> gu¬</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>14</td><td>stu &amp; vertigine primas</td><td class=o>stu &amp; vertigine primas</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>15</td><td>tenent, <mark>imò</mark> homo to-</td><td class=o>tenent <mark>, imo</mark> homo to¬</td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>16</td><td>tum mundum lucrare-</td><td class=o>tum mundum lucrare¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>17</td><td>tur, <mark>à</mark> vera tamen feli-</td><td class=o>tur <mark>, a</mark> vera tamen feli¬</td><td class=s>94%</td></tr>
+<tr class=goed><td class=n>18</td><td>citate quantum aber-</td><td class=o>citate quantum aber¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>19</td><td>ret, <mark>Mathæus</mark> monstrat</td><td class=o>ret <mark>, Math^us</mark> monstrat</td><td class=s>94%</td></tr>
+<tr class=redelijk><td class=n>20</td><td><mark>Quid</mark> enim</td><td class=o><mark>ghfid</mark> enim</td><td class=s>71%</td></tr>
+<tr class=redelijk><td class=n>21</td><td>prodest cuipiam, si totum <mark>[illegible, ~8</mark></td><td class=o>prodest cuipiam, fi totum</td><td class=s>82%</td></tr>
+<tr class=alleen><td class=n></td><td class=gap>ontbreekt in de transcriptie?</td><td class=o><mark>verofitd mulcietur.</mark></td><td class=s>alleen OCR</td></tr>
+<tr class=geen><td class=n>22</td><td>letters]n, animâ verò suâ mulctetur. Sed is &amp;</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=redelijk><td class=n>23</td><td><mark>dici</mark> potest, qui <mark>quanquàm pec-[illegible, ~6</mark></td><td class=o>potest <mark>-</mark> qui <mark>quanquäm pec¬</mark></td><td class=s>72%</td></tr>
+<tr class=redelijk><td class=n>24</td><td><mark>letters], Deum</mark> tamen habet sibi faventem</td><td class=o>tamen habet sibi faventem</td><td class=s>80%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/pdfs/W08095_Wyss_Dissertatio_theologica_de_remissione_peccatorum_quam_clypeo__1676.pdf#page=5' target=_blank>scan 5</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=redelijk><td class=n>1</td><td>&amp; propitium, <mark>(quod omnium</mark> religionum <mark>primum fun-</mark></td><td class=o>&amp; propitium religionum</td><td class=s>69%</td></tr>
+<tr class=goed><td class=n>2</td><td>damentum) nam ex Dei inimico amicus <mark>&amp; ex peccatore</mark></td><td class=o>damentum <mark>)</mark> nam ex Dei inimico amicus <mark>d ~ cx peccatorem</mark></td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>3</td><td><mark>sanctus</mark> Dei evadit, <mark>&amp;</mark> qui Deum habet, omnia <mark>habet sibi</mark> amica,</td><td class=o><mark>fandius</mark> Dei evadit <mark>, dr</mark> qui Deum habet <mark>,</mark> omnia <mark>habetfibi</mark> amica <mark>,</mark></td><td class=s>92%</td></tr>
+<tr class=goed><td class=n>4</td><td>habet <mark>remissionem</mark> peccatorum, &amp; qui <mark>remissionem</mark> peccatorum</td><td class=o>habet <mark>remis tonem</mark> peccatorum <mark>,</mark> &amp; qui <mark>remißonem</mark> peccatorum</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>5</td><td>habet vitam &amp; salutem <mark>æternam</mark> (inquit Lutherus) <mark>&amp; David</mark></td><td class=o>habet vitam &amp; salutem <mark>aternam (</mark> inquit Lutherus</td><td class=s>91%</td></tr>
+<tr class=goed><td class=n>6</td><td>beatum <mark>prædicat,</mark> cui non imputat vel remittit Deus peccata,</td><td class=o>beatum <mark>pradicat ,</mark> cui non imputat vel remittit Deus peccata <mark>,</mark></td><td class=s>99%</td></tr>
+<tr class=redelijk><td class=n>7</td><td><mark>Psal.32. v.2. Quid verè sit</mark> illa beatitudo sive felicitas di-</td><td class=o><mark>vere iit</mark> illa beatitudo sive felicitas di¬</td><td class=s>84%</td></tr>
+<tr class=goed><td class=n>8</td><td>sputatione hacce tractante de <mark>Remissione</mark> peccatorum vi-</td><td class=o>sputatione hacce tractante de <mark>Remiisione</mark> peccatorum vi¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>9</td><td>debimus, quam in proflictum damus.</td><td class=o>debimus <mark>,</mark> quam in proflictum damus <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>10</td><td>THESIS <mark>I.</mark></td><td class=o>Thesis</td><td class=s>92%</td></tr>
+<tr class=redelijk><td class=n>11</td><td><mark>Remissio peccatorum (quæ</mark> nihil aliud est, <mark>quàm</mark> pec-</td><td class=o><mark>I. ( quX</mark> nihil aliud est <mark>, quam</mark> pec¬</td><td class=s>67%</td></tr>
+<tr class=goed><td class=n>12</td><td>cata tegere aut non imputare, Psal.32. <mark>v.1.</mark> 2. Rom. 4. v.7. 8.)</td><td class=o>cata tegere aut non imputare <mark>,</mark> Pfal. <mark>32. v.i .</mark> 2. Rom . <mark>4.</mark> v. 7. <mark>S.)</mark></td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>13</td><td>est actio Dei gratuita, <mark>quâ</mark> propter meritum <mark>Christi</mark> homini gra-</td><td class=o>est actio Dei gratuita <mark>, qua</mark> propter meritum <mark>Chrißi</mark> homini gra¬</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>14</td><td>tis imputatum <mark>à spiritu sancto</mark> applicatum, <mark>sola</mark> &amp; <mark>verâ</mark> fide ap-</td><td class=o>tis imputatum <mark>afiiritufandi0</mark> applicatum <mark>,fila</mark> &amp; <mark>vera</mark> fide ap-</td><td class=s>87%</td></tr>
+<tr class=redelijk><td class=n>15</td><td><mark>prehensum fontem &amp;</mark> morti <mark>æternæ</mark> obnoxium, <mark>sed verè</mark> resipi-</td><td class=o><mark>dp</mark> morti <mark>at erna</mark> obnoxium <mark>,fied vere</mark> refipi-</td><td class=s>74%</td></tr>
+<tr class=alleen><td class=n></td><td class=gap>ontbreekt in de transcriptie?</td><td class=o><mark>prehenfitm fintem</mark></td><td class=s>alleen OCR</td></tr>
+<tr class=goed><td class=n>16</td><td><mark>scentem à</mark> peccato &amp; morte absolvit, ad Dei gloriam &amp; hominis</td><td class=o><mark>fientem d</mark> peccato &amp; morte absolvit <mark>,</mark> ad Dei gloriam &amp; hominis</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>17</td><td>salutem.</td><td class=o>salutem <mark>.</mark></td><td class=s>100%</td></tr>
+<tr><td class=n>18</td><td>II.</td><td class=o></td><td class=s></td></tr>
+<tr class=goed><td class=n>19</td><td>Consistit <mark>itaquè</mark> peccatorum <mark>remissio</mark> non in <mark>radicali</mark></td><td class=o>Consistit <mark>itaque</mark> peccatorum <mark>remistio</mark> non in <mark>radicah</mark></td><td class=s>92%</td></tr>
+<tr class=goed><td class=n>20</td><td>peccatorum extirpatione. Rom. 7. v.14. 17. 18. 20. 23. 24. <mark>&amp; Gal.5.</mark></td><td class=o>peccatorum extirpatione <mark>.</mark> Rom. 7. v. 14 . 17. 18. 20. <mark>23. 24. dr Gala .</mark></td><td class=s>92%</td></tr>
+<tr class=goed><td class=n>21</td><td>v.17. 1.Joh.1. <mark>v.8.</mark> Matth.6. <mark>v.12. sed in</mark> non imputatione. <mark>Psal.32.</mark></td><td class=o>v. <mark>17. i</mark> .Joh <mark>.i. v.S.</mark> Matth <mark>.dv .12. fiedin</mark> non imputatione <mark>. Ps.32.</mark></td><td class=s>90%</td></tr>
+<tr class=redelijk><td class=n>22</td><td>v.2. <mark>Esai.38.</mark> v.17. <mark>2.Cor.5.</mark> v.19. <mark>Ezech.18. v.22.</mark> Matth.18. <mark>v.27.</mark></td><td class=o>v. <mark>2. Esai.3S. vA7. 2.Cor . f.</mark> v. <mark>it&gt;. ETpch . iS.</mark> v. <mark>22.</mark> Matth <mark>.jS.</mark></td><td class=s>73%</td></tr>
+<tr class=goed><td class=n>23</td><td>Pœnarum promeritarum ablatione. <mark>Psal.103.</mark> v.10. <mark>Luc.1.</mark> v.77.</td><td class=o>Poenarum promeritarum ablatione <mark>. Ps. 103 .</mark> v. <mark>10. Lue . 1.</mark> v. <mark>77.</mark></td><td class=s>95%</td></tr>
+<tr class=redelijk><td class=n>24</td><td>Rom.8. v.1.</td><td class=o>Rom <mark>. S.</mark> v. <mark>x.</mark></td><td class=s>80%</td></tr>
+<tr class=geen><td class=n>25</td><td>III.</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=goed><td class=n>26</td><td>Author tanti beneficii est Jehova, qui solus est ju-</td><td class=o>Author tanti beneficii est Jehova <mark>,</mark> qui solus est ju¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>27</td><td>dex <mark>vitæ</mark> &amp; necis, <mark>condonans iniquitatem</mark> &amp; <mark>defectionem &amp;</mark></td><td class=o>dex <mark>vi-tT</mark> &amp; necis <mark>, condonansiniquitatem</mark> &amp; <mark>defeci</mark></td><td class=s>89%</td></tr>
+<tr class=redelijk><td class=n>28</td><td><mark>peccatum. Jer.31. v.34.</mark> Ego, ego ipse deleo defectiones tuas</td><td class=o>Ego <mark>,</mark> ego ipse deleo defectiones tuas</td><td class=s>83%</td></tr>
+<tr class=goed><td class=n>29</td><td>propter me <mark>&amp;</mark> peccatorum tuorum non recordor. <mark>Esai.</mark> 43. v.25.</td><td class=o>propter me <mark>dr</mark> peccatorum tuorum non recordor <mark>. EJai .</mark> 43. v. <mark>27.</mark></td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>30</td><td>Mich.7. v.18.19. <mark>isque solus; Marc.2. v.7.</mark> quis potest remit-</td><td class=o>Mich.7. <mark>v.iS. jß. isque filus ; Mare . 2.</mark> v. <mark>7.</mark> quis potest remit¬</td><td class=s>88%</td></tr>
+<tr class=goed><td class=n>31</td><td>tere peccata, nisi solus Deus. Luc.5. v.21. Ratio 1. Deus</td><td class=o>tere peccata <mark>,</mark> nisi solus Deus <mark>.</mark> Luc. <mark>s .</mark> v. <mark>21.</mark> Ratio 1 <mark>.</mark> Deus</td><td class=s>99%</td></tr>
+<tr class=redelijk><td class=n>32</td><td>solus est <mark>Νομοθέτης, Jac.4. v.12.</mark> In quem proprie pec-</td><td class=o>solus est <mark>No/.tp3s</mark> In quem proprie pec¬</td><td class=s>73%</td></tr>
+<tr class=goed><td class=n>33</td><td>catur,</td><td class=o>catur.</td><td class=s>100%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/pdfs/W08095_Wyss_Dissertatio_theologica_de_remissione_peccatorum_quam_clypeo__1676.pdf#page=6' target=_blank>scan 6</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=redelijk><td class=n>1</td><td><mark>eatur, Psal. si. v. 6.</mark> Solus per peccata <mark>lædītur, ergò</mark> solus</td><td class=o>Solus per peccata <mark>laeditur , ergo</mark> solus</td><td class=s>79%</td></tr>
+<tr class=redelijk><td class=n>2</td><td>proprie peccata remittere potest. <mark>Ratio 2. Solus est</mark></td><td class=o>proprie peccata remittere potest.</td><td class=s>82%</td></tr>
+<tr class=redelijk><td class=n>3</td><td><mark>καρδιογνώστης[?],</mark> 1. Reg. 8. v. 39. <mark>Ergò</mark> solus peccata remittere</td><td class=o><mark>tig.p&#x27;hoyäwc</mark> , <mark>i.</mark> Reg. 8. v. 39 <mark>. Ergo</mark> solus peccata remittere</td><td class=s>68%</td></tr>
+<tr class=goed><td class=n>4</td><td>potest, &amp; ita conscientias peccatis vexatas tranquillare.</td><td class=o>potest, &amp; ita conscientias peccatis vexatas tranquillare.</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>5</td><td><mark>Ratio 3. Deus solus</mark> Judex est, <mark>ergò</mark> solus <mark>ad condonan-</mark></td><td class=o><mark>Deussolus</mark> Judex est <mark>, ergo</mark> solus <mark>adcondonan¬</mark></td><td class=s>91%</td></tr>
+<tr class=redelijk><td class=n>6</td><td>dum <mark>αὐτοξούσιος[?],</mark> quia solius Judicis <mark>hæc</mark> est prærogativa,</td><td class=o>dum <mark>dvJotyaiot; ,</mark> quia solius Judicis <mark>hzc</mark> est praerogativa <mark>,</mark></td><td class=s>76%</td></tr>
+<tr class=goed><td class=n>7</td><td>&amp; reum <mark>absolvere &amp;</mark> delicta condonare <mark>posse. Hinc pii</mark></td><td class=o>&amp; reum <mark>absolvere&amp;</mark> delicta condonare <mark>poste.</mark></td><td class=s>89%</td></tr>
+<tr class=goed><td class=n>8</td><td>ab eo solo semper <mark>remissionem</mark> peccatorum <mark>petierunt,</mark></td><td class=o>ab eo solo semper <mark>remislioncm</mark> peccatorum <mark>petieruno ,</mark></td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>9</td><td><mark>secundùm</mark> Domini præceptum. Matth. 6. <mark>v. 12. Luc. 11. v. 4.</mark></td><td class=o><mark>secundum</mark> Domini praeceptum <mark>.</mark> Matth .</td><td class=s>89%</td></tr>
+<tr><td class=n>10</td><td>IV.</td><td class=o></td><td class=s></td></tr>
+<tr class=goed><td class=n>11</td><td>Rejicimus <mark>ergò</mark> Pontif. Rom. solutionis peccato-</td><td class=o>Rejicimus <mark>ergo</mark> Pontis. Rom <mark>.</mark> solutionis peccato¬</td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>12</td><td>rum lepidam <mark>potiùs</mark> detestandam promissionem, <mark>Ps. si.</mark></td><td class=o>rum lepidam <mark>potius</mark> detestandam promissionem, <mark>Pssx.</mark></td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>13</td><td><mark>v.</mark> 3. 6. Dan. <mark>9.</mark> tot. Cap.</td><td class=o><mark>y.</mark> 3. 6. Dan <mark>.p.</mark> tot. Cap.</td><td class=s>86%</td></tr>
+<tr><td class=n>14</td><td>V.</td><td class=o></td><td class=s></td></tr>
+<tr class=redelijk><td class=n>15</td><td><mark>Est actio Dei ὑποδικῶς[?]</mark> considerati: pro natura au-</td><td class=o>considerati <mark>:</mark> pro natura au¬</td><td class=s>70%</td></tr>
+<tr class=goed><td class=n>16</td><td>tem operum ad extra convenit omnibus tribus personis</td><td class=o>tem operum ad extra convenit omnibus tribus personis</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>17</td><td><mark>SS.</mark> Trinitatis; <mark>Patri enim</mark> etiamsi Judicis partes <mark>agit, con-</mark></td><td class=o><mark>88 .</mark> Trinitatis <mark>; Patrienim</mark> etiamsi Judicis partes <mark>agit,con¬</mark></td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>18</td><td>donando <mark>nobis peccata</mark> Matth. 18. <mark>v. 35. Filio,</mark> qui sponsoris,</td><td class=o>donando <mark>nobispeccata</mark> Matth. 18. <mark>v.ßf. Tilio,</mark> qui sponsoris,</td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>19</td><td>vadis &amp; Advocati partibus fungitur, merendo <mark>(redime-</mark></td><td class=o>vadis &amp; Advocati partibus fungitur <mark>,</mark> merendo <mark>(redimes</mark></td><td class=s>99%</td></tr>
+<tr class=goed><td class=n>20</td><td>eum, ne descendat <mark>in foveam, ego lytrum</mark> inveni, <mark>Job. 33.</mark> v. 24.</td><td class=o>eum <mark>,</mark> ne descendat <mark>infoveam, egolytrum</mark> inveni, <mark>J0b.33.</mark> v- 24.</td><td class=s>99%</td></tr>
+<tr class=redelijk><td class=n>21</td><td><mark>Justus meus servus justificabit</mark> multos <mark>cognitione sui,</mark> Esai.</td><td class=o><mark>Juflm memfervmjufliscabit</mark> multos <mark>cognitionefiti ,</mark> Efai. <mark>33,</mark></td><td class=s>83%</td></tr>
+<tr class=goed><td class=n>22</td><td>53. <mark>v. 11.) Unde</mark> Paralytico dicebat, <mark>confide fili, remissa sunt</mark></td><td class=o><mark>v. ii</mark> .) <mark>linde</mark> Paralytico dicebat, <mark>confidefili , remissasunt</mark></td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>23</td><td><mark>tibi peccata tua,</mark> &amp; comprobat <mark>præsenti miraculo,</mark> potesta-</td><td class=o><mark>tibipeccatatua,</mark> &amp; comprobat <mark>praesentimiraculo</mark> ,potesta¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>24</td><td>tem habere filium hominis in terra remittendi peccata,</td><td class=o>tem habere filium hominis in terra remittendi peccata,</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>25</td><td>Matth. 9. v. 2. 6. <mark>Marc. 2. v. 5. 10. Luc. 5:</mark> 20. 24. &amp; cap. 7. v. 48. <mark>49.</mark></td><td class=o>Matth <mark>.fi. v.2.f. Mare .</mark> 2. v. <mark>f</mark> . 10. <mark>Lue. s:</mark> 20 .24. &amp; cap. 7. v. 48. <mark>4p.</mark></td><td class=s>78%</td></tr>
+<tr class=goed><td class=n>26</td><td><mark>remittit</mark> 1. Deitate, quia verus Deus. Matth. 9. v. 3. <mark>2.</mark></td><td class=o><mark>1</mark> . Deitate <mark>-</mark> quia verus Deus <mark>.</mark> Matth .9. v. 3.</td><td class=s>87%</td></tr>
+<tr class=goed><td class=n>27</td><td>Potestate <mark>à</mark> patre accepta, Joh. <mark>5.</mark> v. <mark>22. &amp;</mark> cap. <mark>17.</mark> v. <mark>2. 3. Sa-</mark></td><td class=o>Potestate <mark>ä</mark> patre accepta <mark>,</mark> Joh <mark>.s.</mark> v.22. <mark>8c</mark> cap./7. v.2.</td><td class=s>88%</td></tr>
+<tr class=redelijk><td class=n>28</td><td>tisfactione, <mark>Eph.</mark> 1. v. 7. Spiritui <mark>sancto, Obsignando, Can-</mark></td><td class=o>tisfactione, <mark>Pph. i</mark> . v. 7. Spiritui <mark>sancio,</mark></td><td class=s>75%</td></tr>
+<tr class=goed><td class=n>29</td><td>cellarii cœlestis quasi partes obit, <mark>imò &amp;</mark> arrhabonis &amp;</td><td class=o>cellarii coelestis quasi partes obit <mark>, imo 8c</mark> arrhabonis &amp;</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>30</td><td>obsidis, hoc diploma in cordibus <mark>nostris confirmat &amp; ob-</mark></td><td class=o>obsidis <mark>,</mark> hoc diploma in cordibus <mark>nostrisconfirmat &amp;ob¬</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>31</td><td>signat, ingeminans <mark>&amp;</mark> clamans in cordibus nostris. Gal. 4.</td><td class=o>signat, ingeminans <mark>Sc</mark> clamans in cordibus nostris. Gal. 4.</td><td class=s>96%</td></tr>
+<tr class=redelijk><td class=n>32</td><td><mark>v. 6. Eph. 1: 13. 14. Rom. 8. v. 16.</mark> In quem non minus pec-</td><td class=o>In quem non minus pec-</td><td class=s>81%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/pdfs/W08095_Wyss_Dissertatio_theologica_de_remissione_peccatorum_quam_clypeo__1676.pdf#page=7' target=_blank>scan 7</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=redelijk><td class=n>1</td><td><mark>catur, quàm</mark> in Patrem <mark>&amp;</mark> filium, <mark>Act.5.v.3.&amp;4. Eò nos</mark></td><td class=o><mark>eatur , quäm</mark> in Patrem <mark>Sc</mark> filium <mark>l</mark></td><td class=s>68%</td></tr>
+<tr class=redelijk><td class=n>2</td><td>ducit ipse Baptismus, qui confertur <mark>in remissionem</mark></td><td class=o>ducit ipse Baptismus <mark>,</mark> qui confertur</td><td class=s>82%</td></tr>
+<tr class=goed><td class=n>3</td><td>peccatorum.</td><td class=o>peccatorum <mark>.</mark></td><td class=s>100%</td></tr>
+<tr><td class=n>4</td><td>VI.</td><td class=o></td><td class=s></td></tr>
+<tr class=redelijk><td class=n>5</td><td>Causa <mark>[illegible, ~10 letters]</mark> non est essentialis Dei justitia, ut</td><td class=o>Causa <mark>&lt;s&gt;&amp;nyiijuAvti</mark> non est essentialis Dei justitia <mark>,</mark> ut</td><td class=s>77%</td></tr>
+<tr class=goed><td class=n>6</td><td>Osiander, non ipsa fides actusque credendi per acceptila-</td><td class=o>Osiander <mark>,</mark> non ipsa fides actusque credendi per acceptila¬</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>7</td><td>tionem gratuitam ut Arminiani; <mark>non Obedientia novæ</mark></td><td class=o>tionem gratuitam ut Arminiani</td><td class=s>74%</td></tr>
+<tr class=goed><td class=n>8</td><td><mark>vitæ</mark> ut Sociniani <mark>&amp;</mark> Anabap; non habitualis <mark>&amp; inhærens</mark></td><td class=o><mark>vitte</mark> ut Sociniani <mark>Sc</mark> Anabap <mark>;</mark> non habitualis <mark>Sc inharens</mark></td><td class=s>88%</td></tr>
+<tr class=goed><td class=n>9</td><td>Justitia <mark>in fide</mark> &amp; charitate aliisque bonis operibus confi-</td><td class=o>Justitia <mark>infide</mark> &amp; charitate aliisque bonis operibus consi-</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>10</td><td><mark>stens, quibus promereamur</mark> remissionem peccatorum ut</td><td class=o>remissionem peccatorum ut</td><td class=s>68%</td></tr>
+<tr class=goed><td class=n>11</td><td>Pontif; sed est Dei Misericordia, Gratia <mark>&amp;</mark> Benignitas,</td><td class=o>Pontis <mark>;</mark> sed est Dei Misericordia <mark>,</mark> Gratia <mark>Sc</mark> Benignitas <mark>,</mark></td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>12</td><td><mark>Num.14:19.</mark> condona <mark>quàsò</mark> iniquitatem populi <mark>hujus pro</mark> ma-</td><td class=o>condona <mark>quaso</mark> iniquitatem populi <mark>hujuspro</mark> ma¬</td><td class=s>91%</td></tr>
+<tr class=redelijk><td class=n>13</td><td>gnitudine benignitatis <mark>tuæ, Psal.25.v.6.7. &amp; plurimis locis.</mark></td><td class=o>gnitudine benignitatis <mark>tuaPfal</mark></td><td class=s>77%</td></tr>
+<tr class=goed><td class=n>14</td><td>VII.</td><td class=o>VII <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>15</td><td><mark>Præterea ita</mark> fit nostra justificatio ex gratia, ut opera</td><td class=o><mark>Prtetcreaita</mark> fit nostra justificatio ex gratia <mark>,</mark> ut opera</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>16</td><td>legis <mark>&amp;</mark> omnis plane gloriatio operum tollatur, <mark>Rom.3.v.27.</mark></td><td class=o>legis <mark>Sc</mark> omnis plane gloriatio operum tollatur <mark>, Rom.j . v.27.</mark></td><td class=s>94%</td></tr>
+<tr class=redelijk><td class=n>17</td><td>quippe omnis nostra justitia <mark>&amp; obedientia, si cum legis</mark></td><td class=o>quippe omnis nostra justitia <mark>Sc obedienda</mark></td><td class=s>80%</td></tr>
+<tr class=redelijk><td class=n>18</td><td><mark>ἀνεξιβεία[?]</mark> sive cum remissione peccatorum <mark>conferatur, im-</mark></td><td class=o><mark>dxepSeia</mark> sive cum remissione <mark>, im¬</mark> peccatorum</td><td class=s>64%</td></tr>
+<tr class=goed><td class=n>19</td><td>perfectionis arguitur; hinc pii <mark>Israelitæ</mark> hac confessione</td><td class=o>perfectionis arguitur <mark>;</mark> hinc pii <mark>IsraelitL</mark> hac confessione</td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>20</td><td>utuntur, <mark>sumus</mark> ut <mark>immundus omnes</mark> nos, &amp; <mark>sicut panniculus</mark></td><td class=o>utuntur <mark>, ßsmus</mark> ut <mark>immundusomnes</mark> nos <mark>,</mark> &amp; <mark>ficutpanniculus</mark></td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>21</td><td><mark>abjectissimus</mark> omnes <mark>nostræ justitiæ,</mark> Esai.64:6. &amp; Psal.143:2.</td><td class=o><mark>abjeciißtmus</mark> omnes <mark>nostra justitia ,</mark> Efai <mark>. 04: (j.</mark> &amp; Pfal <mark>. 143: 2.</mark></td><td class=s>92%</td></tr>
+<tr class=redelijk><td class=n>22</td><td><mark>Luc.17:10.</mark> Etiam in ipso Abrahamo Rom.4:2. <mark>Similiter</mark></td><td class=o>Etiam in ipso Abrahamo Rom <mark>.4 : 2.</mark></td><td class=s>79%</td></tr>
+<tr class=goed><td class=n>23</td><td>David non operibus, sed remissione peccatorum justifica-</td><td class=o>David non operibus <mark>,</mark> sed remissione peccatorum justifica¬</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>24</td><td>tos, beatos <mark>prædicat, Psal.32.v.2. Publicanus gratiam Dei</mark></td><td class=o>tos <mark>,</mark> beatos <mark>prtedicat , Pfal .32.v.2.</mark></td><td class=s>67%</td></tr>
+<tr class=goed><td class=n>25</td><td>implorans, obtinuit remissionem peccatorum suorum,</td><td class=o>implorans <mark>,</mark> obtinuit remissionem peccatorum suorum <mark>,</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>26</td><td><mark>cùm Pharisæus</mark> opera sua jactans &amp; <mark>justitiæ suæ</mark> confidens,</td><td class=o><mark>cum Pharifeus</mark> opera sua jactans &amp; <mark>justitia; sute</mark> confidens <mark>,</mark></td><td class=s>94%</td></tr>
+<tr class=redelijk><td class=n>27</td><td>ab eadem fuerit exclusus, <mark>Luc.18.v.14. Nullo habito re-</mark></td><td class=o>ab eadem fuerit exclusus <mark>, Luc . 18. v. 14 .</mark></td><td class=s>79%</td></tr>
+<tr class=goed><td class=n>28</td><td>spectu bonorum operum nostrorum, <mark>præterquàm</mark> enim</td><td class=o>spectu bonorum operum nostrorum <mark>, prteterquam</mark> enim</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>29</td><td><mark>quòd</mark> meritum gratiam excludit, Rom.11:6. Bona opera</td><td class=o><mark>quod</mark> meritum gratiam excludit <mark>,</mark> Rom. <mark>ir . &lt;s.</mark> Bona opera</td><td class=s>94%</td></tr>
+<tr class=redelijk><td class=n>30</td><td>ante remissionem peccatorum <mark>nulla sunt. Eô nos ducit</mark></td><td class=o>ante remissionem peccatorum</td><td class=s>72%</td></tr>
+<tr class=goed><td class=n>31</td><td>ipsa notatio vocis remissionis, nihil enim aliud designat,</td><td class=o>ipsa notatio vocis remissionis <mark>,</mark> nihil enim aliud designat <mark>,</mark></td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>32</td><td><mark>quàm</mark> peccatorum omnium gratuitam <mark>condonationem,</mark></td><td class=o><mark>quam</mark> peccatorum omnium gratuitam <mark>Matth .</mark></td><td class=s>79%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/pdfs/W08095_Wyss_Dissertatio_theologica_de_remissione_peccatorum_quam_clypeo__1676.pdf#page=8' target=_blank>scan 8</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=goed><td class=n>1</td><td><mark>Matth.18.v.26.27.</mark> (remittere enim &amp; pro peccatis satisface-</td><td class=o><mark>Matth .iS. v.its. 27.</mark> (remittere enim &amp; pro peccatis satisface¬</td><td class=s>94%</td></tr>
+<tr class=goed><td class=n>2</td><td>re sunt contraria. <mark>Quicunquè</mark> enim sua obtendunt merita</td><td class=o>re sunt contraria <mark>. Quicunque</mark> enim sua obtendunt merita</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>3</td><td>&amp; satisfactiones Deo, non ejus misericordiam implorant,</td><td class=o>&amp; satisfactiones Deo <mark>,</mark> non ejus misericordiam implorant <mark>,</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>4</td><td>sed judicium appellant) non venit <mark>Deus</mark> (verba Augustini)</td><td class=o>sed judicium appellant <mark>)</mark> non venit <mark>Dem (</mark> verba Augustini <mark>)</mark></td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>5</td><td>in Psalm.43. ad inspectionem meritorum, sed ad peccatorum</td><td class=o>in Psalm. <mark>43.</mark> ad inspectionem meritorum <mark>,</mark> fed ad peccatorum</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>6</td><td><mark>remissionem, non fuisti</mark> &amp; <mark>factus</mark> es, quid Deo dedisti, malus</td><td class=o><mark>remisionem &gt; nonfuisti</mark> &amp; <mark>saltus</mark> es <mark>-</mark> quid Deo dedisti <mark>,</mark> malus</td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>7</td><td>fuisti &amp; liberatus es, quid Deo dedisti, quid non ab eo gratis</td><td class=o>fuisti &amp; liberatus es <mark>,</mark> quid Deo dedisti <mark>,</mark> quid non ab eo gratis</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>8</td><td><mark>accepisti?</mark> merito &amp; gratia nominatur, quia gratis datur.</td><td class=o><mark>accepifii ?</mark> merito &amp; gratia nominatur <mark>,</mark> quia gratis datur <mark>.</mark></td><td class=s>98%</td></tr>
+<tr class=geen><td class=n>9</td><td>VIII.</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=goed><td class=n>10</td><td>Sed regerunt Pontif. <mark>quòd</mark> homo propter <mark>meritum,</mark></td><td class=o>Sed regerunt Pontis <mark>, quod</mark> homo propter <mark>meritumj</mark></td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>11</td><td>Christi <mark>gratiâ</mark> habituali <mark>præditus, si illa suâ gratiâ benè</mark> u-</td><td class=o>Christi <mark>gratia</mark> habituali <mark>proditus , stilla sua gratia bene</mark> u-</td><td class=s>87%</td></tr>
+<tr class=goed><td class=n>12</td><td>tatur, de condigno augmentum <mark>gratiæ</mark> hujus mereatur. ℞.</td><td class=o>tatur <mark>,</mark> de condigno augmentum hujus mereatur .</td><td class=s>91%</td></tr>
+<tr class=goed><td class=n>13</td><td>1. Hujus distinctionis fundamentum nullum extat in</td><td class=o>1. Hujus distinctionis fundamentum nullum extat in</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>14</td><td>scriptura. ℞. <mark>2. Hæc</mark> distinctio pertinet ad satisfactio-</td><td class=o>scriptura , <mark>Htec</mark> distinctio pertinet ad satisfactio¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>15</td><td><mark>nem.</mark> ℞. <mark>3. Nulla planè dantur merita,</mark> quia omnia o-</td><td class=o><mark>Nullaplanedanturmerita</mark> , quia omnia o-</td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>16</td><td>pera nostra sunt imperfecta, etiam <mark>quæ à</mark> gratia habitua-</td><td class=o>pera nostra sunt imperfecta <mark>,</mark> etiam <mark>quL ä</mark> gratia habitua¬</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>17</td><td>li proveniunt; <mark>adhæc</mark> illa sunt debita, ut quamvis omnia</td><td class=o>li proveniunt <mark>; adha;c</mark> illa sunt debita <mark>,</mark> ut quamvis omnia</td><td class=s>99%</td></tr>
+<tr class=goed><td class=n>18</td><td>fecerimus, <mark>quæ præcepta sunt,</mark> quod tamen nemo sanus ja-</td><td class=o>fecerimus <mark>, quapraceptafunt ,</mark> quod tamen nemo sanus ja¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>19</td><td>ctabit, tamen <mark>servi sumus</mark> inutiles, nam <mark>fecimus tantùm</mark></td><td class=o>ctabit <mark>,</mark> tamen <mark>firvi fimus</mark> inutiles <mark>,</mark> nam <mark>fecimm tantum</mark></td><td class=s>90%</td></tr>
+<tr class=goed><td class=n>20</td><td>id, quod debuimus, <mark>Luc.17.v.10. Nequè</mark> tandem nostra</td><td class=o>id <mark>,</mark> quod debuimus <mark>, Luc . 17. v. 10.</mark> tandem nostra</td><td class=s>92%</td></tr>
+<tr class=goed><td class=n>21</td><td>sunt, <mark>nequè adæquata præmio. Adhæc si</mark> per opera non</td><td class=o>sunt <mark>, neque ad$quata pramio . Adhsc st</mark> per opera non</td><td class=s>88%</td></tr>
+<tr class=goed><td class=n>22</td><td><mark>possumus</mark> justificari, <mark>multò</mark> minus mereri. Denique qui</td><td class=o><mark>postumus</mark> justificari <mark>, multo</mark> minus mereri <mark>.</mark> Denique qui</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>23</td><td>per legem vult justificari,debitor <mark>est totius</mark> legis <mark>servandæ,</mark></td><td class=o>per legem vult justificari,debitor <mark>esttotius</mark> legis <mark>servand ?,</mark></td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>24</td><td>qui autem impegerit in uno <mark>tantùm,</mark> reus est omnium,</td><td class=o>qui autem impegerit in uno <mark>tantiim ,</mark> reus est omnium <mark>,</mark></td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>25</td><td>at in multis impingimus omnes, adeoque sub maledi-</td><td class=o>at in multis impingimus omnes <mark>,</mark> adeoque sub maledi¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>26</td><td>ctione legis <mark>sunt,</mark> qui per illam justificari <mark>prætendunt,</mark></td><td class=o>ctione legis <mark>fune ,</mark> qui per illam justificari <mark>protendunt »</mark></td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>27</td><td><mark>tantùm</mark> abest, ut quid mereantur.</td><td class=o><mark>tantum</mark> abest, ut quid mereantur <mark>.</mark></td><td class=s>96%</td></tr>
+<tr><td class=n>28</td><td>IX.</td><td class=o></td><td class=s></td></tr>
+<tr class=redelijk><td class=n>29</td><td>Causa <mark>θεοκαταρτικὴ[?]</mark> sive meritoria est <mark>plenissima</mark></td><td class=o>Causa <mark>^ e9xfifapz!im</mark> sive meritoria est <mark>plenistima</mark></td><td class=s>71%</td></tr>
+<tr class=goed><td class=n>30</td><td>Christi satisfactio, <mark>quæ</mark> consistit in ejus obedientia <mark>usquè</mark></td><td class=o>Christi satisfactio <mark>, quL</mark> consistit in ejus obedientia <mark>usque</mark></td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>31</td><td>ad mortem, mortem autem crucis, de qua loquuntur va-</td><td class=o>ad mortem <mark>,</mark> mortem autem crucis <mark>,</mark> de qua loquuntur va¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>32</td><td>ria <mark>sacræ scripturæ</mark> loca, <mark>Esai.53.4.5.</mark> Morbos nostros ipse</td><td class=o>ria <mark>sacra scriptura</mark> loca <mark>, JEfai. fj: 4 . / .</mark> Morbos nostros ipse</td><td class=s>94%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/pdfs/W08095_Wyss_Dissertatio_theologica_de_remissione_peccatorum_quam_clypeo__1676.pdf#page=9' target=_blank>scan 9</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=goed><td class=n>1</td><td><mark>pertulit</mark> &amp; dolores nostros bajulavit, ipse dolore afficitur <mark>à</mark> defe-</td><td class=o><mark>fer tulit</mark> &amp; dolores noftros bajulavit <mark>,</mark> ipse dolore afficitur) defe-</td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>2</td><td><mark>ctionibus nostris,</mark> atteritur <mark>ab iniquitatibus nostris, castigatio pa-</mark></td><td class=o><mark>Slionibusnostris</mark> ^atteritur <mark>abiniquitatibm noßris , cafiigatiopa¬</mark></td><td class=s>91%</td></tr>
+<tr class=goed><td class=n>3</td><td>cis nostra imponitur ei, &amp; <mark>tumice</mark> ejus sit curatio nobis, v. <mark>10.</mark></td><td class=o>cis nostra imponitur ei <mark>,</mark> &amp; <mark>pumice</mark> ejus fit curatio nobis, v. <mark>io.</mark></td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>4</td><td><mark>Quandoquè</mark> ipse exponebat se sacrificium pro reatu. Mat.</td><td class=o>ipse exponebat se sacrificium pro reatu <mark>.</mark> Mat.</td><td class=s>89%</td></tr>
+<tr class=redelijk><td class=n>5</td><td>20: 28. <mark>cap. 26: 28. Act. 20: 28. 2. Cor. 5:</mark> 21. Eph. 1:7. <mark>Matth.</mark> 1:21.</td><td class=o>20: 28. <mark>2.Corj:</mark> 21. Eph . 1:7. <mark>tJMatth .r. 21.</mark></td><td class=s>69%</td></tr>
+<tr class=goed><td class=n>6</td><td>aliis locis.</td><td class=o>aliis locis.</td><td class=s>100%</td></tr>
+<tr><td class=n>7</td><td>X.</td><td class=o></td><td class=s></td></tr>
+<tr class=goed><td class=n>8</td><td>Injurii igitur sunt in Christum &amp; ejus satisfactio-</td><td class=o>injurii igitur sunt in Christum &amp; ejus satisfactio¬</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>9</td><td><mark>nem, qui alios mediatores</mark> &amp; Advocatos huic associant,</td><td class=o>&amp;: Advocatos huic associant,</td><td class=s>70%</td></tr>
+<tr class=redelijk><td class=n>10</td><td><mark>aliosque satisfactionis modos comminiscuntur. Sic enim</mark></td><td class=o><mark>aliosqueiatisfactionis</mark></td><td class=s>60%</td></tr>
+<tr class=redelijk><td class=n>11</td><td><mark>1.</mark> Joh. 2: 1. 2. <mark>Act.</mark> 4: 12.</td><td class=o><mark>j</mark> .Joh .2: <mark>i</mark> . 2. <mark>Aci.4.</mark> ; 12.</td><td class=s>71%</td></tr>
+<tr><td class=n>12</td><td>XI.</td><td class=o></td><td class=s></td></tr>
+<tr class=goed><td class=n>13</td><td>Etiamsi in thesi 6. diximus, nos <mark>misericordiâ gra-</mark></td><td class=o>Etiamsi in thesi 6 <mark>.</mark> diximus <mark>,</mark> nos <mark>misericordia</mark></td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>14</td><td><mark>tiâ</mark> &amp; benignitate remissionem peccatorum consequi, the-</td><td class=o><mark>tia</mark> &amp; benignitate remissionem peccatorum consequi <mark>,</mark> the¬</td><td class=s>98%</td></tr>
+<tr class=redelijk><td class=n>15</td><td>si <mark>verò</mark> 9. per <mark>[?]ἀντίλυτρον</mark> Filii (remissio <mark>verò</mark> peccatorum</td><td class=o>si <mark>vero 9</mark> - per <mark>amXvfpov</mark> Filii <mark>(</mark> remissio <mark>vero</mark> peccatorum</td><td class=s>76%</td></tr>
+<tr class=goed><td class=n>16</td><td>gratuita cum Dei veritate &amp; justitia videtur pugnare, ut</td><td class=o>gratuita cum Dei veritate &amp; justitia videtur pugnare <mark>,</mark> ut</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>17</td><td><mark>Gen.</mark> 2. v. <mark>17.)</mark> non pugnat nec impingimus, <mark>nam hæc duo</mark></td><td class=o><mark>Cen.</mark> 2. v. <mark>17i)</mark> non pugnat nec impingimus</td><td class=s>79%</td></tr>
+<tr class=goed><td class=n>18</td><td><mark>minimè</mark> pugnant, <mark>gratiâ</mark> &amp; merito nos remissionem pec-</td><td class=o><mark>minime</mark> pugnant <mark>, gratia</mark> &amp; merito nos remissionem pec¬</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>19</td><td>catorum consequi, Christi enim meritum <mark>subordinatur</mark></td><td class=o>catorum consequi <mark>,</mark> Christi enim meritum</td><td class=s>85%</td></tr>
+<tr class=goed><td class=n>20</td><td><mark>gratiæ &amp;</mark> dependet ab ea, quia illa subordinatio est gratia,</td><td class=o><mark>gratia ? 5c</mark> dependet ab ea, quia illa subordinatio est gratia <mark>,</mark></td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>21</td><td>ut esset propitiatio per meritum suum: <mark>adeò</mark> ut <mark>quâ</mark> iram</td><td class=o>ut esset propitiatio per meritum suum <mark>: adeo</mark> ut <mark>qua</mark> iram</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>22</td><td>Dei placatam per filium respicimus, habeamus meritum,</td><td class=o>Dei placatam per filium respicimus <mark>,</mark> habeamus meritum <mark>,</mark></td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>23</td><td>scilicet Christi pro nobis. <mark>Hinc dulcissimæ voces illæ</mark></td><td class=o>scilicet Christi pro nobis <mark>.</mark></td><td class=s>65%</td></tr>
+<tr class=redelijk><td class=n>24</td><td>Evang. <mark>Joh. 3: 16. Jes. 53: 4. 5.</mark> 1. Joh. 1: 7. <mark>Rom.</mark> 8:3. <mark>Col.</mark> 2:14.</td><td class=o>Evang . Joh .3: 16. <mark>Jefsy</mark> . 4 <mark>. f .</mark></td><td class=s>65%</td></tr>
+<tr class=goed><td class=n>25</td><td>Gratiam tamen etiam, <mark>quâ</mark> illud nobis gratis donat &amp;</td><td class=o>Gratiam tamen etiam <mark>, qua</mark> illud nobis gratis donat &amp;</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>26</td><td>imputat.</td><td class=o>imputat <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>27</td><td>XII.</td><td class=o>XII <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>28</td><td>Imputationem hanc meriti Christi melius exprime-</td><td class=o>Imputationem hanc meriti Christi melius exprime¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>29</td><td>re non possumus, <mark>quàm</mark> verbis Catechis. Heidelb. <mark>dum-</mark></td><td class=o>re non possumus <mark>, quam</mark> verbis Catechis <mark>.</mark> Heidelb <mark>. dunu *</mark></td><td class=s>94%</td></tr>
+<tr class=redelijk><td class=n>30</td><td><mark>confitemur, quòd sit illa (quâ</mark> mihi <mark>perfecta</mark> satisfactio,</td><td class=o><mark>( qua</mark> mihi <mark>perfecla</mark> satisfactio <mark>,</mark></td><td class=s>68%</td></tr>
+<tr class=goed><td class=n>31</td><td>justitia &amp; <mark>sanctitas Christi</mark> imputatur ac <mark>donatur, perinde</mark> ac</td><td class=o>justitia &amp; <mark>sanci itas Chrißi</mark> imputatur ac <mark>donatur,perinde</mark> ac</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>32</td><td><mark>si nec ullum peccatum admisissem, nec ulla labes mihi inhæreret,</mark></td><td class=o><mark>Ji necullumpeccatumadmißßem, neculla labesmihi inhareret,</mark></td><td class=s>95%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/pdfs/W08095_Wyss_Dissertatio_theologica_de_remissione_peccatorum_quam_clypeo__1676.pdf#page=10' target=_blank>scan 10</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=goed><td class=n>1</td><td><mark>imò</mark> quasi eam obedientiam, quam <mark>Christus</mark> pro me <mark>præstitit,</mark></td><td class=o><mark>tmo</mark> quasi eam obedientiam, quam <mark>Cbrifim</mark> pro me <mark>prostitit,</mark></td><td class=s>85%</td></tr>
+<tr class=redelijk><td class=n>2</td><td><mark>ipse perfectè præstitissem.)</mark></td><td class=o><mark>ipfipersteSieprostitistem .)</mark></td><td class=s>72%</td></tr>
+<tr class=goed><td class=n>3</td><td>XIII.</td><td class=o>XIII <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>4</td><td>Sed Inst: <mark>si</mark> cum compensatione, <mark>ergò non gra-tis</mark></td><td class=o>Sed Inst <mark>: st</mark> cum compensatione</td><td class=s>76%</td></tr>
+<tr class=goed><td class=n>5</td><td><mark>&amp;c.</mark> ℞. Respectu Christi Deus gratis non remittit</td><td class=o><mark>A</mark> . Respectu Christi Deus gratis non remittit</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>6</td><td>peccata, sed intuitu nostri, satisfactio <mark>propriè</mark> est Chri-</td><td class=o>peccata <mark>.</mark> sed intuitu nostri <mark>,</mark> satisfactio <mark>proprie</mark> est Chri¬</td><td class=s>98%</td></tr>
+<tr class=redelijk><td class=n>7</td><td><mark>sti, non nostra; Imputatur verò</mark> nobis per <mark>fidem</mark> nul-</td><td class=o><mark>vero</mark> nobis per <mark>stdem</mark> nul¬</td><td class=s>59%</td></tr>
+<tr class=goed><td class=n>8</td><td>lo nostro merito <mark>interveniente, Rom.3. v.25. Eph.2:4.5.6.</mark></td><td class=o>lo nostro merito <mark>incervenient SyRom.3. y.2f. Fph.2:4j,</mark></td><td class=s>85%</td></tr>
+<tr class=goed><td class=n>9</td><td>XIV.</td><td class=o>XIV <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>10</td><td>Nec Injustus propterea <mark>dicendus est Deus, quòd</mark></td><td class=o>Nec Injustus propterea</td><td class=s>68%</td></tr>
+<tr class=redelijk><td class=n>11</td><td><mark>peccata in innocente</mark> suo filio puniat, <mark>cùm</mark> subrogatio</td><td class=o>suo filio puniat <mark>, cum</mark> subrogatio</td><td class=s>72%</td></tr>
+<tr class=goed><td class=n>12</td><td>Mediatoris in locum hominum debendi reorum, <mark>justitiæ</mark></td><td class=o>Mediatoris in locum hominum debendi reorum <mark>, justitia;</mark></td><td class=s>99%</td></tr>
+<tr class=goed><td class=n>13</td><td>Dei non adversetur, quod vel totus cultus <mark>Leviticus,</mark></td><td class=o>Dei non adversetur <mark>,</mark> quod vel totus cultus <mark>Levicicus ,</mark></td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>14</td><td>in quo peccatoris locum subibat victima, testatur.</td><td class=o>in quo peccatoris locum subibat victima <mark>,</mark> testatur <mark>,</mark></td><td class=s>100%</td></tr>
+<tr><td class=n>15</td><td>XV.</td><td class=o></td><td class=s></td></tr>
+<tr class=goed><td class=n>16</td><td>Rejicimus <mark>ergò</mark> opiniones Remonstrantium, <mark>quâ</mark></td><td class=o>Rejicimus <mark>ergo</mark> opiniones Remonstrantium</td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>17</td><td>fidem nobis in locum <mark>remissionis</mark> peccatorum imputari</td><td class=o>fidem nobis in locum <mark>remistionis</mark> peccatorum imputari</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>18</td><td>volunt, quia enim in legis fœdere homo propter car-</td><td class=o>volunt <mark>,</mark> quia enim in legis foedere homo propter car¬</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>19</td><td><mark>nis impotentiam</mark> servari non poterat; volunt, Deum</td><td class=o>servari non poterat <mark>;</mark> volunt <mark>,</mark> Deum <mark>_»</mark></td><td class=s>79%</td></tr>
+<tr class=redelijk><td class=n>20</td><td>aliud fœdus Evangelicum <mark>paululùm mitigatum cum</mark></td><td class=o>aliud foedus Evangelicum</td><td class=s>69%</td></tr>
+<tr class=goed><td class=n>21</td><td><mark>hominibus</mark> inivisse, quo obedientia <mark>fidei</mark> exigatur, &amp;</td><td class=o>inivisse <mark>,</mark> quo obedientia <mark>stdei</mark> exigatur <mark>,</mark> &amp;</td><td class=s>86%</td></tr>
+<tr class=goed><td class=n>22</td><td>proinde illam <mark>fidem, tanquàm</mark> partem <mark>obedientiæ</mark> de-</td><td class=o>proinde illam <mark>stdem , tanquäm</mark> partem <mark>obedientite</mark> de¬</td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>23</td><td><mark>bitæ,</mark> nobis imputari in locum <mark>remissionis</mark> peccatorum;</td><td class=o><mark>bita; -</mark> nobis imputari in locum <mark>remistionis</mark> peccatorum <mark>;</mark></td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>24</td><td>sed <mark>cùm</mark> scriptura soli Christi merito perfectam satisfa-</td><td class=o>sed <mark>cum</mark> scriptura soli Christi merito perfectam satisfa¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>25</td><td>ctionem &amp; solutionem tribuat, non potest fides nostra</td><td class=o>ctionem &amp; solutionem tribuat <mark>,</mark> non potest fides nostra <mark>^</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>26</td><td>vel obedientia fidei nostra satisfactio vel pars aliqua illius</td><td class=o>vel obedientia fidei nostra satisfactio vel pars aliqua illius</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>27</td><td>pretii esse; Deinde <mark>quòd si fides</mark> esset obedientia man-</td><td class=o>pretii esse <mark>;</mark> Deinde <mark>quod st stdes</mark> esset obedientia man¬</td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>28</td><td>datorum, Apostolus absurdissimam committeret <mark>tau-</mark></td><td class=o>datorum <mark>,</mark> Apostolus absurdissimam committeret</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>29</td><td>tologiam, dum dicit, <mark>quòd fide justificemur non</mark> operibus,</td><td class=o>tologiam <mark>,</mark> dum dicit <mark>, quodfidejustificemurnon</mark> operibus,</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>30</td><td><mark>Rom.3:</mark> 28. adde <mark>quòd</mark> ipsa fides sit donum Dei &amp; obedien-</td><td class=o><mark>Korn .j:</mark> 2$. adde <mark>quod</mark> ipsa fides sit donum Dei &amp; obedien¬</td><td class=s>90%</td></tr>
+<tr class=goed><td class=n>31</td><td>tia fructus fidei, <mark>1.Tim.1:s. ergò</mark> non meritum pro pec-</td><td class=o>tia fructus fidei <mark>, i . Tm. vf . ergo</mark> non meritum pro pec¬</td><td class=s>94%</td></tr>
+<tr class=goed><td class=n>32</td><td>catis.</td><td class=o>catis.</td><td class=s>100%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/pdfs/W08095_Wyss_Dissertatio_theologica_de_remissione_peccatorum_quam_clypeo__1676.pdf#page=11' target=_blank>scan 11</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=goed><td class=n>1</td><td>XVI.</td><td class=o>XVI</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>2</td><td>Pontificii hac in parte <mark>paululùm</mark> faniores <mark>sunt Re-</mark></td><td class=o>Pontificii hac in parte <mark>paululum</mark> saniores <mark>siintRe-</mark></td><td class=s>94%</td></tr>
+<tr class=goed><td class=n>3</td><td>monstrantibus, dum <mark>satisfactionem Christi</mark> veri filii Dei</td><td class=o>monstrantibus <mark>,</mark> dum <mark>satisfactionemChristi</mark> veri filii Dei</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>4</td><td>pro peccatis <mark>nostris admittant,</mark> quamvis illam non <mark>parùm</mark></td><td class=o>pro peccatis <mark>nostrisadmittant ,</mark> quamvis illam non <mark>parum</mark></td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>5</td><td>extenuent suis satisfactionibus humanis &amp; meritis pro-</td><td class=o>extenuent suis satisfactionibus humanis &amp; meritis pro¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>6</td><td>priis saltem pro peccatis post baptismum <mark>commissis</mark> &amp;</td><td class=o>priis saltem pro peccatis post baptismum <mark>commistis</mark> &amp;</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>7</td><td>venialibus; sed non ab <mark>actualibus tantùm verùm</mark> etiam</td><td class=o>venialibus <mark>;</mark> sed non ab <mark>actualibustantum verum</mark> etiam</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>8</td><td>originali reatu peccati &amp; macula sanguis J. C. F. Dei nos</td><td class=o>originali reatu peccati &amp; macula sanguis J <mark>.</mark> C. F. Dei nos</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>9</td><td><mark>purgat, 1. Joh. 1. v. 7.</mark> Rom. 8: 1. 2. Cor. 7: 1. quod purgato-</td><td class=o>Rom. 8: 1. 2. Cor . 7: <mark>1.</mark> quod purgato¬</td><td class=s>77%</td></tr>
+<tr class=redelijk><td class=n>10</td><td>rium excludit purgatorium Pontif. <mark>omnesquè quae-</mark></td><td class=o>rium excludit purgatorium Pontis,</td><td class=s>83%</td></tr>
+<tr class=goed><td class=n>11</td><td>ftuofas indulgentiarum nundinationes, <mark>missas,</mark> uno ver-</td><td class=o>stuosas indulgentiarum nundinationes <mark>, mistas ,</mark> uno ver¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>12</td><td><mark>bò</mark> merita de congruo <mark>&amp;</mark> condigno, <mark>confectum</mark> opus</td><td class=o><mark>bo</mark> merita de congruo <mark>Lc</mark> condigno <mark>, confictum</mark> opus <mark>0-</mark></td><td class=s>90%</td></tr>
+<tr class=goed><td class=n>13</td><td><mark>operatum.</mark></td><td class=o><mark>peratum.</mark></td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>14</td><td>XVII.</td><td class=o>XVII <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>15</td><td>Et quod <mark>dextrâ concesserunt, sinistrâ</mark> recipiunt;</td><td class=o>Et quod <mark>dextra concesterunt , sinistra</mark> recipiunt <mark>;</mark></td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>16</td><td>putant, absurdum <mark>esse</mark> &amp; ridiculum, nos propter alie-</td><td class=o>putant <mark>,</mark> absurdum <mark>este</mark> &amp; ridiculum <mark>,</mark> nos propter alie¬</td><td class=s>98%</td></tr>
+<tr class=redelijk><td class=n>17</td><td>nam justitiam justificari. <mark>Sed</mark> 1. <mark>ita loquimur cum fcri-</mark></td><td class=o>nam justitiam justificari .</td><td class=s>69%</td></tr>
+<tr class=goed><td class=n>18</td><td>ptura, 2. sepositis aliis rationibus non habent, quod mi-</td><td class=o>ptura <mark>,</mark> 2. sepositis aliis rationibus non habent <mark>,</mark> quod mi¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>19</td><td>rentur, <mark>cùm</mark> ipsi merita Martyrum &amp; satisfactiones hu-</td><td class=o>rentur <mark>, cum</mark> ipsi merita Martyrum &amp; satisfactiones hu¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>20</td><td>manas velint, <mark>posse</mark> per indulgentias papales applicari,</td><td class=o>manas velint <mark>, poste</mark> per indulgentias papales applicari <mark>,</mark></td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>21</td><td>quod non aliter, <mark>quàm</mark> imputatione poterit fieri, ut</td><td class=o>quod non aliter <mark>, quam</mark> imputatione poterit fieri <mark>-</mark> ut</td><td class=s>98%</td></tr>
+<tr class=redelijk><td class=n>22</td><td>quod unus fuperogatione fecit, <mark>alter fecisse id censea-</mark></td><td class=o>quod unus superogatione fecit <mark>-</mark></td><td class=s>72%</td></tr>
+<tr class=goed><td class=n>23</td><td>tur, <mark>adeoquè</mark> meritis Christi derogant, quod homini-</td><td class=o>tur <mark>, adeoque</mark> meritis Christi derogant <mark>,</mark> quod homini¬</td><td class=s>98%</td></tr>
+<tr class=redelijk><td class=n>24</td><td>bus <mark>adscribere blasphemè</mark> non verentur. <mark>Saniores ta-</mark></td><td class=o>bus <mark>adseribere blaspheme</mark> non verentur <mark>.</mark></td><td class=s>82%</td></tr>
+<tr class=goed><td class=n>25</td><td>men sunt Remonstrantes, <mark>quòd</mark> hi justificationem fi-</td><td class=o>men sunt Remonstrantes <mark>, quod</mark> hi justificationem fi¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>26</td><td>dei, id est, observationi legis ex viribus nostris <mark>praesti-</mark></td><td class=o>dei <mark>,</mark> id est <mark>,</mark> observationi legis ex viribus nostris <mark>prtesti-</mark></td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>27</td><td><mark>tae</mark> vendicent, sed Pontificij &amp; Remonstrantes, <mark>dum</mark></td><td class=o><mark>tx</mark> vendicent <mark>,</mark> sed Pontificij &amp; Remonstrantes</td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>28</td><td>aliud extra Christum salutis meritum, aliam peccato-</td><td class=o>aliud extra Christum salutis meritum <mark>,</mark> aliam peccato¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>29</td><td>rum expiationem agnoscunt, nihil aliud faciunt, <mark>quàm</mark></td><td class=o>rum expiationem agnoscunt <mark>,</mark> nihil aliud faciunt <mark>, quam</mark></td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>30</td><td>ipsum Christum abnegare.</td><td class=o>ipsum Christum abnegare.</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>31</td><td>XVIII.</td><td class=o>XVIII <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>32</td><td><mark>Subjectum seu Objectum</mark> est fons seu <mark>peccator.</mark></td><td class=o>est sons seu <mark>peccaton .&#x27;</mark></td><td class=s>61%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/pdfs/W08095_Wyss_Dissertatio_theologica_de_remissione_peccatorum_quam_clypeo__1676.pdf#page=12' target=_blank>scan 12</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=redelijk><td class=n>1</td><td><mark>Rom.</mark> 3:7.8. &amp; <mark>irae</mark> filii. <mark>Eph.</mark> 2:3. sed <mark>verè resipiscens seu</mark></td><td class=o><mark>Jtom. srf</mark> . <mark>S.</mark> &amp; <mark>ira?</mark> filii <mark>. Pph. 2:</mark> 3. sed <mark>vere</mark></td><td class=s>64%</td></tr>
+<tr class=goed><td class=n>2</td><td>Christo datus, Joh. 17: 6. &amp; 9. dico fontem sed <mark>verè</mark> resi-</td><td class=o>Christo datus <mark>,</mark> Joh . 17: <mark>&lt;r.</mark> &amp; 9. dico sontem sed <mark>vere</mark> resi¬</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>3</td><td>piscentem, quod asseritur, <mark>quòd ullô</mark> pacto non absol-</td><td class=o>piscentem <mark>,</mark> quod asseritur <mark>, quod ullo</mark> pacto non absol¬</td><td class=s>95%</td></tr>
+<tr class=afwijkend><td class=n>4</td><td><mark>vat fontem &amp;c.</mark> satis innuitur, <mark>non omnibus Deum</mark></td><td class=o>satis innuitur <mark>,</mark></td><td class=s>50%</td></tr>
+<tr class=redelijk><td class=n>5</td><td>condonare peccata, sed aliquibus <mark>tantùm, iis videli-</mark></td><td class=o>condonare <mark>, iis videli¬</mark> peccata <mark>,</mark> sed aliquibus <mark>tantum</mark></td><td class=s>77%</td></tr>
+<tr class=goed><td class=n>6</td><td>cet, qui resipiscunt &amp; credunt, quod <mark>passim</mark> in scriptura</td><td class=o>cet <mark>,</mark> qui resipiscunt &amp; credunt <mark>,</mark> quod <mark>pastim</mark> in scriptura</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>7</td><td>docetur, <mark>Esai.</mark> 1: <mark>18.</mark> &amp; Matth. 13: 15.</td><td class=o>docetur , <mark>Esai.i: i8.</mark> &amp; Matth . 13: <mark>is.</mark></td><td class=s>90%</td></tr>
+<tr class=goed><td class=n>8</td><td>XIX.</td><td class=o>XIX <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>9</td><td>Ratio <mark>thes. præced.</mark> est evidentissima, <mark>cùm</mark> enim</td><td class=o>Ratio <mark>thesi praxed .</mark> est evidentissima <mark>, cum</mark> enim</td><td class=s>92%</td></tr>
+<tr class=goed><td class=n>10</td><td><mark>resipiscentia &amp; fides</mark> sint conditiones novi fœderis. <mark>Marc. 1:</mark></td><td class=o><mark>resipiscentia&amp;fides</mark> sint conditiones novi foederis. <mark>Mare.</mark></td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>11</td><td><mark>15. Act. 2: 37. 38.</mark> Remissio autem peccatorum <mark>præci-</mark></td><td class=o>Remissio autem peccatorum <mark>prXci-</mark></td><td class=s>90%</td></tr>
+<tr class=goed><td class=n>12</td><td>puum illius beneficium, Luc. <mark>1:</mark> 77. Rom. 11: 27. Heb. 8: <mark>10. 11. 12.</mark></td><td class=o>puum illius beneficium^ Luc <mark>.i:</mark> 77. Rom. 11: 27. Heb.8: 10. <mark>n .iz.</mark></td><td class=s>94%</td></tr>
+<tr class=goed><td class=n>13</td><td>Sequitur eam non nisi resipiscentibus &amp; credentibus ob-</td><td class=o>Sequitur eam non nisi resipiscentibus &amp; credentibus ob¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>14</td><td>tingere. <mark>Alias quoque</mark> assignatur in scriptura. 1. Agno-</td><td class=o>tingere <mark>. Aliasquoque</mark> assignatur in scriptura. 1. Agno¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>15</td><td><mark>scentibus &amp;</mark> confitentibus <mark>peccata, Prov. 28: 13. 1.</mark> Joh. <mark>1: 9.</mark></td><td class=o><mark>scentibus&amp;</mark> confitentibus <mark>peccata,Prov.28:i3.i.</mark> Joh <mark>.vp. pro¬</mark></td><td class=s>92%</td></tr>
+<tr class=goed><td class=n>16</td><td><mark>præterita</mark> non nocent, (inquit August.) si <mark>præsentia non place-</mark></td><td class=o><mark>ferita</mark> non nocent <mark>, (</mark> inquit August <mark>. )</mark> fi <mark>präsentia nonplace¬</mark></td><td class=s>91%</td></tr>
+<tr class=goed><td class=n>17</td><td>bunt. 2. Invocantibus Deum, Psal. 86[?]: 5. <mark>Dan. 9:</mark> 18. Matth. 9: <mark>2.</mark></td><td class=o>bunt. 2. Invocantibus Deum <mark>,</mark> Psal. 8(7: <mark>s.Dan</mark> . <mark>p:</mark> 18. Matth.9: 2,</td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>18</td><td>Officium invocationis <mark>à cunctis exigit</mark> fidelibus, Psal. <mark>32:</mark></td><td class=o>Officium invocationis <mark>a cunctisexigit</mark> fidelibus <mark>,</mark> Psal.32:</td><td class=s>98%</td></tr>
+<tr class=redelijk><td class=n>19</td><td>6. 3. Diligentibus <mark>Deum, Luc. 7: 47. 4. Benè agenti-</mark></td><td class=o>3 . Diligentibus</td><td class=s>59%</td></tr>
+<tr class=goed><td class=n>20</td><td><mark>bus, Gen. 4: 7.</mark> 5. Remittentibus proximo offensas, Mat.</td><td class=o>5. Remittentibus proximo offensas <mark>,</mark> Mat.</td><td class=s>91%</td></tr>
+<tr class=goed><td class=n>21</td><td><mark>6:</mark> 12. 14. 15. Matth. 18. v. ult. <mark>Marc.</mark> 11: 25. Luc. 6: 37. <mark>Quæ</mark> om-</td><td class=o>6: 12.14 .13. Matth. 18. v. ult. <mark>Mare</mark> .11: 27. Luc. 6: 37. <mark>Qu «</mark> om¬</td><td class=s>90%</td></tr>
+<tr class=goed><td class=n>22</td><td>nia in <mark>verè</mark> resipiscentibus concurrunt.</td><td class=o>nia in <mark>vere</mark> resipiscentibus concurrunt <mark>.</mark></td><td class=s>97%</td></tr>
+<tr><td class=n>23</td><td>XX.</td><td class=o></td><td class=s></td></tr>
+<tr class=afwijkend><td class=n>24</td><td><mark>Excluduntur igitur. 1. Homines</mark> non resipiscen-</td><td class=o>non resipiscen¬</td><td class=s>52%</td></tr>
+<tr class=goed><td class=n>25</td><td>tes, quos <mark>idcircò</mark> ne unquam novisse dicet in ultimo die,</td><td class=o>tes <mark>,</mark> quos <mark>idcirco</mark> ne unquam novisse dicet in ultimo die,</td><td class=s>98%</td></tr>
+<tr class=geen><td class=n>26</td><td>Matth. 7: 23.</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=goed><td class=n>27</td><td>XXI.</td><td class=o>XXI <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>28</td><td>Angeli <mark>tùm</mark> mali, quibus Deus omnem reconcilia-</td><td class=o>Angeli <mark>tum</mark> mali <mark>,</mark> quibus Deus omnem reconcilia¬</td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>29</td><td>tionis spem <mark>præcidit,</mark> Jud. v. 6. 2. Pet. 2: 4. <mark>tùm</mark> boni, qui</td><td class=o>tionis spem <mark>procidit ,</mark> Jud <mark>.</mark> v. 6. 2. Pet. 2 -. <mark>4 . tum</mark> boni <mark>,</mark> qui</td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>30</td><td><mark>cùm</mark> Deum <mark>per peccatum</mark> non offenderint, reconciliatio-</td><td class=o><mark>cum</mark> Deum <mark>perpeccatum</mark> non offenderint <mark>,</mark> reconciliatio¬</td><td class=s>98%</td></tr>
+<tr class=redelijk><td class=n>31</td><td>ne per mediatorem <mark>non habent opus.</mark></td><td class=o>ne per mediatorem</td><td class=s>70%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/pdfs/W08095_Wyss_Dissertatio_theologica_de_remissione_peccatorum_quam_clypeo__1676.pdf#page=13' target=_blank>scan 13</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=goed><td class=n>1</td><td>XXII.</td><td class=o>XXII <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>2</td><td>Omnis igitur V. &amp; N. T. remissionis peccatorum</td><td class=o>Omnis igitur V. &amp; N. T <mark>.</mark> remissionis peccatorum</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>3</td><td>fons <mark>&amp;</mark> causa est Christus, neque enim alia <mark>vitæ æternæ</mark></td><td class=o>fons <mark>Sc</mark> causa est Christus <mark>,</mark> neque enim alia <mark>vita sternas</mark></td><td class=s>89%</td></tr>
+<tr class=redelijk><td class=n>4</td><td><mark>consequendæ</mark> ratio in V. <mark>quàm</mark> in N. T. <mark>non est quò</mark></td><td class=o><mark>conscquends</mark> ratio in V. <mark>quam</mark> in N. T.</td><td class=s>75%</td></tr>
+<tr class=goed><td class=n>5</td><td>eas, <mark>nisi</mark> ad Christum, non est <mark>quà</mark> eas, nisi per Chri-</td><td class=o>eas <mark>- mfl</mark> ad Christum <mark>,</mark> non est <mark>qua</mark> eas <mark>,</mark> nisi per Chri¬</td><td class=s>91%</td></tr>
+<tr class=geen><td class=n>6</td><td>stum, Joh. 14: 6. Act. 4: 12. &amp; 15: 11. Heb. 13: 8.</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=goed><td class=n>7</td><td>XXIII.</td><td class=o>XXIII</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>8</td><td>Beneficium ipsum, quod spectat, est condonatio</td><td class=o>Beneficium ipsum <mark>,</mark> quod spectat, est condonatio</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>9</td><td>peccatorum, <mark>imò</mark> omnis generis, minimorum, &amp; ma-</td><td class=o>peccatorum <mark>, imo</mark> omnis generis <mark>,</mark> minimorum <mark>,</mark> &amp; ma¬</td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>10</td><td>ximorum, omnium.</td><td class=o>ximorum <mark>,</mark> omnium.</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>11</td><td>XXIV.</td><td class=o>XXIV</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>12</td><td>Deus condonat peccata, Psal. <mark>32:</mark> 1. Esai. 38: <mark>17.</mark> &amp; cap.</td><td class=o>Deus condonat peccata <mark>,</mark> Psal.32: 1. Esai.38: 17. &amp; cap.</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>13</td><td><mark>43: 12. cap. 44: 17. Jer. 31: 34.</mark> Omnis generis, non tan-</td><td class=o>Omnis generis <mark>,</mark> non tan¬</td><td class=s>86%</td></tr>
+<tr class=goed><td class=n>14</td><td><mark>tùm</mark> minima, sed etiam maxima <mark>imò</mark> omnia. <mark>Condo-</mark></td><td class=o><mark>tum</mark> minima <mark>,</mark> sed etiam maxima <mark>imo</mark> omnia <mark>.</mark></td><td class=s>87%</td></tr>
+<tr class=goed><td class=n>15</td><td>nans iniquitatem <mark>&amp;</mark> defectionem &amp; peccatum, Exod. <mark>34:</mark></td><td class=o>nans iniquitatem <mark>8c</mark> defectionem &amp; peccatum <mark>,</mark> Exod.34:</td><td class=s>96%</td></tr>
+<tr class=redelijk><td class=n>16</td><td><mark>7. Jer. 33: 8. Et mundabo</mark> eos ab omni iniquitate ipso-</td><td class=o>eos ab omni iniquitate ipso¬</td><td class=s>79%</td></tr>
+<tr class=goed><td class=n>17</td><td>rum, qua peccaverint mihi &amp; condonabo omnes ini-</td><td class=o>rum <mark>,</mark> qua peccaverint mihi &amp; condonabo omnes ini¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>18</td><td>quitates ipsorum, quibus peccaverint mihi, &amp; quibus</td><td class=o>quitates ipsorum <mark>,</mark> quibus peccaverint mihi <mark>,</mark> &amp; quibus</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>19</td><td>deficientes rebellaverint, Ezech. 36: 25. <mark>Act. 13: 38. 39. Col. 2:</mark></td><td class=o>deficientes rebellaverint <mark>,</mark> Ezech.36:2$. <mark>AH</mark> .13: 38. <mark>3p. Coi.2:</mark></td><td class=s>91%</td></tr>
+<tr class=redelijk><td class=n>20</td><td><mark>13. 1. Joh. 1: 7. Esai. 38: 17. Reatum</mark> &amp; pœnam, Psal. 32: <mark>2.</mark></td><td class=o>&amp; poenam <mark>,</mark> Psal.31: 2.</td><td class=s>65%</td></tr>
+<tr class=goed><td class=n>21</td><td><mark>Mich.</mark> 7: v. <mark>19. Rom. 3: 24. Eph. 1. v. 7.</mark> Servi cœlestis exemplo,</td><td class=o><mark>CMich.7: v.ip. Rom.3.24 . Eph .i</mark> . v.7. Servi coelestis exemplo <mark>,</mark></td><td class=s>94%</td></tr>
+<tr class=afwijkend><td class=n>22</td><td><mark>Matth. 18: 25.</mark> Confirmatur <mark>quoquè rationibus. 1. A</mark></td><td class=o>Confirmatur</td><td class=s>50%</td></tr>
+<tr class=goed><td class=n>23</td><td>sufficientia J. C. <mark>utpotè quæ</mark> est <mark>adæquata justitiæ</mark> divi-</td><td class=o>sufficientia J. C. <mark>utpote qua?</mark> est <mark>adsquata justitis</mark> divi¬</td><td class=s>91%</td></tr>
+<tr class=goed><td class=n>24</td><td><mark>næ,</mark> quod patet <mark>tùm</mark> ex dignitate <mark>personæ</mark> satisfacien-</td><td class=o><mark>na?,</mark> quod patet <mark>tum</mark> ex dignitate <mark>persons</mark> satisfacien¬</td><td class=s>93%</td></tr>
+<tr class=redelijk><td class=n>25</td><td>tis, <mark>quæ</mark> est <mark>ipse Deus, Act.</mark> 20: <mark>28. Dominus gloriæ, 1. Cor.</mark></td><td class=o>tis <mark>, qua?</mark> est <mark>ipse-Deus, Att.20:</mark> 28.</td><td class=s>66%</td></tr>
+<tr class=redelijk><td class=n>26</td><td>2: 8. <mark>Filius Dei,</mark> 1. <mark>Joh. 1: 7. Filius unigeniti, Joh. 3: 16.</mark></td><td class=o><mark>Filius unigeniti , J0h</mark> . 3 -. <mark>us.</mark></td><td class=s>69%</td></tr>
+<tr class=redelijk><td class=n>27</td><td><mark>Proprius, Rom. 8: 32. tùm</mark> ex gravitate <mark>pœnæ, quæ</mark> pas-</td><td class=o><mark>tum</mark> ex gravitate <mark>poens , qua?</mark> pas¬</td><td class=s>73%</td></tr>
+<tr class=goed><td class=n>28</td><td>sionem, crucifixionem, mortem, sepulturam &amp; descen-</td><td class=o>sionem, crucifixionem <mark>,</mark> mortem <mark>,</mark> sepulturam &amp; descen¬</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>29</td><td><mark>sum</mark> ad inferos complectitur. 2. <mark>A Misericordia Dei</mark></td><td class=o><mark>si m</mark> ad inferos complectitur ,</td><td class=s>72%</td></tr>
+<tr class=goed><td class=n>30</td><td>plane <mark>infinita, cui</mark> omnia peccata nostra, <mark>quantacunquè</mark></td><td class=o>plane <mark>infinita,cui</mark> omnia peccata nostra <mark>, quantacunque</mark></td><td class=s>98%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/pdfs/W08095_Wyss_Dissertatio_theologica_de_remissione_peccatorum_quam_clypeo__1676.pdf#page=14' target=_blank>scan 14</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=goed><td class=n>1</td><td><mark>sint,</mark> non magis <mark>resistere possunt, quàm scintilla in</mark> ma-</td><td class=o><mark>flut ,</mark> non magis <mark>resisterepostimt, quam scintillain</mark> ma¬</td><td class=s>87%</td></tr>
+<tr class=goed><td class=n>2</td><td>re cadens stare potest.</td><td class=o>re cadens stare potest.</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>3</td><td>XXV.</td><td class=o>XXV <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>4</td><td>Ad primam rationem quæritur, si sufficientia Chri-</td><td class=o>Ad primam rationem quaeritur <mark>,</mark> si sufficientia Chri¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>5</td><td>sti est adæquata <mark>justitiæ divinæ &amp;</mark> satisfactum, quare non</td><td class=o>sti est adaequata <mark>justitia; divina; Sc</mark> satisfactum <mark>,</mark> quare non</td><td class=s>94%</td></tr>
+<tr class=goed><td class=n>6</td><td>remittuntur quoque peccata reproborum, quod vide-</td><td class=o>remittuntur quoque peccata reproborum <mark>,</mark> quod vide¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>7</td><td>tur probari ex prima ratione <mark>præced.</mark> thes. <mark>ℛ. Deum</mark></td><td class=o>tur probari ex prima ratione <mark>pr®ced.</mark> thes</td><td class=s>90%</td></tr>
+<tr class=goed><td class=n>8</td><td>nec plus nec minus exegisse, <mark>quàm</mark> quod justitia postu-</td><td class=o>nec plus nec minus exegisse <mark>, quam</mark> quod justitia postu¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>9</td><td>labat; <mark>deindè</mark> sic placuit.</td><td class=o>labat <mark>; deinde</mark> sic placuit.</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>10</td><td>XXVI.</td><td class=o>XXVI <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>11</td><td>Ad alteram rationem movetur <mark>quæstio,</mark> si miseri-</td><td class=o>Ad alteram rationem movetur <mark>qusstio ,</mark> si miseri¬</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>12</td><td>cordia Dei <mark>planè</mark> est infinita, nec omnis generis peccata</td><td class=o>cordia Dei <mark>plane</mark> est infinita <mark>,</mark> nec omnis generis peccata</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>13</td><td>magis resistere possunt <mark>quàm</mark> scintilla in mare cadens,</td><td class=o>magis resistere possunt <mark>quam</mark> scintilla in mare cadens <mark>,</mark></td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>14</td><td>quare non quoque remittitur peccatum in spiritum san-</td><td class=o>quare non quoque remittitur peccatum in spiritum san¬</td><td class=s>100%</td></tr>
+<tr class=geen><td class=n>15</td><td>ctum. ℛ. 1. Pro peccato hoc [illegible, ~10 letters] θυσία, Heb.</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=goed><td class=n>16</td><td><mark>10:26. Perindè</mark> uti sub lege pro certis quibusdam pecca-</td><td class=o><mark>Perinde</mark> uti sub lege pro certis quibusdam pecca¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>17</td><td>tis nullum <mark>Sacrificium expiatorium</mark> fuit ordinatum. 2.</td><td class=o>tis nullum <mark>Sacrificiumexpiatorium</mark> fuit ordinatum ,</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>18</td><td>Insanabile est, nec fieri potest, ut, qui illud patravit ad</td><td class=o>Insanabile est <mark>,</mark> nec fieri potest <mark>,</mark> ut <mark>,</mark> qui illud patravit ad</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>19</td><td>remissionem unquam perveniat, quia nunquam resi-</td><td class=o>remissionem unquam perveniat <mark>,</mark> quia nunquam resi¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>20</td><td>piscentiam est acturus, &amp; gratiam Christi, quo solo uni-</td><td class=o>piscentiam est acturus, &amp; gratiam Christi, quo solo uni-</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>21</td><td>coque pharmaco peccata nostra tolli, <mark>sanariqué possunt,</mark></td><td class=o>coque pharmaco peccata nostra tolli <mark>, sanariquepossunt,</mark></td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>22</td><td>contemptim &amp; <mark>summâ</mark> petulantia rejicit <mark>atqué</mark> dedigna-</td><td class=o>contemptim &amp; <mark>summa</mark> petulantia rejicit <mark>atque</mark> dedigna¬</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>23</td><td><mark>tur.</mark> 3. Deo <mark>omninò</mark> decretum est illud in justitia sua</td><td class=o><mark>3</mark> . Deo <mark>omnino</mark> decretum est illud in justitia sua</td><td class=s>94%</td></tr>
+<tr class=goed><td class=n>24</td><td>punire, <mark>undè</mark> nec <mark>divinæ potentiæ</mark> aut <mark>Misericordiæ</mark> vel</td><td class=o>punire <mark>, unde</mark> nec <mark>divm® potentia;</mark> aut <mark>Misericordi®</mark> vel</td><td class=s>89%</td></tr>
+<tr class=goed><td class=n>25</td><td>etiam meritorum Christi defectui, sed solius Dei volun-</td><td class=o>etiam meritorum Christi defectui, sed solius Dei volun¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>26</td><td>tati &amp; consilio <mark>causa hæc</mark> est adscribenda. <mark>4. Huic pec-</mark></td><td class=o>tati &amp; consilio <mark>causah®c</mark> est adscribenda.</td><td class=s>89%</td></tr>
+<tr class=goed><td class=n>27</td><td>cato speciatim competit, <mark>quòd</mark> sit irremissibile, Matth.</td><td class=o>cato speciatim competit <mark>, quod</mark> sit irremissibile, Matth.</td><td class=s>98%</td></tr>
+<tr class=redelijk><td class=n>28</td><td><mark>12:31.32. Marc. 3:29.</mark> Ubi observandum <mark>Matthæum per</mark></td><td class=o>Ubi observandum</td><td class=s>64%</td></tr>
+<tr class=goed><td class=n>29</td><td>Marcum explicari, nam quod ille dixerat, non iri re-</td><td class=o>Marcum explicari <mark>&gt;</mark> nam quod ille dixerat <mark>,</mark> non iri re¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>30</td><td>missum hoc peccatum, nec in hoc <mark>sæculo</mark> nec in futuro,</td><td class=o>missum hoc peccatum, nec in hoc <mark>seculo</mark> nec in futuro,</td><td class=s>99%</td></tr>
+<tr class=goed><td class=n>31</td><td>hic dicit, <mark>quòd quicunquè</mark> illo obstringitur, non habet</td><td class=o>hic dicit <mark>, quod quicunque</mark> illo obstringitur <mark>,</mark> non habet</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>32</td><td>remissionem peccatorum in <mark>æternum,</mark> sed tenetur <mark>æter-</mark></td><td class=o>remissionem peccatorum in <mark>teternum ,</mark> sed tenetur <mark>®ter-</mark></td><td class=s>96%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/pdfs/W08095_Wyss_Dissertatio_theologica_de_remissione_peccatorum_quam_clypeo__1676.pdf#page=15' target=_blank>scan 15</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=goed><td class=n>1</td><td><mark>nô</mark> judicio, nihil aliud sibi voluit Christus (juxta Chry-</td><td class=o><mark>no</mark> judicio <mark>,</mark> nihil aliud sibi voluit Christus <mark>(</mark> juxta Chry <mark>-</mark></td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>2</td><td>sostomum,) <mark>quàm</mark> insinuare, hoc crimen graviter punien-</td><td class=o>sostomum, <mark>) quam</mark> insinuare ,hoc crimen graviter punien¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>3</td><td>dum &amp; in hac vita &amp; in futura.</td><td class=o>dum &amp; in hac vita &amp; in futura <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>4</td><td>XXVII.</td><td class=o>XXVII</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>5</td><td><mark>Instrumentum</mark> quod est Evangelium <mark>V.&amp; N.T.(nam</mark></td><td class=o>quod est Evangelium <mark>V .5c N .T .(nam</mark></td><td class=s>75%</td></tr>
+<tr class=goed><td class=n>6</td><td><mark>est potentia</mark> Dei <mark>ad salutem</mark> cuivis credenti, Rom. <mark>1: 16.)</mark> obsi-</td><td class=o><mark>esipotentia</mark> Dei <mark>adsalutem</mark> cuivis credenti <mark>,</mark> Rom. <mark>r. id.)</mark> obsi¬</td><td class=s>95%</td></tr>
+<tr class=redelijk><td class=n>7</td><td>gnatur usu sacramentorum, <mark>Circumcisionis, esse signum</mark></td><td class=o>gnatur usu sacramentorum <mark>Rom . 4 : u . Baptismi , Mare. 1: 4.</mark></td><td class=s>67%</td></tr>
+<tr class=redelijk><td class=n>8</td><td>&amp; sigillum <mark>justitiæ fidei, Rom.</mark> 4: 11. <mark>Baptismi, Marc. 1: 4. Luc. 3: 3. Act. 2: 38.</mark></td><td class=o>&amp; sigillum <mark>juflitiaJuki</mark> , <mark>Luca;</mark> 3. <mark>A6I.2:3S.</mark></td><td class=s>62%</td></tr>
+<tr class=goed><td class=n>9</td><td>XXVIII.</td><td class=o>XXVIII</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>10</td><td><mark>Undè</mark> jus peccata remittendi <mark>ministerialiter nem-</mark></td><td class=o><mark>Unde ,</mark> jus peccata remittendi</td><td class=s>70%</td></tr>
+<tr class=goed><td class=n>11</td><td><mark>pè &amp; annunciativè</mark> competit legitimis <mark>Ecclesiæ</mark> ministris,</td><td class=o><mark>pe Sc annunciative</mark> competit legitimis <mark>Ecclesia</mark> ministris <mark>,</mark></td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>12</td><td><mark>Joh. 20: 23.</mark> Si quorum remiseritis peccata, non <mark>verò</mark> ju-</td><td class=o>Si quorum remiseritis peccata <mark>,</mark> non <mark>vero</mark> ju¬</td><td class=s>93%</td></tr>
+<tr class=redelijk><td class=n>13</td><td><mark>dicialiter</mark> &amp; <mark>αὐτονομοθετικῶς</mark> ut Pontif. qui suis sacrificu-</td><td class=o><mark>J0h. 20 -. 23.</mark> &amp; <mark>uuIoxossoeAKat;</mark> ut Pontis <mark>,</mark> qui suis sacrificu¬</td><td class=s>58%</td></tr>
+<tr class=goed><td class=n>14</td><td>lis &amp; presbyteris <mark>auricularibus absolutè</mark> judiciariam pecca-</td><td class=o>lis &amp; presbyteris <mark>auriculariis absolute</mark> judiciariam pecca¬</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>15</td><td>ta remittendi potestatem concedunt.</td><td class=o>ta remittendi potestatem concedunt <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>16</td><td>XXIX.</td><td class=o>XXIX</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>17</td><td><mark>Instrumentum, quò</mark> beneficium hoc accipimus, est</td><td class=o><mark>, quo</mark> beneficium hoc accipimus <mark>,</mark> est</td><td class=s>79%</td></tr>
+<tr class=redelijk><td class=n>18</td><td>fides, non temporaria &amp; miraculorum, <mark>sed vera &amp; Chri-</mark></td><td class=o>fides <mark>,</mark> non temporaria &amp; miraculorum</td><td class=s>83%</td></tr>
+<tr class=goed><td class=n>19</td><td>sto nitens, hinc fide, ex fide &amp; per fidem <mark>nunquàm</mark> ta-</td><td class=o>sto nitens <mark>,</mark> hinc fide <mark>,</mark> ex fide &amp; per fidem <mark>nunquam</mark> ta¬</td><td class=s>98%</td></tr>
+<tr class=redelijk><td class=n>20</td><td>men propter fidem nos <mark>remissionem peccatorum conse-</mark></td><td class=o>men propter fidem nos <mark>remiilionem</mark></td><td class=s>74%</td></tr>
+<tr class=goed><td class=n>21</td><td>qui <mark>&amp;</mark> justificari, Rom. <mark>3:</mark> 28. Gal. 2: 16. dicitur.</td><td class=o>qui <mark>8c</mark> justificari <mark>,</mark> Rom.3; 28. Gal . 2: <mark>iff.</mark> dicitur <mark>.</mark></td><td class=s>90%</td></tr>
+<tr class=goed><td class=n>22</td><td>XXX.</td><td class=o>XXX</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>23</td><td>Sed observa, nam Sociniani <mark>hæretici</mark> idem <mark>præstant;</mark></td><td class=o>Sed observa <mark>,</mark> nam Sociniani <mark>h^retici</mark> idem <mark>pra</mark></td><td class=s>90%</td></tr>
+<tr class=redelijk><td class=n>24</td><td>dum enim cum scriptura dicimus, <mark>nos per fidem ha-</mark></td><td class=o>dum enim cum scriptura dicimus <mark>,</mark></td><td class=s>80%</td></tr>
+<tr class=goed><td class=n>25</td><td>bere remissionem peccatorum, <mark>quoquè</mark> dicunt, nos per</td><td class=o>bere remissionem peccatorum <mark>, quoque</mark> dicunt <mark>,</mark> nos per</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>26</td><td>fidem in Christum consequi remissionem peccatorum,</td><td class=o>fidem in Christum consequi remissionem peccatorum <mark>j</mark></td><td class=s>99%</td></tr>
+<tr class=goed><td class=n>27</td><td>ut in ipsorum scriptis legere est; quis hic prima <mark>fronte</mark></td><td class=o>ut in ipsorum scriptis legere est <mark>;</mark> quis hic prima <mark>fronto</mark></td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>28</td><td>non putaret, <mark>hæc</mark> esse plane orthodoxa, sed si penitius</td><td class=o>non putaret <mark>, h$ c</mark> esse plane orthodoxa <mark>,</mark> sed si penitius</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>29</td><td>inspiciemus, quid per fidem in Christum intelligant, ap-</td><td class=o>inspiciemus <mark>,</mark> quid per fidem in Christum intelligant <mark>,</mark> ap¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>30</td><td>parebit statim virus: Christum enim non <mark>sumunt, ut</mark> nobis</td><td class=o>parebit statim virus <mark>:</mark> Christum enim non <mark>sumunt,ut</mark> nobis</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>31</td><td><mark>proponitur</mark> cum suis meritis <mark>verâ</mark> fide apprehendendus,</td><td class=o>cum suis meritis <mark>vera</mark> fide apprehendendus <mark>,</mark></td><td class=s>85%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/pdfs/W08095_Wyss_Dissertatio_theologica_de_remissione_peccatorum_quam_clypeo__1676.pdf#page=16' target=_blank>scan 16</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=goed><td class=n>1</td><td>sed <mark>tantùm</mark> ita, ut ei viam salutis annuncianti &amp; vitam <mark>æ-</mark></td><td class=o>sed <mark>cantum</mark> ita <mark>,</mark> ut ei viam salutis annuncianti &amp; vitam <mark>se¬</mark></td><td class=s>94%</td></tr>
+<tr class=goed><td class=n>2</td><td><mark>ternam sub conditione</mark> fidei, id est, <mark>obedientiæ</mark> suis pr-</td><td class=o><mark>cernam lub condicione</mark> fidei <mark>,</mark> id est, <mark>obedientia ?</mark> suis pr$-</td><td class=s>92%</td></tr>
+<tr class=goed><td class=n>3</td><td><mark>æceptis præstandæ</mark> nobis promittenti confidamus, id enim</td><td class=o><mark>ceptis prostanda ?</mark> nobis promittenti confidamus <mark>,</mark> id enim</td><td class=s>94%</td></tr>
+<tr class=goed><td class=n>4</td><td>fidei nomine in Christum ab ipsis intelligitur, quod in</td><td class=o>fidei nomine in Christum ab ipsis intelligitur <mark>,</mark> quod in</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>5</td><td>rei veritate plane contrarium.</td><td class=o>rei veritate plane contrarium <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>6</td><td>XXXI</td><td class=o>XXXI</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>7</td><td><mark>℞. 1.</mark> Fides &amp; Obedientia se habent instar <mark>causæ &amp;</mark></td><td class=o>Fides &amp; Obedientia se habent instar <mark>causa? Sc</mark></td><td class=s>94%</td></tr>
+<tr class=goed><td class=n>8</td><td>effectus, arboris &amp; fructus, 1.Tim.1:5. finis mandati est</td><td class=o>effectus <mark>,</mark> arboris &amp; fructus <mark>, i .</mark> Tim. <mark>i : s.</mark> finis mandati est</td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>9</td><td><mark>charitas</mark> ex mundo corde, cor autem <mark>fide</mark> purgatur,</td><td class=o><mark>tharitas</mark> ex mundo corde <mark>,</mark> cor autem <mark>ßde</mark> purgatur <mark>,</mark></td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>10</td><td><mark>⌣Act. 15.v.9.</mark> Causa autem non est ipsum effectum, nec esse-</td><td class=o>Causa autem non est ipsum effectum <mark>,</mark> nec effe¬</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>11</td><td>ctum ipsa causa, ergo etiam fides non est <mark>ipsa obedientia,</mark></td><td class=o>ctum ipsa causa <mark>,</mark> ergo etiam fides non est <mark>ipsaobedientia ,</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>12</td><td>sed ipsius causa, nec obedientia est ipsa fides sed ejus ef-</td><td class=o>sed ipsius causa <mark>,</mark> nec obedientia est ipsa fides sed ejus ef¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>13</td><td>sectum, an vera &amp; viva <mark>sit</mark> nec ne, ut arbor dignoscitur</td><td class=o>fectum <mark>,</mark> an vera &amp; viva <mark>sic</mark> nec ne <mark>,</mark> ut arbor dignoscitur</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>14</td><td><mark>ex</mark> suis fructibus, bona arbor enim profert bonos fru-</td><td class=o><mark>cx</mark> suis fructibus <mark>,</mark> bona arbor enim profert bonos fru¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>15</td><td>ctus, Matth.7:17.</td><td class=o>ctus <mark>,</mark> Matth <mark>.j : 17.</mark></td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>16</td><td><mark>℞. 2.</mark> Fidei tribuuntur effecta, <mark>quæ</mark></td><td class=o>Fidei tribuuntur effecta <mark>, qua?</mark></td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>17</td><td>nunquam tribuuntur <mark>obedientiæ aut operibus.</mark> At si fi-</td><td class=o>nunquam tribuuntur At si fi¬ <mark>obedientia ? aut operibus .</mark></td><td class=s>85%</td></tr>
+<tr class=goed><td class=n>18</td><td>des esset obedientia, parva cum fide haberet effecta, ju-</td><td class=o>des effet obedientia <mark>,</mark> parva cum fide haberet effecta <mark>,</mark> ju¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>19</td><td>stificatio <mark>tantùm</mark> tribuitur fidei, Rom.4:3. <mark>Joh.1:12.</mark></td><td class=o>stificatio <mark>tantum</mark> tribuitur fidei <mark>,</mark> Rom. <mark>4: 3. John : 12.</mark></td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>20</td><td><mark>℞. 3.</mark> Distinguuntur suis objectis; objectum fidei sunt promis-</td><td class=o>Distinguuntur suis objectis <mark>;</mark> objectum fidei sunt promis¬</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>21</td><td>siones <mark>Evangelicæ: Objectum verò obedientiæ</mark> est lex:</td><td class=o>siones <mark>Evangelien vero obedientin</mark> est lex <mark>:</mark></td><td class=s>80%</td></tr>
+<tr class=redelijk><td class=n>22</td><td><mark>Evangelium</mark> est norma credendorum, Lex <mark>verò</mark> facien-</td><td class=o>est norma credendorum <mark>,</mark> Lex <mark>vero</mark> facien¬</td><td class=s>84%</td></tr>
+<tr class=goed><td class=n>23</td><td>dorum.</td><td class=o>dorum <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>24</td><td>℞. 4. Fides &amp; Obedientia, <mark>quæ</mark> nihil aliud est,</td><td class=o><mark>tz.</mark> 4 . Fides &amp; Obedientia <mark>, qua?</mark> nihil aliud est,</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>25</td><td><mark>quàm</mark> opus, sibi mutuo <mark>è</mark> diametro opponuntur, <mark>ergò</mark></td><td class=o><mark>quam</mark> opus <mark>,</mark> sibi mutuo <mark>e</mark> diametro opponuntur <mark>, ergo</mark></td><td class=s>92%</td></tr>
+<tr class=goed><td class=n>26</td><td>non sunt idem, secus nulla esset oppositio; <mark>deindè</mark> si</td><td class=o>non sunt idem <mark>-</mark> secus nulla esset oppositio <mark>; deinde</mark> si</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>27</td><td>fides <mark>sit</mark> obedientia mandatorum, Apostolus absurdissi-</td><td class=o>fides <mark>sic</mark> obedientia mandatorum <mark>,</mark> Apostolus absurdissi¬</td><td class=s>98%</td></tr>
+<tr class=redelijk><td class=n>28</td><td>mam <mark>comitteret</mark> tautologiam. Justificationem <mark>fidei tri-</mark></td><td class=o>mam <mark>comicteret</mark> tautologiam <mark>fidei,tri¬ .</mark> Justificationem</td><td class=s>81%</td></tr>
+<tr class=goed><td class=n>29</td><td>buendo, &amp; operibus adimendo, dum dicit, fide justifi-</td><td class=o>buendo <mark>,</mark> &amp; operibus adimendo <mark>,</mark> dum dicit <mark>,</mark> fide justifi¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>30</td><td>cari hominem absque operibus legis, Rom.3:28.</td><td class=o>cari hominem absque operibus legis <mark>,</mark> Rom.3: <mark>2$.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>31</td><td><mark>℞.</mark> 5. Tan-</td><td class=o>5. Tan¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>32</td><td>dem etiam differunt definitionibus; nam fides definitur</td><td class=o>dem etiam differunt definitionibus <mark>;</mark> nam fides definitur</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>33</td><td>ab Apostolo, <mark>Heb.11:v.1. quòd</mark> sit fiducialis apprehensio</td><td class=o>ab Apostolo <mark>, Heb . 11: v. 1. quod</mark> sit fiducialis apprehensio</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>34</td><td>meriti Christi, Obedientia mandatorum, etiam ex men-</td><td class=o>meriti Christi <mark>,</mark> Obedientia mandatorum <mark>,</mark> etiam ex men¬</td><td class=s>100%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/pdfs/W08095_Wyss_Dissertatio_theologica_de_remissione_peccatorum_quam_clypeo__1676.pdf#page=17' target=_blank>scan 17</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=goed><td class=n>1</td><td>te adversariorum est impletio legis, <mark>differunt ergò</mark> ge-</td><td class=o>te adversariorum est impletio legis <mark>, disterunt ergo</mark> ge¬</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>2</td><td>nere &amp; forma,</td><td class=o>nere &amp; forma,</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>3</td><td>XXXII.</td><td class=o>XXXII</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>4</td><td>At pestilentissimi hæretici nondum acquiescunt,</td><td class=o>At pestilentissimi haeretici nondum acquiescunt,</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>5</td><td>sed, ut <mark>hæc</mark> sua mandatorum obedientia in justificationem</td><td class=o>sed, ut <mark>h*c</mark> sua mandatorum obedientia in justificationem</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>6</td><td>cederet, non quidem intuitu operum, quasi ea id mere-</td><td class=o>cederet <mark>,</mark> non quidem intuitu operum <mark>,</mark> quasi ea id mere¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>7</td><td><mark>ntur,</mark> dicunt, <mark>summâ</mark> Dei <mark>clementiâ</mark> atque misericor-</td><td class=o><mark>rentur ,</mark> dicunt <mark>, summa</mark> Dei <mark>clementia</mark> atque misericor¬</td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>8</td><td><mark>diâ</mark> fieri, ut nos quamvis non <mark>perfectè</mark> justi simus, ta-</td><td class=o><mark>dia</mark> fieri <mark>,</mark> ut nos quamvis non <mark>perfecte</mark> justi simus <mark>,</mark> ta¬</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>9</td><td>men pro talibus reputemur, &amp; ita nobiscum <mark>agitur</mark> ac si</td><td class=o>men pro talibus reputemur <mark>,</mark> &amp; ita nobiscum <mark>agitut</mark> ac si</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>10</td><td><mark>perfectè</mark> justi fuissemus.</td><td class=o><mark>perfecte</mark> justi fuissemus.</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>11</td><td>XXXIII.</td><td class=o>XXXIII</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>12</td><td><mark>Hæc</mark> ex parte <mark>benè</mark> dicta essent, si concederent, il-</td><td class=o><mark>Ha?c</mark> ex parte <mark>bene</mark> dicta essent <mark>,</mark> si concederent <mark>,</mark> il¬</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>13</td><td>lam divinam clementiam inniti <mark>satisfactioni Christi</mark> pro</td><td class=o>lam divinam clementiam inniti <mark>satisfactioniChristi</mark> pro</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>14</td><td>peccatis nostris loco nostro <mark>præstitæ,</mark> at quamdiu hoc</td><td class=o>peccatis nostris loco nostro <mark>praestitas ,</mark> at quamdiu hoc</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>15</td><td>fundamentum non habent, nihil sani hac de re possunt</td><td class=o>fundamentum non habent <mark>,</mark> nihil fani hac de re possunt</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>16</td><td>docere, sed error errorem generabit exitialem; deinde</td><td class=o>docere <mark>,</mark> sed error errorem generabit exitialem <mark>;</mark> deinde</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>17</td><td>errant in eo, <mark>quòd</mark> illam observationem mandatorum</td><td class=o>errant in eo <mark>, quod</mark> illam observationem mandatorum</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>18</td><td>pro virili sua parte legi præstitam <mark>divinâ</mark> benignitate</td><td class=o>pro virili sua parte legi praestitam <mark>divina</mark> benignitate</td><td class=s>98%</td></tr>
+<tr class=redelijk><td class=n>19</td><td>ipsis in justitiam putent imputari. <mark>Nam</mark> 1. <mark>illa obser-</mark></td><td class=o>ipsis in justitiam putent imputari .</td><td class=s>83%</td></tr>
+<tr class=goed><td class=n>20</td><td>vatio mandatorum est opus, at justificatio nostri coram</td><td class=o>vatio mandatorum est opus <mark>,</mark> at justificatio nostri coram</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>21</td><td>Deo constanter operibus adimitur, &amp; quamvis secun-</td><td class=o>Deo constanter operibus adimitur <mark>,</mark> &amp; quamvis secun¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>22</td><td>dum ipsos opus sit imperfe-ctum, nec tamen gratia cum</td><td class=o>dum ipsos opus sit imperfectum <mark>,</mark> nec tamen gratia cum</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>23</td><td>illo potest consistere, quia fides <mark>&amp; gratia</mark> operibus, non</td><td class=o>illo potest consistere, quia fides <mark>&amp;gratia</mark> operibus <mark>,</mark> non</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>24</td><td>opera imperfecta perfectis opponuntur. 2. <mark>Si justifica-</mark></td><td class=o>opera imperfecta perfectis opponuntur ,</td><td class=s>86%</td></tr>
+<tr class=redelijk><td class=n>25</td><td>tio fieret ex illa prætensa obedientia, <mark>imputatio fieret</mark></td><td class=o>tio fieret ex illa praetenfa obedientia</td><td class=s>82%</td></tr>
+<tr class=goed><td class=n>26</td><td>aliquo modo ex debito, non <mark>absolutè</mark> ex gratia. <mark>3. Re-</mark></td><td class=o>aliquo modo ex debito <mark>,</mark> non <mark>absolute</mark> ex gratia,</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>27</td><td>pugnat opus tale imperfe-ctum ex Dei gratia pro perse-</td><td class=o>pugnat opus tale imperfectum ex Dei gratia pro perfe¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>28</td><td>cto haberi, per quandam acceptilationem seu imagi-</td><td class=o>cto haberi <mark>,</mark> per quandam acceptilationem seu imagi¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>29</td><td>nariam solutionem, <mark>quæ</mark> apud Deum <mark>justissimum Judi-</mark></td><td class=o>nariam solutionem <mark>, quD</mark> apud Deum <mark>justissimumJudi¬</mark></td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>30</td><td>cem locum non habet, cujus judicium est <mark>secundùm-</mark></td><td class=o>cem locum non habet <mark>,</mark> cujus judicium est <mark>fecundum,»</mark></td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>31</td><td>veritatem, <mark>à</mark> quo <mark>proindè</mark> multum abest, ut imperfe-</td><td class=o>veritatem <mark>, a</mark> quo <mark>proinde</mark> multum abest <mark>,</mark> ut imperfe¬</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>32</td><td>ctum pro perfecto reputet, sed remissio peccatorum</td><td class=o>ctum pro perfecto reputet <mark>,</mark> sed remissio peccatorum</td><td class=s>100%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/pdfs/W08095_Wyss_Dissertatio_theologica_de_remissione_peccatorum_quam_clypeo__1676.pdf#page=18' target=_blank>scan 18</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=goed><td class=n>1</td><td>nostrorum seu nostri justificatio coram Deo tribuitur</td><td class=o>nostrorum seu nostri justificatio coram Deo tribuitur</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>2</td><td>Christo &amp; ejus satisfactioni pro nobis, sic enim sangui-</td><td class=o>Christo &amp; ejus satisfactioni pro nobis <mark>,</mark> sic enim sangui¬</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>3</td><td>ni ejus tribuitur, <mark>Eph.1:7.</mark> 1.Joh.1:7. &amp; 2:2. <mark>Ejus morti</mark></td><td class=o>ni ejus tribuitur <mark>, Eph.v 7. i .</mark> Joh <mark>.i: ?.</mark> &amp; 2: <mark>2.</mark></td><td class=s>79%</td></tr>
+<tr class=goed><td class=n>4</td><td>&amp; resurrectioni, Rom. 4:25. &amp; ex hoc fonte <mark>prodit, quòd</mark></td><td class=o>&amp; resurrectioni <mark>,</mark> Rom. 4: <mark>2s.</mark> &amp; ex hoc fonte <mark>prodit,quod</mark></td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>5</td><td>obedientia nostra <mark>aliàs</mark> imperfecta, <mark>quæ</mark> ex fide proce-</td><td class=o>obedientia nostra <mark>alias</mark> imperfecta <mark>, qus</mark> ex fide proce¬</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>6</td><td>dit, <mark>&amp; à nobis spiritu</mark> Dei regenerantis <mark>præstatur, à</mark> Deo</td><td class=o>dit <mark>. Lca nobisspiritu</mark> Dei regenerantis <mark>prsstatur , a</mark> Deo</td><td class=s>88%</td></tr>
+<tr class=goed><td class=n>7</td><td><mark>tanquàm</mark> bonum opus acceptetur, <mark>eò quòd</mark> illius imper-</td><td class=o><mark>tanquäm</mark> bonum opus acceptetur <mark>, eo quod</mark> illius imper¬</td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>8</td><td>sectiones &amp; <mark>scoriæ admixtæ obedientiâ</mark> Christi <mark>perfectâ</mark></td><td class=o>fectiones &amp; <mark>scoria? admixts obedientia</mark> Christi <mark>perfecta</mark></td><td class=s>92%</td></tr>
+<tr class=goed><td class=n>9</td><td>tegantur, &amp; ita denominatio fiat <mark>à</mark> meliori parte.</td><td class=o>tegantur <mark>,</mark> &amp; ita denominatio fiat <mark>a</mark> meliori parte.</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>10</td><td>XXXIV.</td><td class=o><mark>-</mark> XXXIV</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>11</td><td>Finis ultimus <mark>remissionis peccatorum</mark> est illustratio</td><td class=o>Finis ultimus <mark>remissionispeccatorum</mark> est illustratio</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>12</td><td><mark>gloriæ</mark> Dei, <mark>gratiæ &amp; misericordiæ,</mark> Eph.1:6. <mark>Tit.2:11.12.</mark></td><td class=o><mark>gloris</mark> Dei, <mark>gratis Sc misericordis ,</mark> Eph. <mark>1: 6. Tit.z: n . 12„</mark></td><td class=s>80%</td></tr>
+<tr class=goed><td class=n>13</td><td>13. 1.Cor.1:31. 2.Cor.5:19.21.</td><td class=o><mark>13. /</mark> . Cor. <mark>1: 31. 2.</mark> Cor./ <mark>: ip. 21.</mark></td><td class=s>86%</td></tr>
+<tr class=goed><td class=n>14</td><td>XXXV.</td><td class=o>XXXV</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>15</td><td>Finis proximus <mark>est hominis</mark> bonum seu salus, ex ef-</td><td class=o>Finis proximus <mark>esthominis</mark> bonum seu salus, ex ef¬</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>16</td><td>sectis intelligitur, Joh.5:24. 1. <mark>Adoptio in filios Dei,</mark></td><td class=o>fectis intelligitur <mark>,</mark> Joh. <mark>f:</mark> 24 <mark>.</mark></td><td class=s>72%</td></tr>
+<tr class=goed><td class=n>17</td><td>nam ut nulla est condemnatio iis, qui sunt in Jesu Chri-</td><td class=o>nam ut nulla est condemnatio iis <mark>,</mark> qui sunt in Jesu Chri¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>18</td><td>sto, qui non <mark>secundùm</mark> carnem, sed <mark>secundùm</mark> spiri-</td><td class=o>sto <mark>,</mark> qui non <mark>secundum</mark> carnem <mark>,</mark> sed <mark>secundum</mark> spiri¬</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>19</td><td>tum ambulant, ita quotquot spiritu Dei aguntur, ii sunt</td><td class=o>tum ambulant <mark>,</mark> ita quotquot spiritu Dei aguntur <mark>,</mark> ii sunt</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>20</td><td>filii Dei, <mark>adeoquè</mark> etiam <mark>hæredes, hæredes</mark> quidem Dei,</td><td class=o>filii Dei, <mark>adebque</mark> etiam <mark>hsredes , hsredes</mark> quidem Dei,</td><td class=s>89%</td></tr>
+<tr class=goed><td class=n>21</td><td><mark>cohæredes verò</mark> Christi, Rom.8:1.17. quem quotquot ex-</td><td class=o><mark>cohsredes vero</mark> Christi, Rom.8: <mark>1.17.</mark> quem quotquot ex¬</td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>22</td><td>ceperunt, dedit eis hoc jus, ut filii Dei sint facti, nem-</td><td class=o>ceperunt <mark>,</mark> dedit eis hoc jus <mark>,</mark> ut filii Dei sint facti <mark>,</mark> nem¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>23</td><td>pe ijs, qui credunt in nomen ejus, <mark>Joh.1:12.</mark> 2. <mark>Liber-</mark></td><td class=o>pe ijs <mark>,</mark> qui credunt in nomen ejus , <mark>Joh.i: 12.</mark></td><td class=s>94%</td></tr>
+<tr class=redelijk><td class=n>24</td><td>tas christiana, Joh.8:36. <mark>Galat.5:1.</mark> 3. <mark>Pax conscientiæ,</mark></td><td class=o>tas christiana, Joh. 8: <mark>3(1. Calat. /. 1.</mark></td><td class=s>70%</td></tr>
+<tr class=goed><td class=n>25</td><td><mark>Rom.5:1.2.</mark> 4. Liber <mark>aditus ad</mark> Deum, Heb.4:16. Eph.3:12.</td><td class=o><mark>Rom.s: i. 2. 4</mark> . Liber <mark>aditusad</mark> Deum <mark>,</mark> Heb. <mark>4: 16.</mark> Eph <mark>. 3: 12.</mark></td><td class=s>96%</td></tr>
+<tr class=redelijk><td class=n>26</td><td>5. Tolerantia crucis, Rom.5:3. <mark>6. Sanctificatio &amp; stu-</mark></td><td class=o>5. Tolerantia crucis <mark>,</mark> Rom. <mark>f:3.</mark></td><td class=s>70%</td></tr>
+<tr class=redelijk><td class=n>27</td><td>dium bonorum operum, <mark>Tit.2:11.12.</mark> 7. <mark>Glorificatio &amp;</mark></td><td class=o>dium bonorum operum , <mark>Ttt. 2 : //. 12.</mark></td><td class=s>74%</td></tr>
+<tr class=goed><td class=n>28</td><td>salus <mark>æterna.</mark></td><td class=o>salus <mark>sterna .</mark></td><td class=s>87%</td></tr>
+<tr class=goed><td class=n>29</td><td>XXXVI.</td><td class=o>XXXVI</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>30</td><td>Proprietates <mark>materiæ nostræ</mark> sunt. 1. Remissio pec-</td><td class=o>proprietates <mark>materis nostrs</mark> sunt . <mark>i.</mark> Remissio pec-</td><td class=s>92%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/pdfs/W08095_Wyss_Dissertatio_theologica_de_remissione_peccatorum_quam_clypeo__1676.pdf#page=19' target=_blank>scan 19</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=goed><td class=n>1</td><td>catorum fit unico actu &amp; semel, Heb.10:2. 2. <mark>Est im-</mark></td><td class=o>catorum fit unico actu &amp; semel <mark>,</mark> Heb. 10 <mark>: 2.</mark></td><td class=s>92%</td></tr>
+<tr class=goed><td class=n>2</td><td>mutabilis juxta naturam Dei, cui repugnat peccata se-</td><td class=o>mutabilis juxta naturam Dei <mark>,</mark> cui repugnat peccata se¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>3</td><td>mel <mark>remissa</mark> iterum punire, ideo Paulo <mark>persuasum erat,</mark></td><td class=o>mel <mark>remiisa</mark> iterum punire <mark>,</mark> ideo Paulo <mark>persuasumerat,</mark></td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>4</td><td>neque mortem, neque vitam neque Ang: &amp;c. <mark>Rom.8:</mark></td><td class=o>neque mortem <mark>,</mark> neque vitam neque Ang <mark>:</mark> &amp;c.</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>5</td><td><mark>37.38.39.</mark> 3. Est perfecta, expers quoad se omnis in- &amp;</td><td class=o>3. Est perfecta <mark>,</mark> expers quoad se omnis in- &amp;</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>6</td><td>decrementi, Jes.43:5. <mark>Psalm.103:12. Non per ludum-</mark></td><td class=o>decrementi <mark>,</mark> Jes. <mark>^</mark></td><td class=s>62%</td></tr>
+<tr class=goed><td class=n>7</td><td>&amp; jocum, sed serio <mark>nobiscum</mark> agit Deus, remittens, id</td><td class=o>&amp; jocum <mark>»</mark> sed serio <mark>nobiseum</mark> agit Deus, remittens <mark>,</mark> id</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>8</td><td>est non reputans, sed tegens peccata nostra, Psalm.32:1.</td><td class=o>est non reputans, sed tegens peccata nostra <mark>,</mark> Psalm.32: <mark>1.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>9</td><td><mark>Liturâm[?]</mark> enim gratiose chirographo nostro inducit, la-</td><td class=o><mark>Lituram</mark> enim gratiose chirographo nostro inducit <mark>,</mark> la¬</td><td class=s>98%</td></tr>
+<tr class=redelijk><td class=n>10</td><td><mark>cerat &amp; abjicit.</mark> 4. Etiam est certissima, si enim a-</td><td class=o><mark>4</mark> . Etiam est certissima, si enim a-</td><td class=s>78%</td></tr>
+<tr class=goed><td class=n>11</td><td><mark>gnoscit</mark> bos possessorem suum &amp; asinus <mark>praesepe</mark> Domini</td><td class=o><mark>gnoseit</mark> bos possessorem suum &amp; asinus <mark>prassepe</mark> Domini</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>12</td><td><mark>sui, Esai.1:3.</mark> quomodo genus electum, regale sacer-</td><td class=o>quomodo genus electum <mark>,</mark> regale sacer¬</td><td class=s>90%</td></tr>
+<tr class=goed><td class=n>13</td><td>dotium, gens <mark>sancta,</mark> populus quem sibi Deus ut pro-</td><td class=o>dotium <mark>,</mark> gens <mark>tancta ,</mark> populus quem sibi Deus ut pro¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>14</td><td>prium vendicat, virtutes illius non <mark>praedicabit, qui</mark></td><td class=o>prium vendicat <mark>,</mark> virtutes illius non <mark>pnedicabit ,</mark></td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>15</td><td>vocavit e tenebris in admirabilem suam lucem, 1.Petr.</td><td class=o>vocavit e tenebris in admirabilem suam lucem <mark>, 1.</mark> Petr.</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>16</td><td><mark>2:9.</mark> Purificat Deus sibi ipsi populum peculiarem, se-</td><td class=o>Purificat Deus sibi ipsi populum peculiarem <mark>,</mark> se¬</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>17</td><td>ctatorem bonorum operum, <mark>Tit.2:14. Qui per opera</mark></td><td class=o>ctatorem bonorum operum <mark>, 7it. 2: 14.</mark></td><td class=s>79%</td></tr>
+<tr class=goed><td class=n>18</td><td>purificationis <mark>suae &amp;</mark> electionis conscius: habens spem</td><td class=o>purificationis <mark>sure 8c</mark> electionis conscius <mark>:</mark> habens spem</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>19</td><td>hanc in eo sitam, castum se conservat, sicut <mark>&amp;</mark> ille</td><td class=o>hanc in eo sitam <mark>,</mark> castum se conservat <mark>,</mark> sicut <mark>Sc</mark> ille</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>20</td><td>castus est, 1.Joh.3:23. <mark>Rom.5:1. Eph.3:12. 1.Joh.3:14.</mark> Jac.</td><td class=o>castus est, <mark>j.Joh .3: 23. Rom.s: /. Eph.3: iz. i.</mark> Joh <mark>- 3: 14.</mark> Jac.</td><td class=s>91%</td></tr>
+<tr class=goed><td class=n>21</td><td><mark>1:6.</mark> Interna sp. s. testificatione, <mark>Rom.8:15. 1.Cor.2:12.</mark></td><td class=o>Interna sp. f. testificatione, <mark>Rorn.% : 15.</mark></td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>22</td><td>2.Cor.1:21. Gal.4:6. &amp; aliis locis, inductione <mark>exemplo-</mark></td><td class=o><mark>z.</mark> Cor. <mark>w 21.</mark> Gal. <mark>4 : 6.</mark> &amp; alijs locis <mark>,</mark> inductione</td><td class=s>86%</td></tr>
+<tr class=goed><td class=n>23</td><td>rum. Abrah: Rom.4:11.16.18. Job.19:25. Pauli, <mark>Rom.8:38.</mark></td><td class=o>rum <mark>.</mark> Abrah <mark>:</mark> Rom.4 <mark>: 11. 16. 18 .</mark> Job.19 <mark>: 2j.</mark> Pauli,</td><td class=s>90%</td></tr>
+<tr class=goed><td class=n>24</td><td>XXXVII.</td><td class=o>XXXVII <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>25</td><td>Coronodis loco apponam <mark>Satanae</mark> objectionem,</td><td class=o>Coronodis loco apponam <mark>Satante</mark> objectionem,</td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>26</td><td>aggravando &amp; ob oculos ponendo nobis nostra innume-</td><td class=o>aggravando &amp; ob oculos ponendo nobis nostra innume¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>27</td><td>rabilia peccata, sed Resp. credere, id est, firmiter sta-</td><td class=o>rabilia peccata, sed Resp. credere <mark>,</mark> id est <mark>,</mark> firmiter sta¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>28</td><td>tuere, remissa esse nobis per Christum omnia peccata;</td><td class=o>tuere <mark>,</mark> remissa esse nobis per Christum omnia peccata_. <mark>;</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>29</td><td><mark>quae</mark> consolatio est solius <mark>Ecclesiae; Num.</mark> 23: <mark>25.26. Jes.</mark></td><td class=o><mark>quX</mark> consolatio est solius <mark>Ecclesia</mark> ;</td><td class=s>85%</td></tr>
+<tr class=goed><td class=n>30</td><td>33: 24. Extra eam nulla salus, <mark>Joël.2:32. Act.2:47. Ea-</mark></td><td class=o>33: 24. Extra eam nulla salus <mark>, Joel .2^32.</mark></td><td class=s>86%</td></tr>
+<tr class=goed><td class=n>31</td><td>que princeps <mark>&amp;</mark> fundamentum omnium <mark>reliquarum</mark></td><td class=o>que princeps <mark>Lc</mark> fundamentum omnium <mark>reliquarumj</mark></td><td class=s>94%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/pdfs/W08095_Wyss_Dissertatio_theologica_de_remissione_peccatorum_quam_clypeo__1676.pdf#page=20' target=_blank>scan 20</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=goed><td class=n>1</td><td>consolationum. Ubi enim <mark>remissio peccatorum est, ibi vi-</mark></td><td class=o>consolationum <mark>.</mark> Ubi enim <mark>remisiopeccatorum esi ,</mark></td><td class=s>93%</td></tr>
+<tr class=redelijk><td class=n>2</td><td>ta &amp; <mark>æterna salus; inquit Lutherus rectè; nam si</mark></td><td class=o>ta &amp; <mark>aternasalus Lucherus recte</mark></td><td class=s>76%</td></tr>
+<tr class=goed><td class=n>3</td><td><mark>Deus</mark> pro nobis, quis contra nos, Rom. 8:31. Exinde <mark>existit</mark></td><td class=o>pro nobis <mark>,</mark> quis contra nos <mark>,</mark> Rom. 8 <mark>: 31 .</mark> Exinde <mark>existic</mark></td><td class=s>92%</td></tr>
+<tr class=goed><td class=n>4</td><td>gloriatio &amp; exultatio illa Apost: Rom. 8: 33. &amp;c. Mo-</td><td class=o>gloriatio &amp; exultatio illa Apost <mark>:</mark> Rom. 8: 33. &amp;c. Mo¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>5</td><td>veat <mark>itaquè</mark> hic uberrimus fructus omnes Christianos,</td><td class=o>veat <mark>itaque</mark> hic uberrimus fructus omnes Christianos</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>6</td><td>hac ex doctrina dimanans. Quis ille? Bona conscien-</td><td class=o>hac ex doctrina dimanans <mark>.</mark> Quis ille <mark>?</mark> Bona conscien¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>7</td><td>tia &amp; deinceps vita perennis. Persuasus enim de</td><td class=o>tia &amp; deinceps vita perennis <mark>.</mark> Persuasus enim de</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>8</td><td><mark>remissis</mark> peccatis suis omnibus, bonam habet conscien-</td><td class=o><mark>mistis</mark> peccatis suis omnibus <mark>,</mark> bonam habet conscien¬</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>9</td><td>tiam. Bona enim conscientia non in eo consistit,</td><td class=o>tiam <mark>.</mark> Bona enim conscientia non in eo consistit</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>10</td><td><mark>ut vulgò</mark> putatur, quod quis nullius peccati aut facinoris</td><td class=o><mark>vulgo</mark> putatur <mark>,</mark> quod quis nullius peccati aut facinoris</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>11</td><td>sibi conscius <mark>sit,</mark> quis enim <mark>verè</mark> integer <mark>scelerisquè</mark></td><td class=o>sibi conscius <mark>sic »</mark> quis enim <mark>vere</mark> integer <mark>scelerisque</mark></td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>12</td><td><mark>purus,</mark> sed in eo, <mark>quòd sit certò</mark> persuasus, se propitium</td><td class=o><mark>rus ,</mark> sed in eo <mark>, quod sic certo</mark> persuasus <mark>,</mark> se propitium</td><td class=s>91%</td></tr>
+<tr class=goed><td class=n>13</td><td>habere Deum peccatis suis propter Christum remissis.</td><td class=o>habere Deum peccatis suis propter Christum remissis.</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>14</td><td>Psalm. 32: 1. <mark>Hæc</mark> est illa consolatio, hic est ille the-</td><td class=o>Psalm . 32 <mark>: 1. Htec</mark> est illa consolatio <mark>,</mark> hic est ille the¬</td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>15</td><td>saurus, quem quilibet sibi comparabit, qui</td><td class=o>saurus <mark>,</mark> quem quilibet sibi comparabit <mark>,</mark> qui</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>16</td><td><mark>rectè sapit,</mark> AMEN.</td><td class=o><mark>recte sapie ,</mark> AMEN</td><td class=s>86%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/pdfs/W08095_Wyss_Dissertatio_theologica_de_remissione_peccatorum_quam_clypeo__1676.pdf#page=21' target=_blank>scan 21</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=redelijk><td class=n>1</td><td><mark>AMICO</mark> AUTHORI</td><td class=o>AUTHORI</td><td class=s>74%</td></tr>
+<tr class=goed><td class=n>2</td><td>Et <mark>Doctissimo</mark> defendenti.</td><td class=o>Et <mark>DoBifmo</mark> defendenti,</td><td class=s>88%</td></tr>
+<tr><td class=n>3</td><td>I.</td><td class=o></td><td class=s></td></tr>
+<tr class=goed><td class=n>4</td><td><mark>Dissimilis nos</mark> vena <mark>tenet,nec</mark> Carbasa ventus</td><td class=o><mark>Istimilisnos</mark> vena <mark>cenet,nec</mark> Carbasa ventus</td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>5</td><td>Pellit idem, <mark>vario labuntur</mark> tempora cursu,</td><td class=o><mark>E-J</mark> Pellit idem, <mark>variolabuntur</mark> tempora cursu.</td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>6</td><td>Cura animos diversa tenet, hic bella Mavortis,</td><td class=o>Cura animos diversa tenet <mark>,</mark> hic bella Mavortis <mark>,</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>7</td><td><mark>Heroumquè</mark> animos, &amp; fortia pectora bello</td><td class=o><mark>Heroumque</mark> animos <mark>,</mark> &amp; fortia pectora bello</td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>8</td><td>Coelo æquat, <mark>laetosquè</mark> jubet sperare triumphos.</td><td class=o>Coelo aequat* <mark>laetosque</mark> jubet sperare triumphos <mark>.</mark></td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>9</td><td>Ille peregrinos mores, &amp; <mark>dissona</mark> Jura</td><td class=o>Ille peregrinos mores <mark>,</mark> &amp; <mark>diflona</mark> Jura</td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>10</td><td>Carpit limitibus nunquam <mark>digressus</mark> avitis.</td><td class=o>Carpit limitibus nunquam <mark>digresliis</mark> avitis.</td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>11</td><td>Nec quicquam, nisi quod puerili blacterat ore</td><td class=o>Nec quicquam <mark>,</mark> nisi quod puerili blacterat ore</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>12</td><td>Miratur. <mark>Patriâ</mark> tantum <mark>mensdiscit</mark> in umbra.</td><td class=o>Miratur <mark>. Patria</mark> tantum <mark>mens discit</mark> in umbra <mark>.</mark></td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>13</td><td>Hic velut antiquus tutator veteris aurei</td><td class=o>Hic velut antiquus tutator veteris aurei</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>14</td><td>Mercibus immoritur, <mark>studioquè senescit ha-</mark></td><td class=o>Mercibus immoritur <mark>, studioque</mark></td><td class=s>84%</td></tr>
+<tr class=goed><td class=n>15</td><td>bendi.</td><td class=o>bendi <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>16</td><td>Incubat ille foris, <mark>coecumq;</mark> in pectore vulnus</td><td class=o>Incubat ille foris, <mark>coecumcp</mark> in pectore vulnus</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>17</td><td>Suspirat: nunc <mark>laetus aquas,</mark> nunc tristis <mark>in auras</mark></td><td class=o>Suspirat <mark>:</mark> nunc <mark>laetusaquas,</mark> nunc tristis <mark>inauras</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>18</td><td>Mentem <mark>oculosquè</mark> levat, nunc priscum ejurat</td><td class=o>Mentem <mark>oculosque</mark> levat <mark>,</mark> nunc priscum ejurat</td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>19</td><td>amorem</td><td class=o>amorem</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>20</td><td>Transfuga, nunc Dominæ timet <mark>amisisse favo-</mark></td><td class=o>Transfuga <mark>,</mark> nunc Dominae timet <mark>amisistefavo¬</mark></td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>21</td><td>rem</td><td class=o>rem</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>22</td><td>Sed te sancta tenet <mark>flammâ</mark> meliore Camoena</td><td class=o>Sed te sancta tenet <mark>flamma</mark> meliore Camoena</td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>23</td><td>Mysta elues, <mark>tacitò</mark> verbi correptus amore;</td><td class=o>Mysta elues <mark>, tacito</mark> verbi correptus amore <mark>;</mark></td><td class=s>97%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/pdfs/W08095_Wyss_Dissertatio_theologica_de_remissione_peccatorum_quam_clypeo__1676.pdf#page=22' target=_blank>scan 22</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=redelijk><td class=n>1</td><td><mark>Tu mentem geniumq;</mark> tuum majoribus aufis</td><td class=o>^tuum majoribus ausis</td><td class=s>71%</td></tr>
+<tr class=goed><td class=n>2</td><td>Erigis, &amp; viridi vestitum tempora daphne</td><td class=o>Erigis <mark>,</mark> &amp; viridi vestitum tempora daphne</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>3</td><td>Te cupis Aoniis quondam inclarescere chartis</td><td class=o>Te cupis Aoniis quondam inclarescere chartis</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>4</td><td>En Christus, non <mark>Papa-Goel,</mark> non <mark>Papa sed</mark> Abba</td><td class=o>En Christus, non <mark>Papa Goel ,</mark> non <mark>Papased</mark> Abba</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>5</td><td>Ter <mark>sonteis</mark> salvans diram compescit Erynnin:</td><td class=o>Ter <mark>(orneis</mark> salvans diram compescit Erynnin <mark>:</mark></td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>6</td><td>Et Christi meritum &amp; rubentem <mark>sanguinis</mark> un-</td><td class=o>Et Christi meritum &amp; rubentem <mark>(anguinis</mark> un¬</td><td class=s>99%</td></tr>
+<tr class=goed><td class=n>7</td><td>dam</td><td class=o>dam</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>8</td><td>Miramur, sacris fideiq; <mark>amplectimur ulnis.</mark></td><td class=o>Miramur <mark>,</mark> sacris fideiq <mark>; ampkctimur</mark></td><td class=s>88%</td></tr>
+<tr class=goed><td class=n>9</td><td><mark>GElyck</mark> de roode Zee geheel <mark>gedaen verdrincken</mark></td><td class=o><mark>G Elyck</mark> de roode Zee geheel <mark>gedaenverdrincken</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>10</td><td>Het <mark>Phaaronsche Heyr, t&#x27;vvelck moedig</mark> dede blin-</td><td class=o>Het <mark>PhaaronscheHeyr, c vvelckmoedig</mark> dede blin-</td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>11</td><td>cken</td><td class=o>cken</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>12</td><td>Alldus de roode Zee den grooten Ocean</td><td class=o>Alldus de roode Zee den grooten Ocean</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>13</td><td><mark>K&#x27;segge</mark> Christus Bloed Versoening vvercken kan</td><td class=o><mark>KTegge</mark> Christus Bloed Versoening vvercken kan</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>14</td><td><mark>Wel Wel Christ Mensche-God</mark> sall richten myne Sacken</td><td class=o><mark>WelWel ChristMensche-God</mark> fall richten myne Sacken</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>15</td><td>Ende vaster mynen Soen <mark>by synen</mark> Vader macken</td><td class=o>Ende vaster mynen Soen <mark>bysynen</mark> Vader macken</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>16</td><td>Als Jonathan vvel eer vor David heft gedaan</td><td class=o>Als Jonathan vvel eer vor David heft gedaan</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>17</td><td>Doe tegens hem de Saul met vvrake ging <mark>belaën;</mark></td><td class=o>Doe tegens hem de Saul met vvrake ging <mark>beteien ;</mark></td><td class=s>91%</td></tr>
+<tr class=goed><td class=n>18</td><td>Vast sondig is myn Sond, edoch heb ick vernomen</td><td class=o>Vast sondig is myn Sond <mark>,</mark> edoch heb ick vernomen</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>19</td><td>Van mynen soeten Franck, dat Christus is gekomen</td><td class=o>Van mynen soeten Franck <mark>,</mark> dat Christus is gekomen</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>20</td><td>Zuyt <mark>scheldend</mark> my daer van, ten Vader gaet hy in</td><td class=o>Zuyt <mark>scheidend</mark> my daer van <mark>,</mark> ten Vader gaet hy in</td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>21</td><td><mark>Als</mark> mynen Advocat, en mynen Benjamin.</td><td class=o><mark>Ak</mark> mynen Advocat <mark>,</mark> en mynen Benjamin.</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>22</td><td>Sic <mark>utroq; Idiomate gratulabundus</mark></td><td class=o>Sic <mark>utrotfc Idiomategratulabundw</mark></td><td class=s>88%</td></tr>
+<tr class=goed><td class=n>23</td><td><mark>ascinit</mark> D. G.</td><td class=o><mark>accinit</mark> D. G.</td><td class=s>89%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/pdfs/W08095_Wyss_Dissertatio_theologica_de_remissione_peccatorum_quam_clypeo__1676.pdf#page=23' target=_blank>scan 23</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr><td class=n>1</td><td>II.</td><td class=o></td><td class=s></td></tr>
+<tr class=redelijk><td class=n>2</td><td><mark>UNde tibi quæso, dicas, hîc suppetit</mark> ardor?</td><td class=o><mark>, hicsppetit</mark> ardor?</td><td class=s>56%</td></tr>
+<tr class=goed><td class=n>3</td><td><mark>Quo</mark> vel ad arma omnes nunc pacis tempore <mark>poscis:</mark></td><td class=o><mark>L ^s</mark> vel ad arma omnes nunc pacis tempore</td><td class=s>85%</td></tr>
+<tr class=goed><td class=n>4</td><td><mark>Quid</mark> te commoveat, video; <mark>nec spes,</mark> puto, fallit:</td><td class=o>te commoveat, video <mark>; necJpes ,</mark> puto ,fallit</td><td class=s>91%</td></tr>
+<tr class=goed><td class=n>5</td><td><mark>Gloria</mark> nonne Dei tibi dat certaminis ansam?</td><td class=o>nonne Dei tibi dat certaminis ansam <mark>?</mark></td><td class=s>91%</td></tr>
+<tr class=goed><td class=n>6</td><td><mark>Ad</mark> gratos igitur <mark>lætus</mark> contende triumphos,</td><td class=o>gratos igitur <mark>latus</mark> contende triumphos <mark>,</mark></td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>7</td><td><mark>Nec</mark> dubites, cedat quin mox <mark>victoria</mark> vobis,</td><td class=o>dubites <mark>,</mark> cedat quin mox <mark>vidioria</mark> vobis»</td><td class=s>90%</td></tr>
+<tr class=goed><td class=n>8</td><td><mark>Cùm</mark> tibi sit clypeus summus moderator Olympi.</td><td class=o>tibi fit clypeus summus moderator Olympi.</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>9</td><td><mark>Hæc</mark> paucula in honoris &amp; <mark>amicitiæ</mark></td><td class=o><mark>H«c</mark> paucula in honoris &amp; <mark>amiciri«</mark></td><td class=s>90%</td></tr>
+<tr class=redelijk><td class=n>10</td><td><mark>in-æternum duraturæ τεκμήριον</mark></td><td class=o><mark>« ternum duratur« ■mcurejov</mark></td><td class=s>57%</td></tr>
+<tr class=redelijk><td class=n>11</td><td><mark>accine-re</mark> voluit</td><td class=o><mark>re</mark> voluit</td><td class=s>73%</td></tr>
+<tr class=redelijk><td class=n>12</td><td>V. H. <mark>S.</mark></td><td class=o>V. H.</td><td class=s>80%</td></tr>
+<tr class=geen><td class=n>13</td><td>S. M. Cand.</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=goed><td class=n>14</td><td>FINIS</td><td class=o>FINIS</td><td class=s>100%</td></tr>
+</table></section>
