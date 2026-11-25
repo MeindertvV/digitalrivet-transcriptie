@@ -1,0 +1,30 @@
+<page type="text" lines="none">
+  <warning type="doubtful">"..." in the text: a passage was skipped or a remark written as print</warning>
+  <warning type="merged_lines">1 line(s) contain several printed lines merged together (longest 787 chars, median 20); line numbering is unreliable</warning>
+  <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+  <layout>Two parallel columns at the top: Hebrew on the left, italic Latin continuation on the right. Below them, a centred heading "ANNOTATIONES.", then one full-width column of running text with paragraph annotations. The signature "L 3" and folio "7. v." stand at the foot.</layout>
+  <page_number>85</page_number>
+  <running_head>CAPIT. III. Sect. I.</running_head>
+  <bottom_margin>
+    <signature>L 3</signature>
+  </bottom_margin>
+  <main_text>
+    <l n="1">להבדיל בין הדמי העליונים</l>
+    <l n="2">לדמין התחתונים והיסוד היה</l>
+    <l n="3">מהלך על פני כל הצפון ועל</l>
+    <l n="4">פני כל המערב ואוכל</l>
+    <l n="5">בררום אמה אחת ובמזרח</l>
+    <l n="6">אמה אחת ׃</l>
+    <l n="7">
+      <i>superiores &amp; inferiores. Atque fundamentum erat ambulacrum sive pervadebat per totum latus septentrionale ac totum latus occidentale: &amp; absumebatur ad Austrum uno cubito, pariterq; ad Orientem: vel ab Austro occupabat unum cubitum; similiter ab Oriente.</i>
+    </l>
+    <l n="8" type="heading" level="2" para="true">ANNOTATIONES.</l>
+    <l n="9" para="true" merged="true">{1}Non agitur hoc loco de altaribus, quæ Moses ipse Dei jussu fieri curavit; quorum unum altare suffitus, alterum altare holocausti nuncupabatur: quandoquidem utriusque quantitatem longe minorem describit legislator Exod 27.1. ac deinde cap.30.2. Nec forma convenit, quoniam cavum è tabulis (ut ibi cap.27. legitur) erat altare illud holocausti; hoc vero ab auctore nostro descriptū, totum fermè solida materia factum erat, ut in sequentibus videbimus: nec materiam altarium eandem fuisse facilimè animadvertet, qui Mosen consuluerit. Porrò si quis propter dicta differentiam Israelitarum reducum in extruendo altari industriam reprehensione dignam censeat, hic secum reputet, non absurdè alicui videri posse, Deum de hujusmodi altari jam olim per Mosen mandata dedisse: si quidem dicit <i>Exod.20.24. altare terreum facito mihi. ...</i> 25. <i>quod si altare ex lapidibus facies mihi, ne extruito ex eis cæsis.</i> Unde R. Eliefer existimavit lapideum altare fuisse Schilunte, Nobi, &amp; Gibhone: quemadmodum narratur in Gemara Babylonica, codice de sacrificiis, folio 61. facie secunda. Certè Abarbenel non tantum ante, sed etiam post extructum templum illa Dei verba Exod.20. executioni mandata fuisse arbitratur: quamvis ignorare nequiverit quid de æneo altari in Chronicis legamus. Sed Judæorum quidam (uti ex Iarchio &amp; Kimchio in 1.lib.regum videre est) quod 2 Chron. 4.1. &amp; c.</l>
+  </main_text>
+  <marginalia>
+    <note side="right" at="Atque fundamentum erat" line_from="7" line_to="7">13</note>
+  </marginalia>
+  <notes>
+    The folio mark "7. v." stands at the foot right, beside "L 3"; it is not a page number and is left out of the page_number element. The Hebrew lines are set in two columns and read right to left; the last line "אמה אחת ׃" carries a sof pasuq. The word "perwadebat" is printed with w for v and is given as pervadebat. The printed long s is rendered as plain s throughout. The superscript 13 and the superscript 1 are verse and annotation numbers, shown as printed. No catchword is visible.
+  </notes>
+</page>
