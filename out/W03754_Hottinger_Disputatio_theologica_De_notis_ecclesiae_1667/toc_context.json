@@ -1,0 +1,2352 @@
+{
+ "work": "W03754_Hottinger_Disputatio_theologica_De_notis_ecclesiae_1667",
+ "made": "2026-11-25T10:40:54",
+ "model": "claude-haiku-5-5",
+ "prompt": "655260ce46aa8978",
+ "candidates": 550,
+ "cost_usd": 0.03836,
+ "dropped": [
+  "no scans for 1 wanted"
+ ],
+ "toc": [
+  {
+   "scan": 8,
+   "line": 0,
+   "lines": [
+    [
+     8,
+     0
+    ]
+   ],
+   "level": 1,
+   "title": "Ad lectorem."
+  },
+  {
+   "scan": 11,
+   "line": 1,
+   "lines": [
+    [
+     11,
+     1
+    ],
+    [
+     11,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Index epistolarum."
+  },
+  {
+   "scan": 27,
+   "line": 1,
+   "lines": [
+    [
+     27,
+     1
+    ],
+    [
+     27,
+     2
+    ],
+    [
+     27,
+     3
+    ],
+    [
+     27,
+     4
+    ],
+    [
+     27,
+     5
+    ]
+   ],
+   "level": 1,
+   "title": "Vita Johannis Morini, e Congregatione Oratorii in Francia, cum animadversionibus in illius opera."
+  },
+  {
+   "scan": 126,
+   "line": 17,
+   "lines": [
+    [
+     126,
+     17
+    ],
+    [
+     126,
+     18
+    ]
+   ],
+   "level": 1,
+   "title": "Opusculorum Joannis Morini, Blesensis, Oratorii Presbyteri index."
+  },
+  {
+   "scan": 144,
+   "line": 1,
+   "lines": [
+    [
+     144,
+     1
+    ],
+    [
+     144,
+     2
+    ],
+    [
+     144,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. I. Epistola Synagogae Samaritanorum, quae est in urbe Sichem, seu Napolous, ad clarissimum virum Josephum Scaligerum, interprete Joanne Morino."
+  },
+  {
+   "scan": 155,
+   "line": 1,
+   "lines": [
+    [
+     155,
+     1
+    ],
+    [
+     155,
+     2
+    ],
+    [
+     155,
+     3
+    ],
+    [
+     155,
+     4
+    ],
+    [
+     155,
+     5
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. II. Epistola Samaritanorum in Ægypto commorantium ad eundem Jos. Scaligerum de eodem argumento, & eodem interprete J. Morino."
+  },
+  {
+   "scan": 158,
+   "line": 6,
+   "lines": [
+    [
+     158,
+     6
+    ],
+    [
+     158,
+     7
+    ],
+    [
+     158,
+     8
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. III. Andreas de Leon Zamorensis, Cl. viro Michaeli le Jay."
+  },
+  {
+   "scan": 170,
+   "line": 10,
+   "lines": [
+    [
+     170,
+     10
+    ],
+    [
+     170,
+     11
+    ],
+    [
+     170,
+     12
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. IV. Joan. Morinus Cl. viro Hieronymo Aleandro, de diversis Scripturae Samaritanae characteribus, qui in diversis eorum libris reperiuntur."
+  },
+  {
+   "scan": 173,
+   "line": 1,
+   "lines": [
+    [
+     173,
+     1
+    ],
+    [
+     173,
+     2
+    ],
+    [
+     173,
+     3
+    ],
+    [
+     173,
+     4
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. V. Hier. Aleander viro Doct. J. Morino de variis exemplaribus, nec non characteribus Samaritanorum."
+  },
+  {
+   "scan": 175,
+   "line": 17,
+   "lines": [
+    [
+     175,
+     17
+    ],
+    [
+     175,
+     18
+    ],
+    [
+     175,
+     19
+    ],
+    [
+     175,
+     20
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. VI. Hier. Aleander eidem de siclis quibusdam Samaritano charactere exaratis, forma literae Tau apud Samaritanos."
+  },
+  {
+   "scan": 177,
+   "line": 11,
+   "lines": [
+    [
+     177,
+     11
+    ],
+    [
+     177,
+     12
+    ],
+    [
+     177,
+     13
+    ],
+    [
+     177,
+     14
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. VII. Hier. Aleander eidem de aliis siclis Samaritanorum, simulque de Pentateucho Samarit."
+  },
+  {
+   "scan": 179,
+   "line": 7,
+   "lines": [
+    [
+     179,
+     7
+    ],
+    [
+     179,
+     8
+    ],
+    [
+     179,
+     9
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. VIII. Jo. Morinus Hier. Aleandro de eodem argumento."
+  },
+  {
+   "scan": 182,
+   "line": 1,
+   "lines": [
+    [
+     182,
+     1
+    ],
+    [
+     182,
+     2
+    ],
+    [
+     182,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. IX. Hier. Aleander Jo. Morino de aliis siclis Samarit."
+  },
+  {
+   "scan": 183,
+   "line": 1,
+   "lines": [
+    [
+     183,
+     1
+    ],
+    [
+     183,
+     2
+    ],
+    [
+     183,
+     3
+    ],
+    [
+     183,
+     4
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. X. Jo. Morinus Hier. Aleandro. Animadversiones nonnullae in Pentateuchum Hebraeo-Samarit. & in Hebraeo-Judaeum."
+  },
+  {
+   "scan": 185,
+   "line": 11,
+   "lines": [
+    [
+     185,
+     11
+    ],
+    [
+     185,
+     12
+    ],
+    [
+     185,
+     13
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. XI. Aubertus Miraeus J. Morino gratias agit de libro Exercitationum Ecclesiasticarum, quo eum donaverat Morinus."
+  },
+  {
+   "scan": 187,
+   "line": 3,
+   "lines": [
+    [
+     187,
+     3
+    ],
+    [
+     187,
+     4
+    ],
+    [
+     187,
+     5
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. XII. Joh. Morinus, Aub. Miraeo similiter gratias agit de libris, quibus ipsum donaverat Miraeus."
+  },
+  {
+   "scan": 189,
+   "line": 16,
+   "lines": [
+    [
+     189,
+     16
+    ],
+    [
+     189,
+     17
+    ],
+    [
+     189,
+     18
+    ],
+    [
+     189,
+     19
+    ],
+    [
+     189,
+     20
+    ],
+    [
+     189,
+     21
+    ],
+    [
+     189,
+     22
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. XIII. Joh. Morinus, Nob. viro Petro a Valle, de Alphabeto Linguae Aegyptiacae, simulque de exemplari M.S. Evangeliorum Lingua Coptica; de Samaritanorum Pentateucho eorumque Lingua."
+  },
+  {
+   "scan": 194,
+   "line": 15,
+   "lines": [
+    [
+     194,
+     15
+    ],
+    [
+     194,
+     16
+    ],
+    [
+     194,
+     17
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. XIV. Petrus a Valle Peregrinus de suo exemplari M.S. Pentateuchi Samaritani, quid de Samaritanorum & Carraim sectis in Asia didicerit, fusius declarat."
+  },
+  {
+   "scan": 205,
+   "line": 9,
+   "lines": [
+    [
+     205,
+     9
+    ],
+    [
+     205,
+     10
+    ],
+    [
+     205,
+     11
+    ],
+    [
+     205,
+     12
+    ],
+    [
+     205,
+     13
+    ],
+    [
+     205,
+     14
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. XV. Joh. Morinus Petro a Valle, Exemplaris M.S. versionis Samaritanae, quod erat Petri a Valle judiciis a viro de Samaritanorum Judaeorumque Codicibus annotata."
+  },
+  {
+   "scan": 211,
+   "line": 16,
+   "lines": [
+    [
+     211,
+     16
+    ],
+    [
+     211,
+     17
+    ],
+    [
+     211,
+     18
+    ],
+    [
+     211,
+     19
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. XVI. Petrus a Valle J. Morino. Responsio ad praecedentem Epistolam, diversas in idem argumentum cogitationes."
+  },
+  {
+   "scan": 216,
+   "line": 3,
+   "lines": [
+    [
+     216,
+     3
+    ],
+    [
+     216,
+     4
+    ],
+    [
+     216,
+     5
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. XVII. J. Morinus Petro a Valle, Animadversiones in Pentateuchum Samaritanum."
+  },
+  {
+   "scan": 221,
+   "line": 15,
+   "lines": [
+    [
+     221,
+     15
+    ],
+    [
+     221,
+     16
+    ],
+    [
+     221,
+     17
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. XVIII. Altera ejusdem argumenti."
+  },
+  {
+   "scan": 224,
+   "line": 3,
+   "lines": [
+    [
+     224,
+     3
+    ],
+    [
+     224,
+     4
+    ],
+    [
+     224,
+     5
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. XIX. Pet. a Valle J. Morino. Responsio ad praecedentem de Lingua & Libris Samaritanorum."
+  },
+  {
+   "scan": 234,
+   "line": 3,
+   "lines": [
+    [
+     234,
+     3
+    ],
+    [
+     234,
+     4
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. XX. Jo. Morinus Leoni Allatio, de Libris quos edidit ipse J. Morinus, de Administratione Sacramenti poenitentiae, & de antiquissimis ordinandorum Clericorum ritibus, &c."
+  },
+  {
+   "scan": 239,
+   "line": 5,
+   "lines": [
+    [
+     239,
+     5
+    ],
+    [
+     239,
+     6
+    ],
+    [
+     239,
+     7
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. XXI. J. Morinus P. a Valle de libris & Lingua Samaritanorum."
+  },
+  {
+   "scan": 244,
+   "line": 2,
+   "lines": [
+    [
+     244,
+     2
+    ],
+    [
+     244,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. XXII. P. a Valle J. Morino, de Chronologia Mahumadanorum quid a Persa rerum Mathematicarum peritissimo didicerit, explicat."
+  },
+  {
+   "scan": 251,
+   "line": 13,
+   "lines": [
+    [
+     251,
+     13
+    ],
+    [
+     251,
+     14
+    ],
+    [
+     251,
+     15
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. XXIII. P. a Valle Jo. Morino de suo exemplari Samaritano."
+  },
+  {
+   "scan": 253,
+   "line": 2,
+   "lines": [
+    [
+     253,
+     2
+    ],
+    [
+     253,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. XXIV. P. a Valle Jo. Morino, quid de Cabbalisticis interpretationibus ex Arabum, Persarum, Turcarumque monumentis hauserit."
+  },
+  {
+   "scan": 261,
+   "line": 1,
+   "lines": [
+    [
+     261,
+     1
+    ],
+    [
+     261,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. XXV. De Chronologia Mahummedanorum."
+  },
+  {
+   "scan": 276,
+   "line": 2,
+   "lines": [
+    [
+     276,
+     2
+    ],
+    [
+     276,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. XXVI. Responsio ad praecedentem Epistolam. Ephemerides Persicae ac Turcicae, quas penes se asservabat auctor Tabularum Astronomicarum."
+  },
+  {
+   "scan": 288,
+   "line": 2,
+   "lines": [
+    [
+     288,
+     2
+    ],
+    [
+     288,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. XXVII. J. Morinus Illustrissimo Cardinali Barberino scribit apologiam libri, cui nomen fecerat De la Grandeur & Souverainete."
+  },
+  {
+   "scan": 298,
+   "line": 19,
+   "lines": [
+    [
+     298,
+     19
+    ],
+    [
+     298,
+     20
+    ],
+    [
+     298,
+     21
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. XXVIII. Renatus Geraldus J. Morino, de iis quae Romani Aulici in ejus libro notaverunt."
+  },
+  {
+   "scan": 302,
+   "line": 22,
+   "lines": [
+    [
+     302,
+     22
+    ],
+    [
+     302,
+     23
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. XXIX. Joh. Morinus Dom. Soari, cui impositum fuerat onus a Cardinale Barbarino in opus illud inquirendi."
+  },
+  {
+   "scan": 304,
+   "line": 12,
+   "lines": [
+    [
+     304,
+     12
+    ],
+    [
+     304,
+     13
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. XXX. Idem eidem, Soarem sibi devincire conatur Morinus."
+  },
+  {
+   "scan": 306,
+   "line": 5,
+   "lines": [
+    [
+     306,
+     5
+    ],
+    [
+     306,
+     6
+    ],
+    [
+     306,
+     7
+    ],
+    [
+     306,
+     8
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. XXXI. Josephus Maria Suaresius Joh. Morino, naevos quos ex ipsius libro eximendos notaverat, aperit."
+  },
+  {
+   "scan": 308,
+   "line": 11,
+   "lines": [
+    [
+     308,
+     11
+    ],
+    [
+     308,
+     12
+    ],
+    [
+     308,
+     13
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. XXXII. Joh. Morinus Suaresio, suum de fragmento quodam Tertuliani nuper edito judicium interponit, similiter de excerpto quodam ex Epistola S. Maximi ad Monachos Siculos."
+  },
+  {
+   "scan": 312,
+   "line": 1,
+   "lines": [
+    [
+     312,
+     1
+    ],
+    [
+     312,
+     2
+    ],
+    [
+     312,
+     3
+    ],
+    [
+     312,
+     4
+    ],
+    [
+     312,
+     5
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. XXXIII. Petrus Halloix J. Morino. Laudat illius de Baptismo Constantini sententiam, quam suam quoque esse libere profitetur."
+  },
+  {
+   "scan": 314,
+   "line": 9,
+   "lines": [
+    [
+     314,
+     9
+    ],
+    [
+     314,
+     10
+    ],
+    [
+     314,
+     11
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. XXXIV. J. Morinus Francisco Harlaeo, Archiepiscopo Rothomagensi; miris laudibus extollit Archiepiscopi illius libellum Heroico Poemate conscriptum."
+  },
+  {
+   "scan": 317,
+   "line": 2,
+   "lines": [
+    [
+     317,
+     2
+    ],
+    [
+     317,
+     3
+    ],
+    [
+     317,
+     4
+    ],
+    [
+     317,
+     5
+    ],
+    [
+     317,
+     6
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. XXXV. Idem eidem. Simili ratione laudat Archiepiscopi illius opusculum de Sacrae Eucharistiae Mysterio juxta S. Augustini sententiam."
+  },
+  {
+   "scan": 321,
+   "line": 15,
+   "lines": [
+    [
+     321,
+     15
+    ],
+    [
+     321,
+     16
+    ],
+    [
+     321,
+     17
+    ],
+    [
+     321,
+     18
+    ],
+    [
+     321,
+     19
+    ],
+    [
+     321,
+     20
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. XXXVI. Dominus de Peyresc J. Morino. De variis Pentateuchi Samaritani exemplaribus MSS., similiter de aliis gentis illius libris, quos ex Oriente adsportari curaverat, prolixius scribit."
+  },
+  {
+   "scan": 339,
+   "line": 1,
+   "lines": [
+    [
+     339,
+     1
+    ],
+    [
+     339,
+     2
+    ],
+    [
+     339,
+     3
+    ],
+    [
+     339,
+     4
+    ],
+    [
+     339,
+     5
+    ],
+    [
+     339,
+     6
+    ],
+    [
+     339,
+     7
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. XXXVII. Thomas Comberus J. Morino, de exemplari quodam M.S. Pent. Samarit., quod erat in Anglia."
+  },
+  {
+   "scan": 344,
+   "line": 2,
+   "lines": [
+    [
+     344,
+     2
+    ],
+    [
+     344,
+     3
+    ],
+    [
+     344,
+     4
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. XXXVIII. J. Morinus Tho. Combero gratias agit ob missas ad se ab eo Codicis Samaritani cum Indice Hebraei collati varias lectiones."
+  },
+  {
+   "scan": 352,
+   "line": 3,
+   "lines": [
+    [
+     352,
+     3
+    ],
+    [
+     352,
+     4
+    ],
+    [
+     353,
+     1
+    ],
+    [
+     353,
+     2
+    ],
+    [
+     353,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. XXXIX. Joh. Morinus Soario Vasionensi Episcopo, ob illius in Episcopatum assumptionem congratulatur."
+  },
+  {
+   "scan": 355,
+   "line": 16,
+   "lines": [
+    [
+     355,
+     16
+    ],
+    [
+     355,
+     17
+    ],
+    [
+     355,
+     18
+    ],
+    [
+     355,
+     19
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. XL. R. Goesaldus J. Morino, quod praeter allata notent Romani Aulici in ejus Libro De la Grandeur, &c. scribit."
+  },
+  {
+   "scan": 358,
+   "line": 2,
+   "lines": [
+    [
+     358,
+     2
+    ],
+    [
+     358,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. XLI. Godofredus Vendelinus Joh. Morino. Quaerit, quis sit Rabbi Eliezer, & de ejus Libro, Antiqua & Nova Judaeorum Chronologia."
+  },
+  {
+   "scan": 368,
+   "line": 1,
+   "lines": [
+    [
+     368,
+     1
+    ],
+    [
+     368,
+     2
+    ],
+    [
+     368,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. XLII. J. Morinus Godofredo Vendelino. Responsio prolixa ad praecedentem Epistolam, varias apud diversas gentes diversis temporibus supputandi rationes, fusius declarat de Samaritanis Corraitis."
+  },
+  {
+   "scan": 390,
+   "line": 1,
+   "lines": [
+    [
+     390,
+     1
+    ],
+    [
+     390,
+     2
+    ],
+    [
+     390,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. XLIII. Jo. Morinus Tho. Combero. Gratias agit ob missas ad se iterum diversitates Lectionum Codicis Samaritani a Judaeo Hebraico."
+  },
+  {
+   "scan": 393,
+   "line": 21,
+   "lines": [
+    [
+     393,
+     21
+    ],
+    [
+     393,
+     22
+    ],
+    [
+     393,
+     23
+    ],
+    [
+     394,
+     1
+    ],
+    [
+     394,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. XLIV. Tho. Comberus J. Morino alias mittit in Pentateuchum annotationes ex Anglicano exemplari Pentateuchi Samaritani."
+  },
+  {
+   "scan": 399,
+   "line": 5,
+   "lines": [
+    [
+     399,
+     5
+    ],
+    [
+     399,
+     6
+    ],
+    [
+     399,
+     7
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. XLV. Philippus J. Morino mittit, quas a Patricio Junio petierat Morinus, notas ex MS. exemplari 70 interpretum."
+  },
+  {
+   "scan": 401,
+   "line": 5,
+   "lines": [
+    [
+     401,
+     5
+    ],
+    [
+     401,
+     6
+    ],
+    [
+     401,
+     7
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. XLVI. Philippus J. Morino. Quaerit, utrum verum sit, Canones Concilii Tridentini, qui de Fide tractant, non recipi a Doctoribus."
+  },
+  {
+   "scan": 402,
+   "line": 5,
+   "lines": [
+    [
+     402,
+     5
+    ],
+    [
+     402,
+     6
+    ],
+    [
+     403,
+     1
+    ],
+    [
+     403,
+     2
+    ],
+    [
+     403,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. XLVII. J. Morinus Fr. Harlaeo Archiepiscopo Rothamagensi; in illius laudes excurrit."
+  },
+  {
+   "scan": 405,
+   "line": 1,
+   "lines": [
+    [
+     405,
+     1
+    ],
+    [
+     405,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. XLVIII. R. Goezaldus J. Morino. Quo in pretio sunt Romae ejus libri etiam apud Cardinales, scribit."
+  },
+  {
+   "scan": 408,
+   "line": 11,
+   "lines": [
+    [
+     408,
+     11
+    ],
+    [
+     408,
+     12
+    ],
+    [
+     408,
+     13
+    ],
+    [
+     408,
+     14
+    ],
+    [
+     408,
+     15
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. XLIX. J. Morinus Eminentissimo Cardinali Barberino. Studiorum suorum, librorumque tam a se editorum, quam edendorum rationem reddit."
+  },
+  {
+   "scan": 414,
+   "line": 1,
+   "lines": [
+    [
+     414,
+     1
+    ],
+    [
+     414,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. L. D. de Peyresc J. Morino. Monita non nulla de Samaritanorum Pentateucho."
+  },
+  {
+   "scan": 418,
+   "line": 7,
+   "lines": [
+    [
+     418,
+     7
+    ],
+    [
+     418,
+     8
+    ],
+    [
+     418,
+     9
+    ],
+    [
+     418,
+     10
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. LI. J. Morinus Petro a Valle. De codicibus MSS. Samaritanorum, variisque inter se collationibus nonnullis."
+  },
+  {
+   "scan": 422,
+   "line": 11,
+   "lines": [
+    [
+     422,
+     11
+    ],
+    [
+     422,
+     12
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. LII. Pet. a Valle J. Morino ad praecedentem responsio."
+  },
+  {
+   "scan": 425,
+   "line": 1,
+   "lines": [
+    [
+     425,
+     1
+    ],
+    [
+     425,
+     2
+    ],
+    [
+     425,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. LIII. R. Goezaldus J. Morino. Aulici Romani urgent, ut novam libri sui de la Grandeur, &c. editionem procudat cum castigationibus, quas illi praescribunt de Congregatione Oratorii nonnulla."
+  },
+  {
+   "scan": 433,
+   "line": 6,
+   "lines": [
+    [
+     433,
+     6
+    ],
+    [
+     433,
+     7
+    ],
+    [
+     434,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. LIV. J. Morinus Patr. Junio. Exemplaris Graeci 70 Interpretum, cujus specimen dederat Junius, judicium suum affert, simul."
+  },
+  {
+   "scan": 453,
+   "line": 3,
+   "lines": [
+    [
+     453,
+     3
+    ],
+    [
+     453,
+     4
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. LV. J. Morinus Cardinali Barberino. Unionem Abbatiae Juliacensis domui Parisiensi Oratorii postulat."
+  },
+  {
+   "scan": 457,
+   "line": 4,
+   "lines": [
+    [
+     457,
+     4
+    ],
+    [
+     457,
+     5
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. LVI. J. Morinus Cardinali Barberino Ipsum Romam vocanti se iterum spondet."
+  },
+  {
+   "scan": 461,
+   "line": 15,
+   "lines": [
+    [
+     461,
+     15
+    ],
+    [
+     461,
+     16
+    ],
+    [
+     461,
+     17
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. LVII. Lucae Holstenii Commonitorium J. Morino Romae exeunti."
+  },
+  {
+   "scan": 464,
+   "line": 12,
+   "lines": [
+    [
+     464,
+     12
+    ],
+    [
+     464,
+     13
+    ],
+    [
+     464,
+     14
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. LVIII. J. Morinus Abrahamo Ecchellensi, codices quosdam MSS., qui Bibliis Parisiensibus quae tunc edebantur utilitati ac splendori futuri erant, Parisios secum deferat, illum monet."
+  },
+  {
+   "scan": 467,
+   "line": 0,
+   "lines": [
+    [
+     467,
+     0
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. LIX. Hilarioni."
+  },
+  {
+   "scan": 467,
+   "line": 25,
+   "lines": [
+    [
+     467,
+     25
+    ],
+    [
+     467,
+     26
+    ],
+    [
+     468,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. LX. J. Morinus Cardinali Barberino. De eodem argumento."
+  },
+  {
+   "scan": 469,
+   "line": 14,
+   "lines": [
+    [
+     469,
+     14
+    ],
+    [
+     469,
+     15
+    ],
+    [
+     469,
+     16
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. LXI. J. Morinus Cardinali Barberino exponit, quid sinistri acciderit libro Petri Cellotii Jesuitae de hierarchia & hierarchis; Cellotum notat imperitiae."
+  },
+  {
+   "scan": 472,
+   "line": 22,
+   "lines": [
+    [
+     472,
+     22
+    ],
+    [
+     472,
+     23
+    ],
+    [
+     472,
+     24
+    ],
+    [
+     472,
+     25
+    ],
+    [
+     473,
+     3
+    ],
+    [
+     473,
+     4
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. LXII. Cardinalis Barberinus Johanni Morino: de Abrahami Ecchellensis Bibliis Syriacis, deinde laudat propositum de scribenda sacra rituum ecclesiasticorum antiquitate."
+  },
+  {
+   "scan": 474,
+   "line": 6,
+   "lines": [
+    [
+     474,
+     6
+    ],
+    [
+     475,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. LXIII. Johannes Morinus Cardinali Barberino. Libri Celloti prolixa eaque paulo acriore critice."
+  },
+  {
+   "scan": 489,
+   "line": 13,
+   "lines": [
+    [
+     489,
+     13
+    ],
+    [
+     489,
+     14
+    ],
+    [
+     489,
+     15
+    ],
+    [
+     489,
+     16
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. LXIV. Joh. Morinus Cardinali Barberino in favorem translationis Episcopi Carnutensis in Archiepiscopum Rhemensem."
+  },
+  {
+   "scan": 491,
+   "line": 12,
+   "lines": [
+    [
+     491,
+     12
+    ],
+    [
+     491,
+     13
+    ],
+    [
+     491,
+     14
+    ],
+    [
+     491,
+     15
+    ],
+    [
+     491,
+     16
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. LXV. Johannes Morinus Cardinali Barberino scribit in favorem Domini de Marca ad Episcopatum Coseranensem denominati."
+  },
+  {
+   "scan": 494,
+   "line": 8,
+   "lines": [
+    [
+     494,
+     8
+    ],
+    [
+     494,
+     9
+    ],
+    [
+     494,
+     10
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. LXVI. Bartholdus Nihusius Johanni Morino. Dubia quaedam de rebus ecclesiasticis."
+  },
+  {
+   "scan": 496,
+   "line": 22,
+   "lines": [
+    [
+     496,
+     22
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. LXVII. Abraham Ecchellensis Johanni Morino mittit capita Epitomes constitutionum Ecclesiae Maronitarum, quae leguntur Syriace in eorum Ecclesiis, & conversae habentur in linguam Arabicam; modus administrandi Sacramenti Poenitentiae apud eosdem Maronitas; figura Ecclesiae Maronitarum."
+  },
+  {
+   "scan": 497,
+   "line": 2,
+   "lines": [
+    [
+     497,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Capita Epitomes Constitutionum Ecclesiae Maronitarum ad clarissimum, doctissimum & charissimum virum Johannem Morinum."
+  },
+  {
+   "scan": 497,
+   "line": 4,
+   "lines": [
+    [
+     497,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "CAP. I. De Ecclesia & iis, quae ad eam attinent, & continent 7 Sectiones."
+  },
+  {
+   "scan": 498,
+   "line": 0,
+   "lines": [
+    [
+     498,
+     0
+    ]
+   ],
+   "level": 3,
+   "title": "CAP. II. De Baptismo, & continet Sectiones 4."
+  },
+  {
+   "scan": 498,
+   "line": 0,
+   "lines": [
+    [
+     498,
+     0
+    ]
+   ],
+   "level": 3,
+   "title": "CAP. III. De Eucharistia, continet Sectiones 3."
+  },
+  {
+   "scan": 498,
+   "line": 0,
+   "lines": [
+    [
+     498,
+     0
+    ]
+   ],
+   "level": 3,
+   "title": "CAP. IV. De Jejunio, Festivitatibus & Oratione, & continet Sectiones 5."
+  },
+  {
+   "scan": 499,
+   "line": 0,
+   "lines": [
+    [
+     499,
+     0
+    ]
+   ],
+   "level": 3,
+   "title": "CAP. V. De Funeribus Defunctorum, continet Sectiones 2."
+  },
+  {
+   "scan": 499,
+   "line": 0,
+   "lines": [
+    [
+     499,
+     0
+    ]
+   ],
+   "level": 3,
+   "title": "CAP. VI. De Ordinibus Sacerdotalibus, continet Sectiones 10."
+  },
+  {
+   "scan": 500,
+   "line": 0,
+   "lines": [
+    [
+     500,
+     0
+    ]
+   ],
+   "level": 3,
+   "title": "CAP. VII. De Desponsationibus, Nuptiis, earumque circumstantiis."
+  },
+  {
+   "scan": 500,
+   "line": 0,
+   "lines": [
+    [
+     500,
+     0
+    ]
+   ],
+   "level": 3,
+   "title": "CAP. VIII. De Testamentis seu Legatis, continet Sectiones 2."
+  },
+  {
+   "scan": 500,
+   "line": 0,
+   "lines": [
+    [
+     500,
+     0
+    ]
+   ],
+   "level": 3,
+   "title": "CAP. IX. De Hereditate, continet Sectiones 2."
+  },
+  {
+   "scan": 500,
+   "line": 0,
+   "lines": [
+    [
+     500,
+     0
+    ]
+   ],
+   "level": 3,
+   "title": "CAP. X. De Veritate & Falsitate emptionis, continet Sectiones 4."
+  },
+  {
+   "scan": 500,
+   "line": 0,
+   "lines": [
+    [
+     500,
+     0
+    ]
+   ],
+   "level": 3,
+   "title": "CAP. XII. De Societatibus."
+  },
+  {
+   "scan": 500,
+   "line": 0,
+   "lines": [
+    [
+     500,
+     0
+    ]
+   ],
+   "level": 3,
+   "title": "CAP. XIII. De Depositis."
+  },
+  {
+   "scan": 500,
+   "line": 0,
+   "lines": [
+    [
+     500,
+     0
+    ]
+   ],
+   "level": 3,
+   "title": "CAP. XIV. De Mutationibus."
+  },
+  {
+   "scan": 500,
+   "line": 0,
+   "lines": [
+    [
+     500,
+     0
+    ]
+   ],
+   "level": 3,
+   "title": "CAP. XV. De Donationibus, continet Sectiones 2."
+  },
+  {
+   "scan": 501,
+   "line": 3,
+   "lines": [
+    [
+     501,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "CAP. XVI. De Legatis."
+  },
+  {
+   "scan": 501,
+   "line": 4,
+   "lines": [
+    [
+     501,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "CAP. XVII. De Magnis, a quibus prohibemur."
+  },
+  {
+   "scan": 503,
+   "line": 3,
+   "lines": [
+    [
+     503,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "De Ecclesiae Maronitarum figura."
+  },
+  {
+   "scan": 506,
+   "line": 15,
+   "lines": [
+    [
+     506,
+     15
+    ],
+    [
+     506,
+     16
+    ],
+    [
+     506,
+     17
+    ],
+    [
+     506,
+     18
+    ],
+    [
+     506,
+     19
+    ],
+    [
+     506,
+     20
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. LXVIII. Leo Allatius Johanni Morino. Nonnulla, quae ad figuram Ecclesiarum apud Graecos et eorum Liturgias spectant, discutiuntur, de Poenitentiae ritu apud Graecos etiam nonnulla."
+  },
+  {
+   "scan": 512,
+   "line": 19,
+   "lines": [
+    [
+     512,
+     19
+    ],
+    [
+     512,
+     20
+    ],
+    [
+     512,
+     21
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. LXIX. Johannes Morinus Lucae Holstenio. Libros, quos tunc meditabatur edendos nondum editi, de Jesuitis & Arnoldo aliqua."
+  },
+  {
+   "scan": 517,
+   "line": 4,
+   "lines": [
+    [
+     517,
+     4
+    ],
+    [
+     518,
+     1
+    ],
+    [
+     518,
+     2
+    ],
+    [
+     518,
+     3
+    ],
+    [
+     518,
+     4
+    ],
+    [
+     518,
+     5
+    ],
+    [
+     518,
+     6
+    ],
+    [
+     518,
+     7
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. LXX. J. Henricus Hottingerus Simeoni de Muis. Defensio Veritatis Hebraicae adversus Johannem Morinum."
+  },
+  {
+   "scan": 521,
+   "line": 1,
+   "lines": [
+    [
+     521,
+     1
+    ],
+    [
+     521,
+     2
+    ],
+    [
+     521,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. LXXI. Johannes Morinus Buxtorfio libellum potius, quam epistolam scribit. Puncta vocalia apud Judaeos recentia esse, plurimis ostendit."
+  },
+  {
+   "scan": 580,
+   "line": 7,
+   "lines": [
+    [
+     580,
+     7
+    ],
+    [
+     580,
+     8
+    ],
+    [
+     580,
+     9
+    ],
+    [
+     580,
+     10
+    ],
+    [
+     580,
+     11
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. LXXII. J. Morinus Cardinali Barberino congratulatur, quod Barberinorum familia cum summo Pontifice in gratiam redierit."
+  },
+  {
+   "scan": 582,
+   "line": 11,
+   "lines": [
+    [
+     582,
+     11
+    ],
+    [
+     582,
+     12
+    ],
+    [
+     582,
+     13
+    ],
+    [
+     582,
+     14
+    ],
+    [
+     582,
+     15
+    ],
+    [
+     582,
+     16
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. LXXIII. J. Morinus Lud. Capello quid Buxtorfio rescripserit recenset, alia nonnulla quae ad Rabbinorum libros pertinent."
+  },
+  {
+   "scan": 596,
+   "line": 1,
+   "lines": [
+    [
+     596,
+     1
+    ],
+    [
+     596,
+     2
+    ],
+    [
+     596,
+     3
+    ],
+    [
+     596,
+     4
+    ],
+    [
+     596,
+     5
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. LXXIV. Bartholdus Nihusius Jo. Morino. Cur in Provinciis unitis pauci libri eruditione referti ex Galliis adsportati compareant."
+  },
+  {
+   "scan": 598,
+   "line": 1,
+   "lines": [
+    [
+     598,
+     1
+    ],
+    [
+     598,
+     2
+    ],
+    [
+     598,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. LXXV. J. Morinus Card. Barberino. Apologia Domini Feronii Canonici, & Archidiaconi Ecclesiae Carnutensis ac Doctoris Sorbonici."
+  },
+  {
+   "scan": 603,
+   "line": 4,
+   "lines": [
+    [
+     603,
+     4
+    ],
+    [
+     603,
+     5
+    ],
+    [
+     603,
+     6
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. LXXVI. J. Morinus Card. Barberino congratulatur ob triumphatos ab eo hostes."
+  },
+  {
+   "scan": 605,
+   "line": 10,
+   "lines": [
+    [
+     605,
+     10
+    ],
+    [
+     605,
+     11
+    ],
+    [
+     605,
+     12
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. LXXVII. Card. Barberinus ad Morinum. D. Feronii pietas & doctrina commendatur."
+  },
+  {
+   "scan": 606,
+   "line": 15,
+   "lines": [
+    [
+     606,
+     15
+    ],
+    [
+     606,
+     16
+    ],
+    [
+     606,
+     17
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. LXXVIII. J. Morinus Card. Barberino obsequium suum testatur."
+  },
+  {
+   "scan": 608,
+   "line": 1,
+   "lines": [
+    [
+     608,
+     1
+    ],
+    [
+     608,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. LXXIX. J. Morinus Abrahae Ecchellensi. Quaerit nonnulla de gente Samaritanorum."
+  },
+  {
+   "scan": 609,
+   "line": 22,
+   "lines": [
+    [
+     609,
+     22
+    ],
+    [
+     609,
+     23
+    ],
+    [
+     609,
+     24
+    ],
+    [
+     610,
+     1
+    ],
+    [
+     610,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. LXXX. Card. Barberinus Morino gratiam habet, quod tam liberaliter in se laudes conjecerit."
+  },
+  {
+   "scan": 611,
+   "line": 10,
+   "lines": [
+    [
+     611,
+     10
+    ],
+    [
+     611,
+     11
+    ],
+    [
+     611,
+     12
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. LXXXI. Card. Barberinus J. Morino. Jucundas sibi esse illius literas testatur."
+  },
+  {
+   "scan": 612,
+   "line": 11,
+   "lines": [
+    [
+     612,
+     11
+    ],
+    [
+     612,
+     12
+    ],
+    [
+     612,
+     13
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. LXXXII. Card. Barberinus J. Morino significat Criticam Sacram Lud. Capelli materiam disputationis Romae suppeditasse, & cur non errores solum, sed curiositatem omnem depellere curent Romani Aulici."
+  },
+  {
+   "scan": 615,
+   "line": 12,
+   "lines": [
+    [
+     615,
+     12
+    ],
+    [
+     615,
+     13
+    ],
+    [
+     615,
+     14
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. LXXXIII. J. Morinus Card. Barberino. Judicium suum de Critica Sacra Capelli, & in eum animadversiones, cur Parisiis cum privilegio Regis edita."
+  },
+  {
+   "scan": 634,
+   "line": 1,
+   "lines": [
+    [
+     634,
+     1
+    ],
+    [
+     634,
+     2
+    ],
+    [
+     634,
+     3
+    ],
+    [
+     634,
+     4
+    ],
+    [
+     634,
+     5
+    ],
+    [
+     634,
+     6
+    ],
+    [
+     634,
+     7
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. LXXXIV. R. Goezaldus J. Morino de moribus Urbani octavi aliqua, Abraham Ecchelensis apud Romanos Aulicos male habitus, quod Cardinalem Antonium Barberinum titulo Episcopi Pictavorum in opere a se edito insigniat."
+  },
+  {
+   "scan": 636,
+   "line": 24,
+   "lines": [
+    [
+     636,
+     24
+    ],
+    [
+     636,
+     25
+    ],
+    [
+     636,
+     26
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. LXXXV. Abr. Ecchellensis, Jo. Morino. De Joanne Marone & ejus operibus nonnulla, unde Maronitarum nominatur secta."
+  },
+  {
+   "scan": 662,
+   "line": 18,
+   "lines": [
+    [
+     662,
+     18
+    ],
+    [
+     662,
+     19
+    ],
+    [
+     662,
+     20
+    ],
+    [
+     662,
+     21
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. LXXXVI. J. Morinus Card. Barberino commendat negotia aliqua suae Congregationis."
+  },
+  {
+   "scan": 664,
+   "line": 1,
+   "lines": [
+    [
+     664,
+     1
+    ],
+    [
+     664,
+     2
+    ],
+    [
+     664,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. LXXXVII. J. Morinus Lucae Holstenio antiquam amicitiam renovat."
+  },
+  {
+   "scan": 665,
+   "line": 1,
+   "lines": [
+    [
+     665,
+     1
+    ],
+    [
+     665,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. LXXXVIII. Abr. Ecchellensis Jo. Morino. Errores Seldeni in sua Eutychii interpretatione."
+  },
+  {
+   "scan": 667,
+   "line": 22,
+   "lines": [
+    [
+     667,
+     22
+    ],
+    [
+     667,
+     23
+    ],
+    [
+     668,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. LXXXIX. J. Morinus Card. Barberino operis, quod tunc meditabatur, breviarium mittit."
+  },
+  {
+   "scan": 669,
+   "line": 3,
+   "lines": [
+    [
+     669,
+     3
+    ],
+    [
+     669,
+     4
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. XC. Abr. Ecchellensis J. Morino de Sacerdotum unctionis ritu apud Orientales."
+  },
+  {
+   "scan": 671,
+   "line": 5,
+   "lines": [
+    [
+     671,
+     5
+    ],
+    [
+     671,
+     6
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. XCI. Morinus Card. Barberino gratias agit ob collatum in se beneficium, licet, quo minus illud accepter, se excusatum velit."
+  },
+  {
+   "scan": 674,
+   "line": 3,
+   "lines": [
+    [
+     674,
+     3
+    ],
+    [
+     674,
+     4
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. XCII. J. Morinus Card. Barberino in gratiam summi Pontificis recepto gratulatur."
+  },
+  {
+   "scan": 676,
+   "line": 4,
+   "lines": [
+    [
+     676,
+     4
+    ],
+    [
+     676,
+     5
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. XCIII. J. Morinus Card. Barberinum officiis ultra demereri pergit, eique Librum de Administratione Poenitentiae destinat."
+  },
+  {
+   "scan": 678,
+   "line": 1,
+   "lines": [
+    [
+     678,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Index rerum et verborum."
+  }
+ ],
+ "book": "Johannes Morinus's Dissertationes epistolicae (Ecclesiae Orientalis Antiquitates), a volume of learned letters: front matter (Ad lectorem, index of letters, Vita, index of opuscula), then letters I to XCIII in one numbered series, with an enclosed Maronite epitome and other letters from correspondents, and an index rerum et verborum at the end.",
+ "series": [
+  {
+   "label": "EPIST.",
+   "first": "I",
+   "last": "XCIII",
+   "count": 93,
+   "level": 1,
+   "found": 98
+  },
+  {
+   "label": "CAP.",
+   "first": "I",
+   "last": "XVII",
+   "count": 17,
+   "level": 3,
+   "found": 17
+  }
+ ],
+ "taste": 50,
+ "doubt": "",
+ "input": 55348,
+ "output": 55180
+}
