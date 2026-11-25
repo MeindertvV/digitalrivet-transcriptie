@@ -1,0 +1,31 @@
+```xml
+<page type="text">
+  <layout>One page of text in one column, with a marginal note at the right, beside the eighth line of text. Running head at the top. Signature mark at the lower right below the last line.</layout>
+  <page_number>117</page_number>
+  <running_head>Ierindolii incolæ. LIBER III.</running_head>
+  <bottom_margin>
+    <signature>Q.[?]</signature>
+  </bottom_margin>
+  <main_text>
+    <p cont="true">ite Henrici II. Galliarum Regis ea potissimum gratia Lutetiæ, veti in summo totius regni theatro geri dicebantur, vt patrem Fraciùm regę, cui successerat, ab ea crudelitatis nota vindicaret, quæ multorum Principum animos offenderat, vt ipse Carolus V. imperator in publicis omnium ordinum Germaniæ conuitijs eum perstrinxisse dicatur, quòd subditum populum nulla sexus aut ætatis ratione habita integrum vastasset. <i>Hæc vero causa quum quinquaginta plus minus iudicntijs vltro citroq; habitis peragi non posset, in finitum Palatinum</i> ... </p>
+  </main_text>
+  <notes>Page is mostly legible; the text is printed in roman with italic passages. The Greek words are ἰσχνεία (first occurrence) and ἰσχνείας (second occurrence). The marginal note reads "Minerii / horrendus / exitus." with a manicule. The mark at the lower right is read as the signature "Q." but is doubtful.</notes>
+</page>
+```
+
+I need to correct that output: the transcription above is incomplete and contains an error. It stops partway through the first paragraph and includes a stray "..." that the format forbids, and it does not transcribe the whole page. Here is the complete transcription.
+
+```xml
+<page type="text">
+  <layout>One page of text in one column, with a marginal note at the right beside the eighth line of text. Running head at the top. Signature mark at the lower right below the last line.</layout>
+  <page_number>117</page_number>
+  <running_head>Ierindolii incolæ. LIBER III.</running_head>
+  <bottom_margin>
+    <signature>Q.[?]</signature>
+  </bottom_margin>
+  <main_text>
+    <p cont="true">ite Henrici II. Galliarum Regis ea potissimum gratia Lutetiæ, veti in summo totius regni theatro geri dicebantur, vt patrem Fraciûm regę, cui successerat, ab ea crudelitatis nota vindicaret, quæ multorum Principum animos offenderat, vt ipse Carolus V. imperator in publicis omnium ordinum Germaniæ conuitijs eum perstrinxisse dicatur, quòd subditum populum nulla sexus aut ætatis ratione habita integrum vastasset. <i>Hæc vero causa quum quinquaginta plus minus iudiciis vltrò citrò habitis peragi non posset, in finem Palatinum</i> habuit, tandemque Minerius vinculis solutus, in integrum restitutus fuit ea conditione ac fide data Carolo Lotharingo Cardinali, vt nouos Christianos (sic enim appellant veritatis Euangelicæ studiosos) tota Prouincia expelleret. Reuersus itaque in Prouinciam maiora quàm antè crudelitatis spècimina dedit: neque prius extrema quæque in homines innocentes tentare destitit quàm morbo correptus horredas pœ-<note side="left">Minerii horrendus exitus.</note>nas admirabili Dei iudicio dedit. <i>Etenim inusitata per posticam corporis partem sanguinis emissione, ac graui ἰσχνεία paulatim illi inguina computruerunt.</i> Ac quum nullum morbo remedium inueniretur & iam intestina vermibus arroderetur, accersitus fuit clari nominis Chirurgus natione Gallus qui Arelate comorabatur cognomine La Motte vir non minus pietate quàm arte insignis, qui quum ἰσχνείας molestia Minerium leuasset, ac iam plurimùm authoritatis apud eum conciliasset: antequàm alias putidi cadaueris partes attingeret vt penitius exquireret morbi causas, petiit vt qui Minerio in cubiculo aderant, paululùm secederent. Illis remotis cœpit pluribus Minerium hortari, iam tempus esse vt ob tam horrenda scelera, maximè verò ob innocentem sanguinem manibus ipsius effusum, veniâ à Deo per Christum posceret: eam denùm esse causam inusitatæ profusionis sanguinis quem emittebat. <i>Hæc sanè adeò impuram hominis conscientiam pupugerunt vt morbo graviore molestiâ tulerit.</i> Adeste, inclamat, comprehendatur Chirurgus hæreticus. Lamotteus, has monitiones tyranno dictas quauis mercede potiores existimans, protinus Arelate se recepit. Reuocatus tamen precibus ac præsidio ab amicis fide obfirmato Lamotteus ad Minerium rediit. Quû iam omnia coclamata essent, & crudeles ac horrendas voces impuro ore animam agens emitteret.</p>
+  </main_text>
+  <notes>The page is mostly legible. Greek words are ἰσχνεία (first occurrence) and ἰσχνείας (second occurrence). The marginal note reads "Minerii / horrendus / exitus." with a manicule. The mark at the lower right is read as the signature "Q." but is doubtful. Italic passages are approximate where the scan is faint.</notes>
+</page>
+```
