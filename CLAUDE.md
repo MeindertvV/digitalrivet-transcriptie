@@ -20,3 +20,18 @@ Run it in the background and keep it going; it pushes each finished work to the 
 It stops by itself when the subscription's usage limit is reached; report how many works and pages were done.
 Check first with `--limit 1` that a work comes through (book.json in out/<work>/, pages ok in its transcribe.log).
 More shards (`--shard i --of N`) or more `--workers` only while pages stay ok and nothing hits a rate limit.
+
+## OCR layers (a second, separate job)
+
+`cloud/ocr.py` makes Tesseract OCR layers (no model, no credit) for the works of `ocr_works.tsv`: invisible text
+only, Latin, with `cloud/tessdata/lat.traineddata`. It needs only `pip install pymupdf` (PyMuPDF has Tesseract
+built in). Do not change `scan_dpi` or `ocr_page`: they are the same as on the server.
+
+```bash
+pip install pymupdf
+python cloud/ocr.py --shard 0 --of 4 --base "$PDF_BASE"
+```
+
+Run it in the background and keep it going; it pushes each finished layer to the branch `ocr-<shard>`. Check first
+with `--limit 1` that a work comes through (a line with pages, words and s/p.). `--workers` defaults to the number
+of cores. Report how many works and pages were done, and the seconds per page.
