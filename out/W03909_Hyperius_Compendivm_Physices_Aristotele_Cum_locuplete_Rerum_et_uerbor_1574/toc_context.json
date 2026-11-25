@@ -1,0 +1,792 @@
+{
+ "work": "W03909_Hyperius_Compendivm_Physices_Aristotele_Cum_locuplete_Rerum_et_uerbor_1574",
+ "made": "2026-11-25T01:28:06",
+ "model": "claude-haiku-5-5",
+ "prompt": "655260ce46aa8978",
+ "candidates": 768,
+ "cost_usd": 0.02191,
+ "dropped": [
+  "title 'De meteoris spiritosis seu flatuosis' moved from 'Quaenam sunt meteora flatuosa?' to 'AND. HYPERII DE METEORIS SPIritosis seu flatuosis.'"
+ ],
+ "toc": [
+  {
+   "scan": 6,
+   "line": 1,
+   "lines": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     5
+    ],
+    [
+     6,
+     6
+    ]
+   ],
+   "level": 1,
+   "title": "Illustribus ac generosis D. Mauritio & Ernesto, fratribus germanis, comitibus in Dietz, dominis in Lisberg & Bickenbach, &c. dominis suis humiliter obseruantia colendis, S."
+  },
+  {
+   "scan": 7,
+   "line": 0,
+   "lines": [
+    [
+     7,
+     0
+    ]
+   ],
+   "level": 1,
+   "title": "Praefatio"
+  },
+  {
+   "scan": 10,
+   "line": 1,
+   "lines": [
+    [
+     10,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Quid est Physice?"
+  },
+  {
+   "scan": 10,
+   "line": 7,
+   "lines": [
+    [
+     10,
+     7
+    ],
+    [
+     10,
+     8
+    ]
+   ],
+   "level": 2,
+   "title": "Quomodo differt Physice ab Ethice & Logice?"
+  },
+  {
+   "scan": 10,
+   "line": 12,
+   "lines": [
+    [
+     10,
+     12
+    ]
+   ],
+   "level": 2,
+   "title": "Quod est subiectum Physices?"
+  },
+  {
+   "scan": 10,
+   "line": 14,
+   "lines": [
+    [
+     10,
+     14
+    ]
+   ],
+   "level": 2,
+   "title": "Quid vocas corpus naturale?"
+  },
+  {
+   "scan": 10,
+   "line": 18,
+   "lines": [
+    [
+     10,
+     18
+    ],
+    [
+     10,
+     19
+    ]
+   ],
+   "level": 2,
+   "title": "Quid intelligis per corpus mobile?"
+  },
+  {
+   "scan": 11,
+   "line": 5,
+   "lines": [
+    [
+     11,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Quid est natura?"
+  },
+  {
+   "scan": 11,
+   "line": 9,
+   "lines": [
+    [
+     11,
+     9
+    ],
+    [
+     11,
+     10
+    ],
+    [
+     11,
+     11
+    ]
+   ],
+   "level": 2,
+   "title": "Quo ordine, quae ad hanc philosophiae partem pertinent, veniunt explicanda?"
+  },
+  {
+   "scan": 14,
+   "line": 1,
+   "lines": [
+    [
+     14,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Quis est usus seu finis Physices?"
+  },
+  {
+   "scan": 16,
+   "line": 11,
+   "lines": [
+    [
+     16,
+     11
+    ],
+    [
+     16,
+     12
+    ]
+   ],
+   "level": 1,
+   "title": "Prima pars Physices, de principijs"
+  },
+  {
+   "scan": 16,
+   "line": 13,
+   "lines": [
+    [
+     16,
+     13
+    ],
+    [
+     16,
+     14
+    ],
+    [
+     16,
+     15
+    ],
+    [
+     16,
+     16
+    ]
+   ],
+   "level": 2,
+   "title": "Explana argumentum octo librorum Aristotelis de principijs, seu de auscultatione physica."
+  },
+  {
+   "scan": 18,
+   "line": 15,
+   "lines": [
+    [
+     18,
+     15
+    ]
+   ],
+   "level": 2,
+   "title": "Quot sunt rerum principia?"
+  },
+  {
+   "scan": 19,
+   "line": 6,
+   "lines": [
+    [
+     19,
+     6
+    ],
+    [
+     19,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "Quot sunt rerum naturalium principia naturalia?"
+  },
+  {
+   "scan": 20,
+   "line": 1,
+   "lines": [
+    [
+     20,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Tabula de principijs."
+  },
+  {
+   "scan": 21,
+   "line": 5,
+   "lines": [
+    [
+     21,
+     5
+    ],
+    [
+     21,
+     6
+    ],
+    [
+     21,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "Quare non est ponendum unum tantum principium, idque immobile?"
+  },
+  {
+   "scan": 23,
+   "line": 20,
+   "lines": [
+    [
+     23,
+     20
+    ],
+    [
+     23,
+     21
+    ]
+   ],
+   "level": 2,
+   "title": "Quare non ponendum unum principium, idque mobile?"
+  },
+  {
+   "scan": 24,
+   "line": 4,
+   "lines": [
+    [
+     24,
+     4
+    ],
+    [
+     24,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Si ponenda sunt principia plura, quare non infinita?"
+  },
+  {
+   "scan": 25,
+   "line": 11,
+   "lines": [
+    [
+     25,
+     11
+    ],
+    [
+     25,
+     12
+    ]
+   ],
+   "level": 2,
+   "title": "Sunt igitur constituenda principia plura & finita?"
+  },
+  {
+   "scan": 25,
+   "line": 18,
+   "lines": [
+    [
+     25,
+     18
+    ],
+    [
+     25,
+     19
+    ]
+   ],
+   "level": 2,
+   "title": "Quot sunt principiorum proprietates?"
+  },
+  {
+   "scan": 29,
+   "line": 6,
+   "lines": [
+    [
+     29,
+     6
+    ],
+    [
+     29,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "Confirmatio. Quare tantum tria sunt, & quaenam illa sunt?"
+  },
+  {
+   "scan": 36,
+   "line": 13,
+   "lines": [
+    [
+     36,
+     13
+    ],
+    [
+     36,
+     14
+    ],
+    [
+     36,
+     15
+    ]
+   ],
+   "level": 2,
+   "title": "De causis"
+  },
+  {
+   "scan": 55,
+   "line": 1,
+   "lines": [
+    [
+     55,
+     1
+    ],
+    [
+     55,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Quare nunc agendum est de motu?"
+  },
+  {
+   "scan": 63,
+   "line": 10,
+   "lines": [
+    [
+     63,
+     10
+    ]
+   ],
+   "level": 2,
+   "title": "De infinito"
+  },
+  {
+   "scan": 79,
+   "line": 1,
+   "lines": [
+    [
+     79,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "De loco"
+  },
+  {
+   "scan": 93,
+   "line": 14,
+   "lines": [
+    [
+     93,
+     14
+    ]
+   ],
+   "level": 2,
+   "title": "De vacuo"
+  },
+  {
+   "scan": 100,
+   "line": 20,
+   "lines": [
+    [
+     100,
+     20
+    ]
+   ],
+   "level": 2,
+   "title": "De tempore"
+  },
+  {
+   "scan": 116,
+   "line": 10,
+   "lines": [
+    [
+     116,
+     10
+    ]
+   ],
+   "level": 2,
+   "title": "De motu"
+  },
+  {
+   "scan": 171,
+   "line": 13,
+   "lines": [
+    [
+     171,
+     13
+    ]
+   ],
+   "level": 1,
+   "title": "Liber secundus"
+  },
+  {
+   "scan": 172,
+   "line": 8,
+   "lines": [
+    [
+     172,
+     8
+    ],
+    [
+     172,
+     9
+    ]
+   ],
+   "level": 2,
+   "title": "De corpore universo"
+  },
+  {
+   "scan": 174,
+   "line": 1,
+   "lines": [
+    [
+     174,
+     1
+    ],
+    [
+     174,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "De quinto corpore simplici, videlicet coelo"
+  },
+  {
+   "scan": 197,
+   "line": 3,
+   "lines": [
+    [
+     197,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Quid coelum"
+  },
+  {
+   "scan": 199,
+   "line": 9,
+   "lines": [
+    [
+     199,
+     9
+    ]
+   ],
+   "level": 2,
+   "title": "Quot partes coeli"
+  },
+  {
+   "scan": 228,
+   "line": 7,
+   "lines": [
+    [
+     228,
+     7
+    ],
+    [
+     228,
+     8
+    ],
+    [
+     228,
+     9
+    ]
+   ],
+   "level": 2,
+   "title": "De generatione & motu corporum naturalium"
+  },
+  {
+   "scan": 234,
+   "line": 0,
+   "lines": [
+    [
+     234,
+     0
+    ]
+   ],
+   "level": 2,
+   "title": "De elementis"
+  },
+  {
+   "scan": 234,
+   "line": 1,
+   "lines": [
+    [
+     234,
+     1
+    ],
+    [
+     234,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Quid est elementum?"
+  },
+  {
+   "scan": 253,
+   "line": 17,
+   "lines": [
+    [
+     253,
+     17
+    ],
+    [
+     253,
+     18
+    ],
+    [
+     253,
+     19
+    ]
+   ],
+   "level": 1,
+   "title": "Liber tertius. De generatione rerum naturalium."
+  },
+  {
+   "scan": 260,
+   "line": 13,
+   "lines": [
+    [
+     260,
+     13
+    ]
+   ],
+   "level": 2,
+   "title": "De alteratione"
+  },
+  {
+   "scan": 262,
+   "line": 3,
+   "lines": [
+    [
+     262,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "De augmentatione"
+  },
+  {
+   "scan": 267,
+   "line": 0,
+   "lines": [
+    [
+     267,
+     0
+    ]
+   ],
+   "level": 2,
+   "title": "De attactu"
+  },
+  {
+   "scan": 268,
+   "line": 14,
+   "lines": [
+    [
+     268,
+     14
+    ],
+    [
+     268,
+     15
+    ]
+   ],
+   "level": 2,
+   "title": "De actione et passione"
+  },
+  {
+   "scan": 272,
+   "line": 15,
+   "lines": [
+    [
+     272,
+     15
+    ]
+   ],
+   "level": 2,
+   "title": "De mixtione"
+  },
+  {
+   "scan": 273,
+   "line": 5,
+   "lines": [
+    [
+     273,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Quid et qualis mixtio"
+  },
+  {
+   "scan": 276,
+   "line": 6,
+   "lines": [
+    [
+     276,
+     6
+    ],
+    [
+     276,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "De materia generationis, seu de elementis"
+  },
+  {
+   "scan": 286,
+   "line": 22,
+   "lines": [
+    [
+     286,
+     22
+    ],
+    [
+     286,
+     23
+    ]
+   ],
+   "level": 2,
+   "title": "De generatione corporum mixtorum"
+  },
+  {
+   "scan": 295,
+   "line": 18,
+   "lines": [
+    [
+     295,
+     18
+    ],
+    [
+     295,
+     19
+    ]
+   ],
+   "level": 1,
+   "title": "Liber quartus. De meteoris."
+  },
+  {
+   "scan": 301,
+   "line": 23,
+   "lines": [
+    [
+     301,
+     23
+    ],
+    [
+     301,
+     24
+    ]
+   ],
+   "level": 2,
+   "title": "De meteoris ignitis"
+  },
+  {
+   "scan": 314,
+   "line": 21,
+   "lines": [
+    [
+     314,
+     21
+    ],
+    [
+     314,
+     22
+    ]
+   ],
+   "level": 2,
+   "title": "De meteoris aqueis"
+  },
+  {
+   "scan": 323,
+   "line": 0,
+   "lines": [
+    [
+     323,
+     0
+    ]
+   ],
+   "level": 2,
+   "title": "De meteoris spiritosis seu flatuosis"
+  },
+  {
+   "scan": 340,
+   "line": 1,
+   "lines": [
+    [
+     340,
+     1
+    ],
+    [
+     340,
+     2
+    ],
+    [
+     340,
+     3
+    ],
+    [
+     340,
+     29
+    ],
+    [
+     340,
+     30
+    ]
+   ],
+   "level": 1,
+   "title": "Index verborum ac rerum memorabilium"
+  }
+ ],
+ "book": "Hyperius's Compendium Physices (1574), a Latin compendium of Aristotelian physics in question-and-answer form: a dedication and preface, an introduction, a first part on principles, then Liber secundus, Liber tertius and Liber quartus (De meteoris), closing with an index.",
+ "series": [
+  {
+   "label": "Liber",
+   "first": "SECVNDVS",
+   "last": "QVARTVS",
+   "count": 3,
+   "level": 1,
+   "found": 7
+  }
+ ],
+ "taste": 50,
+ "doubt": "",
+ "input": 73321,
+ "output": 15072
+}
