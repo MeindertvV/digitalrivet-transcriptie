@@ -1,0 +1,942 @@
+{
+ "work": "W07503_Vermigli_Melachim_id_est_Regum_libri_duo_posteriores_cum_commentariis_1566",
+ "made": "2026-11-25T14:22:40",
+ "model": "claude-haiku-5-5",
+ "prompt": "655260ce46aa8978",
+ "candidates": 486,
+ "cost_usd": 0.02633,
+ "dropped": [],
+ "toc": [
+  {
+   "scan": 8,
+   "line": 1,
+   "lines": [
+    [
+     8,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Ad illustriss. principem D. Fridericum comitem Palatinum Rheni, sacri Rom. imp. electorem, ducem Bauariae, &c."
+  },
+  {
+   "scan": 10,
+   "line": 0,
+   "lines": [
+    [
+     10,
+     0
+    ]
+   ],
+   "level": 1,
+   "title": "Ioan. Volphii praefatio."
+  },
+  {
+   "scan": 26,
+   "line": 0,
+   "lines": [
+    [
+     26,
+     0
+    ]
+   ],
+   "level": 1,
+   "title": "Ioannis Volphii praefatio."
+  },
+  {
+   "scan": 28,
+   "line": 1,
+   "lines": [
+    [
+     28,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Argumentum & usus historiae regum Israelis & Iudae."
+  },
+  {
+   "scan": 30,
+   "line": 1,
+   "lines": [
+    [
+     30,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Index rerum et verborum insignium, quae hoc libro continentur."
+  },
+  {
+   "scan": 56,
+   "line": 1,
+   "lines": [
+    [
+     56,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Index locorum sacrae scripturae, videlicet tam veteris quam noui testamenti, qui passim ab authore in hoc libro exponuntur."
+  },
+  {
+   "scan": 64,
+   "line": 0,
+   "lines": [
+    [
+     64,
+     0
+    ],
+    [
+     64,
+     0
+    ]
+   ],
+   "level": 1,
+   "title": "Loci communes qui inter caeteros copiosius in his commentariis explicantur."
+  },
+  {
+   "scan": 65,
+   "line": 1,
+   "lines": [
+    [
+     65,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Loci communes omnium inter [illegible]"
+  },
+  {
+   "scan": 66,
+   "line": 1,
+   "lines": [
+    [
+     66,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "In priorem librum Melachim sive Regum D. Petri Martyris Vermilii, Florentini, professoris diuinarum literarum in schola"
+  },
+  {
+   "scan": 66,
+   "line": 2,
+   "lines": [
+    [
+     66,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput I."
+  },
+  {
+   "scan": 81,
+   "line": 3,
+   "lines": [
+    [
+     81,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "De asylis."
+  },
+  {
+   "scan": 84,
+   "line": 6,
+   "lines": [
+    [
+     84,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "Caput II."
+  },
+  {
+   "scan": 88,
+   "line": 2,
+   "lines": [
+    [
+     88,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "An Dei mandatum sic expositum in hac vita seruari queat."
+  },
+  {
+   "scan": 108,
+   "line": 2,
+   "lines": [
+    [
+     108,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "De exilio."
+  },
+  {
+   "scan": 112,
+   "line": 2,
+   "lines": [
+    [
+     112,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput III."
+  },
+  {
+   "scan": 113,
+   "line": 1,
+   "lines": [
+    [
+     113,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "An constent nuptiae in religione dispari."
+  },
+  {
+   "scan": 124,
+   "line": 4,
+   "lines": [
+    [
+     124,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Caput IIII."
+  },
+  {
+   "scan": 134,
+   "line": 2,
+   "lines": [
+    [
+     134,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput V."
+  },
+  {
+   "scan": 139,
+   "line": 3,
+   "lines": [
+    [
+     139,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput VI."
+  },
+  {
+   "scan": 148,
+   "line": 2,
+   "lines": [
+    [
+     148,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "De Cherubim."
+  },
+  {
+   "scan": 151,
+   "line": 5,
+   "lines": [
+    [
+     151,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Caput VII."
+  },
+  {
+   "scan": 163,
+   "line": 2,
+   "lines": [
+    [
+     163,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "De ecclesiarum ornamentis."
+  },
+  {
+   "scan": 164,
+   "line": 3,
+   "lines": [
+    [
+     164,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "De imaginibus."
+  },
+  {
+   "scan": 183,
+   "line": 2,
+   "lines": [
+    [
+     183,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput VIII."
+  },
+  {
+   "scan": 201,
+   "line": 2,
+   "lines": [
+    [
+     201,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "De templorum dedicatione."
+  },
+  {
+   "scan": 213,
+   "line": 2,
+   "lines": [
+    [
+     213,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput IX."
+  },
+  {
+   "scan": 222,
+   "line": 2,
+   "lines": [
+    [
+     222,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput X."
+  },
+  {
+   "scan": 234,
+   "line": 2,
+   "lines": [
+    [
+     234,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XI."
+  },
+  {
+   "scan": 253,
+   "line": 2,
+   "lines": [
+    [
+     253,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XII."
+  },
+  {
+   "scan": 268,
+   "line": 3,
+   "lines": [
+    [
+     268,
+     3
+    ],
+    [
+     268,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "An evangelici sint schismatici, quod se alienauerint a Papistis."
+  },
+  {
+   "scan": 291,
+   "line": 3,
+   "lines": [
+    [
+     291,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XIII."
+  },
+  {
+   "scan": 304,
+   "line": 5,
+   "lines": [
+    [
+     304,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XIIII."
+  },
+  {
+   "scan": 317,
+   "line": 2,
+   "lines": [
+    [
+     317,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XV."
+  },
+  {
+   "scan": 327,
+   "line": 2,
+   "lines": [
+    [
+     327,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XVI."
+  },
+  {
+   "scan": 337,
+   "line": 2,
+   "lines": [
+    [
+     337,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XVII."
+  },
+  {
+   "scan": 348,
+   "line": 5,
+   "lines": [
+    [
+     348,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XVIII."
+  },
+  {
+   "scan": 368,
+   "line": 1,
+   "lines": [
+    [
+     368,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XIX."
+  },
+  {
+   "scan": 380,
+   "line": 2,
+   "lines": [
+    [
+     380,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XX."
+  },
+  {
+   "scan": 393,
+   "line": 4,
+   "lines": [
+    [
+     393,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "An liceat magistratibus reos impunitos dimittere."
+  },
+  {
+   "scan": 399,
+   "line": 4,
+   "lines": [
+    [
+     399,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXI."
+  },
+  {
+   "scan": 409,
+   "line": 2,
+   "lines": [
+    [
+     409,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXII."
+  },
+  {
+   "scan": 429,
+   "line": 1,
+   "lines": [
+    [
+     429,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "In secundum librum Melachim sive Regum commentarius."
+  },
+  {
+   "scan": 429,
+   "line": 3,
+   "lines": [
+    [
+     429,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput I."
+  },
+  {
+   "scan": 435,
+   "line": 2,
+   "lines": [
+    [
+     435,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput II."
+  },
+  {
+   "scan": 441,
+   "line": 2,
+   "lines": [
+    [
+     441,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "De raptu Eliae."
+  },
+  {
+   "scan": 463,
+   "line": 2,
+   "lines": [
+    [
+     463,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput III."
+  },
+  {
+   "scan": 476,
+   "line": 4,
+   "lines": [
+    [
+     476,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Caput IIII."
+  },
+  {
+   "scan": 491,
+   "line": 4,
+   "lines": [
+    [
+     491,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "De resurrectione."
+  },
+  {
+   "scan": 531,
+   "line": 1,
+   "lines": [
+    [
+     531,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Caput V."
+  },
+  {
+   "scan": 540,
+   "line": 5,
+   "lines": [
+    [
+     540,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "De donis et muneribus accipiendis & non accipiendis."
+  },
+  {
+   "scan": 553,
+   "line": 2,
+   "lines": [
+    [
+     553,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput VI."
+  },
+  {
+   "scan": 559,
+   "line": 3,
+   "lines": [
+    [
+     559,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Servandi ne an occidendi captivi."
+  },
+  {
+   "scan": 566,
+   "line": 6,
+   "lines": [
+    [
+     566,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "Caput VII."
+  },
+  {
+   "scan": 572,
+   "line": 3,
+   "lines": [
+    [
+     572,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput VIII."
+  },
+  {
+   "scan": 584,
+   "line": 2,
+   "lines": [
+    [
+     584,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput IX."
+  },
+  {
+   "scan": 594,
+   "line": 2,
+   "lines": [
+    [
+     594,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "De fuco."
+  },
+  {
+   "scan": 602,
+   "line": 2,
+   "lines": [
+    [
+     602,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput X."
+  },
+  {
+   "scan": 615,
+   "line": 2,
+   "lines": [
+    [
+     615,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XI."
+  },
+  {
+   "scan": 627,
+   "line": 1,
+   "lines": [
+    [
+     627,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Ioan. Volphii Tigurini in secundi libri Regum quatuordecim ultima capita commentarius."
+  },
+  {
+   "scan": 628,
+   "line": 2,
+   "lines": [
+    [
+     628,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XII."
+  },
+  {
+   "scan": 663,
+   "line": 3,
+   "lines": [
+    [
+     663,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XIII."
+  },
+  {
+   "scan": 683,
+   "line": 4,
+   "lines": [
+    [
+     683,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XIIII."
+  },
+  {
+   "scan": 707,
+   "line": 3,
+   "lines": [
+    [
+     707,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XV."
+  },
+  {
+   "scan": 725,
+   "line": 4,
+   "lines": [
+    [
+     725,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XVI."
+  },
+  {
+   "scan": 737,
+   "line": 6,
+   "lines": [
+    [
+     737,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XVII."
+  },
+  {
+   "scan": 760,
+   "line": 2,
+   "lines": [
+    [
+     760,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XVIII."
+  },
+  {
+   "scan": 792,
+   "line": 2,
+   "lines": [
+    [
+     792,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XIX."
+  },
+  {
+   "scan": 834,
+   "line": 1,
+   "lines": [
+    [
+     834,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XX."
+  },
+  {
+   "scan": 868,
+   "line": 2,
+   "lines": [
+    [
+     868,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXI."
+  },
+  {
+   "scan": 882,
+   "line": 1,
+   "lines": [
+    [
+     882,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXII."
+  },
+  {
+   "scan": 896,
+   "line": 2,
+   "lines": [
+    [
+     896,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXIII."
+  },
+  {
+   "scan": 925,
+   "line": 7,
+   "lines": [
+    [
+     925,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXIIII."
+  },
+  {
+   "scan": 933,
+   "line": 3,
+   "lines": [
+    [
+     933,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Iechoniae deditionem facit."
+  },
+  {
+   "scan": 937,
+   "line": 2,
+   "lines": [
+    [
+     937,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXV."
+  },
+  {
+   "scan": 949,
+   "line": 2,
+   "lines": [
+    [
+     949,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Ciuibus quid acciderit."
+  }
+ ],
+ "book": "Petrus Martyr Vermigli's Latin commentary on 1 and 2 Kings (Zurich, 1566), with Johannes Wolphius completing 2 Kings from chapter 12; it opens with a dedication, prefaces, an argument and indexes, then runs as two books divided into chapters, with excursus sections (De ...) inside the chapters, and closes with lists of common places.",
+ "series": [
+  {
+   "label": "Liber",
+   "first": "I",
+   "last": "II",
+   "count": 2,
+   "level": 1,
+   "found": 10
+  },
+  {
+   "label": "Caput",
+   "first": "I",
+   "last": "XXII",
+   "count": 47,
+   "level": 2,
+   "found": 48
+  }
+ ],
+ "taste": 50,
+ "doubt": "",
+ "input": 85532,
+ "output": 19041
+}
