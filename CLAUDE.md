@@ -35,3 +35,18 @@ python cloud/ocr.py --shard 0 --of 4 --base "$PDF_BASE"
 Run it in the background and keep it going; it pushes each finished layer to the branch `ocr-<shard>`. Check first
 with `--limit 1` that a work comes through (a line with pages, words and s/p.). `--workers` defaults to the number
 of cores. Report how many works and pages were done, and the seconds per page.
+
+## Interlinear steps 1 and 2 (a third, separate job)
+
+`cloud/interlinear_prep.py` pairs the sentences of the works already translated (Bertalign/LaBSE) and looks
+their words up (Whitaker's Words) for the interlinear text: no model, no credit. `cloud/run.py` does the same
+for new works as step 6. Haiku (step 3) is not run here. Do not change the code in `backend/`.
+
+```bash
+pip install -r requirements.txt -r requirements-interlinear.txt
+python cloud/interlinear_prep.py --shard 0 --of 4 --base "$PDF_BASE"
+```
+
+Run it in the background and keep it going; it pushes each finished work to the branch `interlinear-<shard>`.
+Check first with `--limit 1` (a line with rc=0 prep.json=True). LaBSE (~1.9 GB) is downloaded on the first run.
+Report how many works were done, how many failed, and the minutes per 10,000 words.

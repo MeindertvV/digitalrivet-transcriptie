@@ -1,0 +1,5 @@
+# steps 1 and 2 of the interlinear text (cloud/run.py step 6, cloud/interlinear_prep.py); torch for the processor
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+sentence-transformers
+bertalign

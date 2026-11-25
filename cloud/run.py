@@ -9,6 +9,9 @@ one another into out/<work>/, all with Haiku on the subscription (claude -p):
   3. ocr_check/line_compare.py: every line beside the scan's OCR (ocr_regels.json; no model)
   4. contents/toc_context.py: the contents (toc_context.json)
   5. translation/translate.py --lang en --via claude (translation_en.json); skipped with --no-translate
+  6. sentences/interlinear.py --no-haiku: steps 1 and 2 of the interlinear text, the sentences paired by
+     Bertalign/LaBSE and the words looked up in Whitaker's Words (interlinear_en/align_cache.json, prep.json;
+     no model, no credit). Needs the packages of requirements-interlinear.txt; without them it is skipped.
 Then it deletes the PDF, and commits and pushes out/<work>/ to the branch results-<shard> (also after step 1,
 so a stop loses little). A step that fails is logged in out/<work>/<step>.log; the next steps still run. A work whose out/<work>/book.json is already there is skipped,
 so a stopped run just starts again. Stops when the subscription's usage limit is reached.
@@ -20,6 +23,11 @@ ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "out"
 PDFS = Path(os.environ.get("PDF_CACHE", "/tmp/pdfs"))
 DEFAULT_BASE = os.environ.get("PDF_BASE", "")
+try:                                            # step 6 only where its packages are installed
+    import importlib.util
+    HAS_BERTALIGN = importlib.util.find_spec("bertalign") is not None
+except Exception:
+    HAS_BERTALIGN = False
 DONE = ("book.json", "ocr_regels.json", "toc_context.json", "translation_en.json")   # a work with all of these is skipped
 
 
@@ -104,6 +112,10 @@ def main() -> None:
             if not a.no_translate and not (OUT / w / "translation_en.json").exists():
                 step(w, "translate", ["translation/translate.py", str(OUT / w), "--lang", "en", "--via", "claude",
                                       "--workers", str(a.workers)], env)
+            if (OUT / w / "translation_en.json").exists() and not (OUT / w / "interlinear_en" / "prep.json").exists() \
+                    and HAS_BERTALIGN:
+                step(w, "interlinear_prep", ["sentences/interlinear.py", "--src", str(OUT / w / "translation_en.json"),
+                                             "--out", str(OUT / w / "interlinear_en"), "--no-haiku"], env)
         pdf.unlink(missing_ok=True)
         text = "".join((OUT / w / f).read_text(errors="replace") for f in
                        ("transcribe.log", "repair.log", "toc_context.log", "translate.log") if (OUT / w / f).exists())
