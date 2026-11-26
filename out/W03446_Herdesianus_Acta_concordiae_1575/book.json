@@ -3072,13 +3072,67 @@
   },
   {
    "n": 62,
-   "type": "missing",
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "number": "44",
    "warnings": [
     {
-     "type": "missing_page",
-     "text": "page 62 was not transcribed: hit max_tokens (raise --max-tokens)"
+     "type": "merged_lines",
+     "text": "1 line(s) contain several printed lines merged together (longest 1142 chars, median 99); line numbering is unreliable"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
     }
-   ]
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "uns Gott gnediglich verleihe / Datum zu Schmalkalden/ den 15. tag Martii/ Anno/ &c. 1537.",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "E. Williger",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "Philippus Melanthon.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "Ob nun wol dieser vertröstung nach / die Euangelische Stette und Prediger in Schweitz / auff jr obstehendes an Herrn Lutherum gethanes schreiben/ und darinnen innerleibter außfürslicher declaration / jrer Lehr und Bekanntnuß sich einer zeitlichen und gründtlichen antwort / zu beförderung der Concordi / wo es die gelegenheit damit hette/ wie sie dessen von dem Herrn Capitone und Bucero berichtet und vertröstet waren/ versehen/ So hat sich doch dieselbe antwort fast ein ganzes Jar/ vom Februario biß auff den ersten Decembris desselben 37. Jars / verzogen / Also Herr Lutherus / auff das obstehende schreiben und declaration folgende antwort/ erbieten/ zusag/ und vertröstung/ an die Euangelische Stett in Schweitz gethan und geschrieben hat. Nach dem sie sich aber einer klaren vñ richtigen antwort vertröstet/ So wolle der Christliche Leser/ so deß Herrn Lutheri vorige Streitschrifften gelesen/ fleissig bey sich erwegen und bedencken/ was er wol vermeint / daß Herr Lutherus jnen auff jre Lehre und Declaration würde geantwortet haben/ und ob die hernach folgende antwort der vorigen streit und schelt schrifften gemäß und ehnlich sey.",
+     "heading": 0,
+     "para": true,
+     "merged": true
+    },
+    {
+     "n": 5,
+     "text": "Antwort Herrn Doctor Martini Luetheri/ auff der Euangelischen Stett in Schweitz an jhn der Concordi halben gethanes schreiben und declaration.",
+     "heading": 1,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "Den Erbarn fürsichtigen Herrn Bürgermeistern/ Schultheissen/ Råthen und Bürgern der Eidgenossischen",
+     "heading": 2,
+     "para": true
+    }
+   ],
+   "marginalia": [
+    {
+     "side": "left",
+     "at": "Ob nun wol",
+     "line_from": 4,
+     "line_to": 4,
+     "text": "Lutherus ist in seiner antwort nit vbereilet worden."
+    }
+   ],
+   "notes": "Marginal note on the left is set in black letter and spans several lines; its position is beside the line \"sich doch dieselbe\". The heading of the address is cut off at the foot and ends in \"Eidgenossischen\"; the page likely continues. Long s and the vowel/consonant forms have been normalised in the text. The \"vñ\" abbreviation is kept as printed."
   },
   {
    "n": 63,
