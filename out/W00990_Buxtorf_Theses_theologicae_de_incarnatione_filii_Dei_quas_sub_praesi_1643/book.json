@@ -1,0 +1,3880 @@
+{
+ "source": "W00990_Buxtorf_Theses_theologicae_de_incarnatione_filii_Dei_quas_sub_praesi_1643.pdf",
+ "pages": [
+  {
+   "n": 1,
+   "type": "empty",
+   "model": "claude-haiku-5-5",
+   "notes": "Digitiser's cover sheet of e-rara.ch (Universitätsbibliothek Basel), not part of the printed book: banner, logos, persistent link and licence notices left out. Printed title on the sheet: \"Theses theologicae, de incarnatione filii Dei\", Buxtorf, Johann, Basileae, [1643]."
+  },
+  {
+   "n": 2,
+   "type": "title",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": null,
+     "text": "THESES THEOLOGICÆ,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "DE",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "INCARNATIONE",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "FILII DEI:",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Quas,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "DEO BENEDICENTE",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "SUB PRÆSIDIO",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Viri Reverendi, Clarissimi & Excellentissimi,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "DN. JOHANNIS BUXTORFII",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "SS. Theol. Doct. & Ling. Hebr. Profess.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "in Celeberrima Rauracorum Academia, ac",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "p. t. Facult. Philosoph. Decani",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "spectabilis,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Ad publicam συζήτησιν[?] proponit",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "& exhibet",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "JOHANNES MEISTERUS",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Scaphusianus.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Ad diem 3[?] Decembr. Anni hujus occidui,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "M DC XLIII.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "in hyberno Theol. Auditorio, horis consuetis",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "matutinis.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "BASILEÆ, Typis GEORGI DECKERI,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Academiæ Typographi.",
+     "heading": 0
+    }
+   ],
+   "notes": "A stain overlies the \"3\" in \"Ad diem 3\" and the Greek word after \"publicam\" is set in a swash type that is hard to read; both are marked [?]. The \"DE\" line has a decorative swash form of the D and E. The show-through text from the reverse side is excluded, as are the handwritten marks at top right and bottom right."
+  },
+  {
+   "n": 3,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "merged_lines",
+     "text": "1 line(s) contain several printed lines merged together (longest 168 chars, median 42); line numbering is unreliable"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "VIRIS Nobilissimis, Amplissimis, Consultissimis,",
+     "heading": 1,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "Prudentissimis:",
+     "heading": 1
+    },
+    {
+     "n": 3,
+     "text": "Dn. JOHANNI im Thurn / Domino in Theingen.",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "Dn. CASPARO LANGIO.",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "Reipubl. Scaphusianæ Consulibus gravissimis.",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "Dn. JOHAN. JACOBO ZIEGLERO, Proconsuli.",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "Dn. JOHAN. GUILIELMO ZIEGLERO.",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "Dn. EBERHARDO im Thurn/Ærarii publ.p.t.Præfecto.",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "Dn. STEPHANO SPLEISIO.",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "Ejusdem Reipubl. Senatoribus ac Scholarchis spectatissimis,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 11,
+     "text": "cæterisque ejusdem ordinis, Ecclesiæ Scholæque Patriæ",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "Præsidibus ac Inspectorib. longè dignissimis, &c.",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "UT ET",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "VIRIS Reverendis, Clarissimis atq; Doctissimis",
+     "heading": 1,
+     "para": true
+    },
+    {
+     "n": 15,
+     "text": "Dominis,",
+     "heading": 1
+    },
+    {
+     "n": 16,
+     "text": "Dn. THEODORO ZVINGERO, SS. Theol. D.",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "V. T. Profess. ordinario, & Ecclesiæ Basil. Antistiti",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "fidelissimo, dignissimo Domino suo venerando.",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "Dn. JOHANNI BUXTORFIO, SS. Theol. Doct.",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "& Ling. Hebr. Prof. ac p. t. Facult. Phil. Dec. specta-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "tissimo, Domino suo Præsidi, Fautori & Studiorum",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "suorum Promotori colendo.",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "Dn. MELCHIORI HURTERO, Ecclesiæ Patriæ",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "Decano emerito.",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "Dn. GEORGIO SCHALICHIO.",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "Dn. JOHANNI JEZLERO.",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "Ejusdem Ecclesiæ Pastoribus vigilantissimis.",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "NEC NON,",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "Dn. M. SAMUELI KESLERO, Verbi Divini",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "in minori Basil. Ministro vigilantissimo, Domino",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "Hospiti suo gratissimo.",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "Dominis",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 33,
+     "text": "suis Mæcenatibus, & Fautoribus,",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "ThesES hasce Theologicas",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "Submisse consecrat, & Offert",
+     "heading": 0
+    },
+    {
+     "n": 36,
+     "text": "JOHANNES MEISTERUS.",
+     "heading": 0
+    }
+   ],
+   "notes": "The dedication is set in mixed roman, italic and capitals; the Latin \"Dominis suis Mæcenatibus\" and \"Thefes hafce Theologicas\" lines are italic in the scan. Several lines contain Gothic-style initial letters and swash capitals (e.g. \"N\" of Nobilissimis, \"U\" of Ut), transcribed as plain letters. Some words in the Thurn/Theingen lines are in a decorative type and may be imperfect."
+  },
+  {
+   "n": 4,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "number": "2",
+   "lines": [
+    {
+     "n": 1,
+     "text": "THESES THEOLOGICÆ, DE INCARNATIONE FILII DEI.",
+     "heading": 1,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "Thesis I.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "<i>V</i>Erissimè pronuntiat B. Athanasius in Sym-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "bolo suo, Artic. IX. <i>Necessarium est ad æternam salutem,</i>",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "<i>ut, quicunque vult salvus esse, Incarnationem quoque Domi-</i>",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "<i>ni nostri Jesu Christi fideliter credat.</i>",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "II.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 8,
+     "text": "Idem enim hoc est, quod Scriptura ipsa diversis in locis",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 9,
+     "text": "tradit. Joh. 3. 36. <i>Qui credit in Filium, habet vitam æternam: qui non</i>",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "<i>credit Filio, non videbit vitam, sed ira Dei manet super eo.</i> Johan. 6.",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "v. 14. <i>Hæc est voluntas ejus qui misit me, ut omnis qui videt Filium, &</i>",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "<i>credit in eum, habeat vitam æternam.</i> Johan. 17. 3. <i>Hæc est vita æter-</i>",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "<i>na, ut cognoscant te esse illum solum verum Deum, & quem misisti Je-</i>",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "<i>sum Christum.</i> 1. Joh. 4. 3. <i>Quicunque Spiritus non confitetur Jesum</i>",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "<i>Christum venisse in carnem, non est ex Deo.</i> Actor. 4. 12. <i>Non est in alio</i>",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "<i>quoquam salus, nec est aliud nomen sub cœlo, per quod oporteat nos servari.</i>",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "Actor. 10. 43. <i>Huic testimonium dant omnes Prophetæ, remissionem</i>",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "<i>peccatorum accepturum per nomen ejus, quicunque crediderit in no-</i>",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "<i>men ejus.</i>",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "III.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 21,
+     "text": "Quocirca, cùm Fide in Filium Dei incarnatum omnes serva-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 22,
+     "text": "ri oporteat, & sine hac Fide nemo servari possit, quàm utilis &",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "necessaria sit hujus doctrinæ veritas, apparet.",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "IV.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 25,
+     "text": "Itaque & Argumenti hujus dignitate permotus, & Tempo-",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "signature": "A 2"
+  },
+  {
+   "n": 5,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: , salvis"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "tis circumstantiâ, quod nos de summo hoc pietatis mysterio,",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "ob propinquum Nativitatis Festum, pie considerando submo-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "net, invitatus, visum est mihi, in arenam descensuro, & aliquid",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "ad placidam <i>συμβίβασιν</i> proposituro, hanc prae aliis materiam",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "deligere; <i>Ipsum illud Verbum Incarnatum, tanquam lucem illam ve-</i>",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "<i>ram, quae in tenebris lucet, & omnem hominem, in hunc mundum venien-</i>",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "<i>tem, illuminat; imò Fontem illum inexhaustum, ex cujus plenitudine</i>",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "<i>omnes accipimus χάριν ἀντὶ χάριτος, devote invocans,</i>",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "<i>ut, tenebris</i>",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "<i>mentis nostrae discussis, nos ad veritatis lucem in hoc mysterio compreh-</i>",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "<i>endendam, gratiose illuminare velit, ad suam gloriam, & nostram sa-</i>",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "<i>lutem. Amen.</i>",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "V.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 14,
+     "text": "<i>Incarnationis</i> Nomen à Latinis Theologis ad imi-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 15,
+     "text": "tationem Graecorum est formatum, qui mysterium hoc com-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "munissimè vocant <i>Σάρκωσιν</i>, <i>Ἐνσάρκωσιν</i>. Res verò ipsa, & ra-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "tio Nominis in Scriptura fundata, & ex Scriptura petita. Joh. 1. 14.",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "<i>Καὶ ὁ Λόγος σὰρξ ἐγένετο</i> Et verbum caro factum est, & habita-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "vit in nobis. 1. Timoth. 3. 16. <i>Θεὸς ἐφανερώθη ἐν σαρκὶ</i> Deus con-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "spicuus factus est in carne. ad Hebr. 2. 14. Quoniam igitur pueri par-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "ticipes sunt <i>σαρκὸς καὶ αἵματος</i> carnis & sanguinis, ipse quoque con-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "similiter <i>μετέσχε τῶν αὐτῶν</i> particeps factus est eorundem. 1 Joh. 4.",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "v. 2. Quicunque Spiritus confitetur <i>Ἰησοῦν Χριστὸν ἐν σαρκὶ ἐληλυθότα</i>",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "in carnem venisse, ex Deo est. Alias etiam vocarunt <i>ἐνανθρώπησιν</i>",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "q. d. Inhumanationem: Sic praeclarum reliquit B. Athanasius li-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "bellum <i>περὶ ἐνανθρωπήσεως τοῦ Θεοῦ λόγου</i> De Inhumanatione Dei",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "verbi: Item, <i>Ἐνσωμάτωσιν</i> Incorporationem, ex loco, ut videtur,",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "ad Coloss. 2. & ad Hebr. 10. 5. Ad cujus imitationem Hebraei",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "dicunt, הִתְגַּשֵּׁם Incorporari,",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "הִגְשָּׁמָה Incorporatio. Alii aliis et-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "iam usi sunt vocabulis. Nos, nomenclationis ulterioris inve-",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "stigatione praetermissâ, ad rei ipsius considerationem propius",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "accedamus, & quid hoc vocabulo designetur, expendamus.",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "VI.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 35,
+     "text": "<i>Incarnatio</i> igitur est perfectae humanae naturae, à Filio",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 36,
+     "text": "Dei, in unitatem personae, cooperante Patre & Spiritu S. as-",
+     "heading": 0
+    },
+    {
+     "n": 37,
+     "text": "sumptio, facta <i>ἀτρέπτως, ἀσυγχύτως, ἀδιαιρέτως & ἀχωρίστως</i>",
+     "heading": 0
+    }
+   ],
+   "catchword": ", salvis",
+   "notes": "Printed text is faint on the right and at the bottom; a few Greek and Hebrew words are uncertain. The bleed-through text in the lower right is show-through and was omitted. Page number and running head are not printed on this page."
+  },
+  {
+   "n": 6,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "salvis nimirum & inconfusis manentibus, cùm formis seu na-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "turis, tùm utriusque formæ seu naturæ essentialibus proprie-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "tatibus,ad Dei gloriam, & nostram salutem.",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "VII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "In hac definitione breviter & perspicuè præcipua compre-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "hensa sunt, quæ de hoc mysterio, ad salutem scienda, Sacra",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "Scriptura, juxta orthodoxam fidem intellecta, nobis tradit.",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "Quocirca operæ pretium erit,ut paulò accuratius singulas ejus",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "partes examinemus & enucleemus. Comprehendit autem",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "ea Mysterii hujus <i>Causas, Efficientem, Materiam, Formam, & Finem.</i>",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "Videamus singulas.",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "VIII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 13,
+     "text": "CAUSSA EFFICIENS Incarnationis Filii Dei ponitur totà",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 14,
+     "text": "Sacro-Sancta TRINITAS, Pater, Filius, & Spiritus S. <i>Inc-</i>",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "<i>hoativè, sc. & ratione principii: quia opera Trinitatis ad extra, ut</i>",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "<i>vocant, sunt indivisa:</i> De <i>Patre</i> testatur Paulus ad Gal. 4. 4.",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "<i>Ubi venit plenitudo temporis, misit Deus</i> (nempe Pater) <i>Filium suum.</i>",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "Missio enim hæc est, cùm illum in utero virginis carne nostrâ",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "vestivit. Hebr. 10. 5. <i>Quapropter ingrediens mundum, dicit, Sacrifi-</i>",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "<i>cium & oblationem noluisti: corpus autem adaptâsti mihi.</i> De FILIO,",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "ad Phil. 2. <i>Sumpsit formam servi.</i> ad Hebr. 2. 16. <i>Semen Abrahæ as-</i>",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "<i>sumsit.</i> Joh. 5. 19. <i>Quæcunque Pater facit, hæc etiam Filius pariter fa-</i>",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "<i>cit.</i> De S. SANCTO, Angelus ad Mariam, Luc.1.35. <i>Spiritus S.</i>",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "<i>superveniet in te, & virtus Altissimi inumbrabit te.</i> Idem ad Jose-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "phum, Matth. 1. 20. <i>Quod in ea genitum est, à Spiritu S. est.</i> Ev-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "angelista Matthæus v. 18. <i>Inventa est uterum ferre ex Spiritu S.</i>",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "Hinc scribit Augustin. Tom. 3. in Enchirid. ad Laur. cap. 38.",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "<i>Creaturam illam, quam Virgo concepit & peperit, quamvis ad solam</i>",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "<i>Filii personam pertinentem, totà Trinitas fecit.</i> Et Tom. 3. de fide",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "ad Petr. cap. 2. <i>Trinitas nos sibi reconciliavit, per hoc, quòd solum Ver-</i>",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "<i>bum carnem ipsa Trinitas fecit.</i>",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "IX.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 33,
+     "text": "Neque huic contrariatur, quòd locis modò adductis, & in",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 34,
+     "text": "Symbolo Apostolico, Conceptio naturæ humanæ Christi spe-",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "ciatim attribuitur Spiritui Sancto, quando dicimus: <i>Conceptus</i>",
+     "heading": 0
+    },
+    {
+     "n": 36,
+     "text": "<i>de Spiritu S.</i> Nam licèt Spiritus S. solus nominetur, tamen Pater",
+     "heading": 0
+    }
+   ],
+   "notes": "Page is a single column; no margin notes. Some words in the lower-right corner are faint show-through and were left out. Marks such as \"Q\" and small ornaments in the text were read as printed; the final line of section IX is cut off at the foot of the page."
+  },
+  {
+   "n": 7,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: agnosca-"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "& Filius non excluduntur. E. G. Johan. 1. dicitur, Per ipsum",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "(Filium) omnia facta sunt: nec tamen excluditur vel Pater, vel",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "Spiritus S. Sic ad Colos. 1. 16. 17. Sic alibi. Sed indicatur im-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "mediata Spiritus Sancti actio & operatio: quia Pater agit in",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "Filio per Spiritum sanctum in operibus externis: & quia per",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "Gratiam conceptus fuit, quæ Spiritui sancto adscribitur, ut ejus",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "donum, secundum Augustinum in libr. ad Laurentium cap.",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "38. & 39.",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "X.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 10,
+     "text": "<i>Terminative autem</i> Incarnatio solius est Filii, naturam huma-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 11,
+     "text": "nam assumentis; <i>Sermo enim caro factus est</i>, Johan. 1. <i>Ipse accepit</i>",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "<i>formam servi</i>, Phil. 2. <i>Semen Abrahæ.</i> Hebr. 2. Ita quæ inchoa-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "tione & principii ratione communis est operatio; terminatio-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "ne facta est Filio propria, utpote in cujus persona terminum",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "accepit.",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "XI.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 17,
+     "text": "Damnamus hic itaque errorem illorum, qui putant <i>Spiritum</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 18,
+     "text": "<i>Sanctum</i> non efficientis causæ, sed materiæ respectum habere,",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "quasi Christi caro ex substantia Spiritus S. concepta esset, ac",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "per uterum Virginis tanquam per canalem ad nos delata suis-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "set. Error hic natus ex falso intellectu præpositionis E'K,",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "apud Matth. cap. 1. v. 18. quasi illa semper materiam denotaret;",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "cum ea sæpe quoque ad Efficientem causam notandam adhi-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "beatur, ut Rom. 11. v. ultim. <i>ὅτι ἐξ αὐτῆ πάντα, Nam ex ea</i>",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "<i>sunt omnia</i>, id est, <i>ὑπ' αὐτῆς ab eo</i>. Sic Joh. 1. 13. dicimur",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "<i>geniti esse ἐκ θεοῦ ex Deo</i>, id est, a Deo. Atque ita hic quoque su-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "mendum esse, patet ex collatione cum Lucæ 1. v. 35.",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "XII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 29,
+     "text": "Materia Incarnationis considerari potest, tum <i>In qua</i>, seu",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 30,
+     "text": "<i>Subjectum</i>; tum <i>Ex qua</i>, hoc est, <i>Objectum</i>; Persona videlicet ass-",
+     "heading": 2
+    },
+    {
+     "n": 31,
+     "text": "umens, & Natura assumpta.",
+     "heading": 2
+    },
+    {
+     "n": 32,
+     "text": "XIII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 33,
+     "text": "<i>Materia In qua</i>, vel <i>Subjectum Incarnationis</i>, humanam naturam",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 34,
+     "text": "assumens, est Unigenitus ille & æternus Dei Filius; non Pater,",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "neque Spiritus S. Licet enim tres indivisas in Deitate personas",
+     "heading": 0
+    }
+   ],
+   "catchword": "agnosca-",
+   "notes": "Handwritten marginal annotations in the left margin, partly illegible, not transcribed. Greek in XI is transcribed as printed and may contain minor errors. Page number and running head not printed on this scan."
+  },
+  {
+   "n": 8,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "agnoscamus : licet etiam eandem essentiam tribus personis",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "communem esse fateamur: licet denique totam Trinitatem in",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "Incarnationis negotio fuisse operatam dicamus; tamen neque",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "Spiritus S. neque Pater, neque tota Trinitas, sed solus Filius,",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "secunda Deitatis Persona, carnem assumpsit, suaeque personae",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "univit, & Homo factus est, Joh. 1. Phil. 2. Simile in hanc rem",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "adferri solet trium puellarum, quae eandem vestem texuerunt",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "simul atque pararunt; sed uni tantum istarum aptarunt, eique",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "illam induerunt.",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "XIV.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 11,
+     "text": "Atque sic, si proprie & consentaneè cum Scriptura loqui vo-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 12,
+     "text": "lumus, dicendum, Personam (secundam vid. Trinitatis) assum-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "psisse naturam; non Naturam, naturam. Sic Apostolus ad",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "Philip. cap. 2. divinè hoc mysterium edisserens, non dicit; <i>Μορφὴν δούλου λαβὼν</i>;",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "sed, <i>ὁ ὑπάρχων ἐν μορφῇ</i>, &c. <i>suscepit formam.</i> Et Hebr. 2. de persona Christi loquens, ait;",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "<i>Suscepit semen Abrahæ.</i> Et Johan. 1. <i>Verbum</i> (secunda Trinitatis",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "persona) <i>caro factum est.</i> Hinc verè concluserunt Patres &",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "Concilia Catholica; Incarnationem factam esse non in Natu-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "ra, sed in Persona; seu, secundum personam Filii.",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "XV.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 21,
+     "text": "Quod autem Patrum nonnulli aliquando dicunt; Naturam",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 22,
+     "text": "seu essentiam divinam incarnatam esse; ut Cyrillus, & Atha-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "nasius, <i>Divinam naturam unitam esse carni</i>, hoc est, ut Damasce-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "nus explicat, <i>τῷ φύσιν ἐν λόγῳ σεσαρκωμένην</i>. Et Dionysius;",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "<i>ἡ θεότης ὅλως ἡμῖν κοινωνήσῃ</i>; id intelligendum est de to-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "ta natura Divina incarnata, non <i>ἀπλῶς</i>, sed <i>κατά τι</i>, hoc est,",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "non quatenus de singulis praedicatur personis, sed quatenus in",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "persona duntaxat Filii consideratur; quemadmodum etiam,",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "cum dicit Apostolus, <i>Deus manifestatus est in carne</i>; non simpli-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "citer intelligit totam Trinitatem, sed ipsum duntaxat Filium.",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "Et sic Patres se ipsos explicant, dum addiderunt, <i>ἐν μία</i>",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "<i>ὑποστάσεων</i> hoc esse factum: & quidem <i>ἐν ὑποστάσει τῷ λόγῳ</i>.",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "Dupliciter enim <i>Natura Divina</i> spectatur, vel <i>καθ' ἑαυτὸ</i>,",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "& <i>simpliciter</i>: vel <i>relatè</i>, quatenus est in persona <i>τῷ λόγῳ</i>, & <i>κατ' οἰκονομίαν</i> spectatur.",
+     "heading": 0
+    }
+   ],
+   "catchword": "XVI. Rejici-",
+   "notes": "The Greek passages are copied from a small, worn print; the exact accents and some letters of the Greek words are uncertain and may need checking against the scan. The short dash at the right beside the last lines and the underline under \"κατ' οἰκονομίαν\" are ink marks, not print, and were left out. The long s is printed as f in the original and is given as s here."
+  },
+  {
+   "n": 9,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: XX. Secun-"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "XVI.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "Rejicimus ergò hic errorem Praxeæ, Noëtii, Sabellii, & Pa-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "tri-pasianorum, qui, ut Trinitatem personarum negabant: Ita",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "totam Deitatem incarnatam fuisse, docebant.",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "XVII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "Porrò, dum Subjectum Incarnationis statuimus, Æternum",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "& unigenitum Dei Filium, Patri coessentialem & coæqualem;",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "statuimus illum verè ac proprie Deum, Deíque Filium ante",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "Incarnationem fuisse; non verò, vel nudum Hominem, &",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "ψιλὸν ἄνθρωπον, contra Ebionem, Cerinthum, Samosatenum,",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "Photinum, & similes hæreticos; vel per Incarnationem de-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "mùm Filium Dei factum, contra Servetum, de quo Calv. in",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "Institut. lib.2. cap.14. Sect. 5. Divinitatis autem ejus argumen-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "ta nunc, brevitatis studio, omittimus, utpote, non in æternæ",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "ipsius Generationis arcano, sed Incarnationis & ἐνανθρωπήσεως",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "mysterio, occupati.",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "XVIII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 18,
+     "text": "Cur verò Filius Dei, secunda SS. Trinitatis persona potiùs,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 19,
+     "text": "quàm aliarum hypostaseon una, Pater vel Spiritus S. huma-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "nam sibi carnem univerit, etsi ratio humana stupescere, fides",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "Christiana humiliter adorare, non scrutari mysterium debet;",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "quædam tamen à Theologis ex Scripturis rationes explicari",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "solent non improbabiles; Ita nimirum conveniens fuisse, ut,",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "qui Filius Dei erat, à Patre ante secula genitus, etiam Filius",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "Hominis esset, ex substantia Matris in tempore natus:",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "XIX.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 27,
+     "text": "<i>Primò;</i> quia nihil decentius fuerit, quàm per eum reparari",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 28,
+     "text": "naturam lapsam, per quem fuerat condita. Omnia autem per",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "λόγον facta sunt, Johan. 1. Igitur per Filium Dei fuit reparandus",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "& restituendus homo. Hinc Paulus ad Hebr. 2. 10. <i>Decebat</i>",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "<i>eum, per quem omnia, authorem fieri salutis.</i> Et ita Athanasius ad",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "Epictetū eleganter ait; <i>Missum fuisse Filium, ut ejus esset ἀνακεφαλαίωσις,</i>",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "<i>cujus fuerat κεφαλή.</i> Huc allusit Apostolus, cùm nostram Re-",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "demptionem per Christum vocat <i>Creationem in Christo:</i> & nos,",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "<i>Creaturas novas,</i> Eph. 2. & alibi.",
+     "heading": 0
+    }
+   ],
+   "catchword": "XX. Secun-",
+   "notes": "Marginal note at the start of XVI (a mark beside \"totam\") is faint and not legible. Greek words in XVII and XIX are transcribed as best read. Faint show-through of the reverse page is ignored."
+  },
+  {
+   "n": 10,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "XX.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "<i>Secundò</i> ; ne per Incarnationem personarum Divinarum",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "mutaretur denominatio, vel confusio induceretur, quod acci-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "disset,si aut Pater, aut Spiritus S. aut simul omnes, per dispen-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "sationem carnis, Filii nomen sibi vendicassent. Augustin. in",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "lib. de Dogmatib. Ecclefiast. cap.2.",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "XXI.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 8,
+     "text": "<i>Tertiò</i>, beneficium Incarnationis ad hoc ordinatum fuit à",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 9,
+     "text": "Deo, atque hominibus indultum, ut nos Filii Dei fieremus.",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "Congruum itaque fuit, ut <i>Filii Dei adoptivi</i> fieremus per",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "eum,qui est ipse <i>Filius Dei naturalis.</i> Huc facit Joh. 1.",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "v. 12. <i>Quotquot acceperunt eum, dedit eis hanc dignitatem, ut Filii</i>",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "<i>Dei fierent :</i> Item ; <i>Ascendo ad Patrem meum, & Patrem vestrum.</i>",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "XXII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 15,
+     "text": "Et hæc de Materia <i>In qua,</i> sive <i>Subjecto Incarnationis</i> ; Perso-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 16,
+     "text": "nâ videlicet carnem assumente.",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "XXIII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 18,
+     "text": "<i>Materia ex qua,</i> sive <i>Objectum Incarnationis,</i> quod videl. à Filio",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 19,
+     "text": "Dei assumptum est, dicimus esse Veram & integram naturam",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "humanam, vero corpore humano, & verâ animâ humanâ con-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "stantem, cum omnibus essentialibus & naturalibus, cùm ani-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "mæ,tùm corporis proprietatibus.",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "XXIV.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 24,
+     "text": "Ad explicationem hujus theseos , dicimus <i>primò</i>, Filium",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 25,
+     "text": "Dei assumpsisse <i>Naturam Humanam</i> , non Personam , vel",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "<i>ὑφιστάμενον</i> ; eamq;,non ut ideam extra omnia individua, solâ",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "cogitatione comprehensam ; neque ut in omnibus homini-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "bus pariter existentem : sed ut in <i>ἀτόμῳ</i> (ut Damascenus",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "loquitur) hoc est, quæ in certo existat individuo,quod tamen",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "nunquam per se, & nunquam nisi in assumente exstiterit ;",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "vel ; quatenus <i>τὸ ἄτομον</i> non per se suaque propriâ subsisten-",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "tiâ subsistit, sed quatenus sustentatur in alio, eique mera est",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "<i>φύσις</i>, non autem <i>ὑπόστασις.</i> Hinc vulgò dicunt; Naturam",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "humanam <i>ἀνυπόστατον</i> in se, factam esse <i>ἐνυπόστατον τῷ Λόγῳ.</i>",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "XXV.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 36,
+     "text": "Rationes hujus rei dari possunt variæ. Recenseamus, quas-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 37,
+     "text": "dam duntaxat:",
+     "heading": 0
+    }
+   ],
+   "signature": "B",
+   "notes": "Greek words are transcribed as best read from a small, slightly blurred scan; accents may be imperfect. The Roman numerals of the section headings are set as level 2 heads. No page number or running head is printed. The mark \"f\" at the foot is a stray printed or signature-like mark and is not transcribed as text."
+  },
+  {
+   "n": 11,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "number": "1",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: vitque"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "1. Si Filius Dei assumpsisset personam vel ὑφιστάμενον,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "illud pro natura Personæ & ὑφιστάμενα prius per se extitisset,",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "quàm sumeretur. At hoc posterius est absurdum, Joh. 1.",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "2. Quia ὁ λόγος, cum natura humana assumpta, natus est,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "& manst, & est una tantum persona, & una ὑπόστασις. Ergo",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "persona non assumpsit personam, vel ὑπόστασιν aliam; sed al-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "teram naturam.",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "3. Si λόγος persona sumpsisset personam hominis, λόγος",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 9,
+     "text": "non posset vere vocari Homo. Est enim ἀδύνατον, ut persona",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "una prædicetur de altera; Atqui λόγος vere vocatur & est",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "Homo. E.",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "4. Si persona τῷ λόγῳ sumpsisset personam hominis, ita",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 13,
+     "text": "ut in Christo duæ essent Personæ, Divina & Humana; tunc de",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "Persona hominis prædicari non possent, quæ sunt τῷ λόγῳ",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "propria, neque rursus quæ sunt hominis, de Persona λόγῳ:",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "Neque enim Deus, qui non fit etiam Homo, dici poterit mori:",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "aut Homo, qui non fit etiam Deus, mortuos vivificare. Atqui",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "unus & idem Christus de se-ipso prædicat, quæ λόγῳ sunt, &",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "etiam quæ hominis, idque Verbo & Pronomine non Pluralis",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "numeri; <i>Nos sumus</i>; sed Singularis, dicendo; <i>Ego sum panis verus,</i>",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "<i>qui descendit de Cælo.</i> Item: <i>Exivi à Patre.</i> Item: <i>Ego resuscita-</i>",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "<i>bo eum novissimo die.</i> Item: <i>Ego vitam æternam do eis.</i> Item: <i>Ego</i>",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "<i>& Pater unum sumus.</i> Et rursus; <i>Ego sitio, da mihi bibere.</i> Item:",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "<i>Nemo ascendit in Cælum, nisi qui descendit de Cælo, Filius Hominis, qui</i>",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "<i>est in Cælo.</i> Aliis brevitatis studio supersedebimus argumentis.",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "XXVI.",
+     "heading": 1,
+     "para": true
+    },
+    {
+     "n": 27,
+     "text": "Tenenda est autem cum Scriptura firmiter hæc assertio con-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 28,
+     "text": "tra Nestorium & Nestorianos quosdam, qui, quod assumpsit",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "Filius Dei, vel personam, vel ὑφιστάμενον esse voluerunt, quo-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "rum errorem damnamus.",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "XXVII.",
+     "heading": 1,
+     "para": true
+    },
+    {
+     "n": 32,
+     "text": "<i>Deinde</i> addidimus quoque, assumpsisse Naturam <i>Veram, vero</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 33,
+     "text": "<i>corpore humano, & verâ animâ humanâ constantem.</i> Itaque asseri-",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "mus porrò, illum assumpsisse <i>verum corpus humanum</i>; quo duo",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "continentur; <i>primò</i>, quòd <i>corpus</i> assumpserit <i>verum</i>, non <i>phan-</i>",
+     "heading": 0
+    },
+    {
+     "n": 36,
+     "text": "<i>tasticum</i>; Christus ipse hoc sæpe luculenter declaravit, proba-",
+     "heading": 0
+    }
+   ],
+   "catchword": "vitque"
+  },
+  {
+   "n": 12,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "vitque Apostolis, tum ante Passionem & Resurrectionem,",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "Matth. 14. Marc. 6. Johan. 6. tum post Resurrectionem.",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "Luc. 24. 2. Ostendi potest idem à vera Passione Christi,",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "<i>Vere languores nostros ipse tulit, & dolores nostros ipse portavit,</i> Jesa.",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "53. 3. à Vera Redemptione, quam passim docet tota Scriptura.",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "4. Universa Ecclesia omnibus temporibus hanc hæresin da-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "mnavit; præsertim verò Ignatius, Irenæus, Tertullianus &",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "alii, eam valdè impugnarunt, & expugnarunt. <i>Secundò</i>,",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "Admimus Corpus hoc fuisse <i>verè humanum.</i> Confirmatur hoc",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "præcipuè. 1. à Fine Incarnationis, qui fuit, ut in carne illa da-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "mnaretur peccatum, per quam peccatum in mundum est in-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "gressum. 2. Omnibus illis dictis Sacrarum literarum, qui-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "bus promissum fuit <i>Semen mulieris, semen Davidis:</i> Item ubi legi-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "mus, <i>Conceptum eum fuisse in utero Virginis, Natum ex Maria Virgine,</i>",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "<i>Filium ejus vocatum fuisse, Filiumq; hominis; Fructum Ventris, Et ex</i>",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "<i>muliere factum,</i> Gal.",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "4. <i>Decuisse eum per omnia fratribus similem fieri.</i>",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "XXVIII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 19,
+     "text": "Damnamus hic itaque errorem Cerdonis, Marcionis, Ma-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 20,
+     "text": "nichæi, & aliorum, qui veritatem humani corporis Christi",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "negarunt, & illud vel ex substantia Divina, vel Cœlesti & Sy-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "dera, vel Elementari, seu conflatum, seu compactum fuisse,",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "voluerunt.",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "XXIX.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 25,
+     "text": "<i>Tertiò</i> docemus; Christum assumpsisse non nudum corpus,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 26,
+     "text": "<i>sed animâ verè humanâ præditum.</i> Confirmatur hoc iisdem ferè",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "locis omnibus, quibus & superiora; præsertim illis, ubi men-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "tio fit <i>Animæ.</i> Matth. 27. <i>Tristis est anima mea usque ad mortem.</i>",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "Item: <i>In manus tuas commendo Spiritum meum.</i> Item, Ubi attri-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "buitur Christo <i>Voluntas humana</i>, diversa à voluntate Dei: <i>Non</i>",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "<i>quod ego volo, sed quod tu.</i> Item, Ubi datur illi <i>Intellectus huma-</i>",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "<i>nus</i>, & cognitio humana, Luc. 2. <i>Proficiebat sapientiâ.</i> Denique",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "ubi vocatur <i>Homo nobis per omnia similis excepto peccato.</i> Hebr. 2.",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "Addatur argumentum à fine Incarnationis: Christus ea assum-",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "psit, quorum servandorum causâ venerat. Atqui venit, non",
+     "heading": 0
+    },
+    {
+     "n": 36,
+     "text": "solùm ut servaret corpora nostra,",
+     "heading": 0
+    },
+    {
+     "n": 37,
+     "text": "sed imprimis animas.",
+     "heading": 0
+    },
+    {
+     "n": 38,
+     "text": "XXX.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 39,
+     "text": "Opponimus hanc Thefin Arrio & Apollinari; quorum ille",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "signature": "B 2",
+   "notes": "Handwritten marginal annotations in the right margin (Latin/Greek scribbles, not printed) are omitted. Page number and running head absent; the printed signature \"B 2\" appears at the foot. Some words in the marginal scribble were illegible."
+  },
+  {
+   "n": 13,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "Animam simpliciter in Christo negabat: præexistentem, &",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "ante omnia creatum Spiritum, pro Anima substituens: hic ve-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "rò Animam quidem confitebatur; mentem verò humanam",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "Christo adimebat.",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "XXXI.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "<i>Quarto</i> diximus, Filium Dei cum corpore verè humano, &",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "animâ verè humanâ, assumpsisse quoque <i>omnes utriusq; proprie-</i>",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "<i>tates Essentiales & Naturales.</i>",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "XXXII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 10,
+     "text": "<i>Essentiales</i> vocamus, sine quibus talis essentia & substantia",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 11,
+     "text": "esse nequit; ut in <i>Anima</i> est <i>Spiritualitas</i> & <i>Immortalitas</i>, Luc. 23.",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "v. 46. <i>Facultates, Intelligendi</i>, Luc. 12. 52. & <i>Volendi</i>, Matth. 26.",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "v. 29. In <i>Corpore</i>, quod sit <i>Organicum</i>, habens distincta membra,",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "caput, pectus, brachia, &c. quod sit <i>Finitum</i>, & justis constans",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "dimensionibus: quod sit <i>Visibile</i> & <i>contrectabile</i>. Hæ proprieta-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "tes necessariò ex essentia rei nascuntur, & ab ea sunt inseparabi-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "les: ideo sunt non tantùm φυσικαί, sed etiam ἀσώματοι.",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "XXXIII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 19,
+     "text": "<i>Naturales</i> dicimus eas, quæ naturam quidem",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 20,
+     "text": "consequuntur, sed ab illa sunt separabiles: uti est, quòd <i>Corpus sit</i>",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "<i>grave.</i> Donabitur enim agilitate; quia <i>resurget in virtute:</i> quòd sit <i>opacum</i>,",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "& non luceat: Donabitur enim summo splendore: Quia <i>Justi</i>",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "<i>fulgebunt sicut Sol:</i> Quòd nunc <i>esuriat, sitiat, ac sine cibo sustentari</i>",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "<i>nequeat ac vivere.</i> Hac enim necessitate liberabitur. Ita in",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "<i>Anima</i>, quòd sit passionibus obnoxia, &c. Sic, qui olim pro-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "fecit Sapientiâ, nunc non amplius proficit, &c. Hæ conse-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "quuntur naturam & substantiam, sed non semper & insepa-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "rabiliter.",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "XXXIV.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 30,
+     "text": "His addimus <i>quinto loco</i>; Christum quoq; assumpsisse <i>Infir-</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 31,
+     "text": "<i>mitates, defectus atque passiones,</i> naturales sc. & inculpabiles, quas",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "Damascenus vocat φυσικὰ καὶ ἀδιάβλητα πάθη; Infirmita-",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "tes scilicet & defectus, <i>non hujus vel illius individui</i>, ex particula-",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "tibus causis & peccatis proficiscentes; ut sunt <i>Varii morbi, febris,</i>",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "<i>podagra, & alia id genus</i>, quæ non sunt omnium communia ma-",
+     "heading": 0
+    },
+    {
+     "n": 36,
+     "text": "la: <i>neque etiam infirmitates vitiosas & culpabiles:</i> sed τὰ πάθη",
+     "heading": 0
+    },
+    {
+     "n": 37,
+     "text": "suscepit,",
+     "heading": 0
+    }
+   ],
+   "notes": "The Greek words are printed in Greek letters; transcribed as best read. Some words in the first lines of the Greek phrases (\"φυσικὰ\", \"ἀδιάβλητα\") are uncertain. Headings XXXI–XXXIV are Roman numerals, treated as level 2 subheads. The first line of the page continues from the previous page."
+  },
+  {
+   "n": 14,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "fuscepsit,quæ & <i>φυσικά</i>, eoque omnium hominum commu-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "nia, & <i>ἀδιάδεκτος</i> sunt.",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "XXXV.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "Infirmitates illæ sunt cùm <i>Corporis</i>, tùm <i>Animæ</i>. <i>Corporis</i> in-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "firmitates iterum sunt, <i>vel à causis intrinsecis</i>; ut Calamitates, &",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "Cruciatus ab hostibus illati; <i>vel à causis extrinsecis</i>, & naturam,",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "ex quo primævâ felicitate excidit,universè consequuntur : ut",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "<i>Algere, Æstuare, Sitire, Esurire, Dolere, Defatigari</i>, & similia. Vi-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "deantur loca, Johan. 4. 6. Luc. 22. 44. Johan. 11. 34. Luc. 19. 4.",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "<i>Animæ</i> verò infirmitates sunt, <i>Tristitia, Timor, Ignorantia, Admira-</i>",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "<i>tio, Ira</i>. Hæc omnia fuerunt in Christo, sed <i>sine peccato</i>, ut lo-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "quitur Apostolus, ad Hebr. 4. 15.",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "XXXVI.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 14,
+     "text": "Cur autem præter veram, & integram naturam humanam,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 15,
+     "text": "cum omnibus suis proprietatibus, voluerit etiam hos omnes",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "naturales, sed <i>ἀσθενείας</i>, sumere defectus ? sequentes à",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "Sanctis Patribus, ex Scripturis collectæ, adferuntur rationes :",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "1. Ut per hos declararet, se esse verum hominem, nobis per",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 19,
+     "text": "omnia simile, excepto peccato. Hanc habet Paulus ad Phil. 2. <i>Ἐν</i>",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "<i>ὁμοιώματι</i> Habitu repertus ut homo; scilicet verus. 2. Ut tùm",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "in corpore, tùm in anima, pateretur pro nobis, & patiendo no-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "stra expiaret peccata. 3. Ut exemplum nobis præberet pa-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "tientiæ, & omnia mala tolerandi propter gloriam Dei, & salu-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "tem Proximi, 1. Pet. 2. ad Hebr. 12. 4. Ut inde spem & fidu-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "ciam conciperemus, fore, ut D. N. J. C. nobis compatiatur,",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "cùm variis calamitatibus turbamur & tentamur. ad Heb. 7.",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "XXXVII.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 28,
+     "text": "Tenendum est hoc contra <i>Ἀφθαρτοδοκηταὶ</i>, qui docebant,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 29,
+     "text": "Corpus Christi ab ipsa conceptione, propter conjunctionem",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "cum Verbo, fuisse ab omni pasione & corruptione alienum",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "factum. In his inprimis fuit Julianus, Halicarnasi Episco-",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "pus, & Gajanus Alexandrinus Episcopus, à quo Gajanitæ.",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "XXXVIII.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 34,
+     "text": "<i>Tandem</i> verò unum adhuc addendum, quòd naturam istam",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 35,
+     "text": "humanam cum omnibus proprietatibus essentialibus ac natu-",
+     "heading": 0
+    }
+   ],
+   "signature": "B 3",
+   "notes": "The page is set in one column with no marginal notes. Faint ghost text from the reverse side (show-through) is ignored. Greek words are transcribed from a small, slightly blurred scan: \"ἀδιάδεκτος\", \"ἀσθενείας\", \"Ἐν ὁμοιώματι\" and \"Ἀφθαρτοδοκηταὶ\" are uncertain in their exact letters and should be checked against the original. The numerals XXXV to XXXVIII are bare section numbers and are kept as paragraphs. The last line is cut at the foot of the page and continues on the next page."
+  },
+  {
+   "n": 15,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "ralibus,defectibus item & passionibus commemoratis,assu m-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "ferit <i>Sine peccato</i>, ad Hebr. 2. 14. 17. & 4. 15. ad Hebr. 7. 26.",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "ad Rom. 8. 3. Luc. 1. 35. Joh. 8. 46. Matth. 3. 1. Petr. 1. 29. Hinc",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "conceptus est de Spiritu S. sine femine Viri, ex purissimis &",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "sanctissimis Mariæ sanguinibus, ut Damascenus loquitur.",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "Et, Cùm in ea carne expiata sint peccata nostra, eumque in fi-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "nem fuerit assumpta; cùm item per hanc carnem vivificemur",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "ad vitam æternam, peccatum in ea esse non potuit.",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "XXXIX.",
+     "heading": 1,
+     "caput": "39",
+     "para": true
+    },
+    {
+     "n": 10,
+     "text": "<i>Forma Incarnationis</i> consistit in <i>ipsa Natura humana</i>,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 11,
+     "text": "à Filio Dei, in unitatem personæ, assumptione; In Scripturis vocatur",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "Ἐπίληψις Assumptio, Heb. 2. 16. Κοινωνία σαρκὸς καὶ αἵματος,",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "Ibid. v. 14. Λαβὴ τῆς μορφῆς δούλου, Philip. 2. 7. A Patribus, Σάρκωσις, Ἐνσάρκωσις,",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "Ἐνανθρώπησις, σύγχωρησις, Οἰκονομία, Ἕνωσις: Inter quæ hoc postremum Ἑνώσεως nomen, & quidè",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "ὑπόστατικῆς, in Ecclesia fere obtinuit, unde & Latini <i>Unionem</i>",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "<i>Personalem</i> vocarunt.",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "XL.",
+     "heading": 1,
+     "caput": "40",
+     "para": true
+    },
+    {
+     "n": 18,
+     "text": "In <i>Unione</i> hac <i>Personali</i> duo potissimum sunt attendenda;",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 19,
+     "text": "1. Ejus Modus, 2. Effecta vel Consequentia.",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "XLI.",
+     "heading": 1,
+     "caput": "41",
+     "para": true
+    },
+    {
+     "n": 21,
+     "text": "<i>Modum Unionis</i> quod attinet, indigitatur ille, dum <i>Unio</i> hæc",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 22,
+     "text": "vocatur <i>Personalis.</i> Ad cujus ulteriorem illustrationem, pro-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "pter varios hæreticos, plura addenda esse, prudenter veteres",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "Patres statuerunt. Inter quæ perplacet brevis illa & nervo-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "sa Patrum Concilii Chalcedonensis declaratio, qui dixerunt,",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "Unionem hanc factam esse Ἀτρέπτως, Ἀδιαιρέτως, Ἀσυγχύτως & Ἀχωρίστως.",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "XLII.",
+     "heading": 1,
+     "caput": "42",
+     "para": true
+    },
+    {
+     "n": 28,
+     "text": "1. Ἀτρέπτως; fine ulla mutatione aut alteratione τῷ Λόγῳ,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 29,
+     "text": "seu Personæ Divinæ.",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "XLIII.",
+     "heading": 1,
+     "caput": "43",
+     "para": true
+    },
+    {
+     "n": 31,
+     "text": "Damnarunt hoc adverbio <i>Apollinarem</i>, & omnes, qui docue-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 32,
+     "text": "runt, Incarnationem factam esse, non sine aliqua τῷ",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "Λόγῳ, naturæque ejus Divinæ mutatione: Item <i>Eos</i>, qui humanam",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "naturam in Divinam conversam esse, somniarunt.",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "XLIV. 2. Ἀδιαι-",
+     "heading": 1,
+     "caput": "44",
+     "para": true
+    }
+   ],
+   "notes": "Page is a single column; the last heading \"XLIV. 2. Ἀδιαι-\" is a heading fragment running to the next page. Greek words are transcribed as legible; some accents may be approximate. Lower-left faint marks are show-through and omitted."
+  },
+  {
+   "n": 16,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: commo-"
+    },
+    {
+     "type": "doubtful",
+     "text": "\"...\" in the text: a passage was skipped or a remark written as print"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "XLIV.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "2. A'διαιρέτως; sine ulla duarum naturarum divisione in",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "duas subsistentes personas.",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "XLV.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "Refellere hoc pacto voluerunt <i>Nestorii</i> errorem, qui has",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "duas naturas non distinxit, sed divisit, tam humanae suam pro-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "priam ὑπόστασιν affingens, quam suam habet Divina; eoq; illas",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "non conjungebat in unam hypostasin, sed tantum κατὰ θεότητα ... <i>κατὰ φύσιν</i> & κατὰ φύσιν.",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "XLVI.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 10,
+     "text": "3. A'συγχύτως; sine confusione vel commixtione duarum",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 11,
+     "text": "naturarum, ad constituendam unam tertiam, salvis & distin-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "ctis manentibus Naturis, earumque Proprietatibus, Volunta-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "tibus, Actionibus.",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "XLVII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 15,
+     "text": "Oppositae hoc adverbium <i>Eutychianis</i> erroribus. <i>Eutyches</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 16,
+     "text": "enim, & ejus discipuli, varias συγχύσεως species excogitarant.",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "<i>Unam</i>; qua voluerunt, Naturam humanam in Divinam esse",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "absorptam, atque conversam, ut <i>Eutyches</i> ipse. <i>Alteram</i>; qua",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "e duabus unam conflatam esse docuerunt, ut <i>Dioscorus</i>: <i>Tertiam</i>,",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "qua essentiales proprietates utriusque naturae confuderunt, ut",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "Α'κέφαλοι. <i>Quartam</i>, qua e duabus voluntatibus unam, &",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "e duobus actionum generibus, unum commenti sunt, ut <i>Mo-</i>",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "<i>notheletha</i>.",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "XLVIII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 25,
+     "text": "4. A'χωρίστως; sine ulla separatione; quia separari am-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 26,
+     "text": "plius non possunt hae duae naturae, quin solvatur Christus, &",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "connubium, cum humana natura a Filio Dei contractum, di-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "rimatur.",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "XLIX.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 30,
+     "text": "Oppositerunt hoc iis, qui naturas separabiles esse dixerunt,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 31,
+     "text": "ut Nestoriani nonnulli.",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "L.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 33,
+     "text": "Atque hae <i>particulae</i> excogitatae sunt olim a prisca Ecclesia,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 34,
+     "text": "ut earum luce haereticorum Χειρομάχων fumos ac fraudes",
+     "heading": 0
+    }
+   ],
+   "catchword": "commo-",
+   "notes": "Greek words in the text are partly illegible in the scan (notably the Greek after \"affingens\", \"κατὰ\" phrases in XLV, and \"συγχύσεως\" in XLVII); rendered as best read. Background show-through of the reverse page omitted. Heading numbers XLIV–L are set as headings, level 2, as no division word is printed."
+  },
+  {
+   "n": 17,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "commodius discuterent: res vero ipsa ex Scriptura petita. Videantur",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "loca Joh. 1. 1. 14. Phil. 2. 7. 8. Col. 2. 9. Heb. 2. 6.",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "LI.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "<i>Effecta</i> seu Consequentia <i>Unionis Personalis</i> spectanda par-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "tim in <i>Humana Christi Natura feorsim</i>, <i>partim in Persona</i>, seu utra-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "que Natura conjunctim.",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "LII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 8,
+     "text": "<i>Naturam Christi Humanam</i> concernentia, sunt Gratiae, quibus",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 9,
+     "text": "illa vi hujus Unionis ditata & ornata est, quales in nullo un-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "quam homine extiterunt, aut exstabunt unquam, & quae di-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "gnitatem Angelicam quoque superant. Tales sunt quatuor",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "praecipuè.",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "LIII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 14,
+     "text": "1. <i>Gratia Unionis personalis cum λόγῳ</i>; per quam, propria",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 15,
+     "text": "Æterni Filii Dei caro effecta, ad eum honorem, eamque dignita-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "tem evecta, qui proximum à Divinitate gradum obtinet,",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "omnium aliarum creaturarum, adeoque Angelicam dignita-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "tem superantem, Rom. 8. 34. Act. 20. 28.",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "LIV.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 20,
+     "text": "2. <i>Gratiae</i> quas vocant <i>habituales</i>; dona nempe Spiritus S.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 21,
+     "text": "excellentissima; veluti, Scientia, Sapientia inaestimabilis, &",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "alia, quibus ipsa plenissime, sineque mensura, ultra consortes",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "perfusa est, Johan. 3. 34. Hebr. 1. 9. Pfal. 45. 7. Hae etsi summae",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "sint, & a donis aliorum, sive Angelorum, sive Hominum, quan-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "tumvis praecellentibus, tum subjecti dignitate, tum partium",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "graduumve perfectione distinguantur; attamen donorum",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "creatorum ordinem, atque ita creaturarum conditionem non",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "excedunt. Physicae enim, imo hyperphysicae sunt, non anti-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "physicae, ut naturam Christi humanam destruant vel aboleant.",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "LV.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 31,
+     "text": "3. <i>Gratia potestatis Officii Mediatoris inter Deum & Homines, Ca-</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 32,
+     "text": "<i>pitis totius Ecclesiae, & Domini Judicisq; totius universi</i>: quorum",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "omnium splendor, ex quo, mortis perpesionibus superatis,",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "longe supra omnes coelos ascendit, & ad dextram Dei colloca-",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "tus est, clarissime in ipso sese exserere cepit, Matth. 28. 18.",
+     "heading": 0
+    },
+    {
+     "n": 36,
+     "text": "Heb. 2. 9. Ephes. 1. 20. & 4. 10.",
+     "heading": 0
+    }
+   ],
+   "catchword": "Gratia"
+  },
+  {
+   "n": 18,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "LVI.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "4. <i>Gratia Honoris</i>; quòd λόγῳ non absque suâ carne, sed",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "unâ, in & cum illa adoratur; non quidem propter seipsam, sed",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "propter unitum sibi secundum ἕνωσιν λόγου. Unde Atha-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "nasius, <i>Creaturam</i>, inquit, <i>non adoramus</i>, <i>sed Deum in carne creata</i>:",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "& alibi; <i>Creatorem corpore creato indutum.</i> Tametsi enim Cul-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "tus hujus objectum directum & per se sit sola Natura Divina;",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "nihilominus etiam ad Humanam per accidens refertur, quae",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "eidem, si à λόγῳ foret separata, nec per se, nec per accidens",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "competeret.",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "LVII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 12,
+     "text": "Effecta seu Consequentia, <i>Personam</i> Christi respicientia, sunt",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 13,
+     "text": "duo; <i>Communicatio Idiomatum</i>, <i>& Communio officii.</i>",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "LVIII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 15,
+     "text": "<i>Communicatio Idiomatum</i> est, quòd per Unionem, natu-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 16,
+     "text": "ræ utriusque proprietates, personæ, verè ac realiter factæ sunt",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "communes, sed καὶ ἄλλο ἡγῇ ἄλλο.",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "LIX.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 19,
+     "text": "Hanc dicimus factam esse, nō in Naturis, sive unâ, sive utra-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 20,
+     "text": "que, neque in Naturis & Persona simul, sed tantùm in Perso-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "na, ut illa, quemadmodum utriusque naturæ, sic quoque utrius-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "que proprietatum revera sit particeps.",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "LX.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 24,
+     "text": "Veritatem hujus Communicationis docet nos Scriptura,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 25,
+     "text": "quotiescunque de uno Christo prædicat, quæ sunt Dei & Ho-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "minis; veluti, <i>primò</i>, quòd sit <i>Unigenitus ille Dei Filius qui est in</i>",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "<i>sinu Patris</i>,",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "Joh. 1. 14. 18. <i>Verus ille Deus</i>, 1 Joh. 5. 20. <i>quòd fuerit in</i>",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "<i>principio</i>, Joh. 1. 1. <i>ante Abrahamum</i>, Joh. 8. 58. <i>quòd sit nobiscum</i>",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "<i>omnibus diebus usque ad consummationem sæculi</i>, Matth. 28. 20. <i>deinde,</i>",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "<i>quòd natus sit ex Maria Virgine</i>, Matth. 1. <i>esurierit</i>, Matth. 4. 2. <i>pas-</i>",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "<i>sus fuerit & mortuus</i>, Matth. 26. & 27. <i>non semper sit nobiscum</i>, Matth. 26. 11.",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "LXI.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 34,
+     "text": "Dicimus a. hanc Communicationem nō nominetenus tan-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 35,
+     "text": "tùm, inanibus ve titulis, sed verè & realiter factâ esse in Persona",
+     "heading": 0
+    },
+    {
+     "n": 36,
+     "text": "Θεανθρώπῳ; quia ipsa verè & realiter ex utraque constat natu-",
+     "heading": 0
+    }
+   ],
+   "signature": "C"
+  },
+  {
+   "n": 19,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "ra,& in utraque subsistit. Duabus vero naturis in una Persona",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "revera unitis, & ambabus illis, totius personae naturis, seu par-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "tibus realiter existentibus, necesse est, & naturas ipsas, & attri-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "buta illarum, personae toti realiter attribui. Cur de eodem ho-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "mine praedicantur, quae sunt animae, & quae sunt corporis; ut",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "quod sit Mortalis & Immortalis, Visibilis & Invisibilis, Cor-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "poreus & Incorporeus? quia constat ex anima & corpore, & in",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "utroque subsistit.",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "LXII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 10,
+     "text": "Nec tamen haec, & his similia, Personae absolute & primo,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 11,
+     "text": "aut secundum utramque naturam conveniunt, & eidem tri-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "buuntur, sed secundum eam naturam solum, cui primo insunt,",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "& cujus propria sunt. Diligenter proin dispiciendum & di-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "stinguendum, Quid, secundum quid, in scripturis de Christo",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "dicatur: quid sonet secundum formam Dei, & quid secun-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "dum formam servi, prout Scriptura ipsa saepe distinguit, ad",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "Rom. 1. 3. 4. Rom. 9. 5. Actor. 2. 30. 1. Petr. 3. 18.",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "LXIII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 19,
+     "text": "Ex hac Communicatione Idiomatum exsurgit Phraseologia",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 20,
+     "text": "illa singularis de Christo in Scriptura usurpata, quae vel <i>Propria</i>,",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "vel <i>Tropica</i>.",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "LXIV.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 23,
+     "text": "<i>Propria</i>, quae de Christo vero Deo Divina, de Homine, huma-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 24,
+     "text": "na enunciantur: ut, <i>Jesus Christus Filius Dei est verus ille Deus</i>, 1. Jo-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "han. 5. 20. <i>Filius hominis ascendit in coelos</i>, Joh. 3. 13.",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "LXV.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 27,
+     "text": "<i>Tropica</i> duplex est: I. Cum de Persona ab utraque natura",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 28,
+     "text": "denominata, dicuntur propria alterutrius naturae, per synecdo-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "chen totius: quia, ut modo dictum, Idiomata naturarum tri-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "buuntur personae secundum eam naturam, cujus sunt propria.",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "Sic dicitur <i>Christus esse Filius Dei viventis</i> (sc. secundum Divinam",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "naturam) Matth. 16. 16. <i>mortuus fuisse & sepultus</i>, (sc. secun-",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "dum humanam naturam) Rom. 8. 34. II. Cum personae ab",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "una natura denominatae tribuuntur propria alterius naturae,",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "per synecd. partis. Sic dicitur, <i>Filius Dei factus ex muliere</i>, Gal. 4.",
+     "heading": 0
+    },
+    {
+     "n": 36,
+     "text": "v. 4. Sic dicitur, <i>Dominus gloriae crucifixus</i>, 1. Cor. 2. 8. <i>Filius ho-</i>",
+     "heading": 0
+    },
+    {
+     "n": 37,
+     "text": "<i>minis descendisse de Coelo, & in terra praesens, esse in coelo.</i> Joh. 3. 13.",
+     "heading": 0
+    },
+    {
+     "n": 38,
+     "text": "XLVI. In",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "marginalia": [
+    {
+     "letter": "*",
+     "side": "right",
+     "at": "Duabus vero naturis",
+     "line_from": 1,
+     "line_to": 1,
+     "text": "*"
+    }
+   ],
+   "notes": "Scan is a single printed page with a right-hand dark border; the mark \"*\" at the end of the first line is a printed or stain reference mark. Reading \"XLVI. In\" at the foot is the start of the next section, set in the text block; the page has no running head, catchword or page number visible. Several words in the Greek-free Latin are slightly blurred and read with some doubt, especially \"synecdochen\" and \"Idiomata\"."
+  },
+  {
+   "n": 20,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "LXVI.",
+     "heading": 1,
+     "caput": "66",
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "In hac loquendi forma Subjectum semper est vox concreta,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "quæ significat Personam: ut, <i>Deus, Homo, Filius Dei, Filius Hominis:</i>",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "nunquam autem abstracta, quæ solam Naturam designat: ut,",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "<i>Deitas, Humanitas, Divina natura, Humana natura, Corpus Christi, Caro</i>",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "<i>Christi.</i> Sic recte dicitur Filius Dei factus ex muliere, non ipsa",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "Divinitas: Item recte; Filius hominis esse ubique, non Hu-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "manitas.",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "LXVII.",
+     "heading": 1,
+     "caput": "67",
+     "para": true
+    },
+    {
+     "n": 10,
+     "text": "Itaque non possumus hic probare eorum sententiam, qui vo-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 11,
+     "text": "lunt, Humanæ naturæ, à λόγῳ in unitatem personæ assum-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "ptæ, & in sese consideratæ, Divina Idiomata realiter communi-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "cata esse, sic ut ipsa eorum in se ipsa quoque particeps, proin-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "deque Omnipotens, Omniscience, Infinitaque sit, dici; posit.",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "LXVIII.",
+     "heading": 1,
+     "caput": "68",
+     "para": true
+    },
+    {
+     "n": 16,
+     "text": "<i>Communio Officii</i> est, quâ Christus secundum utramque natu-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 17,
+     "text": "ram est Mediator, & opera Mediatoria ita tribuuntur personæ,",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "ut unicum sit agens, & unum opus, duo autem sint principia",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "activa (Divina nimirum, & Humana natura) & duæ actio-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "nes. Sic enim in Officio Christi accurate sunt distinguenda:",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "1. ὁ ἐνεργῶν, sive Agens, qui est ipse Christus, seu Persona:",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "2. τὸ ἐνεργητικὸν, sive Principium, secundum quod, & per",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "quod agens agit; nempe duæ Christi naturæ: 3. ἡ ἐνέργεια,",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "sive Actio duplex, quarum unaquæque natura, sive principium",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "suum sequitur. 4. τὸ ἐνέργημα, id est, Opus externum, sive",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "ἀποτέλεσμα, ad quod actiones illæ κοινωνίαν sive commu-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "nionem habent, at non κοινώνησιν Communicationem.",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "LXIX.",
+     "heading": 1,
+     "caput": "69",
+     "para": true
+    },
+    {
+     "n": 29,
+     "text": "Opera hæc Mediatoria appellantur Ἀποτελέσματα, sive",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 30,
+     "text": "ἐνέργειαι Θεανδρικαί, idque duplicem ob causam; 1. Ab",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "agente Christo; quia sc. sunt actiones ejus, qui & Deus & Ho-",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "mo est, & qui eas edebat, partim quatenus Deus, partim qua-",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "tenus homo: Ita ut actiones propriæ humanitatis, vere dice-",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "rentur & essent Actiones Dei: & econtrà actiones Deitatis pro-",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "priæ, vere dicerentur & essent actiones Hominis, propter uni-",
+     "heading": 0
+    },
+    {
+     "n": 36,
+     "text": "tatem personæ, quæ & Divinâ & Humanâ constat naturis.",
+     "heading": 0
+    }
+   ],
+   "signature": "C 2",
+   "notes": "Greek words in the text are transcribed as best read; some accents and the word κοινωνίαν/κοινώνησιν are doubtful. Final letter of \"posit\" possibly \"posit[?]\" and \"Omniscience\" as printed \"Omnifciens\" in the scan. Text otherwise clear."
+  },
+  {
+   "n": 21,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "number": "2",
+   "lines": [
+    {
+     "n": 1,
+     "text": "2. A'Communione & Cooperatione ipsarum actionum inter",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "se. Sicut enim unitissimæ sunt naturæ, quamvis sine con-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "fusione : sic etiam utriusque naturæ actiones talem inter se",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "communionem habuerunt,& habent,ut humanæ inservierint",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "Divinis,& Divinæ vim suam humanis contribuerint.",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "LXX.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "Hinc enunciat S. Scriptura ea quæ sunt Officii Christi, mo-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 8,
+     "text": "dò <i>proprie</i> de voce utramque naturam complectente : ut, <i>Christus</i>",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "<i>est advocatus noster</i>, 1. Joh. 2. 1. Modò <i>improprie</i>, de persona ab",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "alterutra natura denominata: ut <i>Filius Dei est Pontifex</i>, Hebr. 7.",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "v. 28. &c.",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "LXXI.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 13,
+     "text": "Rejicimus hîc ergo sententiam Monothelitarum, qui ex",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 14,
+     "text": "compositione hujus nominis Θεανθρωπος, compositionem",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "quoque actionis evincere voluerunt; quasi actiones non fue-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "rint geminæ, aliæ Deitatis, aliæ Humanitatis; sed una com-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "posita ex utriusq; naturæ actionibus. Aliud est, quòd fuerint",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "in unam compositæ, aliud quòd unitæ, & communionem in-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "ter se habuerint: unum negamus, alterum concedimus.",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "LXXII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 21,
+     "text": "FINIS INCARNATIONIS est <i>Gloria Dei</i>, immensam suam",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 22,
+     "text": "bonitatem, sapientiam, potentiam; atque etiam justitiam &",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "misericordiam sic revelantis: &, <i>Salus nostra æterna</i>, sive Re-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "demptio, per Christum incarnatum nobis parta & acquisita,",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "ut Scriptura passim docet, Joh. 3. 16. 1. Joh. 4. 10. Matth. 18.",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "v. 11. 19. Gal. 4. v. 4. 5. 1. Tim. 1. 15. 2. Cor. 5. 21.",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "LXXIII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 28,
+     "text": "Alium Incarnationis Christi finem fingere, cùm Scriptura",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 29,
+     "text": "alium non assignet, temerarium esse dicimus. Itaque quod",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "nonnulli statuunt, λόγον extra hunc finem, nihilominus in-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "carnandum fuisse; similiter vanum & temerarium esse sta-",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "tuimus.",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "Atque hæc de hac Materia in præsenti",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 34,
+     "text": "dicta sufficiant.",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "Μόνῳ τῷ Θεῷ δόξα.",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "notes": "Section numbers LXX–LXXIII are set as headings; the number \"2.\" at the top is a printed page-initial marker. The Greek lines at the foot and \"Θεανθρωπος\" are transcribed as best read; the Greek closing line is partly uncertain. The word \"dicta\" in the last paragraph is printed with a small ligature and is uncertain."
+  }
+ ]
+}
