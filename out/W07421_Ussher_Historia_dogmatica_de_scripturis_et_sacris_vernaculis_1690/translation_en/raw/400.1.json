@@ -1,0 +1,53 @@
+{
+  "units": [
+    "400.1",
+    "400.2",
+    "400.3",
+    "400.21",
+    "400.25",
+    "400.26",
+    "400.27",
+    "400.29",
+    "400.54",
+    "401.4",
+    "401.10",
+    "401.16",
+    "401.26",
+    "401.28",
+    "401.30",
+    "401.36",
+    "401.44",
+    "401.52",
+    "401.64",
+    "401.66",
+    "402.1",
+    "402.6",
+    "402.11",
+    "402.16",
+    "402.23",
+    "402.38",
+    "402.45"
+  ],
+  "model": "claude-haiku-5-5",
+  "prompt_sha256": "6c7fdd37dd865f5e",
+  "stop_reason": "end_turn",
+  "batch": true,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 1783,
+    "inference_geo": "global",
+    "input_tokens": 3896,
+    "output_tokens": 4985,
+    "output_tokens_details": {
+      "thinking_tokens": 2910
+    },
+    "server_tool_use": null,
+    "service_tier": "batch",
+    "speed": "standard"
+  },
+  "cost_usd": 0.00145
+}
