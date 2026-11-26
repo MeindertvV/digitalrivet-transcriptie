@@ -1,0 +1,906 @@
+{
+ "work": "W05164_Musculus_Loci_communes_sacrae_theologiae_iam_recens_recogniti_emendat_1561",
+ "made": "2026-11-26T11:24:09",
+ "model": "claude-haiku-5-5",
+ "prompt": "655260ce46aa8978",
+ "candidates": 697,
+ "cost_usd": 0.0219,
+ "dropped": [],
+ "toc": [
+  {
+   "scan": 8,
+   "line": 1,
+   "lines": [
+    [
+     8,
+     1
+    ],
+    [
+     8,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Illustrissimo clarissimoque principi ac Domino, Domino Friderico Comiti Palatino ad Rhenum, utriusque Bavariae Duci, ac"
+  },
+  {
+   "scan": 16,
+   "line": 1,
+   "lines": [
+    [
+     16,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Nuncupatoria."
+  },
+  {
+   "scan": 17,
+   "line": 1,
+   "lines": [
+    [
+     17,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Praefatio ad lectorem."
+  },
+  {
+   "scan": 22,
+   "line": 1,
+   "lines": [
+    [
+     22,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 1. De Deo."
+  },
+  {
+   "scan": 36,
+   "line": 3,
+   "lines": [
+    [
+     36,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 2. De divinitate Christi."
+  },
+  {
+   "scan": 38,
+   "line": 2,
+   "lines": [
+    [
+     38,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 3. De divinitate Spiritus sancti."
+  },
+  {
+   "scan": 40,
+   "line": 5,
+   "lines": [
+    [
+     40,
+     5
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 4. De operibus Dei."
+  },
+  {
+   "scan": 43,
+   "line": 7,
+   "lines": [
+    [
+     43,
+     7
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 5. De creatione in genere."
+  },
+  {
+   "scan": 47,
+   "line": 2,
+   "lines": [
+    [
+     47,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 6. De lapsu angelorum."
+  },
+  {
+   "scan": 48,
+   "line": 2,
+   "lines": [
+    [
+     48,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 7. De creatione hominis."
+  },
+  {
+   "scan": 54,
+   "line": 2,
+   "lines": [
+    [
+     54,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 8. De lapsu hominis."
+  },
+  {
+   "scan": 66,
+   "line": 3,
+   "lines": [
+    [
+     66,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 9. De libero arbitrio."
+  },
+  {
+   "scan": 74,
+   "line": 1,
+   "lines": [
+    [
+     74,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 10. De peccato."
+  },
+  {
+   "scan": 92,
+   "line": 1,
+   "lines": [
+    [
+     92,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 11. De legibus."
+  },
+  {
+   "scan": 107,
+   "line": 3,
+   "lines": [
+    [
+     107,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 12. De praeceptis Decalogi."
+  },
+  {
+   "scan": 320,
+   "line": 2,
+   "lines": [
+    [
+     320,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 13. De abrogatione legis."
+  },
+  {
+   "scan": 326,
+   "line": 2,
+   "lines": [
+    [
+     326,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 14. De foedere ac testamento Dei."
+  },
+  {
+   "scan": 336,
+   "line": 1,
+   "lines": [
+    [
+     336,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 15. De discrimine veteris ac noui Testamenti."
+  },
+  {
+   "scan": 338,
+   "line": 2,
+   "lines": [
+    [
+     338,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 16. De gratia Dei."
+  },
+  {
+   "scan": 347,
+   "line": 2,
+   "lines": [
+    [
+     347,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 17. De redemptione generis humani."
+  },
+  {
+   "scan": 359,
+   "line": 2,
+   "lines": [
+    [
+     359,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 18. De incarnatione verbi."
+  },
+  {
+   "scan": 375,
+   "line": 5,
+   "lines": [
+    [
+     375,
+     5
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 19. De dispensatione gratiae Dei, ac salutis humanae."
+  },
+  {
+   "scan": 381,
+   "line": 4,
+   "lines": [
+    [
+     381,
+     4
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 20. De Evangelio."
+  },
+  {
+   "scan": 395,
+   "line": 2,
+   "lines": [
+    [
+     395,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 21. De sacris Scripturis."
+  },
+  {
+   "scan": 438,
+   "line": 2,
+   "lines": [
+    [
+     438,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 22. De ministris verbi."
+  },
+  {
+   "scan": 522,
+   "line": 2,
+   "lines": [
+    [
+     522,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 23. De fide."
+  },
+  {
+   "scan": 555,
+   "line": 1,
+   "lines": [
+    [
+     555,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 24. De electione ac reprobatione."
+  },
+  {
+   "scan": 571,
+   "line": 3,
+   "lines": [
+    [
+     571,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 25. De poenitentia."
+  },
+  {
+   "scan": 589,
+   "line": 3,
+   "lines": [
+    [
+     589,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 26. De iustificatione."
+  },
+  {
+   "scan": 614,
+   "line": 2,
+   "lines": [
+    [
+     614,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 27. De bonis operibus."
+  },
+  {
+   "scan": 620,
+   "line": 1,
+   "lines": [
+    [
+     620,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 28. De meritis erga Deum."
+  },
+  {
+   "scan": 630,
+   "line": 3,
+   "lines": [
+    [
+     630,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 29. De remissione peccatorum."
+  },
+  {
+   "scan": 652,
+   "line": 3,
+   "lines": [
+    [
+     652,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 30. De sacerdotio Novi Testamenti."
+  },
+  {
+   "scan": 667,
+   "line": 2,
+   "lines": [
+    [
+     667,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 31. De ecclesia."
+  },
+  {
+   "scan": 707,
+   "line": 2,
+   "lines": [
+    [
+     707,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 32. De signis sacramentalibus in genere."
+  },
+  {
+   "scan": 731,
+   "line": 4,
+   "lines": [
+    [
+     731,
+     4
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 33. De baptismo."
+  },
+  {
+   "scan": 765,
+   "line": 3,
+   "lines": [
+    [
+     765,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 34. De coena Domini."
+  },
+  {
+   "scan": 856,
+   "line": 2,
+   "lines": [
+    [
+     856,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 35. De missa papistica."
+  },
+  {
+   "scan": 905,
+   "line": 3,
+   "lines": [
+    [
+     905,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 36. De cultu Dei."
+  },
+  {
+   "scan": 917,
+   "line": 1,
+   "lines": [
+    [
+     917,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Appendix. De cultu angelorum."
+  },
+  {
+   "scan": 924,
+   "line": 4,
+   "lines": [
+    [
+     924,
+     4
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 37. De nova doctrina."
+  },
+  {
+   "scan": 931,
+   "line": 3,
+   "lines": [
+    [
+     931,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 38. De traditionibus."
+  },
+  {
+   "scan": 942,
+   "line": 4,
+   "lines": [
+    [
+     942,
+     4
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 39. De nomine Dei."
+  },
+  {
+   "scan": 954,
+   "line": 3,
+   "lines": [
+    [
+     954,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 40. De natura Dei."
+  },
+  {
+   "scan": 965,
+   "line": 4,
+   "lines": [
+    [
+     965,
+     4
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 41. De sufficientia Dei."
+  },
+  {
+   "scan": 973,
+   "line": 3,
+   "lines": [
+    [
+     973,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 42. De omnipotentia Dei."
+  },
+  {
+   "scan": 988,
+   "line": 2,
+   "lines": [
+    [
+     988,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 43. De voluntate Dei."
+  },
+  {
+   "scan": 1004,
+   "line": 3,
+   "lines": [
+    [
+     1004,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 44. De veritate Dei."
+  },
+  {
+   "scan": 1018,
+   "line": 2,
+   "lines": [
+    [
+     1018,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 45. De bonitate Dei."
+  },
+  {
+   "scan": 1028,
+   "line": 2,
+   "lines": [
+    [
+     1028,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 46. De philanthropia Dei."
+  },
+  {
+   "scan": 1050,
+   "line": 4,
+   "lines": [
+    [
+     1050,
+     4
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 47. De misericordia Dei."
+  },
+  {
+   "scan": 1062,
+   "line": 3,
+   "lines": [
+    [
+     1062,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 48. De potestate ac dominio Dei."
+  },
+  {
+   "scan": 1071,
+   "line": 4,
+   "lines": [
+    [
+     1071,
+     4
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 49. De iustitia Dei."
+  },
+  {
+   "scan": 1080,
+   "line": 1,
+   "lines": [
+    [
+     1080,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 50. De providentia Dei."
+  },
+  {
+   "scan": 1103,
+   "line": 2,
+   "lines": [
+    [
+     1103,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 51. De praesentia Dei."
+  },
+  {
+   "scan": 1111,
+   "line": 1,
+   "lines": [
+    [
+     1111,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 52. De ira Dei."
+  },
+  {
+   "scan": 1128,
+   "line": 2,
+   "lines": [
+    [
+     1128,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 53. De iudiciis Dei."
+  },
+  {
+   "scan": 1145,
+   "line": 3,
+   "lines": [
+    [
+     1145,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 54. De cognitione Dei."
+  },
+  {
+   "scan": 1156,
+   "line": 2,
+   "lines": [
+    [
+     1156,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 55. De spe."
+  },
+  {
+   "scan": 1166,
+   "line": 2,
+   "lines": [
+    [
+     1166,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 56. De desperatione."
+  },
+  {
+   "scan": 1173,
+   "line": 2,
+   "lines": [
+    [
+     1173,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 57. De dilectione."
+  },
+  {
+   "scan": 1190,
+   "line": 2,
+   "lines": [
+    [
+     1190,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 58. De timore Dei."
+  },
+  {
+   "scan": 1205,
+   "line": 3,
+   "lines": [
+    [
+     1205,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 59. De obedientia."
+  },
+  {
+   "scan": 1219,
+   "line": 4,
+   "lines": [
+    [
+     1219,
+     4
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 60. De oratione."
+  },
+  {
+   "scan": 1255,
+   "line": 3,
+   "lines": [
+    [
+     1255,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 61. De votis."
+  },
+  {
+   "scan": 1279,
+   "line": 2,
+   "lines": [
+    [
+     1279,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 62. De afflictionibus."
+  },
+  {
+   "scan": 1299,
+   "line": 4,
+   "lines": [
+    [
+     1299,
+     4
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 63. De persecutionibus."
+  },
+  {
+   "scan": 1309,
+   "line": 3,
+   "lines": [
+    [
+     1309,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 64. De patientia."
+  },
+  {
+   "scan": 1328,
+   "line": 3,
+   "lines": [
+    [
+     1328,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 65. De haeresi."
+  },
+  {
+   "scan": 1362,
+   "line": 3,
+   "lines": [
+    [
+     1362,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 66. De schismate."
+  },
+  {
+   "scan": 1370,
+   "line": 1,
+   "lines": [
+    [
+     1370,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Locus 67. De magistratibus."
+  },
+  {
+   "scan": 1430,
+   "line": 1,
+   "lines": [
+    [
+     1430,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Locorum S. Scripturae Veteris et Novi Testamenti, uberius paulo in hisce Locis explicatorum Index."
+  },
+  {
+   "scan": 1438,
+   "line": 1,
+   "lines": [
+    [
+     1438,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Rerum et verborum, in hisce Locis communibus praecipue memorabilium Index."
+  }
+ ],
+ "book": "Musculus, Loci communes sacrae theologiae (Basel 1567): one theological work, preceded by a dedication, a nuncupatoria, a preface to the reader and a numbered catalogue of loci, then numbered loci with numbered questions inside (not itemised here), an appendix on the cult of angels, and two closing indexes.",
+ "series": [
+  {
+   "label": "Locus",
+   "first": "1",
+   "last": "67",
+   "count": 67,
+   "level": 1,
+   "found": 72
+  }
+ ],
+ "taste": 12,
+ "doubt": "",
+ "input": 67373,
+ "output": 17442
+}
