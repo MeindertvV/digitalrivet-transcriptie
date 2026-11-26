@@ -1,0 +1,53 @@
+{
+  "units": [
+    "901.108",
+    "901.109",
+    "901.110",
+    "901.111",
+    "901.112",
+    "901.113",
+    "901.114",
+    "901.115",
+    "901.116",
+    "901.117",
+    "901.118",
+    "901.119",
+    "901.120",
+    "901.121",
+    "901.122",
+    "901.123",
+    "901.124",
+    "902.1",
+    "902.2",
+    "902.3",
+    "902.4",
+    "902.5",
+    "902.6",
+    "902.7",
+    "902.8",
+    "902.9",
+    "902.10"
+  ],
+  "model": "claude-haiku-5-5",
+  "prompt_sha256": "10b5a0d503d6ca89",
+  "stop_reason": "end_turn",
+  "batch": true,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 1786,
+    "inference_geo": "global",
+    "input_tokens": 948,
+    "output_tokens": 1868,
+    "output_tokens_details": {
+      "thinking_tokens": 1063
+    },
+    "server_tool_use": null,
+    "service_tier": "batch",
+    "speed": "standard"
+  },
+  "cost_usd": 0.00052
+}
