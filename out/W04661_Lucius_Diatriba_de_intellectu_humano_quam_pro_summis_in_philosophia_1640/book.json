@@ -1,0 +1,4251 @@
+{
+ "source": "W04661_Lucius_Diatriba_de_intellectu_humano_quam_pro_summis_in_philosophia_1640.pdf",
+ "pages": [
+  {
+   "n": 1,
+   "type": "empty",
+   "model": "claude-haiku-5-5",
+   "notes": "Digitiser's cover sheet (e-rara logo, title block, multilingual terms of use and Visual Library logo). Not part of the printed book, so no text is transcribed. The printed book's title, \"Diatriba de intellectu humano\" (Lucius, Ludwig; Basileae, [ca. 1640]), is taken from this sheet only for orientation and does not appear as text on the page."
+  },
+  {
+   "n": 2,
+   "type": "title",
+   "model": "claude-haiku-5-5",
+   "number": "503",
+   "lines": [
+    {
+     "n": null,
+     "text": "DIATRIBA",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "De",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "INTELLECTV",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "HUMANO.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Quam",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "DEO PROPITIO,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Ex Consensu & Decreto",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Amplissimæ ac Sapientissimæ Facultatis",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Philosophicæ, in perillustri Raura-",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "corum Academiâ,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Pro SUMMIS in Philosophiâ honoribus",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "ritè obtinendis:",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "SUB PRÆSIDIO",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Excellentissimi & Clarissimi Viri,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "DN. M. LUDOVICI LUCII,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Organi Aristotelei Professoris",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Ordinarii,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Publicæ ac placidæ disquisitioni subjicit",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "JOH. SEBALDUS FABRICIUS",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Palatinus.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Ad diem XXX Mensis [illegible, ~5 letters]. Anni CIↃ IↃC XL.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "horis locoque solitis.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "BASILEÆ,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Ex Officina Typographica GEORGI DECKERI,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Academiæ Typogr.",
+     "heading": 0
+    }
+   ],
+   "notes": "Manuscript annotations \"Diss. 444, Nº 26\" and the \"Catalog\" stamp, and the library seal below the imprint, are not transcribed. The day of the month is handwritten/struck through and only partly legible; the month name after \"Mensis\" is struck through and not read. Lines are short, so the title is given as one <l> per printed line."
+  },
+  {
+   "n": 3,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "VIRIS Nobilissimis, Amplissimis, Sapientissimis,",
+     "heading": 1,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "Reverendis, Consultissimis, Spectatissimis, Scholarchis",
+     "heading": 1
+    },
+    {
+     "n": 3,
+     "text": "ac Patronis colendissimis,",
+     "heading": 1
+    },
+    {
+     "n": 4,
+     "text": "Dn. JOHANNI <bl>Jm Thurn</bl> / Domino in <bl>Theingen</bl> /",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "Scaphusianorum Inclytae Reip. Coss.",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "Dn. GVILIELMO ZIEGLERO, Senatoria digni-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "tate eminentissimo, Scholarch. prim.",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "Dn. CONRADO KOCHIO, Ecclesiae Decano vigil.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 9,
+     "text": "Schol. prim.",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "Dn. LUDOVICO SEILERO, Urbis Capitaneo, fori",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 11,
+     "text": "Judiciarii Praesidi, &c.",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "Dn. JOH. CONRADO PEYERO <bl>Jm Hof</bl> / Do-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 13,
+     "text": "mino in <bl>Slach</bl> / Stirpe nobili splendidissimo.",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "NEC NON",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 15,
+     "text": "Reverendis, Spectatissimis, Consultiss. Excellentis-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 16,
+     "text": "simis, Clarissimis,",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "Dn. THEODORO ZVINGERO, S. S. Theol. D.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 18,
+     "text": "Facult. Decano, Prof. & Antistiti.",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "Dn. JACOBO BURCKHARDO, U. J. D. Philos.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 20,
+     "text": "Decano, Prof. Ethic.",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "Dn. M. LUDOVICO LUCIO, Org. Prof. Ord.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 22,
+     "text": "Dn. DANIELI TOSSANO, Gymnasiarchae meritis.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 23,
+     "text": "Mecaenatibus Virtutum publicis, sibi privatis,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 24,
+     "text": "Hanc Studiorum spem",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 25,
+     "text": "pio affectu,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 26,
+     "text": "cultuq.",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "D. C. Q.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 28,
+     "text": "JOH. SEBALDUS FABRICIUS,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 29,
+     "text": "Auth. & Resp.",
+     "heading": 0
+    }
+   ],
+   "notes": "Black letter words \"Jm Thurn\", \"Theingen\", \"Jm Hof\" and \"Slach\" are set in decorative/black letter forms and are transcribed as best read. The page is a dedication with stylised italic and display type; the line breaks follow the print. The \"Dn.\" of the first lines is set in small caps and is copied as printed."
+  },
+  {
+   "n": 4,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "number": "504",
+   "lines": [
+    {
+     "n": 1,
+     "text": "DIATRIBÆ",
+     "heading": 1,
+     "caput": "1",
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "De Animâ humanâ, ejusque Potentiâ",
+     "heading": 1,
+     "caput": "1"
+    },
+    {
+     "n": 3,
+     "text": "Intellectivâ,",
+     "heading": 1,
+     "caput": "1"
+    },
+    {
+     "n": 4,
+     "text": "THESIS I.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "PLacidè inter nos de summa ani-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "mæ humanæ consummatione, cujus",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "ignorantia quamvis aliam cognitionem",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "inanem ac supervacaneam reddit, colla-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "turi; priusquam ad ipsam cogitativæ potentiæ con-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "templationem accedamus, (quo minoricum diffi-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "cultate intima animæ Rationalis sacra, quantum",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "ejusdem imbecillitas permiserit, penetrare liceat, de",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "animæ humanæ naturâ in communi, prælibare non-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "nulla constituimus.",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "II. Anima igitur humana, est substantia incorpo-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 16,
+     "text": "rea, & spiritalis, humano corpori animando desti-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "nata, eique in unam <i>ὑπόστασιν</i> unita, tanquam pars es-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "sentialis, ac per illud potentiis suis actiones edens.",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "III. Unde Actus dicitur primus, (quo exclu-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 20,
+     "text": "duntur operatio, <i>ἐνέργεια</i>, spiritus, <i>uti Th. Campanella</i>",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "<i>de sensu rerum lib. 2. cap. 4.</i> sentit, & sanguis) intimaque",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "forma perfectionis, denominationis, & operationis",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "intra corpus exserendæ. Intra corpus inquam: nec",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "enim animæ extra formatum suum, quod actu infor-",
+     "heading": 0
+    }
+   ],
+   "signature": "A 2"
+  },
+  {
+   "n": 5,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: opera-"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "mat, virtute actionem ullam, ut <i>Paracelsus</i> de imagi-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "nativa hominis virtute, <i>in occult. Phil. pag.348. & Frag.</i>",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "<i>libr. Phil. de imag.</i> nugatur, emittere, a natura concef-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "sum est.",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "I V. Ac in tali quidem actu five forma, (quæ verè",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "& γνῶσις, repudiatà <i>Avenroïs</i>, qui assistentem eam esse",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "perhibet, <i>3. de anima, comm. 5. & in deftruct. destructionum</i>",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "<i>contra Algazelem</i> subsistens, informat,) Anima vege-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "tativa & sentiens, per omnes actuati partes diffusa",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "est, & cum corporaturæ non expers fit, ad extensio-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "nem materiæ extenditur. <i>Scal. exerc. 297. Sect. 1.</i>",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "V. Animæ verò rationali, corpori, mediante spi-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 13,
+     "text": "ritu vitali unitæ, tanquam spiritui immateriato, ex-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "tenfio nequaquam competit: eâ enim datâ, trinâ di-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "menfione Ratio extemplò onerata terminabitur;",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "Quod fi hoc circumscriptivè in Ubi aut spacio com-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "prehendetur, tumque locationem habebit, five",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "contactum, aut contiguitatem terminorum quanti-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "tativorum, quod absonum ; extremitatibus enim",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "corporis, quis unquam spiritum materiâ liberum,",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "inclusum esse dixerit. Quare fi è rei natura loqui",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "velimus, partes ei correspondentes partibus spacii",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "corporei, tropicè saltem affingi poterunt: Tota",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "enim perfectaque est, ubicunque est, & partem extra",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "partem non habet. <i>Porphyr. libr. de occafionib.</i> Unde",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "fruftraneum illud Scholasticorum perplexum fatis",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "Meletema fuerit, Num anima fit in toto corpore,",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "an in singulis partibus tota, & quænam fedesei po-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "tiffimum conveniat. Quod fi itaque cum Zabarella,",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "<i>de part. anima. cap. 5.</i> animam extra cor participative",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "esse dicamus, eo sermonis genere non essentiam, sed",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "ἐνέργειας, minùs principes indigitabimus: Si cum eo-",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "dem <i>cap. 11.</i> expansam, ad extensionem materiæ;",
+     "heading": 0
+    }
+   ],
+   "catchword": "opera-",
+   "notes": "Greek words (γνῶσις, ἐνέργειας) and the last word \"opera-\" are printed as shown; the final line is a catchword-like hyphenated word continuing on the next page. Light show-through and stains only."
+  },
+  {
+   "n": 6,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "number": "505",
+   "lines": [
+    {
+     "n": 1,
+     "text": "operationes ejus per omnes materiæ partes ad ha-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "bilitatem organi agentem,",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "intelligemus. Quin et-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "iam subtilitatem prorsus inutilem advertemus in il-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "lo, quo quæritur: Num ad divisionem Corporis ani-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "ma quoque dividatur? nec enim hæc ab illo in esse",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "ullo modo dependet, sed de spirituum natura parti-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "cipans, ubi est, totam instar puncti impartibilis esse",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "deprehenditur. <i>Arist. libr. 8. Phys. cap. 10.</i>",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "VI. Ex his colligitur, hominem triplici potentiâ,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 11,
+     "text": "quæ tanquam accidens ab essentiâ fluat, conspicuum",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "esse, Irrationalibus duabus, unicaque rationis parti-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "cipe, uti jam ante Aristotelem <i>Sallustius Philosophus</i> ex men-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "te Platonicorum præcipueque <i>Procli</i>, cujus discipu-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "lus extitit <i>in libr. de</i>",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "<i>diis & mundo</i> docuit. Ita enim ille, <i>cap. 8. ψυχῶν αἱ μὲν εἰσι</i>",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "<i>λογικαὶ καὶ ἀθάνατοι, αἱ ἢ ἄλογοι καὶ θνηταί.</i> Quod si hæ omnes simul sumantur, &",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "ad materiam bene præparatam, nec non ad certum",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "individuum constituendum ultimatam restringan-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "tur, Individualem efficiunt formam; quæ Individui",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "principium sola exstit, ac ut illud substantia fit, im-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "pertita existentiâ actuali, & singularitate, omninò",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "causatur. Cùm præsertim nec ab efficiente, utpote",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "quæ rei essentiam non ingreditur, <i>Zabarell. l. 1. de pro-</i>",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "<i>pos. necess. cap. 10.</i> nec materiâ, quæ existentiæ largien-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "dæ impotens, numeralem unitatem non efficit. <i>Idem</i>",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "<i>l. de conflit. Indiv. cap. 5.</i> nec tandem, ut Hæcceitatem",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "præteream, specificâ formâ, speciei saltem constitu-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "trice, <i>μᾶλλον καὶ πρώτως ὅσα</i> dependeat. <i>Scal. exerc. 37.</i>",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "<i>Sect. 17.</i>",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "VII. Unde crasse hallucinantur ii, qui indivi-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 32,
+     "text": "dualem animam hominibus denegant, nec omnibus",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "humanæ speciei individuis, unam numero conce-",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "dunt, afferentes accidentalem tantùm inter persona-",
+     "heading": 0
+    }
+   ],
+   "signature": "A 3"
+  },
+  {
+   "n": 7,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: agente"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "nas differentiam. Audiat <i>Avenroes qui libr 3. de anima</i>",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "<i>comment. 5.</i> unicam numero mentem, unicumque",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "intellectum omnibus hominibus esse, fingit, <i>Scalige-</i>",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "<i>r-um Exerc.307. Sect.17.</i> in hunc modum ratiocinantem;",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "<i>Individuum cum sit substantia, necesse est, ut sit hoc, quod est,</i>",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "<i>per id, per quod est. Est autem per animam. Ergo erit indi-</i>",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "<i>viduum per animam. Anima igitur erit principium ejus,</i>",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "<i>quod est: quam nostri Barbari scitissima voce individuatio-</i>",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "<i>nem appellarunt.</i>",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "VIII. Nec Platonici, Pythagorei, Esseni, Saddu-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 11,
+     "text": "cæi, Bracmani plerique & Cataini, ab errore maxi-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "mo hoc purgari possunt aut debent, quippe qui verâ",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "ac genuinâ spiritalium cognitione destituti, tot esse",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "animas, quot corpora sunt humana, negarunt: Fal-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "sò sibi persuasi de animarum definito numero, à",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "principio universitatis mundanæ, constituto. Ad",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "corporum enim multiplicationem, ipsum quoque",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "principium intellectivum multiplicari, vel è Sacris",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "manifestum est.",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "IX. Sunt autem tergeminæ hæ facultates, partes",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 21,
+     "text": "sive gradus, unius ejusdemque animæ humanæ, non",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "genere aut essentiis, sed actu & objectis indivisibili-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "ter discriminati. Sub mente enim continetur & ve-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "getans & sentiens, non aliter ac in figuris simplicio-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "res & prioritate naturæ præeminentes, ab imperfec-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "tis, minusque; simplicibus comprehendi, dato exem-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "plo Trigoni inexistentis Tetragono, & hujus Penta-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "gono, docet <i>Aristot. l. 2. de anima. cap. 3.</i> Hinc illa <i>Zaba-</i>",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "<i>rellæ</i> opinio, numero eas & essentia, itemque <i>Pererii</i>",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "<i>lib. 6. de rerum princip. & affect. cap. 4.</i> partialiter, cum",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "numero multæ sint, diversificari, eliminanda vi-",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "detur.",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "X. Causatur præterea anima ἀλογῳ à corporali",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "catchword": "agente",
+   "notes": "Greek word ἀλογῳ in the last line is printed as shown; the line ends at \"agente\" on the right. Some Latin line-ends are hard to read; doubtful readings are unmarked where the scan is clear enough."
+  },
+  {
+   "n": 8,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "number": "506",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: aggressuri;"
+    },
+    {
+     "type": "repaired_xml",
+     "text": "missing or unbalanced tag(s) repaired by the script; the words are unchanged"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "agente <i>κατὰ συνωνυμίαν</i>, perfecto, integro, & univoco,",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "quod est generans, & principalis movens totus. To-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "tus in quâ, cùm & de materiâ & de formâ, quæ ratio-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "nes seminales sunt, aliquid ad generandum exhibere",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "teneatur; è quo virtus activa transit in Instrumen-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "tum generationis semen, spumosum ac albidum, vi",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "seminali (quæ Dei ordinatione primâ, in utriusque",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "sexûs, quisenim prohibet specie eadem coalitione,",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "alteratione, & commistione uniri,",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "seminis miscellâ",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "delitescit, exsuscitatur, animam extendit, ac venturæ",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "domicilium parat) infigne, Sociâ existente causa,",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "Calore, cùm Elementari, tùm Æthereo, & Humore.",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "Sicque Formæ illæ binæ, quæ umbra saltem sunt ve-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "ræ & perfectæ animæ, non de potestate materiæ pri-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "mùm, sed agentis compositi educuntur, ac per pri-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "mum sui esse, in instanti producuntur, in materiâ",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "propinquâ, è quâ postmodum emerfio fit. Nec ea-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "rum ulla actu præexistit, sed à composito, materiæ",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "potentiâ in actum deducuntur.",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "XI. At Vero Duplicis hujus animæ ejus-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 22,
+     "text": "demque agendi aptitudinum, virium ac facultatum",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "doctrinam prætermittentes, postquam generalem",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "animæ humanæ contemplationem paucis complexi",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "sumus; eam Facultatem animæ, quæ discretionem",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "nostri ab irrationalibus creaturis efficit, quæ ad",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "Deum proximè nos elevat, mediosque inter æterna",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "ac corruptibilia. <i>Scal. comm. in lib. Hipp. de Infomn.</i> inter",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "genitum & ingenitū, divisibile & indivisibile, æter-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "num ac temporeum, (ipsa mediæ naturæ, quâ com-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "moti Magi Rationem, corruptibili animæ adunitâ,",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "Lunæ cujus pars altera luce mutuatitiâ, fulgida, alte-",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "ra tenebricosa fit;",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "& Prisci nonnulli Protheo assimi-",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "larunt. <i>ut refert Steph. Theupolus Acad. Contempl. l. 4. c. 8.</i>)",
+     "heading": 0
+    }
+   ],
+   "catchword": "aggressuri;",
+   "notes": "Printed page number 506 is handwritten in the top right corner in ink; treated as printed. The Greek phrase \"κατὰ συνωνυμίαν\" is a reconstruction of a damaged Greek word at the start (rendered \"xatà ' mionμῆς\" in the scan) and is doubtful. The final word \"aggressuri\" ends the page with a catchword-like line but is part of the text. The centred heading \"XI.\" paragraph is set in small capitals within the text and was given as a level 2 heading; it may be a paragraph opener."
+  },
+  {
+   "n": 9,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: Et hanc"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "aggressuri; Quid sacris Literis, quídve rationi ipsi",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "convenientissimum videatur: nunquam immemo-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "res, sublimitatis, & difficultatis materiæ, nostraeque",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "in iis quæ àmateriâ sequestrata sunt, tenuitatis, de",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "Quiddítate Rationis primò omnium disseramus.",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "XII. <i>Λόγος</i> itaque sive Anima rationalis, Actus",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "est substantialis, spiritualis,",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "homini tanquam pars",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "ejus, essentialiter conjunctus, potentiâ inorganicâ",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "intelligens, ac separabilis.",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "XIII. Et actus quidem, quotum materiâ, tum ea",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 12,
+     "text": "quæ sunt <i>φύσει</i> composita, sive ea naturæ sint, sive",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "artificis opera, omnesque operationes aliæ, <i>ut</i>",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "<i>Themist. lib. 2. de anima. cap. 4. M. Albertus tract. de anima.</i>",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "<i>1. cap. 2. &c.</i> docent, excluduntur.",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "XIV. Substantialis præterea, ad removedos actus",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 17,
+     "text": "primos accidentarios, uti sunt Potentiæ, quæ respectu",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "ad suos, unde dimanant actus, obtinere dicūtur. Rari",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "sunt hac ex parte adversarii. Ipse <i>Plato</i> de subsisten-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "tiâ rationis <i>ab Aristotele</i> alienus non est. Etsi enim",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "animam intelligentem <i>in Timæo, Phædio, & 10. de Repub.</i>",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "numerum fecerit, etsi circulum & cum <i>Dinarcho, Em-</i>",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "<i>pedocle</i>, aliisque harmoniam dixerit, non tamen (uti",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "de <i>Aristoxeno</i>, qui reapse animam & sensitivam qui-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "dem præcipuè, ex compage viscerum, ac vigore mem-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "brorum, sicuti in fidibus ex intentione nervorum",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "effici concordem sonum animadvertimus, existere,",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "delirus senex, <i>referente Lactant. lib. 7. de divin. instit. c. 13.</i>",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "opinatus est,) eam vel quantitatem, vel qualitate esse",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "voluit, sed abstrusioribus his notionibus ad imita-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "tionem <i>Pythagoræ ac Philolai, teste Zabarell. de rer. desin. tit.</i>",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "<i>de anima def.</i> divinitatem, perfectionem, multiplica-",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "tionem operationum, ordinemque, nunquam non",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "decorum ac sibi constantem, indigitare conatus est.",
+     "heading": 0
+    }
+   ],
+   "catchword": "Et hanc",
+   "notes": "Marginal mark at left edge is a stray pencil or stain, not transcribed. Several words are printed with a long-s-like form and were transcribed as plain s. Some Greek words printed in the first line (\"Λόγος\", \"φύσει\") are read tentatively; the Greek in the XII. paragraph is uncertain and marked by the closest reading."
+  },
+  {
+   "n": 10,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "number": "507",
+   "lines": [
+    {
+     "n": 1,
+     "text": "Et hanc quidem explicationem & defensionem pii",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "Philosophi etiam contra Aristotelem Commentato-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "res tuentur. <i>D. Thomas in lib. de anima lect. 8. Philoponus</i>",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "<i>in Comment. l. 1. de anima 1. cap. 3. Beffarius l. 2. in Calumn.</i>",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "<i>Plat. Macrob. in Somn. Scip. cap. 15. &c.</i>",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "XV. Spiritalis est, immaterialis, & incorporeus",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "sua substantia, atque natura actus; etsi conjunctione",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "materialis, eo quod aliquo modo a materia seu cor-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "pore, cui unitus est, pendere videatur, dici possit.",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "Quod equidem modus perceptionis abstractorum,",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "& ab omni affectione sequestratorum; nec non vo-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "litionis ratio abunde probat:",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "<i>Anima infit Poeta Stellatus in Libra est</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 14,
+     "text": "<i>individua atq; immaterialis</i>",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "<i>Et veluti centrum quoddam ad quod plurima tendit</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 16,
+     "text": "<i>Linea; per sensus quia cuncta feruntur ad illam,</i>",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "<i>Ceu fluvii concurrunt undiq; in aquor.—</i>",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "Patres e quibus est <i>D. Dionysius 4. cap. de divin. nom.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 19,
+     "text": "<i>Ambrosius libr. de Noe & Arca, Damascenus 2. Fidei orthod.</i>",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "<i>cap. 12. Augustinus lib. 6. de Trinit. cap. 6. Nazianzenus Apo-</i>",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "<i>loget. 1. Nyssenus de opificio hominis. cap. 15.</i> passim id te-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "stantur. Nec tamen omnino errarunt <i>D. Hieronymus,</i>",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "<i>Athanasius & Basilius,</i> qui materiatum quodammodo",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "corporeumq; vulgari loquendi genere usi, dixerunt;",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "cum non simpliciter, sed comparate tantum in ne-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "gotio arduo imprimis, quod fuit illis cum famosissi-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "mis haereticis, Carpocrate, Cerdone, Priscillianistis,",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "Gnosticis, &c. qui ut <i>refert Irenaeus l. 1. adv. Haeret. c. 24.</i>",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "<i>Theodoretus libr. de divin. decret. Augustin. l. de haeref. c. 70.</i>",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "contenderunt animam nostram intelligentem Dei esse",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "partem, de quo & ex quo emanet: compositione ani-",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "mae nostrae defensuri, loquuti sint. Quod si in se ma-",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "teriata ac corporalis anima nostra cum <i>Cleante, Apol-</i>",
+     "heading": 0
+    }
+   ],
+   "signature": "B",
+   "notes": "Faint pen marks in the right margin; the signature B is printed at the foot. Some words in the italic passages of the poem are hard to read with certainty (e.g. \"undiq\", \"aquor\") and are copied as seen."
+  },
+  {
+   "n": 11,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "linari Alexandrino, Tertulliano, Stoicis nonnullis ac",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "Sadducæis afferatur, erroneum illud dogma, ac nullo mo-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "do tolerandum censebitur.",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "XVI. Nec corporeorum quidem organorum",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "adjumento intelligit, absoluta fi spectetur, propri-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "aque ejus per essentiam formalis operatio, quæ Intel-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "lectionis nomine venit. Quâ enim varia rerum si-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "mulacra cognoscit, intelligit, dijudicat: id est, inter",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "agendum ac edendum tales operationes nullo pror-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "sus instrumento egetmateriato: jam tum enim omne",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "usum ac consuetudinem, quæ illi cum sensibus, tum",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "externis, tum internis necessario antea intercede-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "bat, ipso actu terminat. Utpote cum Icones rerum",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "extrinsecus, Phantasiâ, reliquisque sensationibus",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "percerta organa mediantibus, ad fictricem faculta-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "tem perlatæ, à mente objectivè tantum adhibeantur,",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "non organicè ceu Medium. Per quod. Intellectus",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "enim operationem suam formalem non communi-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "cat cum instrumento corporeo, nec vice-versâ cum",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "mentis actione actio corporalis. Idem disertis ver-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "bis exponit <i>Scaliger, exerc. 265.</i> dum ait: <i>Anima non</i>",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "<i>sequitur corpus, ut pessime sentit Galenus, sed ejus sub-</i>",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "<i>stantia, tametsi esse quit sine corpore, tamen dum est in</i>",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "<i>corpore, sine corporeis objectis non potest initiari sacris</i>",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "<i>intellectionis: Ergo ne agere quidem.</i> Movent enim",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "species animam, verùm ratione nondum utentem.",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "Rationes huic stabiliendo recenset <i>Aristoteles, libr. 3.</i>",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "<i>de anima. cap. 4. text. 6. 7.</i> Hinc eam <i>tex. 4. 12.</i> ἀμιγῆ vo-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "cat; Immistam, tum ratione objectorum, tum etiam",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "organorum, à quibus omninò absoluta est: cùm mu-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "nia sua sive Intelligendo, sive Volendo, instrumentis",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "non permista exsequatur.",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "XVII. Perspicitur igitur ex hoc, Potentias in",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 34,
+     "text": "anima",
+     "heading": 0
+    }
+   ],
+   "notes": "Printed page with faint show-through; the Greek word ἀμιγῆ and the Greek word for the \"ἀμιγὴ\" form are copied as best read. The lower-left mark is a printer's or stray sign, not transcribed. Words in italics are marked with <i>."
+  },
+  {
+   "n": 12,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "number": "508",
+   "lines": [
+    {
+     "n": 1,
+     "text": "animâ humanâ duplices esse, quarum altera inorga-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "nica sit, altera organica. Hæc operationes suas ex-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "ercet per instrumenta materiata, ut est videre, senti-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "re, &c. estque in conjuncto, tanquam subjecto inse-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "parabili. Illa longè simplicior est, utpote quæ in ipsa",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "animæ essentiâ, etiam separatâ, velut causâ aut subje-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "cto radicatur, nec à speciebus intelligibilibus jam",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "utens ratio movetur.",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "XVIII. Hinc inorganicum illud actionum hu-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 10,
+     "text": "manarum principium duplex,",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "à corporibus cœlesti-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "bus nihil directè pati dicitur, sed inclinatione sal-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "tem aliquâ fertur, astris suâ naturâ, ac per se, in cor-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "pora agentibus; quæ ad rationis postmodum officia",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "diversimodè obeunda, non parum faciunt. <i>D. Thom.</i>",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "<i>p. 1. S. T. quæst. 115. artic. 4.</i>",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "XIX. Quoniam verò Entia quævis, Universale",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 18,
+     "text": "illud ante multa, quod est Ens independens, absolu-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "tissimum & perfectissimum; participantia, composi-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "tionis notâ impurata sunt: In ipso autem Deo αὐτο-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "προέτω solo, tanquam actu simplicissimo, qui suum",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "esse à nullo acceptum habet, ipsumque singulum",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "omnium rerum perfectiones in se continet, diver-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "sum quid ab ipsomet ponere (utpote qui nec priori-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "tatem ullam, nec Accidentia, sustineat aut recipiat)",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "blasphemum est ac impium: Animæ rationali etsi",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "simplex in suo gradu habeatur, omninò absoluta",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "natura, cùm vel ex actu & potentiâ constet, con-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "cedi nequaquam poterit. Compositam eam esse,",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "non secùs ac Intelligentias, (à quibus tamen, falsò",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "& inani conatu, reclamante <i>Origene, libr. 1. περὶ</i>",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "<i>ἀρχῶν,</i> specie diversa est) quæ & ipsæ olim mutationi ob-",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "noxiæ fuerunt, ac nonnihil materialitatis ac poten-",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "tialitatis jam nunc obtinent, ratio evincit; S. Literæ",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "stabiliunt.",
+     "heading": 0
+    }
+   ],
+   "signature": "B 2",
+   "notes": "Greek word in §XIX (\"αὐτο-προέτω\") is a best reading of a damaged word; the Greek on the line \"Origene\" is also uncertain. Running head absent. Page number printed at top right as \"508\"."
+  },
+  {
+   "n": 13,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "doubtful",
+     "text": "\"...\" in the text: a passage was skipped or a remark written as print"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "XX. Gaudet immortalitatis nihilominus & in-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "dependentiæ à corpore, dono, uti verbo suo S. S.",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "Eccles. 12. Sapient. cap. 2. 3. 4. 5. Matth. 22. ita enim expli-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "catur locus iste à D. Chrysostom. homil. 71. &c. Deus ex-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "pressit.",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "<i>—Hoc principium est fundamentum, salutis</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "<i>Æternam esse animi naturam, & prorisus ab omni</i>",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "<i>Parcarum numero exemtam—</i>",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "ait Paling. in Capric. Nec moramur infantiles illas",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "<i>Epicuri, Democriti, Dicæarchi, Plinii libr. 7. nat. hist. cap. 55.</i>",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "<i>& Machiavellistarum</i>, argutias. Quin potius faniores",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "Philosophos, Ethnicos quamvis, adire ac consulere",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "liceat. Quantâ vi impugnarunt, imo oppugnarunt,",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "<i>Pythagoras, ejusq; Præceptor Phærecydes, Trifmegistus, Zo-</i>",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "<i>roaster, Numerius, & in Alcibiade Plato,</i> inhumanam il-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "lam dementis annihilatione sententiam? <i>Sallustius</i>",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "<i>libr. de diis & mundo. cap. 20.</i> ὃ φησι, inquit, λογικὴ ἀλόγος ψυχὴ",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "γίνεται. Et quid aliud Aristoteles, dum incor-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "ruptibilem, immutabilem, immistum, simplicem, im-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "partibilem, animum dixit, velle videtur, quàm ut im-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "mortalitatem rationi adscribat? <i>1. de anima: cap. 3.</i>",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "<i>text. 49. cap. 4. text. 67. libr. 3. t. 6. 20. libr. 2. de gen. cap. 3.</i>",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "<i>libr. 3. de part. anim. cap. 1. libr. 12. Metaph.</i> ὑσν corrupto",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "corpore ὑπομένειν dilucide satis ostendit. Videatur",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "<i>Scaliger, exerc. 307. sect. 20. Nicolaus Fabentinus de Immort.</i>",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "<i>anim. cap. 11. Eugubinus libr. 9. de perenniphil. Porphyrius.</i>",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "<i>D. Gregorius M. libr. 4. moral. cap. 7. Augustinus de quant.</i>",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "<i>animæ. cap. 2. Lactant. libr. 7. cap. 8. 12. de irâ Dei. cap. 19.</i>",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "<i>Macrob. in somn. Scip. libr. 2. cap. 13. & Oracula Sibyllina</i> ubi",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "inter alia effatum hoc divinissimum: Καὶ γάλα ἀμέμπτοις ... πάντασι δίκαιοις.",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "XXI. Duæ autem potissimum Facultates aut po-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 32,
+     "text": "tentiæ, ex animæ rationalis naturâ emanant; qua-",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "rum",
+     "heading": 0
+    }
+   ],
+   "notes": "Marginal annotations at left (small pencil marks, e.g. at line of \"XX.\" and \"XXI.\") are not legible as text. Some Greek words are approximated; the Greek passages on the lines \"ὃ φησι\" and \"Καὶ γάλα\" are doubtful. Final line \"rum\" is a catchword-like continuation, not a catchword. Greek and Italic text partially uncertain."
+  },
+  {
+   "n": 14,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "number": "509",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: per"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "um prima est Intellectus, altera Voluntas. Suntque",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "ambæ potentiæ corporis expertes, & ab omni mate-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "riâ sejunctæ. Hinc ab anima rationali, ut Physicus",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "corpus informans actus est, non fluunt, nec earum",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "operationes Physicæ sunt; quippe, quæ nec ratione",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "subjecti, effecti, aut objectivæ nec formaliter sive termi-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "native, cum naturali Ente communicent aut con-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "veniant.",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "XXII. Intellectus est potentia animæ intelli-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 10,
+     "text": "gens, cognoscens & dijudicans actu ea, quæ sunt in-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "telligibilia potentia. <i>Arist. l. 3. de anima. c. 4. & 8.</i>",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "XXIII. Potentia est quoniam ab essentia",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 13,
+     "text": "cujus facultas est distinguitur, secus quam sit in Mente",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "prima, in quâ solâ Intellectus idem est cum suâ essentiâ.",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "Et hæc est nobilissima, ac vere divina illa proprietas,",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "quæ homini reliquas substantias naturales omnes",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "antestare largitur. Homini inquam tanquam sub-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "jecto totali, & composito; non animæ: hujus enim,",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "quamdiu corpori informando affixa est effectum ex-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "iftit: At soluta à contagione materiæ jam tum sub-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "jectum intellectionis & voluntatis dicitur.",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "<i>Arist. lib. 1. de anima. t. 64.</i>",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "XXIV. Sunt verò illa potestate intelligibilia, vel",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 24,
+     "text": "corporalia, vel anima ipsa, eique inhærentia, vel sub-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "stantiæ immateriales. Et corpora quidem cogni-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "tione immateriali, universali & necessariâ ab intelle-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "ctu percipiuntur. Cognoscit is non essentialiter;",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "tale enim scire soli Deo competit, cujus essentia im-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "materialiter omnium comprehensiva est: non per",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "species naturaliter sibi inditas, aut à substantiis sive",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "formis separatis effluxas; sed per phantasmata con-",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "cepta & effecta. Unde per ligamentum sensuum",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "non raro impediri in præsenti statu, qui nonnisi",
+     "heading": 0
+    }
+   ],
+   "catchword": "per",
+   "signature": "B 3",
+   "notes": "Marginal references in italics beside XXII and XXIII (\"Arift. l. 3. de anima. c. 4. & 8.\", \"Arift. lib. 1. de anima. t. 64.\") are transcribed as printed; the word \"Arift\" in the first reference is partly illegible in the scan. Line ending \"per\" is cut off at the foot."
+  },
+  {
+   "n": 15,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "per comparationem ad sensibile, notum quid fieri,",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "permittit, experimur. Ab iis igitur phantasmati-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "bus abstrahit, per modum unius, materialia, & sensi-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "bilia, ac per ea in cognitionem immaterialium ele-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "vatur; ascendendo ab inferioribus ad superiora, ita",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "ut primo sensus moveat Phantasiam, hæc poftmo-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "dum Intellectum, cui phantasma rei, imprimit rei",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "speciem, de quâ receptâ judicium a ratione institui-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "tur. Ex quo patet ab intellectu nô apprehendi per fe",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "& principaliter singularia, <i>quorum cognoscendorum via</i>",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "<i>unica est Sensus, ut rectè Plato 6. de Republ. monuit.</i> nec",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "mentem actu aut habitu infinitorum, contingentium",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "ac futurorum directè cognoscitivum esse. Contem-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "platur Intellectus dein semet-ipsum, & ea quæ in",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "ipsius natura deprehendi advertit, non per effen-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "tiam, sed actum, qui est ipsum suum intelligere. Et",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "tandem ea quæ sunt supera, illa vero in præfenti",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "mortalitate non per seipsum, sed per rerum natura-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "lium notitiam, uti docet <i>Apostolus ad Rom. 1. & Aven-</i>",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "<i>pacem</i> voluisse prodidit <i>Avenroes, libr. 3. text. 36.</i> Hinc",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "ad perfectam Dei, mentiumque cognitionem unitæ",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "corpori animæ pervenire impossibile esse deprehen-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "ditur. <i>Plato in Cratylo. Fatendum est nos de Deo nihil co-</i>",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "<i>gnoscere, neque de ipso atque ipsius nominibus, quibus seipsum</i>",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "<i>vocat. Et Eurip. in Troadib.</i>",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "O Jupiter mortalibus non cognite",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "Quis fis, utrumne Mentis, an Necessitas",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "Natura.",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "Nec enim arte ulla, sed desuper solum revelari no-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 30,
+     "text": "bis incognofcibilem Deum, essentialiter fine lumi-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "ne revelationis ac gratiæ constat. Idem cum <i>Potino,</i>",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "<i>Proclo, Magno Syriano. 2. libr. Metaph. ac Pythagoricis</i>, asse-rit",
+     "heading": 0
+    }
+   ],
+   "signature": "B 3"
+  },
+  {
+   "n": 16,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "number": "510",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text:  libro"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "rit <i>Orpheus</i>, cui cognoscenti ejus <i>incomprehensibi-</i>",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "<i>litatem in hymnis:</i>",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "<i>Nox principium universorum</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "dictus est.",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "XXV. Causæ porrò intellectionis vel Instru-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "mentales sunt, adeoque minus principales, Cor, Spi-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "ritus, & Imago; sive ea sit prima, proximè & imme-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "diatè: sive secunda, modum rem percipiendi repræ-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "sentans. Vel principales: quarum altera remotior,",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "altera proximior est. <i>Arist. lib. 3. de anima cap. 5. text. 18.</i>",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "XXVI. Remotior vis <i>πνευματικὴ</i> dicitur, estque",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 12,
+     "text": "vis quædam passiva remotè intellectionem causans,",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "recipiendo & formando imaginem objecti intelli-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "gibilis.",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "XXVII. Passio autem illa non est remotio rei,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 16,
+     "text": "secundum naturam ad esse, aut inclinationem con-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "venientis, nec abjectio ejus, quod indiscriminatim,",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "vel convenire, vel repugnare in naturâ positum ha-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "bet: Sed est minus proprie patibilis affectio, quâ id",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "quod potentiâ ad aliquid, illud ad quod erat in po-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "tentiâ sibi recipit, atque ita procedendo in actum",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "intelligibilium, subjectum suum perficit.",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "XXVIII. Receptio præterea imaginum, im-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 24,
+     "text": "pressio sive formatio, vel Potentialis est, & hæc qui-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "dem cum purè & merè, tum <i>καθ' ἕξιν</i> talis, vel Actua-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "lis. <i>Antonin. 1. part. sum. maj. l. 3. c. 1. ante §. 10.</i>",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "XXIX. Prior possibilis sive patibilis mens, se-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 28,
+     "text": "cundum naturam & essentiam suam considerata, in-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "fantum propria, nihil quicquam in se continet eo-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "rum, quæ intelligi possunt ac debent. Hinc <i>Aristot. 3.</i>",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "<i>de anima. cap. 4. Δεῖ, inquit, ὥσπερ ἐν γραμματείῳ, ὧν μηδὲν ὑπάρχει ἐντελεχείᾳ</i>",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "<i>γεγραμμένον· ὅπερ συμβαίνει ἐπὶ τοῦ νοῦ.</i> Et <i>Plato</i> scitè admodum <i>l. 10. Phileb. in perf. Socr.</i>",
+     "heading": 0
+    }
+   ],
+   "catchword": "libro",
+   "notes": "Greek and small italic citations transcribed as best legible; the asterisk-like mark beside XXVIII is a printed marginal sign. Right and bottom margins empty apart from show-through."
+  },
+  {
+   "n": 17,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "repaired_xml",
+     "text": "missing or unbalanced tag(s) repaired by the script; the words are unchanged"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "libro eam in quem memoria cum sensibus incidens,",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "verba quædam vera, verisve contraria inscribere,",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "aut tanquam pictor imagines, pingere videatur, assi-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "milat. Nec enim organorum inhabilitas jam tunc",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "existens sensuum potentias ad extra exerceri permit-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "tit, à quibus alioquin mens formarum susceptiva",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "ordinario physicoque modo movetur. Ipsa imago",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "in intellectu ab Icone sensuali oboritur, in & ab ani-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "ma illuminatur, cognoscitur, & à cognita aliæ notio-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "nes extrahuntur. Excipit namque intellectus noster",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "species, vel extrinsecus perceptas, vel motu proprio",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "ad similitudinem materialium effectas, immateriali-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "ter penitus, fingit, & dijudicat: Adeoque causatur,",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "ut, postquam à simulacro sensibili fusum est imagi-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "nabile, ab imaginabili feratur intelligibile; sicut à",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "sole radii, à luce lumen spargitur.",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "XXX. Altera habitualis differentia intellectus",
+     "heading": 0,
+     "caput": "30",
+     "para": true
+    },
+    {
+     "n": 18,
+     "text": "passivi, medio modo se habet, estque in actu primo;",
+     "heading": 0,
+     "caput": "30"
+    },
+    {
+     "n": 19,
+     "text": "nec amplius ἀπλῶς potentia, cum nimirum nunc,",
+     "heading": 0,
+     "caput": "30"
+    },
+    {
+     "n": 20,
+     "text": "ante apprehensa actu non intelliguntur. Et in hac",
+     "heading": 0,
+     "caput": "30"
+    },
+    {
+     "n": 21,
+     "text": "quidem conservativa specierum intelligibilium vis,",
+     "heading": 0,
+     "caput": "30"
+    },
+    {
+     "n": 22,
+     "text": "Memoria scil. intellectiva quàm maximè conspici-",
+     "heading": 0,
+     "caput": "30"
+    },
+    {
+     "n": 23,
+     "text": "tur. Si enim materia corporalis receptas formas",
+     "heading": 0,
+     "caput": "30"
+    },
+    {
+     "n": 24,
+     "text": "non solùm tenet actu per eas agendo, sed etiam ces-",
+     "heading": 0,
+     "caput": "30"
+    },
+    {
+     "n": 25,
+     "text": "sante actuali operationum emanatione: quid obsta-",
+     "heading": 0,
+     "caput": "30"
+    },
+    {
+     "n": 26,
+     "text": "bit, quo minùs contra Avicennam intellectus dici",
+     "heading": 0,
+     "caput": "30"
+    },
+    {
+     "n": 27,
+     "text": "possit, intelligibilium species receptas, five à sensibi-",
+     "heading": 0,
+     "caput": "30"
+    },
+    {
+     "n": 28,
+     "text": "libus five à superiori intellectu effluxas, conservare,",
+     "heading": 0,
+     "caput": "30"
+    },
+    {
+     "n": 29,
+     "text": "etiam actu intellectione nulla existente. Hoc tamen",
+     "heading": 0,
+     "caput": "30"
+    },
+    {
+     "n": 30,
+     "text": "discrimine observato, ut respectus temporis deter-",
+     "heading": 0,
+     "caput": "30"
+    },
+    {
+     "n": 31,
+     "text": "minati, quæ determinatio particularium est, sensiti-",
+     "heading": 0,
+     "caput": "30"
+    },
+    {
+     "n": 32,
+     "text": "væ: indeterminatio intellectivæ memoriæ propria",
+     "heading": 0,
+     "caput": "30"
+    },
+    {
+     "n": 33,
+     "text": "habeatur. XXXI. Postre-",
+     "heading": 0,
+     "caput": "30"
+    }
+   ],
+   "notes": "Marginal \"Avicennam\" is set in italic in the text; Greek ἀπλῶς rendered from the printed word ἀπλῶς-like form (uncertain). Text partly low-contrast at the right edge; the readings \"sensibilibus\" and \"sensitivæ\" are doubtful. Possible faint show-through at the lower right ignored."
+  },
+  {
+   "n": 18,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "number": "511",
+   "lines": [
+    {
+     "n": 1,
+     "text": "XXXI. Postremò actualis sive Adeptus dicitur",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "Intellectus is, qui est ἐνεργεία, adeoque in actu secun-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "do, secundum completionem actûs ultimam. Et in",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "hac quidem differentia, affectione illâ quam com-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "munem habet cum sensibus, ut Icones objectorum",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "non nisi successivè producantur, retentâ; Entium",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "quorumvis in potentiâ ad intellectionem existen-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "tium, imagines efformat: quæ efficiunt, ut intelle-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "ctus impressione seu repræsentatione immateriali,",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "cum speciebus intellectualibus unitus, singula, & in-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "telligibilia esse dicatur, non aliter ac simulacrum",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "in corpore denso perspicuo, ipsa res esse perhibetur",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "secundum illud Scaligeri, <i>Exerc.307.sect.37. Meditatio,</i>",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "<i>frequens amatæ rei, eam etiam absentem unit cum intellectu:</i>",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "Non absque passione; quæ non tam ob habilitatem",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "ac potentiam, quàm propter actuale pati, e receptio-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "ne imaginis sensilis natum intellectui possibili acci-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "dit, nec propterea tendentiam ad ullam corruptibi-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "litatem menti inducit, quin potius perfectiva est",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "omnibus numeris absoluta.",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "XXXII. Notandum ultimò, <i>Avicennam</i> è recen-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 22,
+     "text": "sione <i>Lud. Cælii Rhodigini Lect. ant. libr. 2. cap. 1.</i> intelle-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "ctûs patientis statum quadruplicem constituere:",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "adeò ut post eum, qui possibilitate tantum ceu poten-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "tia aliqua materialis, præditus est, dispositum ponat",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "intellectum, qui principia per se nota jam continet,",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "ipsi in habitu dictus; Cũ habitualis nobis fit, in quo",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "res, actu speculationi nõ subjacet; <i>Avicennæ</i> Adeptus",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "& perfectus adeoq; in tertiâ differentiarum serie col-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "locatus. In hoc insuper discrepantes, quod hic ad-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "eptus actu speculans, ipsi accommodatus appellle-",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "tur, adeoque quarta differentia constituatur. Liceat",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "tamen priore retentâ distinctione Dispositum &",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "C",
+     "heading": 0,
+     "para": true
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: intelle-"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "Perfectum,",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "etiamsi hic conclusiones, ille principia",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "contineat cum reliquis Scholasticis unum eundem-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "que dicere.",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "XXXIII. Altera mentis vis, quae intellectionis",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "humanae principium propius est, activitatis ratio-",
+     "heading": 2
+    },
+    {
+     "n": 7,
+     "text": "nem magis obtinet.",
+     "heading": 2
+    },
+    {
+     "n": 8,
+     "text": "Estque illa, quae species perce-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 9,
+     "text": "ptas explicat, illustrat, dijudicat, & actu per abstra-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "ctionem specierum a conditionibus materialibus",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "intelligibiles reddit. <i>Thom. l. 2. contra gent. cap. 77.</i>",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "XXXIV. Variè de ejus natura jam olim exitə-",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 13,
+     "text": "runt sententiæ.",
+     "heading": 2
+    },
+    {
+     "n": 14,
+     "text": "Veteres nonnulli facultatem eam",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 15,
+     "text": "esse putarunt, non a rationali, sed formâ longè diver-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "sâ emanantem. <i>Plato 6. Repubi.</i> Recentiores insuper",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "vel omninò removerunt agentem animæ potetiam,",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "ut <i>Durandus 1. sentent. dist. 3. quæst. 5.</i> vel intelligentiam",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "primam, <i>Zabarell. de mente agente. cap. 13. Alex. libr. 2. de</i>",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "<i>anima. cap. 20.</i> vel Genium, <i>de quo Scal. libr. 3. Poet. cap.</i>",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "<i>16. Bodinus in Theat. nat. libr. 4.</i> vel angelos universim; vel",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "primam rerum inventionem, <i>uti Melanchth. de anima,</i>",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "<i>tract. 3. cap. 15.</i> agens illud statuerunt. Verùm remotis",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "absonis his, etsi præstantissimorum Philosophorum",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "assertionibus, cum <i>Aristot. libr. 3. de anima, cap. 5.</i>",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "ponamus: cùm præ-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "cipuè in intellectuali animæ nostræ naturâ, intrin-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "secum quodpiam lumen, quo potestate intelligibi-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "le, actu intelligibile reddi possit, necessariò requira-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "tur; nec enim ulla actio, rei vitaliter competit, nisi",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "per principium formaliter ei inhærens. Ac etsi Lu-",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "men divinum illustret mentem (attestante D. <i>Johanne</i>",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "<i>cap. 1. verf.</i>",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "<i>9. Jacobo cap. 1. v. 17. & Dionysio Areopag.</i> qui",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "Deum descripturus, <i>libr. de divin. nomini. Ipsum bonum,</i>",
+     "heading": 0
+    },
+    {
+     "n": 36,
+     "text": "<i>inquit, lumine quovis excelsius, lumen intelligibile nuncu-</i>",
+     "heading": 0
+    },
+    {
+     "n": 37,
+     "text": "<i>patur, tanquam fontana lux & exuberans profusio luminis</i>",
+     "heading": 0
+    }
+   ],
+   "catchword": "intelle-"
+  },
+  {
+   "n": 20,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "number": "512",
+   "lines": [
+    {
+     "n": 1,
+     "text": "<i>intelleclu omnem super mundanum, circa mundanum, intr-</i>",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "<i>a mundanum, sua illuminans plenitudine, totasq; intellectuales</i>",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "<i>horum vires renovans, & omnes deniq; intellectus comprehen-</i>",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "<i>dens, eo ipso quod se super eos expandit. Et Trismegisto in Ascle-</i>",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "<i>pio. Una sola erat lux mentalis, ante lucem mentalem, & est semper</i>",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "<i>mens mentis fulgida, & nihil aliud erat, quam hujus unitas,</i>",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "<i>semper in seipsa existens, semper sua mete, luce & spiritu omnia</i>",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "<i>continens.</i>) humana, quæ ipsa quoque lux est: Unde in",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "rationalibus creaturis præcipue imaginem Trinita-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "tis conspicuam esse, cum in reliquis transiens tan-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "tummodo vestigium ejus deprehendatur, ex talibus",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "quæ analogicè in divinas personas reduci queunt,",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "docet <i>D. Thomas 1. part. S. Theol. quæst. 79. artic. 4.</i> Diver-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "sificantur tamen & essentiâ & operatione, cùm illud",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "sit primum, summum, intransmutabile, invariabile,",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "insensibile, non egenum, extra tempus, extra locum.",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "Hoc verò earum proprietate nullâ, vel saltem impro-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "prie, dependenter ac instar simulacri insigne fit.",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "Non nisi trans-naturales illud, tanquam hyperphy-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "sicum agens, quo immutatur in melius, lustratione",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "non-naturali anima nostra sordibus peccati origina-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "lis coinquinata, operationes: hoc physicas in quo-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "vis intellectu etiam impientissimi hominis depre-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "hensas perficit. Hæc genuina Aristotelis sententia",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "est: etsi non negetur, eâ significatione, quâ ipsa ani-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "ma à Deo esse dicitur, virtutem quoque intelligendi,",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "à superiore illo perfectissimo, & præexistente immo-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "bili tanquam imperfectiorem, participatam ac mo-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "bilem, verùm mediatè dependere, eoque perfici ac",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "beatificari. Nec minoris absurditatis illud delirium",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "<i>Avicenna</i> qui 9. <i>Metaph. cap. 4. Genium Cholcodæam men-</i>",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "<i>tem illustrare asseverat.</i> itemque <i>Melanchthonis</i> opinio",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "esse deprehenditur. Quamvis enim præstantissimam",
+     "heading": 0
+    }
+   ],
+   "signature": "C 2"
+  },
+  {
+   "n": 21,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: XXXVIII. Quare"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "rerum inventionem, ipsosque Inventores summe sa-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "pientes esse, ipse <i>Phil. in Transcendent. scient. lib. 1. cap. 1.</i>",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "affirmet, eo tamen reliquæ intellectus actiones tali",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "causâ dignissimæ semovendæ nequaquam fuerunt.",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "XXXV. Illuminat autem Objectum & intelligit",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "illud, (sive fit externum, cujus Intellectio recta dici-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "tur, quâ animus ad supera & infera se convertit; sive",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "Internum, quæ reflexiva est, cũ intellectus in seipsum",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "reflectitur) vel absolutè, vel comparatè Inveniendo",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "aut Judicando.",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "XXXVI. Intellectus absolutus illuminat intel-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 12,
+     "text": "ligibilia in mente capaci, de qua illustratione <i>Sallustius</i>",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "<i>de diis & mundo cap. 8.</i> Τελεσμα ἐστιν δυναμις τῆς",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "ψυχῆς ὥσπερ ἡλιος τὰς ὄψεις. <i>Architas apud Jamblichium</i>",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "<i>lib. 2. de secta Pythag. c. 4. Proclus in Tim. lib. 4. Trismeg.</i>",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "<i>5. serm. Pim. Hom. 3. Iliad. &c.</i> scrutatur simulacra illa,",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "enucleat, investigat, & fine ullo tandem examine ap-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "prehendit. Idque facit vel in simplici, cujus Intel-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "lectio cum Abstractiva, tum Constitutiva appellari",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "convenienter potest; vel in dependenti, & conjuncta",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "mentis Icone.",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "XXXVII. Posterior Proba est, sive Examen In-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 23,
+     "text": "tellectionis prioris, quâ intelligitur, qua ratione in",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "cognitionem imaginis pervenerit intellectus, quo-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "modo abstraxerit, adhibuerit ve Causas, propria, par-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "tes, quæ intra: vel Objecta, Adjuncta, &c. quæ extrin-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "secus eminent, & tandem quâ ratione Ens cum alio",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "à seipso dispositum sit. Atque ita suas actiones",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "omnes ad principiorum canonumq; normam, qui-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "bus omnibus Logica artificialis præcipuè, post ob-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "scuratum intellectus nostri lumen, adjumento esse",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "potest, fideliter exigit; idque vel simpliciter vel com-",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "paraté.",
+     "heading": 0
+    }
+   ],
+   "catchword": "XXXVIII. Quare",
+   "notes": "Marginal citations inside the text are printed in italics and kept inline. Greek passages in the text are transcribed as legible; some letters of the Greek lines are uncertain. The line \"XXXVIII. Quare\" is set at the right and is printed as the start of the next section."
+  },
+  {
+   "n": 22,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "number": "517",
+   "warnings": [
+    {
+     "type": "repaired_xml",
+     "text": "missing or unbalanced tag(s) repaired by the script; the words are unchanged"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "XXXVIII. Quare duæ hæ Intellectus actívi vir-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "tutes, Inventio, & Judicium distinctæ rationis fun-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "ctiones sunt. Nec respectu tantum, aut ratione ali-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "quâ inter se differunt, uti perperam sentit <i>Keckerm.</i>",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "<i>Syst. Phys. libr. 4. cap. 4. de intell. act. §. 6.</i> Ita enim is:",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "<i>Inventio & Judicium non sunt partes sed causa intellectionis</i>",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "<i>humanæ, atque adeo sunt reipsâ unum & idem, dupliciter tan-</i>",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "<i>tum considerata.</i> Probationem vel nullam vel topicam",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "saltem addere satagit. Quamvis enim detur, circa",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "eandem intellectionem utramque facultatem versa-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "ri, ex eo tamen diversitas partialis nondum sublata",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "est, utpote cum ultró etiam ipsi hoc largiri possimus,",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "eandem esse utrique materiam circa quam, Generi-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "cam videlicet: In uno enim omnes partes consenti-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "re convenit. Negatur verò objecti, specifici identi-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "tas, de qua est quæstio.",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "XXXIX. Hæc de primâ Intellectus divisione, se-",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 18,
+     "text": "quitur altera, è ratione modi intelligendi orta, se-",
+     "heading": 2
+    },
+    {
+     "n": 19,
+     "text": "cundum quem Intellectio simplex est, vel Com-",
+     "heading": 2
+    },
+    {
+     "n": 20,
+     "text": "posita.",
+     "heading": 2
+    },
+    {
+     "n": 21,
+     "text": "XL. Simplex intellectio",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 22,
+     "text": "est, cujus cognitione in-",
+     "heading": 2
+    },
+    {
+     "n": 23,
+     "text": "complexæ rerum notiones continentur. Estque pri-",
+     "heading": 2
+    },
+    {
+     "n": 24,
+     "text": "maria hæc longeque perfectior composita, cùm ho-",
+     "heading": 2
+    },
+    {
+     "n": 25,
+     "text": "mo Dei imaginem eâ repræsentet, ipsosque ange-",
+     "heading": 2
+    },
+    {
+     "n": 26,
+     "text": "los, (in quibus perfecta est, secundùm insitæ sibi na-",
+     "heading": 2
+    },
+    {
+     "n": 27,
+     "text": "turæ modum, quem transcendere non datur, cogni-",
+     "heading": 2
+    },
+    {
+     "n": 28,
+     "text": "tio intelligibilis veritatis. <i>Dionys. 7. cap. de divin. nom.</i>",
+     "heading": 2
+    },
+    {
+     "n": 29,
+     "text": "<i>cap. 7.</i>) quam convenientissimè, utpote quâ ipsa rei",
+     "heading": 2
+    },
+    {
+     "n": 30,
+     "text": "essentiâ, & quid res fit cognoscitur, imitari videatur.",
+     "heading": 2
+    },
+    {
+     "n": 31,
+     "text": "XLI. Composita est, quæ incomplexos conce-",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 32,
+     "text": "ptus componit, Idque facit, vel simpliciori notio-",
+     "heading": 2
+    },
+    {
+     "n": 33,
+     "text": "num connexione, quæ Propositio, & συνθετος intelle-",
+     "heading": 2
+    },
+    {
+     "n": 34,
+     "text": "ctus dicitur: Cùm sine discurrente vi duæ intentio-",
+     "heading": 2
+    }
+   ],
+   "signature": "C 3",
+   "notes": "Marginal/side text: none legible beyond page number. Greek word after \"&\" in XLI transcribed as printed (συνθετος approximate). Section headings XXXVIII–XLI run into the text as printed; treated as level 2 headings."
+  },
+  {
+   "n": 23,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: viam"
+    },
+    {
+     "type": "repaired_xml",
+     "text": "missing or unbalanced tag(s) repaired by the script; the words are unchanged"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "nes conjunctione, aut divisione unicâ disponuntur:",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "Vel magis compositâ, quæ Ratio proprie dicitur,",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "cùm intellectus ab intellecto uno, ad aliud transiens,",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "denarium noematum numerum exsuperat: Quod",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "operatione dianoetica sive discursu, & agitatione",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "mentis, vel illative, vel ordinative fieri amat.",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "XLII. Illativus mentis discursus, Ratiocinatio",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 8,
+     "text": "& λογισμὸς dictus, ex trium noematum compositione",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "consequentiam deducit formaliter necessariam,",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "adeoque vel opinionem, vel scientiam causatur.",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "XLIII. Ordinativus orationem pluribus con-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "stantem pronunciatis, axiomaticè dispositam, & si",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "quâ opus ad syllogisticî discursus limam examina-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "tam, naturæ industriâ artificiosè logico opitulante,",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "in ordinem redigit.",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "XLIV. Tertia Intellectûs distinctio est ratione",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "Objectorum, seu potius finis, in Contemplativum &",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "Practicum. Arist. 6. Ethic. cap. 1. lib. 3. de anima. c. 8. Scal.",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "exerc. 307. sect. 23. qui à se invicem ipsâ naturâ non se-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "juncti sunt: accidentali respectu ad objectum, Entia",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "per se non diversificante. Accidit namque solum-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "modo apprehenso, ut ad opus ulterius suscipiendū",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "vel intendatur, vel ab actione insequeti remittatur.",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "XLV. Speculativus sive Theoreticus est, qui ope-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "ratur solius cognitionis, intentione, quâ terminatur,",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "apprehenso nô ordinato ad opus, sed veritatis dun-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "taxat intellectionem.",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "XLVI. Objectum ejus est Ens necessariû, & quod",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "ab actione propterea nostrâ non dependet. Estque",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "notitiæ theoreticæ productivus, utpote qui notitia-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "rum illarum, five principiorum nobis aliquomodo",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "innatorum, (ad quæ etiam fine ratiocinatione rapi-",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "mur, & à quibus simpliciter intellectis, secundum",
+     "heading": 0
+    }
+   ],
+   "catchword": "viam",
+   "notes": "Page is a single column; the first line is a fragment continuing from the previous page. Some lines are marked with uncertain letters; the Greek word λογισμὸς and the printed marginal-style citation in italics were transcribed as printed. Headings XLII–XLVI are paragraph openers with numerals, set as heads of level 2 only where printed in separate lines; the scan shows them as running paragraphs, so they are retained as printed text."
+  },
+  {
+   "n": 24,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "number": "514",
+   "lines": [
+    {
+     "n": 1,
+     "text": "viam acquisitionis vel inventionis ratiocinatio tan-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "quam ab immobili termino, ad quietum procedit, &",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "in via judicii ad prima illa principia, resolvendo re-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "vertitur, Jope ac fundamine contemplatur Veritate,",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "& Verum quod intellectûs, cujus præcipuus civis est,",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "terminus existit. <i>Arist. 2. Metaph. c. 1. 2. post. Anal. cap.</i>",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "<i>19. Thom. 1. part. S. Th. quæst. 16. art. 1.</i>",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "XLVIII. Practicus est, cujus intellectio & ratio-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 9,
+     "text": "cinatio propter opus, ac Bonum efficiendum fusci-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "pitur.",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "XLVIII. Circa Objectum versatur tale; quod",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 12,
+     "text": "aliter se habere potest, & à voluntate humana depen-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "det. Notitiam practicam, quæ post cognitionem",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "ulteriorem, ad quam ordinata est, operationem exi-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "git, producit.",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "XLIX. Conducit autem operatio illa practica",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 17,
+     "text": "vel ad mores hominum, unde Moralis dicitur, in-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "nixa principio Legis naturæ, & recto rationis dicta-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "mini, unde Assensus ortum accipit: vel è mente factiva",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "emanat, quæ dependentia nomen eiactionis Ar-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "tificialis indit.",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "L. Et hæc tandem omnia intellectui insunt, vel li-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 23,
+     "text": "berè se habenti, remque aut certò scienti, aut dubi-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "tandi opinantive, ac ob infirmitatem accidentem",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "labascenti: Vel strictè, dum intellectioni,",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "alienæ propriæve, præteritæ tamen",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "intentus, cogitata resolvit ac",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "recognoscit.",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "<i>Hac de Intellectu humano.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 30,
+     "text": "DEO TRINO, ET UNI, LAUS,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 31,
+     "text": "HONOR ET GLORIA.",
+     "heading": 0
+    }
+   ],
+   "notes": "Printed text is set in long s form; the stroke-like marks on the left edge are show-through/fold and not transcribed. Italic references in the first paragraph are printed in the text line. Some words in the scan are faint or blurred (e.g. \"Jope\", \"Assensus\", \"factiva\") and may need checking. The \"XLVIII.\" heading in the second paragraph is a numbered thesis and is not a true heading; it is marked as a head here only because of its position, and the third paragraph's numeral reads XLVIII as printed in the scan, probably XLIX-type error left as printed."
+  },
+  {
+   "n": 25,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "Ad Ornatissimum",
+     "heading": 1,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "Dn. Respondentem.",
+     "heading": 1
+    },
+    {
+     "n": 3,
+     "text": "F<i>ABRITI nostræ quondam pars maxima mentis,</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "<i>Nec nunc diviso corpore, crede, minor!</i>",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "<i>Ut veniens à Te me nuper epistola grata,</i>",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "<i>Et multum votis ante petita meis.</i>",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "<i>Illa ut me docuit specimen Te grande laboris,</i>",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "<i>Auctusq; in studiis edere velle Tui.</i>",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "<i>Extemplo, solitæ gnarus virtutis & artis,</i>",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "<i>Exilii, in tales os solüiq; sonos.</i>",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "FABRITIUS nostrum dum sedulus intellectum",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 12,
+     "text": "Instituit celsâ disserere è cathedrâ,",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "Non tam quantum nos, sed quantū intellegat",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "ipse, Notum facundo cuilibet ore facit.",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "<i>Amico probato, & constanti,</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 16,
+     "text": "His",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 17,
+     "text": "<i>Studiorum suorum successum gratulatur,</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 18,
+     "text": "<i>simulq; veteris amicitiæ testatur fidem,</i>",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "JOH. FRIDERICUS STOCKERUS,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 20,
+     "text": "Scaphus.",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "FINIS.",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "notes": "Large initial F in \"FABRITI\" and \"FABRITIUS\" is a decorated capital, joined to the following word. The \"Auctusq;\" and \"solüiq;\" forms are as printed. Long s rendered as plain s throughout. The verse lines are kept on separate lines within each stanza paragraph."
+  }
+ ]
+}
