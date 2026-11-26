@@ -69873,13 +69873,173 @@
   },
   {
    "n": 366,
-   "type": "missing",
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "number": "(345)",
    "warnings": [
     {
-     "type": "missing_page",
-     "text": "page 366 was not transcribed: invalid XML: junk after document element: line 10, column 0"
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: longè"
+    },
+    {
+     "type": "merged_lines",
+     "text": "2 line(s) contain several printed lines merged together (longest 195 chars, median 39); line numbering is unreliable"
+    },
+    {
+     "type": "line_split",
+     "text": "only 35% of the letters found in the OCR layer: line breaks partly missing"
     }
-   ]
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "l.2.c.4.) <i>non animæ retqiri alimenta, sed corpori, curâ quidem</i>",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "<i>illius, sed tanquam in domo habitantis, & moribunda carnis imminentes ruinas</i>",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "<i>providâ refectione fulcientis.</i> ita rei ipsius rationem reddidit Lucretius, phraseos Vincentius, dum",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "corpus domicilii instar labantis habere suggerit, quod cibo potúque tanquam destinis ac tibicinibus qibusdam suffulciri &",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "sustentari necesse sit. cibo, inquam, potúque. nam & de isto",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "Seneca (licet avdacius forsan pavlo videatur) <i>epist.95. Vino fulcire</i>",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "<i>venas cadentes.</i> quod idem <i>de benefic. l.3.c.9. cadentes venas</i>",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "<i>vino reficere,</i> dixit.",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "Quod avtem <i>stomachum</i> Latinus reddidit, quod",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 10,
+     "text": "Hebraicum textum secuti Græci γαστέρα dixere, nec illud",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "incommodè prorsus. siquidem Græci veteres τὸ σῶμα τῆς κοιλίας sive τ γαστρός, <i>i.e. stomachum,</i>",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "γαστέρα dixere: uti pluribus in locis monuit",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "Galenus, <i>de aliment. facult.l.2.c.24. de locis affect.l.5.</i>",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "<i>c.8. comment. in Hippocr. de humoribus l.3. §.30.</i> idémque variis,",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "ex avctoribus primæ notæ, exemplis confirmat. <i>de</i>",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "<i>Hippocr. ac Platon. dogmat.l.2.c.9.</i> inde γαστριαλγία &",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "γαστριωγμός, non cordis, sed ventriculi ἀλγήματα τῆς διξεως, dolores",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "morsúsque: uti idem docet <i>ad aphorism.l 4. aph.65. & in prognost.com-</i>",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "<i>ment.3. §.36.</i> Idem γαστριαλγέειν exponit τὸ",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "σῶμα τῆς κοιλίας ὀ-tianus <i>in lexic. Hippocrat.</i> Καρδίαν ἐπάλλυ οἱ πολλοὶ ἢ τὸ ἀ- γασρὸς σῆμα, ὃν ἡ σῆμαχον κοινῶς κληῦμεν. καρδιώσεων ἢν",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "ἡ καρδι- ψυγεῖν λέγει, τὸ μὴ ναυτίας ἡ ὁδύνης ἀνιᾶσθαι ἡ σῆμαχον ἡ καρδι- ωγμὸς ἐνπιπτον, ἀντὶ ἡ ὁ τῆς σομάχυ δηγμός. Hoc est quod He- sychius; Καρδιάπλειν, ἡ καρδίαν ἀλγεῖν. πνες ἡ δάκνεσθ",
+     "heading": 0,
+     "merged": true
+    },
+    {
+     "n": 22,
+     "text": "σῆμαχον ὑπὸ λιμοῦ. πῶς ἡ ἡ ὅτι τὰ ναυπὰν. nec nostri secus ventri- culi affectum istiusmodi dicimus, the heartburning.",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "Nican- der ab aconiti esu φῶτ' ἐπικαρδιώνλα describens <i>in Alexi-</i>",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "<i>pharm.v.19.</i>",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "τὴν δ' ὀπιδάκτ' ἄχρον. Νειδισμὸς ἀχλίσον ἀειρόμενον σῆμα γασρός, Τυχεῷ λὼ κραδίλω ὀπιδόρπον, οἱ ἡ δοχαῖλω Κλείσει σεμάχοιο. πλὴν δ' ὀπικέχλι ἀρχαῖς Πρῶτα κόλων, ὅδι πᾶσα βεγτῶν ἄλις ἐμφέρε ἠλεῖς.",
+     "heading": 0,
+     "para": true,
+     "merged": true
+    },
+    {
+     "n": 26,
+     "text": "ubi Schol. σόμα γασρὸς, ὁ σῆμαχῳ. cujus",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 27,
+     "text": "& nomen & sedem & usum Nicander verbis illis nobis exhibet. Aliud",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "autem",
+     "heading": 0
+    }
+   ],
+   "catchword": "longè",
+   "signature": "Y y",
+   "notes": "The last line of the visible part is cut off at the bottom of the scan, so the Greek after \"ὀ-\" continues beyond this part. Some Greek letters and accents in the abbreviated words are doubtful and may be misread. Greek and the italic passages are transcribed as printed; the Greek lines are heavily worn and several words are doubtful. The \"Y y\" signature and \"longè\" catchword sit at the foot. The faint \"Digitized by Google\" text at lower right is a digitiser's mark and is omitted."
   },
   {
    "n": 367,
