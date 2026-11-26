@@ -1,0 +1,689 @@
+<!doctype html><meta charset=utf-8><meta name=viewport content='width=device-width,initial-scale=1'><title>OCR per regel</title><style>
+:root{--bg:#fffdf8;--ink:#2a241c;--muted:#857a69;--rule:#e4dccc;--goed:#2f7d32;--redelijk:#a07000;
+--afwijkend:#b3261e;--geen:#7a5aa8;--mark:#f7d77a}
+@media (prefers-color-scheme:dark){:root{--bg:#1f1b15;--ink:#e9e1d2;--muted:#9a8f7d;--rule:#383126;
+--goed:#7cc47f;--redelijk:#e0b54a;--afwijkend:#f08a80;--geen:#b9a0e0;--mark:#6b5414}}
+body{font:15px/1.45 Georgia,serif;max-width:1300px;margin:2em auto;padding:0 16px;color:var(--ink);background:var(--bg)}
+h1{font-size:1.4em} h3{margin:1.6em 0 .3em;font-size:1.05em} a{color:inherit}
+table{border-collapse:collapse;width:100%} td,th{border-bottom:1px solid var(--rule);padding:3px 6px;vertical-align:top;text-align:left}
+th{font:600 12px system-ui;color:var(--muted)} td.n,td.s{font:12px system-ui;white-space:nowrap;color:var(--muted)}
+td.s{text-align:right;font-weight:600} td.o{font-family:ui-monospace,monospace;font-size:13px;color:var(--muted)}
+tr.goed td.s{color:var(--goed)} tr.redelijk td.s{color:var(--redelijk)} tr.afwijkend td.s{color:var(--afwijkend)}
+tr.geen td.s{color:var(--geen)} tr.alleen td.s{color:var(--afwijkend)} td.gap{color:var(--muted);font-style:italic}
+tr.afwijkend td:first-child,tr.geen td:first-child,tr.alleen td:first-child{box-shadow:inset 3px 0 var(--afwijkend)}
+mark{background:var(--mark);color:inherit;border-radius:2px} .sum span{margin-right:1.4em;font:13px system-ui}
+.bar{display:flex;height:8px;border-radius:4px;overflow:hidden;margin:.5em 0 1em;max-width:600px}
+.bar i{display:block} p.no{color:var(--muted);font-style:italic}
+label{font:13px system-ui;color:var(--muted)} body.weak tr.goed,body.weak tr.redelijk{display:none}
+body.weak section:not(:has(tr.afwijkend,tr.geen,tr.alleen)){display:none}
+</style>
+<h1>OCR per regel: W08077_Wyss_Disputatio_physica_de_motu_quam_publicae_ac_placidae_syzetes_1667</h1>
+<p>20 scans met tekst, 20 met bruikbare OCR, waarvan 0 waar de OCR de pagina slecht volgt. 587 regels vergeleken, gemiddelde overeenkomst 91%.</p>
+<div class=bar><i style='width:80.7495741056218%;background:var(--goed)' title='goed: 474'></i><i style='width:17.717206132879046%;background:var(--redelijk)' title='redelijk: 104'></i><i style='width:0.5110732538330494%;background:var(--afwijkend)' title='afwijkend: 3'></i><i style='width:1.0221465076660987%;background:var(--geen)' title='geen: 6'></i></div>
+<p class=sum><span style='color:var(--goed)'>goed: 474</span><span style='color:var(--redelijk)'>redelijk: 104</span><span style='color:var(--afwijkend)'>afwijkend: 3</span><span style='color:var(--geen)'>geen: 6</span><span>OCR-regels zonder transcriptie: 2</span></p>
+<label><input type=checkbox onchange="document.body.classList.toggle('weak',this.checked)"> alleen afwijkende regels</label>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W08077_Wyss_Disputatio_physica_de_motu_quam_publicae_ac_placidae_syzetes_1667.pdf#page=2' target=_blank>scan 2</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=redelijk><td class=n>1</td><td>DISPUTATIO <mark>PHYSICA</mark></td><td class=o>DISPUTATIO</td><td class=s>74%</td></tr>
+<tr><td class=n>2</td><td>De</td><td class=o></td><td class=s></td></tr>
+<tr class=goed><td class=n>3</td><td>MOTU.</td><td class=o>MOTU</td><td class=s>100%</td></tr>
+<tr class=geen><td class=n>4</td><td>Quam</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=geen><td class=n>5</td><td>Σὺν θεῷ,</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=redelijk><td class=n>6</td><td><mark>Publicæ</mark> ac <mark>placidæ Συζητήσει,</mark></td><td class=o><mark>Publica,</mark> ac <mark>placida</mark></td><td class=s>74%</td></tr>
+<tr class=redelijk><td class=n>7</td><td><mark>SUB PRÆSIDIO</mark></td><td class=o><mark>Prjesidio</mark></td><td class=s>76%</td></tr>
+<tr class=goed><td class=n>8</td><td><mark>Reverendi, Clarissimi Doctissimiq;</mark> Viri,</td><td class=o><mark>Reverendit Clartßtmi Dcftißimife</mark> Viri <mark>i</mark></td><td class=s>85%</td></tr>
+<tr class=goed><td class=n>9</td><td><mark>DN.</mark> DAVIDIS ALBINI,</td><td class=o>DAVIDIS ALBINI</td><td class=s>93%</td></tr>
+<tr class=redelijk><td class=n>10</td><td><mark>IN INCLYTO</mark> BERNENSIUM</td><td class=o>BERNENSIUM</td><td class=s>69%</td></tr>
+<tr class=goed><td class=n>11</td><td><mark>Athenæo, Philosophiæ Professoris Ordinarij, Domini</mark> Præceptoris sui omni <mark>observantiâ</mark> colendi.</td><td class=o><mark>Athenseo,Philosophiae Profeflbris Ordinarij,Do</mark> Praeceptoris fui omni <mark>observantia</mark> colendi <mark>.</mark></td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>12</td><td>Subjicit ac pro viribus <mark>tuendam suscipit,</mark></td><td class=o>Subjicit ac pro viribus <mark>tuendamfufiipit »</mark></td><td class=s>97%</td></tr>
+<tr class=redelijk><td class=n>13</td><td><mark>JOH.</mark> RODOLPHUS <mark>SALCHLINUS,</mark> Zoph. Philosophiæ Studiosus.</td><td class=o>RODOLPHUS <mark>,</mark> Zoph <mark>.</mark> Philosophiae Studiosus <mark>.</mark></td><td class=s>84%</td></tr>
+<tr class=goed><td class=n>14</td><td><mark>Ad</mark> diem 10. <mark>Augusti,</mark> loco <mark>horisq;</mark> solitis.</td><td class=o><mark>i^id</mark> diem <mark>io. K^dugusti</mark> &gt; loco <mark>horis%</mark> solitis.</td><td class=s>86%</td></tr>
+<tr class=redelijk><td class=n>15</td><td>Excudebat <mark>ILLUSTRISSIMÆ REIPUBLICÆ</mark> BERNENSIS <mark>TYPOGRAPHUS,</mark> Georgius Sonnleitnerus.</td><td class=o>Excudebat <mark>IJLLUSTRISSIM Typographus</mark> Bernensis <mark>,</mark> Georgius Sonnleitnerus <mark>.</mark></td><td class=s>77%</td></tr>
+<tr class=redelijk><td class=n>16</td><td><mark>M DC</mark> LXVII.</td><td class=o>LXVII <mark>.</mark></td><td class=s>77%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W08077_Wyss_Disputatio_physica_de_motu_quam_publicae_ac_placidae_syzetes_1667.pdf#page=3' target=_blank>scan 3</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=goed><td class=n>1</td><td><mark>Reverendis, Clarißimis,</mark> Pietate <mark>Omnigena ac</mark> multijuga</td><td class=o><mark>Reverend» , Clanßmü ,</mark> Pietate <mark>Omnigenaac</mark> multijuga</td><td class=s>90%</td></tr>
+<tr class=redelijk><td class=n>2</td><td><mark>Eruditione</mark> Conspicuis <mark>Viris,</mark></td><td class=o>Conspicuis <mark>Viru &gt;</mark></td><td class=s>67%</td></tr>
+<tr class=redelijk><td class=n>3</td><td><mark>Dn. ABRAHAMO de LOSEA, Ecclesiæ Bernensis Pastor</mark></td><td class=o><mark>, EcclesiaBernensisPastor *1</mark></td><td class=s>72%</td></tr>
+<tr class=goed><td class=n>4</td><td>indefesso, Agnato suo ac Patrono ad aras usq; colendo.</td><td class=o>indefesso,. Agnato suo ac Patrono ad aras usq; colendo.</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>5</td><td><mark>Dn. DAVIDI ALBINO,</mark> Philosophiæ <mark>Professori</mark> solidissimæ</td><td class=o><mark>A LB IN Oi</mark> Philosophiae <mark>Profeilori</mark> solidissimae</td><td class=s>85%</td></tr>
+<tr class=goed><td class=n>6</td><td><mark>Acutissimo, Collegij</mark> in Pædagogio Inspectori <mark>fidelissimo, stu-</mark></td><td class=o><mark>Acutissimo,Collegi/</mark> in Paedagogio Inspectori <mark>fidelissimo,stu¬</mark></td><td class=s>99%</td></tr>
+<tr class=goed><td class=n>7</td><td>diorum suorum Promotori indesinenter observando.</td><td class=o>diorum suorum Promotori indesinenter observando.</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>8</td><td><mark>Dn. SAMUELI HENZIO,</mark> Linguæ Græcæ ac Philosophiæ</td><td class=o><mark>O,</mark> Linguae Graecae ac Philosophiae</td><td class=s>81%</td></tr>
+<tr class=goed><td class=n>9</td><td>Practicæ Professori <mark>sagacissimo, Agnato suo itidem</mark> debitæ ob-</td><td class=o>Practicae Professori <mark>sagacissimo,Agnato suo.itidem</mark> debitae ob*</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>10</td><td><mark>servantiæ</mark> cultu jugiter prosequendo.</td><td class=o><mark>servandae</mark> cultu jugiter prosequendo.</td><td class=s>95%</td></tr>
+<tr class=redelijk><td class=n>11</td><td><mark>Nec</mark> Non</td><td class=o>Non</td><td class=s>67%</td></tr>
+<tr class=goed><td class=n>12</td><td>Gravitate, <mark>Prudentiâ</mark> ac multarum rerum <mark>peritiâ</mark></td><td class=o>Gravitate <mark>, Prudentia</mark> ac multarum rerum <mark>peritid</mark></td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>13</td><td><mark>Spectatissimis</mark> Viris,</td><td class=o><mark>Spettatißimis</mark> Viris,</td><td class=s>95%</td></tr>
+<tr class=redelijk><td class=n>14</td><td><mark>Dn. GUILIELMO BERSETH,</mark> apud <mark>Rhætos inalpinos</mark></td><td class=o><mark>,</mark> apud <mark>Rhaaios inalpinbs»:</mark></td><td class=s>59%</td></tr>
+<tr class=goed><td class=n>15</td><td><mark>Chiliarchiâ</mark> olim, ac duplici nuper Præfectura in <mark>Erlach</mark> ac</td><td class=o><mark>Chiliarchis</mark> olim, ac duplici nuper Praefectura in <mark>Exlach</mark> ac</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>16</td><td>Oberhofen <mark>strenuè</mark> defuncto, <mark>Mecœnati</mark> suo <mark>summô</mark></td><td class=o>Oberhofen <mark>strenue</mark> defuncto <mark>, Mecoenad</mark> suo <mark>summ6 Ob-</mark></td><td class=s>90%</td></tr>
+<tr class=redelijk><td class=n>17</td><td><mark>Obsequiô</mark> colendo.</td><td class=o><mark>lecjuiA</mark> colendo. <mark>&#x27;</mark></td><td class=s>69%</td></tr>
+<tr class=afwijkend><td class=n>18</td><td><mark>Dn.</mark> JOH. RODOLPHO <mark>ZEENDERO, Oeconomiâ</mark></td><td class=o>JOH <mark>.</mark> RODOLPHO</td><td class=s>54%</td></tr>
+<tr class=goed><td class=n>19</td><td><mark>Zophingensi laudatissimè defuncto,</mark> Patrono suo <mark>æviternùm</mark></td><td class=o><mark>Zophingenli laudatissimedefuncto,</mark> Patrono suo <mark>aeviternum</mark></td><td class=s>94%</td></tr>
+<tr class=goed><td class=n>20</td><td>Venerando.</td><td class=o>Venerando.</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>21</td><td><mark>Dn. GEORGIO STEINEGGERO,</mark> Consuli Zophin-</td><td class=o><mark>,</mark> Consuli Zophin <mark>-</mark></td><td class=s>57%</td></tr>
+<tr class=goed><td class=n>22</td><td>gensi prudentissimo, Fautori suo Benevolentissimo, <mark>debitè</mark></td><td class=o>genfi prudentissimo, Fautori suo Benevolentissimo, <mark>debite</mark></td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>23</td><td>observando.</td><td class=o>observando.</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>24</td><td><mark>Quin</mark> Etiam</td><td class=o>Etiam</td><td class=s>71%</td></tr>
+<tr class=redelijk><td class=n>25</td><td><mark>Dn. CHRISTIANO CHAMBRINO,</mark> Pastori Zophin-</td><td class=o><mark>INO ,</mark> Pastori Zophin <mark>-</mark></td><td class=s>64%</td></tr>
+<tr class=goed><td class=n>26</td><td><mark>gensium pervigili,</mark> Fautori suo ac Promotori omni observan-</td><td class=o><mark>gensiumpervigili,</mark> Fautori suo ac Promotori omni observan¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>27</td><td>tiæ genere devenerando.</td><td class=o>tiae genere devenerando.</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>28</td><td><mark>Dn. PETRO HUBERO, Illustris Bernatum</mark> Metropolis</td><td class=o><mark>, Ilhistris Bernarum</mark> Metropolis</td><td class=s>72%</td></tr>
+<tr class=goed><td class=n>29</td><td>Civi Meritissimo, Hospiti suo perpetim amando, colendo.</td><td class=o>Civi Meritissimo <mark>,</mark> Hospiti suo perpetim amando, colendo.</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>30</td><td><mark>Dn. ADAMO SALCHLINO, Hypodidascalo Scholæ Ca-</mark></td><td class=o><mark>SALCHLINO,Hypodidascal</mark></td><td class=s>71%</td></tr>
+<tr class=goed><td class=n>31</td><td>strovillanæ cordato, fratri <mark>suo Germano</mark> in <mark>seculorum myria-</mark></td><td class=o>strovillanae cordato, fratri <mark>suoGermano</mark> in <mark>secuiorummyria-</mark></td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>32</td><td>des <mark>suspiciendo ac</mark> fraterno amore prosequendo.</td><td class=o>des <mark>suspiciendoac</mark> fraterno amore prosequendo.</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>33</td><td><mark>Hasce studiorum</mark> suorum primitias in <mark>debitæ Observ. testeram</mark></td><td class=o><mark>Raste ßucHorum</mark> suorum primitias in <mark>dedita Obfim tesseram</mark></td><td class=s>80%</td></tr>
+<tr class=goed><td class=n>34</td><td><mark>quâ</mark> par <mark>est</mark> Humanitate, <mark>decerpit, dicat</mark> ac <mark>consecrat,</mark></td><td class=o><mark>qua</mark> par <mark>oft</mark> Humanitate <mark>, decerpitedicat</mark> ac <mark>consecrati</mark></td><td class=s>93%</td></tr>
+<tr><td class=n>35</td><td>J-</td><td class=o></td><td class=s></td></tr>
+<tr class=goed><td class=n>36</td><td><mark>oh.</mark> Rodolphus <mark>Salchlinus,</mark> Resp.</td><td class=o><mark>Joh .</mark> Rodolphus <mark>Saichlinus,</mark> Resp.</td><td class=s>94%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W08077_Wyss_Disputatio_physica_de_motu_quam_publicae_ac_placidae_syzetes_1667.pdf#page=4' target=_blank>scan 4</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=redelijk><td class=n>1</td><td>DISPUTATIO <mark>PHYSICA</mark></td><td class=o>DISPUTATIO</td><td class=s>74%</td></tr>
+<tr class=redelijk><td class=n>2</td><td><mark>De MOTU.</mark></td><td class=o><mark>M O T U.</mark></td><td class=s>80%</td></tr>
+<tr class=goed><td class=n>3</td><td>THESIS <mark>I.</mark></td><td class=o>Thesis</td><td class=s>92%</td></tr>
+<tr class=goed><td class=n>4</td><td><mark>SUmme necessaria</mark> physico est motus</td><td class=o><mark>Umme neccsiaria</mark> physico est motus</td><td class=s>92%</td></tr>
+<tr class=goed><td class=n>5</td><td>cognitio; Quicquid enim nascitur</td><td class=o>cognitio <mark>;</mark> Quicquid enim nascitur</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>6</td><td>rerum physicarum vel denascitur, id</td><td class=o>rerum physicarum vel denascitur, id</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>7</td><td>motu fieri putandum est: ut &amp; quies</td><td class=o>motu fieri putandum est <mark>:</mark> ut &amp; quies</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>8</td><td>&amp; motus generetur motu.</td><td class=o>&amp; motus generetur motu.</td><td class=s>100%</td></tr>
+<tr><td class=n>9</td><td>II.</td><td class=o></td><td class=s></td></tr>
+<tr class=goed><td class=n>10</td><td>Difficilimum vero est invenire</td><td class=o>Difficilimum vero est invenire</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>11</td><td>quid sit motus; Ut quanquam <mark>Cartesius</mark> Philosophus</td><td class=o>quid sit motus <mark>i</mark> Ut quanquam <mark>Cartcsius</mark> Philosophus</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>12</td><td><mark>Summus</mark> in nulla re physica tantam quantam in motu in-</td><td class=o><mark>Sumus</mark> in nulla re physica tantam quantam in motu in¬</td><td class=s>99%</td></tr>
+<tr class=goed><td class=n>13</td><td>vestigationis diligentiam exhibuerit, plurimum tamen</td><td class=o>vestigationis diligentiam exhibuerit <mark>,</mark> plurimum tamen</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>14</td><td>laboris rem clare &amp; distincte intelligere cupienti etiam-</td><td class=o>laboris rem clare &amp; distincte intelligere cupienti etiam«</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>15</td><td><mark>num</mark> supersit; <mark>Quâ</mark> de causa Dominus de <mark>Raei</mark> cuivis,</td><td class=o><mark>nüm</mark> supersit <mark>; Qua</mark> de causa Dominus de <mark>Raci</mark> cuivis <mark>«</mark></td><td class=s>92%</td></tr>
+<tr class=goed><td class=n>16</td><td><mark>qui Cartesij</mark> praeceptis usus motum rite intelligit, magi-</td><td class=o><mark>quiCartesij</mark> praeceptis usus motum rite intelligit, magi«</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>17</td><td>sterij gradum <mark>se</mark> daturum promittit.</td><td class=o>sterij gradum <mark>sc</mark> daturum promittit <mark>.</mark></td><td class=s>97%</td></tr>
+<tr class=redelijk><td class=n>18</td><td><mark>III.</mark></td><td class=o><mark>IIL</mark></td><td class=s>67%</td></tr>
+<tr class=goed><td class=n>19</td><td>Cum vulgo Philosophi motum explicare volunt</td><td class=o>Cum vulgo Philosophi motum <mark>;</mark> explicare volunt</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>20</td><td><mark>actione, quâ corpus aliquod ex</mark> uno loco in <mark>alium migrat. Quam</mark></td><td class=o><mark>aRtone ^quA corpusal.quodex</mark> uno loco in <mark>altum mtgrat. Quarti</mark></td><td class=s>86%</td></tr>
+<tr class=goed><td class=n>21</td><td>motus descriptionem ad examen revocaturi <mark>sumus.</mark></td><td class=o>motus descriptionem ad examen revocaturi <mark>luovus.</mark></td><td class=s>94%</td></tr>
+<tr><td class=n>22</td><td>IV.</td><td class=o></td><td class=s></td></tr>
+<tr class=goed><td class=n>23</td><td>Proinde motui <mark>loco</mark> generis apponunt actionem,</td><td class=o>Proinde motui <mark>1qc6</mark> generis apponunt actionem <mark>,</mark></td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>24</td><td><mark>hoc</mark> est, corporibus, quae moveri dicuntur, vim <mark>inesse</mark></td><td class=o>est <mark>,</mark> corporibus <mark>»</mark> quae moveri dicuntur <mark>,</mark> vim <mark>ineife</mark></td><td class=s>94%</td></tr>
+<tr class=goed><td class=n>25</td><td><mark>quandam</mark> statuunt, <mark>cujus operatio</mark> sit <mark>ipse motus, exempli</mark></td><td class=o><mark>quandant</mark> statuunt, <mark>cujusoperatio</mark> sit <mark>ipfemotus,exempli</mark></td><td class=s>97%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W08077_Wyss_Disputatio_physica_de_motu_quam_publicae_ac_placidae_syzetes_1667.pdf#page=5' target=_blank>scan 5</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=goed><td class=n>1</td><td><mark>gratiâ</mark> in lapide, qui <mark>deorsùm</mark> ruit, putant <mark>inesse</mark> aliquam</td><td class=o><mark>gratia</mark> in lapide <mark>,</mark> qui <mark>deorsum</mark> ruit, putant <mark>ineste</mark> aliquam</td><td class=s>94%</td></tr>
+<tr class=goed><td class=n>2</td><td>virtutem, cujus actio <mark>sit</mark> lapidis descensus.</td><td class=o>virtutem <mark>,</mark> cujus actio <mark>sic</mark> lapidis descensus <mark>.</mark></td><td class=s>97%</td></tr>
+<tr><td class=n>3</td><td>V.</td><td class=o></td><td class=s></td></tr>
+<tr class=redelijk><td class=n>4</td><td><mark>Quandò contingit</mark> ut nulla <mark>motûs</mark> externa causa sit</td><td class=o>ut nulla <mark>motus</mark> externa causa sit</td><td class=s>75%</td></tr>
+<tr class=redelijk><td class=n>5</td><td>sensibus obvia, recurrunt <mark>ad corporis, quod movetur,</mark></td><td class=o>sensibus obvia <mark>,</mark> recurrunt</td><td class=s>68%</td></tr>
+<tr class=redelijk><td class=n>6</td><td><mark>formam substantialem.</mark> Sic ignem <mark>sursùm,</mark> magnetem</td><td class=o>Sic ignem <mark>sursum ,</mark> magnetem</td><td class=s>67%</td></tr>
+<tr class=goed><td class=n>7</td><td>ad mundi polos, lapidem deorsum, cœlum &amp; stellas in</td><td class=o>ad mundi polos <mark>,</mark> lapidem deorsum <mark>,</mark> coelum &amp; stellas in</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>8</td><td>Orbem <mark>à</mark> forma substantiali putant verti. Nec motum <mark>à</mark></td><td class=o>Orbem <mark>a</mark> forma substantiali putant verti <mark>.</mark> Nec motum <mark>ä</mark></td><td class=s>95%</td></tr>
+<tr class=redelijk><td class=n>9</td><td>forma sine medio promanare <mark>cogitant, sed ab ea facul-</mark></td><td class=o>forma sine medio promanare</td><td class=s>70%</td></tr>
+<tr class=goed><td class=n>10</td><td>tatem quandam <mark>motricem primùm</mark> proficisci affirmant,</td><td class=o>tatem quandam <mark>morricem primum</mark> proficisci affirmant <mark>,</mark></td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>11</td><td><mark>quæ deindè</mark> proxima <mark>motûs</mark> sit causa. Nobis <mark>verò</mark> forma-</td><td class=o><mark>quse deinde</mark> proxima <mark>motus</mark> sit causa. Nobis <mark>vero</mark> forma¬</td><td class=s>91%</td></tr>
+<tr class=goed><td class=n>12</td><td>rum inventio substantialium inanior est comentis, <mark>cùm</mark></td><td class=o>rum inventio substantialium inanior est comentis <mark>, cum</mark></td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>13</td><td><mark>earû</mark> nulla plane idea in intelle <mark>ꝯ‑tu</mark> nostro occurrat. Dein-</td><td class=o><mark>eam</mark> nulla plane idea in intelle <mark>ctu</mark> nostro occurrat <mark>.</mark> Dein¬</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>14</td><td>de facultas hujusmodi motrix cognoscitur <mark>à Philosophis</mark></td><td class=o>de facultas hujusmodi motrix cognoscitur</td><td class=s>86%</td></tr>
+<tr class=goed><td class=n>15</td><td>adinstar substantiæ, <mark>cùm</mark> cognoscatur præciso omni alio;</td><td class=o>adinstar substantiae, <mark>cum</mark> cognoscatur praeciso omni alio <mark>j.</mark></td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>16</td><td>Substantiam autem <mark>à</mark> forma substantiali progigni est ab-</td><td class=o>Substantiam autem <mark>a</mark> forma substantiali progigni est ab¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>17</td><td><mark>surdissimum.</mark> Ne dicam <mark>quòd</mark> emanatio, <mark>quâ</mark> facultatem</td><td class=o><mark>surdi/fimum .</mark> Ne dicam <mark>quod</mark> emanatio <mark>, qua</mark> facultatem</td><td class=s>94%</td></tr>
+<tr class=afwijkend><td class=n>18</td><td><mark>motricem à forma dependere</mark> volunt, confundit <mark>Crea-</mark></td><td class=o>volunt <mark>,</mark> confundit</td><td class=s>53%</td></tr>
+<tr class=goed><td class=n>19</td><td>toris <mark>conceptum</mark> cum <mark>conceptu Creaturæ.</mark></td><td class=o>toris <mark>conceptura</mark> cum <mark>conceptuCreaturae</mark></td><td class=s>96%</td></tr>
+<tr><td class=n>20</td><td>VI.</td><td class=o></td><td class=s></td></tr>
+<tr class=goed><td class=n>21</td><td>Quando <mark>verò</mark> contingit ut aliqua <mark>motûs</mark> externa cau-</td><td class=o>Quando <mark>vero</mark> contingit ut aliqua <mark>motus</mark> externa cau¬</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>22</td><td>sa sit sensibus patens; Tunc internam <mark>motûs</mark> causam vo-</td><td class=o>sa sit sensibus patens <mark>;</mark> Tunc internam <mark>motus</mark> causam vo¬</td><td class=s>98%</td></tr>
+<tr class=redelijk><td class=n>23</td><td>lunt <mark>esse qùalitatem duntaxàt aliquam corpori mobili à</mark></td><td class=o>lunt <mark>este qualitatem duntaxät</mark></td><td class=s>63%</td></tr>
+<tr class=goed><td class=n>24</td><td>movente <mark>impressam,</mark> excludentes formam substantialem.</td><td class=o>movente <mark>imprestam ,</mark> excludentes formam substantialem <mark>.</mark></td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>25</td><td>Ita quando pila <mark>à</mark> manu propellitur, <mark>volût à</mark> manu pilæ qua-</td><td class=o>Ita quando pila <mark>a</mark> manu propellitur <mark>,volüt ä</mark> manu pilae qua¬</td><td class=s>94%</td></tr>
+<tr class=goed><td class=n>26</td><td>litatem imprimi <mark>aliquam, quæ</mark> pilæ motum producat <mark>etiâ</mark></td><td class=o>litatem imprimi <mark>aliquam,quae</mark> pilae motum producat <mark>etia</mark></td><td class=s>98%</td></tr>
+<tr class=redelijk><td class=n>27</td><td><mark>postquàm à</mark> manu pila separata est. <mark>Verùm enimverò</mark></td><td class=o><mark>postquam ä</mark> manu pila separata est.</td><td class=s>75%</td></tr>
+<tr class=goed><td class=n>28</td><td>de illa <mark>qualitate, quæ modò</mark> in manu <mark>modò</mark> sit in <mark>pila, ina-</mark></td><td class=o>de illa <mark>qualitate,quae modo</mark> in manu <mark>modo</mark> sit in <mark>pila,ina¬</mark></td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>29</td><td>nis <mark>duntaxàt</mark> superest sonus. Deinde <mark>quomodò è</mark> manu</td><td class=o>nis <mark>duntaxät</mark> fuperest sonus. Deinde <mark>quomodo e</mark> manu</td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>30</td><td>transire in pilam illa qualitas possit nemo hominum <mark>in-</mark></td><td class=o>transire in pilam illa qualitas possit nemo hominum</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>31</td><td>telligit.</td><td class=o>telligit <mark>.</mark></td><td class=s>100%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W08077_Wyss_Disputatio_physica_de_motu_quam_publicae_ac_placidae_syzetes_1667.pdf#page=6' target=_blank>scan 6</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=redelijk><td class=n>1</td><td><mark>VII.</mark></td><td class=o><mark>vir.</mark></td><td class=s>67%</td></tr>
+<tr class=goed><td class=n>2</td><td>Opinio <mark>quòd</mark> motus fit actio nititur consideratione</td><td class=o>Opinio <mark>quod</mark> motus sit actio nititur consideratione</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>3</td><td><mark>motûs,</mark> qui in corpore nostro contingit; Quando enim</td><td class=o><mark>motus ,</mark> qui in corpore nostro contingit <mark>;</mark> Quando enim</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>4</td><td><mark>membra</mark> nostra movemus, vel illorum ope alia cor-</td><td class=o>nostra movemus <mark>,</mark> vel illorum ope alia cor¬</td><td class=s>92%</td></tr>
+<tr class=redelijk><td class=n>5</td><td><mark>pora permovemus,</mark> conscij fimus <mark>conatûs</mark> qui in no-</td><td class=o><mark>,</mark> conscij fimus <mark>conatus</mark> qui in no¬</td><td class=s>76%</td></tr>
+<tr class=goed><td class=n>6</td><td>bis contingit; Cujusmodi conatum deinde in aliis quo-</td><td class=o>bis contingit <mark>;</mark> Cujusmodi conatum deinde in aliis quo¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>7</td><td>que rebus, quæ moventur, inesse fingimus; Nobis enim</td><td class=o>que rebus <mark>,</mark> quae moventur <mark>,</mark> inesse fingimus <mark>;</mark> Nobis enim</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>8</td><td>nihil est frequentius <mark>quàm nostrâ ulnâ</mark> rerum aliarum me-</td><td class=o>.nihil est frequentius <mark>quam nostra ulna</mark> rerum aliarum me¬</td><td class=s>94%</td></tr>
+<tr class=redelijk><td class=n>9</td><td><mark>tiri rationem, quod</mark> intra <mark>errorum</mark> fontes merito refertur.</td><td class=o>intra <mark>errorun ?</mark> fontes merito refertur <mark>.</mark></td><td class=s>78%</td></tr>
+<tr class=geen><td class=n>10</td><td>VIII.</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=goed><td class=n>11</td><td>Hujusmodi opinio <mark>verè</mark> est præjudicium, <mark>cùm nullâ</mark></td><td class=o>Hujusmodi opinio <mark>vere</mark> est praejudicium <mark>,cüm nullä</mark></td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>12</td><td>nitatur <mark>clarâ</mark> perceptione; <mark>Quanquàm</mark> enim motus mem-</td><td class=o>nitatur <mark>clara</mark> perceptione <mark>; Quanquam</mark> enim motus mem¬</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>13</td><td>brorum nostrorum actiones sint, <mark>quatenùs</mark> conatu nostro</td><td class=o>brorum nostrorum actiones sint, <mark>quatenus</mark> conatu nostro</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>14</td><td>fiunt; Inconsequens tamen est <mark>quòd</mark> motus aliorum cor-</td><td class=o>fiunt <mark>;</mark> Inconsequens tamen est <mark>quod</mark> motus aliorum cor¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>15</td><td>porum quoq; sint actiones; Conatus enim, <mark>quô</mark> mem-</td><td class=o>porum quoq <mark>;</mark> sint actiones <mark>;</mark> Conatus enim <mark>, quö</mark> mem¬</td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>16</td><td>bra nostra <mark>movemus, est</mark> ipsa volendi <mark>actio, cujus cõfcij su-</mark></td><td class=o>bra nostra <mark>movemus,est</mark> ipsa volendi <mark>actio,cujus colcij sii¬</mark></td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>17</td><td>mus quia velle est cogitare; Ut de Corporibus quibus-</td><td class=o>mus quia velle est cogitare <mark>;</mark> Ut de Corporibus quibus¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>18</td><td>vis, quæ moventur, eadem plane ratione, quomodo <mark>de</mark></td><td class=o>vis, quae moventur <mark>,</mark> eadem plane ratione <mark>,</mark> quomodo</td><td class=s>98%</td></tr>
+<tr class=redelijk><td class=n>19</td><td>Corpore <mark>nostro, philosophari non possimus quin in qui-</mark></td><td class=o>Corpore <mark>nostro,philosophari</mark></td><td class=s>71%</td></tr>
+<tr class=goed><td class=n>20</td><td>busvis corporibus motis mentem, quæ <mark>possit</mark> velle, ad-</td><td class=o>busvis corporibus motis mentem <mark>,</mark> quae <mark>postit</mark> velle <mark>,</mark> ad¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>21</td><td>mittere debeamus.</td><td class=o>mittere debeamus <mark>.</mark></td><td class=s>100%</td></tr>
+<tr><td class=n>22</td><td>IX.</td><td class=o></td><td class=s></td></tr>
+<tr class=redelijk><td class=n>23</td><td><mark>Sanè quidem virtutem</mark> movendi, quæ fit in ipso</td><td class=o>movendi <mark>,</mark> quae sit in ipso</td><td class=s>69%</td></tr>
+<tr class=goed><td class=n>24</td><td>mobili, admittere non <mark>possumus,</mark> quin mobile confun-</td><td class=o>mobili <mark>,</mark> admittere non <mark>postumus ,</mark> quin mobile confun¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>25</td><td>damus cum movente, &amp; corpus unam cum spiritu sub-</td><td class=o>damus cum movente <mark>,</mark> &amp; corpus unam cum spiritu sub¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>26</td><td>stantiam <mark>esse</mark> putemus; Hoc enim nomine spiritus <mark>à</mark> cor-</td><td class=o>stantiam <mark>este</mark> putemus <mark>;</mark> Hoc enim nomine spiritus <mark>ä</mark> cor¬</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>27</td><td>pore <mark>maximè</mark> differt, <mark>quòd</mark> spiritus ex fe actus &amp; imma-</td><td class=o>pore <mark>maxime</mark> differt <mark>, quod</mark> spiritus ex se actus &amp; imma¬</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>28</td><td>nentes &amp; transeuntes edere potest, corpus <mark>verò</mark> in gene-</td><td class=o>nentes &amp; transeuntes edere potest <mark>,</mark> corpus <mark>vero</mark> in gene¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>29</td><td>re agentis pura est potentia.</td><td class=o>re agentis pura est potentia <mark>.</mark></td><td class=s>100%</td></tr>
+<tr><td class=n>30</td><td>X.</td><td class=o></td><td class=s></td></tr>
+<tr class=goed><td class=n>31</td><td>Quæris <mark>ergò</mark> quæ fit movendi virtus? Respondeo</td><td class=o>Quaeris <mark>ergo</mark> quae sit movendi virtus <mark>?</mark> Respondeo <mark>*</mark></td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>32</td><td>ipse motus, ut motus omnis producatur <mark>motû,</mark> &amp; <mark>quicquid</mark></td><td class=o>ipse motus <mark>,</mark> ut motus omnis producatur <mark>motu ,</mark> &amp; <mark>quic -</mark></td><td class=s>93%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W08077_Wyss_Disputatio_physica_de_motu_quam_publicae_ac_placidae_syzetes_1667.pdf#page=7' target=_blank>scan 7</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=goed><td class=n>1</td><td>quid movetur, moveatur <mark>proximè</mark> ab eo quod jam <mark>in</mark></td><td class=o>quid movetur <mark>i</mark> moveatur <mark>pröxi«ie</mark> ab eo quod jam <mark>itt</mark></td><td class=s>88%</td></tr>
+<tr class=goed><td class=n>2</td><td>motu est; Ita <mark>lapis suo</mark> loco pelli <mark>à</mark> nulla causa potest ni-</td><td class=o>motu est <mark>*</mark> Ita <mark>sapis sud</mark> loco pelli <mark>a</mark> nulla causa potest ni¬</td><td class=s>93%</td></tr>
+<tr class=redelijk><td class=n>3</td><td><mark>si ea prius mota fuerit.</mark> Et <mark>sanè</mark> notio est menti inscul-</td><td class=o>Et <mark>sane</mark> notio est menti inscul¬</td><td class=s>70%</td></tr>
+<tr class=goed><td class=n>4</td><td>pta <mark>quòd corpus moveri</mark> non <mark>possit à</mark> corpore, <mark>nisi</mark> id <mark>priùs</mark></td><td class=o>pta <mark>quod corpusmoveri</mark> non <mark>possita</mark> corpore, <mark>nist</mark> id <mark>prius</mark></td><td class=s>91%</td></tr>
+<tr class=goed><td class=n>5</td><td>in motu fuerit; Id quod Philosophi diffiteri non <mark>audent;</mark></td><td class=o>in motu fuerit; Id quod Philosophi diffiteri non <mark>audenti</mark></td><td class=s>99%</td></tr>
+<tr class=goed><td class=n>6</td><td>Ut proinde mirandum sit <mark>quòd</mark> Philosophi qualitatem</td><td class=o>Ut proinde mirandum sit <mark>quod</mark> Philosophi qualitatem</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>7</td><td><mark>à</mark> movente corpori mobili imprimi volunt <mark>quoties corpus</mark></td><td class=o><mark>ä</mark> movente corpori mobili imprimi volunt <mark>quotiescorpus</mark></td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>8</td><td>pellit corpus; <mark>Cùm</mark> enim qualitatem illam <mark>à</mark> motu distin-</td><td class=o>pellit corpus <mark>r Cum</mark> enim qualitatem illam <mark>a</mark> motu distin¬</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>9</td><td><mark>guunt, necessè</mark> habent fateri <mark>quòd motus producere motū</mark></td><td class=o><mark>guunt,necefse</mark> habent fateri <mark>quod motusproducere metu</mark></td><td class=s>91%</td></tr>
+<tr class=goed><td class=n>10</td><td>non <mark>possit nisi interveniat</mark> id quod motus non est; Id quod</td><td class=o>non <mark>possitnisiinterveniat</mark> id quod motus non est; Id quod</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>11</td><td><mark>alienum est à ratione.</mark> Quid <mark>quòd</mark> vel <mark>visus probat quòd</mark></td><td class=o>Quid <mark>quod</mark> vel <mark>visusprobat quod</mark></td><td class=s>69%</td></tr>
+<tr class=goed><td class=n>12</td><td>motus de corpore transeat in corpus? Cur enim motui</td><td class=o>motus de corpore transeat in corpus5 Cur enim motui</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>13</td><td>lapidis, qui alterum <mark>suo loco</mark> pepulit, <mark>multùm</mark> detrahitur</td><td class=o>lapidis, qui alterum <mark>suoloco</mark> pepulit, <mark>multum</mark> detrahitur</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>14</td><td>nisi <mark>quòd</mark> ex eo aliquid <mark>motûs</mark> in alterum <mark>transijt? Cur</mark></td><td class=o>nisi <mark>quod</mark> ex eo aliquid <mark>motus</mark> in alterum <mark>transijtf</mark></td><td class=s>91%</td></tr>
+<tr class=goed><td class=n>15</td><td>motui pilæ nihil detrahitur quando impulsa fuerit in mu-</td><td class=o>motui pilae nihil detrahitur quando impulsa fuerit in mu¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>16</td><td>rum <mark>nisi</mark> quia motum suum muro <mark>cômunicare non</mark> valens</td><td class=o>rum <mark>nili</mark> quia motum suum muro <mark>cofnunicarenon</mark> valens</td><td class=s>92%</td></tr>
+<tr class=goed><td class=n>17</td><td><mark>eum</mark> retinuit? Ut pila in velum impulsa ideo non resi-</td><td class=o><mark>Cum</mark> retinuit <mark>?</mark> Ut pila in velum impulsa ideo non resi¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>18</td><td>liat, quia motum velo communicat.</td><td class=o>liat, .quia motum velo communicat <mark>.</mark></td><td class=s>100%</td></tr>
+<tr><td class=n>19</td><td>XI.</td><td class=o></td><td class=s></td></tr>
+<tr class=goed><td class=n>20</td><td><mark>Obducì</mark> potest pro virtute motrice <mark>à</mark> motu distin-</td><td class=o><mark>Obduci</mark> potest pro virtute motrice <mark>k</mark> motu distin¬</td><td class=s>95%</td></tr>
+<tr class=redelijk><td class=n>21</td><td><mark>guenda tale argumentum.</mark> Quod <mark>sensu percipitur</mark> in cor-</td><td class=o>Quod <mark>sensupercipitur</mark> in cor¬</td><td class=s>71%</td></tr>
+<tr class=goed><td class=n>22</td><td>poribus quiescentibus, <mark>id ab ipso</mark> motu differt. Atqui vir-</td><td class=o>poribus quiefcentibus <mark>. idabipfo</mark> motu differt. Atqui vir¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>23</td><td>tus <mark>motrix</mark> sensu percipitur in corporibus quiescentibus.</td><td class=o>tus <mark>mptttX</mark> sensu percipitur in corporibus quiescentibus.</td><td class=s>94%</td></tr>
+<tr class=goed><td class=n>24</td><td><mark>Ergò</mark> virtus motrix ab ipso differt motu. Assumptio pro-</td><td class=o><mark>Ergo</mark> virtus motrix ab ipso differt motu <mark>.</mark> Assumptio pro¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>25</td><td>batur <mark>exèmplo baculi,</mark> quem paribus <mark>viribus</mark> duo homines</td><td class=o>batur <mark>exemplobaculi,</mark> quem paribus <mark>yiribus</mark> duo homines</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>26</td><td><mark>huc illuc premunt.</mark> Uterq; enim homo <mark>vim motricem</mark> ba-</td><td class=o><mark>buc illucpremunt</mark> .Uterq <mark>;</mark> enim homo <mark>vimmotricem</mark> ba¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>27</td><td>culi, qui <mark>quiescit, sentit.</mark> Respond. Vis <mark>illa motrix</mark> distin-</td><td class=o>culi <mark>,</mark> qui <mark>quiescit,sentit.</mark> Respond. Vis <mark>illamotrix</mark> distin¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>28</td><td>guenda non est ab ipso motu, spiritus enim animales in</td><td class=o>guenda non est ab ipso motu <mark>,</mark> spiritus enim animales in</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>29</td><td>brachio utriusq; hominis sunt <mark>contrariò modò</mark> determi-</td><td class=o>brachio utriusq <mark>;</mark> hominis sunt <mark>contrariö mod6</mark> determi¬</td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>30</td><td>nati &amp; <mark>utrobiq;, æquè</mark> fortiter, ita ut sibi <mark>mutuò</mark> æq; for-</td><td class=o>nati &amp; <mark>utröbi !j , atque</mark> fortiter <mark>,</mark> ita ut sibi <mark>mutuo</mark> aeq; for¬</td><td class=s>89%</td></tr>
+<tr class=redelijk><td class=n>31</td><td><mark>siter resistant; Et</mark> hanc <mark>parem</mark> resistendi vim <mark>uterq;</mark> ho- <mark>mo sentit.</mark></td><td class=o><mark>titer resistanti Er</mark> hanc <mark>par&amp;m</mark> resistendi vim <mark>urerH;</mark> ho-</td><td class=s>82%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W08077_Wyss_Disputatio_physica_de_motu_quam_publicae_ac_placidae_syzetes_1667.pdf#page=8' target=_blank>scan 8</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=geen><td class=n>1</td><td>XII.</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=redelijk><td class=n>2</td><td><mark>Obduci porrò potest. Quæcunq;</mark> in orbem agun-</td><td class=o><mark>Quae,cunfy</mark> in orbem agun¬</td><td class=s>64%</td></tr>
+<tr class=goed><td class=n>3</td><td>tur ea <mark>continuò</mark> conantur pergere <mark>secundùm</mark> lineam re-</td><td class=o>tur ea <mark>continuo</mark> conantur pergere <mark>secundum</mark> lineam re-</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>4</td><td><mark>ctam, ut hoc Cartesius</mark> experimento fundæ, quæ circum-</td><td class=o><mark>ctam,ut hocCartcsiuS</mark> experimento fundae, quae circum¬</td><td class=s>98%</td></tr>
+<tr class=redelijk><td class=n>5</td><td>agit lapidem, satis <mark>clarè</mark> ostendit. <mark>Atqui ille conatus</mark></td><td class=o>agit lapidem <mark>,</mark> satis <mark>clare</mark> ostendit.</td><td class=s>76%</td></tr>
+<tr class=goed><td class=n>6</td><td>pergendi <mark>secundùm</mark> lineam rectam non est ipse motus,</td><td class=o>pergendi <mark>secundum</mark> lineam rectam non est ipse motus <mark>,</mark></td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>7</td><td><mark>cùm</mark> motus circularis excludat motum rectum ; <mark>Ergò</mark></td><td class=o><mark>cum</mark> motus circularis excludat motum rectum ;</td><td class=s>92%</td></tr>
+<tr class=goed><td class=n>8</td><td><mark>gò</mark> vis quædam motrix in lapide est, quem funda circum-</td><td class=o><mark>go</mark> vis quaedam motrix in lapide est, quem funda circum¬</td><td class=s>98%</td></tr>
+<tr class=redelijk><td class=n>9</td><td><mark>agit, â motu distinguenda.</mark> Resp. Causa cur quæ in cir-</td><td class=o>Resp;. Causa cur quae in cir¬</td><td class=s>67%</td></tr>
+<tr class=goed><td class=n>10</td><td>culum abripiuntur <mark>continuò</mark> conantur pergere secun-</td><td class=o>culum abripiuntur <mark>continuo</mark> conantur pergere secun¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>11</td><td><mark>dùm</mark> lineam rectam, non est vis <mark>vel qualitas quædam</mark> mo-</td><td class=o><mark>dum</mark> lineam rectam, non est vis <mark>velqualitasquaedam</mark> mo¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>12</td><td>trix, quæ in lapide resideat; Sed est vis legis naturæ, <mark>quâ</mark></td><td class=o>trix, quae in lapide resideat <mark>;</mark> Sed est vis legis naturae, <mark>qua</mark></td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>13</td><td>omnis motus ex seipso est rectus; <mark>Et notandum quòd</mark> le-</td><td class=o>omnis motus ex seipso est rectus <mark>; £tnotandum quod</mark> le¬</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>14</td><td>ges naturæ sint ipsa methodus, qua Deus conservat mun-</td><td class=o>ges naturae sint ipsa methodus <mark>,</mark> qua Deus conservat mun¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>15</td><td><mark>dum.</mark> Ut conatus in lapide pergendi <mark>secundùm</mark> lineam</td><td class=o>Ut conatus in lapide pergendi <mark>fecundöm</mark> lineam</td><td class=s>94%</td></tr>
+<tr class=goed><td class=n>16</td><td>rectam, qui in motu orbiculari est conspicuus, sit Dei</td><td class=o>rectam, qui in motu orbiculari est conspicuus <mark>,</mark> sit Dei</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>17</td><td>immediata operatio; Id quod probatur vel inde <mark>quia co-</mark></td><td class=o>immediata operatio <mark>;</mark> Id quod probatur vel inde <mark>quiaco¬</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>18</td><td>natus ille <mark>nullâ creatâ</mark> vi interimi potest, <mark>cùm</mark> conspi-</td><td class=o>natus ille <mark>nulla creata</mark> vi interimi potest <mark>, cum</mark> conspi¬</td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>19</td><td>cuus sit etiam in ipsis planetis.</td><td class=o>cuus sit etiam in ipsis planetis.</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>20</td><td>XIII.</td><td class=o>XIII <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>21</td><td>Instas <mark>denuò;</mark> Corpora, quæ <mark>gravant corpora</mark> quie-</td><td class=o>Instas <mark>denuo ;</mark> Corpora, quae <mark>gravantcorpora</mark> quie¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>22</td><td>scentia quibus incumbunt, vim habent motricem, quæ</td><td class=o>scentia quibus incumbunt <mark>,</mark> vim habent motricem <mark>,</mark> quae</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>23</td><td><mark>omninò â</mark> motu est <mark>distincta, cùm</mark> eo casu quiescant. Resp.</td><td class=o><mark>omnino a</mark> motu est <mark>distincta,cum</mark> eo casu quiescant. Resp.</td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>24</td><td>Corpora quiescentia, quæ corporibus quiescentibus im-</td><td class=o>Corpora quiescentia, quae corporibus quiescentibus im¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>25</td><td><mark>morantur, nullatenus</mark> ea gravant; Quia quieti quies non</td><td class=o><mark>morantur,nullatenus</mark> ea gravant <mark>;</mark> Quia quieti quies non</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>26</td><td><mark>est adversa:</mark> Ita quamlibet <mark>magna librorum</mark> moles men-</td><td class=o>Ita quamlibet <mark>magnalibrorum</mark> moles men¬</td><td class=s>87%</td></tr>
+<tr class=goed><td class=n>27</td><td>sam, cui incumbit, neutiquam <mark>gravat, corpus</mark> enim quie-</td><td class=o>sam, cui incumbit <mark>,</mark> neutiquam <mark>gravat,corpus</mark> enim quie¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>28</td><td>scens cum corpore quiescente, cui <mark>innititur, veluti</mark> unum</td><td class=o>scens cum corpore quiescente, cui <mark>innititur,vekiti</mark> unum</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>29</td><td>corpus esse censendum est; <mark>Partes autem</mark> unius corporis,</td><td class=o>corpus esse censendum est <mark>; Partesautem</mark> unius corporis,</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>30</td><td>exempli <mark>gratiâ</mark> montis, se <mark>mutuò</mark> non premunt. <mark>Et quan-</mark></td><td class=o>exempli <mark>gratia</mark> montis, se <mark>mutuo</mark> non premunt. <mark>Etquan - j\</mark></td><td class=s>94%</td></tr>
+<tr class=goed><td class=n>31</td><td><mark>quàm</mark> tanta librorum moles imponi mensæ <mark>possit ut</mark> men-</td><td class=o><mark>quam</mark> tanta librorum moles imponi mensae <mark>poifitut</mark> men¬</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>32</td><td>sæ tandem pedes <mark>confringantur, mensa</mark> tamen <mark>librorum</mark></td><td class=o>sae tandem pedes <mark>conscingantur,mcn(a</mark> tamen <mark>hbtorum</mark></td><td class=s>89%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W08077_Wyss_Disputatio_physica_de_motu_quam_publicae_ac_placidae_syzetes_1667.pdf#page=9' target=_blank>scan 9</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=goed><td class=n>1</td><td>mole gravata non fuit; Sed mensa cum librorum <mark>mole</mark></td><td class=o>mole gravata non suit <mark>;</mark> Sed mensa cum librorum</td><td class=s>95%</td></tr>
+<tr class=redelijk><td class=n>2</td><td><mark>conjunctim</mark> sumpta gravata fuit <mark>a materia coelesti, quae</mark></td><td class=o>sumpta gravata fuit <mark>ä&#x27;materia</mark></td><td class=s>67%</td></tr>
+<tr class=goed><td class=n>3</td><td>gravat motu, quo corpora obvia versus terram premit;</td><td class=o>gravat motu <mark>,</mark> quo corpora obvia versus terram premit <mark>»</mark></td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>4</td><td>Haec pressio eo est <mark>vehementior, quo plus corporum ma-</mark></td><td class=o>Haec pressio eo est <mark>vehementior,quö</mark></td><td class=s>78%</td></tr>
+<tr class=goed><td class=n>5</td><td>teria <mark>coelestis deorsum</mark> premere nititur; Ita vehementius</td><td class=o>teria <mark>coelestisdeorsum</mark> premere nititur <mark>;</mark> Ita vehementius</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>6</td><td>materia coelestis premit molem, quae ex mensa &amp; libro-</td><td class=o>materia coelestis premit molem <mark>,</mark> quae ex mensa &amp; libro¬</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>7</td><td><mark>rum mensae impositorum</mark> cumulo constat, quam men-</td><td class=o>cumulo constat <mark>,</mark> quam men¬</td><td class=s>67%</td></tr>
+<tr class=goed><td class=n>8</td><td>sam libris nudam; Hocq; inde est quod eo major ma-</td><td class=o>sam libris nudam <mark>;</mark> Hocq <mark>;</mark> inde est quod eo major ma¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>9</td><td>teriae coelestis copia in molem terrestrem impingit quo</td><td class=o>teriae coelestis copia in molem terrestrem impingit quo</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>10</td><td><mark>major ipsa moles est.</mark> Quamdiu vero materia <mark>coelestis</mark></td><td class=o>Quamdiu vero materia <mark>coelesti?</mark></td><td class=s>74%</td></tr>
+<tr class=goed><td class=n>11</td><td>corpora terrestria deorsum tantum premit nec ea <mark>deor-</mark></td><td class=o>corpora terrestria deorsum tantum premit nec ea <mark>deorr</mark></td><td class=s>99%</td></tr>
+<tr class=goed><td class=n>12</td><td>sum movere potest, id ex eo est quod materiae terrestris,</td><td class=o>sum movere potest <mark>,</mark> id ex eo est quod materiae terrestris <mark>,</mark></td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>13</td><td><mark>quae impetitur, vis</mark> resistendi major est quam sit vis in ma-</td><td class=o>resistendi major est quam sit vis in ma¬</td><td class=s>80%</td></tr>
+<tr class=goed><td class=n>14</td><td>teria coelesti ad premendum, ita ut inde materia coele-</td><td class=o>teria coelesti ad premendum <mark>,</mark> ita ut inde materia coele¬</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>15</td><td><mark>stis repellatur. Si vero contingat</mark> ut vis resistendi sit</td><td class=o>ut vis resistendi sit</td><td class=s>55%</td></tr>
+<tr class=goed><td class=n>16</td><td>minor quam vis in materia coelesti ad premendum, fit ut</td><td class=o>minor quam vis in materia coelesti ad premendum <mark>,</mark> fit ut</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>17</td><td>quod resistit cedere cogatur, ita mensa cum integra mo-</td><td class=o>quod resistit cedere cogatur <mark>,</mark> ita mensa cum integra mo¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>18</td><td><mark>le librorum</mark> deorsum ruit fractis mensae pedibus, quo-</td><td class=o>deorsum ruit fractis mensae pedibus <mark>,</mark> quo¬</td><td class=s>87%</td></tr>
+<tr class=goed><td class=n>19</td><td>niam moles materiae coelesti debilius resistebat quam ab</td><td class=o>niam moles materiae coelesti debilius resistebat quam ab</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>20</td><td><mark>ea premebatur; Quanquam</mark> enim terra substrata vim,</td><td class=o>enim terra substrata vim <mark>,</mark></td><td class=s>68%</td></tr>
+<tr class=goed><td class=n>21</td><td>quam mensa habet ad resistendum, juvet, tamen frange-</td><td class=o>quam mensa habet ad resistendum <mark>,</mark> juvet <mark>,</mark> tamen frange¬</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>22</td><td>bantur pedes, quia adjumentum <mark>non erat majus quam</mark></td><td class=o>bantur pedes <mark>,</mark> quia adjumentum</td><td class=s>76%</td></tr>
+<tr class=goed><td class=n>23</td><td>pedes recipere potuerint; Atqui in pedibus tanta vis ad</td><td class=o>pedes recipere potuerint <mark>;</mark> Atqui in pedibus tanta vis ad</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>24</td><td>resistendum colligi no potuit quanta fuit in pressione, qua</td><td class=o>resistendum colligi no potuit quanta fuit in pressione <mark>,</mark> qua</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>25</td><td>mensa cum superimposita librorum mole <mark>pressa fuit, pe-</mark></td><td class=o>mensa cum superimposita librorum mole <mark>presta fuit,pe¬</mark></td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>26</td><td>des enim resistebant sua <mark>quiete, quietis autem tantum</mark> in pe-</td><td class=o>des enim resistebant sua <mark>quiete,quietis autetantum</mark> in pe¬</td><td class=s>99%</td></tr>
+<tr class=goed><td class=n>27</td><td>dibus <mark>esse</mark> non potuit quantum motus est in ea <mark>materiae</mark></td><td class=o>dibus <mark>este</mark> non potuit quantum motus est in ea <mark>materine</mark></td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>28</td><td>coelestis <mark>copia, quae</mark> mensam cum superimposita mole pro</td><td class=o>coelestis <mark>copia,qus</mark> mensam cum superimposita mole pro</td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>29</td><td><mark>stravit.</mark> Ex quibus videre facile est quod vis gravitatis</td><td class=o>Ex quibus videre facile est quod vis gravitatis</td><td class=s>92%</td></tr>
+<tr class=goed><td class=n>30</td><td>non sit vis aliqua motrix distincta ab ipso motu.</td><td class=o>non sit vis aliqua motrix distincta ab ipso motu <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>31</td><td>XIV.</td><td class=o>XIV <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>32</td><td>Opinio, qua <mark>quiescentem</mark> a <mark>requiescente</mark> premi <mark>pu-</mark></td><td class=o>Opinio, qua <mark>qistescentem</mark> a <mark>te quiescente</mark> premi <mark>pn-</mark></td><td class=s>91%</td></tr>
+<tr class=goed><td class=n>33</td><td>tant,</td><td class=o>&#x27;tant,</td><td class=s>100%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W08077_Wyss_Disputatio_physica_de_motu_quam_publicae_ac_placidae_syzetes_1667.pdf#page=10' target=_blank>scan 10</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=goed><td class=n>1</td><td>tant, orta est ex eo <mark>quòd</mark> vim gravitatis onerum, <mark>quæ</mark></td><td class=o>tant <mark>,</mark> orta est ex eo <mark>quöd</mark> vim gravitatis onerum <mark>, qu3elhK~</mark></td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>2</td><td><mark>humeris</mark> nostris sunt imposita, sentire videmur, &amp; hume-</td><td class=o><mark>meris</mark> nostris sunt imposita <mark>,</mark> sentire videmur <mark>,</mark> &amp; hume¬</td><td class=s>98%</td></tr>
+<tr class=redelijk><td class=n>3</td><td><mark>ros ut rem quiescentem</mark> considerare assueti sumus. Ve-</td><td class=o>considerare assueti sumus. Ve¬</td><td class=s>72%</td></tr>
+<tr class=goed><td class=n>4</td><td><mark>rùm</mark> sciendum <mark>quòd</mark> corpus nostrum magis constet ex</td><td class=o><mark>rum</mark> sciendum <mark>quod</mark> corpus nostrum magis constet ex</td><td class=s>95%</td></tr>
+<tr class=redelijk><td class=n>5</td><td>fluida <mark>quàm</mark> ex materia stabili; <mark>Et si contingat ut hu-</mark></td><td class=o>fluida <mark>quam</mark> ex materia stabili <mark>;</mark></td><td class=s>72%</td></tr>
+<tr class=redelijk><td class=n>6</td><td><mark>meris nostris imponatur</mark> onus, materiæ fluidæ motus in-</td><td class=o>onus <mark>,</mark> materiae fluidae motus in¬</td><td class=s>71%</td></tr>
+<tr class=redelijk><td class=n>7</td><td><mark>de plurimùm</mark> mutatur, <mark>cùm</mark> non <mark>tantùm sanguis ex hu-</mark></td><td class=o>mutatur <mark>, cum</mark> non <mark>tantum</mark></td><td class=s>58%</td></tr>
+<tr class=goed><td class=n>8</td><td>meris exprimatur, <mark>qui deinde</mark> sanguinem reliquum <mark>in</mark></td><td class=o>meris exprimatur sanguinem reliquum</td><td class=s>85%</td></tr>
+<tr class=goed><td class=n>9</td><td>venis perturbat, sed etiam spiritus animales in musculos</td><td class=o>venis perturbat <mark>,</mark> sed etiam spiritus animales in musculos</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>10</td><td>humerorum <mark>magnâ copiâ</mark> affluunt ut pressioni materiæ</td><td class=o>humerorum <mark>magna copia</mark> affluunt ut pressioni ,materiae</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>11</td><td>cœlestis, <mark>quâ</mark> onus premitur, resistant contrarjo <mark>motu;</mark></td><td class=o>coelestis, <mark>qua</mark> onus premitur <mark>,</mark> resistant contrarjo</td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>12</td><td>Ut, quamdiu homo humeris onus <mark>fert, mutua</mark> fit oppu-</td><td class=o>Ut <mark>,</mark> quamdiu homo humeris onus <mark>fert,mutua</mark> sit oppu¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>13</td><td>gnatio inter motum materiæ cœlestis <mark>&amp;</mark> motum spiri-</td><td class=o>gnatio inter motum materiae coelestis <mark>8c</mark> motum spiri¬</td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>14</td><td>t_uum animalium; Ita ut vis gravitatis non fit quædam</td><td class=o>tuum animalium <mark>;</mark> Ita ut vis gravitatis non sit quaedam</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>15</td><td>qualitas motrix in ipso onere residens, sed est motus ipse.</td><td class=o>qualitas motrix in ipso onere residens <mark>,</mark> sed est motus ipse*</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>16</td><td>Deinde onus accessu suo nervos, musculos, venas, arte-</td><td class=o>Deinde onus accessu suo nervos <mark>,</mark> musculos <mark>,</mark> venas, arte¬</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>17</td><td><mark>rias, membranas</mark> in humeris mutat vel etiam <mark>è</mark> suo loco</td><td class=o>in humeris mutat vel <mark>.</mark> etiam <mark>e</mark> suo loco</td><td class=s>79%</td></tr>
+<tr class=goed><td class=n>18</td><td>movet, <mark>quæ mutatio, cùm</mark> corpori fit incommoda, sen-</td><td class=o>movet <mark>, quae,mutatio , cum</mark> corpori sit incommoda <mark>,</mark> sen¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>19</td><td>sum animæ molestum excitat; Et quamdiu hæc muta-</td><td class=o>sum animae molestum excitat <mark>;</mark> Et quamdiu haec muta¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>20</td><td>tio durat, durat similiter idem sensus, at hæc mutatio</td><td class=o>tio durat <mark>,</mark> durat similiter idem sensus <mark>,</mark> at haec mutatio</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>21</td><td>durat quamdiu onus non est sepositum; <mark>Unde fit</mark> ut onus</td><td class=o>durat quamdiu onus non est sepositum <mark>; ilnde fir</mark> ut onus</td><td class=s>94%</td></tr>
+<tr class=goed><td class=n>22</td><td>in sua mansione idem agere persuasi simus quod suo ac-</td><td class=o>in sua mansione idem agere persuasi simus quod suo ac¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>23</td><td>cessu egit, accessus autem erat motus; Hujusmodi <mark>verò</mark></td><td class=o>cessu egit <mark>,</mark> accessus autem erat motus <mark>;</mark> Hujusmodi</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>24</td><td>persuasio est falsa.</td><td class=o>persuasio est falsa.</td><td class=s>100%</td></tr>
+<tr><td class=n>25</td><td>XV.</td><td class=o></td><td class=s></td></tr>
+<tr class=goed><td class=n>26</td><td>Tandem opponis; Si ut in corpore motus fiat re-</td><td class=o>Tandem opponis <mark>;</mark> Si ut in corpore motus siat re¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>27</td><td>quiritur causa quæ motum <mark>producat; Ergò</mark> requiritur</td><td class=o>quiritur causa quae motum <mark>Ergo</mark> requiritur</td><td class=s>88%</td></tr>
+<tr class=redelijk><td class=n>28</td><td>etiam causa quæ motum continuet, <mark>qui in corpore es-</mark></td><td class=o>etiam causa quae motum continuet</td><td class=s>80%</td></tr>
+<tr class=goed><td class=n>29</td><td>se incepit; Motus enim fiendo perdurat. <mark>Resp. Primò.</mark></td><td class=o>se incepit <mark>;</mark> Motus enim fiendo perdurat</td><td class=s>88%</td></tr>
+<tr class=goed><td class=n>30</td><td>Requiritur <mark>omninò</mark> causa quæ motum in corpore quie-</td><td class=o>Requiritur <mark>omnino</mark> causa quae motum in corpore quie¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>31</td><td>scente producat, illa <mark>verò alia</mark> non est <mark>quàm</mark> corpus quod</td><td class=o>scente producat <mark>,</mark> illa <mark>vero aha</mark> non est <mark>quam</mark> corpus quod</td><td class=s>92%</td></tr>
+<tr class=goed><td class=n>32</td><td>alteri suum motum communicat. <mark>Secundò. Postquàm</mark></td><td class=o>alteri suum motum communicat <mark>. Secundo. Postquam</mark></td><td class=s>95%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W08077_Wyss_Disputatio_physica_de_motu_quam_publicae_ac_placidae_syzetes_1667.pdf#page=11' target=_blank>scan 11</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=goed><td class=n>1</td><td>in corpore motus esse <mark>incepit, deinceps</mark> causam dari, quae</td><td class=o>in corpore motus esse <mark>incepit,deincep $</mark> causam dari, quae</td><td class=s>99%</td></tr>
+<tr class=goed><td class=n>2</td><td>motum in corpore continuo producat, necessarium non</td><td class=o>motum in corpore continuo producat, necessarium non</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>3</td><td>est; Lex enim <mark>naturae</mark> est; <mark>Unaquaeq; res,</mark> quantum in se,</td><td class=o>est <mark>;</mark> Lex enim <mark>natura;</mark> est <mark>; Unaquccqjres,</mark> quantum in se,</td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>4</td><td>semper in eodem statu perseverat; Ut quod <mark>semel mo-</mark></td><td class=o>semper in eodem statu perseverat <mark>;</mark> Ut quod <mark>semelmo¬</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>5</td><td>vetur semper moveri pergat. Tertio. Quod de corporibus</td><td class=o>vetur semper moveri pergat <mark>.</mark> Tertio. Quod de corporibus</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>6</td><td>verum est <mark>quòd causâ</mark> non egeant ut perdurare possint</td><td class=o>verum est <mark>quod causa</mark> non egeant ut perdurare possint</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>7</td><td>in <mark>statu, in</mark> quo semel <mark>à</mark> suis causis sunt collocata; Idem</td><td class=o>in <mark>statu,in</mark> quo semel <mark>a</mark> suis causis sunt collocata <mark>;</mark> Idem</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>8</td><td>de <mark>motûs</mark> continuata generatione intelligi debet, quod</td><td class=o>de <mark>motus</mark> continuata generatione intelligi debet, quod</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>9</td><td>enim aliorum modorum corporis est <mark>perduratio,</mark> idem</td><td class=o>enim aliorum modorum corporis est <mark>perduratis ,</mark> idem</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>10</td><td>in motu est generationis continuatio. <mark>Quarto. Causa</mark></td><td class=o>in motu est generationis continuatio <mark>.</mark></td><td class=s>85%</td></tr>
+<tr class=goed><td class=n>11</td><td>requiritur <mark>quae</mark> motum producat quando motus in cor-</td><td class=o>requiritur <mark>qua;</mark> motum producat quando motus in cor¬</td><td class=s>99%</td></tr>
+<tr class=goed><td class=n>12</td><td>pore <mark>esse</mark> incipere debet, quia corpus <mark>è</mark> statu quietis est</td><td class=o>pore <mark>este</mark> incipere debet, quia corpus <mark>e</mark> statu quietis est</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>13</td><td>expellendum; <mark>Postquàm verò</mark> motus jam esse incepit,</td><td class=o>expellendum <mark>; Postquam vero</mark> motus jam esse incepit <mark>,</mark></td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>14</td><td>pristinus status corporis, qui expellendus sit, <mark>amplius lo-</mark></td><td class=o>pristinus status corporis, qui expellendus sit, <mark>ampliuslo¬</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>15</td><td>cum non habet; Ut sic <mark>motûs</mark> duramentum <mark>causâ</mark> non</td><td class=o>cum non habet <mark>;</mark> Ut sic <mark>motus</mark> duramentum <mark>causa</mark> non</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>16</td><td>egeat.</td><td class=o>egeat.</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>17</td><td>XVI.</td><td class=o>XVI <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>18</td><td><mark>Certè</mark> si in mobili vis aliqua lateret quae in eo mo-</td><td class=o><mark>Certe</mark> si in mobili vis aliqua lateret quae in eo mo¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>19</td><td>tum producat, eam procul dubio sentiremus in navigio</td><td class=o>tum producat <mark>,</mark> eam procul dubio sentiremus in navigio</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>20</td><td>sedentes, quippe motu cum navigio communi vehimur;</td><td class=o>sedentes, quippe motu cum navigio communi vehimur <mark>;</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>21</td><td>Atqui illam vim non sentimus, <mark>maximè</mark> quando æqua-</td><td class=o>Atqui illam vim non sentimus <mark>, maxime</mark> quando aequa¬</td><td class=s>98%</td></tr>
+<tr class=redelijk><td class=n>22</td><td>biliter navis provehitur. <mark>Quid quòd in navi etiam ce-</mark></td><td class=o>biliter navis provehitur <mark>.</mark></td><td class=s>68%</td></tr>
+<tr class=goed><td class=n>23</td><td><mark>lerrimè</mark> provecta <mark>ambulare adversus</mark> puppim absq; reni-</td><td class=o><mark>lerrime</mark> provecta <mark>ambutare adversüs</mark> puppim absq; reni¬</td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>24</td><td><mark>tentia</mark> possumus? At <mark>verò</mark> vis quae navim de loco in <mark>lo-</mark></td><td class=o><mark>tenda</mark> possumus <mark>i</mark> At <mark>vero</mark> vis quae navim de loco in <mark>fo¬</mark></td><td class=s>90%</td></tr>
+<tr class=goed><td class=n>25</td><td>cum propellit haud <mark>dubiè</mark> tanta est, ut si ea in nobis quo-</td><td class=o>cum propellit haud <mark>dubie</mark> tanta est <mark>,</mark> ut si ea in nobis quo¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>26</td><td>que <mark>ageret, contra</mark> eam absq; renisu agere non possemus.</td><td class=o>que <mark>ageret,contra</mark> eam absq; renisu agere non possemus,</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>27</td><td>XVII.</td><td class=o>XVII <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>28</td><td>Sed inquis; Motus est in movente; <mark>Ergò</mark> motus</td><td class=o>Sed inquis; Motus est in movente <mark>; Ergo</mark> motus</td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>29</td><td><mark>est actio.</mark> Probatur antecedens exemplo <mark>manûs, in</mark> qua,</td><td class=o>Probatur antecedens exemplo <mark>manus,in</mark> qua,</td><td class=s>87%</td></tr>
+<tr class=goed><td class=n>30</td><td><mark>dùm</mark> pennam <mark>movet, motus</mark> est; <mark>Imò</mark> nullum est movens</td><td class=o><mark>dum</mark> pennam <mark>movet,motus</mark> est <mark>; Imo</mark> nullum est movens</td><td class=s>95%</td></tr>
+<tr class=redelijk><td class=n>31</td><td><mark>in quo non sit motus.</mark> Respondeo. <mark>Primò,</mark> ad antece-</td><td class=o>Respondeo. <mark>Primo,</mark> ad antece¬</td><td class=s>70%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W08077_Wyss_Disputatio_physica_de_motu_quam_publicae_ac_placidae_syzetes_1667.pdf#page=12' target=_blank>scan 12</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=goed><td class=n>1</td><td>dens <mark>quòd</mark> motus fit in movente <mark>quolibet, non quà mo-</mark></td><td class=o>dens <mark>quod</mark> motus sit in movente <mark>quolibet/non</mark></td><td class=s>91%</td></tr>
+<tr class=redelijk><td class=n>2</td><td><mark>vens sed quà mobile.</mark> Hæ enim phrases <mark>probè</mark> sunt di-</td><td class=o>Hae enim phrases <mark>probe</mark> sunt di¬</td><td class=s>73%</td></tr>
+<tr class=goed><td class=n>3</td><td>stinguendæ; Habere <mark>motum, accipere motum, dare mo-</mark></td><td class=o>stinguendae <mark>}</mark> Habere <mark>motum,accipere</mark></td><td class=s>85%</td></tr>
+<tr class=goed><td class=n>4</td><td>tum; Moventis enim, <mark>quà</mark> movens, non est habere mo-</td><td class=o>tum <mark>;</mark> Moventis enim <mark>» qua</mark> movens <mark>,</mark> non est habere mo¬</td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>5</td><td><mark>tum, nec</mark> accipere <mark>motum, sed</mark> dare motum. Interim nul-</td><td class=o><mark>tum,nec</mark> accipere <mark>motum,sed</mark> dare motum <mark>.</mark> Interim nul¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>6</td><td>lum est movens quod motum non habeat, non <mark>quà</mark> mo-</td><td class=o>lum est movens quod motum non habeat <mark>,</mark> non <mark>qua</mark> mo¬</td><td class=s>97%</td></tr>
+<tr class=redelijk><td class=n>7</td><td><mark>vens, sed quà mobile est. Secundò.</mark> Negatur <mark>consequen-</mark></td><td class=o><mark>Secundo.</mark> Negatur <mark>conseque «,</mark></td><td class=s>66%</td></tr>
+<tr class=goed><td class=n>8</td><td>tia, quia actio non est in agente sed ab agente, ita actio</td><td class=o>tia, quia actio non est in agente sed ab agente <mark>,</mark> ita actio</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>9</td><td><mark>manûs</mark> scribentis non est ipse <mark>manûs motus, quia eò</mark> ma-</td><td class=o><mark>manus</mark> scribentis non est ipse <mark>manus motus,quia eo</mark> ma¬</td><td class=s>93%</td></tr>
+<tr class=redelijk><td class=n>10</td><td>nus non est movens sed est mobile; <mark>Sed motus pennæ</mark> est <mark>manûs</mark> scribentis actio, quatenus <mark>manus ejus esse</mark></td><td class=o>nus non est movens sed est mobile <mark>manus ejus este</mark> est <mark>manus</mark> scribentis actio <mark>,</mark> quatenus</td><td class=s>81%</td></tr>
+<tr class=goed><td class=n>11</td><td>datrix censetur.</td><td class=o>datrix censetur <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>12</td><td>XVIII.</td><td class=o>XVIII <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>13</td><td>Interim non nego quin motus certo sensu actio di-</td><td class=o>Interim non nego quin motus certo sensu actio di¬</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>14</td><td>ci possit, non quando interna <mark>motûs natura est expri-</mark></td><td class=o>ci possit <mark>,</mark> non quando interna</td><td class=s>72%</td></tr>
+<tr class=redelijk><td class=n>15</td><td><mark>menda,</mark> sed ex connotatione <mark>tantùm actio dici potest.</mark></td><td class=o><mark>,</mark> sed ex connotatione</td><td class=s>57%</td></tr>
+<tr class=afwijkend><td class=n>16</td><td><mark>Notandum enim quòd motus consíderari</mark> possit vel in</td><td class=o><mark>menda</mark> possit vel in</td><td class=s>54%</td></tr>
+<tr class=alleen><td class=n></td><td class=gap>ontbreekt in de transcriptie?</td><td class=o><mark>motus considerari</mark></td><td class=s>alleen OCR</td></tr>
+<tr class=redelijk><td class=n>17</td><td><mark>primordio</mark> vel in progressu. Primordium <mark>deinde motûs</mark></td><td class=o>vel in progressu <mark>.</mark> Primordium</td><td class=s>71%</td></tr>
+<tr class=goed><td class=n>18</td><td><mark>consideratur</mark> vel ex intima ratione vel ex connotatione</td><td class=o>vel ex intima ratione vel ex connotatione</td><td class=s>85%</td></tr>
+<tr class=goed><td class=n>19</td><td>datoris; Motus in progressu nulla ratione actio est. <mark>In</mark></td><td class=o>datoris <mark>i</mark> Motus in progressu nulla ratione actio est.</td><td class=s>97%</td></tr>
+<tr class=redelijk><td class=n>20</td><td><mark>primordio verò</mark> actio est non ex intima ratione <mark>sed ex</mark></td><td class=o><mark>vero</mark> actio est non ex intima ratione</td><td class=s>78%</td></tr>
+<tr class=goed><td class=n>21</td><td><mark>connotatione</mark> duntaxat motoris. Ita ut motus in suo ini-</td><td class=o>duntaxat motoris <mark>.</mark> Ita ut motus in suo ini¬</td><td class=s>85%</td></tr>
+<tr class=redelijk><td class=n>22</td><td><mark>tio consideratus</mark> actio fit denominatione <mark>externa; Et</mark></td><td class=o><mark>externa</mark> actio sit denominatione</td><td class=s>68%</td></tr>
+<tr class=redelijk><td class=n>23</td><td>omnis <mark>sanè</mark> actio est denominatio <mark>duntaxat externa, quia</mark></td><td class=o>omnis <mark>sane</mark> actio est denominatio <mark>nullam patitur</mark></td><td class=s>75%</td></tr>
+<tr class=redelijk><td class=n>24</td><td>qui ex non agente fit agens mutationem <mark>nullam patitur</mark></td><td class=o>qui ex non agente fit agens mutationem</td><td class=s>83%</td></tr>
+<tr class=goed><td class=n>25</td><td>&amp; ex non dante fit dans, <mark>ita</mark> quando lapis lapidem <mark>suo</mark> lo-</td><td class=o>&amp; ex non dante sit dans <mark>, ira</mark> quando lapis lapidem <mark>suö</mark> lo-</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>26</td><td><mark>co</mark> pepulit factus est ex non agente agens sed <mark>absq;</mark> sui</td><td class=o><mark>c6</mark> pepulit factus est ex non agente agens sed <mark>absqi</mark> fui</td><td class=s>98%</td></tr>
+<tr class=redelijk><td class=n>27</td><td><mark>mutatione; Quanquam</mark> enim in eo, qui pepulit, fiat</td><td class=o>enim in eo <mark>,</mark> qui pepulit <mark>,</mark> fiat</td><td class=s>72%</td></tr>
+<tr class=goed><td class=n>28</td><td><mark>motûs</mark> mutatio, ea mutatio in eo non <mark>quà</mark> agens sed <mark>quà</mark></td><td class=o><mark>motus</mark> mutatio <mark>,</mark> ea mutatio in eo non <mark>qua</mark> agens sed <mark>qua</mark></td><td class=s>93%</td></tr>
+<tr class=redelijk><td class=n>29</td><td><mark>patiens contigit.</mark> Et id in alterum agere dicitur, quod</td><td class=o>Et id in alterum agere dicitur <mark>,</mark> quod</td><td class=s>79%</td></tr>
+<tr class=redelijk><td class=n>30</td><td>in eo effectum quemcunq; producit; <mark>Cùm omnis actio</mark></td><td class=o>in eo effectum quemcunq <mark>;</mark> producit</td><td class=s>81%</td></tr>
+<tr class=goed><td class=n>31</td><td>physica unius in alterum fundetur in victoria &amp; <mark>excessu</mark></td><td class=o>physica unius in alterum Fundetur in victoria &amp; <mark>exceslb</mark></td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>32</td><td>agentis.</td><td class=o>agentis <mark>,</mark></td><td class=s>100%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W08077_Wyss_Disputatio_physica_de_motu_quam_publicae_ac_placidae_syzetes_1667.pdf#page=13' target=_blank>scan 13</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=goed><td class=n>1</td><td>XIX.</td><td class=o>xix.</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>2</td><td><mark>Quæris ergò</mark> quid motus sit? Respondeo. <mark>Si ejus</mark></td><td class=o><mark>Qimis ergo</mark> quid motus fit <mark>i</mark> Respondeo. <mark>§i eju§</mark></td><td class=s>85%</td></tr>
+<tr class=goed><td class=n>3</td><td>intimam naturam rufpari &amp; exprimere volumus modus</td><td class=o>intimam naturam ruspari &amp; exprimere volumus modus</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>4</td><td><mark>est, quemadmodum</mark> figura, <mark>magnitudo, quies</mark> &amp; situs mo-</td><td class=o><mark>est,quemadmodum</mark> figura, <mark>magnitudo,quies</mark> &amp; situs mo¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>5</td><td>di sunt: Quod ut intelligatur sciendum, <mark>quòd</mark> motus con-</td><td class=o>di sunt <mark>:</mark> Quod ut intelligatur sciendum <mark>, quod</mark> motus con¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>6</td><td>sideretur vel <mark>relatè</mark> ad alia vel <mark>absolutè &amp;</mark> in fe. <mark>Relatè</mark></td><td class=o>sideretur vel <mark>relate</mark> ad alia vel <mark>absolute&amp;</mark> in se.</td><td class=s>89%</td></tr>
+<tr class=goed><td class=n>7</td><td><mark>motus</mark> perpendi potest eum referendo <mark>vel ad Datorem, &amp;</mark></td><td class=o><mark>motu ;</mark> perpendi potest eum referendo <mark>veladDatorem ,8c</mark></td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>8</td><td>ita motus est actio; Vel ad Receptorem, ita motus est</td><td class=o>ita motus est actio <mark>;</mark> Vel ad Receptorem <mark>,</mark> ita motus est</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>9</td><td><mark>passio.</mark> Quando <mark>denique</mark> motus in fe &amp; <mark>absolutè</mark> confide-</td><td class=o>Quando <mark>deniq ;</mark> motus in se &amp; <mark>absolute</mark> conside¬</td><td class=s>88%</td></tr>
+<tr class=goed><td class=n>10</td><td>retur (quomodo considerari debet, quando genuinam</td><td class=o>retur <mark>(</mark> quomodo considerari debet <mark>,</mark> quando genuinam</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>11</td><td>ejus <mark>naturam intelligere</mark> volumus) tunc motus <mark>neque</mark> est</td><td class=o>ejus <mark>naturamAnteiligere</mark> volumus) <mark>*</mark> tunc motus <mark>neq ;</mark> est</td><td class=s>93%</td></tr>
+<tr class=redelijk><td class=n>12</td><td>actio <mark>neque</mark> passio sed modus tantum. <mark>Ita motus pennæ</mark></td><td class=o>actio <mark>neq;</mark> passio sed modus tantum <mark>.</mark></td><td class=s>78%</td></tr>
+<tr class=goed><td class=n>13</td><td>actio est fi referatur ad scribentem, qui motum pennæ</td><td class=o>actio est si referatur ad scribentem, <mark>-</mark> qui motum pennae</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>14</td><td><mark>dat;</mark> Passio deinde est idem motus fi referatur ad ipsam</td><td class=o>Passio deinde est idem motus si referatur ad ipsam</td><td class=s>97%</td></tr>
+<tr class=redelijk><td class=n>15</td><td>pennam <mark>quæ</mark> eum recipit. <mark>Quando verò motus pennæ</mark></td><td class=o>pennam <mark>qua:</mark> eum recipit.</td><td class=s>63%</td></tr>
+<tr class=goed><td class=n>16</td><td><mark>absolutè</mark> consideretur &amp; in fe, modus est <mark>qui facit</mark> ut pen-</td><td class=o><mark>absolute</mark> consideretur &amp; in se, modus est <mark>quifacit</mark> ut pen-</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>17</td><td>na certa ratione fe habeat; <mark>Quemadmodum figuræ</mark> pen-</td><td class=o>na certa ratione se habeat <mark>; Quemadmodumfigurae</mark> pen¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>18</td><td><mark>næ</mark> facit ut penna certa ratione fe habeat. <mark>Motus autem</mark></td><td class=o><mark>na:</mark> facit ut penna certa ratione se habeat. <mark>Motusautem&#x27;</mark></td><td class=s>99%</td></tr>
+<tr class=goed><td class=n>19</td><td>tunc <mark>absolutè</mark> &amp; in fe consideratur quando consideratur</td><td class=o>tunc <mark>absolute</mark> &amp; in fe consideratur quando consideratur;</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>20</td><td><mark>subjectivè,</mark> quomodo omnes modi, quando rite <mark>intelli-</mark></td><td class=o><mark>subjective,</mark> quomodo omnes modi, <mark>*</mark> quando rite <mark>inteHi*-</mark></td><td class=s>94%</td></tr>
+<tr class=goed><td class=n>21</td><td>gi debent, considerandi <mark>sunt.</mark></td><td class=o>gi debent <mark>,</mark> considerandi <mark>funr.</mark></td><td class=s>96%</td></tr>
+<tr><td class=n>22</td><td>XX.</td><td class=o></td><td class=s></td></tr>
+<tr class=goed><td class=n>23</td><td>Quemadmodum <mark>ergò</mark> de modis inquirere non <mark>li-</mark></td><td class=o>Quemadmodum <mark>ergo</mark> de modis inquirere non <mark>lin¬</mark></td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>24</td><td><mark>cet,</mark> quare <mark>perdurent postquàm</mark> inceperunt esse; Ita post-</td><td class=o><mark>eet,</mark> quare <mark>perdurentpostquam</mark> inceperunt esse <mark>;</mark> Ita post¬</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>25</td><td><mark>quàm</mark> motus in corpore esse <mark>incipit</mark> inquirendum non</td><td class=o><mark>quam</mark> motus in corpore esse <mark>incepit</mark> inquirendum non</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>26</td><td>est quare perduret; <mark>Unaquæque</mark> enim res, quantum in fe</td><td class=o>est quare perduret <mark>; Unaquaeq ;</mark> enim res, quantum in fe</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>27</td><td>est, semper in eodem statu perseverat. <mark>Potiùs inquiren-</mark></td><td class=o><mark>-</mark> est, semper in eodem statu perseverat. <mark>Potius inqpiren-</mark></td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>28</td><td><mark>dum</mark> est quare motus cesset <mark>postquàm</mark> esse incepit. Fru-</td><td class=o><mark>dhm</mark> est quare motus cesset <mark>postquam</mark> esse incepit. Fru¬</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>29</td><td><mark>strà profectò</mark> inquiritur cur culter <mark>figuram suam</mark> retineat</td><td class=o><mark>stra profecto</mark> inquiritur cur culter <mark>figuramsuam</mark> retineat</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>30</td><td>quam aliquando accepit, <mark>cùm potiùs</mark> inquirendum fit,</td><td class=o>quam aliquando accepit <mark>, cum potius</mark> inquirendum sit, <mark>.</mark></td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>31</td><td><mark>quæ</mark> causa <mark>amissæ</mark> figuræ, quando eam amisit? Ita <mark>quando</mark></td><td class=o><mark>qpL</mark> causa <mark>amisse</mark> figurae, quando eam amisit <mark>?</mark> Ita <mark>quan-</mark></td><td class=s>91%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W08077_Wyss_Disputatio_physica_de_motu_quam_publicae_ac_placidae_syzetes_1667.pdf#page=14' target=_blank>scan 14</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=goed><td class=n>1</td><td><mark>do lapis</mark> projectus moveri pergit etiam a movente <mark>sejun-</mark></td><td class=o><mark>äo Iapis</mark> projectus moveri pergit etiam a movente <mark>fejura.</mark></td><td class=s>92%</td></tr>
+<tr class=goed><td class=n>2</td><td>ctus, inquirendum non est quare moveri <mark>pergat? Po-</mark></td><td class=o>ctus <mark>,</mark> inquirendum <mark>Po¬</mark> non est quare moveri <mark>pergatf</mark></td><td class=s>94%</td></tr>
+<tr class=goed><td class=n>3</td><td>tius inquirendum <mark>quare moveri</mark> desinat postquam mo-</td><td class=o>tius inquirendum desinat postquam mo¬</td><td class=s>85%</td></tr>
+<tr class=redelijk><td class=n>4</td><td><mark>veri incepit?</mark> Ita in fumum abeunt omnia illa com-</td><td class=o>Ita in fumum <mark>;</mark> abeunt omnia illa com¬</td><td class=s>84%</td></tr>
+<tr class=goed><td class=n>5</td><td>menta circa <mark>intelligentias</mark> motrices orbium coelestium,</td><td class=o>menta circa <mark>intelligentes</mark> motrices orbium coelestium <mark>,</mark></td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>6</td><td><mark>formas</mark> substantiales quae gravitatis, levitatis &amp; aliorum</td><td class=o>substantiales quae gravitatis <mark>,</mark> levitatis &amp; aliorum</td><td class=s>94%</td></tr>
+<tr class=goed><td class=n>7</td><td>motuum sint productrices, vires itidem insitas aut im-</td><td class=o>motuum sint productrices <mark>,</mark> vires <mark>-</mark> itidem insitas aut im <mark>-</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>8</td><td><mark>pressas, a</mark> motu quas distinguunt.</td><td class=o><mark>presias, , ä</mark> motu quas distinguunt <mark>.</mark></td><td class=s>93%</td></tr>
+<tr class=redelijk><td class=n>9</td><td><mark>XXI.</mark></td><td class=o><mark>XXL</mark></td><td class=s>67%</td></tr>
+<tr class=goed><td class=n>10</td><td>Hactenus actionem, quam loco generis motui <mark>vulg-</mark></td><td class=o>Hactenus actionem <mark>,</mark> quam loco generis motui <mark>vuf-</mark></td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>11</td><td>aris definitio <mark>apponit, examinavimus.</mark> Sequitur consi-</td><td class=o>Aris definitio <mark>apponit,examinavimus</mark> Sequitur consi¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>12</td><td>deratio differentiae specificae <mark>motus, quam</mark> his verbis con-</td><td class=o>deratio differentiae specificae <mark>motus,quam</mark> his verbis con¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>13</td><td>stare volunt; <mark>Quâ</mark> corpus aliquod ex uno loco in <mark>alium</mark> mi-</td><td class=o>stare volunt <mark>; Qua</mark> corpus aliquod, ex uno loco in <mark>altum</mark> mi¬</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>14</td><td><mark>grat.</mark> Ubi sua ambiguitate vocabulum loci descriptio-</td><td class=o>Ubi sua ambiguitate vocabulum loci descriptio¬</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>15</td><td>nem motus ita ambiguam reddit, ut incertum saepius</td><td class=o>nem motus ita ambiguam reddit <mark>r</mark> ut incertum saepius</td><td class=s>99%</td></tr>
+<tr class=goed><td class=n>16</td><td>relinquatur utrum quid moveri an quiescere dicendum</td><td class=o>relinquatur utrum quid moveri an quiescere dicendum</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>17</td><td>sit; Hoc ut constet, notandum <mark>est, quòd</mark> loci nomen</td><td class=o>sit <mark>;</mark> Hoc ut constet <mark>,</mark> notandum loci nomen</td><td class=s>90%</td></tr>
+<tr class=goed><td class=n>18</td><td>nihil aliud designet <mark>quàm</mark> magnitudinem, figuram &amp; si-</td><td class=o>nihil aliud designet <mark>quam</mark> magnitudinem <mark>,</mark> figuram &amp; si¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>19</td><td>tum inter corpora alia; Qui <mark>situs ut</mark> determinetur, respi-</td><td class=o>tum inter corpora alia <mark>;</mark> Qui <mark>situsut</mark> determinetur <mark>,</mark> respi¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>20</td><td>cere nos oportet ad alia aliqua corpora quae considera-</td><td class=o>cere nos oportet ad alia aliqua corpora quae considera¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>21</td><td>mus veluti immota: <mark>Et prout ad</mark> diversa respicimus (uti</td><td class=o>mus veluti immota <mark>: Etproutad</mark> diversa respicimus <mark>(</mark> uti</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>22</td><td>solemus nunc <mark>haec</mark> nunc illa pro lubitu respicere) dicere</td><td class=o>solemus nunc <mark>hxc</mark> nunc illa pro lubitu respicere <mark>)</mark> dicere <mark>;</mark></td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>23</td><td>possumus unam eandemque rem eodem tempore <mark>lo-</mark></td><td class=o>possumus unam eandemque rem eodem tempore</td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>24</td><td>cum mutare &amp; non mutare seu moveri &amp; non moveri.</td><td class=o>cum mutare &amp; non mutare seu moveri &amp; non moveri <mark>«.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>25</td><td>Exempli gratia, qui sedet in navi, dum ea <mark>solvit e</mark> por-</td><td class=o>Exempli gratia <mark>,</mark> qui sedet in navi, dum ea <mark>solvite</mark> por¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>26</td><td>tu, putat quidem <mark>se moveri</mark> si respicit ad <mark>littora</mark> eaq; ut</td><td class=o>tu <mark>,</mark> putat quidem si respicit ad <mark>iittora</mark> eaq <mark>;</mark> ut</td><td class=s>88%</td></tr>
+<tr class=goed><td class=n>27</td><td>immota consideret, non autem si ad ipsam navim, inter</td><td class=o>immota consideret <mark>,</mark> non autem si ad ipsam navim <mark>,</mark> inter</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>28</td><td>cujus partes eundem retinet situm; Si contingat <mark>ut e-</mark></td><td class=o>cujus partes eundem retinet situm <mark>;</mark> Si contingat</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>29</td><td>tiam respiciens ad navigij latera se moveri <mark>putet, id</mark> fit vel</td><td class=o>tiam respiciens ad navigij latera se moveri <mark>putet,id</mark> fit vel</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>30</td><td>quia respectum, quem navis ad litora habet, in memo-</td><td class=o>quia respectum <mark>,</mark> quem navis ad litora habet <mark>,</mark> in memo¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>31</td><td>riam revocat, vel quia ita putare consuevit, omissa con-</td><td class=o>riam revocat <mark>,</mark> vel quia ita putare consuevit <mark>,</mark> omissa con <mark>-</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>32</td><td><mark>sideratione</mark> unde consuetudo ita putandi fuerit oborta.</td><td class=o><mark>fdsratione</mark> unde consuetudo ita putandi fuerit oborta <mark>«.</mark></td><td class=s>97%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W08077_Wyss_Disputatio_physica_de_motu_quam_publicae_ac_placidae_syzetes_1667.pdf#page=15' target=_blank>scan 15</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=goed><td class=n>1</td><td>XXII.</td><td class=o>XXII <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>2</td><td><mark>Postquàm</mark> vidimus <mark>quàm malè à</mark> Philosophis motus</td><td class=o><mark>Postquam</mark> vidimus <mark>quäm male a</mark> Philosophis motus</td><td class=s>90%</td></tr>
+<tr class=goed><td class=n>3</td><td>fuerit descriptus; <mark>Operæ pretium</mark> nunc est expendere ge-</td><td class=o>fuerit descriptus <mark>; Operaepretium</mark> nunc est expendere ge¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>4</td><td>nuinam <mark>motùs</mark> naturam, quam acu Cartefius tetigisse me-</td><td class=o>nuinam <mark>mot &amp;s</mark> naturam <mark>,</mark> quam acu Cartesius tetigisse me¬</td><td class=s>97%</td></tr>
+<tr class=redelijk><td class=n>5</td><td><mark>rito judicatur,</mark> definiendo motum <mark>quòd fit</mark> translatio <mark>unius</mark></td><td class=o><mark>,</mark> definiendo motum <mark>quodfit</mark> translatio <mark>unitu</mark></td><td class=s>80%</td></tr>
+<tr class=goed><td class=n>6</td><td>partis <mark>materiæ,</mark> sive unius corporis, ex vicinia eorum corpo-</td><td class=o>partis <mark>materia y</mark> five unius corporis <mark>,</mark> ex vicinia eorum corpo¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>7</td><td>rum, <mark>quæ</mark> illud <mark>immediatè</mark> contingunt &amp; tanquam quiescentia</td><td class=o>rum, <mark>qua</mark> illud <mark>immediate</mark> contingunt &amp; tanquam quiescentia</td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>8</td><td><mark>spectantur,</mark> in viciniam <mark>aliorum.</mark></td><td class=o><mark>fbettantur,</mark> in viciniam <mark>altorum.</mark></td><td class=s>89%</td></tr>
+<tr class=goed><td class=n>9</td><td>XXIII.</td><td class=o>XXIII <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>10</td><td>Ubi vox Translatio duo nos docet. <mark>Unum, quòd</mark></td><td class=o>Ubi vox Translatio duo nos docet <mark>.</mark></td><td class=s>87%</td></tr>
+<tr class=goed><td class=n>11</td><td>motus sit modus non <mark>verò substantia, quanquàm substan-</mark></td><td class=o>motus sit modus non <mark>vero substantia,quanquam</mark></td><td class=s>87%</td></tr>
+<tr class=goed><td class=n>12</td><td>tiæ conceptu motum <mark>hucusq;</mark> intelligere Philosophi vo-</td><td class=o>tiae conceptu motum <mark>hucusrp</mark> intelligere Philosophi vo¬</td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>13</td><td>luerint, eum seorsim <mark>à</mark> corpore comprehendere <mark>conan-</mark></td><td class=o>luerint <mark>,</mark> eum seorsim <mark>a</mark> corpore comprehendere</td><td class=s>91%</td></tr>
+<tr class=goed><td class=n>14</td><td>tes. Alterum, <mark>quòd</mark> motus non sit actio, quando transla-</td><td class=o>tes <mark>.</mark> Alterum <mark>, quod</mark> motus non sit actio <mark>,</mark> quando transla¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>15</td><td>tio in definitione memoratur cum <mark>actionis, quæ</mark> transfert,</td><td class=o>tio in definitione memoratur cum <mark>actionis,quae</mark> transfert <mark>,</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>16</td><td>omissione; Ut translatio non verbalem (quomodo sub-</td><td class=o>omissione <mark>;</mark> Ut translatio non verbalem <mark>(</mark> quomodo sub¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>17</td><td>stantiva, quæ in io desinunt, vel actionem vel passionem</td><td class=o>stantiva <mark>,</mark> quae in io desinunt <mark>,</mark> vel actionem vel passionem</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>18</td><td><mark>ferè</mark> denotant) sed nominalem <mark>significationem conti-</mark></td><td class=o><mark>fere</mark> denotant <mark>)</mark> sed nominalem</td><td class=s>68%</td></tr>
+<tr class=redelijk><td class=n>19</td><td><mark>neat; Ita eruditio</mark> die Gelehrtheit <mark>quanquàm</mark> in io defi-</td><td class=o>die Gelehrtheit <mark>quanquam</mark> in io desi¬</td><td class=s>77%</td></tr>
+<tr class=redelijk><td class=n>20</td><td><mark>nat, nominalem</mark> sensum tamen habet.</td><td class=o>sensum tamen habet <mark>.</mark></td><td class=s>73%</td></tr>
+<tr class=goed><td class=n>21</td><td>XXIV.</td><td class=o>XXIV <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>22</td><td>Deinde Cartefiana <mark>motùs</mark> descriptio <mark>nos</mark> docet <mark>quòd</mark></td><td class=o>Deinde Cartesiana <mark>motus</mark> descriptio <mark>rios</mark> docet <mark>quod</mark></td><td class=s>92%</td></tr>
+<tr class=redelijk><td class=n>23</td><td>motus sit corporis; <mark>Ut nihil moveatur nisi quod cor-</mark></td><td class=o>motus sit corporis</td><td class=s>55%</td></tr>
+<tr class=goed><td class=n>24</td><td><mark>pus est.</mark> Per unum corpus intelligimus id omne quod si-</td><td class=o>Per unum corpus intelligimus id omne quod si¬</td><td class=s>92%</td></tr>
+<tr class=goed><td class=n>25</td><td>mul transfertur, atq; ita velut indivisum spectatur; Ita</td><td class=o>mul transfertur <mark>,</mark> atq <mark>;</mark> ita velut indivisum spectatur <mark>;</mark> Ita</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>26</td><td>navigium, quod provehitur, <mark>&amp; merces in eo contentas</mark></td><td class=o>navigium <mark>,</mark> quod provehitur</td><td class=s>68%</td></tr>
+<tr class=goed><td class=n>27</td><td>uno simul transferri motu censendum est, quamdiu ve-</td><td class=o>uno simul transferri motu censendum est <mark>,</mark> quamdiu ve¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>28</td><td><mark>lut</mark> unum &amp; indivisum quid spectantur. <mark>Ut per</mark> unum cor-</td><td class=o><mark>llit</mark> unum &amp; indivisum quid spectantur <mark>. Utper</mark> unum cor¬</td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>29</td><td>pus non <mark>tantùm corpus, quod verè unū</mark> est, intelligamus,</td><td class=o>pus non <mark>tantum corpus,quod vere unü</mark> est <mark>,</mark> intelligamus <mark>,</mark></td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>30</td><td>sed etiam quod spectatur ut <mark>unum, quanquàm ex multis</mark></td><td class=o>sed etiam quod spectatur ut <mark>unum,quanquam</mark></td><td class=s>87%</td></tr>
+<tr class=redelijk><td class=n>31</td><td><mark>interim corporibus</mark> constet; Corpora autem, <mark>quæ</mark> plura</td><td class=o>constet <mark>;</mark> Corpora autem <mark>, qiias</mark> plura</td><td class=s>70%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W08077_Wyss_Disputatio_physica_de_motu_quam_publicae_ac_placidae_syzetes_1667.pdf#page=16' target=_blank>scan 16</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=goed><td class=n>1</td><td>sunt, spectari solent ut unum, quando spectantur ut <mark>unā</mark></td><td class=o>sunt, spectari solent ut unum, quando spectantur ut <mark>knL</mark></td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>2</td><td>communi superficie comprehensa.</td><td class=o>communi superficie comprehensa.</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>3</td><td>XXV.</td><td class=o>XXV <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>4</td><td>Additum praeterea in definitione <mark>est, translationem,</mark></td><td class=o>Additum praeterea in definitione <mark>est,translationem,</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>5</td><td>quae motus est, fieri ex vicinia corporum contiguorum,</td><td class=o>quae motus est, fieri ex vicinia corporum contiguorum <mark>,</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>6</td><td>in viciniam aliorum, non autem ex uno loco in alium;</td><td class=o><mark>.</mark> in viciniam aliorum <mark>,</mark> non autem ex uno loco in alium <mark>;</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>7</td><td>Quia, ut <mark>suprà</mark> notatum est, loci designatio varia est, ac</td><td class=o>Quia, ut <mark>supra</mark> notatum est, loci designatio varia est <mark>,</mark> ac</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>8</td><td>pendet <mark>à</mark> nostro arbitrio; Ita ut non <mark>tantùm</mark> incertum</td><td class=o>pendet <mark>a</mark> nostro arbitrio <mark>;</mark> Ita ut non <mark>tantum</mark> incertum</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>9</td><td><mark>saepius</mark> relinquatur, <mark>utrùm</mark> quid moveri an quiescere di-</td><td class=o><mark>sepiüs</mark> relinquatur, <mark>utrum</mark> quid moveri an quiescere di¬</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>10</td><td>cendum sit, sed etiam corpori eodem tempore plu-</td><td class=o>cendum sit <mark>,</mark> sed etiam corpori eodem tempore plu-</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>11</td><td>res proprij tribui motus <mark>possent. Cùm verò per mo-</mark></td><td class=o>res proprij tribui motus <mark>pollent.</mark></td><td class=s>76%</td></tr>
+<tr class=goed><td class=n>12</td><td>tum intelligimus eam translationem, quae fit ex vicinia</td><td class=o>tum intelligimus eam translationem <mark>,</mark> quae fit ex vicinia</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>13</td><td>corporum contiguorum, <mark>utraq;</mark> incommoditas vitatur,</td><td class=o>corporum contiguorum <mark>, utra&lt;p</mark> incommoditas vitatur,</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>14</td><td>quoniam una <mark>tantùm</mark> corpora eodem temporis momen-</td><td class=o>quoniam una <mark>tantum</mark> corpora eodem temporis momen¬</td><td class=s>98%</td></tr>
+<tr class=alleen><td class=n></td><td class=gap>ontbreekt in de transcriptie?</td><td class=o><mark>Certe illa tantum</mark></td><td class=s>alleen OCR</td></tr>
+<tr class=redelijk><td class=n>15</td><td>to uni corpori contigua <mark>esse</mark> possunt. <mark>Certè illa tantùm</mark></td><td class=o>to uni corpori contigua <mark>este</mark> possunt.</td><td class=s>78%</td></tr>
+<tr class=goed><td class=n>16</td><td>translatio motus est, quae moventis est actio; <mark>Atqui</mark></td><td class=o>translatio motus est <mark>,</mark> quae moventis est actio <mark>;</mark></td><td class=s>94%</td></tr>
+<tr class=goed><td class=n>17</td><td>translatio corporis ex vicinia corporum <mark>proximè</mark> ambien-</td><td class=o>translatio corporis ex vicinia corporum <mark>proxime</mark> ambien¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>18</td><td>tium, non <mark>verò</mark> translatio ex situ, quem corpus inter re-</td><td class=o>tium, non <mark>vero</mark> translatio ex situ <mark>,</mark> quem corpus inter re¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>19</td><td>motiora habet corpora <mark>est, actio</mark> moventis; <mark>Ergò.</mark> Pro-</td><td class=o>motiora habet corpora <mark>est,actio</mark> moventis <mark>. Ergo .</mark> Pro¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>20</td><td>batur assumptio quia actio elucet ex victoria, victoria ex</td><td class=o>batur assumptio quia actio elucet ex victoria, victoria ex</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>21</td><td>superata resistentia; At <mark>verò</mark> corpora, quae corpori mo-</td><td class=o>superata resistentia <mark>j</mark> At <mark>vero</mark> corpora, quae corpori mo¬</td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>22</td><td>vendo contigua sunt, motui resistunt, non <mark>verò</mark> quae re-</td><td class=o>vendo contigua sunt, motui resistunt, non <mark>vero</mark> quae re¬</td><td class=s>98%</td></tr>
+<tr class=redelijk><td class=n>23</td><td><mark>motiùs sunt. Ergò.</mark> Proinde non <mark>à</mark> nostro arbitrio desi-</td><td class=o><mark>Ergo.</mark> Proinde non <mark>ä</mark> nostro arbitrio desi¬</td><td class=s>82%</td></tr>
+<tr class=goed><td class=n>24</td><td>gnatio corporum pendet, quorum respectu corpus mo-</td><td class=o>gnatio corporum pendet <mark>,</mark> quorum respectu corpus mo¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>25</td><td>veri vel quiescere dicendum sit.</td><td class=o>veri vel quiescere dicendum sit.</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>26</td><td>XXVI.</td><td class=o>XXVI <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>27</td><td><mark>Deniq; motui</mark> addidit descriptio <mark>translationem, quae</mark></td><td class=o><mark>Deniepmotui</mark> addidit descriptio <mark>translationem,quae</mark></td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>28</td><td>fiat ex vicinia, non quorumlibet corporum contiguo-</td><td class=o>fiat ex vicinia <mark>,</mark> non quorumlibet corporum contiguo¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>29</td><td>rum, sed eorum <mark>duntaxat</mark> quae <mark>tanquàm</mark> quiescentia spe-</td><td class=o>rum <mark>,</mark> sed eorum <mark>duntaxät</mark> quae <mark>tanquäm</mark> quiescentia spe¬</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>30</td><td><mark>ctantur.</mark> Non requiritur ut reipsa quiescant, sed ut spe-</td><td class=o>Non requiritur ut reipsa quiescant, sed ut spe¬</td><td class=s>92%</td></tr>
+<tr class=goed><td class=n>31</td><td>ctentur veluti quiescentia; Navis enim ratione hominis</td><td class=o>ctentur veluti quiescentia; Navis enim ratione hominis</td><td class=s>100%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W08077_Wyss_Disputatio_physica_de_motu_quam_publicae_ac_placidae_syzetes_1667.pdf#page=17' target=_blank>scan 17</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=goed><td class=n>1</td><td><mark>in</mark> ea ambulantis <mark>consideratur</mark> ut quiescens, licet <mark>interim</mark></td><td class=o><mark>5n</mark> ea ambulantis <mark>consideratus</mark> ut quiescens, licet <mark>intefim</mark></td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>2</td><td>celerrime <mark>à</mark> vento pellatur.</td><td class=o>celerrime <mark>ä</mark> vento pellatur.</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>3</td><td>XXVII.</td><td class=o>XXVII <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>4</td><td><mark>Imò corpora, quæ</mark> in motu <mark>tanquàm</mark> quiescentia</td><td class=o><mark>» qüae</mark> in motu <mark>tanquam</mark> quiescentia</td><td class=s>79%</td></tr>
+<tr class=goed><td class=n>5</td><td>spectantur, <mark>nunquàm verè</mark> quiescunt, omnis enim trans-</td><td class=o>spectantur, <mark>nunquam vere</mark> quiescunt, omnis enim trans¬</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>6</td><td>latio, propter quam corpus moveri dicitur, est recipro-</td><td class=o>latio, propter quam corpus moveri dicitur <mark>,</mark> est recipro- <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>7</td><td>ca; <mark>Cùm</mark> intelligi non <mark>possit</mark> corpus A. B. transferri</td><td class=o>ca <mark>; Cum</mark> intelligi non <mark>poflit</mark> corpus A. B. transferri</td><td class=s>95%</td></tr>
+<tr class=redelijk><td class=n>8</td><td>ex vicinia corporis contigui <mark>C. D. quin simul intelli-</mark></td><td class=o>ex vicinia corporis contigui</td><td class=s>74%</td></tr>
+<tr class=redelijk><td class=n>9</td><td>gatur corpus C. D. transferri <mark>ex vicinia corporis A.</mark></td><td class=o>gatur corpus C <mark>.</mark> D. transferri</td><td class=s>72%</td></tr>
+<tr class=goed><td class=n>10</td><td>B. quid <mark>quòd</mark> eadem vis &amp; actio requiritur ex una par-</td><td class=o>B; quid <mark>quod</mark> eadem vis &amp; actio requiritur ex una par¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>11</td><td>te atq; ex <mark>altera?</mark> Exempli <mark>gratiâ,</mark> sunto duo homines,</td><td class=o>te atq <mark>;</mark> ex <mark>alterae*</mark> Exempli <mark>gratia ,</mark> sunto duo homines <mark>,</mark></td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>12</td><td>quorum unus pannum manu ita fortiter tenet ut unam</td><td class=o>quorum unus pannum manu ita fortiter tenet ut unam</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>13</td><td>retineat partem, alteram altero avellente; Ubi qui reti-</td><td class=o>retineat partem <mark>,</mark> alteram altero avellente <mark>;</mark> Ubi qui reti¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>14</td><td>nuit non minus virium adhibuit <mark>quàm</mark> qui avulsit. <mark>Ut</mark></td><td class=o>nuit non minus virium adhibuit <mark>quam</mark> qui avulsit.</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>15</td><td>si <mark>omninò</mark> propriam &amp; non ad aliud relatam naturam</td><td class=o>si <mark>omnino</mark> propriam &amp; non ad aliud relatam naturam</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>16</td><td>motui tribuere vellemus, <mark>cùm</mark> duorum corporum con-</td><td class=o>motui tribuere vellemus, <mark>cum</mark> duorum corporum con¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>17</td><td>tiguorum unum in unam, alterum in alteram partem</td><td class=o>tiguorum unum in unam <mark>,</mark> alterum in alteram partem</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>18</td><td>transfertur, sicq; utrumq; <mark>à</mark> se <mark>mutuò seperatur,</mark> tantun-</td><td class=o>transfertur <mark>,</mark> sicq <mark>;</mark> utrumq <mark>; a</mark> fe <mark>mutuo separatur,</mark> tantun-</td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>19</td><td>dem <mark>motûs</mark> in uno <mark>quàm</mark> in altero esse diceremus. Sed</td><td class=o>dem <mark>motus</mark> in uno <mark>quäm</mark> in altero esse diceremus. Sed</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>20</td><td>hoc <mark>à</mark> communi loquendi usu <mark>plurimùm</mark> abhorret; Un-</td><td class=o>hoc <mark>a</mark> communi loquendi usu <mark>plurimum</mark> abhorret <mark>;</mark> Un¬</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>21</td><td>de <mark>quanquàm</mark> translationem omnem reciprocam esse</td><td class=o>de <mark>quanquäm</mark> translationem omnem reciprocam esse</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>22</td><td>profiteamur, motum tamen appellari reciprocum nolu-</td><td class=o>profiteamur, motum tamen appellari reciprocum nolu¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>23</td><td>mus; Sed interim recordemur id omne quod reale est</td><td class=o>mus <mark>;</mark> Sed interim recordemur id omne quod reale est</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>24</td><td>ac positivum, propter quod moveri corpora dicuntur,</td><td class=o>ac positivum <mark>,</mark> propter quod moveri corpora dicuntur <mark>,</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>25</td><td>reperiri etiam in contiguis, <mark>quæ</mark> ut <mark>quiescentia spectantur.</mark></td><td class=o>reperiri etiam in contiguis, <mark>quX</mark> ut <mark>quiescentiaspectantur.</mark></td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>26</td><td>XXVIII.</td><td class=o>XXVIII <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>27</td><td>Obducis, sic retinetur <mark>&amp;</mark> error &amp; pravus loquendi</td><td class=o>Obducis <mark>,</mark> sic retinetur <mark>8c</mark> error &amp; pravus loquendi</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>28</td><td><mark>usus. Respondeo.</mark> Hic modus &amp; cogitandi &amp; loquen-</td><td class=o><mark>Kespondeo.</mark> Hic modus &amp; cogitandi &amp; loquen¬</td><td class=s>92%</td></tr>
+<tr class=goed><td class=n>29</td><td>di <mark>à</mark> tempore immemoriali in populis ita <mark>invaluit, ut</mark> qui</td><td class=o>di <mark>ä</mark> tempore immemoriali in populis ita <mark>invaluit,ut</mark> qui</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>30</td><td>usum emendare velit non <mark>tantùm</mark> incassum laboret, sed</td><td class=o>usum emendare velit non <mark>tantum</mark> incassum laboret <mark>,</mark> sed</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>31</td><td>etiam vocabulum motus repudiare &amp; de motu cogitare</td><td class=o>etiam vocabulum motus repudiare &amp; de motu cogitare</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>32</td><td>cessare debeat.</td><td class=o>cessare debeat.</td><td class=s>100%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W08077_Wyss_Disputatio_physica_de_motu_quam_publicae_ac_placidae_syzetes_1667.pdf#page=18' target=_blank>scan 18</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=goed><td class=n>1</td><td>XXIX.</td><td class=o>XXIX <mark>*</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>2</td><td>Qui fit ut in motu unum spectetur ut quiescens,</td><td class=o>Qui fit ut in motu unum spectetur ut quiescens,</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>3</td><td><mark>cùm</mark> id habeat propter quod corpus moveri dicitur?</td><td class=o><mark>cum</mark> id habeat propter quod corpus moveri dicitur <mark>?</mark></td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>4</td><td>Respondeo. <mark>Causæ</mark> sunt <mark>duæ;</mark> Una &amp; <mark>præcipua est, quia</mark></td><td class=o>Respondeo. <mark>Laus*</mark> sunt <mark>du* ;</mark> Una &amp; <mark>pr*cipuaest,quia</mark></td><td class=s>90%</td></tr>
+<tr class=goed><td class=n>5</td><td>motus intelligitur <mark>esse</mark> totius corporis; Atqui <mark>sæpè</mark> con-</td><td class=o>motus intelligitur <mark>elfe</mark> totius corporis <mark>;</mark> Atqui <mark>s*pe</mark> con¬</td><td class=s>94%</td></tr>
+<tr class=goed><td class=n>6</td><td>tingit, ut corpus transferatur ab aliquibus <mark>tantùm</mark> cor-</td><td class=o>tingit <mark>)</mark> ut corpus transferatur ab aliquibus <mark>tantum</mark> cor¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>7</td><td>poris contigui partibus; <mark>Quò</mark> casu corpus <mark>à</mark> cujus aliqui-</td><td class=o>poris contigui partibus <mark>; Quo</mark> casu corpus <mark>a</mark> cujus aliqui-</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>8</td><td>bus <mark>tantùm</mark> partibus aliud transfertur, spectatur ut quie-</td><td class=o>bus <mark>tantum</mark> partibus aliud transfertur, spectatur ut quie¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>9</td><td>scens, quoniam plures ejusmodi translationes sibi mu-</td><td class=o>scens <mark>)</mark> quoniam plures ejusmodi translationes sibi mu¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>10</td><td><mark>tuò</mark> contrariæ in ipso contingere possunt; Ne proin-</td><td class=o><mark>tuo</mark> contrariae in ipso contingere possunt <mark>;</mark> Ne proin¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>11</td><td>de unum &amp; idem corpus in adversas regiones eodem</td><td class=o>de unum &amp; idem corpus in adversas regiones eodem</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>12</td><td>tempore transferri dicendum <mark>fit, spectatur potiùs</mark> ut quie-</td><td class=o>tempore transferri dicendum <mark>sit,spectaturpotius</mark> ut quie¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>13</td><td><mark>scens.</mark> Verbi <mark>gratiâ</mark> si ego in terra versus Orientem</td><td class=o>Verbi <mark>gratia</mark> si ego in terra versus Orientem</td><td class=s>91%</td></tr>
+<tr class=goed><td class=n>14</td><td>ambulem, tu interim versus Occidentem iter facias, <mark>si-</mark></td><td class=o>ambulem <mark>,</mark> tu interim versus Occidentem iter facias,</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>15</td><td>quidem <mark>absolutè</mark> motus <mark>naturæ</mark> verba nostra <mark>congrstere</mark></td><td class=o>quidem <mark>absolute</mark> motus <mark>natur*</mark> verba nostra <mark>congrR^rc</mark></td><td class=s>89%</td></tr>
+<tr class=goed><td class=n>16</td><td>vellemus, terra simul versus Occidentem &amp; Orientem</td><td class=o>vellemus, terra simul versus Occidentem &amp; Orientem</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>17</td><td><mark>ferri dicenda foret, quæ</mark> nimis intricata &amp; sibiipsi re-</td><td class=o><mark>» qu*</mark> nimis intricata &amp; sibiipsi re¬</td><td class=s>75%</td></tr>
+<tr class=goed><td class=n>18</td><td>pugnans loquendi ratio esset.</td><td class=o>pugnans loquendi ratio esset.</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>19</td><td>XXX.</td><td class=o>XXX.</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>20</td><td>Altera causa est, <mark>quòd</mark> attenditur situs immutatus,</td><td class=o>Altera causa est, <mark>quod</mark> attenditur situs immutatus,</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>21</td><td>quem <mark>corpus, quod</mark> ut quiescens <mark>spectatur inter</mark> remotio-</td><td class=o>quem <mark>corpus,quod</mark> ut quiescens <mark>spectaturinter</mark> remotio¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>22</td><td>ra corpora habet. Ita <mark>quando nubem</mark> venti circumquaq;</td><td class=o>ra corpora habet. Ita <mark>quando)nubem</mark> venti circumquaq <mark>;</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>23</td><td>fricarent, ut quantum translationis in ventis tantundem</td><td class=o>fricarent <mark>,</mark> ut quantum translationis in ventis tantundem</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>24</td><td>esset in nube; Nubes tamen spectaretur <mark>à</mark> nobis ut quie-</td><td class=o>esset in nube <mark>;</mark> Nubes tamen spectaretur <mark>a</mark> nobis ut quie¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>25</td><td>scens, quia eundem situm inter corpora remotiora ab</td><td class=o>scens <mark>,</mark> quia eundem situm inter corpora remotiora ab</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>26</td><td>ea retineri observamus.</td><td class=o>ea retineri observamus.</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>27</td><td>XXXI.</td><td class=o>XXXI <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>28</td><td>Et hæc est genuina <mark>motùs</mark> descriptio, <mark>quæ priùs</mark> di-</td><td class=o>Et haec est genuina <mark>motus</mark> descriptio, <mark>quaeprius</mark> di¬</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>29</td><td>ligenter est meditanda quam censenda; Difficilis enim</td><td class=o>ligenter est meditanda quam censenda <mark>;</mark> Difficilis enim</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>30</td><td>est &amp; inventu &amp; intellectu; <mark>Diligenti tamen medita-</mark></td><td class=o>est &amp; inventu &amp; intellectu <mark>;</mark></td><td class=s>71%</td></tr>
+<tr class=redelijk><td class=n>31</td><td><mark>tioni difficultas cedit.</mark> Difficultatem auxerunt <mark>Philoso-</mark></td><td class=o>Difficultatem auxerunt <mark>Philofq-</mark></td><td class=s>70%</td></tr>
+<tr class=goed><td class=n>32</td><td>phi ea in motu comminiscendo, <mark>quæ</mark> ad motum neuti-</td><td class=o>phi ea in motu comminiscendo <mark>, qu*</mark> ad motum neuti-</td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>33</td><td>quam</td><td class=o>quam</td><td class=s>100%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W08077_Wyss_Disputatio_physica_de_motu_quam_publicae_ac_placidae_syzetes_1667.pdf#page=19' target=_blank>scan 19</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=redelijk><td class=n>1</td><td><mark>quàm</mark> pertinent, exempli <mark>gratiâ</mark> motum <mark>ideâ substantiæ</mark></td><td class=o><mark>quam</mark> pertinent <mark>,</mark> exempli <mark>gratia</mark> motum</td><td class=s>75%</td></tr>
+<tr class=redelijk><td class=n>2</td><td><mark>comprehendere</mark> voluerunt <mark>quanquàm</mark> motus non fit sub-</td><td class=o>voluerunt <mark>quanquam</mark> motus non sit sub.</td><td class=s>80%</td></tr>
+<tr class=goed><td class=n>3</td><td><mark>stantia</mark> sed modus. Insuper motum discerpebant in va-</td><td class=o><mark>liantia</mark> sed modus <mark>.</mark> Insuper motum discerpebant in va¬</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>4</td><td>ria genera, <mark>cùm</mark> non est nisi unus. Deinde motum et-</td><td class=o>ria genera <mark>, cüm</mark> non est nisi unus <mark>.</mark> Deinde motum et¬</td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>5</td><td><mark>iàm</mark> tribuebant spiritibus, qui corpora sibi contigua non</td><td class=o><mark>iam</mark> tribuebant spiritibus <mark>,</mark> qui corpora sibi contigua non</td><td class=s>98%</td></tr>
+<tr class=redelijk><td class=n>6</td><td>habent, ex quorum <mark>vicinia transferri</mark> possint. <mark>Etiam</mark></td><td class=o>habent <mark>,</mark> ex quorum <mark>Etiam</mark> possint <mark>. motum</mark></td><td class=s>68%</td></tr>
+<tr class=redelijk><td class=n>7</td><td><mark>motum</mark> localem putabant <mark>esse actionem cùm tantùm</mark></td><td class=o>localem putabant <mark>cum tantum</mark></td><td class=s>68%</td></tr>
+<tr class=goed><td class=n>8</td><td>est modus. Deniq; rei difficultatem non <mark>parùm</mark> auxit</td><td class=o>est modus <mark>.</mark> Deniq <mark>;</mark> rei difficultatem non <mark>parum</mark> auxit</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>9</td><td>duplex error, unus, <mark>quò</mark> extensio spatij, quam corpora</td><td class=o>duplex error <mark>,</mark> unus <mark>, qu^</mark> extensio spatij <mark>,</mark> quam corpora</td><td class=s>99%</td></tr>
+<tr class=goed><td class=n>10</td><td>suo motu percurrunt, ab extensione corporum <mark>internè</mark></td><td class=o>suo motu percurrunt <mark>,</mark> ab extensione corporum <mark>interne</mark></td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>11</td><td>distincta <mark>esse</mark> censetur. <mark>Alter,quò</mark> in motu corpora con-</td><td class=o>distincta <mark>este</mark> censetur <mark>. Alter,qu6</mark> in motu corpora con¬</td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>12</td><td>tigua veluti quiescentia sunt spectanda.</td><td class=o>tigua veluti quiescentia sunt spectanda <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>13</td><td>XXXII.</td><td class=o>XXXII <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>14</td><td>Motus distingui potest in proprium <mark>&amp; comunem;</mark></td><td class=o>Motus distingui potest in proprium <mark>Sc comuncm s</mark></td><td class=s>91%</td></tr>
+<tr class=goed><td class=n>15</td><td>Ille est quem hactenus enucleavimus; Hic <mark>verò est, qui</mark></td><td class=o>Ille est quem hactenus enucleavimus <mark>;</mark> Hic <mark>vero est,qui</mark></td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>16</td><td>corpori <mark>cõvenit, quatenùs pars est</mark> totius alicujus corporis</td><td class=o>corpori <mark>covenit , quatentis par &amp;est</mark> totius alicujus corporis</td><td class=s>92%</td></tr>
+<tr class=goed><td class=n>17</td><td>quod movetur, ejusq; motum participat. E. G. Si quis</td><td class=o>quod movetur <mark>,</mark> ejusq <mark>;</mark> motum participat <mark>.</mark> E. G, Si quis</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>18</td><td>ambulans in navi gestat horologium in pera, ejus horolo-</td><td class=o>ambulans in navi gestat horologium in pera <mark>,</mark> ejus horolo <mark>-</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>19</td><td>gij rotulæ motu moventur proprio, quo horas indicant:</td><td class=o>gij rotulae motu moventur proprio <mark>,</mark> quo horas indicant <mark>:</mark></td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>20</td><td>Sed participant <mark>etiam alium, quatenùs adjunctæ</mark> homini</td><td class=o>Sed participant <mark>adjuncta ?</mark> homini</td><td class=s>75%</td></tr>
+<tr class=goed><td class=n>21</td><td>ambulanti unum cum illo corpus conficere censentur.</td><td class=o>ambulanti unum cum illo corpus consicere censentur <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>22</td><td>XXXIII.</td><td class=o>XXXIII</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>23</td><td>Bene motum distingui proprium <mark>à</mark> comuni <mark>patet ex</mark></td><td class=o>Bene motum distingui proprium <mark>a</mark> comuni <mark>patete »</mark></td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>24</td><td>exemplo hominis qui scribit in navi <mark>provectâ.</mark> E. G. li-</td><td class=o>exemplo hominis qui scribit in navi <mark>provecta .</mark> E. G. li-</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>25</td><td>teram O. <mark>Dùm</mark> enim <mark>homo scribit</mark> literam O. navis pro-</td><td class=o>teram O. <mark>Dtim</mark> enim <mark>homoscribit</mark> literam O. navis pro¬</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>26</td><td>gredi potestper duos aut tres <mark>passus;</mark> Ut nisi agitatio Cala-</td><td class=o>gredi potestper duos aut tres <mark>pastus ;</mark> Ut nisi agitatio Cala <mark>-</mark></td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>27</td><td>mi alius <mark>esset motus quàm</mark> Navigij, litera O. deberet duo-</td><td class=o>mi alius <mark>essetmorus quam</mark> Navigij <mark>,</mark> litera O. deberet duo¬</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>28</td><td>rum vel trium <mark>passuum esse</mark> magnitudine.</td><td class=o>rum vel trium <mark>pastuum este</mark> magnitudine <mark>.</mark></td><td class=s>94%</td></tr>
+<tr class=goed><td class=n>29</td><td>XXXIV.</td><td class=o>XXXIV</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>30</td><td>Nec repugnantia <mark>est,quandò</mark> plures eidem corpori</td><td class=o>Nec repugnantia <mark>est,quando</mark> plures eidem corpori</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>31</td><td>motus tribui <mark>posse</mark> affirmamus; <mark>Cùm</mark> proprium non ex-</td><td class=o>motus tribui <mark>poste</mark> affirmamus <mark>; Cüm</mark> proprium non ex¬</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>32</td><td>cludat commune, nec commune excludat proprium.</td><td class=o>cludat commune <mark>,</mark> nec commune excludat proprium <mark>.</mark></td><td class=s>100%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W08077_Wyss_Disputatio_physica_de_motu_quam_publicae_ac_placidae_syzetes_1667.pdf#page=20' target=_blank>scan 20</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=goed><td class=n>1</td><td>XXXV.</td><td class=o>XXXV <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>2</td><td><mark>Quanquàm</mark> uni corpori non possit tribui nisi unus</td><td class=o>uni corpori non possit tribui nisi unus</td><td class=s>89%</td></tr>
+<tr class=goed><td class=n>3</td><td>proprius motus, communes tamen ei convenire eodem</td><td class=o>proprius motus <mark>,</mark> communes tamen ei convenire eodem</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>4</td><td>tempore possunt plurimi. Ita <mark>rotulæ horologij, quod in pe-</mark></td><td class=o>tempore possunt plurimi .Ita <mark>rotulas horoIogij,quod</mark></td><td class=s>91%</td></tr>
+<tr class=redelijk><td class=n>5</td><td><mark>ră gestat homo</mark> in navi ambulans, moventur motu ho-</td><td class=o>in navi ambulans <mark>?</mark> moventur motu ho¬</td><td class=s>82%</td></tr>
+<tr class=goed><td class=n>6</td><td>minis, <mark>quatenùs</mark> homini ambulanti <mark>adjunctæ</mark> unum cum</td><td class=o>minis <mark>, quatenus</mark> homini ambulanti <mark>adjunctas</mark> unum cum</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>7</td><td>eo corpus <mark>cõponunt;</mark> Moventur rotulæ etiam motu na-</td><td class=o>eo corpus <mark>coponunt ;</mark> Moventur rotulae etiam motu na¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>8</td><td>vigij in mari fluctuantis <mark>quatenùs</mark> adjunctæ <mark>sunt navigio;</mark></td><td class=o>vigij in mari fluctuantis <mark>quatenus</mark> adjunctae <mark>funt&#x27;navigioj</mark></td><td class=s>97%</td></tr>
+<tr class=redelijk><td class=n>9</td><td>Insuper movetur motu <mark>maris quatenùs adjunctæ sunt ma-</mark></td><td class=o>Insuper movetur motu <mark>marisquatenus</mark></td><td class=s>78%</td></tr>
+<tr class=goed><td class=n>10</td><td>ri; moventur <mark>deindè</mark> motu <mark>Terræ, quatenùs</mark> adjunctæ sunt</td><td class=o>ri <mark>;</mark> moventur <mark>deinde</mark> motu <mark>Terrae,quatenus</mark> adjunctae sunt</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>11</td><td>Terræ, siquidem tota Terra moveatur; Moventur deniq;</td><td class=o>Terrae, siquidem tota Terra moveatur <mark>;</mark> Moventur deniq <mark>;</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>12</td><td>motu vorticis <mark>Terræ, quatenùs</mark> ei <mark>quoq;</mark> adjunctæ sunt, &amp;c.</td><td class=o>motu vorticis <mark>Terrae,quatenus</mark> ei <mark>quoqj</mark> adjunctae sunt, &amp;c.</td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>13</td><td>COROLLARIA</td><td class=o>COROLLARIA</td><td class=s>100%</td></tr>
+<tr><td class=n>14</td><td>I.</td><td class=o></td><td class=s></td></tr>
+<tr class=goed><td class=n>15</td><td><mark>Philosophia, quæ Cartesiana non est,</mark> ne unam de</td><td class=o><mark>*Thilosophia, qua ( artefiana nonest,</mark> ne unam de</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>16</td><td><mark>unâ</mark> re <mark>demonstrationem facere</mark> potest.</td><td class=o><mark>una</mark> re <mark>demonflrationemjacere</mark> potest.</td><td class=s>91%</td></tr>
+<tr><td class=n>17</td><td>II.</td><td class=o></td><td class=s></td></tr>
+<tr class=goed><td class=n>18</td><td><mark>Absque cognitione motus</mark> nulla est <mark>naturæ scientia.</mark></td><td class=o><mark>nAbstj cognitionemotus</mark> nulla est <mark>natum fiietia .</mark></td><td class=s>85%</td></tr>
+<tr class=geen><td class=n>19</td><td>III.</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=goed><td class=n>20</td><td><mark>Ante Cartesium scivit</mark> nemo quid <mark>esset</mark> motus.</td><td class=o><mark>eAnte Cartefiumfiivit</mark> nemo quid <mark>ejset</mark> motus.</td><td class=s>93%</td></tr>
+<tr><td class=n>21</td><td>IV.</td><td class=o></td><td class=s></td></tr>
+<tr class=redelijk><td class=n>22</td><td><mark>Pulvisculus</mark> in <mark>aëre</mark> volans gravior <mark>est totâ</mark></td><td class=o>in <mark>aere</mark> volans gravior</td><td class=s>64%</td></tr>
+<tr class=redelijk><td class=n>23</td><td><mark>Terrâ.</mark></td><td class=o><mark>Terra .</mark></td><td class=s>80%</td></tr>
+<tr><td class=n>24</td><td>V.</td><td class=o></td><td class=s></td></tr>
+<tr class=goed><td class=n>25</td><td>Si homo unum pedem extra Terram firmiter</td><td class=o>Si homo unum pedem extra Terram firmiter</td><td class=s>100%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W08077_Wyss_Disputatio_physica_de_motu_quam_publicae_ac_placidae_syzetes_1667.pdf#page=21' target=_blank>scan 21</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=goed><td class=n>1</td><td>collocare <mark>posset,</mark> pede altero Terram suo</td><td class=o>collocare <mark>pojjet3</mark> pede altero Terram suo</td><td class=s>94%</td></tr>
+<tr class=goed><td class=n>2</td><td><mark>dimovere</mark> loco <mark>posset.</mark></td><td class=o><mark>movere</mark> loco <mark>pojfet.</mark></td><td class=s>88%</td></tr>
+<tr><td class=n>3</td><td>VI.</td><td class=o></td><td class=s></td></tr>
+<tr class=goed><td class=n>4</td><td>Rei quiescenti aque <mark>est</mark> vis agendi, ac rei</td><td class=o>Rei quiefcenti aque <mark>elf</mark> vis agendi <mark>,</mark> ac rei</td><td class=s>97%</td></tr>
+<tr class=redelijk><td class=n>5</td><td><mark>moventi.</mark></td><td class=o><mark>venti .</mark></td><td class=s>83%</td></tr>
+<tr class=goed><td class=n>6</td><td>VII.</td><td class=o>VII <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>7</td><td><mark>Hodie tantundem est</mark> in mundo motus ac</td><td class=o><mark>eff</mark> in mundo motus ac</td><td class=s>67%</td></tr>
+<tr class=redelijk><td class=n>8</td><td><mark>fuit</mark> ab initio.</td><td class=o>ab initio.</td><td class=s>80%</td></tr>
+<tr class=geen><td class=n>9</td><td>[ornamental fleuron rule]</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=redelijk><td class=n>10</td><td><mark>Ad</mark> Ornatissimum <mark>&amp; Doctissimum</mark></td><td class=o><mark>cAd</mark> Ornatißimum <mark>G</mark></td><td class=s>65%</td></tr>
+<tr class=redelijk><td class=n>11</td><td><mark>Dominum Respondentem,</mark></td><td class=o><mark>Recondentem</mark></td><td class=s>67%</td></tr>
+<tr class=goed><td class=n>12</td><td><mark>Cum</mark> videt intrepidus miles spolia ampla referre,</td><td class=o><mark>C um</mark> videt intrepidus miles spolia ampla referre,</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>13</td><td>Qui <mark>strenuè</mark> certant, ictus cunctosq; repellunt,</td><td class=o>Qui <mark>strenue</mark> certant <mark>,</mark> ictus cunctosq <mark>;</mark> repellunt,</td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>14</td><td>Non cessat donec quaedam <mark>quoq;</mark> bella reportet.</td><td class=o>Non cessat donec quaedam <mark>quoh ;</mark> bella reportet <mark>.</mark></td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>15</td><td>Hoc quoq; te impellit jam jam mi chare <mark>Rodolph</mark></td><td class=o>Hoc quoq <mark>;</mark> te impellit jam jam mi chare <mark>Rodoiphb</mark></td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>16</td><td>Ut, postquam nuper fuerunt tibi tela cruenta</td><td class=o>Ut <mark>,</mark> postquam nuper fuerunt tibi tela cruenta</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>17</td><td>Missa, nolis multum quasi persistere laesus;</td><td class=o>Missa, nolis multum quasi persistere laesus <mark>;</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>18</td><td>Certamen praesens durum certare volebas,</td><td class=o>Certamen praesens durum certare volebas,</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>19</td><td>Quo tu perpetuo tollaris in astra suprema,</td><td class=o>Quo tu perpetuo tollaris in astra suprema,</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>20</td><td>Unde boni Largitorem vehementer adoro,</td><td class=o>Unde boni Largitorem vehementer adoro <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>21</td><td>Ut tibi sicque tuis studiis dignetur adesse.</td><td class=o>Ut tibi sicque tuis studiis dignetur adesse.</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>22</td><td>Hac paucula in singulare amicitia</td><td class=o>Hac paucula in singulare amicitia</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>23</td><td><mark>sua symbolum</mark> adjecit</td><td class=o><mark>Jymbolum</mark> adjecit</td><td class=s>85%</td></tr>
+<tr class=redelijk><td class=n>24</td><td><mark>NICOLAUS</mark> A DIESBACH. <mark>HB.</mark></td><td class=o>A DIESBACH</td><td class=s>64%</td></tr>
+<tr class=goed><td class=n>25</td><td>FINIS.</td><td class=o>FINIS</td><td class=s>100%</td></tr>
+</table></section>
