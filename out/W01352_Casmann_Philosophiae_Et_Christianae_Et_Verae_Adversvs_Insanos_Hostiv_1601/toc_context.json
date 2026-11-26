@@ -1,0 +1,705 @@
+{
+ "work": "W01352_Casmann_Philosophiae_Et_Christianae_Et_Verae_Adversvs_Insanos_Hostiv_1601",
+ "made": "2026-11-26T02:56:03",
+ "model": "claude-haiku-5-5",
+ "prompt": "655260ce46aa8978",
+ "candidates": 345,
+ "cost_usd": 0.02729,
+ "dropped": [
+  "title 'Elenchus sophismatis 1. ex Epistola ad Coloss. 2. vers. 8.' is not in 'I. Classis arma diuinæ autoritatis capientium contra Philoso-phiam.': to the scan",
+  "no scans for 1 wanted"
+ ],
+ "toc": [
+  {
+   "scan": 7,
+   "line": 1,
+   "lines": [
+    [
+     7,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. nuncupat. Reverendo, nobilissimo, et spectatissimo viro, Domino Francisco Marescallo, Reuerendi Capituli Bremensis Decano honorati"
+  },
+  {
+   "scan": 10,
+   "line": 0,
+   "lines": [
+    [
+     10,
+     0
+    ]
+   ],
+   "level": 1,
+   "title": "Epist. dedicat."
+  },
+  {
+   "scan": 21,
+   "line": 1,
+   "lines": [
+    [
+     21,
+     1
+    ],
+    [
+     21,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Pars prior. Veram et christianam philosophiam asserens & demonstrans."
+  },
+  {
+   "scan": 21,
+   "line": 3,
+   "lines": [
+    [
+     21,
+     3
+    ],
+    [
+     21,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Caput I. De Christianae Philosophiae definitione, ubi de Sapientia."
+  },
+  {
+   "scan": 27,
+   "line": 6,
+   "lines": [
+    [
+     27,
+     6
+    ],
+    [
+     27,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "Caput II. De veritate Philosophica."
+  },
+  {
+   "scan": 35,
+   "line": 3,
+   "lines": [
+    [
+     35,
+     3
+    ],
+    [
+     35,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Caput III. De utili εὐπραξία Philosophiae."
+  },
+  {
+   "scan": 41,
+   "line": 3,
+   "lines": [
+    [
+     41,
+     3
+    ],
+    [
+     41,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Quaestio. An Philosophia hominis naturam & perfectionem procuret & instauret."
+  },
+  {
+   "scan": 50,
+   "line": 2,
+   "lines": [
+    [
+     50,
+     2
+    ],
+    [
+     50,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput IV. De sapientia vera diuina."
+  },
+  {
+   "scan": 55,
+   "line": 4,
+   "lines": [
+    [
+     55,
+     4
+    ],
+    [
+     55,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Caput V. De sapientia humana seu philosophia in specie dicta."
+  },
+  {
+   "scan": 63,
+   "line": 1,
+   "lines": [
+    [
+     63,
+     1
+    ],
+    [
+     63,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput VI. De Philosophiae causis procreantibus."
+  },
+  {
+   "scan": 71,
+   "line": 3,
+   "lines": [
+    [
+     71,
+     3
+    ],
+    [
+     71,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Caput VII. De Philosophicarum artium principiis, quibus artifices usi eas genuerunt."
+  },
+  {
+   "scan": 74,
+   "line": 6,
+   "lines": [
+    [
+     74,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "Caput VIII. De fundamento artium philosophicarum."
+  },
+  {
+   "scan": 82,
+   "line": 3,
+   "lines": [
+    [
+     82,
+     3
+    ],
+    [
+     82,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Caput IX. De Philosophiae & artium fine & fructu."
+  },
+  {
+   "scan": 92,
+   "line": 5,
+   "lines": [
+    [
+     92,
+     5
+    ],
+    [
+     92,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "Caput X. De materia artium philosophicarum."
+  },
+  {
+   "scan": 99,
+   "line": 3,
+   "lines": [
+    [
+     99,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XI. De forma artium Christianae Philosophiae."
+  },
+  {
+   "scan": 107,
+   "line": 2,
+   "lines": [
+    [
+     107,
+     2
+    ],
+    [
+     107,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XII. De Philosophia vera subiecto."
+  },
+  {
+   "scan": 112,
+   "line": 2,
+   "lines": [
+    [
+     112,
+     2
+    ],
+    [
+     112,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XIII. De Christiana Philosophia adiunctis 12. virtutibus."
+  },
+  {
+   "scan": 119,
+   "line": 3,
+   "lines": [
+    [
+     119,
+     3
+    ],
+    [
+     119,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XIV. De contrariis vitiis vanae Philosophiae Pseudaristotelicae."
+  },
+  {
+   "scan": 127,
+   "line": 3,
+   "lines": [
+    [
+     127,
+     3
+    ],
+    [
+     127,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XV. De vitiis vanae Philosophiae Pseudorameorum."
+  },
+  {
+   "scan": 135,
+   "line": 1,
+   "lines": [
+    [
+     135,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XVI. De Philosophiae distributione generatim."
+  },
+  {
+   "scan": 145,
+   "line": 1,
+   "lines": [
+    [
+     145,
+     1
+    ],
+    [
+     145,
+     2
+    ],
+    [
+     145,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XVII. De Christiana Philosophia grammatica."
+  },
+  {
+   "scan": 147,
+   "line": 3,
+   "lines": [
+    [
+     147,
+     3
+    ],
+    [
+     147,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XVIII. De Christianae Philosophiae Rhetorica."
+  },
+  {
+   "scan": 149,
+   "line": 5,
+   "lines": [
+    [
+     149,
+     5
+    ],
+    [
+     149,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XIX. De Christiana Logica."
+  },
+  {
+   "scan": 156,
+   "line": 1,
+   "lines": [
+    [
+     156,
+     1
+    ],
+    [
+     156,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XX. De Arithmetica."
+  },
+  {
+   "scan": 160,
+   "line": 5,
+   "lines": [
+    [
+     160,
+     5
+    ],
+    [
+     160,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXI. De Geometria."
+  },
+  {
+   "scan": 162,
+   "line": 2,
+   "lines": [
+    [
+     162,
+     2
+    ],
+    [
+     162,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXII. De Optica."
+  },
+  {
+   "scan": 165,
+   "line": 2,
+   "lines": [
+    [
+     165,
+     2
+    ],
+    [
+     165,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXIII. De Musica."
+  },
+  {
+   "scan": 167,
+   "line": 8,
+   "lines": [
+    [
+     167,
+     8
+    ],
+    [
+     167,
+     9
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXIV. De Christiana Physica."
+  },
+  {
+   "scan": 175,
+   "line": 2,
+   "lines": [
+    [
+     175,
+     2
+    ],
+    [
+     175,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXV. De Metaphysica Christiana."
+  },
+  {
+   "scan": 177,
+   "line": 4,
+   "lines": [
+    [
+     177,
+     4
+    ],
+    [
+     177,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXVI. De Christiana Ethica & Politica."
+  },
+  {
+   "scan": 183,
+   "line": 1,
+   "lines": [
+    [
+     183,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Pars posterior à vera Philosophia calumnias depellens."
+  },
+  {
+   "scan": 197,
+   "line": 3,
+   "lines": [
+    [
+     197,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Elenchus sophismatis 2. ex Epistola 1. ad Cor. cap. 1. & 2."
+  },
+  {
+   "scan": 210,
+   "line": 2,
+   "lines": [
+    [
+     210,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Elenchus sophismatis 3. ex Epistola ad Rom. 1. vers. 21. & 22."
+  },
+  {
+   "scan": 215,
+   "line": 5,
+   "lines": [
+    [
+     215,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Elenchus sophismatis 4. ex dictis Scripturae, hominis animalis & naturalis caecitatem ac impotentiam in spiritualibus asserentibus."
+  },
+  {
+   "scan": 222,
+   "line": 2,
+   "lines": [
+    [
+     222,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Elenchus sophismatis 5. ex Ecclesiaste cap. 1."
+  },
+  {
+   "scan": 227,
+   "line": 2,
+   "lines": [
+    [
+     227,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Elenchus sophismatis 6. ab exemplo Patrum à Philosophia in errores abductorum."
+  },
+  {
+   "scan": 238,
+   "line": 2,
+   "lines": [
+    [
+     238,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Elenchus sophismatis 7. ab autoritate Patrum Ecclesiasticorum Philosophiam improbantium & damnantium."
+  },
+  {
+   "scan": 253,
+   "line": 3,
+   "lines": [
+    [
+     253,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Elenchus sophismatis 8."
+  },
+  {
+   "scan": 260,
+   "line": 3,
+   "lines": [
+    [
+     260,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Elenchus sophismatis 9."
+  },
+  {
+   "scan": 265,
+   "line": 2,
+   "lines": [
+    [
+     265,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Elenchus sophismatis 10."
+  },
+  {
+   "scan": 277,
+   "line": 2,
+   "lines": [
+    [
+     277,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Elenchus sophismatis 11."
+  },
+  {
+   "scan": 291,
+   "line": 2,
+   "lines": [
+    [
+     291,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Elenchus sophismatis 12."
+  },
+  {
+   "scan": 294,
+   "line": 2,
+   "lines": [
+    [
+     294,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Elenchus sophismatis 13. specialis de Logica, damnum religioni afferente, & ab usu Theologico plane excludenda."
+  },
+  {
+   "scan": 335,
+   "line": 2,
+   "lines": [
+    [
+     335,
+     2
+    ],
+    [
+     335,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Ventilatio quaestionis. An Logica Theologo sit utilis ac necessaria, in rerum Theologicarum tractatione."
+  },
+  {
+   "scan": 353,
+   "line": 2,
+   "lines": [
+    [
+     353,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Elenchus sophismatis 14. Ultimi, aduersus Physicam."
+  },
+  {
+   "scan": 365,
+   "line": 2,
+   "lines": [
+    [
+     365,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Assertiones de Logicae maiestate & seruitute: & Philosophiae usu etiam in sacris."
+  }
+ ],
+ "book": "Othonis Casmanni's Assertio Philosophiae Christianae (Frankfurt, 1601) is a single work in two parts, Pars prior (chapters I–XXVI on Christian philosophy and its arts) and Pars posterior (a defence against critics, with numbered sophisms and disputations), preceded by two dedicatory epistles.",
+ "series": [
+  {
+   "label": "Pars",
+   "first": "Prior",
+   "last": "Posterior",
+   "count": 2,
+   "level": 1,
+   "found": 4
+  },
+  {
+   "label": "Caput",
+   "first": "I",
+   "last": "XXVI",
+   "count": 26,
+   "level": 2,
+   "found": 41
+  },
+  {
+   "label": "Elenchus sophismatis",
+   "first": "1",
+   "last": "14",
+   "count": 14,
+   "level": 2,
+   "found": 41
+  }
+ ],
+ "taste": 50,
+ "doubt": "",
+ "input": 45804,
+ "output": 36846
+}
