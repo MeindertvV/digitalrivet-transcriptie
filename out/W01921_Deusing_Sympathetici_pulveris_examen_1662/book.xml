@@ -7288,8 +7288,19 @@
     </main_text>
     <notes>Several words are uncertain in the scan due to the tight binding and blur, notably "hellvonem" (likely "bellonem" or "helluonem"), "agnoscente", and the line-end words. The catchword "for-" at bottom right is marked as a catchword rather than running text, though it may be part of the last line. The footnote-like line "Exercit. de Sanguinis usu." appears inline in the text and may be a running reference rather than a true note; treated as a footnote here. Bottom-left marks are stains.</notes>
   </page>
-  <page type="missing" n="583">
-    <warning type="missing_page">page 583 was not transcribed: hit max_tokens (raise --max-tokens)</warning>
+  <page type="text" lines="none" n="583" model="claude-haiku-5-5">
+    <warning type="catchword_in_text">catchword taken out of the main text: ac fine.</warning>
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One page of text in one column; no margin notes; running head at top; page number at top right.</layout>
+    <page_number>569</page_number>
+    <running_head>Sympathetico.</running_head>
+    <main_text>
+      <l n="1">ormata minus aliis nutriatur, contin-et hoc utique ob partis illius difpoli-tionem naturalem muratam, quid ni vero dispositio eadem posset eatenus mutari atque enervari, acquafi diffo-tibilis reddi, ut continuo sanguinis ac-pirituum impetu, eadem imaginatio-ne matris protracta, sensim dissipetur atque resolvatur, susceptis continuo-atomis dissolutis in venas ipsas, iisdem-que refluo sanguini permixtis, aut par-tim cum aliis vaporibus difflatis? De ratione ac causis similitudinum quoad speciem, sexum, formam externam, in generatione Foetus, actum a nobis in Microcofm. Genesi part. 2. f. §. 19. &amp; feqq. Ipsamque Imaginationem matris plurimum facere ad formam externam foetui imprimendam, ostendimus ibid. §. 26. Cujus rei Exemplaitidem profert. Cl. D. Strauff. pag. 242. 243. Sed prolixum foret, filatiusin hunc de Viribus Imagi-nationis campum nos vellemus effun-dere. Pater laltem ex dictis, temere</l>
+    </main_text>
+    <notes />
+    <bottom_margin>
+      <catchword>ac fine.</catchword>
+    </bottom_margin>
   </page>
   <page type="text" lines="none" n="584" model="claude-haiku-5-5">
     <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>

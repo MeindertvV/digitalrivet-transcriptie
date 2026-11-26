@@ -14738,13 +14738,28 @@
   },
   {
    "n": 583,
-   "type": "missing",
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "number": "569",
+   "running_head": "Sympathetico.",
    "warnings": [
     {
-     "type": "missing_page",
-     "text": "page 583 was not transcribed: hit max_tokens (raise --max-tokens)"
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: ac fine."
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
     }
-   ]
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "ormata minus aliis nutriatur, contin-et hoc utique ob partis illius difpoli-tionem naturalem muratam, quid ni vero dispositio eadem posset eatenus mutari atque enervari, acquafi diffo-tibilis reddi, ut continuo sanguinis ac-pirituum impetu, eadem imaginatio-ne matris protracta, sensim dissipetur atque resolvatur, susceptis continuo-atomis dissolutis in venas ipsas, iisdem-que refluo sanguini permixtis, aut par-tim cum aliis vaporibus difflatis? De ratione ac causis similitudinum quoad speciem, sexum, formam externam, in generatione Foetus, actum a nobis in Microcofm. Genesi part. 2. f. §. 19. & feqq. Ipsamque Imaginationem matris plurimum facere ad formam externam foetui imprimendam, ostendimus ibid. §. 26. Cujus rei Exemplaitidem profert. Cl. D. Strauff. pag. 242. 243. Sed prolixum foret, filatiusin hunc de Viribus Imagi-nationis campum nos vellemus effun-dere. Pater laltem ex dictis, temere",
+     "heading": 0
+    }
+   ],
+   "catchword": "ac fine."
   },
   {
    "n": 584,
