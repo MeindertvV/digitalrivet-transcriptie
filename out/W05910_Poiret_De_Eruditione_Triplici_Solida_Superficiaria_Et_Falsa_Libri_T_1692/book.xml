@@ -2289,6 +2289,7 @@
     <notes>The scan is faint and small; several numerals and the ends of lines in the errata are doubtful. Entries marked with odd glyphs (e.g. the "s'" in line 64 and "fiteos" in the last line) are uncertain. The section headings "In Methodo in" and "In libris d" are cut off at the right edge. Part 2 of a page; the left part and the cut are not transcribed. Several entries are uncertain in the small italic type; the printed errata are copied as far as legible.</notes>
   </page>
   <page type="text" lines="none" n="63" model="claude-haiku-5-5">
+    <warning type="catchword_in_text">catchword taken out of the main text: Occul-</warning>
     <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
     <layout>One printed page, cut at the right edge. Heading "ERRATA" across the top. Below it, a left column of errata lines, with a narrow strip of page numbers at the right edge that belongs to a second column cut off. Below both, a full-width NOTA paragraph, also cut at the right edge.; One page of text in two columns of list entries at the top-left, with a continuation line at the right; below them a faint scatter of stains and a few printed lines at the right; no running head or page number visible.</layout>
     <main_text>
@@ -2365,12 +2366,30 @@
       <l n="67">x X pro lineolis quibus circuli</l>
       <l n="68">unt, concipienda sunt puncta</l>
       <l n="69">Q.</l>
-      <l n="70" type="diagram" level="1">Occul-</l>
     </main_text>
     <notes>The right-hand column of the errata is cut off at the scan edge, so its numbers are only partly visible. The lines marked as numbers alone are fragments. Some digits in the left column (e.g. "359", "360") are uncertain. The NOTA line is cut off at the right edge. Right-hand fragment of a table of contents: the page is cut and the left halves of the lines are missing; faint marks and stains are not transcribed. Doubtful letters in the list are copied as they appear. The word "Occul-" is a partly visible catchword-like fragment at the right, written as a line.</notes>
+    <bottom_margin>
+      <catchword>Occul-</catchword>
+    </bottom_margin>
   </page>
-  <page type="missing" n="64">
-    <warning type="missing_page">page 64 was not transcribed: invalid XML: junk after document element: line 14, column 0</warning>
+  <page type="text" lines="ocr" n="64" model="claude-haiku-5-5">
+    <layout>One page of text, centred in the upper-middle area: a four-line italic verse with a signature initials line "G. B." set to the right below it. No margin notes. Top has a dark decorative rule (not text). Faint digitiser mark at bottom right is not transcribed.</layout>
+    <main_text>
+      <l n="1" para="true">
+        <i>Occulta cui Mentis mala</i>
+      </l>
+      <l n="2">
+        <i>Secreta rodunt pectora,</i>
+      </l>
+      <l n="3">
+        <i>Huic est molesta Veritas</i>
+      </l>
+      <l n="4">
+        <i>Quae cor revelat turbidum.</i>
+      </l>
+      <l n="5" para="true">G. B.</l>
+    </main_text>
+    <notes>The first letters of the verse lines are partly obscured by specks and a decorative flourish on the left (the initial "O", "S", "H", "Q" are damaged); "Secreta" and "est" read as printed. The initials "G. B." are set in bold roman, right-aligned under the verse. The printed "est" is read as "est".</notes>
   </page>
   <page type="title" n="65" model="claude-haiku-5-5">
     <layout>One printed page: a single word, VERA, in bold capitals set right of centre, about two-thirds down the page. Nothing else is printed. The grey Google watermark at the lower right is the digitiser's and is left out.</layout>

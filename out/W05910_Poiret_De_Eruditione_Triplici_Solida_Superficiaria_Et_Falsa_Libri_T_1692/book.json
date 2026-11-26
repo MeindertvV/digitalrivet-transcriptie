@@ -8801,6 +8801,10 @@
    "model": "claude-haiku-5-5",
    "warnings": [
     {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: Occul-"
+    },
+    {
      "type": "line_split",
      "text": "no usable OCR layer: paragraphs could not be split into printed lines"
     }
@@ -9153,24 +9157,45 @@
      "n": 69,
      "text": "Q.",
      "heading": 0
-    },
-    {
-     "n": 70,
-     "text": "Occul-",
-     "heading": 0
     }
    ],
+   "catchword": "Occul-",
    "notes": "The right-hand column of the errata is cut off at the scan edge, so its numbers are only partly visible. The lines marked as numbers alone are fragments. Some digits in the left column (e.g. \"359\", \"360\") are uncertain. The NOTA line is cut off at the right edge. Right-hand fragment of a table of contents: the page is cut and the left halves of the lines are missing; faint marks and stains are not transcribed. Doubtful letters in the list are copied as they appear. The word \"Occul-\" is a partly visible catchword-like fragment at the right, written as a line."
   },
   {
    "n": 64,
-   "type": "missing",
-   "warnings": [
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
     {
-     "type": "missing_page",
-     "text": "page 64 was not transcribed: invalid XML: junk after document element: line 14, column 0"
+     "n": 1,
+     "text": "<i>Occulta cui Mentis mala</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "<i>Secreta rodunt pectora,</i>",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "<i>Huic est molesta Veritas</i>",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "<i>Quae cor revelat turbidum.</i>",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "G. B.",
+     "heading": 0,
+     "para": true
     }
-   ]
+   ],
+   "notes": "The first letters of the verse lines are partly obscured by specks and a decorative flourish on the left (the initial \"O\", \"S\", \"H\", \"Q\" are damaged); \"Secreta\" and \"est\" read as printed. The initials \"G. B.\" are set in bold roman, right-aligned under the verse. The printed \"est\" is read as \"est\"."
   },
   {
    "n": 65,

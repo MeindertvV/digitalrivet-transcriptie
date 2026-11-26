@@ -1,0 +1,530 @@
+{
+ "work": "W05910_Poiret_De_Eruditione_Triplici_Solida_Superficiaria_Et_Falsa_Libri_T_1692",
+ "made": "2026-11-26T00:24:55",
+ "model": "claude-haiku-5-5",
+ "prompt": "655260ce46aa8978",
+ "candidates": 461,
+ "cost_usd": 0.01924,
+ "dropped": [
+  "title 'I. De quibusdam Cartesianis' is not in 'APOLOGETICA I. I.': to the scan",
+  "title 'II. De nonnullis Lipsiensibus' is not in 'APOLOGETICA II. II.': to the scan",
+  "title 'III. De celebri quodam Theologo' is not in 'APOLOGETICA III.': to the scan",
+  "title 'IV. De nescio quo Jano Philadelpho' is not in 'APOLOGETICA IV. IV.': to the scan",
+  "title 'V. De auctore Bibliothecae Universalis' is not in 'Apologetica V. V': to the scan",
+  "order: {'ids': [126, 127, 128, 129, 130], 'level': 1, 'title': 'Errata'}",
+  "no scans for 5 wanted"
+ ],
+ "toc": [
+  {
+   "scan": 10,
+   "line": 1,
+   "lines": [
+    [
+     10,
+     1
+    ],
+    [
+     10,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Ad lectorem benevolum"
+  },
+  {
+   "scan": 23,
+   "line": 1,
+   "lines": [
+    [
+     23,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Explicatio tabulae libri titulo praefixae, Eruditionis triplicis imaginem repraesentantis"
+  },
+  {
+   "scan": 23,
+   "line": 4,
+   "lines": [
+    [
+     23,
+     4
+    ]
+   ],
+   "level": 1,
+   "title": "Ad spectatorem"
+  },
+  {
+   "scan": 25,
+   "line": 1,
+   "lines": [
+    [
+     25,
+     1
+    ],
+    [
+     25,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Viro eruditissimo Petro Poiret"
+  },
+  {
+   "scan": 25,
+   "line": 8,
+   "lines": [
+    [
+     25,
+     8
+    ]
+   ],
+   "level": 1,
+   "title": "G. V. E."
+  },
+  {
+   "scan": 29,
+   "line": 1,
+   "lines": [
+    [
+     29,
+     1
+    ],
+    [
+     29,
+     2
+    ],
+    [
+     29,
+     3
+    ],
+    [
+     29,
+     4
+    ],
+    [
+     29,
+     5
+    ],
+    [
+     29,
+     6
+    ],
+    [
+     29,
+     11
+    ]
+   ],
+   "level": 1,
+   "title": "Ad clarissimum virum Petrum Poiret, cum in publicum daret suos libros De eruditione solida, superficiaria, & falsa, non omnibus forte placituros. Ode"
+  },
+  {
+   "scan": 31,
+   "line": 1,
+   "lines": [
+    [
+     31,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Ad reverendum et eruditissimum Dn. Petrum Poiret, de eruditione solide ac erudite scribentem"
+  },
+  {
+   "scan": 32,
+   "line": 1,
+   "lines": [
+    [
+     32,
+     1
+    ],
+    [
+     32,
+     2
+    ],
+    [
+     32,
+     3
+    ],
+    [
+     32,
+     4
+    ]
+   ],
+   "level": 1,
+   "title": "In clarissimi domini Poireti libros de eruditione, methodumque inveniendi verum"
+  },
+  {
+   "scan": 33,
+   "line": 12,
+   "lines": [
+    [
+     33,
+     12
+    ],
+    [
+     33,
+     13
+    ],
+    [
+     33,
+     14
+    ],
+    [
+     33,
+     15
+    ]
+   ],
+   "level": 1,
+   "title": "Ad reverendum clarissimumque virum Dn. Petrum Poiret, cum libror de eruditione methodumque inveniendi verum ederet"
+  },
+  {
+   "scan": 35,
+   "line": 1,
+   "lines": [
+    [
+     35,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Ad eundem"
+  },
+  {
+   "scan": 36,
+   "line": 1,
+   "lines": [
+    [
+     36,
+     1
+    ],
+    [
+     36,
+     2
+    ],
+    [
+     36,
+     3
+    ],
+    [
+     36,
+     4
+    ],
+    [
+     36,
+     5
+    ]
+   ],
+   "level": 1,
+   "title": "Conspectus et series materiarum. Tractatus de vera methodo inveniendi verum"
+  },
+  {
+   "scan": 66,
+   "line": 0,
+   "lines": [
+    [
+     66,
+     0
+    ],
+    [
+     66,
+     0
+    ],
+    [
+     66,
+     0
+    ],
+    [
+     66,
+     0
+    ],
+    [
+     68,
+     1
+    ],
+    [
+     68,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Vera methodus inveniendi verum. Tractatus libris de eruditione praemittendus"
+  },
+  {
+   "scan": 70,
+   "line": 4,
+   "lines": [
+    [
+     70,
+     4
+    ],
+    [
+     70,
+     5
+    ],
+    [
+     70,
+     6
+    ],
+    [
+     70,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "Pars prima. Sex methodi ad veritatem leges, observatis multis expositas continens"
+  },
+  {
+   "scan": 148,
+   "line": 18,
+   "lines": [
+    [
+     148,
+     18
+    ],
+    [
+     148,
+     19
+    ],
+    [
+     148,
+     20
+    ]
+   ],
+   "level": 2,
+   "title": "Pars altera. Ubi variae quaestiones et difficultates de intellectus impotentia, quiete, passivitate, de Dei in illo actione et lumine, deque ejus statu divinior & medio ad illum proximo, enodantur"
+  },
+  {
+   "scan": 205,
+   "line": 10,
+   "lines": [
+    [
+     205,
+     10
+    ],
+    [
+     205,
+     11
+    ],
+    [
+     205,
+     12
+    ]
+   ],
+   "level": 2,
+   "title": "Pars tertia. Ob neglectum superiorum regularum Cartesium cum suis in multa incidisse errata"
+  },
+  {
+   "scan": 264,
+   "line": 1,
+   "lines": [
+    [
+     264,
+     1
+    ],
+    [
+     264,
+     2
+    ],
+    [
+     264,
+     3
+    ],
+    [
+     264,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Liber primus, qui est De eruditione solida. Pars prima"
+  },
+  {
+   "scan": 313,
+   "line": 1,
+   "lines": [
+    [
+     313,
+     1
+    ],
+    [
+     313,
+     2
+    ],
+    [
+     313,
+     3
+    ],
+    [
+     313,
+     4
+    ],
+    [
+     313,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Liber primus. Pars altera, quae est de vera eruditionis possessione"
+  },
+  {
+   "scan": 331,
+   "line": 7,
+   "lines": [
+    [
+     331,
+     7
+    ],
+    [
+     331,
+     8
+    ],
+    [
+     331,
+     9
+    ],
+    [
+     331,
+     10
+    ],
+    [
+     331,
+     11
+    ]
+   ],
+   "level": 3,
+   "title": "Liber primus. Pars tertia, quae est de vera eruditionis communicatione"
+  },
+  {
+   "scan": 371,
+   "line": 1,
+   "lines": [
+    [
+     371,
+     1
+    ],
+    [
+     371,
+     2
+    ],
+    [
+     371,
+     3
+    ],
+    [
+     371,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Liber secundus, qui est De eruditione superficiaria"
+  },
+  {
+   "scan": 482,
+   "line": 1,
+   "lines": [
+    [
+     482,
+     1
+    ],
+    [
+     482,
+     2
+    ],
+    [
+     482,
+     3
+    ],
+    [
+     482,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Liber tertius, qui est De eruditione falsa"
+  },
+  {
+   "scan": 637,
+   "line": 1,
+   "lines": [
+    [
+     637,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "Epilogus"
+  },
+  {
+   "scan": 660,
+   "line": 1,
+   "lines": [
+    [
+     660,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Apologetica"
+  },
+  {
+   "scan": 688,
+   "line": 1,
+   "lines": [
+    [
+     688,
+     1
+    ],
+    [
+     688,
+     2
+    ],
+    [
+     688,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Auctori Bibliothecae Universalis critico singulari. Epistola"
+  }
+ ],
+ "book": "Petri Poiret, De eruditione triplici solida, superficiaria et falsa, libri tres (Amsterdam 1692): a three-book work on learning, preceded by front matter (prefatory letters, poems, the table of the frontispiece, a contents list) and followed by the separate treatise Vera methodus inveniendi verum, errata and the Apologetica. The numbered sections inside the books are not itemized here.",
+ "series": [
+  {
+   "label": "Liber",
+   "first": "I",
+   "last": "III",
+   "count": 3,
+   "level": 2,
+   "found": 6
+  },
+  {
+   "label": "Pars",
+   "first": "I",
+   "last": "III",
+   "count": 3,
+   "level": 3,
+   "found": 4
+  },
+  {
+   "label": "Pars",
+   "first": "I",
+   "last": "III",
+   "count": 3,
+   "level": 2,
+   "found": 6
+  },
+  {
+   "label": "",
+   "first": "I",
+   "last": "V",
+   "count": 5,
+   "level": 2,
+   "found": 6
+  }
+ ],
+ "taste": 50,
+ "doubt": "",
+ "input": 50299,
+ "output": 18941
+}
