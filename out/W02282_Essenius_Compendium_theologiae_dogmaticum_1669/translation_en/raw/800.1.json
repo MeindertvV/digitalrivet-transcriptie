@@ -1,0 +1,47 @@
+{
+  "units": [
+    "800.1",
+    "800.2",
+    "800.10",
+    "800.12",
+    "800.24",
+    "800.31",
+    "800.33",
+    "801.7",
+    "801.17",
+    "801.19",
+    "801.23",
+    "801.25",
+    "801.30",
+    "801.34",
+    "802.7",
+    "802.15",
+    "802.21",
+    "802.25",
+    "802.27",
+    "802.31",
+    "802.35"
+  ],
+  "model": "claude-haiku-5-5",
+  "prompt_sha256": "a88cdedfdf5d8ca2",
+  "stop_reason": "end_turn",
+  "batch": true,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 1775,
+    "inference_geo": "global",
+    "input_tokens": 3023,
+    "output_tokens": 3189,
+    "output_tokens_details": {
+      "thinking_tokens": 950
+    },
+    "server_tool_use": null,
+    "service_tier": "batch",
+    "speed": "standard"
+  },
+  "cost_usd": 0.00096
+}

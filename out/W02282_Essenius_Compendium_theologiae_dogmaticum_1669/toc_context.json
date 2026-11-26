@@ -1,0 +1,602 @@
+{
+ "work": "W02282_Essenius_Compendium_theologiae_dogmaticum_1669",
+ "made": "2026-11-26T03:28:22",
+ "model": "claude-haiku-5-5",
+ "prompt": "655260ce46aa8978",
+ "candidates": 1475,
+ "cost_usd": 0.02601,
+ "dropped": [],
+ "toc": [
+  {
+   "scan": 7,
+   "line": 1,
+   "lines": [
+    [
+     7,
+     1
+    ],
+    [
+     7,
+     2
+    ],
+    [
+     7,
+     3
+    ],
+    [
+     7,
+     4
+    ],
+    [
+     7,
+     5
+    ],
+    [
+     7,
+     6
+    ],
+    [
+     7,
+     7
+    ],
+    [
+     7,
+     8
+    ],
+    [
+     7,
+     9
+    ],
+    [
+     7,
+     10
+    ]
+   ],
+   "level": 2,
+   "title": "Ornatissimis viris, juvenibus, S. ministerii candidatis, dignissimis, & S. theologiæ studiosis, strenuissimis, magnam Ecclesiæ exspectationem sustinentibus; aliisque, veritatem, quæ secundùm pietatem est, serio amantibus; auditoribus dilectissimis, lectoribus benevolis."
+  },
+  {
+   "scan": 8,
+   "line": 1,
+   "lines": [
+    [
+     8,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Ad lectorem."
+  },
+  {
+   "scan": 13,
+   "line": 1,
+   "lines": [
+    [
+     13,
+     1
+    ],
+    [
+     13,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Compendium theologiæ dogmaticum."
+  },
+  {
+   "scan": 13,
+   "line": 3,
+   "lines": [
+    [
+     13,
+     3
+    ],
+    [
+     13,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Caput I. De naturâ theologiæ."
+  },
+  {
+   "scan": 45,
+   "line": 1,
+   "lines": [
+    [
+     45,
+     1
+    ],
+    [
+     45,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput II. De fide."
+  },
+  {
+   "scan": 65,
+   "line": 1,
+   "lines": [
+    [
+     65,
+     1
+    ],
+    [
+     65,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput III. De sacrâ scripturâ."
+  },
+  {
+   "scan": 131,
+   "line": 1,
+   "lines": [
+    [
+     131,
+     1
+    ],
+    [
+     131,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput IV. De Deo."
+  },
+  {
+   "scan": 212,
+   "line": 3,
+   "lines": [
+    [
+     212,
+     3
+    ],
+    [
+     212,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Caput V. De personis divinis."
+  },
+  {
+   "scan": 245,
+   "line": 21,
+   "lines": [
+    [
+     245,
+     21
+    ],
+    [
+     245,
+     22
+    ]
+   ],
+   "level": 2,
+   "title": "Caput VI. De decreto Dei."
+  },
+  {
+   "scan": 278,
+   "line": 13,
+   "lines": [
+    [
+     278,
+     13
+    ],
+    [
+     278,
+     14
+    ]
+   ],
+   "level": 2,
+   "title": "Caput VII. De creatione."
+  },
+  {
+   "scan": 312,
+   "line": 16,
+   "lines": [
+    [
+     312,
+     16
+    ],
+    [
+     312,
+     17
+    ]
+   ],
+   "level": 2,
+   "title": "Caput VIII. De providentia."
+  },
+  {
+   "scan": 332,
+   "line": 1,
+   "lines": [
+    [
+     332,
+     1
+    ],
+    [
+     332,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput IX. De fœdere legali."
+  },
+  {
+   "scan": 494,
+   "line": 6,
+   "lines": [
+    [
+     494,
+     6
+    ],
+    [
+     494,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "Caput X. De peccato."
+  },
+  {
+   "scan": 550,
+   "line": 18,
+   "lines": [
+    [
+     550,
+     18
+    ],
+    [
+     550,
+     19
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XI. De fœdere evangelico."
+  },
+  {
+   "scan": 592,
+   "line": 6,
+   "lines": [
+    [
+     592,
+     6
+    ],
+    [
+     592,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XII. De Christo mediatore."
+  },
+  {
+   "scan": 653,
+   "line": 1,
+   "lines": [
+    [
+     653,
+     1
+    ],
+    [
+     653,
+     2
+    ],
+    [
+     653,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XIII. De salutis impetratione."
+  },
+  {
+   "scan": 673,
+   "line": 1,
+   "lines": [
+    [
+     673,
+     1
+    ],
+    [
+     673,
+     2
+    ],
+    [
+     673,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XIV. De vocatione & regeneratione."
+  },
+  {
+   "scan": 683,
+   "line": 14,
+   "lines": [
+    [
+     683,
+     14
+    ],
+    [
+     683,
+     15
+    ],
+    [
+     683,
+     16
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XV. De justificatione, reconciliatione, & adoptione."
+  },
+  {
+   "scan": 730,
+   "line": 15,
+   "lines": [
+    [
+     730,
+     15
+    ],
+    [
+     730,
+     16
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XVI. De sanctificatione."
+  },
+  {
+   "scan": 745,
+   "line": 1,
+   "lines": [
+    [
+     745,
+     1
+    ],
+    [
+     745,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XVII. De conservatione & corroboratione."
+  },
+  {
+   "scan": 756,
+   "line": 1,
+   "lines": [
+    [
+     756,
+     1
+    ],
+    [
+     756,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XVIII. De obsignatione."
+  },
+  {
+   "scan": 815,
+   "line": 13,
+   "lines": [
+    [
+     815,
+     13
+    ],
+    [
+     815,
+     14
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XIX. De glorificatione."
+  },
+  {
+   "scan": 849,
+   "line": 1,
+   "lines": [
+    [
+     849,
+     1
+    ],
+    [
+     849,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XX. & ultimum. De Ecclesia."
+  },
+  {
+   "scan": 919,
+   "line": 1,
+   "lines": [
+    [
+     919,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Index capitum."
+  },
+  {
+   "scan": 920,
+   "line": 1,
+   "lines": [
+    [
+     920,
+     1
+    ],
+    [
+     920,
+     2
+    ],
+    [
+     920,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Johannes Leusden, Dominis studiosis, sacro ministerio dicatis, salutem."
+  },
+  {
+   "scan": 921,
+   "line": 0,
+   "lines": [
+    [
+     921,
+     0
+    ]
+   ],
+   "level": 2,
+   "title": "Allocutio."
+  },
+  {
+   "scan": 922,
+   "line": 1,
+   "lines": [
+    [
+     922,
+     1
+    ],
+    [
+     922,
+     2
+    ],
+    [
+     922,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Johannis Hoornbeek, Tractatus de ratione concionandi."
+  },
+  {
+   "scan": 922,
+   "line": 4,
+   "lines": [
+    [
+     922,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Caput I."
+  },
+  {
+   "scan": 927,
+   "line": 9,
+   "lines": [
+    [
+     927,
+     9
+    ]
+   ],
+   "level": 2,
+   "title": "Caput II."
+  },
+  {
+   "scan": 935,
+   "line": 5,
+   "lines": [
+    [
+     935,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Caput III."
+  },
+  {
+   "scan": 947,
+   "line": 13,
+   "lines": [
+    [
+     947,
+     13
+    ]
+   ],
+   "level": 2,
+   "title": "Caput IV."
+  },
+  {
+   "scan": 963,
+   "line": 1,
+   "lines": [
+    [
+     963,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Caput V."
+  },
+  {
+   "scan": 980,
+   "line": 4,
+   "lines": [
+    [
+     980,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Caput VI. & ultimum."
+  },
+  {
+   "scan": 990,
+   "line": 1,
+   "lines": [
+    [
+     990,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Additamentum auctoris."
+  },
+  {
+   "scan": 991,
+   "line": 1,
+   "lines": [
+    [
+     991,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Corollarium auctoris."
+  }
+ ],
+ "book": "A 1669 Latin volume with two works: Andreas Essenius's Compendium theologiae dogmaticum (dedications, Ad lectorem, index, preface by Leusden, then 20 capita of numbered theses and objections), followed by Johannes Hoornbeek's Tractatus de ratione concionandi (6 capita, then an additamentum and corollarium).",
+ "series": [
+  {
+   "label": "Work",
+   "first": "Compendium theologiae dogmaticum",
+   "last": "Tractatus de ratione concionandi",
+   "count": 2,
+   "level": 1,
+   "found": 2
+  },
+  {
+   "label": "Caput",
+   "first": "I",
+   "last": "XX",
+   "count": 26,
+   "level": 2,
+   "found": 33
+  }
+ ],
+ "taste": 6,
+ "doubt": "",
+ "input": 91968,
+ "output": 15832
+}
