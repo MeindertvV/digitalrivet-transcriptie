@@ -1,0 +1,2634 @@
+{
+ "work": "W07380_Ursinus_Corpus_Doctrinae_Christianae_Ecclesiarum_a_Papatu_Romano_ref_1602",
+ "made": "2026-11-26T03:03:23",
+ "model": "claude-haiku-5-5",
+ "prompt": "655260ce46aa8978",
+ "candidates": 1747,
+ "cost_usd": 0.1826,
+ "dropped": [],
+ "toc": [
+  {
+   "scan": 4,
+   "line": 1,
+   "lines": [
+    [
+     4,
+     1
+    ],
+    [
+     4,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Chalcographis et librariis salutem et benedictionem à Domino precatur. David Pareus."
+  },
+  {
+   "scan": 5,
+   "line": 1,
+   "lines": [
+    [
+     5,
+     1
+    ],
+    [
+     5,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Dedicatio serenissimo principi ac domino, domino Ludovico-Philippo, comiti Palatino Rheni, duci Bavariæ, electorali Palatinatu"
+  },
+  {
+   "scan": 13,
+   "line": 1,
+   "lines": [
+    [
+     13,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "David Pareus Filio suo charissimo Philippo Pareo S. D."
+  },
+  {
+   "scan": 15,
+   "line": 1,
+   "lines": [
+    [
+     15,
+     1
+    ],
+    [
+     15,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "D. Sibrandus Lubbertus. D. Davidi Pareo S."
+  },
+  {
+   "scan": 18,
+   "line": 1,
+   "lines": [
+    [
+     18,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Errata"
+  },
+  {
+   "scan": 19,
+   "line": 1,
+   "lines": [
+    [
+     19,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Prolegomena in Corpus doctrinæ Ecclesiarum a Papatu Romano reformatarum"
+  },
+  {
+   "scan": 19,
+   "line": 3,
+   "lines": [
+    [
+     19,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Prolegomena generalia de doctrina Ecclesiæ"
+  },
+  {
+   "scan": 19,
+   "line": 9,
+   "lines": [
+    [
+     19,
+     9
+    ]
+   ],
+   "level": 3,
+   "title": "I. Quid, & qualis sit doctrina Ecclesiæ."
+  },
+  {
+   "scan": 20,
+   "line": 4,
+   "lines": [
+    [
+     20,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "II. Quæ sint doctrinæ Ecclesiæ partes, & quæ partium discrimina."
+  },
+  {
+   "scan": 21,
+   "line": 7,
+   "lines": [
+    [
+     21,
+     7
+    ]
+   ],
+   "level": 3,
+   "title": "III. Quid differat doctrina Ecclesiæ à doctrina aliarum sectarum: quid item à philosophia: & cur hæc discrimina tenenda sint."
+  },
+  {
+   "scan": 24,
+   "line": 3,
+   "lines": [
+    [
+     24,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "IV. Quibus testimoniis confirmetur religionis Christianæ seu doctrinæ Ecclesiæ certitudo."
+  },
+  {
+   "scan": 27,
+   "line": 5,
+   "lines": [
+    [
+     27,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "V. Quotuplex sit ratio tradendi & discendi doctrinam Ecclesiæ."
+  },
+  {
+   "scan": 28,
+   "line": 8,
+   "lines": [
+    [
+     28,
+     8
+    ]
+   ],
+   "level": 2,
+   "title": "Prolegomena specialia de Catechesi"
+  },
+  {
+   "scan": 28,
+   "line": 15,
+   "lines": [
+    [
+     28,
+     15
+    ]
+   ],
+   "level": 3,
+   "title": "1. Quid sit Catechesis."
+  },
+  {
+   "scan": 29,
+   "line": 4,
+   "lines": [
+    [
+     29,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "II. De origine Catecheseos, & an semper in Ecclesia fuerit."
+  },
+  {
+   "scan": 31,
+   "line": 2,
+   "lines": [
+    [
+     31,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "III. Quæ sint partes seu præcipua capita doctrinæ catechetica."
+  },
+  {
+   "scan": 32,
+   "line": 3,
+   "lines": [
+    [
+     32,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "IV. Cur sit necessaria Catechesis in Ecclesia."
+  },
+  {
+   "scan": 34,
+   "line": 2,
+   "lines": [
+    [
+     34,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "V. Quis sit scopus catecheseos & doctrina Christiana."
+  },
+  {
+   "scan": 35,
+   "line": 1,
+   "lines": [
+    [
+     35,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Catechesis religionis Christianæ"
+  },
+  {
+   "scan": 35,
+   "line": 2,
+   "lines": [
+    [
+     35,
+     2
+    ],
+    [
+     35,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio I. Qua est unica tua consolatio in vita & in morte?"
+  },
+  {
+   "scan": 39,
+   "line": 5,
+   "lines": [
+    [
+     39,
+     5
+    ],
+    [
+     39,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio II. Quot sunt tibi scitu necessaria, ut illa consolatione fruens, beatè viuas & moriaris?"
+  },
+  {
+   "scan": 42,
+   "line": 1,
+   "lines": [
+    [
+     42,
+     1
+    ],
+    [
+     42,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Pars I. De miseria hominis"
+  },
+  {
+   "scan": 42,
+   "line": 3,
+   "lines": [
+    [
+     42,
+     3
+    ],
+    [
+     42,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio III. Unde tuam miseriam agnoscis?"
+  },
+  {
+   "scan": 42,
+   "line": 13,
+   "lines": [
+    [
+     42,
+     13
+    ],
+    [
+     42,
+     14
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio IV. Quid à nobis postulat Lex Dei?"
+  },
+  {
+   "scan": 45,
+   "line": 7,
+   "lines": [
+    [
+     45,
+     7
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio V. Num hæc omnia perfectè servare potes?"
+  },
+  {
+   "scan": 46,
+   "line": 5,
+   "lines": [
+    [
+     46,
+     5
+    ],
+    [
+     46,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio VI. Num ergo Deus hominem ita prauum & perversum condidit?"
+  },
+  {
+   "scan": 53,
+   "line": 4,
+   "lines": [
+    [
+     53,
+     4
+    ],
+    [
+     53,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio VII. Unde igitur existit hæc natura humanæ pravitas?"
+  },
+  {
+   "scan": 72,
+   "line": 4,
+   "lines": [
+    [
+     72,
+     4
+    ],
+    [
+     72,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio VIII. An vero adeo corrupti sumus, ut ad bene agendum prorsus non simus idonei, & ad omne vitium proclives?"
+  },
+  {
+   "scan": 82,
+   "line": 3,
+   "lines": [
+    [
+     82,
+     3
+    ],
+    [
+     82,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio IX. An igitur Deus homini iniuriam facit, qui ab eo in Lege sua flagitat, quæ præstare non queat?"
+  },
+  {
+   "scan": 84,
+   "line": 1,
+   "lines": [
+    [
+     84,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio X. Num Deus hanc contumaciam & defectionem hominis dimittit impunitam?"
+  },
+  {
+   "scan": 85,
+   "line": 4,
+   "lines": [
+    [
+     85,
+     4
+    ],
+    [
+     85,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio XI. An non igitur Deus etiam est misericors?"
+  },
+  {
+   "scan": 93,
+   "line": 1,
+   "lines": [
+    [
+     93,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Pars II. De liberatione hominis"
+  },
+  {
+   "scan": 93,
+   "line": 2,
+   "lines": [
+    [
+     93,
+     2
+    ],
+    [
+     93,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio XII. Quoniam igitur iusto Dei iudicio, temporalibus & æternis pœnis obnoxii sumus: estne reliqua ulla ratio aut via, qua his pœnis liberemur?"
+  },
+  {
+   "scan": 99,
+   "line": 2,
+   "lines": [
+    [
+     99,
+     2
+    ],
+    [
+     99,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio XIII. Possumusne ipsi per nos satisfacere?"
+  },
+  {
+   "scan": 101,
+   "line": 1,
+   "lines": [
+    [
+     101,
+     1
+    ],
+    [
+     101,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio XIV. Potestne vlla creaturarum in cœlo vel in terra, quæ tantum creatura sit, pro nobis satisfacere?"
+  },
+  {
+   "scan": 102,
+   "line": 1,
+   "lines": [
+    [
+     102,
+     1
+    ],
+    [
+     102,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio XV. Qualis ergo quærendus est mediator & liberator?"
+  },
+  {
+   "scan": 102,
+   "line": 9,
+   "lines": [
+    [
+     102,
+     9
+    ],
+    [
+     102,
+     10
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio XVI. Cur necesse est eum verum hominem, & quidem perfectè justum esse?"
+  },
+  {
+   "scan": 104,
+   "line": 3,
+   "lines": [
+    [
+     104,
+     3
+    ],
+    [
+     104,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio XVII. Quare oportet eum simul etiam verè Deum esse?"
+  },
+  {
+   "scan": 107,
+   "line": 2,
+   "lines": [
+    [
+     107,
+     2
+    ],
+    [
+     107,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio XVIII. Quis autem est ille Mediator, qui simul est verus Deus, & verus perfectéque iustus homo?"
+  },
+  {
+   "scan": 118,
+   "line": 7,
+   "lines": [
+    [
+     118,
+     7
+    ],
+    [
+     118,
+     8
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio XIX. Unde id scis?"
+  },
+  {
+   "scan": 124,
+   "line": 5,
+   "lines": [
+    [
+     124,
+     5
+    ],
+    [
+     124,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio XX. Num igitur omnibus hominibus, qui in Adamo perierant, per Christum salus redditur?"
+  },
+  {
+   "scan": 126,
+   "line": 2,
+   "lines": [
+    [
+     126,
+     2
+    ],
+    [
+     126,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio XXI. Quid est vera fides?"
+  },
+  {
+   "scan": 135,
+   "line": 6,
+   "lines": [
+    [
+     135,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio XXII. Quænam sunt illa, quæ necesse est hominem Christianum credere?"
+  },
+  {
+   "scan": 136,
+   "line": 2,
+   "lines": [
+    [
+     136,
+     2
+    ],
+    [
+     136,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio XXIII. Quod est illud symbolum?"
+  },
+  {
+   "scan": 139,
+   "line": 1,
+   "lines": [
+    [
+     139,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio XXIV. In quot partes distribuitur hoc symbolum?"
+  },
+  {
+   "scan": 140,
+   "line": 4,
+   "lines": [
+    [
+     140,
+     4
+    ],
+    [
+     140,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio XXV. Cum una tantum sit essentia divina, cur tres istos nominas, Patrem, Filium & Spiritum sanctum?"
+  },
+  {
+   "scan": 158,
+   "line": 5,
+   "lines": [
+    [
+     158,
+     5
+    ],
+    [
+     158,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio XXVI. Quid credis, cùm dicis: Credo in Deum, Patrem omnipotentem, Creatorem cœli & terræ?"
+  },
+  {
+   "scan": 166,
+   "line": 7,
+   "lines": [
+    [
+     166,
+     7
+    ],
+    [
+     166,
+     8
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio XXVII. Quid est Providentia Dei?"
+  },
+  {
+   "scan": 185,
+   "line": 4,
+   "lines": [
+    [
+     185,
+     4
+    ],
+    [
+     185,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio XXVIII. Quid nobis prodest hæc cognitio creationis & providentiæ divinæ?"
+  },
+  {
+   "scan": 187,
+   "line": 3,
+   "lines": [
+    [
+     187,
+     3
+    ],
+    [
+     187,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio XXIX. Quare Filius Dei appellatur IESVS, hoc est, Salvator?"
+  },
+  {
+   "scan": 191,
+   "line": 4,
+   "lines": [
+    [
+     191,
+     4
+    ],
+    [
+     191,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio XXX. Creduntne igitur illi in unicum servatorem Iesum, qui à sanctis, aut à se, aut aliunde felicitatem aut salutem quærunt?"
+  },
+  {
+   "scan": 192,
+   "line": 4,
+   "lines": [
+    [
+     192,
+     4
+    ],
+    [
+     192,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio XXXI. Quare appellatur Christus, hoc est, unctus?"
+  },
+  {
+   "scan": 199,
+   "line": 6,
+   "lines": [
+    [
+     199,
+     6
+    ],
+    [
+     199,
+     7
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio XXXII. Cur verò tu Christianus appellaris?"
+  },
+  {
+   "scan": 204,
+   "line": 3,
+   "lines": [
+    [
+     204,
+     3
+    ],
+    [
+     204,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio XXXIII. Quam ob causam Christus vocatur Filius Dei unigenitus, cùm nos quoque simus filii Dei?"
+  },
+  {
+   "scan": 228,
+   "line": 4,
+   "lines": [
+    [
+     228,
+     4
+    ],
+    [
+     228,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio XXXIV. Qua de causa appellas eum Dominum nostrum?"
+  },
+  {
+   "scan": 231,
+   "line": 3,
+   "lines": [
+    [
+     231,
+     3
+    ],
+    [
+     231,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio XXXV. Quid credis, cùm dicis? Conceptus est per Spiritum sanctum, natus ex Maria virgine."
+  },
+  {
+   "scan": 234,
+   "line": 4,
+   "lines": [
+    [
+     234,
+     4
+    ],
+    [
+     234,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio XXXVI. Quem fructum percipis ex sancta conceptione & nativitate Christi?"
+  },
+  {
+   "scan": 239,
+   "line": 4,
+   "lines": [
+    [
+     239,
+     4
+    ],
+    [
+     239,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio XXXVII. Quid credis? cùm dicis: Passus est?"
+  },
+  {
+   "scan": 245,
+   "line": 2,
+   "lines": [
+    [
+     245,
+     2
+    ],
+    [
+     245,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio XXXVIII. Quid causæ fuit, cur sub judice Pilato pateretur?"
+  },
+  {
+   "scan": 246,
+   "line": 3,
+   "lines": [
+    [
+     246,
+     3
+    ],
+    [
+     246,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio XXXIX. Estne verò quiddam amplius, quod affixus est cruci, quam si alio genere mortis affectus esset?"
+  },
+  {
+   "scan": 247,
+   "line": 7,
+   "lines": [
+    [
+     247,
+     7
+    ],
+    [
+     247,
+     8
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio XL. Cur necesse fuit, ut Christus ad mortem usque se demitteret?"
+  },
+  {
+   "scan": 255,
+   "line": 2,
+   "lines": [
+    [
+     255,
+     2
+    ],
+    [
+     255,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio XLI. Quare etiam sepultus est?"
+  },
+  {
+   "scan": 256,
+   "line": 5,
+   "lines": [
+    [
+     256,
+     5
+    ],
+    [
+     256,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio XLII. At cum Christus pro nobis mortem oppetierit, cur nobis quoque est moriendum?"
+  },
+  {
+   "scan": 257,
+   "line": 2,
+   "lines": [
+    [
+     257,
+     2
+    ],
+    [
+     257,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio XLIII. Quid præterea capimus commodi ex crucifixione, morte, & sepultura Christi?"
+  },
+  {
+   "scan": 259,
+   "line": 1,
+   "lines": [
+    [
+     259,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio XLIV. Cur additur: Descendit ad inferos?"
+  },
+  {
+   "scan": 263,
+   "line": 6,
+   "lines": [
+    [
+     263,
+     6
+    ],
+    [
+     263,
+     7
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio XLV. Quid nobis prodest resurrectio Christi?"
+  },
+  {
+   "scan": 273,
+   "line": 2,
+   "lines": [
+    [
+     273,
+     2
+    ],
+    [
+     273,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio XLVI. Quomodo intelligis illud? Ascendit ad cœlos."
+  },
+  {
+   "scan": 278,
+   "line": 3,
+   "lines": [
+    [
+     278,
+     3
+    ],
+    [
+     278,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio XLVII. An ergo Christus non est nobiscum, usque ad finem mundi, quemadmodum promisit?"
+  },
+  {
+   "scan": 280,
+   "line": 1,
+   "lines": [
+    [
+     280,
+     1
+    ],
+    [
+     280,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio XLVIII. An verò isto pacto duæ naturæ in Christo non diuelluntur, si non sit humana, ubicunque est divina?"
+  },
+  {
+   "scan": 284,
+   "line": 1,
+   "lines": [
+    [
+     284,
+     1
+    ],
+    [
+     284,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio XLIX. Quem fructum nobis adfert ascensio Christi in cælum?"
+  },
+  {
+   "scan": 286,
+   "line": 4,
+   "lines": [
+    [
+     286,
+     4
+    ],
+    [
+     286,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio L. Cur additur: Sedet ad dexteram Dei?"
+  },
+  {
+   "scan": 291,
+   "line": 2,
+   "lines": [
+    [
+     291,
+     2
+    ],
+    [
+     291,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio LI. Quid nobis prodest hæc gloria nostri capitis Christi?"
+  },
+  {
+   "scan": 292,
+   "line": 3,
+   "lines": [
+    [
+     292,
+     3
+    ],
+    [
+     292,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio LII. Quid te consolatur reditus Christi ad iudicandum vivos & mortuos?"
+  },
+  {
+   "scan": 303,
+   "line": 3,
+   "lines": [
+    [
+     303,
+     3
+    ],
+    [
+     303,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio LIII. Quid credis de Spiritu sancto?"
+  },
+  {
+   "scan": 319,
+   "line": 3,
+   "lines": [
+    [
+     319,
+     3
+    ],
+    [
+     319,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio LIV. Quid credis de sancta & catholica Christi Ecclesia?"
+  },
+  {
+   "scan": 340,
+   "line": 3,
+   "lines": [
+    [
+     340,
+     3
+    ],
+    [
+     340,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio LV. Quid sibi vult communio sanctorum?"
+  },
+  {
+   "scan": 342,
+   "line": 5,
+   "lines": [
+    [
+     342,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio LVI. Quid credis de remissione peccatorum?"
+  },
+  {
+   "scan": 347,
+   "line": 4,
+   "lines": [
+    [
+     347,
+     4
+    ],
+    [
+     347,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio LVII. Quid te consolatur resurrectio carnis?"
+  },
+  {
+   "scan": 358,
+   "line": 1,
+   "lines": [
+    [
+     358,
+     1
+    ],
+    [
+     358,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio LVIII. Quam consolationem capis ex articulo de vita æterna?"
+  },
+  {
+   "scan": 364,
+   "line": 4,
+   "lines": [
+    [
+     364,
+     4
+    ],
+    [
+     364,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio LIX. At cum hæc omnia credis, quid utilitatis inde ad te redit?"
+  },
+  {
+   "scan": 364,
+   "line": 9,
+   "lines": [
+    [
+     364,
+     9
+    ],
+    [
+     364,
+     10
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio LX. Quomodo iustus es coram Deo?"
+  },
+  {
+   "scan": 374,
+   "line": 3,
+   "lines": [
+    [
+     374,
+     3
+    ],
+    [
+     374,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio LXI. Cur sola fide te iustum esse affirmas?"
+  },
+  {
+   "scan": 379,
+   "line": 2,
+   "lines": [
+    [
+     379,
+     2
+    ],
+    [
+     379,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio LXII. Cur nostra bona opera non possunt esse iustitia, vel pars aliqua iustitiæ coram Deo?"
+  },
+  {
+   "scan": 380,
+   "line": 2,
+   "lines": [
+    [
+     380,
+     2
+    ],
+    [
+     380,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio LXIII. Quomodo bona opera nihil promereantur, cùm Deus in præsenti & in futura vita mercedem pro his se daturum promittat?"
+  },
+  {
+   "scan": 380,
+   "line": 7,
+   "lines": [
+    [
+     380,
+     7
+    ],
+    [
+     380,
+     8
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio LXIV. An autem hæc doctrina non reddit homines securos & profanos?"
+  },
+  {
+   "scan": 385,
+   "line": 3,
+   "lines": [
+    [
+     385,
+     3
+    ],
+    [
+     385,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio LXV. Quoniam igitur sola fides nos Christi atque omnium eius beneficiorum participes facit: unde hæc fides proficiscitur?"
+  },
+  {
+   "scan": 386,
+   "line": 2,
+   "lines": [
+    [
+     386,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio LXVI. Quid sunt sacramenta?"
+  },
+  {
+   "scan": 398,
+   "line": 1,
+   "lines": [
+    [
+     398,
+     1
+    ],
+    [
+     398,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio LXVII. Num vtraque igitur & verbum & sacramenta eò spectant, ut fidem nostram ad sacrificium Christi in cruce peractum, tanquam..."
+  },
+  {
+   "scan": 400,
+   "line": 2,
+   "lines": [
+    [
+     400,
+     2
+    ],
+    [
+     400,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio LXVIII. Quot sacramenta instituit Christus in novo fœdere?"
+  },
+  {
+   "scan": 401,
+   "line": 3,
+   "lines": [
+    [
+     401,
+     3
+    ],
+    [
+     401,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio LXIX. Qua ratione in Baptismo admoneris, & confirmaris, te unici illius sacrificii Christi participem esse?"
+  },
+  {
+   "scan": 406,
+   "line": 5,
+   "lines": [
+    [
+     406,
+     5
+    ],
+    [
+     406,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio LXX. Quid est sanguine & Spiritu Christi ablui?"
+  },
+  {
+   "scan": 408,
+   "line": 1,
+   "lines": [
+    [
+     408,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio LXXI. Ubi promisit Christus, se nos tam certo sanguine & Spiritu suo abluturum, quàm aquâ baptismi abluti sumus?"
+  },
+  {
+   "scan": 410,
+   "line": 4,
+   "lines": [
+    [
+     410,
+     4
+    ],
+    [
+     410,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio LXXII. Estne ergo externus baptismus aquæ ipsa peccatorum ablutio?"
+  },
+  {
+   "scan": 411,
+   "line": 2,
+   "lines": [
+    [
+     411,
+     2
+    ],
+    [
+     411,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio LXXIII. Cur ergo Spiritus sanctus Baptismum appellat lavacrum regenerationis, & ablutionem peccatorum?"
+  },
+  {
+   "scan": 412,
+   "line": 2,
+   "lines": [
+    [
+     412,
+     2
+    ],
+    [
+     412,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio LXXIV. Suntne etiam infantes baptizandi?"
+  },
+  {
+   "scan": 423,
+   "line": 2,
+   "lines": [
+    [
+     423,
+     2
+    ],
+    [
+     423,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio LXXV. Qua ratione in Cœna Domini admoneris & confirmaris, te unici illius sacrificii Christi in cruce oblati, atque omnium eius bonorum participem esse?"
+  },
+  {
+   "scan": 428,
+   "line": 3,
+   "lines": [
+    [
+     428,
+     3
+    ],
+    [
+     428,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio LXXVI. Quid est crucifixum corpus Christi edere, & fusum sanguinem bibere: illisque pasci?"
+  },
+  {
+   "scan": 430,
+   "line": 1,
+   "lines": [
+    [
+     430,
+     1
+    ],
+    [
+     430,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio LXXVII. Quo loco promisit Christus, se credentibus tam certò corpus & sanguinem suum sic edendum & bibendum daturum, quàm fracta..."
+  },
+  {
+   "scan": 437,
+   "line": 2,
+   "lines": [
+    [
+     437,
+     2
+    ],
+    [
+     437,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio LXXVIII. Num ergo panis & vinum naturaliter fiunt ipsum corpus & sanguis Christi?"
+  },
+  {
+   "scan": 466,
+   "line": 1,
+   "lines": [
+    [
+     466,
+     1
+    ],
+    [
+     466,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio LXXIX. Cur ergo Christus panem appellat suum corpus, calicem verò suum sanguinem, seu novum fœdus per suum sanguinem?"
+  },
+  {
+   "scan": 467,
+   "line": 3,
+   "lines": [
+    [
+     467,
+     3
+    ],
+    [
+     467,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio LXXX. Quid interest inter cœnam Domini, & Missam Papisticam?"
+  },
+  {
+   "scan": 476,
+   "line": 2,
+   "lines": [
+    [
+     476,
+     2
+    ],
+    [
+     476,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio LXXXI. Quibus accedendum est ad mensam Domini?"
+  },
+  {
+   "scan": 481,
+   "line": 3,
+   "lines": [
+    [
+     481,
+     3
+    ],
+    [
+     481,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio LXXXII. Suntne illi etiam ad hanc cœnam admittendi, qui confessione & vita se infideles & impios esse declarant?"
+  },
+  {
+   "scan": 487,
+   "line": 1,
+   "lines": [
+    [
+     487,
+     1
+    ],
+    [
+     487,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio LXXXIII. Quid sunt claves regni cœlorum?"
+  },
+  {
+   "scan": 487,
+   "line": 5,
+   "lines": [
+    [
+     487,
+     5
+    ],
+    [
+     487,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio LXXXIV. Quo pacto aperitur & clauditur regnum cœlorum prædicatione Evangelii?"
+  },
+  {
+   "scan": 487,
+   "line": 10,
+   "lines": [
+    [
+     487,
+     10
+    ],
+    [
+     487,
+     11
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio LXXXV. Quo pacto clauditur & aperitur regnum cœlorum per disciplinam ecclesiasticam?"
+  },
+  {
+   "scan": 512,
+   "line": 2,
+   "lines": [
+    [
+     512,
+     2
+    ],
+    [
+     512,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio LXXXVI. Cum ab omnibus peccatis & miseriis, sine ullo nostro merito, sola Dei misericordia, propter Christum, liberati simus: quid..."
+  },
+  {
+   "scan": 514,
+   "line": 3,
+   "lines": [
+    [
+     514,
+     3
+    ],
+    [
+     514,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio LXXXVII. Non possunt igitur illi servari, qui ingrati, & in peccatis secure perseverantes, à sua pravitate ad Deum non convertuntur?"
+  },
+  {
+   "scan": 515,
+   "line": 2,
+   "lines": [
+    [
+     515,
+     2
+    ],
+    [
+     515,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio LXXXVIII. Quibus partibus constat conversio hominis ad Deum?"
+  },
+  {
+   "scan": 515,
+   "line": 6,
+   "lines": [
+    [
+     515,
+     6
+    ],
+    [
+     515,
+     7
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio LXXXIX. Quid est mortificatio veteris hominis?"
+  },
+  {
+   "scan": 515,
+   "line": 10,
+   "lines": [
+    [
+     515,
+     10
+    ],
+    [
+     515,
+     11
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio XC. Quid est vivificatio novi hominis?"
+  },
+  {
+   "scan": 524,
+   "line": 4,
+   "lines": [
+    [
+     524,
+     4
+    ],
+    [
+     524,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio XCI. Quæ sunt bona opera?"
+  },
+  {
+   "scan": 536,
+   "line": 3,
+   "lines": [
+    [
+     536,
+     3
+    ],
+    [
+     536,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio XCII. Quæ est lex Dei?"
+  },
+  {
+   "scan": 546,
+   "line": 5,
+   "lines": [
+    [
+     546,
+     5
+    ],
+    [
+     546,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio XCIII. Quomodo dividuntur hæc præcepta?"
+  },
+  {
+   "scan": 551,
+   "line": 1,
+   "lines": [
+    [
+     551,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio XCIV. Quid postulat Deus in primo præcepto?"
+  },
+  {
+   "scan": 551,
+   "line": 5,
+   "lines": [
+    [
+     551,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio XCV. Quid est idololatria?"
+  },
+  {
+   "scan": 565,
+   "line": 1,
+   "lines": [
+    [
+     565,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio XCVI. Quid postulat secundum præceptum?"
+  },
+  {
+   "scan": 572,
+   "line": 1,
+   "lines": [
+    [
+     572,
+     1
+    ],
+    [
+     572,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio XCVII. An nulla ergo prorsus fingenda sunt imagines aut simulacra?"
+  },
+  {
+   "scan": 578,
+   "line": 2,
+   "lines": [
+    [
+     578,
+     2
+    ],
+    [
+     578,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio XCVIII. An autem in templis imagines tolerari non possunt, quæ pro libris sint imperitæ multitudini?"
+  },
+  {
+   "scan": 584,
+   "line": 4,
+   "lines": [
+    [
+     584,
+     4
+    ],
+    [
+     584,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio XCIX. Quid sancit Deus in tertio præcepto?"
+  },
+  {
+   "scan": 585,
+   "line": 1,
+   "lines": [
+    [
+     585,
+     1
+    ],
+    [
+     585,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio C. Estne igitur adeo grave peccatum, iurando, aut dira imprecando, nomen Dei temerare, ut Deus etiam iis succenseat, qui quidem..."
+  },
+  {
+   "scan": 598,
+   "line": 1,
+   "lines": [
+    [
+     598,
+     1
+    ],
+    [
+     598,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio CI. Potestne quis etiam pie per nomen Dei iurare?"
+  },
+  {
+   "scan": 598,
+   "line": 6,
+   "lines": [
+    [
+     598,
+     6
+    ],
+    [
+     598,
+     7
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio CII. Estne licitum, iurare per sanctos, & alias creaturas?"
+  },
+  {
+   "scan": 606,
+   "line": 1,
+   "lines": [
+    [
+     606,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio CIII. Quid præcipit Deus in quarto præcepto?"
+  },
+  {
+   "scan": 622,
+   "line": 6,
+   "lines": [
+    [
+     622,
+     6
+    ],
+    [
+     622,
+     7
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio CIV. Quid nobis iniungit Deus in quinto præcepto?"
+  },
+  {
+   "scan": 631,
+   "line": 1,
+   "lines": [
+    [
+     631,
+     1
+    ],
+    [
+     631,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio CV. Quid flagitat Deus in sexto præcepto?"
+  },
+  {
+   "scan": 631,
+   "line": 6,
+   "lines": [
+    [
+     631,
+     6
+    ],
+    [
+     631,
+     7
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio CVI. Atqui hoc præceptum solam cædem prohibere videtur?"
+  },
+  {
+   "scan": 631,
+   "line": 11,
+   "lines": [
+    [
+     631,
+     11
+    ],
+    [
+     631,
+     12
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio CVII. An verò id satis est, nos neminem eo, quo dictum est modo, occidere?"
+  },
+  {
+   "scan": 638,
+   "line": 1,
+   "lines": [
+    [
+     638,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio CVIII. Quæ est sententia septimi præcepti?"
+  },
+  {
+   "scan": 638,
+   "line": 4,
+   "lines": [
+    [
+     638,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio CIX. Nihilne amplius prohibet Deus hoc præcepto, quam adulterium, & id genus turpitudines?"
+  },
+  {
+   "scan": 644,
+   "line": 4,
+   "lines": [
+    [
+     644,
+     4
+    ],
+    [
+     644,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio CX. Quid vetat Deus in octavo præcepto?"
+  },
+  {
+   "scan": 645,
+   "line": 1,
+   "lines": [
+    [
+     645,
+     1
+    ],
+    [
+     645,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio CXI. Quæ sunt ea, quæ Deus hic iubet?"
+  },
+  {
+   "scan": 650,
+   "line": 1,
+   "lines": [
+    [
+     650,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio CXII. Quid exigit nonum præceptum?"
+  },
+  {
+   "scan": 655,
+   "line": 1,
+   "lines": [
+    [
+     655,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio CXIII. Quid prohibet decimum præceptum?"
+  },
+  {
+   "scan": 658,
+   "line": 2,
+   "lines": [
+    [
+     658,
+     2
+    ],
+    [
+     658,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio CXIV. Possuntne autem illi, qui ad Deum conversi sunt, hæc præcepta perfecte servare?"
+  },
+  {
+   "scan": 662,
+   "line": 2,
+   "lines": [
+    [
+     662,
+     2
+    ],
+    [
+     662,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio CXV. Cur igitur vult Deus legem suam adeo exactè & severè prædicari, cum nemo sit in hac vita, qui eam servare possit?"
+  },
+  {
+   "scan": 669,
+   "line": 2,
+   "lines": [
+    [
+     669,
+     2
+    ],
+    [
+     669,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio CXVI. Quare Christianis necessaria est precatio?"
+  },
+  {
+   "scan": 672,
+   "line": 1,
+   "lines": [
+    [
+     672,
+     1
+    ],
+    [
+     672,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio CXVII. Quæ ad eam precationem requiruntur, quæ Deo placeat, quaque ab ipso exaudiatur?"
+  },
+  {
+   "scan": 672,
+   "line": 6,
+   "lines": [
+    [
+     672,
+     6
+    ],
+    [
+     672,
+     7
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio CXVIII. Quæ sunt ea, quæ à se peti iubet?"
+  },
+  {
+   "scan": 675,
+   "line": 3,
+   "lines": [
+    [
+     675,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio CXIX. Quæ est illa precatio?"
+  },
+  {
+   "scan": 677,
+   "line": 2,
+   "lines": [
+    [
+     677,
+     2
+    ],
+    [
+     677,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio CXX. Cur præcipit Christus, ut ita Deum compellemus: Pater noster?"
+  },
+  {
+   "scan": 679,
+   "line": 5,
+   "lines": [
+    [
+     679,
+     5
+    ],
+    [
+     679,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio CXXI. Cur additur: Qui es in cœlis?"
+  },
+  {
+   "scan": 680,
+   "line": 5,
+   "lines": [
+    [
+     680,
+     5
+    ],
+    [
+     680,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio CXXII. Quæ est prima petitio?"
+  },
+  {
+   "scan": 683,
+   "line": 4,
+   "lines": [
+    [
+     683,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio CXXIII. Quæ est secunda petitio?"
+  },
+  {
+   "scan": 689,
+   "line": 1,
+   "lines": [
+    [
+     689,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio CXXIV. Quæ est tertia petitio?"
+  },
+  {
+   "scan": 693,
+   "line": 2,
+   "lines": [
+    [
+     693,
+     2
+    ],
+    [
+     693,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio CXXV. Quæ est quarta petitio?"
+  },
+  {
+   "scan": 700,
+   "line": 1,
+   "lines": [
+    [
+     700,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio CXXVI. Quæ est quinta petitio?"
+  },
+  {
+   "scan": 704,
+   "line": 3,
+   "lines": [
+    [
+     704,
+     3
+    ],
+    [
+     704,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio CXXVII. Quæ est sexta petitio?"
+  },
+  {
+   "scan": 709,
+   "line": 1,
+   "lines": [
+    [
+     709,
+     1
+    ],
+    [
+     709,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio CXXVIII. Quomodo concludis precationem tuam?"
+  },
+  {
+   "scan": 710,
+   "line": 2,
+   "lines": [
+    [
+     710,
+     2
+    ],
+    [
+     710,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Quæstio CXXIX. Quid sibi vult particula, Amen?"
+  },
+  {
+   "scan": 711,
+   "line": 1,
+   "lines": [
+    [
+     711,
+     1
+    ],
+    [
+     711,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Index rerum & verborum memorabilium in hoc Corpore Doctrinæ"
+  },
+  {
+   "scan": 731,
+   "line": 0,
+   "lines": [
+    [
+     731,
+     0
+    ],
+    [
+     731,
+     0
+    ]
+   ],
+   "level": 1,
+   "title": "Miscellanea catechetica"
+  },
+  {
+   "scan": 733,
+   "line": 1,
+   "lines": [
+    [
+     733,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Præfatio. Philippus Pareus David filius lectori christiano salutem a Domino"
+  },
+  {
+   "scan": 741,
+   "line": 4,
+   "lines": [
+    [
+     741,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Aphorismi doctrinæ orthodoxæ reformatarum Ecclesiarum"
+  },
+  {
+   "scan": 741,
+   "line": 5,
+   "lines": [
+    [
+     741,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Articulus I. De persona Christi"
+  },
+  {
+   "scan": 749,
+   "line": 1,
+   "lines": [
+    [
+     749,
+     1
+    ],
+    [
+     749,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Articulus II. De morte Christi et eius merito"
+  },
+  {
+   "scan": 756,
+   "line": 1,
+   "lines": [
+    [
+     756,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "Articulus III. De adscensu Christi in cœlum"
+  },
+  {
+   "scan": 761,
+   "line": 11,
+   "lines": [
+    [
+     761,
+     11
+    ],
+    [
+     761,
+     12
+    ]
+   ],
+   "level": 3,
+   "title": "Articulus IV. De sessione Christi ad dextram Dei"
+  },
+  {
+   "scan": 767,
+   "line": 1,
+   "lines": [
+    [
+     767,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "Articulus V. De prædestinatione"
+  },
+  {
+   "scan": 781,
+   "line": 1,
+   "lines": [
+    [
+     781,
+     1
+    ],
+    [
+     781,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Articulus VI. De fide et præstantia sanctorum"
+  },
+  {
+   "scan": 785,
+   "line": 13,
+   "lines": [
+    [
+     785,
+     13
+    ],
+    [
+     785,
+     14
+    ]
+   ],
+   "level": 3,
+   "title": "Articulus VII. De ministerio ecclesiastico"
+  },
+  {
+   "scan": 787,
+   "line": 14,
+   "lines": [
+    [
+     787,
+     14
+    ]
+   ],
+   "level": 3,
+   "title": "Articulus VIII. De sacramentis in genere"
+  },
+  {
+   "scan": 791,
+   "line": 9,
+   "lines": [
+    [
+     791,
+     9
+    ]
+   ],
+   "level": 3,
+   "title": "Articulus IX. De baptismo"
+  },
+  {
+   "scan": 795,
+   "line": 4,
+   "lines": [
+    [
+     795,
+     4
+    ],
+    [
+     795,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Articulus X. De cœna Domini"
+  },
+  {
+   "scan": 799,
+   "line": 1,
+   "lines": [
+    [
+     799,
+     1
+    ],
+    [
+     799,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Articulus XI. De magistratu civili"
+  },
+  {
+   "scan": 815,
+   "line": 1,
+   "lines": [
+    [
+     815,
+     1
+    ],
+    [
+     815,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "D. Davidis Parei Thema sæculare de causis centum abhinc annis, immenso Dei beneficio, ex evangelicis Germaniæ Ecclesiis eliminati, semperque fugiendi Papatus Romani. Adversus Maximilianum Sandæum"
+  },
+  {
+   "scan": 847,
+   "line": 1,
+   "lines": [
+    [
+     847,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Symbolum B. Athanasii de Sanctissima Trinitate, & de Incarnatione Filii Dei, cum notis D. Davidis Parei"
+  },
+  {
+   "scan": 855,
+   "line": 8,
+   "lines": [
+    [
+     855,
+     8
+    ]
+   ],
+   "level": 2,
+   "title": "Fides catholica de incarnatione Filii Dei, Domini nostri Jesu Christi, juxta symbolum B. Athanasii breviter declarata"
+  },
+  {
+   "scan": 871,
+   "line": 1,
+   "lines": [
+    [
+     871,
+     1
+    ],
+    [
+     871,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "D. Davidis Parei Animadversiones pro asserenda orthodoxa doctrina de persona Jesu Christi, in theses D. Ægidii Hunnii de unione hypostatica"
+  },
+  {
+   "scan": 901,
+   "line": 1,
+   "lines": [
+    [
+     901,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Epistola D. Davidis Parei ad illustrem et generosum comitem, Dn. Ludovicum Witgensteinium, de justitia Christi activa et passiva"
+  },
+  {
+   "scan": 925,
+   "line": 1,
+   "lines": [
+    [
+     925,
+     1
+    ],
+    [
+     925,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Fragmentum orationis de quæstione ad quosnam fructus passionis et mortis Christi proprie pertineant, authore D. Davide Pareo"
+  },
+  {
+   "scan": 933,
+   "line": 1,
+   "lines": [
+    [
+     933,
+     1
+    ],
+    [
+     933,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Isagoge brevissima ad controversiam eucharisticam, exponens quæstiones præcipuas non controversas & controversas inter Evangelicos, authore D. Davide Pareo"
+  },
+  {
+   "scan": 939,
+   "line": 1,
+   "lines": [
+    [
+     939,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "D. Davidis Parei Epitome Arminianismi, sive examen quinque articulorum ministrorum remonstrantium in Belgio"
+  }
+ ],
+ "book": "Corpus doctrinae Christianae (Ursinus/Pareus, Ecclesiarum a Papatu Romano reformatarum, Hanover 1634 printing): front matter and dedications, Prolegomena in two parts, the Heidelberg Catechism explained in 129 questions in three parts, then miscellaneous tracts (Aphorisms, Thema saeculare, Athanasian Creed commentary, Hunnius disputation, Arminianism examen) and a subject index.",
+ "series": [
+  {
+   "label": "Pars",
+   "first": "I",
+   "last": "III",
+   "count": 3,
+   "level": 2,
+   "found": 13
+  },
+  {
+   "label": "Quæstio",
+   "first": "I",
+   "last": "CXXIX",
+   "count": 129,
+   "level": 3,
+   "found": 150
+  },
+  {
+   "label": "Prolegomena generalia",
+   "first": "I",
+   "last": "V",
+   "count": 5,
+   "level": 3,
+   "found": 150
+  },
+  {
+   "label": "Prolegomena specialia",
+   "first": "1",
+   "last": "5",
+   "count": 5,
+   "level": 3,
+   "found": 150
+  },
+  {
+   "label": "Articulus",
+   "first": "I",
+   "last": "XI",
+   "count": 11,
+   "level": 3,
+   "found": 150
+  }
+ ],
+ "taste": 6,
+ "doubt": "",
+ "input": 103275,
+ "output": 32320
+}
