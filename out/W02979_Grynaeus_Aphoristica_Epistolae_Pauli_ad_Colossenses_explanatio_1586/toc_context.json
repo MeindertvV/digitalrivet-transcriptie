@@ -1,0 +1,804 @@
+{
+ "work": "W02979_Grynaeus_Aphoristica_Epistolae_Pauli_ad_Colossenses_explanatio_1586",
+ "made": "2026-11-26T11:13:06",
+ "model": "claude-haiku-5-5",
+ "prompt": "655260ce46aa8978",
+ "candidates": 337,
+ "cost_usd": 0.03146,
+ "dropped": [
+  "no scans for 2 wanted"
+ ],
+ "toc": [
+  {
+   "scan": 7,
+   "line": 1,
+   "lines": [
+    [
+     7,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Illustri heroi, Dn. Floriano Griespec a Griespach, Domino Katzeraviae, Rosenthallae & Floriansburgi, aurato Bohemico Equ"
+  },
+  {
+   "scan": 9,
+   "line": 1,
+   "lines": [
+    [
+     9,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Praefatio."
+  },
+  {
+   "scan": 19,
+   "line": 1,
+   "lines": [
+    [
+     19,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Ioannis Iacobi Grynaei S. Theologiae D. Aphoristica expositio epistolae B. Pauli ad Colossenses, tradita in inclyta Academ"
+  },
+  {
+   "scan": 29,
+   "line": 1,
+   "lines": [
+    [
+     29,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "Initium epistolae ad Colossenses, Versus 1. & 2."
+  },
+  {
+   "scan": 36,
+   "line": 7,
+   "lines": [
+    [
+     36,
+     7
+    ]
+   ],
+   "level": 3,
+   "title": "Exordii pars prima"
+  },
+  {
+   "scan": 44,
+   "line": 1,
+   "lines": [
+    [
+     44,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "De fidei et spei doctrina et de eiusdem auditoribus, uersus 5. & 6."
+  },
+  {
+   "scan": 52,
+   "line": 2,
+   "lines": [
+    [
+     52,
+     2
+    ],
+    [
+     52,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "De Epaphra pastore, et de Colossensium ecclesia. versus 7. 8."
+  },
+  {
+   "scan": 56,
+   "line": 4,
+   "lines": [
+    [
+     56,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "De apostolico voto Pauli, pro Ecclesia Colossensium, verf. 9.10 11."
+  },
+  {
+   "scan": 59,
+   "line": 4,
+   "lines": [
+    [
+     59,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "De finibus Christianorum."
+  },
+  {
+   "scan": 66,
+   "line": 4,
+   "lines": [
+    [
+     66,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "De principiis restitutionis nostrae, versus 12. 13. 14."
+  },
+  {
+   "scan": 74,
+   "line": 3,
+   "lines": [
+    [
+     74,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Prosopographia Filii Dei, Domini nostri Iesu Christi."
+  },
+  {
+   "scan": 75,
+   "line": 4,
+   "lines": [
+    [
+     75,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Dei Patris et Filii unigeniti collatio: et antithesis Creatoris & rerum creatarum. Versu 15.16."
+  },
+  {
+   "scan": 83,
+   "line": 1,
+   "lines": [
+    [
+     83,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "Versus 17."
+  },
+  {
+   "scan": 87,
+   "line": 3,
+   "lines": [
+    [
+     87,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "3. Collatio Christi et Ecclesiae, versus 18.19."
+  },
+  {
+   "scan": 96,
+   "line": 2,
+   "lines": [
+    [
+     96,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "4. De beneficiis, quae mediator praestat Ecclesiae, versus 10."
+  },
+  {
+   "scan": 100,
+   "line": 2,
+   "lines": [
+    [
+     100,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "De Colossensium iustificatione, versu 21. 22."
+  },
+  {
+   "scan": 103,
+   "line": 2,
+   "lines": [
+    [
+     103,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "De perseverantia in fide evangelii, et de eius quibusdam causis. Versus 23. 24."
+  },
+  {
+   "scan": 112,
+   "line": 3,
+   "lines": [
+    [
+     112,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Encomium apostolatus beati Pauli, cuius finis est, ut evangelio concilietur debita & congrua fides. Versus 25."
+  },
+  {
+   "scan": 115,
+   "line": 2,
+   "lines": [
+    [
+     115,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Evangelii encomion, traditum versib. 26. 27."
+  },
+  {
+   "scan": 119,
+   "line": 1,
+   "lines": [
+    [
+     119,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "De Christo Iesu, qui est argumentum evangelici praeconij, versus 27.28.29."
+  },
+  {
+   "scan": 126,
+   "line": 2,
+   "lines": [
+    [
+     126,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput II. Caput secundum epistolae beati Pauli ad Colossenses"
+  },
+  {
+   "scan": 128,
+   "line": 1,
+   "lines": [
+    [
+     128,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "Prooemium, de apostolica cura et benevolentia Pauli erga Colossenses & alios, Versu 1.2.3."
+  },
+  {
+   "scan": 134,
+   "line": 2,
+   "lines": [
+    [
+     134,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "De consolatione sanctorum methodus definitiva."
+  },
+  {
+   "scan": 147,
+   "line": 4,
+   "lines": [
+    [
+     147,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Propositio totius capitis. Versus 4."
+  },
+  {
+   "scan": 150,
+   "line": 1,
+   "lines": [
+    [
+     150,
+     1
+    ],
+    [
+     150,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Argumentum primum, quo confirmatur propositio, de vitandis veri Christianismi corruptelis. Versu 5.6.7."
+  },
+  {
+   "scan": 158,
+   "line": 2,
+   "lines": [
+    [
+     158,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Argumentum secundum, ab enumeratione specierum ductum. Versus."
+  },
+  {
+   "scan": 166,
+   "line": 3,
+   "lines": [
+    [
+     166,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Argumentum primum ἀνασκευαστικὸν, traditum ultima versus 8. particula & versu 9. 10."
+  },
+  {
+   "scan": 183,
+   "line": 4,
+   "lines": [
+    [
+     183,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Confutatio tertiae corruptelae religionis, quae Pseudoiudaismi est. Versus 11."
+  },
+  {
+   "scan": 191,
+   "line": 4,
+   "lines": [
+    [
+     191,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Versus 12.13."
+  },
+  {
+   "scan": 206,
+   "line": 3,
+   "lines": [
+    [
+     206,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Versus 15."
+  },
+  {
+   "scan": 210,
+   "line": 1,
+   "lines": [
+    [
+     210,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "Versus 16.17."
+  },
+  {
+   "scan": 217,
+   "line": 5,
+   "lines": [
+    [
+     217,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Confutatio pseudophilosophiae, cui quum est locus, corrumpitur ab ea vera religio. Versus 18.19."
+  },
+  {
+   "scan": 231,
+   "line": 2,
+   "lines": [
+    [
+     231,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Confutatio secundae corruptelae verae religionis, quae est superstitio. Versu 20,21.22,23."
+  },
+  {
+   "scan": 239,
+   "line": 1,
+   "lines": [
+    [
+     239,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Caput III. Praefata in caput tertium"
+  },
+  {
+   "scan": 240,
+   "line": 5,
+   "lines": [
+    [
+     240,
+     5
+    ],
+    [
+     240,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "De studio rerum coelestium et divinarum. Versus 1. 2."
+  },
+  {
+   "scan": 249,
+   "line": 4,
+   "lines": [
+    [
+     249,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Versus 3. & 4."
+  },
+  {
+   "scan": 256,
+   "line": 4,
+   "lines": [
+    [
+     256,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Versus 5. 6."
+  },
+  {
+   "scan": 260,
+   "line": 3,
+   "lines": [
+    [
+     260,
+     3
+    ],
+    [
+     260,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Versus 7. Quibus in (vitijs) & vos versabamini quondam, quum in ijs viueretis."
+  },
+  {
+   "scan": 263,
+   "line": 2,
+   "lines": [
+    [
+     263,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Definitio regenerationis. Versus 9. 10."
+  },
+  {
+   "scan": 270,
+   "line": 2,
+   "lines": [
+    [
+     270,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Versus 11. De sanctorum ισονομία."
+  },
+  {
+   "scan": 276,
+   "line": 5,
+   "lines": [
+    [
+     276,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "De regenerationis effectis. Versus 12. 13."
+  },
+  {
+   "scan": 281,
+   "line": 5,
+   "lines": [
+    [
+     281,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Versus 13."
+  },
+  {
+   "scan": 287,
+   "line": 4,
+   "lines": [
+    [
+     287,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "De charitate. Versus 14."
+  },
+  {
+   "scan": 294,
+   "line": 2,
+   "lines": [
+    [
+     294,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "De pace sanctorum. Versus 15."
+  },
+  {
+   "scan": 297,
+   "line": 2,
+   "lines": [
+    [
+     297,
+     2
+    ]
+   ],
+   "level": 4,
+   "title": "De vera εὐθυμία"
+  },
+  {
+   "scan": 301,
+   "line": 6,
+   "lines": [
+    [
+     301,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "De studio verbi Dei. Versus 16."
+  },
+  {
+   "scan": 308,
+   "line": 1,
+   "lines": [
+    [
+     308,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "De fine architectonico vitae christianae, Versus 17."
+  },
+  {
+   "scan": 313,
+   "line": 2,
+   "lines": [
+    [
+     313,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Oeconomica christiana."
+  },
+  {
+   "scan": 317,
+   "line": 3,
+   "lines": [
+    [
+     317,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "De officio coniugum, versus 18.19."
+  },
+  {
+   "scan": 320,
+   "line": 2,
+   "lines": [
+    [
+     320,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "De mariti erga uxorem amore."
+  },
+  {
+   "scan": 324,
+   "line": 1,
+   "lines": [
+    [
+     324,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "De adiunctis liberorum et parentum, Versus 20.21."
+  },
+  {
+   "scan": 327,
+   "line": 2,
+   "lines": [
+    [
+     327,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "De adiunctis servorum. Versus 22.23.24."
+  },
+  {
+   "scan": 333,
+   "line": 8,
+   "lines": [
+    [
+     333,
+     8
+    ]
+   ],
+   "level": 3,
+   "title": "De officio dominorum. Vers. 25. & cap. 4. 1."
+  },
+  {
+   "scan": 339,
+   "line": 3,
+   "lines": [
+    [
+     339,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "De verae pietatis exercitiis. Vers. 2. 3. 4."
+  },
+  {
+   "scan": 343,
+   "line": 4,
+   "lines": [
+    [
+     343,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "De sapiente vitae christianae instituto. Versus 5."
+  },
+  {
+   "scan": 348,
+   "line": 4,
+   "lines": [
+    [
+     348,
+     4
+    ],
+    [
+     348,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "De virtute ΟΜΙΑΗΤΙ, Vers. 6."
+  },
+  {
+   "scan": 353,
+   "line": 2,
+   "lines": [
+    [
+     353,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Epilogus totius epistolae."
+  },
+  {
+   "scan": 353,
+   "line": 4,
+   "lines": [
+    [
+     353,
+     4
+    ]
+   ],
+   "level": 4,
+   "title": "De rebus familiaribus et ecclesiasticis. Versu 7.8.9."
+  },
+  {
+   "scan": 357,
+   "line": 1,
+   "lines": [
+    [
+     357,
+     1
+    ]
+   ],
+   "level": 4,
+   "title": "De salutatione sancta, versus 10.11.12.13.14."
+  },
+  {
+   "scan": 368,
+   "line": 1,
+   "lines": [
+    [
+     368,
+     1
+    ]
+   ],
+   "level": 4,
+   "title": "Versus 15."
+  },
+  {
+   "scan": 370,
+   "line": 1,
+   "lines": [
+    [
+     370,
+     1
+    ],
+    [
+     370,
+     2
+    ]
+   ],
+   "level": 4,
+   "title": "Tertia epilogi pars, Vers. 16.17."
+  },
+  {
+   "scan": 372,
+   "line": 7,
+   "lines": [
+    [
+     372,
+     7
+    ]
+   ],
+   "level": 4,
+   "title": "Postrema epilogi pars, Vers. 18."
+  }
+ ],
+ "book": "Printed Latin commentary (Basel, Henricpetri, 1586) by Johannes Jacobus Grynaeus on Paul's Epistle to the Colossians: a dedication, a preface and the work title come first, then an introduction, the four chapters of the epistle, each cut into verse-sections with numbered aphorisms, theses and problems, and an epilogue with its parts.",
+ "series": [
+  {
+   "label": "Caput",
+   "first": "I",
+   "last": "IV",
+   "count": 4,
+   "level": 2,
+   "found": 2
+  },
+  {
+   "label": "Pars epilogi",
+   "first": "Prima",
+   "last": "Postrema",
+   "count": 4,
+   "level": 4,
+   "found": 6
+  }
+ ],
+ "taste": 50,
+ "doubt": "",
+ "input": 67617,
+ "output": 36467
+}
