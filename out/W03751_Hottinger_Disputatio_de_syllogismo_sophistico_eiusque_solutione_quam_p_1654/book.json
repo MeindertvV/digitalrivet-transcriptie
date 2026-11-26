@@ -1,0 +1,4109 @@
+{
+ "source": "W03751_Hottinger_Disputatio_de_syllogismo_sophistico_eiusque_solutione_quam_p_1654.pdf",
+ "pages": [
+  {
+   "n": 1,
+   "type": "title",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": null,
+     "text": "Disputatio de syllogismo sophistico, eiusque solutione",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Hottinger, Johann Heinrich",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Tiguri, 1654",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Zentralbibliothek Zürich",
+     "heading": 0
+    }
+   ],
+   "notes": "The e-rara logo, the Visual Library logo, the www.e-rara.ch web address and the persistent link (https://doi.org/10.3931/e-rara-13589) are digitiser's material and are left out. The cover notes in German, English, French and Italian about the digital copy and its terms of use are digitiser's text, not printed on the book, and are left out."
+  },
+  {
+   "n": 2,
+   "type": "title",
+   "model": "claude-haiku-5-5",
+   "number": "15",
+   "lines": [
+    {
+     "n": null,
+     "text": "DISPUTATIO,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "De",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Syllogismo Sophistico, ejusque solutione:",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Quam;",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "DEO Ter.Opt. Max.juvante ;",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "PRAESIDE",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "JOH. HENRICO HOTTINGERO,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Ecclesiasticæ Historiæ, Linguarum Orientalium, Artiumque Logic. in Collegio Carolino Professore ordinario;",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Pro consequendo Examine Philosophico alternatim sequentes ventilabunt Candidati.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "CASPARUS ESSLINGERUS.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "GEORGIUS BRUNNERUS.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "CONRADUS HEIDEGGERUS.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "GEORGIUS GLOGGERUS.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "CONRADUS MOESLINUS.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "RODOLPHUS HOFMANNUS.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "RODOLPHUS BALBERUS.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "CASPARUS HESSIUS.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "PELAGIUS FREIHOFERUS.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "CONRADUS MEIERUS.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "TIGURI,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Typis. JOH. HENRICI HAMBERGERI, 1654.",
+     "heading": 0
+    }
+   ],
+   "notes": "The title is set in mixed type; the year is printed as \"1 6 5 4\" with spaced figures, transcribed as 1654. The \"Quam;\" and \"DEO Ter.Opt. Max.juvante\" lines are as printed. Handwritten \"15\" at top right is not printed text and is omitted from the page number field only in the sense that it is manuscript; it is given as page_number."
+  },
+  {
+   "n": 3,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "CELEUSMA EPICUM.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "Foeda superstitio, tenebrosæ filia noctis",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "Lethiferum postquam stygiis caput extulit",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "undis, Omnia pervertit, Jovam post tergora mittens,",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "Fucatâ Sophiâ: Nodis involvere porrò",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "Cœptum est lymphatæ confinia dogmata menti.",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "Ergo opus est seutica [?]: justis hanc plectite flagris",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "O Socii! Injectis frenate sophisma lupatis!",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "Eximius Doctor præit Hottingerus, & adstat",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "Præstes, qui tanti mensuram nominis implet.",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "Hinc exurget honos, hinc tempora laurea cinget.",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "Christe, Dei Fili, tu nostram, dirige cymbam,",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "Clementer dextram mento suppone natanti!",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "Da te Navarchâ felicia littora tangat",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "Nostra ratis: Laudémque tuam cantabimus usque!",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "<i>S-</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 17,
+     "text": "<i>ic Candidatorum suóque nomine ponit ac vovet</i>",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "JOHANNES RODOLPHUS BALBERUS.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 19,
+     "text": "συςεαπιώτης [?].",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "notes": "The initial F of the first line is a large drop capital, joined to \"oeda\" as \"Foeda\". Line 6 reads \"seutica\" as printed; it probably means \"scutica\", so it is marked [?]. The Greek signature line is hard to read and is uncertain. A ghosted mirror image of a heading from the reverse side appears at the top right and is not transcribed. A library stamp is present and not transcribed."
+  },
+  {
+   "n": 4,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "I.",
+     "heading": 1,
+     "caput": "1",
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "Doctrinam de Syllogismo ζοφιστικῶν ἢ ἀπατηλικῶν, qui",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "Logicâ (a) eliminant, non vident latibula (b) se &",
+     "heading": 2
+    },
+    {
+     "n": 4,
+     "text": "insidias parare adversariis.",
+     "heading": 2
+    },
+    {
+     "n": 5,
+     "text": "[a] Quæ mens est Rami & Ramæorum ; quibus oppone",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "Kecker, præcog. Log. tract. III. p. 219. Burgersd. Inst. Log. l. II. c. 25. Dic-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "ter. lib II. p. 315. & alios.",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "[b] Neque enim impostores his facilè valedicent artibus, etsi",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 9,
+     "text": "nullis nostri contra eas muniantur ἀμυνταρίοις. Videmus, studio",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "& arte fucata ejusmodi, sophismata; tincta tela, elisa etiã, ab ad-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "versariis repeti; quid fiat, si tyrones nostri hæc arma tractare ne",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "quidem didicerint? Audaciores certò reddent πλάνες istos, & ad",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "nocendum ferociores. Idem ergo est officium boni Logici,",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "quod esse scribit <i>Epiphanius</i> initio Panar. boni Medici & Theolo-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "gi. <i>Nicander, inquit, scriptor, bestiarum & reptilium naturas cogni-</i>",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "<i>tas fecit. Alii verò scriptores de radicibus & herbis prodiderunt ve-</i>",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "<i>lut Dioscorides materiarius, Pamphilus, ac Mithridates Rex, Calli-</i>",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "<i>sthenes & Philo, Iolaus item Bithynus, & Heraclides Tarentinus, Cra-</i>",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "<i>tevas herbarius, Andreas, Basius Tylius, Niceratus, Petronius, Niger,</i>",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "<i>Diodotus & alii quidam. Eodem modo etiam nos Sectarum radices &</i>",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "<i>opiniones revelare conantes, non in detrimentum legentium, sed velut</i>",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "<i>relati scriptores studio habuerunt, non ut malum indicarent, sed ad ti-</i>",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "<i>morem & cautionem humanæ naturæ, ut mala & perniciosa cognosce-</i>",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "<i>rent homines, seq. præmunirent, & per potentiam DEI effugerent, per</i>",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "<i>animadversionem & repudiationem. At si qui in talia jam incidis-</i>",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "<i>sent, & ab ejusmodi insidias pertulissent, aut per insufflationem, aut per</i>",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "<i>morsum, aut aspectum: iidem de his solliciti, auxiliares radices ac herbas</i>",
+     "heading": 0
+    }
+   ],
+   "signature": "A 2",
+   "notes": "Greek words in the heading and in [b] are transcribed as closely as the scan allows; some Greek letters are uncertain and should be checked against the original. The marginal references [a] and [b] are printed inline in the text block and were treated as in-text markers. Possible misreadings: \"ἀμυνταρίοις\" and \"πλάνες\" in [b]; \"Nicander\" passage italic run. No printed page number visible."
+  },
+  {
+   "n": 5,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "repaired_xml",
+     "text": "missing or unbalanced tag(s) repaired by the script; the words are unchanged"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "<i>praescripserunt, ad praedictorum reptilium improbitates irritas facien-</i>",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "<i>das. Sic etiam nobis studium est, per relatorum, & vestram, dilectissi-</i>",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "<i>mi fratres, exhortationem, ut malorum reptilium ac bestiarum tum for-</i>",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "<i>mas tristes, tum morsus lethales revelemus. Ad oppositionem vero ho-</i>",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "<i>rum quacunque possumus in compendio dicere, unum atque alterum ver-</i>",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "<i>bum ad repellendum ipsorum venenum & servandum eum, qui Domi-</i>",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "<i>num sequi velit, sive ex sua sententia, sive invitus in eadem reptilia</i>",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "<i>haeresion ac sectarum dogmata illapsum instar antidotorum apponemus.</i>",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "Hac Methodo, hoc scopo & usu Logicus doctrinam de Fallaciis",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "proponit & propinat.",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "II. His vero strophis & sophismatis ludere etsi",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 12,
+     "text": "periculosum ubique sit; in religionis tamen nego-",
+     "heading": 2
+    },
+    {
+     "n": 13,
+     "text": "tio & frequens est, & intolerabile.",
+     "heading": 2
+    },
+    {
+     "n": 14,
+     "text": "III. Nobis speciminis loco in theatrum produ-",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 15,
+     "text": "cere placeret Papatum, cui, si fallacias ademeris, ad",
+     "heading": 2
+    },
+    {
+     "n": 16,
+     "text": "sui sustentationem parum restabit.",
+     "heading": 2
+    },
+    {
+     "n": 17,
+     "text": "IV. Hanc vero quia operam cum laude praesti-",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 18,
+     "text": "terunt (a) alii, falcéque sua hunc demessuerunt a-",
+     "heading": 2
+    },
+    {
+     "n": 19,
+     "text": "grum, universum de fallaciis percurremus cam-",
+     "heading": 2
+    },
+    {
+     "n": 20,
+     "text": "pum, spicilegio, si quod hominum industria reli-",
+     "heading": 2
+    },
+    {
+     "n": 21,
+     "text": "querit, contenti.",
+     "heading": 2
+    },
+    {
+     "n": 22,
+     "text": "[a] Doctissimus cum primis & acutissimus Chamier, Panstrat.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 23,
+     "text": "II. lib. 16. c. 8. 9. & decimo.",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "V. Fallaciae autem committuntur vel in For-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 25,
+     "text": "ma, vel in Materia. Illæ, cum Leges Syllogisticæ vio-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "lantur; hæ vel in verbis apparent, vel in rebus. Un-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "de Fallacia Materiae iterum est vel in dictione, vel ex-",
+     "heading": 0
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "extra dictionem. Fallaciæ in dictione numeran-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "tur Sex 1. Homonymiæ. 2. Amphiboliæ. 3 Com-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "positionis. 4. Divisionis. 5. Accentus. 6. Figuræ",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "Dictionis. Fallaciæ extra dictionem sunt septem. 1.",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "Fallacia Accidentis. 2. A dicto secundùm quid ad",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "dictum simpliciter. 3. Ignoratio Elenchi. 4. Petitio",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "principii. 5. Consequentiæ. 6. A non causa",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "ut causa. 7. A pluribus interrogationibus.",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "VI. Fallacia Homonymiæ ex unius tantùm vocis",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 10,
+     "text": "ambiguitate oritur.",
+     "heading": 2
+    },
+    {
+     "n": 11,
+     "text": "Ex hac enim quatuor statim emergunt termini, quos Syllogistica",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 12,
+     "text": "forma non fert. Atque huc pertinent I. Omnes voces",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "<i>ambiguæ,</i> sive ἀπὸ τύχης, sive ἐκ προσωπέσεως tales, <i>Metaphoricæ</i> cumprimis,",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "quæ vel subjectum reddunt ambiguum, vel PræPredicatum,",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "vel Medium. Unde tripliciter Homonymia contingere potest. II.",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "<i>Quæstiones</i> seu interrogationes <i>captiosæ</i>; Cessâsti furari, annon?",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "Sive affirmes, sive neges, in luto hæres; nisi distinctione",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "emerseris. Hac ambiguitate ludunt Pontificii A contra fidem",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "justificantem: <i>Charitas est major fide. E. Fides magis justificat. Fidei</i>",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "enim vox 1.Cor.13.v.2. non fiduciam significat, sed fidem mi-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "raculorum. Latet & fallacia à dicto secundùm quid ad dictum",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "simpliciter, item à non causa ut causa. Vide <i>Calvin.</i> Instit. 1.3.c",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "18.S.8. B. pro merito operum, maximè dilectionis, <i>Col.3.v.14.</i> ἡ ἀγάπη ἐστὶ",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "σύνδεσμος τῆς τελειότητος: <i>Homonymia</i> est in Prædicato",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "<i>perfectionis,</i> quæ ad Ecclesiæ εὐρυθμίαν pertinet & complementum,",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "non verò ad causas nostræ justificationis. Vide <i>Cal.l.c.</i> C.",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "Pro <i>cæco obsequio Ecclesiæ debito.</i> Voci Ecclesiæ parendum est.",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "Ceremoniæ, ritus, &c. sunt vox Ecclesiæ. <i>Vox</i> enim ὁμωνύμως sumitur. Si",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "ἐγγεγραμμένον est, ex Mosis Cathedra pronunciata conce-",
+     "heading": 0
+    }
+   ],
+   "signature": "A 3",
+   "notes": "Several Greek words are printed in a cursive, partly worn type and are transcribed as best read. The Greek on the line \"ἡ ἀγάπη\" and \"ἐγγεγραμμένον\" may be imperfect. \"Præ-Predicatum\" appears as printed with a doubled prefix; the printed reading is uncertain. The running head is absent on this page."
+  },
+  {
+   "n": 7,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: ni"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "dimus <i>Matth.</i>23.2. Sed si ἀγςαφῷ non modò, sed & ἀνπγςαφῷ, si",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "fermentum, negamus; <i>Matth.</i>16.5.&12.",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "VII. Fallacia <i>Amphibolia</i>, cùm dubia plurium vo-",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "cùm sententia ambiguos efficit terminos.",
+     "heading": 2
+    },
+    {
+     "n": 5,
+     "text": "Vocatur aliàs <i>ambiguitas Syntaxeos</i>, quæ committitur 1. cùm",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "ipsa orationis syntaxis est ambigua. 2. quando phrasis aut ser-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "monis genus parit sententiæ incertitudinem. <i>Prioris</i> generis sal-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "laciam struunt Pontificii, liberi arbitrii patroni, ex illo <i>Gen.</i>4.",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "v.7. ubi Deus ad Cainum: <i>Appetitus ejus super te; & imperabis ei.</i>",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "E sibi, suæque voluntati imperat homo. Fallacia est Amphibo-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "lia, ex ambiguitate constructionis nata. Affixum enim vau non",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "ad <i>peccatum</i>, sed ad <i>Abelem</i> referri debet. Eadem etiam chorda",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "oberrant Judæi. Vide <i>Anal</i> p.92. <i>Calvin.</i> Instit. l.2.c.5.S.16. <i>Poste-</i>",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "<i>rioris</i> classis amplam præbet segetem ignorantia Idiotismorum",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "Græcorum & Hebraicorum, quæ multa errorum portenta in",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "Ecclesiam invexit. Sit exemplo trita illa captio, <i>Gen.</i>48.16. <i>Vo-</i>",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "<i>luit Jacob nomen suum post mortem invocari super liberis suis.</i> E mor-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "tui possunt invocari. Ineptus est paralogismus, quem linguæ",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "Hebrææ peperit ignorantia, cujus ipsosmet pudere cœpit emun-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "ctiorum narium Doctores Pontificios. Vide. <i>Anal.</i>p.213.",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "VIII. Fallacia <i>compositionis</i> fit, cùm conjunguntur",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 22,
+     "text": "dividenda.",
+     "heading": 2
+    },
+    {
+     "n": 23,
+     "text": "Luditur hoc Sophismate, vel ex natura rei, adeoque materia;",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 24,
+     "text": "vel dispositione sive rebus & verbis. De priori eleganter <i>Dan.</i>",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "<i>Elench.hæref.p.72. Quoties, quæ vel reipsa separari debent à se se,</i>",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "<i>conjunguntur; vel quà ratione distingui oportet, confunduntur, atque</i>",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "<i>inde fit fallacia, est à compositione. In quo nihil interest, si quæ in unum</i>",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "<i>coagmentantur & connectuntur, reipsa & loco diduci possunt, sive non,</i>",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "<i>veluti duo homines, qui sunt Individua, separari possunt: vel si animo</i>",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "<i>tantùm & ratione distingui possunt, reipsa autem nequeant sejungi,</i>",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "<i>veluti duæ in Christo naturæ, quæ separarari ipsa non possunt, quia</i>",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "<i>in una persona unitæ sunt & coalescunt: ratione tamen distingui & discerni</i>",
+     "heading": 0
+    }
+   ],
+   "catchword": "ni",
+   "notes": "Printed text is in several fonts; the italic passage at the foot of the page is set in italic and was transcribed as such. Greek words in the first paragraph are rendered approximately; the Greek letters are uncertain in places. The word \"Amphibolia\" after \"Fallacia\" is printed in italic. The line \"ni\" at the very bottom right is a catchword-like hyphen remnant, given as a foot note. Some words in the italic section are uncertain and may be misread."
+  },
+  {
+   "n": 8,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "ni possunt. Quales item tres in Trinitate Personæ; qualia corpus & anima,",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "& alia infinita, & omnia quidem quæ numero quidem unum dicun-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "tur, distinguuntur tamen ratione. <i>Posteriori modo</i> fallacia compo-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "sitionis committitur, quoties cunque à divisis ad conjuncta insti-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "tuitur argumentatio, quod fit 1. in Enunciationibus modalibus,",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "ut: <i>possibile est ridentem lacrymare.</i> Si enim participium <i>ridentem</i>",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "referatur ad lacrymare, enunciatio erit falsa; sin cōjungatur cum",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "modo Possibile, enunciatio est vera. Habet enim, qui modò ri-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "det, facultatem etiam plorandi. 2. Cùm de toto colligitur, quod",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "de partibus dicitur; ut: <i>Duo & tria sunt par & impar. Quinq; sunt</i>",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "<i>duo & tria.</i> Ergò, <i>quinq; sunt par & impar.</i> 3. Cùm conjungun-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "tur, quæ seorsim prædicantur, ut: <i>Hic canis est pater. Hic canis est</i>",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "<i>tuus.</i> E Hic <i>canis est pater tuus.</i> Hujus fallaciæ etsi exempla Theo-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "logica plura afferri possent, unico tamen contenti, concomitan-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "tiæ, quam vocant, corporis & sanguinis in Missa infirmitatem",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "ostendemus. Ita illi: <i>Qui in cœna panem manducat, corpus Christi</i>",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "<i>manducat. Corpus Christi non est sine sanguine suo.</i> E <i>qui in cœna pa-</i>",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "<i>nem manducat, corpus & sanguinem Christi manducat.</i> Manifesta est",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "hæc fallacia à compositione, & connexione separatorum. Se-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "paravit enim Christus carnem suam à sanguine suo. <i>Calv. l. 4. In-</i>",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "<i>stit. c. 17. S. 18.</i>",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "IX. Fallacia <i>divisionis</i> est, quâ dividuntur conjungenda.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 23,
+     "text": "Committitur hæc fallacia 1. in Enunciationibus, quarum",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 24,
+     "text": "partes conjunctione aliqua Grammatica conjunguntur, aut se-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "parantur, ut; <i>omnis Christianus vel est Orthodoxus, vel Heterodoxus.</i>",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "<i>At qui non omnis est Orthodoxus. E. omnis est Heterodoxus.</i> Fallaciæ",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "causa est majoris divisio, quæ tantùm vera est, si conjunctim su-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "matur, & ut simplex enuntiatio, cujus attributum Orthodoxus",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "& Heterodoxus. 2. Cùm in majore nota quantitatis accepta",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "collectivè, aut distributivè in genera singulorum, usurpata in-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "telligitur distributivè, in singula generum; ut: <i>DEUS vult omnes</i>",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "<i>homines salvos fieri. Multi homines non fiunt salvi. E. multi homi-</i>",
+     "heading": 0
+    }
+   ],
+   "marginalia": [
+    {
+     "side": "right",
+     "at": "multi homi-",
+     "line_from": 32,
+     "line_to": 32,
+     "text": "nes."
+    }
+   ],
+   "notes": "The final word \"nes.\" is printed at the right margin, below the last line, as a continuation. Show-through from the reverse page is not transcribed. Italic and roman type are distinguished as far as legible; \"Quinq;\" and \"quinq;\" are read as printed."
+  },
+  {
+   "n": 9,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: stantia-"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "<i>nes,quos Deus vult fieri salvos,non fiunt salvi.</i> Fallaciae sedes est",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "in vocula <i>omnis</i>, quae, si de singulis generum accipiatur, majorem",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "gignit falsam; si de generibus singulorum, minorem. 3. Cùm",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "dictio,quę ad Antecedentia pertinet,ad consequentia refertur,aut",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "contra. Tale est illud Menandri: <i>ἐγὼ πε ἐθηκα ἆλον ὀν͂(α)</i>",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "<i>ἐλεύθερον,</i> quae verba, pro diversa interpunctione, diversum habent sen-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "sum. 4. Cùm locus aliquis citatur truncatè, exemplo Sathanae:",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "<i>Matth.</i>c.4. 5. Cùm vox eadem,modò conjunctim sumitur,mo-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "do divisim: quae fallacia in sermone frequentius occurrit,quàm",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "in scriptis,ubi <i>εὐάλωτ@ καὶ ἀδύνατον ἐλεγχ@</i> est. 6. Cùm de parti-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "bus colligitur quod dicitur de toto. <i>Septem sunt unus numerus.</i>",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "<i>Tria & quatuor sunt septem. E. Tria & quatuor sunt unus numerus.</i>",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "7. Cùm dividuntur,quae conjunctim praedicantur. <i>Homerus</i>",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "<i>est bonus Poeta. E. est bonus.</i> Brevius. <i>Fallacia divisionis committitur</i>",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "<i>vel in simplici voce cùm per διαίρεσιν disjunguntur, quae ὑφ' ἓν, vel (συναίρε-</i>",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "<i>σις) conjungere deberet; vel in tota oratione.</i> Sic quoties res conjun-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "ctae vel subjecto, cui in sunt; vel naturâ, quam habent, vel dicto",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "seu oratione, separantur, hanc fallaciam constituunt: quae",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "de re <i>Dan.</i> in Elench.haeref.p.81.82. Hac fallacia multis Papistae dog-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "matibus fucum faciunt,ea praesertim specie, qua loca Scripturae",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "mutilant, eaque obtorto collo in obsequium <i>ψευδεπιδᾶο καλῶν</i>",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "cogunt. Purgatorio subsidium quaerunt ex lem mate <i>1.Cor.3.13. καὶ ἑκάστου</i>",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "<i>τὸ ἔργον ὁποῖόν ἐστι, τὸ πῦρ δοκιμάσει.</i> E. est carcer purgatorius",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "in quo poena peccatis debita eluitur. Limbo patrocinium osten-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "dunt verbis <i>Petri</i> 1.Ep.3.v.19. <i>ἐν ᾧ καὶ τοῖς ἐν φυλακῇ πνεύμασι πορευθεὶς</i>",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "<i>ἐκήρυξε.</i> Pari felicitate Missam nuper quidam ex S. Sc. eruere",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "voluit verbis. <i>Missa est,</i> inquit, <i>calci Epistolarum Paulinarum</i>",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "<i>attexitur.</i> E. Missa vox <i>ἀγραφ@</i> non est. Nec minus futile illud",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "cujusdam pro dominio Cleri <i>κλῆρος,</i> quo dictum Christi, <i>Luc.22. v.26. οἱ ἐξουσιάζοντες αὐτῶν εὐεργέται</i>",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "<i>καλοῦνται, ὑμεῖς δὲ οὐχ οὕτως, vos autem non sic</i> i.e. alia vero (usitato Hebraismo,cujusmodi occurrit <i>Psal.</i>",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "1.v.4.) vestri est ratio; scurriliter ita elusit: <i>Vos autem non? Sic;</i>",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "Ex negativa affirmativam cudit. Hac etiam fallacia Transsub-",
+     "heading": 0
+    }
+   ],
+   "catchword": "stantia-",
+   "notes": "Greek passages and some marginal or inline references are only partly legible in the scan; Greek words are transcribed as best read and may contain errors. The last word of the page, \"stantia-\", is a catchword-like hyphenated fragment continuing onto the next page. Faint show-through from the reverse side is ignored."
+  },
+  {
+   "n": 10,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "stantiationis portentum defendunt, & μλυτοπίας. Potest, inqui-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "unt, DEUS sua efficere virtute, ut ex pane fiat corpus Christi. E. actu",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "etiam fit. Separant hic voluntatem Dei à potentia, quae in re-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "rum productione sunt ἀχωρίστα. Plura Deus potest, quàm vult.",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "IX. Fallacia Figurae dictionis est, cùm, vel ex dictionum",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "vel phrasium similitudine colligitur, eadem illis ac-",
+     "heading": 2
+    },
+    {
+     "n": 7,
+     "text": "cidentia, eundem sensum, aut significationem con-",
+     "heading": 2
+    },
+    {
+     "n": 8,
+     "text": "venire.",
+     "heading": 2
+    },
+    {
+     "n": 9,
+     "text": "Committitur ergò haec Fallacia, ὅταν τὸ μὴ τωυτὸν ὡσαύτως",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 10,
+     "text": "ἑρμηνεύεται, quando quis, quod idem non est, interpretatur eodem modo; ut",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "loquitur Aristoteles, quod fieri solet. A. <i>In vocibus</i> 1. cùm ex si-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "militudine terminationis colliguntur similia accidentia, vel",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "Grammatica, vel Praedicamentalia, ut si quis diceret: <i>Eustochi-</i>",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "<i>um</i>, cujus crebra apud Hieronymum mentio, generis esse neu-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "trius; aut <i>vapulare, erubescere, &c.</i> pertinere ad Praedicamentum",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "Actionis, quod terminatio faveat. 2. Cùm vocabula",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "παρωνυμα seu Notiones secundae cum primis confunduntur, ut:",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "<i>Deus est ubiq.: ubiq. est adverbium. E. Deus est adverbium.</i> 3. Cùm",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "permiscentur res diversorum Praedicamentorum, <i>ut: Quod mane</i>",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "<i>in macello emisti, id in cœna comedisti: Atqui carnem crudam in macello</i>",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "<i>emisti.</i> E. <i>Carnem crudam in cœna comedisti.</i> Major de substantia",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "carnis, Minor de Qualitate intelligitur. 4. Huc pertinent Sophis-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "mata, in quibus vocabula perperam junguntur cum Nomini-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "bus, Pronominibus, aut Adverbiis Relationis, <i>qualis, quantus, qui,</i>",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "<i>quae, quod, quot, toties, &c.</i> ut: <i>Quod ego sum, tu non es: Ego sum homo:</i>",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "<i>Ergò tu non es homo.</i> Assumitur hic species, cùm <i>quod</i> notet In-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "dividuum. B. <i>Sed in tota oratione</i> non uno modo hac peccari",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "fallacia, docte observavit <i>Danaeus</i> in Elencho. Huc refert 1. Lo-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "ca Scripturae, quae, cùm vel Imperium tantùm significent, para-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "bolam, vel exemplum, ab una persona petitum, pro assertione,",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "rei veritate, aut regula universali ponuntur. Ut, cùm ex verbis",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "Scripturae; <i>Fac bonum, fuge a malo</i>, Psal. 34.15. concludunt: E. <i>in</i>",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "B",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "signature": "B",
+   "notes": "Greek words are reproduced from the scan and may contain small errors; the lower-case \"B\" under the text is a signature mark. Several Greek words (e.g. παρωνυμα, ἀχωρίστα) are doubtful. The line ending \"in\" is printed as italic \"in\" and may be the catchword-like start of the next line; left as printed."
+  },
+  {
+   "n": 11,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "<i>nobis est vel bene vel male facere.</i> Hujusmodi enim formulæ,",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "quæ per <i>Imperativum, & hypotheticum,</i> ut vocant, <i>modum</i> concipiun-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "tur, non tam notant, quid à nobis fieri possit, quàm quid fieri de-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "beat. II. Hoc vitio laborant, qui literarum ordini & syllaba-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "rum, aut verborum situi ita religiosè sunt astricti, ut voces ma-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "lint, quàm sensum venari. Ex hac officina prodit paralogismus:",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "Johannes, <i>Matth.3. 2. de pœnitentia hoc loquitur ordine:</i> Pœniten-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "tiam agite, quia appropinquat regnum cœlorum. E. <i>Pœnitentia</i>",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "<i>præcedit fidem, & internam mentis nostræ illuminationem.</i> Vide <i>Calv-</i>",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "<i>in.1.3.Instit.c.3.S.2.</i> III. Altero extremo laborant, qui conse-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "quentiarum nobis cursum sistere aut sufflaminare conantur. Hic",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "planè tumultuantur Veroniståe, quorum Methodista Veronius,",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "<i>modo omnes consequentiarum nexus tollit & jugulat, modo eas tantùm</i>",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "<i>admittit, quæ faciunt ad stabiliendas partes Pontificias, non nostras:</i>",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "Vide Lect. <i>Joh. Prideauxi, Lect.14.</i> de usu Logices in Theologia,",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "p.225. Sed quantum mutati à Majoribus suis, Doctoribus Scho-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "lasticis? <i>Tantum abest</i> (rectissimè observat idem) <i>ut Scholastici</i>",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "<i>hic dissentiant, ut Rationi plus quàm par est,</i> (praxi saltem, si non",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "thesi) <i>attribuant. Receptissima sunt ista apud illos axiomata:</i> 1. Theo-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "logiam esse argumentariam; <i>Aq. Par.1.qua.1.art.8.</i> 2. Distin-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "gui à fide, quia ut illa principia in sacris literis revelata appre-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "hendit, ita hæc Conclusiones certas inde colligit. 3. Conclu-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "sionem, ex principio revelato & naturali, indubitatæ esse fidei.",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "<i>Nec de his fere (ut de cæteris) est aliqua inter illos altercatio. Horsum</i>",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "<i>etiam tendunt Rodolphi Strodi, Richardi de Ferebrid, & Henrici Tis-</i>",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "<i>berg, spinosissimæ consequentiarum Regulæ, Sermonetæ commento Gae-</i>",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "<i>tani Monarchæ (ut appellatur) Philosophorum, declarationibus, &</i>",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "<i>Antonii Frachantiani, & Pauli Pergulensis quæstionibus implicatissi-</i>",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "<i>mis, auctæ potius, quàm illustratæ. Punctiores sunt ex hac parte Ca-</i>",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "<i>nus, Salmeron, Vasquez, Valentia, Albertinus, Pesantius, Kipa, Bannes &</i>",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "<i>alii. Summatim ut dicam, inter locos in Theologia, unde solida deduci</i>",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "<i>possunt argumenta, locum à Ratione Naturali, loco motum, à nullo</i>",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "<i>ipsorum invenies. Quod postea & Campsani & Bellarmini de verbo Dei</i>",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "<i>lib.</i>",
+     "heading": 0
+    }
+   ],
+   "catchword": "lib.",
+   "notes": "The text is 17th-century Latin with long s set as a plain s; the line-end \"lib.\" is printed as a catchword-like closing word and is recorded at the foot. Some italic passages run together with the following roman text; the italic/roman boundaries are approximate. Words with uncertain letters: \"Veroniståe\" and \"Pergulensis\" read as printed; \"Frachantiani\" and \"Kipa\" are uncertain readings."
+  },
+  {
+   "n": 12,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "running_head": "lib.4.c.2.Et l.3.de justit.c.8.authoritate probat.",
+   "lines": [
+    {
+     "n": 1,
+     "text": "<i>Qui secus cum Methodistis ista sentiunt, quid moliuntur, nisi ut (quod Philistæi olim Samsoni)</i>",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "<i>studiosis veritatis eruant oculos, vel unico saltem privent rationis</i>",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "<i>lumine (quam obsessis propositi fœderis conditionem, Tyrannus ille Am-</i>",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "<i>monita) quo contumeliosius omnes exponant omnium sannis & ludi-</i>",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "<i>briis?</i> Ea media malunt, quæ, nisi ἀνεξετάστως admittantur, conclu-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "sionem pariunt ipsi vitæ & fortunæ insidiosam. Obsequium illi",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "urgent, non rationes. Notum est illud <i>Busdragi, Argolicensis Epi-</i>",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "<i>scopi: Si quis Papam judicare velit, dices illi: O tu Ribalde, tu Pultrone,</i>",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "<i>tu matto, quis tu es, ut tu Ecclesiam & Papam judicare velis? Tace, vel</i>",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "<i>ego faciam tibi ignem ad culum, ut saltes sicut una pica: Ecclesia est Ec-</i>",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "<i>clesia, huic teneris obedire, vel combureris.</i>",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "X. Fallacia accentûs est, quâ pronunciantur eo-",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 13,
+     "text": "dem modo, quæ diversimodè scribuntur, aut pro-",
+     "heading": 2
+    },
+    {
+     "n": 14,
+     "text": "nunciantur diversimodè, quæ scribuntur eodem",
+     "heading": 2
+    },
+    {
+     "n": 15,
+     "text": "modo.",
+     "heading": 2
+    },
+    {
+     "n": 16,
+     "text": "Hoc ergo Sophisma bifariam committitur 1. Cùm scriptio-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 17,
+     "text": "nis discrimen dissimulatur similitudine pronuntiationis, quod",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "fit <i>tribusmodis</i> a. Cùm pronunciantur eodem modo, quæ variant",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "literis. Crebrò hac fallacia peccatum est in versione LXX. vi-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "ralì. Vide <i>Thef.Philol.318.</i> Sed & Muhammed turpissimè & pla-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "nè pueriliter hic hallucinatus est. Vide <i>lib.cit.</i> p.125. Illi etiam,",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "qui Nomina veteris Testamenti Latinè vel Græcè reddiderunt,",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "per hanc fallaciam in multas abrepti sunt παραφυνεία. Vide <i>Anal.</i>",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "<i>P.1.p.323.</i> b. Cùm fit deceptio ablatione necessariæ, & additio-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "ne superfluæ aspirationis H. Est nonnunquam hic næyus in",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "gente aliqua καθολικος. Lepidum est illud <i>Catulli</i> epigramma",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "in Arrium quendam:",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "<i>Chommoda</i> dicebat si quando <i>commoda</i> vellet",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "Dicere, & <i>Hinsidias</i> Arrius <i>Insidias.</i>",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "Et tum mirificè sperabat se esse locutum",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "Cùm, quantum poterat, dixerat <i>Hinsidias.</i>",
+     "heading": 0
+    }
+   ],
+   "notes": "Signature \"B 2\" at foot right. Greek words in the text transcribed as far as legible; the Greek on the running-head line and the Greek ἀνεξετάστως, παραφυνεία, καθολικος are approximate. Bottom text partly faint."
+  },
+  {
+   "n": 13,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: tur"
+    },
+    {
+     "type": "doubtful",
+     "text": "\"...\" in the text: a passage was skipped or a remark written as print"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "Hoc maximè Sophismate Græcorum libri vetustiores, accen-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "tuum & Spirituum apicibus denudati, scatebant. Facile enim",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "fuit pro ἐξ substituere, ἐξ, pro ἐν, ἐν, pro ἀν, ἀν. c. Referunt huc qui-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "dam malam totius orationis dispunctionem & distinctionem,",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "in sua cola & membra, vel virgulis, vel punctis, adeoque falsam,",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "& sensui mentiq; authoris contrariam alicujus sententiæ recita-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "tionem & pronuntiationem, sive sententia ea scripta sit, sive",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "non. Ita <i>Dan.</i> El.p.50. Hujus tamen fallaciæ sedes propriamagis",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "& propior videtur illa, quæ compositionis est & divisionis.",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "II. Secundi generis captiones duobus committuntur modis.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 11,
+     "text": "a. Cùm, quæ vel ἐμφ... vel μιμητικῶς scripta sunt, accipiuntur",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "quasi seria, aut contrà. Tale est illud Monachorum superstitio-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "sorum. Omne quod Paulus monet, est faciendum: Monet Pau-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "lus, <i>ne tangas, ne gustes, ne contrectes</i> (Col.2.21.) Ergo non tangen-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "da, non gustanda, non contrectanda quæ pereunt. b. Cùm syl-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "labæ longæ, positæ pro brevibus, ipsam significationem mu-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "tant. Ita enim homonymiam, adeóque quatuor terminos, con-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "stituunt. Hac ludit fallacia, qui lepórem ponit pro lépo-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "re, &c. Et quanquam olim hæc se fallacia extenderit ad omnes",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "voces, quantitate differentes, hodie tamen in sola penultima",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "ostenditur.",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "XI. Habuimus fallacias in dictione; Fallaciæ ex-",
+     "heading": 1,
+     "para": true
+    },
+    {
+     "n": 23,
+     "text": "tra dictionem sunt sequentes.",
+     "heading": 1
+    },
+    {
+     "n": 24,
+     "text": "XII. A. Fallacia Accidentis.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 25,
+     "text": "De hac fallacia varia Logicorum sunt judicia. <i>Keckerm. Sy-</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 26,
+     "text": "<i>st. Log. lib.3. p.569.</i> Scribit, eam referri ad fallaciam, quæ est",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "secundùm quid, sub qua continetur tanquam angustior sub la-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "tiori. Et ita non malè definitur Accidentis fallacia, <i>quà medius</i>",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "<i>terminus in una propositione per se intelligitur, in altera per accidens,</i>",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "ut; Quod movet seditiones, id adversatur societati humanæ. Evangelium movet seditiones. E. Evangelium adversatur so-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "cietati humanæ. <i>Burgersdicio</i> Accidentis fallacia est, <i>cùm colligi-</i>",
+     "heading": 0
+    }
+   ],
+   "catchword": "tur"
+  },
+  {
+   "n": 14,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "number": "3",
+   "lines": [
+    {
+     "n": 1,
+     "text": "<i>tur subjecto convenire, quicquid de praedicato dicitur</i>; quod duobus",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "modis fieri ait; I. <i>Cùm aliquid de attributo dicitur per accidens,</i>",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "ut; Homo est species: Socrates est homo. E. Socrates est spe-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "cies. Haec fallacia in eo sita est, quòd, <i>esse speciem</i>, de homine dica-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "tur per Accidens; cùm <i>hominem esse</i> de Socrate dicatur per se.",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "II. <i>Cùm ipsum attributum de subjecto dicitur per Accidens</i>; ut Mus",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "rodit caseum. Mus est syllaba. E. Syllaba rodit caseum. Hic",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "fallacia est, quia <i>rodere caseum</i> dicitur de mure per se, <i>esse syllabam</i>",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "per accidens, ac ratione Nominis. Hanc tamen fallaciam alii",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "<i>ὀνόματος λέξεως</i> tribuunt. Aliam Fallaciae Accidentis rationem,",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "eámque intrinsecam seu internam ostendit, <i>Dan.</i> Elench.haeres.",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "p.37. <i>Fit, inquit, ex hoc Elencho fallacia, cùm non distinguitur inter</i>",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "<i>id, quod de alio dicitur uti accidens, & illud quod de eodem enuntiatur</i>",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "<i>uti Essentia, aut Essentiae pars. Essentia autem cuiusq; rei dicitur esse na-</i>",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "<i>tura, quàres quaeq; constat, & quae definitione explicatur, veluti homi-</i>",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "<i>nis Essentia est, animal rationale esse; fidei Essentia est, esse certissi-</i>",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "<i>mam de Dei promissionibus erga nos per Christum fiduciam & c-</i>",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "<i>ognitionem. Accidens cuiusq; rei est, quod ei adesse, vel ab ea abesse</i>",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "<i>potest, vel saltem animo & mente fingi abesse, citra rei ipsius, de qua di-</i>",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "<i>citur, interitum. Veluti in homine,</i> album esse, doctum esse, <i>sunt</i>",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "<i>accidentia. In fideli & Christiano homine</i> privatum, vel Magistra-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "tum esse, servum vel liberum, &c. <i>Ergo, quod rei alicui inest velut</i>",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "<i>accidens, sit tanquam Essentia eidem tribuitur, aut sumitur fit fallacia</i>",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "<i>ab accidente.</i> E.G. <i>Sancti homines & Dei Prophetae per Sylvas</i>",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "<i>errârunt, &c.</i> E. qui hodie eadem faciunt sunt Sancti. <i>Fallunt,</i>",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "<i>inquit, ab Accidente. Neque enim haec definiunt veram Patrum sancti-</i>",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "<i>tatem, neq; de illa dicuntur tanquam Essentiae & definitionis ejus par-</i>",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "<i>tes, sed tanquam Accidentia. Vera autem Patrum sanctitas in illo fuit,</i>",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "<i>quòd & fidem DEI promissionibus habuerunt, & in ea fide toto vitae</i>",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "<i>tempore perseverârunt.</i> Huc potissimum refert fallaciam <i>defini-</i>",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "<i>tionis,</i> cùm definitio falsa asseritur & affertur pro vera; ut, cùm",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "concludunt Pontificii; Poenitentia sacra cinere, Jejunio & la-",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "chrymis fieri dicitur; <i>Jes.7.6.</i> E. poenitentia externis his par-",
+     "heading": 0
+    }
+   ],
+   "signature": "B 3"
+  },
+  {
+   "n": 15,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: orat,"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "tibus absolvitur. Sunt enim hæc Accidentia tantum Jejunii,non",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "ipsa Essentia. Vide <i>Calv.</i> lib.3. Instit.c.3.S.17.",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "B. Fallacia à dicto [a] secundum quid est, cùm",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "ex præmissis, secundum quid veris, colligitur con-",
+     "heading": 2
+    },
+    {
+     "n": 5,
+     "text": "clusio simpliciter vera; Contrà, fallacia à dicto sim-",
+     "heading": 2
+    },
+    {
+     "n": 6,
+     "text": "pliciter est, cùm ex eo, quod simpliciter verum est,",
+     "heading": 2
+    },
+    {
+     "n": 7,
+     "text": "colligitur aliquid verum esse secundum quid.",
+     "heading": 2
+    },
+    {
+     "n": 8,
+     "text": "[a] Ita vocatur <i>dictum</i>, cujus Prædicatum subjecto convenit",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 9,
+     "text": "certo respectu, loco, & tempore. Quod Græci dicunt κατὰ τι",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "κατηγορεῖσθαι. <i>Simpliciter</i> verò <i>dictum</i> est, cùm enunciatum toti subje-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "cto & semper accommodari potest, vel cujus prædicatum subj-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "ecto convenit quovis respectu, parte, loco, &c. quod ἁπλῶς, κατὰ πάντα",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "κατηγορεῖσθαι Græci exprimunt. Committitur fallacia à dicto",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "secundum quid variis, maximè verò tribus modis. I. <i>Ex quan-</i>",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "<i>titate</i>, quæ vitiosè sumitur, cùm quod parti tantùm convenit, to-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "ti tribuitur; veluti, <i>Æthiops habet albos dentes.</i> E. <i>Æthiops est</i>",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "<i>albus.</i> II. Cùm orationi adjecta est <i>qualitas</i>, quæ in conclusio-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "ne postea omittitur, quod contingit si processus fiat à specie ad",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "genus, à particulari ad universale, ut; <i>Homo est animal ra-</i>",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "<i>tionale.</i> E. <i>omne animal est rationale. Paulus persecutus est Ec-</i>",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "<i>clesiam.</i> E. <i>omnes Apostoli.</i> III. Cùm <i>circumstantia</i> temporis,",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "loci, rei, personæ, Instrumenti, comparationis, modi, quæ",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "orationi inest, conclusioni detrahatur. <i>Temporis</i>, ut; Ce-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "remoniæ judaicæ Deo in V.T. placuerunt. E. & in Novo.",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "<i>Loci.</i> Deus in V.T. gratiæ suæ sedem elegit Judæam. E. totum terra-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "rum orbem. <i>Rei & subjecti.</i> Johannes Baptista præparabat vias",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "Domini prædicans Verbum Dei. E. Johannes Baptista prædi-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "cabat eadem omnino, quæ postea Apostoli regnum Dei prædi-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "cantes. <i>Personæ.</i> Magistratui licet fontes gladio punire. E. &",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "aliis. <i>Instrumenti.</i> Deus ordinariè nos alit pane. E. & absque",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "pane. <i>Modi.</i> Qui petit & orat fide, impetrabit; E. qui petit &",
+     "heading": 0
+    }
+   ],
+   "catchword": "orat,",
+   "notes": "Printed footnote marker [a] appears in the heading and at the start of the paragraph; the marker is in the text, not a margin note. Greek words in the printed text are transcribed approximately where the scan is blurred. Line \"orat,\" at the end is printed right-aligned on its own line."
+  },
+  {
+   "n": 16,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: nos"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "orat, impetrabit. IV. Cùm <i>signum in rem ipsam transfertur</i>, ut;",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "Hæc statua est signum Dei. E. est Numen aliquod, seu quiddam",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "cui Deus alligatus est. Atque ad hanc etiam fallaciam pertinet",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "prava <i>testimoniorum allegatio</i>, quâ luxuriantem suam Theolo-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "giam Papistæ ubique onerant.",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "C. Ignoratio <i>Elenchi</i> est, quando vel planè tor-",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "quetur & mutatur status [a] controversiæ; vel",
+     "heading": 2
+    },
+    {
+     "n": 8,
+     "text": "conclusio adversarii non directè opponitur [b] no-",
+     "heading": 2
+    },
+    {
+     "n": 9,
+     "text": "stræ thesi secundum Canones legitimæ oppositio-",
+     "heading": 2
+    },
+    {
+     "n": 10,
+     "text": "nis.",
+     "heading": 2
+    },
+    {
+     "n": 11,
+     "text": "[a] Alio nomine dicitur ἐπροζήτησις, καὶ μετάβασις",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 12,
+     "text": "εἰς ἄλλο γένος. Hâc crebrò chordâ oberrant Pontificii. Sic statum controver-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "siæ subdolè detorquent, cùm in quæstione de Invocatione San-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "ctorum deflectunt ad quæstionem de Sanctis honorandis.",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "[b] Quod fit, cùm quæ sunt subordinata, finguntur opposi-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 16,
+     "text": "ta. Fontem hujus fallaciæ <i>Danæus</i> clarè & perspicuè ita detegit.",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "Elench.hæref.p.144. <i>Ergo quoties quædam de uno aliquo & eodem</i>",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "<i>dicuntur non una tamen & eadem ratione, sed diversa, (quæ in conclu-</i>",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "<i>sione tamen ponuntur, tanquam eadem ratione & secundum idem, &</i>",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "<i>similiter dicta essent) fit fallacia ex hoc loco, qui dicitur</i> Ignoratio",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "Elenchi. <i>Sensus enim diversitatem confundit ea ratio, & diversarum re-</i>",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "<i>rum considerationem miscet, quæ fieri & distingui debebat. Ex quo fit,</i>",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "<i>ut multis modis ex hoc loco fallacia committatur. Nam sive divina</i>",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "<i>cum humanis confundantur, sive allegoriæ inutiles invehantur, & sen-</i>",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "<i>sus scripturæ incertus, sive aliud mens authoris velle, aliud autem verba</i>",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "<i>ipsa orationis significare videantur, sive diversus rerum respectus</i>",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "<i>& diversa dicti ratio non observetur, atq; inde fiat committatur q. falla-</i>",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "<i>cia, pertinet ad hunc locum; denique omnis fraudis faciendæ modus in-</i>",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "<i>quo ratio diversitatis vel non intelligitur, vel non observata est.</i>",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "E.G. Deus nos jubet ista facere, illa evitare, ad eaque nos exhor-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "tatur. E. ista facere, & illa evitare nos posse declarat; idque per",
+     "heading": 0
+    }
+   ],
+   "catchword": "nos",
+   "notes": "Greek notes [a] and [b] are small-type lines; the Greek in [a] is transcribed as printed, with doubtful letters possible. The word \"nos\" at lower right is a catchword. The reading \"committatur q. fallacia\" and \"atq;\" are as printed."
+  },
+  {
+   "n": 17,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: Hoc"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "<i>nos ipsos; hanc struì fallaciam censet. Neq; enim hanc mentem esse</i>",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "<i>Scripturæ, dum nos ad bene vivendum exhortatur, ut doceat, quid ipsi</i>",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "<i>per nos facere possimus; sed ut intelligamus quantum debeamus,</i>",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "<i>& quanta sit nostra imbecillitas;</i> Cal. lib. 3. Instit. c 17. S. 1. 2.",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "D. <i>Petitio</i> [a] <i>Principii</i> est, cùm nullo medio adhibi-",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "to conclusio repetitur, vel [b] iisdem, vel [c] æ-",
+     "heading": 2
+    },
+    {
+     "n": 7,
+     "text": "quipollentibus verbis, aut cùm controversum",
+     "heading": 2
+    },
+    {
+     "n": 8,
+     "text": "probatur per [d] æquè controversum. Vocatur",
+     "heading": 2
+    },
+    {
+     "n": 9,
+     "text": "aliâs [e] Demonstratio Circularis.",
+     "heading": 2
+    },
+    {
+     "n": 10,
+     "text": "[a] Trita est hæc & usitata fallaciæ ἐπιγεαφὴ, quam tamen vi-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 11,
+     "text": "tiosam esse docti viderunt. <i>Burgersd. l. 2. p. 373. Hoc Sophisma vulgò</i>",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "<i>dictum</i> petitio principii, <i>cùm sit petitio ejus, quod in principio quæ-</i>",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "<i>situm fuit. Dan. Elench. pag. 117. Ut facilius locus ipse & ratio fallaciæ</i>",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "<i>quæ fit, indicetur, inscriptio hujus Elenchi sic fieri debebit;</i> Sumere id,",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "de quo primùm controvertebatur. <i>Nam si verè loqui volumus, &</i>",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "<i>Mathematicorum more, nihil habet vitii in se petitio principii. Cùm</i>",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "<i>sint enim in quaq; arte principia indemonstrabilia, peti atq; postulari</i>",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "<i>debent, ut concedantur. Et rectè id fit, non autem vitiosè: Unde nata</i>",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "<i>sunt illa, quæ in Geometria & apud Euclidem αἰτήματα, id est: petitio-</i>",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "<i>nes, sive postulata, appellantur, & rectâ Methodo & rationi artium</i>",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "<i>& scientiarum tradendarum convenienter illud fit. Quod si hic locus</i>",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "<i>inscribendus esset,</i> Petere principium, dixissent Græci αἰτεῖν ἀρχὴν,",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "non autem sic, λαμβάνειν τὸ ἐν ἀρχῇ.",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "[b] Cujus tamen fallaciæ, tanquam nimis apertæ, nul-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 25,
+     "text": "lam habendam rationem docti censent. Nisi enim mutetur",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "vel subjecti, vel Prædicati nomen, mera committitur & nugato-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "ria ταυτολογία, quam κακκυσμὸν vocant: ut; <i>Ecclesia Romana est Ca-</i>",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "<i>tholica, quia est Catholica.</i>",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "[c] Ita peccant Pontificii circa ἀναμαρτησίαν sui Papæ. Qui cir-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 30,
+     "text": "ca doctrinam fidei non potest errare, ille est ἀναμάρτητος. Pon-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "tifex circa doctrinam fidei non potest errare. Ergò, &c.",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "[d]",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "catchword": "Hoc"
+  },
+  {
+   "n": 18,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "Hoc sophismate in Theologia Pontificia nihil crebrius",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "est. Dixeris hanc <i>βάσιν</i> penè esse totius Papatus. Nam & ex Pa-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "trum authoritate & consuetudine Ecclesiæ, in eminentissimo fo-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "ri Theologici throno collocatis, patrocinium pollicentur In-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "vocationi sanctorum, Purgatorio, aliisque dogmatibus <i>ἀγεά-φοις</i>",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "<i>καὶ καταγεάφοις.</i> Tale est: <i>Petrus est Apostolorum Princeps non</i>",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "<i>ordine tantùm, sed & Imperio. E. & Papa Romanus. Soli Petro com-</i>",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "<i>missæ sunt claves regni cælorum. E. Solius Papæ est Oecumenica Eccle-</i>",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "<i>sia ἐπισκοπή. Patres invocarunt Sanctos. E. Sancti sunt invocandi.</i>",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "<i>Septenarius sacramentorum numerus ab universa receptus est Ecclesia</i>",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "<i>Romana. E. ab eo non recedendum, &c.</i>",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "Nomenclaturæ hujus rationem paulò altius repetimus. <i>Cir-</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 13,
+     "text": "<i>culus,</i> ab antiquo <i>circuendo</i> dictus, est reciproca probatio, quâ unū",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "ex altero colligitur & demonstratur. Vocatur aliâs <i>demonstra-</i>",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "<i>tio</i> vel <i>probatio Cyclica, orbicularis, circulus Philosophicus, probatio κύκλῳ,</i>",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "<i>ἀπόδειξις κυκλοειδής.</i> Consideratur autem <i>materialiter</i> in",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "Propositionibus convertibilibus, quæ ipsum circulum ingre-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "diuntur; & <i>formaliter</i> in Syllogismo Apodictico, cùm proposi-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "tio dubia per conclusionem & alteram propositionem conver-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "sam confirmatur. Usus & finis ratione, appositè circulus di-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "stinguitur in <i>Logicum & Sophisticum. Logicus,</i> vel duos habet Syllo-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "gismos, vel plures. <i>Ille</i> ea probandi ratio est, quæ, facta demon-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "stratione <i>τῶν ὅτι,</i> primum per effectum demonstrat causam: Exa-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "mine deinde instituto, demonstratione <i>τῷ διότι</i> per causam de-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "monstrat effectum. Neque enim huc tantùm circularis hæc de-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "monstratio facit, ut veritas confirmetur propositionis conver-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "sæ (si enim conclusio ex utraque præmissa est certa, propositio-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "ni conversæ fidem faciunt) sed etiam ut regressui inserviat ab",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "effecto ad causam; seu conversioni demonstrationis <i>τῶν ὅτι</i> in de-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "monstrationem <i>τῷ διότι,</i> dum ex notiore effecto causa ignota co-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "gnoscitur & intelligitur, & ex causa jam nota, effectus deduci-",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "tur. Unde & <i>Regressus,</i> de quo peculiar. scripsit lib. <i>Zabarella,</i>",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "vocatur. Ita autem Syllogismus unus ex altero efficitur, ut cùm;",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "vera existente conclusione; non necesse sit veras esse præmissas,",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "sicque negetur Major; tunc conclusio prioris Syllogismi sta-",
+     "heading": 0
+    }
+   ],
+   "marginalia": [
+    {
+     "letter": "d",
+     "side": "left",
+     "at": "Hoc sophismate in",
+     "line_from": 1,
+     "line_to": 1,
+     "text": "d"
+    },
+    {
+     "letter": "e",
+     "side": "left",
+     "at": "Nomenclaturæ hujus rationem",
+     "line_from": 12,
+     "line_to": 12,
+     "text": "e"
+    }
+   ],
+   "signature": "C",
+   "notes": "Marginal signature marks \"d\" and \"e\" at the left of the first lines; the Greek words are transcribed as closely as the scan allows, some polytonic forms are uncertain. The text is cut off at the foot (\"sta-\") and continues on the next page."
+  },
+  {
+   "n": 19,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "number": "60",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: eo"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "matur loco propositionis in posteriore Syllogismo, quæ com-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "binata cum altera propositione conversa, eam dabit conclusio-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "nem, quæ fuit propositio Syllogismi prioris. V.G. Ex Syllogi-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "smo sequenti; Omnes justificati pacem habent cum Deo. At",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "omnes verè credentes sunt justificati. E. Omnes verè credentes",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "pacem habent cum Deo; talis instituitur probatio circularis:",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "Omnes verè credentes pacem habent cum Deo. At omnes ju-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "stificati sunt verè credentes. E. Omnes justificati pacem habent",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "cum Deo. Quòd si minorem neget adversarius, <i>Regressus</i> ita in-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "stituendus, ut Propositio major convertatur simpliciter, con-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "clusio in assumtionem migret, & assumtio in conclusionem, quæ",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "circularis demonstrationis facilima est ratio, ut: Quicunq; habet",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "pacem conscientiæ, ille habet certam fiduciam remissionis pec-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "catorum. Omnis justificatus habet pacem conscientiæ. E. Omnis",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "justificatus habet certam fiduciam remissionis peccatorum. De-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "monstratio hæc τῶ̃ν in demonstratione τῶ̃ν transit hoc modo:",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "Qui habet certam fiduciam remissionis peccatorum, ille habet",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "pacem conscientiæ. Omnis justificatus habet certam fiduciam",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "remissionis peccatorum. E. Omnis justificatus habet pacem",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "conscientiæ. De circulo Logico plures habente Syllogismos,",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "quorum ille dicitur <i>perfectus</i>, quòd sex; hic imperfectus, quòd",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "paucioribus absolvitur syllogismis, commentandi locus non",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "est. Videatur <i>Jul. Pac.</i> in II. Anal. Post. c. 5. p. 312. Ad <i>Sophisticum</i>,",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "qui hujus propriè loci est, accedimus, seu ἄλογον, qui aliud nihil",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "est, quàm puerilis principii petitio, quâ progressus fit in infini-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "tum, & aliquid per se ipsum, dubium per æquè dubium, circulo",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "& ambitu in se se recurrente, probatur. Estque vel <i>manifestus</i> vel",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "<i>Crypticus</i>. Ille κατάφωρον primo statim intuitu deprehendi-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "tur; <i>hic</i> ita involvitur, ut nonnisi accurata instituta analysi se",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "prodat, perinde ut serpens in gyrum se volvens, ita ut nec cauda",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "appareat, nec caput. Hujusmodi circulo, tanquam Diogenis do-",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "lio rotantur Pontificii, tum aliàs, tum verò maximè in nobilis-",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "sima illa quæstione: <i>Unde constet nobis de divina S. Sc. authorita-</i>",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "<i>te?</i> Respondent illi, <i>eam constare testimonio infallibili Ecclesiæ.</i> Si",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "quæratur; <i>Unde pendeat hoc Ecclesiæ testimonium?</i> regerunt: Ex",
+     "heading": 0
+    }
+   ],
+   "catchword": "eo",
+   "notes": "Greek words in the text (τῶ̃ν, ἄλογον, κατάφωρον) are approximate; the Greek in \"demonstratione\" and \"hæc\" line is partly illegible in the scan. Catchword and signature not visible."
+  },
+  {
+   "n": 20,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "<i>eo quòd Ecclesia sit columna & stabilimentum veritatis.</i> Si instes: un-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "de veritas hujus promissi; <i>Iterum ad testimonium Ecclesiæ infallibile</i>",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "<i>confugiunt;</i> & sic chordâ semper oberrant eadem. Purgare se",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "conantur ab hac ludicra argumentatione Jesuitæ, <i>Gregorius de</i>",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "<i>Valentia, Gretserus & Becanus,</i> hic cumprimis, qui tractatu pecu-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "liari <i>de circulo Calvinistico,</i> argumentationis hujus ruditatem &",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "absurditatem declinare voluit. Sed frustra. Omnia examinare",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "non licet. Becani paucis perstringemus <i>κρησφύγετον.</i> Negat, <i>suos</i>",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "<i>Sophisticum committere circulum;</i> sed salsissima nixus suppositio-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "ne. <i>Suppono,</i> inquit, <i>ex Philosophia circulum tunc committi, quando</i>",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "<i>hoc per illud, & illud vicissim per hoc probamus, apud eum, qui neutrum</i>",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "<i>concedit & æquè de utroq; dubitat.</i> Has si <i>φλυαρίας</i> nostri proferrent,",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "ipsis tyronibus ludibrium deberent. Quis unquam petitionem",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "principii, quæ aliud nihil est, quàm lusus <i>κυκλοδίης,</i> ad has leges",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "astrinxit? Satis est, obscurum aut controversum per æquè aut",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "magis obscurum & controversum probari, non requiritur me-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "dium teminum esse & formaliter & materialiter dubium. V.G.",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "Pontificius, demonstraturus sui Papæ <i>ἀναμαρτησίαν,</i> medio termi-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "no utitur; <i>Quia hanc ei Scriptura adjudicat.</i> Nego hanc minorem.",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "Affertur, probationis loco, textus <i>Matth.16. Tu es Petrus, &c.</i> At-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "que hic quidem locus <i>ἀνεξαγώνιος</i> est, de ejus quippe authorita-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "te nemo dubitat Christianus; sed quia malè ad probandam quæ-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "stionem adhibetur, causa existit argumentationi circulari hoc",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "modo: <i>Papa non potest errare,</i> cur? <i>quia ei porta inferorum non poss-</i>",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "<i>unt prævalere. Porta inferorum Papæ non prævalent,</i> cur? <i>quia non</i>",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "<i>errat. Nunc ex alio capite,</i> inquit Jesuita, <i>ostendam, nos circulo non</i>",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "<i>includi. Res ita habet. Aliud est loqui de fide seu, fidei assensu secun-</i>",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "<i>dùm se, aliud de acceptatione fidei. Unde potest institui duplex quæstio,</i>",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "<i>& duplex resolutio. Altera de causa fidei secundùm se, ut si quæram;</i>",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "<i>quare certò & infallibiliter credis articulos in Symbolo comprehensos?</i>",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "<i>Respondebo; quia Deus revelavit. Altera de causa acceptationis fidei,</i>",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "<i>ut si quæro, quid te impulit aut permovit ut in animum induceres crede-</i>",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "<i>re articulos tam obscuros, & humanum captum excedentes? Responde-</i>",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "<i>bo; authoritate Ecclesiæ & consensu fidelium.</i> Sed <i>λόγοι</i> sunt & ver-",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "borum fumi. I. Non dicimus omnem argumentationem vel",
+     "heading": 0
+    }
+   ],
+   "signature": "C 2",
+   "notes": "Page is a single column; the bottom line of text is partly cut by the scan edge. Greek words are transcribed as best read from the scan and are doubtful. Show-through of the reverse page is visible below the text and was omitted. No running head or page number is printed."
+  },
+  {
+   "n": 21,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "esse circularem; vel omnem circularem esse nugatoriam. Fides,",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "quæ se resolvit in revelationem Dei, factam per scripta Prophe-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "tarum & Apostolorum, recte procedit. Quæ vero in Ecclesiæ",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "authoritate recumbit & altius non assurgit, ab hoc Sophistico",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "circulo eximi non potest, quod non tantum fit ratione accepta-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "tionis; sed etiam secundum se: Quanquam non cujusvis sit Idio-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "tæ, has capere subtilitates. Exemplo sit Carbonarius ille, cujus",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "fidem & factum Hosius Cardinalis, cum aliis, laudat. Quid cre-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "dis, quærit Diabolus? Quod Ecclesia credit, respondet carbona-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "rius. Quid ergo, reponit Satan, credit Ecclesia? Id ipsum re-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "spondet Carbonarius, quod ego credo. Ab hac thesi si descenda-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "tur ad hypothesin, circulus, in ipsa etiam acceptatione fidei pa-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "lam emerget. Talem enim habemus à Carbonario resolutio-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "nem. Cur credis Papam esse Oecumenicum Episcopum? Resp.",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "Quia idem credit Ecclesia. Cur Ecclesia credit? Jam hic vel ad",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "authoritatem Ecclesiæ, quia sic ei placuerit, vel ad Scripturæ ver-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "ba, provocabitur. Si illud; circulus est Sophisticus: Si hoc, ite-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "rum vel circularis erit argumentatio, dum verbis minimè huc",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "pertinentibus τὸ ζητούμενον probatur; vel turpissima",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "παρεχμηνεία. Certum est omnia tandem in Ecclesiæ authoritatem resolvi.",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "II. Motiva seu media acceptationis fidei, nulla alia admittun-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 22,
+     "text": "tur, quàm quæ Ecclesia tradit, quæ probat & adhibet. Ita qui-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "dem verba expectent sine re, qui vel hilum ullis mediis, absque",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "authoritate Ecclesiæ, tribuunt.",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "E. Fallacia consequentis est, cùm aliqua enuntiatio",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 26,
+     "text": "ex altera colligitur, ex qua non sequitur: vel; quan-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "do Major Syllogismi propositio nullum aut vitio-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "sum nexum habet, seu consequentiam. Vocatur aliàs σόφισμα ὡς ἐπόμενον, & ἀνακόλουθία.",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "Latè hoc Sophisma vagatur, & committitur, vel in materia,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 30,
+     "text": "vel in forma. <i>Forma</i> hàc fallacià laborat, quoties leges Syllogi-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "sticæ vel generales violantur, vel speciales. Quot modis in <i>ma-</i>",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "<i>teria</i> hic peccetur, dici vix potest. Nobis aliquot dedisse satis erit",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "errorum sedes. Est ergò fallacia consequentis. I. <i>Cùm non est par-</i>",
+     "heading": 0
+    }
+   ],
+   "notes": "The Greek words are printed in Greek letters and are transcribed as closely as the scan allows; the Greek after \"aliàs\" and the Greek in the text are doubtful. The word \"Fides,\" has a comma-like mark after it. The last line is set in italic and breaks off at \"par-\" with the hyphen."
+  },
+  {
+   "n": 22,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "number": "3",
+   "lines": [
+    {
+     "n": 1,
+     "text": "<i>partium sufficiens enumeratio.</i> Ut si quis argumentetur : <i>In Juda</i>",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "<i>Iscariota pœnitentia habemus contritionem cordis, confessionem or-</i>",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "<i>is, satisfactionem operis. E. Pœnitentia ejus fuit vera</i> ; committit fallac.",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "conseq. propter insufficientem membrorum enumerationem,",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "deest enim fides. II. <i>Cùm conjugatorum natura, non rectè intellecta,</i>",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "in hanc impellimur fraude V. G. Si quis concludat : <i>Hic somnum</i>",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "<i>capit. E. est Somniculosus.</i> Fallit à non consequenti, quia hæc duo",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "non sunt Conjugata Logica. Vel; <i>Qui facit Justitiam, Justus est,</i>",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "<i>adeóq; attributum DEI communicabile participat : Ergò qui miracula</i>",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "<i>patrat, quod proprie DEI est, potens vel omnipotens est.</i> III. <i>Cùm</i>",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "<i>à minori ad majus, vel à genere ad speciem affirmativè aliquid concludi-</i>",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "<i>tur.</i> Ut; Sancti sunt honorandi. E. & invocandi. Conjugium",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "est mysterium E. & Sacramentum. IV. <i>Ubi illud sumitur, quod</i>",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "<i>nullo modo consequens est.</i> Ejusmodi asyllogistiæ obviæ sunt apud",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "Pontificios. Ut ; <i>Decimæ sunt solvendæ. E. Per quadraginta dies est</i>",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "<i>jejunandum.</i> Quod quidem argumentum Gregorii est. Plura",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "exempla dedimus in ὁδηγῷ P.1.p.198. Alii quatuor regulas in illa-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "tione consequentis, ex antecedente observandas commendant,",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "quarum una si violetur, nulla erit consecutio. Prima regula:",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "<i>Universalis affirmans non convertitur simpliciter.</i> Non ergo valet :",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "Omnis adulator blandus est. E. omnis blandus adulator. II. <i>Ex</i>",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "<i>universali affirmante non colligitur universalis negans, nisi per con-</i>",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "<i>trapositionem.</i> Nihil ergo efficitur : Quicquid genitum est, habet",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "principium. E. quod non est genitum, ut anima humana, mun-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "dus, non habet principium ; sed per contrapositionem : E. quod",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "non habet principium, non est genitum. III. <i>Minor non debet esse</i>",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "<i>negata in prima figura,</i> seu, quod eodem redit : <i>Ex remotione ante-</i>",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "<i>cedentis non potest colligi remotio consequentis.</i> Non valet ergo : Om-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "nis homo est animal. Equus non est homo. E. neque animal.",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "IV. <i>Altera præmissarum debet esse negata in secunda Figura, sive, Non</i>",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "<i>debet positio antecedentis colligi, ex positione consequentis.</i> Decipitur",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "ergo captione consequentis sequenti syllogismo. Omnis adula-",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "tor est blandus. Crispus est blandus. E. Crispus est adulator.",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "F. Fallacia <i>à non causa ut causa</i> est, quando ad pro-",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 35,
+     "text": "bandam conclusionem assumitur falsa causa.",
+     "heading": 2
+    }
+   ],
+   "signature": "C 3"
+  },
+  {
+   "n": 23,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "Huic quidem fallaciæ latissimi à nonnullis conceduntur li-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "mites: Nescio tamen, an satis <i>ἀκριβῶς</i>. His verò <i>causa</i> non tantùm",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "est, à quo pendet causatum; sed in genere omnis medius termi-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "nus. Hinc ab aliis vocatur <i>falsi medii assumtio</i>. Quo referunt om-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "nia argumenta, quæ, ut vulgò dicunt, desumuntur <i>à baculo ad an-</i>",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "<i>gulum</i>. Quæ tamen commodius ad alias fallaciarum classes per-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "tinent, eam præsertim quæ est <i>consequentis</i>. Ergò dicimus, Falla-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "ciam hanc committi vel in <i>Syllogismo ducente ad absurdum</i>, vel in",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "<i>Syllogismo directo</i>. Illius exemplum sit. Omne immortale est ab-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "solutè æternum. Anima est immortalis. E. anima est æterna.",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "Atquihæc conclusio est falsa; quæ ex majori falsò in fertur. Hu-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "jus verò species sunt variæ.",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "I. <i>Cùm causis per accidens tribuitur, quod non convenit nisi causis</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 14,
+     "text": "<i>per se.</i> Quo faciunt perplexitas, & abusus. Ex lectione Scriptu-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "ræ natæ sunt hæreses. E. Laicis non est legenda.",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "II. <i>Quoties unius Effectus plures sunt causæ sive subordinatæ, sive</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 17,
+     "text": "<i>pares, si una omissa, ponantur reliquæ, effectus non sequitur.</i> V.G. Jo-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "hanni & Petro Christianis pauper eleemosynam & stipem pe-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "tens se se ad portam templi obtulit. E. ei stipem dederunt. Est",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "fallacia <i>ὡς τὸ μὴ αἴτιον ὡς αἴτιον</i>, quia non habebant unde darent.",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "Atque hic cum primis magnus est campus fallaciarum <i>testi-</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 22,
+     "text": "<i>monii</i>, quæ hujus loci sunt, & in Pontificia Theologia ubique",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "obviæ.",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "A. <i>Cùm Scripturæ sensum affingunt, qui nusquam in illa extat.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 25,
+     "text": "His fallaciis Evangelium suum referšit Xavier Jesuita.",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "B. <i>Cùm libri Apocryphi citantur pro Canonicis.</i> Ita Purgatorium,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 27,
+     "text": "sanctorum invocationem, liberum arbitrium iidem stabiliunt.",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "C. <i>Cùm Scripturæ sententias ignorantiâ Linguæ non intellectas ma-</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 29,
+     "text": "<i>le applicant, & defendendis omnibus inservire cogunt.</i> His flosculis",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "commentaria eorum scatent: Specimina dedimus alibi.",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "D. <i>Quum mala consuetudine, authoritate Patrum, & exemplis, sine</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 32,
+     "text": "<i>Scripturæ præcepto, pugnant.</i> Quibus in Papatu mucronibus nihil",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "est solennius.",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "E. <i>Cùm miraculorum pompa opponitur expressæ S. Sc. literæ.</i> Qua",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 35,
+     "text": "de re prolixè in Hist. nostra Ecclesiastica.",
+     "heading": 0
+    }
+   ],
+   "catchword": "G. Fal-",
+   "notes": "Greek words transcribed as legible; the Greek in line \"ἀκριβῶς\" and \"ὡς τὸ μὴ αἴτιον ὡς αἴτιον\" are best readings and may contain small errors. \"referšit\" is a misreading of \"referfit\" and should be checked. Faint signature \"C 3\" at foot not transcribed as text."
+  },
+  {
+   "n": 24,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "number": "XIV.",
+   "lines": [
+    {
+     "n": 1,
+     "text": "G. Fallacia <i>à pluribus Interrogationibus est,</i> cùm plures",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "quæstiones confunduntur in unam. <i>Unde Græci</i>",
+     "heading": 2
+    },
+    {
+     "n": 3,
+     "text": "πολυζήτησιν <i>vocant.</i>",
+     "heading": 2
+    },
+    {
+     "n": 4,
+     "text": "Tripliciter hæc committitur fallacia I. <i>cùm de uno subjecto</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "<i>plura interrogantur Prædicata,</i> ut: Anne bona opera necessaria",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "sunt & justificant? II. <i>Cùm de pluribus subjectis quæritur unum prædicatum,</i> ut: Sunt ne Deus & Mundus æterni? III. <i>Cùm de pluri-</i>",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "<i>bus subjectis quæruntur plura Prædicata;</i> ut: Fuerunt ne Bullinge-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "rus & Bellarminus Theologi & Reformati? Referunt huc nonnulli ἐπηροζήτησιν, quæ & ἐπηροφνὲς",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "& μετάβασις εἰς ἄλλο γένος dicitur, cùm à propositâ quæstione ad alienam deflectitur: quæ tamen",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "aliud nihil est quàm Ignoratio Elenchi,",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "XIII. Observandum autem, hac vulgo serie Fal-",
+     "heading": 0,
+     "caput": "13",
+     "para": true
+    },
+    {
+     "n": 12,
+     "text": "lacias Materiæ proponi, quæ ad unam tamen legem",
+     "heading": 0,
+     "caput": "13"
+    },
+    {
+     "n": 13,
+     "text": "generalem referri possunt, quæ ita se habet: <i>Om-</i>",
+     "heading": 0,
+     "caput": "13"
+    },
+    {
+     "n": 14,
+     "text": "<i>nis syllogismus qui vel pluribus vel paucioribus constat terminis, quàm</i>",
+     "heading": 0,
+     "caput": "13"
+    },
+    {
+     "n": 15,
+     "text": "<i>tribus, Sophisticus est.</i>",
+     "heading": 0,
+     "caput": "13"
+    },
+    {
+     "n": 16,
+     "text": "Tradunt Logici, præter alios Canones Syllogisticos genera-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 17,
+     "text": "les, hunc etiam: <i>In Syllogismo tantùm sint tres termini, nec plures nec</i>",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "<i>pauciores</i>; qui quidem Canon Lydius est lapis omnium syllogi-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "smorum, ad quem impingitur, quoties aliqua occurrit ἀσυλλογιστία,",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "quæ vel ex <i>pluribus</i> oritur terminis, ut cùm Fallacia committi-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "tur a. <i>Homonymia,</i> b. <i>Amphiboliæ.</i> e. <i>Compositionis.</i> f. <i>Divisionis.</i> g. <i>Fi-</i>",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "<i>guræ dictionis.</i> h. <i>Accentus.</i> i. <i>Accidentis.</i> k. <i>à dicto secundùm quid.</i> l. <i>Ig-</i>",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "<i>norationis Elenchi</i>: vel ex <i>paucioribus, duobus</i> nempe. Sic fallunt, qui",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "peccant <i>petitione principii, fallacia consequentiæ, & fallacia à non cau-</i>",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "<i>sa ut causa,</i> quæ ipsæ species à petitione principii non longè ab-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "sunt. Unde etiam fit, ut in responsionibus & fallaciarum solutio-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "nibus non eadem ab omnibus observetur ratio. Quod aliis est pe-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "titio principii, à quibusdam refertur ad fallaciam à non causa ut",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "causa, & sic in cæteris. Qua de re utilis illa <i>Danæi</i> admonitio: <i>Unum</i>",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "<i>& eundem syllogismum ex variis & diversis Elenchis solvi posse.</i> Vide p.149.",
+     "heading": 0
+    }
+   ],
+   "notes": "Top line: \"G. Fallacia\" heading set in larger type; Greek words printed as shown. Doubtful: \"ἐπηροφνὲς\" and \"μετάβασις\" Greek readings approximate. \"XIV.\" at foot right is a page/section number, not a catchword."
+  },
+  {
+   "n": 25,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "XIV. Est hæc fallaciarum enumeratio: Sequi-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "tur solutio, respiciens vel <i>Formam,</i> vel <i>Materiam.</i>",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "XV. Solutio <i>Formæ</i> est rejectio Syllogismi, indica-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "to Canone syllogistico, in quem ejus forma seu Di-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "spositio peccet.",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "XVI. Solutio <i>Materiæ</i> est, qua vitium in Syllogismi",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "materia commissum ostenditur.",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "XVII. Estque vel dictionis, vel Rei.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 9,
+     "text": "XVIII. Solutio <i>Dictionis</i> est, qua ambigua distin-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 10,
+     "text": "guimus, obscura explicamus, Phrases & sententias",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "dubias dextrè interpretamur.",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "Habet hæc solutio locum in fallaciis <i>homonymiæ, Amphiboliæ & figuræ Dictionis.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 13,
+     "text": "XIX. Solutio rei quinq; potissimum perficitur",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 14,
+     "text": "modis. 1. <i>Informatione Conclusionis.</i> Quę usurpanda, cùm commi-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "ttitur fallacia vel ignorationis Elenchi, vel plurium Interroga-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "tionum.",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "2. <i>Indicatione petiti principii:</i> usitat a, cùm idem per idem",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 18,
+     "text": "probatur, aut controversum per æquè aut magis controversum.",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "3. <i>Monstratione vitiosæ consequentiæ,</i> cùm ostenditur infirmitas",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 20,
+     "text": "nexus seu consequentiæ in Majori.",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "4. <i>Limitatione,</i> quæ locum habet in fallaciis à dicto secundùm",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 22,
+     "text": "quid, & Accidentis.",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "5. <i>Inficiatione: quæ est vel propositionis totius, vel universalitatis.</i> Illå,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 24,
+     "text": "vel Major, vel Minor simpliciter negatur: <i>Hac</i> inficiamur",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "Propositione eam, quę pro universali ponitur, revera universalem",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "esse: Quę tamen inficiatio non succedit, nisi per Instantiam",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "exempli contrarii infringere possimus univer-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "salitatem.",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "F I N I S.",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "notes": "Stamp of the Stadtbibliothek Zürich at lower left, not transcribed. Text in the scan is slightly faded on the right edge; the spelling of the original printed words is kept."
+  }
+ ]
+}
