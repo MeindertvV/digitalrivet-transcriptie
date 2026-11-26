@@ -1,0 +1,13 @@
+<page type="text">
+  <layout>One column of running text, full width. The running head is at the top, with the page number at the left and a section marker "Q. XIII." at the right. No marginal notes. The catchword sits at the lower right.</layout>
+  <page_number>120</page_number>
+  <running_head>De Episcopatu</running_head>
+  <bottom_margin>
+    <catchword>homines,</catchword>
+  </bottom_margin>
+  <main_text>
+    <p cont="true"><i>Psal. 2. In primo illo regno universali Magi-stratus à Deo constitutus est, ut ipsius Vica-rius. Hinc dicitur potestas à Deo ordinata Rom. 13. &amp; qui illo munere funguntur Deo-rum nomine in S. Literis insigniti sunt Psal. 82. Unde etiam omnes ejusdem ditionis incolæ illos qui ibi rerum potiuntur pro Magistratibus a-gnoscere debent, sive fideles, sive infideles, sive-pios, sive impios. Hujus potestatis est in illo regno universali, nomine Dei, custodire, &amp; authoritate suâ coactivâ tueri, utramque legis tabulam, id est, subditos suos dirigere &amp; legis divinæ observantiam. Verum, quia regnum illud universale rebellionis est regnum, utpote quod totum à Deo defecit, per inobedientiam universalem totius humani generis, nil nisi externum hominem coercere, &amp; aliquo modo in ordinem cogere potest Magistratus. At in regno Christi mediatoris, sive in regno hoc posteriori, sive regno gratiæ, quod est Ecclesia, in quo Deus electos suos &amp; fideles, è potestate illâ tenebrarum, &amp; universali defectione, erutos, sibi morigeros verbo &amp; spiritu suo efficit, Christus ordinavit Pastores &amp; Inspectores Ecclesiæ suæ, quorum operâ hoc regnum erigit, promovet, &amp; gubernat spirituali ratione. Eph. 4.</i></p>
+    <p><i>Pastorum, Doctorum, &amp; Inspectorum Ecclesiæ hujus est, omnes cujuscunque ordinis</i></p>
+  </main_text>
+  <notes>The section marker "Q. XIII." at the top right is a page-head element, not part of the running head, and is left out of the running_head field. The "Psal. 2." and "Rom. 13." references and "Eph. 4." are printed inline in italic within the text column. The "Psal. 82." reference could be read as "82" or "32" in the scan; it is transcribed as printed as 82 but is uncertain. The catchword "homines," belongs to the next page.</notes>
+</page>
