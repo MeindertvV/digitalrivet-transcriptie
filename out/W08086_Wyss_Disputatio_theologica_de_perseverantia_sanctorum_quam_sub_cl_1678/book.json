@@ -1,0 +1,3873 @@
+{
+ "source": "W08086_Wyss_Disputatio_theologica_de_perseverantia_sanctorum_quam_sub_cl_1678.pdf",
+ "pages": [
+  {
+   "n": 1,
+   "type": "empty",
+   "model": "claude-haiku-5-5",
+   "notes": "Scan is the e-rara.ch digitisation cover sheet (logo, Visual Library mark, licence and terms-of-use blocks, persistent link). Per the rules, the digitiser's banner, logo and link are not transcribed. The bibliographic data shown on the sheet, for reference only and not part of the printed page, is: Disputatio theologica de perseverantia sanctorum; Albinus, David; [Bernae], 1678; Universitätsbibliothek Bern; https://doi.org/10.3931/e-rara-15008."
+  },
+  {
+   "n": 2,
+   "type": "title",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": null,
+     "text": "DISPUTATIO THEOLOGICA.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "De",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "PERSEVERANTIA",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "SANCTORUM,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Quam",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Θεῶ Τελεσϐελτίςῳ συμφράτλου",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "SUB CLYPEO AC PATROCINIO",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Viri plurimùm Reverendi Doctissimi",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "DN. DAVIDIS WYSSII,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "In illustri illustrissimorum Dominorum Bernatum Athenaeo Professoris dignissimi, Praeceptoris sui quovis honore ac amore nunquam non prosequendi.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Publico subjicit Examini",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "JACOBUS WYSS, Helv. Bernas.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "AUTHOR ET RESPONDENS.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Ad diem 18. Aprilis horis locoque solitis.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Excudebat ILLUSTRISSIMAE REIPUBLICAE",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "BERNENSIS TYPOGRAPHUS,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Georgius Sonnleitnerus,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "M DC LXXVIII.",
+     "heading": 0
+    }
+   ],
+   "notes": "The Greek line \"Θεῶ Τελεσϐελτίςῳ συμφράτλου\" is set in a Greek-style type and may contain printing irregularities; copied as it appears. Handwritten \"A-3'949'014\" shelf mark and the digitiser's watermark text, and the handwritten \"I\" at upper right, are omitted. Woodcut ornament of two putti holding a laurel wreath is described here, not transcribed."
+  },
+  {
+   "n": 3,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: ipse"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "Amplissimo, Nobilissimo, Strenuissimo Viro,",
+     "heading": 1,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "DOMINO",
+     "heading": 1
+    },
+    {
+     "n": 3,
+     "text": "DN. NICOLAO",
+     "heading": 1
+    },
+    {
+     "n": 4,
+     "text": "DACHSELHOFERO,",
+     "heading": 1
+    },
+    {
+     "n": 5,
+     "text": "Nuper Ex-Toparchæ Königsfeldensi meritissi-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "mo, nuncque in Illustrissimorum D. D. Bernatum cohor-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "tibus, quæ Christianis. Galliarum Regi militant,",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "Capitaneo, Domino in Uzingen &c. Mœce-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "nati suo Spectatissimo.",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "Quô Consilio, quave Confidentia, Vir",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 11,
+     "text": "Strenuissime, illustris nominis tui facem",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "huic Thesium mearum fasciculo præ-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "ferre ausim, non putem esse, quod quisquam mi-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "retur; nec Tu ipse, spero, factum indignaberis,",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "postquam ejus rationem paucis exposuero, non",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "equidem, quod vulgo usu venit, id in animo ha-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "bui laudum scilicet Tuarum florida ratione per-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "texendo, gratiam Tuam aucupari. Licet enim",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "& occasio & uberrima suppetat decantandi ma-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "teria, tum Genus & Proavos, & quæ non feceris",
+     "heading": 0
+    }
+   ],
+   "catchword": "ipse",
+   "notes": "Woodcut ornament above the heading is not text. The word \"Uzingen\" is printed in a larger black-letter style within the line. Faint show-through of the reverse page (including a partly visible imprint line near the foot) is disregarded. Some letters in the body are blurred (e.g. \"Thesium\", \"ipse\" at the end of the last line set apart to the right); read as printed."
+  },
+  {
+   "n": 4,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "number": "2",
+   "lines": [
+    {
+     "n": 1,
+     "text": "ipse; tum, quibus ipse clares, eximias animi cor-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "porisq; dotes, quæq; Tibi pace ac bello pulchrè",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "gesta, inq; vulgus nota sunt; hæc tamen ego di-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "cere non ausim, ut Poëtæ verbis utar,",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "—tenuis grandia: dum pudor vetat",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "Laudes egregij Cæsaris & tuas",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "Culpâ deterrere ingeni.",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "Quis Martem tunicâ tectum adamantinâ",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "Dignè scripserit? — aut ope Palladis",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "Tydiden superis parem?",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "Quin & merito vererer, ne, quæ est generosi pe-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 12,
+     "text": "ctoris modestia id conantem ipse reprimeres. At-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "tamen, quod unum ad me præcipue attinet, id",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "necque ingrata oblivione obliterare, nec mode-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "stò silentio dissimulare queam, insignem, inquâ,",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "munificentiam, quam, paternæ virtutis etiam",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "hac ex parte hæres, continuò exeris, cujusq; ceu",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "perennis fontis, rivos ad me usq; permanare, atq;",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "ab eo tempore, quò, studiorum causâ peregrina-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "tione suscepta, patrios liqui penates, in hunc us-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "que diem, mihi largiter affluere voluisti. Hæc",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "me causa permovit, animosq; mihi addidit, ut",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "Te Mœcenatem meum nunc publicè nuncu-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "parem, hasque, Superiorum jussu, de Sancto-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "Perseverantia conscriptas Theses, Tibi, submissâ",
+     "heading": 0
+    }
+   ],
+   "catchword": "Vene-",
+   "signature": "A 2",
+   "notes": "Faint show-through from the reverse side is visible behind the text and was not transcribed. The word \"Vene-\" at the foot is a catchword. The page is in roman type with italic-free text; the verse lines are set as separate lines."
+  },
+  {
+   "n": 5,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "Veneratione, sacras facerem, non solum tan-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "quam Studiorum meorum Academicorum pri-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "mitias, ex quibus colligas, eum, quem beneficio-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "rum tuorum rore irrigasti, agellum, non prorsus",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "sterilem, desertum atque ἀδώνιμον esse; verum",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "etiam ut grati erga Te animi, summaeque obser-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "vantiae monumentum, quo veluti dato Chiro-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "grapho, debitum, cui nunquam sim solvendo,",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "ex animo saltem agnoscam. Accipe igitur serena",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "fronte, Vir Strenuissime, tenue hoc gratitudi-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "nis meae pignus, quo, ut nostra omnium in di-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "vinae charitatis communione perseverantia mi-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "nime dubia ex Dei verbo asseritur, ita perpetu-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "am meam in Tui obsequiosa veneratione perse-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "verantiam Tibi confirmari velit, qua sim",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "Vir Amplifs. Nobilifs. Strenuifs.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 17,
+     "text": "Tuus Tibi addictissimus servus,",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "Jacobus Wyssius.",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "catchword": "Thesis I.",
+   "notes": "The Greek word ἀδώνιμον is printed as a small superscript form in the scan and is transcribed as best read. Faint show-through of the verso text is ignored. The line \"Thesis I.\" at lower right is treated as a catchword-like printed signature mark."
+  },
+  {
+   "n": 6,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: conse-"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "Thesis I.",
+     "heading": 1,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "FInis Coronat Opus: est proverbium",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "contritum, finis operi duplicem im-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "ponit coronam: <i>Unam</i>, quae est ipse",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "finis, opus enim dimidium nullum",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "est, nullius est usûs, ne quidem no-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "men facti meretur, sed fine & com-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "plemento coronatur, hoc est, perfi-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "citur & ornatur: <i>Alteram</i>, quae est",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "merces, quae non nisi operi finito debetur, labor semel",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "susceptus non recompensatur, nisi ad finem perductus, sic",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "finis coronat opus; Hoc axioma est verum in operibus vi-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "libus & fere nullius momenti, quanto magis in maximo",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "illo, gravissimo, & ponderosissimo Conversionis Justifi-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "cationis & Sanctificationis nostrae opere & negotio; Quae",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "dona & beneficia maxime sunt coronanda hac duplici co-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "rona, scilicet fine seu complemento & corona vitae aeter-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "nae, juxta illud, quod legimus Apoc. 2. v. 10. <i>Esto fidelis</i>",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "<i>usque ad mortem, & dabo tibi coronam vitae aeternae:</i> Ad",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "utramque coronam consequendam, quarum Una Alte-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "ram e vestigio insequitur facit <i>Perseverantia</i> in fide.",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "Praecedenti disputatione ventilatae fuerunt Theses",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 23,
+     "text": "de Sanctificatione, hanc doctrinam juxta nostrum Au-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "thorem Wollaebium excipit Doctrina de Perseverantia",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "Sanctorum, non enim sufficit semel vocatum, fidedona-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "tum, justificatum & sanctificatum esse ad vitam aeternam",
+     "heading": 0
+    }
+   ],
+   "catchword": "confe-",
+   "signature": "A 3"
+  },
+  {
+   "n": 7,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: Perse-"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "consequendam,sed requiritur in illis donis perseverare &",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "continuare; quam Perseverantiam demum sequitur gloria",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "æterna, de qua Doctrina Σὺν Θεῷ, <i>tum</i> didacticè, veram",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "orthodoxam doctrinam, ex S. Scriptura astruendo, <i>tum</i>",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "elenchticè Heterodoxian, & inanes Adversariorum stro-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "phas destruendo agemus.",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "II.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 8,
+     "text": "Ut hanc Doctrinam de Perseverantia, quemadmo-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 9,
+     "text": "dum <i>corde</i> credimus & <i>ore</i> profitemur, dilucidè tradamus,",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "ordimur ab ipsa definitione, quam cum nostro VVollæbio",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "hanc retinemus: Perseverantia Sanctorum est donum",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "Dei, quo Electis justificatis, & sanctificatis Christi gratia",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "per Spiritum sanctum ita obsignatur, ut nunquam eâ pe-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "nitùs excidant.",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "III.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 16,
+     "text": "Perseverare ut notum est significat in labore seu",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 17,
+     "text": "propósito semel suscepto continuare tàm diu & eòusque,",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "donec ad finem & scopum perductum fuerit: quanquàm",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "dentur intervalla, in quibus à propósito urgendo ad tempus",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "abstinemus, modò voluntas perseverandi adsit, licèt",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "actus aliquando interrumpantur: ita quanquàm Electi &",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "Sanctificati aliquando in gravissima peccata cadant, quâ",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "fides ipsorum labefactatur, ita licèt fideles Spiritús sancti",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "præsentiam efficacem & sensum ad tempus non sentiant;",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "tamen eò ipsò à pietate & fide, cultu & gratiâ Dei defe-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "cisse non censendi sunt, quia suo tempore gratiâ Dei sunt",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "restituendi; Quod observandum est contra <i>Novatores</i>, qui",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "asserunt & defendunt, quòd fides toties amittatur, quoties",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "opus carnis vel Indefinitè vel Definitè aliquod carnis",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "peccatum patratur.",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "IV.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 32,
+     "text": "Hæc Perseverantia, de qua loquimur, nominatur",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "catchword": "Perse-",
+   "signature": "A 3",
+   "notes": "Faint show-through from the other side of the leaf is visible throughout the background and was not transcribed. The catchword \"Perse-\" and signature \"A 3\" are the only furniture. The Greek phrase \"Σὺν Θεῷ\" is reproduced as printed in the scan and may contain small errors."
+  },
+  {
+   "n": 8,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: mus"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "Perseverantia Sanctorum, partim quia soli sancti in fide",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "conservantur & corroborantur, & Electorum tantum",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "propria est, nec omnibus vocatis parata & expolita per",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "gratiam sufficientem & resistibilem, ut vellent Armi-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "niani; Ratio est, quia illorum tantum est Perseverantia,",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "quorum est fides: Atqui fides non est omnium. 2. Thess.",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "cap. 3. v. 2. sed saltem Electorum. Tit. cap. 1. v. 1.",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "V.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 9,
+     "text": "Perseverantia est donum, non quidem ut explicant",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 10,
+     "text": "Sophistæ Novatores, qui dicunt 1. Esse donum quoad po-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "tentiam, quam Deus largiatur, ut possit homo perseve-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "rare: non autem quoad actum, ut etiam re ipsa perseve-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "ret. 2. Esse donum generale, omnibus vocatis exposi-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "tum. 3. Esse donum, non partum morte Christi, sed ab",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "arbitrio humano dependens. Nos contra dicimus, 1. Per-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "severantiam esse donum, quo homo non tantum quoad",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "potentiam, sed quoad ipsum actum, ejusque consumma-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "tionem perseverat, ut patet ex dictis: Deut. c. 30. v. 6. Je-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "rem. cap. 32. v. 40. Ezech. cap. 36. v. 27. 1. Cor. c. 1. v. 8.",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "Philipp. cap. 1. v. 6. 29. & cap. 2. v. 13. 1. Thess. cap. 5. v. 23.",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "2. Esse donum singulare Electorum proprium, hoc testa-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 22,
+     "text": "tur Spiritus sanctus: Rom. c. 8. v. 28. 29. 30. & cap. 11. v. 7.",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "Matth. cap. 24. v. 24. 2. Tim. 2. v. 18. 19. 3. Docemus, Per-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "severantiam non minus, quam caetera beneficia spiritua-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "lia & salutaria nobis morte Christi ejusque merito acqui-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "sita esse: ut patet Joh. cap. 10. v. 11- 30. Rom. cap. 5. v. 9. 10.",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "& cap. 8. v. 33. & seqq. 1. Cor. cap. 1. v. 30. & quia hoc be-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "neficium sanctis, qui electi & vocati sunt partum est, ac",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "etiam efficaciter ipsis applicatur, ut non tam liberè & in-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "differenter, sed necessario per gratiam & efficaciam Spi-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "ritus sancti perseverent: In hoc casu sancti plus à Christo",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "impetrarunt, quàm Adamus in statu innocentiæ; Ada-",
+     "heading": 0
+    }
+   ],
+   "catchword": "mus",
+   "notes": "Printed text is faint in places; the running line \"mus\" at the foot is the catchword. Near-illegible show-through from the reverse page is not transcribed."
+  },
+  {
+   "n": 9,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "mus enim in statu innocentiæ fuit integer quidem & re-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "ctus, sed non habebat perennitatem & constantiam hu-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "jus rectitudinis; Voluntas ejus libera erat ad bonum &",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "malum indifferens: Hinc homo in integritate non per-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "mansit, quia noluit, si enim voluisset in integritate per-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "severare potuisset, accepit posse si vellet, non au-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "tem velle ut posset. At sancti in statu gratiæ acci-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "piunt & posse & velle, Deus enim est is, qui efficit in",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "sanctis & ipsum velle, & ipsum agere, pro gratuita sua be-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "nevolentia. Philipp. 2. v. 13.",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "VI.",
+     "heading": 2,
+     "caput": "6",
+     "para": true
+    },
+    {
+     "n": 12,
+     "text": "Perseverantia est donum divinitus infusum: Jerem.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 13,
+     "text": "cap. 32. v. 40. Esa. 59. 21. Phil. c. 1. v. 6. 1. Pet. 1. v. 5. nec ac-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "quiritur viribus humanis, nec ex iis pendet, adeo ut de",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "fide & perseverantiâ gloriari nefas sit, Eph. c. 2. v. 8. 9.",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "1. Cor. c. 4. v. 7. Perperam ergo Remonstrantes Perseve-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 17,
+     "text": "rantiam definiunt per habitum crebris credendi & obedi-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "endi actibus comparatum: Perseverantia enim se non ha-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "bet Ethicè, ad instar habitus alicujus moralis, sed Theo-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "logicè, est enim qualitas spiritualis virtute Spiritûs sancti",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "effecta in sanctis.",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "VII.",
+     "heading": 2,
+     "caput": "7",
+     "para": true
+    },
+    {
+     "n": 23,
+     "text": "Causa efficiens principalis Perseverantiæ est Deus",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 24,
+     "text": "Pater, Filius & Spiritus sanctns. Joh. cap. 10. v. 27. 28. 29.",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "<i>Oves meæ vocem meam audiunt, & ego eas agnosco, & sequn-</i>",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "<i>tur me, & ego vitam æternam do eis, nec peribunt in æter-</i>",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "<i>num: neque rapiet eas quisquam è manu mea; Pater me-</i>",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "<i>us, qui eas dedit mihi, major est omnibus, nec quisquam po-</i>",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "<i>terit eas rapere è manu Patris mei, ego & Pater unum su-</i>",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "<i>mus.</i> Eph. 1. v. 13. 14. <i>In quo etiam, postquam credidistis, ob-</i>",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "<i>signati estis Spiritu illo promissionis sancto qui est arrabo he-</i>",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "<i>reditatis nostræ, dum in libertatem vindicemur ad laudem gloriæ</i>",
+     "heading": 0
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: luntas"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "<i>riæ ipsius.</i> Unde Perseverantia vocatur donum Dei, quod",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "Deus non omnibus promiscuè largitur, sed quibus visum",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "est impertit; si causa differentiæ requiritur, cur alii con-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "stanter perseverent, alii in stabilitate deficiant? non alia",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "nobis constat, nisi quòd illos suâ virtute roboratos susti-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "net Dominus, ne pereant; His, quò sint inconstantiæ do-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "cumenta, non eandem virtutem administrat; nullæ er-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "gò sunt ad perseverandum vires liberi nostri arbitrii, ut",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "clamant Pontificii & Remonstrantes, qui huic idolo li-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "tant; sed hoc donum in solidum soli Deo adscribendum,",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "& à solo Deo precibus petendum; Deus enim est, qui per",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "operationem Spiritûs sancti exerit erga sanctos hanc vir-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "tutem ut perseverent. Jerem. cap. 32. v. 39. 40. Act. c. 14.",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "v. 23. 1. Cor. cap. 1. v. 8. 9. Eph. cap. 6. v. 10. Phil. 1. v. 6. &",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "cap. 2. v. 13. 1. Thess. cap. 5. v. 24. 2. Thess. c. 1. v. 11. Heb. 13.",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "v. 20. 21. 1. Pet. 5. v. 10. 1. Joh. 3. v. 9. In hoc negotio Pa-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "ter operatur per Spiritum sanctum, per quem fideles &",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "sanctos de gratia Christi certos reddit: gratiam Christi",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "salvificam fidelibus confirmat & obsignat, & quidem ita",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "tam firmiter & tam efficaciter, ut nunquàm eâ penitùs",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "excidant; Hinc Spiritus sanctus in sacra Scriptura vocatur",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "σφραγὶς, ἀρραβὼν Eph. c. 1. v. 14.",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "VIII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 24,
+     "text": "Causa efficiens impulsiva interna est voluntas Dei,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 25,
+     "text": "Deus non solùm potest, sed etiam vult verè fideles & san-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "ctificatos in isto suo statu ad æternam salutem conserva-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "re; De potentia Dei quæ absolutè summa est & infinita,",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "non potest esse dubium: de voluntate autem constat, tum",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "ex decreto electionis in sacris literis disertè propositò, de",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "quo illustria sunt testimonia, ut Joh. cap. 6. v. 38. 39.",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "40. <i>Quia descendi è cœlo, ut exequar non voluntatem me-</i>",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "<i>am, sed voluntatem ejus, qui misit me; Hæc est autem vo-</i>",
+     "heading": 0
+    }
+   ],
+   "catchword": "luntas",
+   "signature": "B"
+  },
+  {
+   "n": 11,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: tus"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "<i>luntas ejus, qui misit me; id est, Patris, ut quicquid mihi</i>",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "<i>dederit, non perdam ex eo, sed suscitem illud in ultimo</i>",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "<i>illo die; hæc est autem voluntas ejus, qui misit me, ut</i>",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "<i>quisquis conspicit Filium, & credit in eum, habeat vitam</i>",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "<i>æternam, & suscitem ipsum ego ultimo die.</i> Eph. c. 1. v. 3.",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "4. 5. <i>Benedictus esto Deus & Pater Domini nostri Jesu Chri-</i>",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "<i>sti, qui benedixit nobis omni benedictione spirituali, in cælis</i>",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "<i>in Christo, sicut elegit nos in ipso ante jactum mundi funda-</i>",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "<i>mentum, ut simus sancti & inculpati in conspectu ejus cum cha-</i>",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "<i>ritate. Qui prædestinavit nos, quos adoptaret in filios per Je-</i>",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "<i>sum Christum in sese pro benevolo affectu voluntatis suæ.</i> Simili-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "ter Rom. 8. v. 28. 29. 30. <i>Novimus autem, iis, qui diligunt Deum,</i>",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "<i>omnia simul adjumento esse ad bonum, iis videlicet, qui ex pr-</i>",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "<i>oposito ipsius vocati sunt, nam quos præscivit, etiam prædesti-</i>",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "<i>navit, confirmandos imagini Filii sui, ut sit primogeni-</i>",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "<i>tus inter multos fratres. Quos vero prædestinavit, eos etiam</i>",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "<i>vocavit, & quos vocavit, eos etiam justificavit, quos autem</i>",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "<i>justificavit, eos etiam glorificavit.</i> Sic 2. Thess. cap. 2. v.",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "13. 14. <i>Tum</i> ex promissionibus Dei de gratia perseve-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "randi sanctis largienda, quarum S. Scriptura plenissi-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "ma est, <i>tum in V. tum in N. T.</i> de quibus in specie mentio",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "fit Jerem. cap. 32. v. 39. 40. Zach. c. 10. v. 12. Joh. c. 8. v. 12.",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "IX.",
+     "heading": 1,
+     "caput": "9",
+     "para": true
+    },
+    {
+     "n": 24,
+     "text": "Causa efficiens impulsiva externa est jugis Christi",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 25,
+     "text": "pro sanctis intercessio & fidissima ac potentissima cura",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "salutis nostræ. Rom. cap. 8. 34. 35. Hoc efficacissimum est",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "patrocinium & auxilium adversus condemnationem; at-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "que adeo validissimum remedium adversus totalem ac",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "finalem apostasian Heb. 7. 24. 25. absolutissima servatio fi-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "delium, quæ defectionem illam plane excludit est propri-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "us effectus Sacerdotij Christi nunquam transituri, & cer-",
+     "heading": 0
+    }
+   ],
+   "catchword": "tus",
+   "notes": "Page is a single column; no marginal notes. Lower-right catchword \"tus\" is the start of the next page's word. Page number not printed."
+  },
+  {
+   "n": 12,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "number": "B 2",
+   "lines": [
+    {
+     "n": 1,
+     "text": "tus fructus interpellationis ejus. Sicut ergò Salvator Pe-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "tro aliquando dixit Luc. 22. 31. 32. <i>Simon, Simon, ecce Sata-</i>",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "<i>nas appetiit vos quos ventilaret sicut triticum, sed ego depreca-</i>",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "<i>tus sum pro te, ne deficiat fides tua.</i> Similiter amplius roga-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "vit Joh. 17. 9. <i>Pro eis rogo, non pro mundo rogo, sed pro iis,</i>",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "<i>quos dedisti mihi, quia tui sunt.</i> & v. 11. <i>hi sunt in mundo, &</i>",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "<i>ego ad te venio. Pater Sancte, serva eos per nomen tuum, quos</i>",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "<i>dedisti mihi ut sint unum, prout & nos,</i> & v. 15. <i>non rogo, ut</i>",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "<i>tollas eos e mundo, sed ut eos a maligno illo conserves.</i> & v. 17.",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "<i>Sanctifica eos tuâ veritate, sermo ille tuus veritas est.</i> & v. 20.",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "<i>non tantùm autem pro iis rogo, sed & pro iis, qui per sermo-</i>",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "<i>nem eorum credituri sunt in me.</i> Ex his liquet, quomodo",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "Christus conservationem à Diabolo & mundo & sanctifi-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "cationem in veritate salutari nec non communionem cum",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "Patre petierit non solùm electis suis Discipulis, sed etiam",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "omnibus, qui postmodum in ipsum credituri essent, Ne-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "que ullo modo dubitandum est de efficacia intercessionis",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "Christi, sic enim ipse professus est Joh. 11. 41. 42. <i>Pater gra-</i>",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "<i>tias ago tibi, quòd me audieris, ego verò sciebam, me semper à</i>",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "<i>te audiri.</i>",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "X.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 22,
+     "text": "Causa instrumentalis Perseverantiæ sunt 1. Exhorta-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 23,
+     "text": "tiones ad Perseverantiam, quæ à Pastoribus nomine Dei",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "fiunt, & quidem sæpè conjunctæ tum cum promissione",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "beneficiorum præstantissimorum, ut nominatim est sa-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "lus seu vita æterna, quæ Deus gratiosè largiturus est",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "perseverantibus: tum cum comminatione adversus non",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "perseveraturos, quos beneficiis suis privaturus est, &",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "gravissimis pœnis affecturus. 2. Preces tum nostræ,",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "Judæ v. 20. 21. tum aliorum, & præsertim Ministrorum",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "Ecclesiæ pro nobis: Act. 14. 23. 2. Thess. 1, 11. Heb. 13. 20. 21. 1. Pet. 5. 10.",
+     "heading": 0
+    }
+   ],
+   "catchword": "XI. Ma-",
+   "signature": "B 2"
+  },
+  {
+   "n": 13,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: men"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "XI.",
+     "heading": 2,
+     "caput": "11",
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "Materia in qua, quæ subjecti rationem habet, sunt",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "electi, vocati, justificati & sanctificati, & quidem soli;",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "Hi enim soli virtute & cooperatione Spiritus sancti, in",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "gratia salutis, quæ est per unum ac solum Christum, per-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "manent, & ad finem usque perfistunt. Joh.15. 4. Actor. 13.",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "43. Matth. 24. 13. Hi dignosci possunt ex his tribus Crite-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "riis: 1. Ex firmo animi proposito perseverandi in gratia",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "Christi semel accepta, sive in fide & charitate, Act. 11. 18.",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "cujus exemplum est Joh. 6. 68. 69. 2. Ex serio & actuali",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "studio custodiendi & confervandi illam gratiam, resisten-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "di variis dubitationibus & tentationibus, & cavendi lap-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "sus quoscunque, imprimis autem contra conscientiam,",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "sed pro infirmitatis præsentis conditione Luc. 8. 15. Heb. 6.",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "11. 1. Joh. 3. 3. Ex infirmitate autem illa fit, ut studium",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "illud aliquando remittatur nonnunquam etiam interrum-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "patur à carne ejusque πathημαται, ut est Rom. 7. Gal. 5. 17. 18.",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "vel etiam à tentatione & seductione Diaboli ac mundi,",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "Luc. 22. 31. 32. 1. Joh. 2. 16. Hûc faciunt lapsus Sanctorum",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "in scriptura notati: 3. Ex vera ac feria resipiscentia à lapsu,",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "per quam tum propositum illud, tum etiam actuale studi-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "um restauratur ac confirmatur in Sanctis. Jerem. 31. 18. 19.",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "20. Luc. 22. 31. 32. Hûc facit exemplum Davidis Pf. 32. & 51.",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "XII.",
+     "heading": 2,
+     "caput": "12",
+     "para": true
+    },
+    {
+     "n": 25,
+     "text": "Hoc dum ex sacra Scriptura statuimus, refutandi ve-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 26,
+     "text": "niunt Arminiani, qui non solum electos, justificatos &",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "sanctificatos, sed omnes promiscuè vocatos perseverare",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "asserunt, quàm diu scilicet mediocri diligentia cavent",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "peccata contra lumen naturæ & gratiæ, atque etiam in-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "firmitates suas emendare studeant, ut sic duas Perseveran-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "tiæ notas statuant: 1. Nota est: contra clarum & apertum",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "tum naturalis rationis tum supernaturalis revelationis lu-",
+     "heading": 0
+    }
+   ],
+   "catchword": "men"
+  },
+  {
+   "n": 14,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: rumpi-"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "men non peccare. II. Nota est: Infirmitates, quibus",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "omnes & singuli pro ratione temperamenti, ætatis, lo-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "corum aliarumque circumstantiarum plus minusve obno-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "xii sunt, emendare, vel saltem emendationem earum",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "non negligere. Hanc Remonstrantium sententiam &",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "descriptionem refutatum imus. 1. Dicimus; Illam esse",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "heterogeneam, quia non Christianam Perseverantiam",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "fidelium, sed philosophicam constantiam Gentilium no-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "bis pingit & refert, excepto unico duntaxat membro, lu-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "minis supernaturalis, quod conditionem Gentilitatis tran-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "scendit. 2. Esse insufficientem, tum ratione efficientis,",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "quæ est secunda Dei gratia, primam confirmans, augens,",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "& ad finem usque custodiens: Philipp. 1. 6. & cap. 2. 13.",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "1. Pet. 1. 5. hujus enim non meminit, vel si eam comple-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 15,
+     "text": "tatur sub lumine naturæ & gratiæ ne sic quidem sufficit,",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "siquidem gratia perseverantiæ non tantum mentem illu-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "minat, sed etiam voluntatem continet in timore Dei, ne",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "ab ipso recedat Esa. cap. 64. 3. Jerem. 32. 40. tum ratione",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "objecti, quia objectum Perseverantiæ non est sola gratia",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "sanctificationis & bonorum operum, sed etiam gratia vo-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "cationis, fidei & justificationis, quâ fit ut fides non defi-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "ciat Luc. 22. 32. ut Christus maneat in nobis Joh. 15. 4. ha-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "bitans in cordibus nostris Eph. 3. 17. & vivificus gratiæ ipsi-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "us sensus percipiatur ad tranquillationem & pacem con-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "scientiæ Rom. 5. 1. Joh. 6. 68. 69. Denique esse falsam, id-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "que dupliciter: 1. Quatenus Perseverantiam etiam ad-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "scribit lumini ac viribus naturæ, quæ tota est supernatu-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "ralis. Probatur tum dictis. Jerem. 32. 39. 40. Philipp. 1. 6.",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "1. Pet. 1. 5. tum etiam ratione; quia Perseverantia est fides",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 30,
+     "text": "perseverans, & per eam constanter operans, atqui fides",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "tota est supernaturalis Joh. 1. 12. 13. Matth. 16. 17. 1. Cor. 2.",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "7. 8. 9. Ergo &c. 2. Quatenus infirmitates, quibus inter-",
+     "heading": 0
+    }
+   ],
+   "catchword": "rumpi-",
+   "signature": "B 3",
+   "notes": "Page header is absent. Marginal notes: none legible on this page. Scan shows faint show-through from the reverse side, not transcribed."
+  },
+  {
+   "n": 15,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "rumpitur Perferantia in Sanctis, adscribit temperamen-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "to, ætati, locis aliisque circumstantiis, pro quibus plura",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "aut pauciora, majora aut minora impedimenta Perseve-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "rantiæ objiciuntur. Atqui infirmitatum, lapsuumque",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "omnium fons ac scaturigo est peccatum originale, habi-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "tans in nobis, Rom. 7. 14. & seqq. sive ut eleganter vocat",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "Apostolus Hebr. 12. 1. <i>ἡ ἁμαρτία εὐπερίστατος</i>, quod nos undi-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "que circumstat, obsidiat, cursumque nostrum impediat;",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "hinc illud Gal. 5. 17. 18. & Jac. 1. 14. 15. Temperamenti qui-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "dem aliqua vis est in virtute & honestate civili, sed tamen",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "ne illic quidem multum proficit, nisi vitium originale",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "reprimatur & coerceatur, in fide autem & sanctitate nul-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "lum momentum aut pondus obtinet.",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "XIII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 15,
+     "text": "Materia circa quam vel objectum est gratia Dei sal-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 16,
+     "text": "vifica vel ipsa vita spiritualis; in qua est Perseverantia ve-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "rarum virtutum Theologicarum, verae ac vivae fidei &",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "spei & charitatis: 1. Cor. 13. 13. <i>Nunc vero manet fides, spes &</i>",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "<i>charitas, tria haec</i>; neque enim larvas istarum virtutum &",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "inania simulacra nunc respicimus. Fidem merè dogma-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "ticam, spem vanam, charitatem simulatam & sibi tan-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "tum utilem, unde complures defecisse non est mirum.",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "XIV.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 24,
+     "text": "Forma partim in voluntate perseverandi, partim",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 25,
+     "text": "in actu ipso consistit: Voluntas in piis nunquam deficit,",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "actus autem modo intenditur, modo remittitur; Quoad",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "voluntatem, illa donantur omnes electi cum regeneran-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "tur: Regenerat enim Deus ita voluntatem, ut velit &",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "amet bonum, cupiatque in illo usque ad finem perseve-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "rare. Quoad actum, nunc dantur incrementa, unde Eph.",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "3. 16. <i>ut det vobis pro divite sua gloria, ut fortiter corroboremini</i>",
+     "heading": 0
+    }
+   ],
+   "catchword": "ni",
+   "signature": "B 3",
+   "notes": "Marginal marks at left edge (symbols, no legible text). Greek in the line \"ἡ ἁμαρτία εὐπερίστατος\" is transcribed from a small, blurred print and may be imperfect. Page number and running head not printed. Catchword and signature read from faint foot print and are uncertain."
+  },
+  {
+   "n": 16,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "<i>ni per Spiritum suum in interiore homine.</i> & cap. 4. 15. 16.",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "<i>Sed sincerè nos gerentes in charitate prorsus adolescamus in eum,</i>",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "<i>qui est caput, nempe Christus: ex quo totum corpus congruen-</i>",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "<i>ter coagmentatum & compactum per omnes suppeditatas com-</i>",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "<i>missuras, ex vi intus agente pro mensura unius cujusque mem-</i>",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "<i>bri, incrementum capit, corpori conveniens ad sui ipsius extru-</i>",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "<i>ctionem per charitatem.</i> Quandoque tamen incrementum",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "non recte procedit, imò & decrementum aliquod perci-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "pitur, ita quidem, ut non solum exercitia & actus se-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "cundi ad tempus cessent, sed & facilitas ac promptitudo",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "operandi quodammodo imminuatur. Actus voluntatis",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "continuari in nobis non potest, sine speciali Spiritus sancti",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "actione & gubernatione, unde modò remittitur, modò",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "intenditur, prout Spiritus sanctus efficacius aut minus",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "efficaciter in nobis operatur, sed voluntas & propositum",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "perseverandi nunquam penitus deficit in sanctis, quòd",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "ergò Psalm. 1. 3. dicitur: <i>Erit sicut arbor plantata ad rivos</i>",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "<i>aquarum, quæ fructum suum edit in tempore suo, & cujus fo-</i>",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "<i>lium non decidit: Atque</i> item Jerem. 17. 8. <i>Erit similis ar-</i>",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "<i>bori plantatæ secundum aquas, & secundum processum aqua-</i>",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "<i>rum mittenti radices suas, quæ non sentit, quum advenit æstus,</i>",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "<i>sed sunt folia ejus virentia &c.</i> Id non accipiendum est sim-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "pliciter & absolutè de actu voluntatis, quasi prosperitas",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "spiritualis non interrupta omnibusque numeris absoluta",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "piis ac fidelibus omnibus & ubique & semper obtine-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "ret, fides enim quoad hunc actum secundum aliquando",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "amittitur; sed intelligendum secundum quid de ipsa vo-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "luntate: Quoad enim illam voluntatem seu habitum &",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "actum primum, quo Christum apprehendit, fides illa",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "nunquam amitti potest, ut spiritualis vigor, fertilitas &",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "prosperitas detur, ut permaneat vita spiritualis, nec",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "deficiat totaliter, nedum usque ad finem sine restauratione,",
+     "heading": 0
+    }
+   ],
+   "notes": "Printed text on the page is a single column; the final word \"ne,\" at lower right is set apart and is treated as the line end of the last line. Greek/Latin italic and long s are rendered as plain s. Some words in the scan are slightly blurred (e.g. \"suppeditatas\") and may be misread."
+  },
+  {
+   "n": 17,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "ne, <i>verùm ut perficiatur in diem Domini Jesu Christi</i> Philip.",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "1. 6. <i>atque omnia simul adjumento sint ad bonum:</i> Rom.8.28.",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "<i>dum potentia Dei per infirmitatem consummatur</i>, 2. Cor. 12. 9.",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "<i>quin imò ubi redundavit peccatum, superabundet gratia illa.</i>",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "Rom. 5. 20. utrumque scilicet & voluntatem & ejus actus",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "comprehendit Paulus Phil. 1. 6. & cap. 2. 13.",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "XV.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 8,
+     "text": "Finis hujus conservationis summus & ultimus, idem",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 9,
+     "text": "est qui communiter omnium operum Dei, & specialis",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "operum gratiæ ac misericordiæ; ipsius gloria. Mirabili-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "ter enim hic elucescit Dei T.O.M. <i>φιλανθρωπία</i>, quòd ho-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "mines imperfectè sanctos, tam infirmos, ipse sustentet",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "atque conservet: nec non multiformis sapientia; dum",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "modis & mediis ita variis perseverantiam certò exequi-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "tur: deinde constans fidelitas; quoniam non obstante no-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "strâ sæpè infidelitate, ipse promissa ad extremum præ-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "stat: atque item supereminens potentia ipsius; dum nos",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "ita debiles in nobis, adversus hostes tam multos, tam va-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "lidos, tam subdolos, tam pertinaces, custodit ac tuetur",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "ad finem usque Rom. 5. 8. 9. 10. <i>Commendat autem suam</i>",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "<i>erga nos charitatem Deus, eò quòd cùm adhuc essemus peccato-</i>",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "<i>res, Christus pro nobis mortuus sit. Justificati nunc igitur ejus</i>",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "<i>sanguine, servabimur multò magis &c.</i> Eph. 3. 10. 11. <i>Ut nunc</i>",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "<i>innotescat per Ecclesiam imperiis ac potestatibus, quæ in cælis</i>",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "<i>sunt, multiformis illa sapientia Dei: secundùm præstitutum</i>",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "<i>æternum &c.</i> 1. Thess. 5.24. <i>Fidelis est qui vocavit vos, qui etiam</i>",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "<i>id efficiet.</i> Eph. 1. 19. &c. Hæc sanctificatos agnoscere & ce-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "lebrare oportet: 1. Pet. 2. 9. <i>Vos autem estis genus electum, re-</i>",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "<i>gale sacerdotium, gens sancta, populus quem sibi Deus ut pro-</i>",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "<i>prium vendicat: ut virtutes prædicetis illius, qui vos vocavit è</i>",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "<i>tenebris in admirabilem lucem suam.</i> Isti summo fini subor-",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "dinatur alter, ipsorum conservatorum, atque adeò perseve-",
+     "heading": 0
+    }
+   ],
+   "notes": "Catchword \"seve-\" at foot right appears as the continuation of the last line; treated as the end of the last line. Greek phrase \"φιλανθρωπία\" transcribed from the printed Greek, uncertain in its exact accents."
+  },
+  {
+   "n": 18,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: mirum,"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "feverantium, beatitudo æterna. Hinc diserte Aposto-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "lus 2. Thess. 1. 9. 10. <i>Cujus etiam rei gratiâ oramus semper</i>",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "<i>pro vobis, ut vos dignetur istâ vocatione Deus noster: & com-</i>",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "<i>pleat totum suæ bonitatis libitum, & opus fidei potenter: ut</i>",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "<i>glorificetur nomen Domini nostri Jesu Christi in vobis, & vos in</i>",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "<i>eo, ex gratia Dei nostri, & Domini Jesu Christi.</i> Heb. 11. 35--39.",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "<i>Ne igitur abjicite liberam illam professionem vestram, quæ ma-</i>",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "<i>gnam habet præmii retributionem: Nam patiente animo vobis</i>",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "<i>est opus: ut voluntati Dei obsecuti, reportetis promissionem illam--</i>",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "<i>Justus autem ex fide vivet: at si quis se subduxerit, non est</i>",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "<i>gratum animo meo. Sed nos non ij sumus, qui nos subducamus</i>",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "<i>ad exitium: sed qui credamus ad animæ salutem.</i>",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "XVI.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 14,
+     "text": "Perseverantiæ adversa est omnis apostasia & defe-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 15,
+     "text": "ctio tum totalis, quod observandum contra Lutheranos:",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "quam apostasiam etiam Augustinus cum ipsis interdum",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "admittere videtur: <i>tum</i> finalis: quod observandum con-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "tra omnes universalis gratiæ Patronos, nimirum Pontif.",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "Socin. Anabapt. & Arminianos: qui omnes existimant",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "verè fideles & sanctificatos totaliter posse deficere, ut",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "prorsus amittant fidem, & ejus efficaciam scilicet chari-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "tatem, imò etiam finaliter, ut sine restauratione ad finem",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "usque, in isto lapsu maneant, atque adeò æternum pe-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "reant: Utraque opinio & assertio falsa & erronea est, &",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "sacræ Scripturæ aperte repugnat; quanquam compara-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "tione instituta citra hanc controversiam multò graviùs",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "errent posteriores, qui finalem, quàm priores scilicet Lu-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "theranos, qui totalem defectionem propugnant, quia sci-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "licet finalis defectio totalem includit.",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "XVII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 31,
+     "text": "Quoad Lutheranos: Illi statuunt Sanctos saltem to-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 32,
+     "text": "taliter posse deficere, non autem finaliter: Necque hoc",
+     "heading": 0
+    }
+   ],
+   "catchword": "mirum,",
+   "signature": "C",
+   "notes": "Lower part of the page is faint; the reading \"Necque hoc mirum,\" is continued at the foot with the catchword. Marginal ghost text from the reverse side is not transcribed."
+  },
+  {
+   "n": 19,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: & quia"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "mirum, cùm subjectivam certitudinem salutis æternæ in",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "fidelibus nobiscum defendunt, quæ falleretur, si etiam",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "aliqui finaliter deficerent: Quoad reliquos Pontif. scili-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "cet & Armin. Illi fidelibus etiam finalem defectionem",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "tribuunt, ut non solùm temporariam intercisionem &",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "interruptionem gratiæ, sed etiam ejusdem ablationem &",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "negationem perpetuam doceant, ita ut hinc salutis sub-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "jectivæ certitudinem negent; utraque explicatio est Scri-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "pturæ adversa, nec audienda; Prior de totali defectione,",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "quia impossibile est, seduci electos à fide Matth. 24.24.",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "<i>Cùm semen Dei in ipsis sit incorruptibile & permanens</i> 1. Pet. 1.",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "23. & 25. 1. Joh. 3. 9. Posterior de totali & finali defectione",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "multis argumentis refutari potest, plura collegit Polanus",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "lib. 6. cap. 43. & alii; Nos paucis dicimus, & fatemur,",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "etiam Sanctissimos, ut Petri, Salomonis, Davidis, aliisq;",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "exemplis constat, etiam gravissimè interdum labi, sed ta-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "men cùm cadunt non ejiciuntur, quia Jehovah sustentat",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "manum eorum, & à casu suo restaurantur per resipiscen-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "tiam Psalm. 37. 24. Luc. 22. 32. Deus omnibus illis, quos",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "efficaciter vocat, indit principium æternæ durationis,",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "quod in solis electis reperitur, hoc in Scripturis vocatur",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "<i>Radix insita</i> Matth. 13. 21. <i>Semen manens</i> Joh. 3. 9. & <i>immor-</i>",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "<i>tale</i> 1. Pet. 1. 23. <i>Unctio manens</i> 1. Joh. 1. 21. <i>Sermo insitus</i> Jac. 1.",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "21. <i>Spiritus inhabitans</i> 1. Cor. 3. 16. <i>Fons aquæ salientis in vitam</i>",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "<i>æternam</i> Joh. 4. 14. Equidem principium istud non adeò",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "absolutam necessitatem adfert perseverandi, quin excuti",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "denuò possit, si eò semel donatus, cæteris auxiliis destitu-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "tus, tentationibus validis & infirmitati suæ relinqueretur.",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "Luc. 22. 31. Sed tamen quia Deus immutabili fœdere spon-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "spondit se conservaturum in suis fœderatis principium il-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "lud vitale Jerem. 32. 40. quam promissionem exequi solet",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "verbi ministerio & similibus auxiliis adhibitis Joh. 17. 17.",
+     "heading": 0
+    }
+   ],
+   "catchword": "& quia",
+   "notes": "The text is continuous; \"spon-spondit\" is a printed line-end hyphenation of \"sponsondit\" as printed (read as \"spon-\" then \"spondit\"); a faint mark in the lower left is show-through. The final \"& quia\" line is the catchword-style word at the foot of the page."
+  },
+  {
+   "n": 20,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: omnes"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "& quia præter externa illa media etiam accedit peculiaris",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "assistentia Spiritus & divina custodia & potens protectio,",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "1. Pet. 1. 5. & cap. 5. 10. necessario sequitur, principium il-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "lud non excuti,sed in illis <i>quos Deus elegit, & gratiosè ad sem-</i>",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "<i>piternum consortium & communionem vocat constanter manere,</i>",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "quæ perseverantia fidelium vel immutabilis eorum con-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "ditio, secundum integram ejus rationem non provenit à",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "principio intrinseco solo, nec à solo extrinseco, sed par-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "tim ab intrinseco, ex natura vitæ spiritualis, à Christo flu-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "entis, & partim ab extrinseco, ex custodia, protectione",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "& directione Dei: proinde verè quidem dicimus fidelem",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "posse à fide sua deficere, cùm scilicet in se & principiis suis",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "intrinsecis consideratur solis, sic enim defectui subjicitur,",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "& mutabilis existit, aufertur quidem actus vel effectus ipse",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "deficiendi, sed potentia ad actum non auffertur; sed ta-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "men Adversariis non admittimus, ullo modo contingere",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "posse, ut verè fidelis penitus à fide sua deficiat, quatenus",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "nempe vitâ donatus immortali particeps etiam fit prote-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "ctionis, custodiæ & statuminationis divinæ, quam ipsi",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "perpetuò licet non æquabiliter adesse facit constantia fœ-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "deris divini.",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "XVIII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 23,
+     "text": "Multa quidem proferunt & corradunt Adversarii ex",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 24,
+     "text": "sacra Scriptura, <i>tum</i> exempla, quibus tamen nihil prosi-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "ciunt, cùm, si qui à fide defecerunt, vel hoc solo argu-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "mento nunquam veri fideles fuisse deprehendantur, <i>tum</i>",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "dicta: ad probandam fidelium apostasian: inter alia argu-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "mentantur ex Exodi 32. 32. Psalm. 69. 29. Apoc. 22. 19. in qui-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "bus dictis mentio fit de delectione è libro vitæ: item pro-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "ferunt locum Ezech. 18. 26. Matth. 13. 20. & cap. 24. 12. 13.",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "Joh. 15. 2. Gal. 5. 4. Heb. 6. 4. 5. 6. 1. Tim. 1. 19. Heb. 10. 26.",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "2. Pet. 2. 21. 22. Judæ v. 4. & quæ sunt alia similia. Ad has",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "catchword": "omnes",
+   "signature": "C 2",
+   "notes": "Printed text runs to the foot; \"omnes\" is the catchword. Italic passages marked with <i>. No marginal notes or page number visible. Heading \"XVIII.\" is a numbered chapter heading, given level 2."
+  },
+  {
+   "n": 21,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: creti"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "omnes objectiones respondere longius, quàm par est no-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "stra extenderetur Disputatio, quare ad illas, quibus visum",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "est, respondere in ipso Disputationis actu sumus parati.",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "XIX.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "Ex his omnib.quæ hactenus super hanc de Perseveran-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "tia doctrinam diximus, concludimus, electos, vocatos, ju-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "stificatos & sanctificatos salutis suæ certos esse; si enim cer-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "ti sunt de sui electione & vocatione, de sua fide, justifi-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "catione & sanctificatione, sanè etiam certi sunt de sua sa-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "lute; Atqui certi sunt de sui electione, ut patet Matth. 24.",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "24. 2. Tim. 2. 19. sunt etiam certi de sua vocatione; Rom.",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "11. 29. quin etiam de fide Esa. 42. 1. etiam de justificatione,",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "per quam <i>nulla condemnatio est iis, qui sunt in Christo Jesu.</i>",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "Rom. 8. 1. sunt quoque certi de sui sanctificatione Philipp.",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "1. 6. proinde etiam sunt certi de sua salute, & hanc quidem",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "certitudinem fideles habent partim fide, quâ ex Scriptura",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "credunt, quemcunque qui Christo ad salutem confidit re-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "missionem peccatorum habiturum; partim experientiâ",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "ex proprio animi sensu & conscientiâ, ac impressu Spiri-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "tus arrhabone & charactere, quem intrinsecè fideles de-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "prehendunt, ut sicut primùm subnixi divina authoritate",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "per fidem credimus revelationi, ita deinceps per actum",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "fiduciæ illam obsignamus; unde maxima tum certitudo in",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "animum exundat, quæ ex experimentali & fide mista dici",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "potest; Est autem omnis illa certitudo, ubi se quis rite ex-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "ploraverit, subjectiva & formalis, nec falsum recipere po-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "test: Hæc autem certitudo subjectiva & quæ inde fluit παρ-ρησία & πληροφορία & καύχησις",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "& ἐπιπρώτησις, qualis in Abra-hamo describitur Rom. 4. 20. 21. in Paulo 2. Tim. 4. 7. 8.",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "aliisque oritur 1. à certitudine objectiva à parte Dei, apud",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "quem salus nostra firma & immutabilis existit, & quidem",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "ex fœdere ejus ac æterno gratiæ consilio, hanc enim de-",
+     "heading": 0
+    }
+   ],
+   "catchword": "creti",
+   "signature": "C 2",
+   "notes": "The Greek words in the last lines are small and blurred; the forms of παρρησία, πληροφορία, καύχησις and ἐπιπρώτησις are read from the scan and may be slightly off, so they are given without [?] but should be checked. The \"C 2\" at the foot is faint and may be a gathering signature. The catchword \"creti\" is printed at the right below the last line."
+  },
+  {
+   "n": 22,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "creti divini firmitatem, quæ certitudo objectiva est, cer-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "titudini nostræ præstrui oportet, quos prænovit, hos",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "etiam glorificavit persuasum habeo, quòd non futurum sit, quod nos",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "possit separare à dilectione Dei Rom. 8. 29. 30. 38. 39.",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "II. A fœderis gratiæ promissionumque ejus natura",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "ac stipulatione, quæ eam animi fiduciam requirunt: <i>Noli me-</i>",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "<i>tuere</i> Gen. 15. 1.",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "III. A fidei natura, quæ assensus sui certa",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 9,
+     "text": "est, qui credit in Filium Dei, habet testimonium in se ipso 1. Joh. 5.",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "16. conf. 2. Tim. 1. 12. unde nos ipsos <i>explorare</i>",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "<i>jubemur an in fide simus</i> 2. Cor. 13. 5. Huc pertinet Spiritus S.",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "<i>obsignatio, unctio, arrha, sigillum, character, testimonium, primitiæ,</i> 1. Cor.",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "1. 21. 22. Eph. 1. 13. 14. 1. Cor. 2. 12. Rom. 8. 23. quæ",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "omnia, tam magnificè sonantia, inane nomen & nuda verba",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "sunt, nisi fidelibus istam salutis certitudinem & sen-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "sum præbeant.",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "IV. A spei natura, quæ <i>viva</i> appellatur,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 18,
+     "text": "atque hominem <i>gloriari facit</i> 1. Pet. 1. 3. Rom. 5. 2.",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "V. A na-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 20,
+     "text": "tura amoris erga Deum, qui sine mutui amoris",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "sensu & certitudine esse non potest.",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "VI. Ab unione nostra ac",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 23,
+     "text": "communione cum Deo. Huic certitudini obluctantur ac",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "obsistunt Pontif. & ex illorum choro Bellarminus, Re-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "monstr. & Anabaptistæ; quorum tamen mens non est",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "eadem. Illi enim certitudinem moralem & conjecturalem",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "non merito Christi sed bonis operibus fundatam: Isti cer-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "titudinem pro præsenti non in futurum: Hi verò",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "certitudinem ne peccatori quidem resipiscenti, nisi resipiscentiæ",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "suæ supervivat & bona opera edat, permittendam asse-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "runt: quid hi omnes pro sententia sua tuenda proferant,",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "audiemus in ipso disputationis discursu.",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "XX.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 34,
+     "text": "Ex hac quam astruximus salutis certitudine, oritur vera",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 35,
+     "text": "ac firma consolatio: unde Deus hanc doctrinam sæpissimè",
+     "heading": 0
+    },
+    {
+     "n": 36,
+     "text": "in sacra Scriptura proponi ac inculcari jussit",
+     "heading": 0
+    },
+    {
+     "n": 37,
+     "text": "ad conso-",
+     "heading": 0
+    }
+   ],
+   "catchword": "confo-",
+   "signature": "C 3"
+  },
+  {
+   "n": 23,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: Patriar-"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "consolationem fidelium: loca sunt Jerem.31.39.40. Joh.10.",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "28. & feqq. Rom. 8. 32. & feqq. Philipp. 1. 6. & alibi; hæc",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "certitudo quoties pepererit in fidelibus spirituale gaudium",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "& spiritualem consolationem comprobant exempla San-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "ctorum <i>Jobi</i> cap. 19. <i>Davidis</i> Pfalm. 23. &27. & passim. <i>Petri</i>",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "Luc. 22. 32. <i>Pauli</i> Rom. 8. 38. 2. Tim. 4. 8. At hæc certitudo",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "perseverantiæ & salutis est sensus gratuiti & constantis fa-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "voris Dei, ut patet Gen. 17. 7. Pfal. 23. 1. & feqq. quin etiam",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "absque hac certitudine salutis & perseverantiæ ad salutem",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "omnium hominum miserrimi sumus, teste Paulo 1. Cor.",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "15. 29. proinde merito concludimus contra omnes Hete-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "rodoxos facere ad consolationem & pacem conscientiæ,",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "imo esse necessariam.",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "XXI.",
+     "heading": 1,
+     "caput": "21",
+     "para": true
+    },
+    {
+     "n": 15,
+     "text": "Ex his omnibus, imo quia hæc doctrina est consola-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 16,
+     "text": "tionis plena, concludimus doctrinam hanc de Perseve-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "rantia Sanctorum, prout defendimus, in Ecclesia esse pro-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "ponendam, hoc enim facit Spiritus sanctus clare illam",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "proponens ac constanter urgens, ut ex superioribus sat au-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "divimus, nec obest quod afferunt & calumniantur Pela-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "giani & Semipelag. doctrinam hanc ex se, natura & indo-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "le sua pietati totique adeo Religioni esse perniciosam: hæc",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "calumnia non est nova sed vetus, jam olim ipsi Apostolo",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "tributa Rom. 6. 1. nec multum insudamus, in illis refutan-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "dis, saltem dicimus Deo placere perseverantiam per ver-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "bum, hoc est, per præcepta & interdicta, promissiones &",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "comminationes, beneficia & judicia, aliaque media ope-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "rari in Sanctis, qui, dum <i>cum timore & tremore salutem suam</i>",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "<i>operantur,</i> studeant bonis operibus, cavent lapsus & pecca-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "ta, lapsi resurgunt, veniam petunt & cautius ambulant,",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "maximè perseverant, an proinde illi dicendi veniunt ini-",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "mici pietati? Adde quod Sanctissimi, Abraham, & alii",
+     "heading": 0
+    }
+   ],
+   "catchword": "Patriar-",
+   "notes": "Scan shows a single printed page; the faint show-through text from the reverse page is ignored. Doubtful: \"studeant\" (printed \"ftudent\") and \"illam\" line end, read as printed."
+  },
+  {
+   "n": 24,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: A MON-"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "Patriarchæ, <i>Job, Moses, David, Prophetæ & Apostoli</i> & alii,",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "omnes perseverantiæ donô insignes fuerint, & tamen nul-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "lus eorum pietati renuncia vit aut inimicus fuit; Si hæc do-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "ctrina de Perseverantia trahitur ad lasciviam carnis, teste",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "Juda v. 4. fit hoc per accidens; Hæc autem præcipua illo-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "rum hypothesis, quâ docent certitudinem perseverantiæ",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "stare non posse cum mediis hortationis, promissionum,",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "comminationum ex parte Dei, nec cum conditionibus vi-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "gilantiæ, obedientiæ, precum ex parte nostra, eos fallit",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "& falluntur ex oppositione subordinatorum, nam finis in-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "fallibilitas & certitudo non tollit, sed stabilit usum medio-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "rum, & Sancti, qui per fidem norunt certam esse perseve-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "rantiam, simul norunt absque sanctitate, fugâ peccati, ac",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "studio pietatis se eam assequi non posse, ideoque hæc pe-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "tunt à Deo, & impetrant quoque, & sic per gratiam ipsius",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "perseverant: Illustratura simili, tum exemplis, Hiskiæ,",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "Esa.38. 5. 21. cui promissa vitæ prolongatio, & tamen ad-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "hibitum emplastrum, tum Pauli Act. 27. 24. 31. qui certus",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "erat ex revelatione neminem periturum ex iis, qui",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "in navi erant, & tamen de nautis ait, si illi",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "discesserint, reliquos servari",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "non posse.",
+     "heading": 0
+    }
+   ],
+   "catchword": "A MON-",
+   "notes": "Woodcut ornament (flower vase) below the text, not transcribed. The catchword \"A MON-\" is printed at the lower right. Some words are set in italic (names of Scripture figures and \"Prophetæ & Apostoli\"). Certain words in the printed text are uncertain, such as \"Illustratura\" which reads as \"Illustratura\" with a macron-like mark; the printed line was \"Illustratura\" as read."
+  },
+  {
+   "n": 25,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "A MONSIEUR WYSS.",
+     "heading": 1,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "Sur des theses de la Perseverance des Fidelles,",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "dans sa Perseverance en l'estude de la",
+     "heading": 2
+    },
+    {
+     "n": 4,
+     "text": "Ste. Theologie.",
+     "heading": 2
+    },
+    {
+     "n": 5,
+     "text": "Sonnet.",
+     "heading": 3,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "Perseverés touiours dans la sainte entreprise",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "De consacrer vos voeux à l' Arbitre des Rois,",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "Vôtre cœur ne sçauroit faire un plus noble choix,",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "Et l'on doit tout quitter pour seruir son Eglise.",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "Quand à son Souverain notre ame s'est soumise,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 11,
+     "text": "Et que du bon Pasteur elle écoute la voix",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "Elle n'a de plaisirs que viure sous ses loix",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "Pour lui seul il n'est rien que sa foi ne meprise.",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "Mais que c'est un mépris qui cause du bonheur!",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 15,
+     "text": "Au lieu que des mondains la fragile grandeur",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "De peine & de malheurs à toute heure est suivie.",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "Soyés donc dans votre bon sort",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 18,
+     "text": "Fidelle iusques à la mort",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "Et Dieu vous donnera la couronne de vie.",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "Fait à Saumur par son fid:",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 21,
+     "text": "Amy & tres-humble serviteur.",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "J. R. le Comte de la Croix.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 23,
+     "text": "FINIS.",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "notes": "Decorative printed rule at the head of the page, not transcribed. The first letter P of the sonnet is a large initial, joined to its word. Sonnet lines are in italic; the signature lines are roman. Faint marks in the lower left corner are unreadable and were left out."
+  }
+ ]
+}
