@@ -1,0 +1,2182 @@
+{
+ "source": "W08079_Wyss_Disputatio_physica_de_passionibus_mentis_in_genere_quam_sub__1664.pdf",
+ "pages": [
+  {
+   "n": 1,
+   "type": "title",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": null,
+     "text": "Disputatio physica de passionibus mentis in genere",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Albinus, David",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "[Bernae], 1664",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Universitätsbibliothek Bern",
+     "heading": 0
+    }
+   ],
+   "notes": "The page is the digitiser's title sheet of e-rara.ch (Universitätsbibliothek Bern) for the digitised book. The text of the portal, licence notices, persistent link and logos is not printed matter of the book and has been left out. The title lines are taken from the digitiser's metadata rather than from the printed title page, so the place and date are given as shown on the sheet."
+  },
+  {
+   "n": 2,
+   "type": "title",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": null,
+     "text": "DISPUTATIO PHYSICA",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "De",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "PASSIONIBUS",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "MENTIS IN",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "GENERE,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Quam,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Divino annuente Numine",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "SUB PRÆSIDIO",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Reverendi, Clarissimi atq; Doctissimi, Viri,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "DN. DAVIDIS ALBINI,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "IN INCLYTO BERNATUM LYCÆO",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Philosophiæ Professoris ordinarij, Præceptoris",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "fui omni observantiæ cultu jugiter",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "colendi,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Publicè discutiendam proponit",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "JOH. ANTHONIUS â WATTENWYL, HBer-",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "nas, Phil. Stud.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Ad diem 10. Decembr. horis locoq; solitis.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Excudebat ILLUSTRISSIMÆ REIPUBLICÆ",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "BERNENSIS TYPOGRAPHUS,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Georgius Sonnleitnerus.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "M DC LXIV.",
+     "heading": 0
+    }
+   ],
+   "notes": "The \"De\" line and the \"Quam,\" line are in script italic type; \"atq;\" and \"locoq;\" are printed with the abbreviation q;. \"HBer-nas\" is printed with a hyphen at the line end, reading \"HBernas\" as printed; the letter H before Bernas is as printed. Handwritten marks (14, 1, and the shelf mark A-6'027'263) and the faint library stamp are not transcribed."
+  },
+  {
+   "n": 3,
+   "type": "missing",
+   "warnings": [
+    {
+     "type": "missing_page",
+     "text": "page 3 was not transcribed: invalid XML: junk after document element: line 9, column 0"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "DISPUTATIO PHYSICA",
+     "heading": 1,
+     "caput": "1",
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "De PASSIONIBUS MENTIS",
+     "heading": 1,
+     "caput": "1"
+    },
+    {
+     "n": 3,
+     "text": "IN GENERE.",
+     "heading": 1,
+     "caput": "1"
+    },
+    {
+     "n": 4,
+     "text": "THESIS I.",
+     "heading": 3,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "T communis <i>commotionum animi</i> natu-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "ra plenius nobis innotescat, ad secun-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "dos investigationum nostrarum labo-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "resaccingimur: Primùm observamus,",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "quòd <i>affectus</i> animum nunquàm tur-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "bant quin corpori aliqua variatio ac-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "cidat, quæ spirituũ animalium est agi-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "tatio humorum perturbatione sæpè conjuncta; Imò in",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "humoribus spiritibusquè animalibus tumultuandi sæpè tanta",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "est vehementia ut etiam in externam corporis su-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "perficiem prosiliant; Hinc ex serenâ fronte lætitiam, corrugatâ",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "tristitiam, membrorum promptitudine cupiditatem",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "animi cognoscimus.",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "II.",
+     "heading": 3,
+     "para": true
+    },
+    {
+     "n": 19,
+     "text": "Ejusmodi mutationes plurimùm afficere videntur cor,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 20,
+     "text": "tùm quia prostant eorum exempla, quibus nimia vel",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "tristitia vel lætitia mortem repentinam attulit, id quod fieri haud",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "potuisset, nisi, ita philosophante Berkringero",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "in suis institutionibus Ethicis, ipse vitæ fons h. e. cor de-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "vastatus fuisset; Tùm quia qui animum affectu perturbatum",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "habet, plerumq; maximam alterationem in corde sentit fa-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "ctam sentit.",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "A 2 III. Quæ",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "notes": "The ornament band above the title is decorative and not transcribed. The initial letter is a woodcut \"V\" (the first letter of the first word is set as a large initial, read here as T with the following word \"communis\"; the initial itself appears to be V, the word following it is \"Tcommunis\" in print, possibly \"Tum communis\"). The last line ends with a hyphen and continues on the next part of the page. The top of the page is cut off in this part; the first line fragment is continued from part 1. Signature \"A 2\" and the start of the next section \"III. Quæ\" appear at the foot."
+  },
+  {
+   "n": 5,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: ut"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "III.",
+     "heading": 3,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "Quæ verò in corde confusio est nervulos exiguos cir-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "ca cor dispersos ita motitat, ut & altera extremitas eorun-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "dem nervulorum in cerebro terminata concutiatur, unde",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "illico nascitur animi perceptio, quam <i>mentis passionem</i> vo-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "camus, ut proinde variationes in corpore factæ causa sint",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "passionum, nó verò contrà; Cujus rei experimentum extat",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "in eo qui tristis est & interim nescit cur tristis sit, ibi tri-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "stitia necessariò orta est ex quadam corporis mutatione, si",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "enim ipsa anima tristitiæ causa esset, sciret omninò quare",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "tristis sit, proindeq; tristitia mutationis in corpore viri",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "tristis factæ causa non est, nisi velimus ponere aliquid sui",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "ipsius causam esse posse.",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "IV.",
+     "heading": 3,
+     "para": true
+    },
+    {
+     "n": 15,
+     "text": "Nec putandum est <i>mentis passionem</i> esse <i>perceptionem</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 16,
+     "text": "<i>confusionis in corde</i> ut in corde <i>factæ</i>, <i>passio</i> enim ejus na-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "turæ est ut anima per eam sentiat aliquid tanquam in se-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "ipsâ non verò tanquam in corpore, non quidem quòd in",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "ipsa anima revera aliquid fit quod per <i>passionem</i> sentiat,",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "sed <i>passio</i> ipsa talis sentiendi forma est ut per eam anima",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "sentiat aliquid tanquam in seipsâ: Interim hanc formam",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "sentiendi sæpiùs ea comitatur, quâ anima aliquid sentit",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "tanquam in corde e. gr. qui timet non tantùm sentit ali-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "quid tanquam in ipsa animâ, sed præterea percipit ali-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "quid tanquam in corde, hic verò posterior sensus omni-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "nò distinguendus est à priori, quia ille <i>affectum</i> facit, hic",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "verò <i>affectùs</i> comes est; Quod discrimen à Philosophis",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "hactenùs non bene fuit observatum, unde de <i>affectibus</i>",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "adeò obscurè loquuntur; Quòd verò hi duo sensus sæ-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "piùs conjuncti sunt indè est, quia eadem causa quæ po-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "steriorem efficit sæpiùs spiritus animales ita determinat,",
+     "heading": 0
+    }
+   ],
+   "catchword": "ut",
+   "notes": "Headings III. and IV. are section numbers, set as paragraph-level headings. Italic words in the text are transcribed in <i>; the printed page has no marginal notes or running head."
+  },
+  {
+   "n": 6,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "number": "(none printed)",
+   "lines": [
+    {
+     "n": 1,
+     "text": "ut priorem procitent e. g. causa quæ efficit dolorem, qui",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "sensus est quo anima aliquid sentit tanquàm in corpore,",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "spiritus animales plerumq; ita afficit, ut inde tristitia na-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "scatur.",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "V.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "Quanquàm difficile sit aliis explicare quid sit <i>asse-</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "<i>ctus</i>, ipsa anima tamen apertissimè cognoscit quid <i>affectus</i>",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "sit postquàm eô imbuta fuit, imò ut quis exactè cogno-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "scat quid sit ira oportet eum aliquando iratum fuisse;",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "Quemadmodū enim cæco nato satis explicari nunquàm",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "potest quid sit color, ita si quis animum omnium <i>affec-</i>",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "<i>tuum</i> expertem haberet, ei quoq; quid sit <i>affectus</i> nun-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "quàm satis enodari posset.",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "VI.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 15,
+     "text": "Quæcunq; ergò vel ab aliis vel à nobis ad definien-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 16,
+     "text": "dam naturam <i>affectuum</i> afferuntur, crassiores tantùm eo-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "rum sunt delineationes, quæ eò faciunt, ut de iis cum",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "aliis quomodocunq; differere discamus, penitiori cogni-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "tione solius animæ experientiæ interim reservatâ, anima",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "enim nostra, si passione aliquâ perturbata fuerit, semet-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "ipsam intuens, clariùs se cognoscit, quàm ut aliis aperi-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "re possit.",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "VII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 24,
+     "text": "Maximè etiam observandum est dari animi nostri",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 25,
+     "text": "commotiones <i>passionibus mentis</i> simillimas, nec interim",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "iis congeneres esse; Discrimen ita tene: <i>Primò</i> animi",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "commotiones, quæ <i>mentis passiones</i> nuncupantur, volun-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "tati sæpè sunt adversæ; Quæ verò ex altero ordine ani-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "mi commotiones sunt, voluntati perpetuò consentiunt:",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "<i>Secundò</i> illæ quandoq; accidunt animæ fortuitò; Hæ ve-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "rò nunquàm: <i>Tertiò</i> illæ oriuntur à mutationibus corpo-",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "ris, ut superiùs demonstratum; Hæ verò à solo intelle-",
+     "heading": 0
+    }
+   ],
+   "catchword": "&tu,",
+   "signature": "A 3",
+   "notes": "Page is an unnumbered printed page; the catchword \"&tu,\" is read as \"étu\" in faint print and is uncertain. Words at line ends with a printed hyphen are kept joined where the hyphen is visible; some words such as \"aperire\" and \"intelle-\" may carry printing marks. The running head is absent."
+  },
+  {
+   "n": 7,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: num"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "&tu, ut merito à Cartesio commotiones intellectuales vo-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "centur. Exemplum animi commotionum, quæ intelle-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "ctuales sunt, esto lætitia, quam Stoici urgebant ex pas-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "sionibus mentis deletis percipiendam; Exemplum quo-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "que esto illa lætitia, quam quis percipit ex tristitia, quâ",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "aliorum infortunio condolet, cognoscens eam ex virtute",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "esse.",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "VIII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 9,
+     "text": "Interim vix fieri potest ut commotio animi, quem",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 10,
+     "text": "intellectualem vocamus, locum habeat quin alterius generis",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "<i>commotiones</i> sequantur, nam quamprimùm intellectus no-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "ster observat aliquod bonum vel malum, etsi illud adeo",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "differat ab omni alio quod pertinet ad corpus, ut omni-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "no omnem imaginationem fugiat, imaginatio tamen sta-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "tim aliquam in cerebro facit impressionem, ex qua sequi-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "tur motus spirituum, indeq; tandem affectus: Hæc enim",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "est natura nostræ animæ, ut aliquod bonum vel malum",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "intelligens conetur illud quoque sibi imaginari, hic ipse",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "conatus tantam vim habet ut glandulam pinealem infle-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "ctere possit.",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "IX.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 22,
+     "text": "Ut objecta excitandis in animo nostro <i>affectibus</i> apta",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 23,
+     "text": "sint, nostrâ referre debent h. e. vel nobis utilia vel no-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "xia esse, ut quæ indifferentis naturæ esse censentur, ad",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "<i>affectuum</i> procreationem invalida sint.",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "X.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 27,
+     "text": "Tres passionum effectus notamus; Unus est quòd op-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 28,
+     "text": "pugnant animam, consensum ab eâ impetrare conantes",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "e. g. ira sollicitat animam ut eâ consentiente fiat, & hæc",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "sollicitatio valida magnoperè est, quia anima passionibus",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "naturaliter delectatur, ut seipsam abdicare debeat quan-",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "docunque <i>passionibus</i> resistere cupit: Alius deinde <i>passio-</i>",
+     "heading": 0
+    }
+   ],
+   "catchword": "num",
+   "notes": "Catchword \"num\" at lower right; the words in italics are shown as italics. Some letters are faint from print and paper wear; the page is otherwise clear."
+  },
+  {
+   "n": 8,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: quia"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "<i>num</i> effectus est invadere animam ut ab ipsâ extorqueant",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "consensum in motum corporis, ad quem spiritus anima-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "les cum <i>affectu</i> excitati corpus disponunt: Tandem a-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "lius <i>passionum</i> effectus est pertinax cogitationum mora in",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "eo de quo factæ sunt e. g. si quicquam vidimus cum hor-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "rore, horror ille facit ut pertinacius de re visa cogite-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "mus; Hoc adeò verum est ut & tædium, quod quoq; unus",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "ex <i>affectibus</i> est, cogitationes confirmet, nō facilè enim co-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "gitatio de cibo, qui nauseam peperit, intercidit.",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "XI.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 11,
+     "text": "Triplicem in anima notamus conflictum; Alius est",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 12,
+     "text": "inter voluntatem & <i>affectum</i>, exemplum est quandò ani-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "ma cupiditate rei cujusdam habendæ tentata est, volun-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "tas verò cupiditatem aversatur; Alius deindè conflictus",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "est, quòd sæpè eadem causa, quæ excitat in anima ali-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "quam <i>passionem</i>, excitet etiam quosdam motus in corpo-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "re ad quos anima nihil confert & quos sistit aut sistere",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "conatur quamprimùm eos observat, experientia est in",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "eo, in quo id, quod excitat metum, efficit quoq; ut spi-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "ritus ingrediantur musculos, qui inserviunt movendis",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "cruribus ad fugiendum; Voluntas verò ejusmodi motus",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "sistit: Alius deinde in anima conflictus est inter <i>affectum</i>",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "& <i>affectum</i> ut quandò anima eodem fermè tempore se",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "impelli sentit ad eandem rem appetendam & aversan-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "dam.",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "XII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 27,
+     "text": "Modum, quô hic ultimus conflictus in anima exci-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 28,
+     "text": "tatur, ita explicamus; Quandò anima aliquo <i>affectu</i> com-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "mota est & rationes meditatur <i>affectui</i> contrarias, si accidat",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "ut ex illis una vim habeat mutandi ad momentum cur-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "sum spirituum, contingere potest, ut quæ sequitur ratio",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "eâ vi careat, unde spiritus suum cursum illicò resumunt,",
+     "heading": 0
+    }
+   ],
+   "catchword": "quia"
+  },
+  {
+   "n": 9,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: XV. Ex"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "quia dispositio quæ præcessit in nervis, corde & sanguine",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "mutata non est, quo tandem fit ut anima contrariis af-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "fectibus eodem fermè tempore inquietetur.",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "XIII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "Ex ejusmodi repugnantiis, præcipuè verò ex eâ quæ",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "tertii ordinis est, sumpserunt alii Philosophi occasio-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "nem, fingendi discrimen inter animam rationalem &",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "sensitivam, quale est inter rem & rem; Alii verò sta-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "tuendi in eadem anima duas intrinsecùs distinctas po-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "tentias, quasquè ei tanquàm diversas in scenâ personas",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "imposuerunt, quæ fere semper sibi mutuò contrariæ es-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "sent, alteram vocarunt partem superiorem, alteram verò",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "partem inferiorem, ad illam referunt intellectum & vo-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "luntatem, ad hanc sensum & appetitum sensitivum.",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "XIV.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 16,
+     "text": "A nobis verò homini non tribuitur nisi una anima,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 17,
+     "text": "quæ in se nullam varietatem partium habet, eadem enim",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "substantia, quæ sensitiva est, est etiam rationalis & con-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "trà: Error verò, per quem Philosophi discrimen inter-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "num in anima posuerunt inter partem superiorem &",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "inferiorem, inde solùm processit, quòd non benè di-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "stinxerunt functiones animæ à functionibus corporis,",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "cui soli tribuendum est id omne quod in nobis potest",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "observari repugnare nostræ rationi; Adeò ut nulla hîc",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "alia lucta fit, nisi quòd cùm conarion, quod est in medio ce-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "rebri, possit impelli ex una parte ab anima & ex alterâ à",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "spiritibus animalibus, qui nil nisi corpora sunt, sæpè e-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "veniat ut hæ duæ impulsiones sint contrariæ, & ut for-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "tior impediat effectum alterius; Ut, si spiritus animales",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "nullum alium motum haberent, quàm quem ab anima",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "accipiunt, mnis ejusmodi conflictus sublatus esset.",
+     "heading": 0
+    }
+   ],
+   "catchword": "XV. Ex",
+   "notes": "Catchword/signature absent. The final line \"XV. Ex\" is the start of the next section, printed at the foot. Heading numerals XIII and XIV are printed as separate lines and treated as headings. Some words are faint (e.g. \"lucta\", \"conarion\") and may be misread."
+  },
+  {
+   "n": 10,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: tes,"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "XV.",
+     "heading": 3,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "Ex eventu autem horum conflictuum quisque cogno-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "scere potest fortitudinem aut debilitatem suæ animæ,",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "nam illi proculdubio, in quibus voluntas facilius vince-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "re potest <i>passiones</i> & motus corporis sistere, ad quos <i>asse-</i>",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "<i>ctus</i> voluntatem disponunt, sublimiores habent animos,",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "quàm illi, qui subinde à præsentibus <i>affectibus</i> abducun-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "tur.",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "XVI.",
+     "heading": 3,
+     "para": true
+    },
+    {
+     "n": 10,
+     "text": "Ut verò ex victoriâ adversùs <i>affectus</i> deportatâ ani-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 11,
+     "text": "ma fortitudinem suam cognoscat, oportet ab ea pro-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "priis armis pugnatum fuisse; Per propria animæ arma",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "intelligimus proposita rata & firma de bonò & malò fa-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "cta, secundùm quæ anima decrevit actiones vitæ suæ",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "dirigere, & animæ propria arma vocantur, quia sunt o-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "pera ipsius voluntatis, quæ sola animæactio est, ex. gr.",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "Illa anima propriis armis utitur, quæ vehementissimo",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "metu perculsa ex conspectu hostis patriæ fines invasuri",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "huic metui ex solo proposito bene agendi resistit, cui",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "fortitudinem pro patriâ consentaneam arbitratur.",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "XVII.",
+     "heading": 3,
+     "para": true
+    },
+    {
+     "n": 22,
+     "text": "Quæ verò anima <i>affectibus</i> imperat contrariorum",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 23,
+     "text": "<i>affectuum</i> patrocinio utens, dimicat alienis armis, nec ex",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "victoriâ fortitudinis suæ indicium habet, e. g. si animus",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "invidiâ ex aliorum prosperò successu afficiatur, eodem-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "que ferè tempore affectu invidiæ adverso teneatur, quan-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "quàm hoc animata illi cum victoriâ resistat, fortitudinis",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "documentò id tamen non est.",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "XVIII.",
+     "heading": 3,
+     "para": true
+    },
+    {
+     "n": 30,
+     "text": "Nonnulli sunt, quorum paucus tamen numerus, qui",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 31,
+     "text": "animæ suæ vires nunquàm experti sunt, quia eas nunquàm",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "explorârunt, animam iis duntaxat armis pugnare facien-",
+     "heading": 0
+    }
+   ],
+   "catchword": "tes",
+   "signature": "B"
+  },
+  {
+   "n": 11,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: gat,"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "tes, quæ aliqui <i>affectus</i> præbent ad resistendum quibus-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "dam aliis.",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "XIX.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "Animæ omnium maximè imbecilles sunt, quarum",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "voluntas semper patitur se abduci à præsentibus <i>affectibus</i>,",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "quia suorum adversariorum imperio subsunt ab iisq; vin-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "cuntur, quoties pugna ineunda est.",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "XX.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 9,
+     "text": "Imò miserrima est illa anima, quæ à præsentibus <i>aff-</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 10,
+     "text": "<i>ectibus</i> semper abducitur; Tùm quia servit sordidissi-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "mam servitutem iis, quibus imperare deberet; Tùm quia",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "servitutis suæ ipsa causa est, anima enim servire dicitur",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "<i>affectibus</i>, quandò iis consentit, ad consensum verò ani-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "ma nunquam cogitur nec cogi potest: Hæc miseria ani-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "mæ eò major est, quòd <i>affectus</i> persæpè ipsâ anima u-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "tuntur ad ipsamet debellandam, <i>bis verò perit qui proprio</i>",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "<i>gladio perit</i>; Hocq; contingit, quotiescunque <i>affectus</i> sibi",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "mutuò contrarii sunt, qui animam per vices in partes",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "suas trahunt e.g. Cùm metus repræsentat mortem ut",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "summum malum & ad fugam instigat, ambitio verò ab",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "altera parte repræsentat infamiam hujus fugæ ut malum",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "pejus morte; Hi duo <i>affectus</i>, si voluntatem ita agitent",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "ut modò huic modò illi obtemperet, animam sanè sibi",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "ipsi perpetuò repugnantem faciunt.",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "XXI.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 26,
+     "text": "Plurimi contrà sunt, qui judicia ejusmodi determina-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 27,
+     "text": "ta habent, quibus partem suarum actionum attempe-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "rant, alij quidem majorem, alij minorem, prout ipsa",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "animi decreta firmiora vel infirmiora sunt.",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "XXII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 31,
+     "text": "Et quamvis judicia ejusmodi falsa essent vel innit-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 32,
+     "text": "entur quibusdam <i>affectibus</i>, à quibus voluntas antea passa",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "est se vinci, nihilominus tamen si anima ea sequi per-",
+     "heading": 0
+    }
+   ],
+   "catchword": "gat,"
+  },
+  {
+   "n": 12,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "number": "2",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: stitia."
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "gat, etiam cum abest <i>passio</i>, quæ illa produxit, considera-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "ri possunt ut propria illius arma, & animæ non desinunt",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "robustiores vel imbecilliores esse, prout plus vel minus ju-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "dicia ejusmodi sequuntur & resistunt præsentibus <i>passionibus</i>,",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "quæ illis contrariæ sunt. E. G. Esto Turca aliquis,",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "qui ex falsa opinione Christianam religionem erroneam",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "esse concepit propositum eorum sanguinem profunden-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "di, ubicunque eos offenderet; si postea contingat ut",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "obvium habeat hominem Christianum aliquem afflictis-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "simæ fortunæ, & <i>affectu commiserationis</i> animus ejus tan-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "gatur, propositi vero observans hominem Christianum",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "occidat, animæ suæ vires exploratas dedit, <i>affectu commi-</i>",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "<i>serationis</i> triumphato.",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "XXIII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 15,
+     "text": "Interim magna est differentia inter decreta quæ pro-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 16,
+     "text": "ficiscuntur ex errore & ea quæ veritate cognita nituntur,",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "qui enim hæc sectantur consilij pœnitentiæ non sunt",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "obnoxij, secus se habent qui illa sequuntur postquam",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "error retectus fuerit.",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "XXIV.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 21,
+     "text": "Passiones non sunt eijciendæ sapienti quomodo Stoi-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 22,
+     "text": "ci voluerunt, quamvis Just. Lipsius eorum sententiā aliter",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "quàm communiter fit interpretetur; Omnes enim <i>ani-</i>",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "<i>mi affectus</i> natura suâ boni sunt, nihilque; ex illis præter",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "eorum pravos usus aut excessus vitandum; Pravus",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "<i>affectuum</i> usus est, quando erratur in <i>affectuum</i> objecto, ut",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "quando quis alteri invidus fit, cui invidus esse non de-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "beret. Excessus vero <i>affectuum</i> est, quando ratio ab il-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "lis absorpta est, id quod contingere potest etiamsi <i>asse-</i>",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "<i>ctus</i> versetur circa objectum debitum e.g. Si quis tristis",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "fieret infortunio suæ familiæ, debita esset illa tristitia, quia",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "aliorum malo affici debemus, excederet autem hæc tri-",
+     "heading": 0
+    }
+   ],
+   "catchword": "stitia.",
+   "signature": "B 2",
+   "notes": "Catchword absent. Running head absent. Some words in the lower part are faint; \"debere\" line reads \"beret\" after the broken word \"de-\". Final word \"stitia\" is a catchword-like fragment at the foot right, taken as the broken end of \"tristitia\"."
+  },
+  {
+   "n": 13,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: tamen"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "ftitia, fi anima interim nullam sublimiorem cogitatio-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "nem haberet,in qua tanquam in arce fit collocata ne à tri-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "ftitiâ opprimatur.",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "XXV.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "Ab affectibus pendet omne bonum & malum præ-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "sentis vitæ, adeò ut quos affectus magis movent, dulce-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "dines vel amaritudines hujus vitæ frequentiùs gustent;",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "Ut enim aliquid in hac vita nobis malum sit, oportet",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "priùs in animam nostram id injecisse talem <i>affectum</i>, qui",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "animæ molestus sit, e.g. Ut bellum sit aliquod malum,",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "tristitia vel metus, quæ passiones molestæ sunt, animum",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "priùs perturbâsse debent; Hinc illis, qui ex bello natas",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "sibi occasiones vident fortitudinis animi sui demonstran-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "dæ fortunæq; suæ locupletandæ & propterea bello læ-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "tantur, bellum malum non est, quia lætitia, quam ex bel-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "lo annunciato percipiunt, <i>affectus</i> animæ dulcis est.",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "XXVI.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 18,
+     "text": "Quanquàm repræsentationes certorum quorundam",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 19,
+     "text": "objectorum animæ factæ naturaliter junctæ sint certis",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "<i>passionibus</i>, possunt tamen per habitum inde seperari, imò",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "jungi aliis valdè differentibus; Ita est aliquis qui cupi-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "ditatem cibum habendi ex eò repræsentato percipit, con-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "tingit verò ex inopinato ut in cibò res quædam valdè",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "sordida reperiatur, inopinatus ille casus efficiet, ut re-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "præsentatio ejusmodi cibi jungatur horrori, qui <i>affectus</i>",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "est à cupiditate valdè differens; Ita effici posse putamus",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "ut qui antea ex aspectu decollandorum hominum trepi-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "dus fieri solebat nunc animosus eodem casu contingen-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "te reddatur: Quin idem in bestiis quoquè observari",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "potest, canis enim cum videt perdicem, naturaliter pro-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "pensus est ad incurrendum in eam; Et cùm audit sclopetû",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "displodi, ille strepitus naturaliter eum ad fugam incitat,",
+     "heading": 0
+    }
+   ],
+   "catchword": "tamen",
+   "notes": "Top of page is partly faded; the first line is a fragment continuing from the previous page. Heading \"XXV.\" and \"XXVI.\" are set as small centred headings. The word \"affectus\" in the margin of XXV is italic; \"tamen\" at the foot is a catchword-like continuation of the last line, printed at right and treated as the end of the text."
+  },
+  {
+   "n": 14,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "number": "3",
+   "lines": [
+    {
+     "n": 1,
+     "text": "tamen canes venatici ita instituuntur, ut visâ perdice sub-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "sistant, & auditô displosionis strepitu accurrant; Quan-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "quàm verò bestiæ ratione careát & forte omni cogitatio-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "ne, omnes tamen motus spirituum & conarij, qui excitant",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "in nobis <i>passiones</i>, in illis quoq; sunt, ut inserviant motibus",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "nervorum & musculorum excitandis, cóservandis & con-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "firmandis, qui motus in nobis comitari solent passiones;",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "Hactenus de passionibus mentis in genere.",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "❧❧❧❧❧❧",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 10,
+     "text": "COLLECTANEA EX UNIVERSA",
+     "heading": 1,
+     "para": true
+    },
+    {
+     "n": 11,
+     "text": "Cartesii Philosophia.",
+     "heading": 1
+    },
+    {
+     "n": 12,
+     "text": "I.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 13,
+     "text": "<i>Mens est substantia cogitans; Corpus verò sub-</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 14,
+     "text": "<i>stantia extensa.</i>",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "II.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 16,
+     "text": "<i>Unio mentis cum corpore est unum ex primò notis.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 17,
+     "text": "III.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 18,
+     "text": "<i>Cognoscitur sensibus tantùm; Ut proinde intel-</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 19,
+     "text": "<i>lectus eam non assequatur.</i>",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "IV.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 21,
+     "text": "<i>Mentis à corpore separatæ cœlum sunt gloriosis-</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 22,
+     "text": "<i>sima cogitationes de Deo.</i>",
+     "heading": 0
+    }
+   ],
+   "catchword": "VI. Quia",
+   "signature": "B 3",
+   "notes": "The fleuron rule is an ornament, not text; it is marked as a row of symbols. The thesis numbers I to IV are set as separate lines and kept as paragraphs. The opening \"V.\" thesis and \"VI. Quia\" appear only in the catchword area; the catchword is taken from the foot of the page. Some letters in the italic theses are faint and read with reasonable confidence."
+  },
+  {
+   "n": 15,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "V.",
+     "heading": 3,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "Quia Idea Dei tantam realitatem objectivam in",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "se continet, ut illam mens nostra non nisi à",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "solo Deo realiter existente potuerit accipere,",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "firmissimè inde concluditur Dei existentia.",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "VI.",
+     "heading": 3,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "A Dei sive Entis summè perfecti existentia o-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 8,
+     "text": "mnis certitudo humanarum scientiarum de-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "pendet, adeò ut, nisi sciamus Deum existe-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "re, ne quidem certò scire possimus ter tria esse",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "novem.",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "VII.",
+     "heading": 3,
+     "para": true
+    },
+    {
+     "n": 13,
+     "text": "Mens nostra solâ voluntate potest movere cor-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 14,
+     "text": "pus.",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "VIII.",
+     "heading": 3,
+     "para": true
+    },
+    {
+     "n": 16,
+     "text": "Id quod imago quaedam divinæ potentiæ est: Deus",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 17,
+     "text": "enim produxit, quaecunque produxit, solâ",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "voluntate.",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "FINIS",
+     "heading": 2,
+     "para": true
+    }
+   ],
+   "notes": "The ornament below FINIS is a printer's fleuron, not transcribed. The page is a numbered list of theses (V–VIII) set in italic type; the numerals are kept as printed in the body as headings. Long s is rendered as s throughout."
+  },
+  {
+   "n": 16,
+   "type": "empty",
+   "model": "claude-haiku-5-5",
+   "notes": "Blank page with only stains and show-through; nothing printed to transcribe. The white patch at the bottom-left corner is the edge of the neighbouring page or the digitiser's background, not text."
+  },
+  {
+   "n": 17,
+   "type": "empty",
+   "model": "claude-haiku-5-5",
+   "notes": "The page is blank. The faint, mirrored brownish marks across the central area are show-through from the other side of the leaf, not printed text. Stains and paper discolouration at the edges are not printed. No page number, running head, catchword or signature is visible. The scan's dark border is the digitiser's framing and is not transcribed."
+  }
+ ]
+}
