@@ -1,0 +1,6983 @@
+{
+ "source": "W08067_Wyss_Disputatio_philosophica_de_modo_quo_animus_est_unitus_corpor_1666.pdf",
+ "pages": [
+  {
+   "n": 1,
+   "type": "empty",
+   "model": "claude-haiku-5-5",
+   "notes": "Digitiser's cover sheet, not a printed page: the e-rara logo and banner, the www.e-rara.ch notices, the persistent link, the title information (Albinus, David, Disputatio philosophica de modo quo animus est unitus corpori, [Bernae], 1666, Universitätsbibliothek Bern) and the terms-of-use notices in German, English, French and Italian were all left out, as they are not printed on the book's page."
+  },
+  {
+   "n": 2,
+   "type": "title",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": null,
+     "text": "DISPUTATIO PHILOSOPHICA",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "De",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "MODO QUO ANIMUS",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "EST UNITUS",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "CORPORI.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Quam",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Deo Secundante",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Sub",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Reverendi, Clarissimi, Doctissimi, Viri,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "D. DAVIDIS ALBINI,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "IN INCLYTO BERNATUM LYCAEO",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Philosophiae Professoris ordinarij, Praeceptoris",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "sui omni observantiae cultu jugiter",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "colendi, umbone",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Publicè ventilandam exponit,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "CORNELIUS HENTZIUS, HBernas,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Phil. Stud.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Ad diem 20. Octobr: horis locoque consuetis.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Excudebat ILLUSTRISSIMAE REIPUBLICAE",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "BERNENSIS TYPOGRAPHUS,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Georgius Sonnleitnerus.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "M DC LXVI.",
+     "heading": 0
+    }
+   ],
+   "notes": "The title is set in several type sizes; the lines above follow the printed line order. The ornament between the date line and the imprint is a woodcut of two winged putti holding a laurel wreath, not text. \"Deo\" is printed with a circumflex over the o; \"Sub\" appears as \"Su b\" with a worn letter. \"Doctissimi\" and \"Publicè\" are printed with the long-s and accent forms as shown; the \"2\" of the date line is printed as \"20.\". Some letters in the title are worn and may be read imperfectly."
+  },
+  {
+   "n": 3,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "Magnificentissimo, Amplissimo, Authoritate ac Potestate",
+     "heading": 1,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "Conspicuo Viro,",
+     "heading": 1
+    },
+    {
+     "n": 3,
+     "text": "<i>Dn.</i> ABRAHAMO à WERTH, Reipublicæ Bernensis",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "Quæstori, quoad ditionem germanicam haud ita pridem cum",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "laude defuncto, Fautori ac Patrono suo summo obsequiô co-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "lendo, amando.",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "Venerando Cœtui Ecclesiastico, Vigilantissimis Dn. Ministris &",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 8,
+     "text": "Administris, Profesoribus acutissimis ac sagacissimis, Dn.",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "suis Mecœnatibus, Fautoribus ac Promotoribus omni obser-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "vantiæ genere honorandis, & ex iis",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "<i>Dn.</i> ABRAHAMO de LOSEA, verbi Dei Ministro ac Pa-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 12,
+     "text": "stori vigilantissimo, Affini suo plurimùm honorando.",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "<i>Dn.</i> DAVIDI ALBINO, Philosophiæ Professori acutissimo,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 14,
+     "text": "Collegij minoris inspectori fidelissimo, Fautori, Studiorum",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "suorum promotori æternùm colendo.",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "<i>Dn.</i> SAMUELI HENTZIO, in florentissimo Bernatum Ly-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 17,
+     "text": "cæo Linguæ Græcæ & Philosophiæ Practicæ Professori or-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "dinario, fratri germano dilectissimo & plurimùm fraterno",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "amore prosequendo.",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "Ut Et",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 21,
+     "text": "<i>Amplissimo Prudentissimo Viro,</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 22,
+     "text": "<i>Dn.</i> JOH. ANTHONIO KILCHBERGERO, Præfe-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 23,
+     "text": "cturâ in Arwangen laudabiliter defuncto, Benefactori suo aman-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "tissimo honoris & amoris genere prosequendo.",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "Quin Etiam",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 26,
+     "text": "<i>Dn.</i> CASPARO LAUFFERO, <i>Dn.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 27,
+     "text": "CHRISTIANO CHAMBRINO,",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "Nec Non",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 29,
+     "text": "<i>Dn.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 30,
+     "text": "WOLFFGANGO MESSMERO, Ludimagistro lu-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "di literarij ibidem fidissimo, Præceptori suo olim amore jugi-",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "ter devenerando.",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "<i>Dn.</i> ADAMO SALCHLINO, Hypodidascalo Scholæ Ca-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 34,
+     "text": "strovillanæ indefesso, Affini suo multùm honorando.",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "<i>Hancce dissertationem Philosophicam observantiæ, gratitudinis</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 36,
+     "text": "<i>& amoris causâ, offert & consecrat</i>",
+     "heading": 0
+    },
+    {
+     "n": 37,
+     "text": "CORNELIUS HENTZIUS, Resp.",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "marginalia": [
+    {
+     "side": "right",
+     "at": "CASPARO LAUFFERO, Dn.",
+     "line_from": 26,
+     "line_to": 26,
+     "text": "Ecclesiæ Zoffinganæ Pastoribus Vigilantissimis, Fautoribus suis colendis."
+    }
+   ],
+   "notes": "The bracket at right beside the two names Lauffero and Chambrino is a grouping brace for the note, transcribed as a right-side note. Some letters in the dedications are blurred by the scan; the names Kilchbergero and Arwangen were read with some doubt. The initial \"Dn.\" abbreviations are printed in small capitals."
+  },
+  {
+   "n": 4,
+   "type": "title",
+   "model": "claude-haiku-5-5",
+   "running_head": "THESIS I.",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: III. Nec-"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "<i>M</i>UTUA animi cum corpore con-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "junctio est Unum ex primo notis,",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "animus enim non aliunde institu-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "tus corpori suo quemlibet motum",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "imperare assuescit; Id quod argu-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "mento est animo de sui cum corpo-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "re unione esse notitiam, quam ali-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "unde non hauserit: Nec animus",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "rebus delectabilibus suum admo-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "veret corpus, ut inde suaviter ipse afficiatur, nisi & corpus sibi",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "esse conjunctum sciret.",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "II.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 13,
+     "text": "Modus vero, quo animus unitus est corpori & vice versa,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 14,
+     "text": "crucem figit omnibus Doctis; Ut mirandum non sit, quod",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "Vir doctus, qui hanc conjunctionem nuper fuit diligentius",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "meditatus, fatetur ideam modi, quo animus praesens",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "est suo corpori, nobis esse nullam; Sic modum Gordianum,",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "quo corpori mens est ligata, secavit, dum sol-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "vere non licuit.",
+     "heading": 0
+    }
+   ],
+   "catchword": "III. Nec-",
+   "signature": "A 2",
+   "notes": "The woodcut border at the top is an ornament and carries no text. The fourth title line below \"UNITUS CORPORI.\" is cut off at the bottom edge of this part, so it is not transcribed. The \"De\" line is in italic type. The initial letter of \"QUO\" and the \"U\" of \"QUO\" are set in the title's display capitals as printed. The woodcut initial M is described, not transcribed. The text is partly faded at the right edge. Several words are uncertain in the scan, notably \"vice\" and \"Gordianum\", and the catchword \"III. Nec-\" is printed as the last line."
+  },
+  {
+   "n": 5,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: unitus"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "III.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "Necdùm Viro doëto est desperandum, fatetur enim",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "<i>in thesi decima sexta disputationis de Ubicatione Spirituum,</i>",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "quòd si Deus nobis concessisset Ideam positivè repræsen-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "tantem quid substantia sit Spiritualis etiam absq; relatio-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "ne ad extrinseca, tum facilè conciperemus modum, quo",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "Spiritus sunt in loco; Unde sic colligo, Atqui Deus nobis",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "dedit Ideam, quâ mens seipsam accuratissimè novit; Ergo",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "facilè intelligimus modum quo animus corpori est unitus;",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "Quid enim animus est nisi substantia cogitans?",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "IV.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 12,
+     "text": "In confesso quidem apud nos est. Primò quod",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 13,
+     "text": "corpori mens non est unita partibus suis extremis ad instar",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "corporum duorum; <i>Tùm</i> quia animo nullæ sunt partes",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "quibus corpori adhærescat; Animus enim intelligit, ima-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "ginatur, recordatur, vult, sentit, & sic varijs modis cogi-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "tat; Id verò quod partes habet est divisibile, in varias figu-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "ras torqueri patitur, ut modò sit triangulare, modò qua-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "drangulare, &c. modò rarum, modò densum, &c. quæ",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "attributorum summa differentia docet, quod cum cogi-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "tatione partium communio in unam eandemq; rem con-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "venire non possit: <i>Tùm</i> quia animus hunc contactum sen-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "tiret; Quicquid enim vel leviter corpus afficit, id quidem",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "sentit animus, quantò magis ergò hunc animus sentiret",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "contactum, quo non posset non vehementius affici?",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "Quid quòd in natura rerum æq; arcta unio ac est animi",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "cum corpore non datur? Quæcunq; enim unita sunt,",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "corpora sunt, quæ suis tantùm extremitatibus conjungun-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "tur; Hinc fit ut eorum unum affici possit quanquàm alte-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "rum non afficiatur; Corpus verò cui animus est conjun-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "ctus, in nulla parte affici potest quin & animus inde afficia-",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "tur; cui consequens est quod animus corpori arctiùs fit",
+     "heading": 0
+    }
+   ],
+   "catchword": "unitus",
+   "notes": "Printed heading \"III.\" and \"IV.\" are set as centred numerals above the paragraphs. The word \"unitus\" at the foot right is a catchword-like line set apart; it is transcribed as the last line of text. Some words are faint due to show-through and may be misread, notably \"doëto\" (doćto) and \"Tùm\" forms."
+  },
+  {
+   "n": 6,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: qui"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "unitus quàm corpus corpori conjungi possit; Quid quòd",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "ne fingi quidem potest quomodo contactus mutuus, qui",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "animum inter & corpus, possit esse causa cur affecto cor-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "pore animus habeat sensum, quin animus hunc conta-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "ctum ipse sentiat.",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "V.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "Imò ipsa natura nobis concessit ideam, quâ intelli-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 8,
+     "text": "gimus animum corpori aliter esse unitum, quàm corpus",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "corpori; Verùm enim verò frequens ejus admodùm est",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "abusio, dùm rebus applicatur intelligendis, quibus non",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "debetur; Ita quicunq; qualitates, quæ præter substantiam",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "finguntur ut res, in substantijs ponunt, volunt ejusmodi",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "qualitates substantijs esse arctè unitas, quanquàm eam",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "conjunctionem per superficiei ad superficiem applicatio-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "nem fieri negent, gnari quod superficies nullas qualita-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "tes habeant; Ubi ex consentientium multitudine ani-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "madvertimus, Ideæ, quam natura nobis est largita ut",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "animi cum corpore unionem intelligeremus, præposte-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "ram fieri applicationem: <i>Tum</i>, quia qualitates ejusmodi",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "non dantur; <i>Tum</i>, quia modus quo substantijs unitas",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "fingunt, debetur animi cum corpore unioni.",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "VI.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 23,
+     "text": "Secundò in confesso etiam apud nos est, quòd",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 24,
+     "text": "corpori animus non fit unitus cum ulla spatij in corpore",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "suo occupatione, quia animus omnis spatij est expers, id",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "quod patebit ex spatij descriptione.",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "VII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 28,
+     "text": "Spatium quidem nihil est aliud quàm ipsa corporum",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 29,
+     "text": "extensio abstractè sumpta; Ex quovis proindè corpore,",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "quatenùs extensionem habet, spatium fit.",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "VIII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 32,
+     "text": "Proinde eadem est spatij & corporis extensio, alio-",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "catchword": "qui",
+   "signature": "A 3",
+   "notes": "Page is a single column of text; the catchword \"qui\" appears at the right foot and the signature \"A 3\" at the left. Some words in the bottom line are set in a larger, bold type and are transcribed as printed. No running head or page number is printed."
+  },
+  {
+   "n": 7,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: XI. Inte-"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "qui daretur penetratio dimensionum, spatium enim dici-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "tur penetrari â corpore locato.",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "IX.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "Inter se vero spatia differunt, figurâ, magnitudine, situ",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "inter corpora externa; quæ tria conjunctim sunt sumen-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "da, ut eorum vel uno mutato aliud fit spatium: Ita si spatij",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "figura triangularis, quæ in vase, transijt in quadrangula-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "re, aliud est spatium, & aqua in vase quadrangulari,",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "quod ante triangulare erat, aliud occupat spatium quàm",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "antè; Idq; verum est quanquàm nec vasis magnitudo neq;",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "inter alia corpora situs fuerit mutatus. Eodem modo si",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "spatij magnitudo in vase vel major vel minor facta",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "fuerit, quanquàm prior spatij in vase & figura & situs inter",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "alia corpora salvus sit, tamen inde aliud factum est spa-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "tium. Deniq; si situs mutetur inter alia corpora, quan-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "quàm eadem & magnitudo & figura retineatur, aliud est",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "spatium; e.g. ego huic mensæ assidens disto nunc â pariete",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "qui è regione, quatuor pedibus, â pariete verò, quem â",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "tergo habeo sex pedibus; Si fiat ut â pariete, quem ex",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "adverso habui, magis amotus parieti, qui â tergo imminet,",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "propiùs admoveat, mutatus est spatij mei situs ut aliud",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "nunc occupem spatium quàm antea, quanquàm spatij,",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "quod nunc occupo, eadem sit cum spatio priore & ma-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "gnitudo & figura.",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "X.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 26,
+     "text": "Quia etiam corporis natura consistit in extensione",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 27,
+     "text": "quemadmodum spatij, videmus hinc quod corpus â spatio",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "reipsa non differat; Sanè si â corpore omnia abstrahes,",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "quæ ad corporis conceptum necessariò non spectant, fa-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "cile comperies, corporis remanere ideam, quæ ipsissimi",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "est spatij.",
+     "heading": 0
+    }
+   ],
+   "catchword": "XI. Inte-",
+   "notes": "Catchword \"Inte-\" at lower right is a head-word of the next section, treated as catchword. Gutter shadows and show-through from the reverse page are not transcribed."
+  },
+  {
+   "n": 8,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: fuit"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "XI.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "Interim si quæ inter spatium & corpus sit differentia,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "illa respondet differentiæ quæ inter genus & speciem;",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "Novimus autem quòd gradus essentiales metaphysici in-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "trinsecè non distinguantur, spatij enim extensionem spe-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "ctamus ut communiorem, corporis verò quod in spatio",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "est extensionem spectamus ut specialiorem; e. g. Si tol-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "latur lapis è suo spatio, putamus etiam lapidis extensio-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "nem inde esse sublatam, utpote quam ut specialiorem &",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "à lapide inseparabilem spectamus; Quanquàm interim",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "arbitremur extensionem spatij in quo erat lapis, rema-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "nere eandem sive nunc à ferro sive à ligno sive ab aere",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "sive ab alio quovis corpore occupetur; Quia spatij ex-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "tensio spectatur generalius, proindeq; eadem esse cen-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "setur sive à lapide sive à ligno sive à ferro sive ab aere",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "sive ab alio quovis corpore occupetur, dummodò reti-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "neat eandem magnitudinem, figuram & situm inter alia",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "corpora.",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "XII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 20,
+     "text": "Et hæc est subtilissimi Cartesij de spatio doctrina, quæ",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 21,
+     "text": "tàm perspicua & solida ut multùm Autori vel solo hoc",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "nomine debeamus; Notum enim est quàm miserè alij",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "de spatij natura fuerint philosophati, ut causa inde Vi-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "ris alioqui doctis fuerit confitendi neminem mortalium",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "esse qui sciat quid sit spatium.",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "XIII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 27,
+     "text": "Nuper unus ex Viris Doctis in scenam prodiit, qui,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 28,
+     "text": "ne Cartesio quicquam debere videretur, doctrinam hanc",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "arrepta undiquè occasione infestavit; Et ut exploratum",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "fiat quàm indignè tantus Philosophus fuerit habitus, pau-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "cis ad singula, quibus Philosophi de spatio doctrinâ vexa-",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "vit, respondebo, ne veritas, postquàm à tanto Philosopho",
+     "heading": 0
+    }
+   ],
+   "catchword": "fuit",
+   "notes": "Catchword \"fuit\" at lower right is printed at the foot; treated as catchword in text above. Headings XI., XII., XIII. are roman numerals in the original, level 2 assumed."
+  },
+  {
+   "n": 9,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: si, sed"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "fuit in lucem protracta novis tenebris involuta à con-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "pectu nostro recedat.",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "XIV.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "<i>Primò</i> contra Philosophum Vir Doctus ita argumen-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "tatur sub finem theseos decimæ quartæ in disputatione",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "prima de Spatio: <i>Dentur</i>, inquit, <i>duo lapides ejusdem ma-</i>",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "<i>gnitudinis & eruatur alter è muro, & alter substituatur in ejus</i>",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "<i>locum mutatur ibi lapis non spatium</i>: <i>Duo sunt lapides uni-</i>",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "<i>cum spatium quod proinde differt realiter intrinsecè à lapidum</i>",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "<i>extensione.</i> Respondeo conclusio non loquitur de spatio",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "absolutè sumpto, sed de certo & determinato quod à",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "duobus lapidibus successivè occupatur, sciendum verò",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "quòd spatia non ex singulari extensione corporum, à qui-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "bus nunc occupantur, sed ex certa magnitudine, figu-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "ra, situ inter alia corpora fiant singularia, proinde his",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "immutatis idem spatium quodcunq; corpus vel spatium",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "ingrediatur vel è spatio egrediatur, quia spatij extensio",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "est ipsa corporum extensio, sed abstractè sumpta, quæ pro-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "inde non variatur variatis corporibus.",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "XV.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 21,
+     "text": "In thesi vicesima nona Vir Doctus hæc habet verba;",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 22,
+     "text": "<i>Spatium intrinsecè & quasi materialiter nullam dicit entita-</i>",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "<i>tem, atqz adeò nihil est; Extrinsecè tamen & formaliter in-</i>",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "<i>cludit suo conceptu extensionem corporum locabilium.</i> Ubi",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "Respondeo primò Virum Doctum non differere de spa-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "tio sed de eo quod præposterè spacium vocat, quia di-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "sputationem habet de eo quod intrinsecè nullam dicit ex-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "tensionem; Atqui idea spatij non est idea non extensi",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "sed extensi & quidem extensi tantùm; Provoco ad te-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "stimonium omnium & literatorum & illiteratorum. Se-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "cundò quicunq; hactenùs de spatio disputarunt, in eo con-",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "venerunt omnes quòd spatij idea sit tantùm idea exten-",
+     "heading": 0
+    }
+   ],
+   "catchword": "si, sed",
+   "notes": "Printed text is a fragment at the bottom (\"si, sed\") continuing onto the next page. Long s rendered as s throughout. Some letters in the scan are faint; words such as \"conclufio\" and \"præposterè\" are as printed."
+  },
+  {
+   "n": 10,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: parietibus."
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "fi, sed in eo dissentiunt quid illa spatij extensio sit; In",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "qua disquisitione miris vexantur difficultatibus; Vir Do-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "ctus illas difficultates tollere & spatij naturam acutè",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "explicare volens non respondet ad id de quo est quæ-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "stio, sed ab aliis dissentire volens aliud quid per spatiu in-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "telligit, quàm de quo sit quæstio, dicendo quòd spatium",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "primariò & intrinsecè dicat id quod non est extensum;",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "Disputat ergò de eo quod primariò non est extensum,",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "omnes autem Philosophi contra, quicunq; de spatio di-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "sputârunt, disputare voluerunt tantum de eo quod non",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "est nisi extensum; Idq; propterea quia omnes sunt experti",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "& quivis nostrûm est conscius, quòd idea spatij non repræ-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "sentet nisi quod extensum est; Sanè fatendum est Viro",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "Docto aut quòd idea spatij falsò repræsentet spatium aut",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "quòd Philosophi ante eum nesciverint quid repræsenta-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "ret, prius dici est absurdum, quia, si idea spatij falsò re-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "præsentaret spatium, definiret esse idea spatij; Posterius",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "non minùs est absurdum, quia sic omnis tolleretur cogni-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "tio, nam res non aliter cognoscimus quàm intuendo ea-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "rum ideas; Nec dicat ad spatium extrinsecè pertinere",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "extensionem, ipsa enim conscientia testatur, quòd men-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "ti ideam spatij habenti nihil obversetur præterquàm ex-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "tensio.",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "XVI.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 25,
+     "text": "Videamus verò quibus argumentis Vir Doctus pro-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 26,
+     "text": "bare nitatur, quòd spatium intrinsecè dicat negationem",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "extensionis; Ita enim argumentatur thesi tricesimâ: <i>Deus</i>",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "<i>potest annihilare omnia corpora contenta in cubiculo, ut tamen</i>",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "<i>parietes non mutent locum, quo casu patet nihil remansurum</i>",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "<i>inter parietes; Quod si adhuc aliquid extensum tibi fingas,</i>",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "<i>supponamus Deum annihilaturum adhuc illam ipsam quam ti-</i>",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "<i>bi fingis quantitatem aut entitatem, manentibus semper intactis</i>",
+     "heading": 0
+    }
+   ],
+   "catchword": "parietibus.",
+   "signature": "B",
+   "notes": "The last line is in italic and partly blurred; \"parietibus.\" and the signature \"B\" are printed at the foot. The heading XVI is a numbered section and set as level 2 to match the page style."
+  },
+  {
+   "n": 11,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: sibi"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "<i>parietibus. Dictat enim sana ratio & confirmat omni exceptio-</i>",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "<i>ne major revelatio nullum omnino dari ens quod resistere queat</i>",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "<i>omnipotentia divina & quod supremum illud numen destruere</i>",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "<i>non possit. Illud ergo merum nihil quod ab uno pariete ad</i>",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "<i>alterum esse dicimus, est hoc ipsum, quod spatium intrinsecè</i>",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "<i>spectatum vocamus.</i> Respondeo I. Absurdum est omnem",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "omninò extensionem inter duos cubiculi parietes peri-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "isse ubi parietes tamen dicuntur inter se distare; Quæ-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "nam quæso ratio vel fingi potest distantiæ nisi exten-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "sio interjecta? Ex. gratiâ, si distant à se mutuò quin-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "decim pedibus, quæ alia ratio esse potest, cur ita à se di-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "stent nisi quia latitudo aliqua quindecim pedum interia-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "cet? Fateor nullum parietibus cubiculi interiici posse cor-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "pus quod divina virtus non annihilare possit; Verùm",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "enimverò si hoc contingeret parietes fierent sibi mutuò",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "contigui, quia fundamento distantiæ pereunte non potest",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "nö perire distantia: Et implicat contradictionem parietes",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "à se mutuò distantes manere immotos omni extensione,",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "quæ interiacet, pereunte; Perindè enim est ac si dicerem,",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "Deum omnes montes & clivos facere perire manenti-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "bus vallibus. II. Si ingenuè agere cupis mecum, mecum",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "fateri necesse habes, quòd nostèr intellectus non possit",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "etiam liberè vagando assequi distantiam duorum parietum",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "quin inter eos aliquam expansionem reipsa esse intelligat;",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "Ut verba, quæ distantiam duorum parietum absquè ex-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "tensione interiacente affirmant, nullum in loquente sen-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "sum reperiant quem interpretentur.",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "XVII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 29,
+     "text": "Porrò in thesi tricesima prima ita argumentatur;",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 30,
+     "text": "<i>Supra cælos datur spatium, quia Deus ibi posset locare corpus,</i>",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "<i>sive illud de novo crearet, sive aliquod ex hoc mundo eò transfer-</i>",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "<i>ret; Atqui spatium illud nullam entitatem, nullam extensionem</i>",
+     "heading": 0
+    }
+   ],
+   "catchword": "sibi",
+   "notes": "Bottom line partly cut off at the lower edge; \"sibi\" is printed with a catchword-like position but is part of the text. Page is a right-hand page with its left edge shaded."
+  },
+  {
+   "n": 12,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "<i>sibi intrinsecam habet</i>; Postea pergit in eadem thesi pro-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "lixius probando, quòd spatium, quod est extra mundum,",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "nullam habeat extensionem. Respondeo <i>primò</i>, nemini",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "licere vel cogitando egredi mundū, quia mundus tantæ est",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "molis, ut quantumvis magnum eum tibi imagineris, major",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "tamen sit tuâ imaginatione; Ut præposterum admodùm",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "sit longiùs velle disserere de ijs quæ extra mundum; Et",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "quæcunq; spatia extra mundum fingas, ea pertinent ad",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "mundum ut fines mundi nondum sis egressus ea imagina-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "tus; Idq; patet ex eo, quia quando cogitando tibi videris",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "mundum egressus, tamen extensionum notio tibi nolenti",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "volenti obversatur, quas extensiones ad mundi familiam",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "spectare negare non potes, qui mecum in tuis Disputatio-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "nibus hinc inde fateris omnem extensionem esse corpo-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "ris. <i>Secundò</i>, de Deo sanè satis magnificè non sentiunt qui",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "de limitibus mundi aliquid definire audent, & limitatam",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "valdè intellectus sui potentiam ad plura & majora exten-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "dere volunt, quàm suam extendere voluit omnipoten-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "tiam Creator maximus, caveant hi ne demissos præ se",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "animos ferentes Optimi Conditoris bonitati detractum",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "eant; Quicunque disserere volunt de eo quod extra mun-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "dum ponunt perinde faciunt ac si disserere vellent de nu-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "mero qui ultra maximum, mundus est indefinitæ magni-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "tudinis quemadmodùm numerus.",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "XVIII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 26,
+     "text": "Insuper in thesi tricesima secunda ita argumentatur;",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 27,
+     "text": "<i>Spatium in quo collocatus fuit mundus, fuit ante mundum;</i>",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "<i>Atqui spatium illud nullam habuit entitatem; Ergo concludit</i>",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "<i>spatium intrinsecè esse nihil;</i> Postea in eadem thesi prolixè",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "probat, quòd spatium illud nullam habuerit entitatem.",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "Respondeo I. Ante mundum nullum fuit spatium, sed",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "cum corporibus postea demùm fuit concreatum. II. Nullum",
+     "heading": 0
+    }
+   ],
+   "catchword": "lum",
+   "signature": "B 2"
+  },
+  {
+   "n": 13,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: quàm"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "lum etiam fuit Ubi ante mundum, in quo mundus collo-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "caretur; Ubi enim dicit situm corporis inter alia cor-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "pora; Ergo nullo existente corpore nullum est Ubi, in",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "quo corpus collocari possit.",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "XIX.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "Praevidit Vir Doctus priorem responsionis partem,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "unde eam praeoccupat in thesi tricesima tertia, in qua",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "ostendere conatur quod spatium non posset dici concrea-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "tum cum corporibus; Hoc argumento; <i>Si spatium su-</i>",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "<i>isset concreatum cum corporibus tunc spatium esset aliquid reale</i>",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "<i>diversum a corporibus</i>, quia, inquit, <i>Id quod creatur cum</i>",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "<i>alio est aliquid reale diversum ab eo cum quo creatur.</i> Verum",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "quid contendam pluribus cum mera in ratiocinatione sit",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "logomachia. Spatiu enim dicitur concreatu cum corpori-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "bus, non quod alia creationis actione spatia, alia vero cor-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "pora fuerint facta, nam eadem creatione, qua corpora fue-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "runt producta, etiam ipsa fuerunt producta spatia; Spa-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "tium enim & corpus plane una & eadem est res; Ergo non",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "requiruntur distinctas creandi actiones: Quemadmodum",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "Ens, Substantia, Corpus dicuntur creata cum Terra, non",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "quod alia creandi actione Ens, alia Substantia, alia Corpus,",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "alia Terra fuerit facta; Sed quia sunt gradus essentiales",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "metaphysici, & proinde una & eadem res, producta sunt",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "simul una & eadem creatione.",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "XX.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 26,
+     "text": "In thesi tricesima quarta ait, <i>entia non esse multiplican-</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 27,
+     "text": "<i>da praeter necessitatem, nullam vero necessitatem esse statuendi</i>",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "<i>spatium intrinsece esse ens;</i> Patet. 1. <i>Quia commode aliter ex-</i>",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "<i>plicari potest quid sit.</i> 2. Contra requiritur ut nihil sit, ubi enim",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "nihil est, facile locari queunt corpora & contra ubi jam est ali-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "quid extensum, alia locari nequeunt. Respondeo primo,",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "Nihila minus sunt multiplicanda praeter necessitatem",
+     "heading": 0
+    }
+   ],
+   "catchword": "quàm",
+   "notes": "Page is mostly legible; the bottom line \"quàm\" is a catchword-like continuation at the right and is kept in the text. Ambiguous words in the first line and the Latin of thesis XIX are transcribed as printed."
+  },
+  {
+   "n": 14,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "quàm entia, quia ex multitudine Nihilorum periculum",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "oritur ne mundus pereat, ex multitudine verò entium au-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "cta augetur mundus. <i>Secundò</i> entia non magis multipli-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "camus quàm Vir Doctus, quia extensionem, quam voca-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "mus spatium, esse ens fatetur Vir Doctus: Ad rationem",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "verò priorem respondeo. 1. Quòd definiendo spatium",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "per Nihil non indicetur quid sit, sed quid non sit, scil. non",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "ens. 2. Ex posterioribus patebit quòd per Nihil nullo",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "modo explicari possit quid sit spatium intrinsecè. Ad",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "posteriorem verò rationem dico <i>a.</i> Nihil non posse",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "esse spatium, quia Nihil tollitur præsente corpore, atqui",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "spatium non tollitur corpore, nam corpus est in spatio:",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "Si velis τὸ Nihil servari ubi corpus est; Ergo τὸ Nihil",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "quod fuit ante mundum, adhuc est in mundo, quia in",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "eo tanquàm in spatio, vis positum esse mundum: Sic sal-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "sissimum erit id, quod in confesso est apud omnes sanæ",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "mentis homines, quòd inter Ens & Nihil sit infinita di-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "stantia non tantùm Metaphysica sed etiam Mathematica.",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "<i>b.</i> In Nihilo non potest locari corpus, quia in Nihilo",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "non est ubi locetur; Ita ut neq; Deus corpora hujus",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "mundi in Nihilo collocaverit, sed in spatio quod con-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "dendo corpora condidit; Nec spatium in Nihilo collo-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "catum dici potest, <i>Tùm,</i> quia spatiorum singularium situs",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "primùm designatur ubi quodvis corpus delitescat, situs",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "autem absolvitur solâ vicinià & distantiâ, quam spatia",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "singularia erga se invicem habent: <i>Tùm,</i> quia quodvis",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "corpus locatur in extenso, quodvis enim corpus locan-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "dum suam habet extensionem, in qua locari solet, quæ",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "ubicunq; est spatium est; ut corpus locari proindè non",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "possit nisi in extenso, quod ab ipso corpore locato tamen",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "intrinsecè non differt.",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "XXI. De",
+     "heading": 2,
+     "para": true
+    }
+   ],
+   "catchword": "De",
+   "signature": "B 3",
+   "notes": "Marginal annotations: none printed. The heading \"XXI. De\" is a chapter title at the foot, partly cut off. Greek τὸ is printed in the text; the Greek \"τὸ\" marks are reproduced as printed. Some words are doubtful due to faint print; the text as read is best effort."
+  },
+  {
+   "n": 15,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: ibi"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "XXI.",
+     "heading": 1,
+     "caput": "21",
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "Deindè in thesi quinta disputationis secundæ de spa-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "tio his inter alia utitur verbis; <i>Quoad Cartesium, multò</i>",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "<i>minùs poterit dicere corpus mutare locum internum, quem sta-</i>",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "<i>tuit esse ipsammet extensionem corporis.</i>",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "Respondeo <i>primò</i>, ex his verbis colligo, quòd Car-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "tesium, quantum par est, non fueris meditatus, quia sci-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "res quòd Cartesius spatia faciat inter se distincta situ, ma-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "gnitudine ac figurâ, cui consequens necessariò est, quòd",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "corpora sua spatia mutent sive situm sive magnitudinem",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "sive figuram mutent. <i>Secundò</i>, mihi gravissima causa est",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "cur credam ex tua hypothesi, quâ spatium intrinsecè",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "sumptum putas esse Nihil, nunquam posse ostendi quòd",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "ullum corpus suum spatium intrinsecè sumptum mutare",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "possit, nam quomodò mutaret cùm Nihil à Nihilo non",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "differat? Quomodò ex uno Nihilo in aliud transire cor-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "pus dici potest?",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "XXII.",
+     "heading": 1,
+     "caput": "22",
+     "para": true
+    },
+    {
+     "n": 19,
+     "text": "In thesi nona abundè Cartesianis satisfacere sibi vi-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 20,
+     "text": "detur ubi inter alia ait; <i>Fatendum est mentem in loco interno</i>",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "<i>distinguere terminum aliquem in quo sit corpus à corpore ipso.</i>",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "<i>Atqui adeò cùm terminus ille sit non ens, vim quandam menti</i>",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "<i>esse attendendi ad τὸ Nihil.</i> Respondeo, terminum illum non",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "esse Nihil quod locum corporum designet, quia talis esse-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "ctus est realis, qui à Nihilo non potest proficisci, cùm cau-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "sa non possit effectu esse toto genere ignobilior, & Nihili",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "nulla sint effecta: Deindè quia quandò mens terminum,",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "in quo sint corpora, attendit, homo cum indice monstra-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "re potest dicendo hic vel ibi; atqui Nihil non potest mon-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "strari digito, quia inter nihil & hominem major est distan-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "tia, quàm digito monstrari possit: Insuper quomodò Ni-",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "hil monstrari digito potest, cùm tibi fatendum sit, quòd",
+     "heading": 0
+    }
+   ],
+   "catchword": "ibi",
+   "notes": "Greek word \"τὸ\" in the italic passage transcribed as printed. Catchword \"ibi\" is at the right foot. Several words in the lower part are slightly blurred; \"sumptum\" and \"effectu\" read as printed."
+  },
+  {
+   "n": 16,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: cum"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "ibi, ubi mentis radii terminantur, aliquid fit, <i>tum</i>, quia to-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "tus mundus est plenus, <i>tum</i> quia Nihil perit ibi ubi est ali-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "quid: Id vero quod mens attendit tanquam terminum",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "corporis est spatium aliquod in quo corpus est tanquam",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "in suo loco interno; Spatium vero ipsum in nullo est loco",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "cum sit ipse locus; Si vero & spatia dicuntur esse alicubi,",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "denominatio desumpta est a situ, quem spatia inter sese",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "habent sua vicinia & distantia. In eadem thesi pergit Vir",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "Doctus. <i>Nisi intra corpus attendamus Nihil, in quo tanquam</i>",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "<i>in termino sit corpus, nunquam satisfaciemus modis loquendi</i>",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "<i>& concipiendi, qui tamen veri sunt non falsi</i>; <i>Non enim dicimus</i>",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "<i>corpus ipsum esse locum, aut locum ipsum moveri, sed corpus</i>",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "<i>esse in loco & moveri per locum etiam internum.</i> Respondeo,",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "hae locutiones nobis minime obsunt, spatium enim di-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "stinguitur a corpore ut genus a specie, ut spatium abstracte",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "magis sumatur quam corpus; Unde hae vulgares locutio-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "nes spatium non esse ipsum corpus, sed corpus esse in spa-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "tio, & corpus moveri in spatio. Pergit praeterea; <i>Imo evi-</i>",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "<i>denter mens nostra attendit ad illum terminum in quo sunt di-</i>",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "<i>mensiones corporis, & quem spectat tanquam invariatum, etsi</i>",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "<i>corpora sibi invicem in eo succedant, imo etsi nullum in eo fue-</i>",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "<i>rit corpus.</i> Respondeo, terminus tuus nihil est praeter ex-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "tensionem corporum abstracte sumptam, quae, quia ab-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "stracte sumitur, invariata manet, quaecunque corpora in eo",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "sibi succedant; Si vero contingeret ut in termino, quem",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "attendis, nullum foret corpus, tunc nec ipse maneret ter-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "minus, in quo corpora sibi mutuo successerant; Nam,",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "quod probe notandum, quanquam locus internus perin-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "de se habet ad quodvis recipiendum corpus, tamen ex eo",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "tantum constituitur, a quo in praesens occupatur, sed quia",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "successive ex quovis constitui potest, fit, ut extra omne",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "corpus locum internum constitui posse putent, id quod",
+     "heading": 0
+    }
+   ],
+   "catchword": "cum",
+   "notes": "Bottom of the last line is a catchword \"cum\" at the right margin, given as catchword in the text; the page is otherwise without furniture. Some words are faint due to show-through and print wear, e.g. \"succesferant\" and \"Respondeo\" read with some doubt."
+  },
+  {
+   "n": 17,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: dissimum."
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "cum errore putant. Progreditur, <i>ut si quis de ponte in flā-</i>",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "<i>entum prospicit, radij mentis ejus non minus quam oculorum</i>",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "<i>fixe attendunt ad terminum, per quem fluit aqua, quem novit</i>",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "<i>remanere, etsi nulla foret aqua aut aliud corpus.</i> Respondeo,",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "illum terminum, per quem aqua fluit nolens volens cum",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "extensione intelligis, & quia fateris omnem extensionem",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "esse corporis, vides quomodo ille terminus nihil aliud sit",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "quam extensio corporum sed in genere sumpta; Fateor",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "quod ille terminus remaneret omnino, etsi nulla foret",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "aqua, quia sequeretur aer vel aliud aliquod corpus, quod",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "aeque extensionem haberet ac aqua, in cujus extensione",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "conservaretur: Quemadmodum humanitas, quanquam",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "in quocunq; homine una & eadem sit res cum homine,",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "tamen conservari potest vel in uno solo homine,",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "quam reliqui omnes, in quibus erat, perijssent: Ita ter-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "minus, in quo tanquam in loco interno collocas corpus,",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "extensionem habet, sed quae est ipsa extensio corporis a",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "quo occupatur; Et haec extensio termini conservari po-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "test in quovis corpore, a quo occupari potest quatenus",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "quodvis corpus suam extensionem habet. Pergit ul-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "terius; <i>Nec situs nec corpus ipsum locatum potest repleri, sed</i>",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "<i>illud Nihil.</i> Respondeo 1. Si Nihil posse putas evacuari",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "& repleri nolens volens Nihilo laxitatem tribuis, quae",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "etiam secundum te est corporis non Nihili: Nec dicas",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "laxitatem tribui Nihilo extrinsecè respectu corporis loca-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "bilis, Nam si Nihil putas corpore posse repleri non potes",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "non laxitatem tribuere Nihilo ante corpus locabile, &",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "Nihili laxitas est causa cur corpus in eo tanquam in spa-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "tio poni posse putas: Nec vel fingere potes quomodo Ni-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "hil corpore replendum non habeat laxitatem ante corpus",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "quo replendum est. 2. Nihil repleri posse est contradi-",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "ctio manifesta, nam plenitudine tollitur Nihil; Absur-",
+     "heading": 0
+    }
+   ],
+   "catchword": "dissimum.",
+   "notes": "Several words are set in a damaged, uneven scan; readings such as \"si\" and some words in the Latin are doubtful, and the line-end fragments \"fla-\" and \"absurdissimum\" are as printed. Some words are uncertain and not marked with [?] in the running text."
+  },
+  {
+   "n": 18,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "diffimum etiam est Nihilum remanere ubi corpus èst,quia",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "Nihil omnia negat; Abfurdiffimum est in Nihilo aves vo-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "lare & pisces natare, quia illæ suis alis, hi suis pinnis tan-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "gerent Nihil, dùm non nisi corpus tangi potest; Pisces",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "etiam natatu & aves volatu describerent lineas in Nihilo",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "tanquàm in spatio, & sic Nihil erit extensum, quia in eo",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "lineæ duci possunt; Duo corpora nunquàm poterunt fe",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "mutuò tàm arctè amplecti quàm Nihil & corpus fe mu-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "tuò fovent, quia in spatio corpus est cum penetratione;",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "Et quodcunque Malagma morbo applicetur, hæc absurda",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "sequi ex sententia, quâ Nihilum ponitur spatium in quo",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "corpora existant, quilibet videt; Quivis enim secum per-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "pendat, an non Nihilo laxitas tribuatur, fi statuatur in Ni-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "hilo <i>tanquàm</i> in spatio omnia corpora esse posita. Pergit",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "Vir Doctus, ut porrò probet Nihil revera spatium esse:",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "<i>Quamvis Deus nulla creaffet corpora, aut fi hodiè destrueret,</i>",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "<i>v. g. aërem, tamen Angeli possent esse in illo Nihilo.</i> Refpon-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "deo <i>primò</i>, fateor, quòd fi Deus nulla creaffet corpora,",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "tunc vice corporum Nihil effet, sed quia corpora Deus",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "fecit sic vice Nihili corpora sunt, ut proindè in mundo",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "Nihil non fit reperire, quia ejus vice mundus est; <i>Secundò</i>,",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "fi Angeli sunt in Nihilo, ergò nufpiàm sunt, quia Nihil",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "nufpiàmeft; <i>Tertiò</i>, fi Angeli sunt ubi Nihil est, tunc An-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "geli sunt Nihil; <i>Quartò</i>, quomodò Angeli possunt esse",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "in Nihilo tanquàm in spatio, cùm ipse spatium confide-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "res per relationem ad corporis locabilis capacitatem?",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "<i>Quintò</i>, Angeli funtSpiritus, spatium verò est ipsa corpo-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "rum extensio; Ergò Angeli egent spatio in quo existant,",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "quomodò corpore. Pergit argumentando contra Car-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "tefium; <i>Cogitur Cartefius gravissima nostro judicio absurda</i>",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "<i>admittere, nempè.</i> 1. <i>Locum v. g. hujus cubiculi, ne divinâ</i>",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "<i>quidem virtute vacuum esse posse.</i> 2. <i>Mundum nullos habere fines</i>",
+     "heading": 0
+    }
+   ],
+   "catchword": "fines",
+   "signature": "C",
+   "notes": "Woodcut-free page; small stains at edges. The word \"Angeli\" after \"tamen\" carries a flourish. The line \"Quintò, Angeli funtSpiritus\" appears as printed without a space."
+  },
+  {
+   "n": 19,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: dinem"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "<i>fines magnitudinis suæ</i>; <i>Atq; adeò Deum ne quidem unum cor-</i>",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "<i>pus creare posse supra Cælos, multò minùs creare posse plures</i>",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "<i>mundos</i>; <i>Item nec Deum posse totum mundum vel tantillum</i>",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "<i>movere secundùm lineam rectam</i>, <i>alias videt locum dari sine cor-</i>",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "<i>pore.</i> Respondeo <i>primò</i>, in his tuis argumentis clarè o-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "stendis quòd Cartesij principia tibi nondum sint cogni-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "ta, quia Cartesio in more positum non est quicquam de",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "potentia Dei infinita definire, cùm sciat intellectum no-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "strum esse finitum, Dei verò potentiam infinitam; Con-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "siderat duntaxat quid à nobis possit percipi vel nō possit, &",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "cavet diligenter ne judicium ullũ à perceptione dissentiat;",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "Quapropter audacter affirmat, Deum posse id omne, quod",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "possibile esse percipimus; Non autem è contrario audacter",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "negat Deum posse id quod conceptui nostro repugnat, sed",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "dubitat tantùm an Deus id possit. <i>Secundò</i>, ita fatetur ab-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "surdum esse & implicare contradictionem locum cubi-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "culi esse vacuum & parietes cubiculi inter se distare, sed",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "an non Deus id facere possit, quod fieri absurdum est ra-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "tioni Cartesius non definit sed dubitat; Et sanè absurdis-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "simum esse parietes cubiculi inter se distare, quanquam",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "nulla latitudo interiaceat, quivis rationis compos clarè vi-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "det; Omnis distantia est relatio, omni relationi est funda-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "mentum aliquod, distantiæ verò, ubi parietes e. g. quin-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "decim pedes inter se distant, quæ alia quæsò ratio vel fingi",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "potest quàm quòd latitudo quindecim pedum parietibus",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "interjecta est? Vir verò Doctus, ut Cartesio Summo Phi-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "losopho refragari possit hoc delirium defendit, quòd pa-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "rietes duo inter se possint distare quanquàm nulla lati-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "tudo sit interʃita, <i>satis esse</i>, inquit <i>in thesi vicesima quinta</i>,",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "<i>quòd latitudo aliqua interponi possit</i>; Sed sciat volo quòd cùm",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "distantiæ duorum parietum fundamentum sit latitudo",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "interjecta, distantia, quæ actu est, requirat etiam latitu-",
+     "heading": 0
+    }
+   ],
+   "catchword": "dinem",
+   "notes": "Printed text is set in a slightly blurred scan; a few words near the damaged right edge (e.g. \"interʃita\") are doubtful. The first line of the page is a continuation from the previous page."
+  },
+  {
+   "n": 20,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: mundos"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "dinem quæ actu sit interposita, non vero quæ tantum in-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "terponi possit; Quid quòd ne fingi potest quomodò inter",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "duos parietes revera nunc distantes latitudo poni possit",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "quin revera sit posita? Si fundamentum distantiæ esse pu-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "tas quòd parietes se non contingunt, est petitio principij,",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "quia hoc est in quæstione, nempe quodnam sit fundamen-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "tum quòd se mutuò non contingant, nam hæc sunt syno-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "nyma, corpora se non contingunt; Corpora à se mutuò di-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "stant. Mirum est quòd nostra ratio distantiæ vel negati con-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "tactus à te non adoptatur, quæ rem tam clarè explicat, e. g.",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "Si quæro cur Berna distet Lausannâ, quæ aptior ratio reddi",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "potest, quàm quòd Bernæ atq; Lausannæ latitudo quædam",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "interjacet? Secundùm Viri Docti hypothesin fieri potest,",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "ut Berna distet Lausannâ itinere duorum dierum, quan-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "quàm longitudo nulla actu interjaceat; Quò casu tabella-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "rius suò frustraretur stipendiò, & vinum vestri agri trans-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "ferri Bernam posset absq; portorio, quæ transvehendi ra-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "tio sanè multò esset compendiosior quàm per canales; Eo-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "dem casu discipulus in suo themate committeret barbaris-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "mum, si distantiam, quam duæ illæ Urbes inter se habent,",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "latinè exprimere volens diceret Berna distat Lausannâ",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "longitudine itineris duorum dierum, quia nec itinera nec",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "longitudo ulla interjaceret. Tertiò, ut ad secundum ab-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "surdum, quò premere Cartesium conaris, respondeam;",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "Cartesij sententia non est, mundum nullos habere fines,",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "sed nos vel cogitando fines mundi assequi non posse, an",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "verò reipsa fines habeat nec ne non definit sed dubitat,",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "quia quantumvis magnum mundum nobis imaginemur,",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "majorem adhuc esse reperinus; Ita ut absurdum sit omni-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "nò rationi extra mundum poni corpus posse; Quemad-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "modùm absurdum est rationi extra numerum maximum",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "poni numerum posse: Etiam absurdum est rationi plures",
+     "heading": 0
+    }
+   ],
+   "catchword": "mundos",
+   "signature": "C 2",
+   "notes": "Page is a continuous text page with no page number, running head or margin notes. Catchword \"mundos\" and signature \"C 2\" are at the foot. Some words in the scan are faint or smeared (e.g. \"quæ\", \"vinum vestri\") but were read as printed."
+  },
+  {
+   "n": 21,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: compin-"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "mundos esse posse, nam mundi, quos supponis esse posse",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "extra hunc mundum, vel distant ab hoc mundo vel non;",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "Si prius, corpus esse oportet, quô interiacente hic ab illis",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "distet, illud corpus cum ijs, quæ ipsi sunt contigua, spectant",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "ad hunc mundum, ut sic non componant nisi unum mun-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "dum; Si posterius; Etiam non componunt nisi unum",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "mundum, nam mundus complectitur ea omnia, quæ ipsi",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "sunt contigua, <i>tum</i> quia mundus est <i>τὸ πᾶν</i>, <i>tum</i> quia aliâs",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "alius mundus esset Terra, alius Aër, alius Aqua, &c. Ab-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "surdum etiam est rationi totum mundum moveri posse,",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "quia totum mundum sibi imaginari non potest homo,",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "cùm nullos assequi fines cogitando possit.",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "XXIII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 14,
+     "text": "Contra Cartesium porrò hæc habet verba in thesi de-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 15,
+     "text": "cima sexta; <i>Cartesius errat, quòd credat spatium nihil aliud esse</i>",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "<i>quàm extensionem corporum</i>; Respondeo I. Si Cartesius",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "errat quòd statuit spatium nihil planè esse præter extensio-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "nem corporum tunc & tibi merito impingitur idem error,",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "quia & tua est sententia, quòd spatium nihil sit præter ex-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "tensionem corporum, id quod ita exponitur; <i>Primò</i> doces",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "quòd spatium intrinsecè sit Nihil; <i>Deinde</i> doces quòd spa-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "tium extrinsecè dicat ipsam corporum in spatio locabilium",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "extensionem; Ex quibus confici necesse est, ipsum spatium",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "præter extensionem corporum locabilium esse nihil; ut",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "in tuo à Cartesio recedendi conatu videaris haud absimi-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "lis homini, qui in curriculo currens magna dierum itinera",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "facere sibi videtur; Nec succenseas mihi quòd tuum spa-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "tium nihili facio, sic enim tecum consentio, cùm ipse spa-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "tium nihili facias, statuendo illud Nihil esse; <i>Si magn-</i>",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "<i>um spatium facerem tibi adversarius viderer</i>, quia spa-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "tio nullam vis tribuendam magnitudinem. II. Si at-",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "tenderes quòd Nihil sit negatio omnis entis corpora non",
+     "heading": 0
+    }
+   ],
+   "catchword": "compin-",
+   "notes": "Greek phrase \"τὸ πᾶν\" transcribed as printed. Catchword \"compin-\" is at the end of the last line; treated as text. Bottom of page otherwise blank."
+  },
+  {
+   "n": 22,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: spatij"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "compingeres in Nihil tanquam in pristina. III. Miror",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "quòd perfiftis in renutu cõsentiendi cum Cartefio, cùm te",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "subindè habeat confitentem reum; Annon enim illa tua",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "verba, quæ extant thesi tricesima sexta disputationis se-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "cundæ de loco; <i>Tota natura spatij formaliter concepti, quâ</i>",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "<i>spatij, posita est in extensione, nec aliter definiri nec concipi potest;</i>",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "Continent confessionem â reo profeƈtam, quòd sola ex-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "tensio sit spatium?",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "XXIV.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 10,
+     "text": "In disputatione tertia de spatio & in disputatione de",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 11,
+     "text": "Ubicatione spirituum tuam sententiam de Nihilo spatij",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "novo temperamento mitigare volens tibi dissimilimus fa-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "ctus es, dùm hinc indeasseris te Nihilum spatij per aƈtum",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "mentis negativum intelligere, intelligendo nihil esse quòd",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "impediat quô minus corpus poni possit; Adeoquè inquis,",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "<i>quandò substantia dicitur esse in spatio, sensus est nihil esse, quo</i>",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "<i>minùs substantia ibi esse possit.</i> Respondeo. <i>Primò,</i> qui phra-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "ses tuas examinat, quibus fuisti usus in prima & secunda",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "Disputatione de Loco, non potest non dicere te Nihilum",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "spatij per aƈtum mentis positivum intellexisse; Annon",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "enim hæ fuerunt tuæ phrases? <i>Omnia corpora existunt in</i>",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "<i>Nihilo tanquàm in spatio. Omnis motus fit in Nihilo tanquàm</i>",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "<i>in spatio. Aves volant & pisces natant in Nihilo tanquàm</i>",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "<i>spatio. Fluenta fluunt per Nihilum tanquàm per spatium.</i>",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "<i>Mundus ipse est collocatus in Nihilo tanquàm in spatio.</i> Ex",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "quibus tuis phrasibus quis non colligit te Nihilum spatij",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "per aƈtum mentis positivum intellexisse? <i>Secundò;</i> Non",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "dubito quin tua diuturnior rei meditatio aliorumq; con-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "tra te argumentandi diligentia, Spatium aliud quid esse te",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "docuerint, quàm in prima & secunda disputatione videa-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "ris credidisse; Pudore tamen erroris dučtus sententiam",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "immutare quàm revocare maluisti. <i>Tertiò;</i> Efficacior est",
+     "heading": 0
+    }
+   ],
+   "catchword": "spatij",
+   "signature": "C 3",
+   "notes": "Page is a single column; no marginal notes. Catchword-like word \"spatij\" at the foot is the start of the next line, treated as running text. Some words in the last line are blurred. Heading XXIV is a numbered section, printed centred in larger type."
+  },
+  {
+   "n": 23,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "spatij significatio quàm ut tantùm neget impedimentum",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "corporis locandi, significat enim præterea capacitatem",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "corporis locandi. <i>Quarto</i>; Ipsa extensio abstractè sumpta",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "negat impedimentum locandi corporis. <i>Quinto</i>, Imò ex-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "tenfio abstractè sumpta præterea habet recipiendi cor-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "pus capacitatem; Ergo sola illa extensio abstractè sum-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "pta est spatium; Quòd verò extensio abstractè sumpta",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "capacitatem habeat recipiendi corpus patet ex eo,quia in",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "corpore recepto confervatur, quomodò humanitas in",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "Petro vel Paulo,&c. conservari solet. <i>Sexto</i>; Hac ratio-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "ne, quæso attende, non explicas quid fit spatium intrin-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "secè sumptum, sed tantùm quid non fit, genuina enim",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "mentis tuæ interpretatio est,quòd spatium intrinsecè non",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "fit aliquid quod impediat locationem corporis; At verò",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "hæc explicatio neq; indicat spatium esse nihil,neq; esse ali-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "quid, sed simpliciter de spatio negat quòd impediat lo-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "cationem corporis; Ita ut clarissimè nunc videas, quòd",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "tibi diffimilimus in posterioribus disputationibus fis fa-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "ctus, nam in prioribus nihil inculcasti Lectori crebriùs",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "quàm spatium intrinsecè esse Nihil; Nunc verò ea ratio-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "ne tuam mentem mitigas, quâ spatium nihil an aliquid",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "fit tacetur. <i>Septimò</i>; Miror jam quid tuum fit spatium,",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "cùm ex tua mutata sententia factum fuerit ut neq; fit ali-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "quid neq; nihil; Ejusmodi strigosum monstrum Affrica",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "tulit nunquàm; Ita prolixissimis tuis disputationibus tan-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "dem effecisti ut spatium album an atrum fit nesciatur.",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "XXV.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 28,
+     "text": "Fons erroris quo Vir Doctus corpora esse in Nihilo",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 29,
+     "text": "tanquàm in spatio &spatium intrinsecè esse Nihil, est,",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "quòd ideam extensionis abstractè sumptæ, bis applicat",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "ubi non nisi semel applicanda est; Semel enim extensio-",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "ni corporum abstractè sumptæ & semel spatio, in quo corpora",
+     "heading": 0
+    }
+   ],
+   "notes": "Marginal sign \"Quarto\", \"Quinto\", \"Sexto\", \"Septimò\" are italic section numerals in the text. The final line \"corpora\" is cut off at the page foot. Some words in the bottom line are faint and doubtful."
+  },
+  {
+   "n": 24,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: patur"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "pora sunt locata applicat; Et quia novit extra corporum",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "extensionem nihil esse, inde fit ut spatium intrinsecè pu-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "tet esse Nihil; Verùm sciat quòd idea extensionis abstra-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "ctè sumptæ non sit nisi semel applicanda & quidem cor-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "poribus locatis; Et fateor nihil proclivius esse quàm ideam",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "extensionis abstractè sumptæ bis applicare, memini enim",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "in hac erronea applicandi consuetudine me diu hæsis-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "se ut crediderim ex. gr. quodvis corpus occupare spa-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "tium, quod extra corporis occupantis extensionem suam",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "sibi propriam haberet extensionem, quæ corporis oc-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "cupantis extensioni esset commensurata; Ex qua vi-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "tiosa consuetudine me expedivi quamprimùm subtilis-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "simi Cartesij principiis imbutus discere incepi quid esset",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "corpus, tum enim videns corporis naturam consistere in",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "sola extensione, observavi extra corporis extensionem",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "nullam fingendam esse, quæ spatio sit propria, quia aliâs",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "corporum in spatio fieret penetratio; Quæ consideratio",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "à te sincerà mente volutata tua præjudicia circa spatij",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "Nihilum illicò perire facient.",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "XXVI.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 21,
+     "text": "Hæc sufficere puto ad vindicandam Nobilissimi Car-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 22,
+     "text": "tesij sententiam, quam de spatio habet; Longa mea re-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "spondendi cunctatio argumento esto, quòd in aliorum",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "erroribus confutandis mihi nulla sit delectatio; Interim",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "si veritati à Nobilissimo Cartesio detectæ errores insidi-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "antur, eos amoliri convenit, ne nostra cathedra, in qua",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "Author publicè docetur, infamiam patiatur.",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "XXVII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 29,
+     "text": "Ex quibus omnibus facilè est videre quòd spatium",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 30,
+     "text": "sit sola corporum extensio abstractè sumpta; proindè ut",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "redeamus unde egressi sumus, animus non potest esse suo",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "corpori unitus cum ulla spatij in corpore occupatione,",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "Cùm enim spatium ab extensione corporis, à quo occu-",
+     "heading": 0
+    }
+   ],
+   "catchword": "patur"
+  },
+  {
+   "n": 25,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: in navi"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "patur, intrinsecè non differat, menti verò nulla sit exten-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "sio, spatium sanè nullum occupare mens poterit.",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "XXVIII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "<i>Tertio</i> in confesso etiam apud nos est, quòd mens",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "sive animus in suo corpore non sit definitivè, hoc est, to-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "tus in toto corpore & totus in qualibet parte corporis,",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "quia hoc intelligi non potest quin mens vel animus in plu-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "ralitatem suimet ipsius abijsse cogitetur, id quod absur-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "dum est admodum.",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "XXIX.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 11,
+     "text": "<i>Quarto</i> in confesso etiam apud nos est, quòd mens",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 12,
+     "text": "sive animus in nulla corporis sui parte situm habeat, cùm",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "enim situm faciant sola corpora, etiam solis corporibus",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "debetur, proindè distantiam vel viciniam, quæ inter ani-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "mum & has vel illas corporis partes, dimetiri, vel etiam",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "spatij, in quo animi sedes sit, magnitudinem vel parvita-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "tem examinare, est absurdissimum.",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "XXX.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 19,
+     "text": "<i>Quinto</i> in confesso etiam apud nos est, quòd mens",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 20,
+     "text": "sive animus in suo corpore non sit, vitam motumq; illi",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "suppeditando; Corpus enim vitæ motuumq; suorum cor-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "poralia habet principia, quæ sunt calor in corde delites-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "cens, sanguis per arterias & venas diffusus, spiritusque in",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "nervis toto corpore dispersis, quomodò enim mens vel",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "animus causa esse potest concoctionis vel augmentatio-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "nis, &c. Cùm plerunq; in nobis contingant mente ne-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "scia? Quoties imus, edimus, loquimur mente vel nescia",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "vel reluctante, corpus causa est; Ut audacter affirmem",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "quòd corpus nostrum solum, modò omnia quæ ejus sunt",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "sint illibata, omnes functiones etiam mente separatâ su-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "bire possit quas subire solet mente præsente, quanquàm",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "non subiret tàm appositè occasionibus; Ut quod nauta",
+     "heading": 0
+    }
+   ],
+   "catchword": "in navi",
+   "notes": "The heading lines are set in spaced capitals and are rendered as level 2 headings. The last line \"in navi\" is set flush right and continues the sentence. Some words in the scan are blurred (e.g. \"nescia\", \"vitæ motuumq;\") and were read with reasonable but not complete certainty; the Latin is printed with some irregular spacing."
+  },
+  {
+   "n": 26,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "in navi idem sit mens in corpore; Navis motum suum",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "non habet à Nauta, quanquàm motum Nauta dirigat; Ita",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "motum corpus nostrum à mente non accipit, quanquàm",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "eam sui motùs habeat directricem.",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "XXXI.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "Tandem mens sive animus unitus est corpori suo re-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "ciprocatione certarum actionum & passionum, quibus ad",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "se mutuò referuntur; Dùm aliquid fit ab animo quod ter-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "minatur ad corpus; Aliquid item fit à corpore quod ter-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "minatur ad animum, exempli gratia, mens sive animus vult",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "ut pedes corporis nostri moveantur, indè fit ut revera mo-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "veantur; Voluntas mentis est mentis actio, & ipse pedum",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "motus, quatenùs à voluntate imperatus, est corporis pas-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "sio, quâ actione & passione mens ad corpus & corpus ad",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "mentem ita referuntur ut dicantur unita; Ita ex cogita-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "tione de rebus tristibus fit in corpore quædam molesta",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "variatio; Ubi cogitatio est mentis actio, variatio verò in",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "corpore orta ex illa cogitatione, est corporis passio, quâ",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "actione & passione mens ad corpus & corpus ad mentem",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "ita referuntur ut dicantur unita. Ita vice versâ motus",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "exempli gratiâ oculorum à lumine, aurium ab aëre, ma-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "nuum ab igne, pedis à lapide in animo confusam perce-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "ptionem excitat; ubi motus organorum corporis sunt",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "corporis actiones, perceptiones verò in animo inde ortæ",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "sunt passiones, quibus actionibus & passionibus corpus ad",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "mentem & mens ad corpus ita referuntur ut dicantur",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "unita; Ita mala corporis constitutio sæpè mentem ita assi-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "cit ut molesta in animo indè fit perceptio; Ubi depra-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "vatio corporis est corporis actio, perceptio verò molesta,",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "quæ indè oritur, est passio, quâ actione & passione corpus",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "ad animum & animus ad corpus ita referuntur ut dican-",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "tur indè unita.",
+     "heading": 0
+    }
+   ],
+   "catchword": "XXXII. Ani-",
+   "signature": "D",
+   "notes": "The \"D\" at the foot is a signature mark. The heading \"XXXI.\" is set in capitals and treated as a level 2 heading. The catchword \"XXXII. Ani-\" is printed at the lower right of the page."
+  },
+  {
+   "n": 27,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: quandò"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "XXXII.",
+     "heading": 1,
+     "caput": "32",
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "Animus sanè non potest corpori aliter esse unitus",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "quàm eâ ratione quâ à corpore afficitur, quia qnicquid",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "alteri est unitum ab eo ipso unione afficitur; At verò",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "à corpore mens sive animus non potest aliter affici",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "quàm sensationes alias atq; alias indè recipiendo, sive",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "enim corpus secetur, sive trudatur, sive frangatur, sive",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "conteratur, sive cremetur, animus inde nec secatur, nec",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "truditur, nec frangitur, nec conteritur, nec crematur, &",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "tamen indè quoq; afficitur, quomodo? Alias & alias",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "sensationes indè accipiendo; Aliam enim habet animus",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "sensationem quandò corpus secatur, aliam quandò cor-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "pus truditur, aliam quandò corpus frangitur, & ita de",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "aliis; Nec ipse animus corpus aliter afficere potest quàm",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "excitando varios in eo motus, quia animus rebus non nisi",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "operativè potest esse præsens. Deindè ipse animus est",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "conscius quòd à vulnere sui corporis acuto dolore revera",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "tangatur; Ut sensus, quò animus ea sentit quæ fiunt in",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "corpore, sit contactus qui animum corpori unit. Insuper",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "animus suâ naturâ est actus ut cessare cogitare non possit",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "quin ipse pereat; Ergò corpori non potest uniri nisi per",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "suos actus. Quid quòd quæcunque proprietates vel",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "operationes ex mentis cum corpore conjunctione pro-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "ficiscuntur, demonstrantur proximè ex substantiæ cogi-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "tantis & corporis organici mobilis natura? Si verò vel",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "animus aliter quàm quà cogitans corpori, vel corpus ani-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "mo aliter quàm quà mobile uniretur, illum arcanum con-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "junctionis modum proprietates redolerent, quia natura",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "est radix & proprietatum & operationum, quæ rei con-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "veniunt. Tandem eo modo animus est unitus corpori",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "quo à suo corpore tangitur, quandò illud ab alio corpore",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "tangitur, atqui animus à corpore suo non aliter tangitur",
+     "heading": 0
+    }
+   ],
+   "catchword": "quando",
+   "notes": "Right-edge text \"quando\" is a catchword. Faint show-through from the reverse page is ignored. Some letters in the scan are blurred, notably in \"tangitur\" and \"corpore\"; readings of these are probable."
+  },
+  {
+   "n": 28,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: verum"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "quandò illud ab alio corpore tangitur, quàm sentiendo",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "corporis sui tactum, quò ab alio tangitur corpore; Ergò",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "animus corpori suo non aliter est unitus, quàm sensu, quò",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "tactum, quò corpus ab alio corpore tangitur, sentit.",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "XXXIII.",
+     "heading": 1,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "Objicis Primo, ut animus à corpore affici possit eò",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "modò quò dictum est, necesse est animum corpori priùs",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "unitum esse ut ita indè affici possit; Quemadmodùm cor-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "pus à corpore affici nō potest, nisi priùs ei secundùm suam",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "essentiam sit unitum, ut contactus essentiæ præcedat con-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "tactum virtutis. Respondeo, procedit hoc argumen-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "tum ex eo præjudicio, quo putant res inter se revera uniri",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "non posse nisi quomodò corpus unitur corpori; Quod",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "præjudicium nobis inolevit à teneris, quia toto vitæ no-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "stræ curriculo non observavimus alia unionis genera",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "quàm quæ erant corporum; Si verò perpendatur accu-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "ratiùs, quòd animus toto genere distet à corporum con-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "ditione, facile est in eam cogitationem incidere, quâ sta-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "tuitur quòd unio, quæ animum ligat corpori, toto gene-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "re à corporum colligatione distet, quia res non possunt",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "non pro naturæ suæ conditione esse conjunctæ.",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "XXXIV.",
+     "heading": 1,
+     "para": true
+    },
+    {
+     "n": 23,
+     "text": "Objicis Secundo; τὸ operari supponit τὸ esse; Ergò",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 24,
+     "text": "animus in corpore suo operari non posset, nisi ibi priùs",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "esset secundùm suam essentiam. Respondeo 1. Animus",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "suâ naturâ expers est omnis loci; Hic tantùm vel ibi ope-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "rari potest quò casu ipse hic vel ibi esse dicitur, ut priùs",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "alicubi operetur quàm ibi existat; Interim ubicunq; ope-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "rativè est revera etiam ipse ibi est; Quòd τὸ operari sup-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "ponat τὸ esse verum est sensu, quò nihil posse operari quin",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "priùs sit indicatur, falsum verò sensu est quò putatur",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "nihil uspiam operari posset quin ibi priùs res extiterit; Ita",
+     "heading": 0
+    }
+   ],
+   "catchword": "verum",
+   "signature": "D 2"
+  },
+  {
+   "n": 29,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: volun-"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "verum est quòd animus operari non possit quin prius sit,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "falsum verò est quòd nec uspiam operari possit quin prius",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "ibi fuerit. Quòd verò animus suâ natura expers sit omnis",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "loci, patet tum ex eo quia omnis locus efficitur à solis cor-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "poribus; Quomodò ergò animus, qui toto genere à cor-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "poribus differt, suâ natura ullam haberet relationem ad",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "locum? Tum ex eo, quòd animus suimet ipsius contem-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "platione vivere ac subsistere potest, quo casu nullus lo-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "cus, ubi animus subsistat, monstrari potest; Nisi velis,",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "quod absurdum, ipsum animum eo casu esse locum; Tum",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "ex eo quòd animus Metaphysicis dubitationibus, quibus",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "vera Philosophia inchoatur, tentatus dubitat an detur lo-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "cus, quanquam interim non dubitet quin ipse existat, quô",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "dubitandi casu ostenditur quòd animus suâ natura locum",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "exigat nullum; Tum ex eo, quòd corpora à nostro corpo-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "re maximè distantia (nam ab animo nihil distat) animo",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "possunt fieri veré præsentia, quanquàm neque animus ulla",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "peragraverit loca ut corporibus fieret vicinus, neque ipsa",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "corpora nostro corpori propiùs fuerint admota ut animo",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "forent vicina. Tum denique ex eo quòd quicunque locum",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "animo assignant aut fatentur se nescire quomodò sit in",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "loco, aut talia proponunt quæ ab omni sana ratione sunt",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "aliena.",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "XXXV.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 25,
+     "text": "Obijcis Tertio; cùm animus toto genere differat",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 26,
+     "text": "à suo corpore etiam ejus functiones differunt toto gene-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "re à functionibus sui corporis, quomodo ergò animi fun-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "ctiones cum functionibus corporis nexum habere pos-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "sunt, per quem corpori dicatur unitus? Respondeo; Fa-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "teor animi & corporis functiones toto genere inter se di-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "stare; Unde natura eas copulare nequit, sed sola divinæ",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "voluntatis vis eas in unum conjugium redigit. Ad quam",
+     "heading": 0
+    }
+   ],
+   "catchword": "volun-",
+   "notes": "Text ends with a catchword \"volun-\" at the foot right, treated as hyphenated continuation. Marginal numbers and heading \"XXXV.\" were treated as a series heading at level 2. Page contains no margin notes."
+  },
+  {
+   "n": 30,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: tione"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "voluntatem Dei tanquam ad sacram anchoram subinde",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "confugere Philosophus ne erubescat; Qui fit enim ut",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "globus meus, postquam tuum loco pepulit, non æquè ce-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "leriter pergat moveri quàm antè, quanquàm de suo motu",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "tuo nihil dederit, cùm accidens non migret de subjecto",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "in subjectum? Sanè in solvenda quæstione confugien-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "dum est ad voluntatem Dei, dicendo Deum legem natu-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "ræ constituisse, ut corpus, quod alterum loco propellit,",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "de suo motu tantum remittat quantum motûs alterum",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "accepit; Si hujus legis causam aliam quàm Dei volunta-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "tem anquiras in cassum laborabis, quia legum naturæ,",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "cùm sint principia, non alia est explicatio. Et cùm Deus",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "aliarum suarum perfectionum vestigia in creatione &",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "conservatione rerum ostenderit, cur non etiam libertatis",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "suæ? Quæ affinitas inter voces & rerum conceptus? Et",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "tamen sola consuetudine nexum inter se tàm arctum ac-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "quiruntut se mutuò insequantur prompte. Insuper ani-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "mus & corpus suis substantijs inter se non minùs diffe-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "runt quàm suis functionibus; Si proinde qui nobis ad-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "versantur volunt animum & corpus suis substantiis con-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "jungi posse, quare non & functionibus? Qui accidentia",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "realia admittunt non dubitant quin ista accidetia in cor-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "pus agere queant, cùm tamen majus inter utraque, hoc",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "est, inter accidentia & substantiam, quàm inter duas sub-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "stantias sit discrimen; Proinde absurdum ne esto ex va-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "rijs organorum corporeorum motibus varias oriri in ani-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "mo cogitationes, & viciflim ex varijs cogitationibus va-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "rias in corpore excitari motus.",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "XXXVI.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 30,
+     "text": "Non dubito quin qui hæc attentè meditabuntur cir-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 31,
+     "text": "ca unionem animi cum corpore intelligendam difficulta-",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "tes adhuc habeant maximas; Sciant verò quòd medita-",
+     "heading": 0
+    }
+   ],
+   "catchword": "tione",
+   "signature": "D 3"
+  },
+  {
+   "n": 31,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: ea con-"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "tione se faciant ineptos ad unionem hanc cognoscen-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "dam, quia quæ cognoscenda sunt ut unita, eo modo cogno-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "scenda sunt quo cognoscuntur ut unum, ut unitorum diffe-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "rentia confundatur; Ipsa vero unionis animi cum corpore",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "meditatio rerum unitarum tantas protrudit differetias, ut",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "earum diligens inspectio impediat quo minus ut unum co-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "gnosci possint; proinde ad unionem animi cum corpore co-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "gnoscendam ea cogitandi forma utendum est, quæ caret",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "omni attentione, quomodo videmus avium volatum,",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "sylvarum discrimina, hortorum anfractus; Hinc affirmo",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "quod qui meditationibus nunquam vacarunt ad unionem",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "animi cum corpore cognoscendam sint omnium paratis-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "simi; Meditabundi enim attentione, quâ vix ac ne vix",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "quidem superseedere possunt, omnia secant, & animi cum",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "corpore unionem examinaturi naturas potius distinguunt",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "quam confundant: Observando corpus humanum quod",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "sentiat & quod sua voluntate se huc illuc movere possit",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "rite cognoscitur ipsa animi cum corpore unio, quia ani-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "mus & corpus cognoscuntur ea ratione ut unum; Nec",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "solo intellectu ad hanc unionem cognoscendam est uten-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "dum, quia purus intellectus animum cum corpore non",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "confundit, sed potius ab eo distinguit; Neq; imaginatio-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "ne utendum est, quia corpus cum animo etiam non con-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "fundit sed ab eo maxime distinguit. Hinc factum ut No-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "bilissimus Cartesius puro intellectui paucos suæ ætatis",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "dies, imaginationi pauciores horas, reliquum veri sui otij",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "solis dederit sensibus, ut ad quodvis suo modo cognoscen-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "dum habilis foret. Interim fateor quod conjunctio, quâ",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "corpus corpori est unitum, eo accuratius cognoscatur quo",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "attentius unitorum natura perpenditur, quia eo nexu inter",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "se cohærent, quem naturalis eorum conditio requirit; Con-",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "junctio vero, quæ animo cum corpore suo intercedit,",
+     "heading": 0
+    }
+   ],
+   "catchword": "ea con-",
+   "notes": "Lower-right corner shows a catchword \"ea con-\". Text is a single column; no marginal notes. Some words in the scan are faint (e.g., \"superseedere\", \"differetias\") and were copied as printed or best read."
+  },
+  {
+   "n": 32,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: pedi"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "ea conjungit quæ conjungi suâ natura repugnant, ut qui",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "unita attentè consideratʼ non conjunctionem sed con-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "jungi repugnantiam deprehendat.",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "XXXVII.",
+     "heading": 1,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "Objicis <i>Quarto;</i> Unio animi cum corpore est ar-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "ctissima unio, quæ proindè sola virtutis activæ & passivæ",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "cooperatione non potest absolvi. Respondeo; Coope-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "ratio virtutis activæ & passivæ, quæ inter animum & cor-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "pus facit vinculum, quò ligantur, arctissimum. 1. Quia",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "eôpse momento, quò animus agit vel corpus, vel corpus",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "vel animus afficitur; Sic eodem ipsò momento, quo cor-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "pus vulneratur, animus inde afficitur; Eôpse etiam mo-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "mentò, quò pedi motum animus imperat, movetur pes. 2.",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "Quia neq; animus in corpus neq; corpus in animum agit",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "quin vice versa vel in animum vel corpus agatur; Ita a-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "nimus pedibus motum imperare non potest quin animus",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "eô ipsò momento inde ita afficiaturur motum sentiat. 3.",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "Animus à corpore & vicissim corpus ab animo nõ uno, sed",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "pluribus quàm dici potest, modis afficitur, qui cùm sint to-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "tidem contactus, manifestũ est quòd animus corpori & vi-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "cissim animo corpus multò arctiùs uniatur quàm corpus",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "corpori adunari possit, quia quantumvis arctè corpus con-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "jungatur corpori tamen extremis tantùm partibus perfici-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "tur conjunctio, cùm corporum penetratio fieri non possit.",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "4. Quia ipso corpore benè vel malè affectò, etiam ipse ani-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "mus benè vel malè inde habet, quæ compassio non ni-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "si inter amicos arctissimè conjunctos contingere potest;",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "Sic læsò capite læditur & animus non quidem vulnere",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "sed dolore. 5. Quia corporis commoda vel incommo-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "da sentit animus tanquàm sua ipsius; Sic animus pedis",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "læsionem tanquàm suam ipsius læsionem sentit; Inde",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "factum ut communiter sensum parti vulneratæ, hoc est,",
+     "heading": 0
+    }
+   ],
+   "catchword": "pedi",
+   "notes": "The chapter numeral and the catchword \"pedi\" are printed in a larger, heavier fashion; the final word \"pedi\" at the foot is the catchword. Some letters are faint due to show-through."
+  },
+  {
+   "n": 33,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "pedi tribuerint; Unde illa nomina & phrases, Cephalal-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "gia, Odontalgia, Cardialgia, doleo pedibus, &c. 6. Quia sen-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "suum perceptiones, quibus animus animadvertit motus in",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "corpore factos, sunt ita obscurae, ut motus non ut motus",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "percipiatur, verum ut aliud quid, quod quale sit nescimus;",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "Quae confuse percipiendi ratio animum cum corpore",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "confundit, quia animus se solo utens distincte percipit",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "quaecunque percipit.",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "XXXVIII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 10,
+     "text": "Objicis Quinto; Animus meditationi rerum sub-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 11,
+     "text": "limium admodum intentus, negligit suum corpus nec",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "observat ea quae corpus afficiunt; Ergo durante tam pro-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "funda meditatione animus erit a corpore separatus. Re-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "spondeo animus a corpore eo casu revera est seperatus;",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "Unde patet cur Plato Philosophiam mortis meditatio-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "nem appellaverit; Quanto enim profundius ac diutius",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "philosophamur, tanto magis animum a corpore abstra-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "himus, sentire atque ab externis affici desuescimus, & gra-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "tae contemplationi indulgentes, pedum frigus sedentes,",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "cibi saporem comedentes, assidentium gestus & voces",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "oculis atque auribus instructi ac praesentes quandoque",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "non percipimus; Nec inde sequitur Ecstaticos & Epile-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "pticos desinere esse homines; <i>Tum</i> quia Apostolus Pau-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "lus quanquam Epistola posteriore ad Corinth. duodeci-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "mo dubitet an animus suus revera a corpore fuerit sepa-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "ratus non tamen dubitat sibi homini raptum illu contigis-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "se; <i>Tum</i> quia homo definit esse homo quando corpus",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "ita vitiatur ut suo modo movere & moveri amplius ne-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "queat, ita enim fit ut animus animum ad suum corpus",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "revertendi abjiciat; Quamdiu autem animus reverten-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "di manet, homo non definit esse homo; Quemadmo-",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "dum",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "dum",
+     "heading": 0
+    }
+   ],
+   "notes": "Catchword-like word \"dum\" stands at the lower right after the last line; recorded as a continuation line. Several words are uncertain in the small type, e.g. \"illu\" (illū) and \"seperatus\". Page is a scan with no visible page number."
+  },
+  {
+   "n": 34,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: test;"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "dùm lampas non putatur extincta quantisper flammula",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "subindè recurrens non nihil olei iambendo pergit absu-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "mere; Columbæ & apes ex consuetudine abire, & re-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "dire solent, ex jurisconsultorum sententia eousq; nostræ",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "manent donec animum revertendi habent.",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "XXXIX.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "Obijcis <i>Sextο</i>; Act. 20. de Eutycho jam mortuo",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 8,
+     "text": "Apostolus Paulus ait, <i>ne turbemini, anima enim ipsius in ipso</i>",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "<i>est</i>, Ergo anima in corpore suo aliam etiam præsentiam ha-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "bet quàm quæ sit tantùm activæ & passivæ virtutis; Nam in",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "Eutycho activæ & passivæ virtutis operatio cessabat cùm",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "fuerit mortuus, & tamē anima in ipso adhuc dicitur fuisse.",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "Resp. Apostolus his verbis, <i>anima enim ipsius in ipso est</i>, non",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "vult indicare ab ipso corpore Eutychi animam non reces-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "sisse, sic enim miraculum Apostolus negaret quò mortuus",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "in vitam fuit revocatus; Verba enim Apostoli continent",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "consolationem quâ auditorum Eutychi inopinâ morte",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "consternatorum animos refocillare studet; Consolatio-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "nem autem, sensu objectionis stante, continere non pos-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "sunt quin aperte negent miraculum. Explicari autem",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "commodè possunt dicendo quòd Apostolus ea pronuntia-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "verit aut in ipso editi miraculi momento, aut quòd de re",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "mox secuturâ certissimus esset.",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "XL.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 25,
+     "text": "Quæris ubi Eutychi animus fuerit postquàm è cor-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 26,
+     "text": "pore excesserat? Resp. erat ubi cogitabat; ut si res de qui-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "bus cogitabat nuspiàm fuerunt, nec animus Eutychi usp-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "iàm fuerit, quomodò animus nuspiàm est quando sola",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "suiipsius contemplatione vivit; Si verò res, quibus cogi-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "tandis animus occupabatur, alicubi fuerunt, ibidem ani-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "mus Eutychi erat, quia animus pro naturæ suæ conditione",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "rebus aliter vicinus, quàm de ijs cogitando, esse non po-",
+     "heading": 0
+    }
+   ],
+   "catchword": "test;",
+   "signature": "E",
+   "notes": "Page has a printed signature \"E\" at the foot; catchword \"test;\" taken from the last line. Some ink show-through from the reverse side is ignored. Headings XXXIX and XL are centred Roman numerals set apart from the text, given level 2."
+  },
+  {
+   "n": 35,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: tango;"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "teft; Et quæ animo, quatenus est cogitans, sunt præsentia",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "ea ipsi revera sunt præsentia, quippe animus nihil aliud",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "est quàm substantia cogitans; Quomodo enim quicquam",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "animo potest esse vicinum nisi de eo cogitet? Appone",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "homini quicquid velis, nisi de eo cogitet, animo prope",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "admotum dici non potest; Contra remove ab homine",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "quicquid velis quamdiu de eo animus cogitare non cessat",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "ei adhuc est revera præsens. Deinde animus trahit res in",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "suam viciniam, quas extra se habet, per solas ideas, quas",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "de ijs format; atqui animus rerum ideas habens est de re-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "bus cogitans; Ergo res animo non fiunt propinquæ nisi",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "quatenus ei cogitanti obversantur. Præterea si animus",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "per somnium videt sibi coronam regiam contigisse cum",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "applausu totius populi lætatur impendiò; An animus, si",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "in multos annos tale somnium duraret, tantò tempore",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "non æquè foret felix ac ille cujus capiti revera corona im-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "ponitur? Proinde concludendum animo per somnium",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "non minùs, verè propinquas fieri res ac quandò vigilat;",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "Atqui somnium quid est nisi cogitatio?",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "XLI.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 21,
+     "text": "Causa cur putant animo res viciniores fieri posse",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 22,
+     "text": "quàm per solas cogitationes, est quia hoc præjudicio la-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "borant ferè omnes, animo nihil posse esse præsens, nisi",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "corpori sit prius præsens, ita putant coronam regiam non",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "esse verè præsentem nisi capiti reapse imponatur, à manu",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "aut pede tangatur, aut ipsos moveat oculos, perperàm",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "præsentiam corporis cum præsentia animi confundentes;",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "Quidquid corpori præsens est, idmenti plerumq; est præ-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "sens, sed quomodò corpori? quia ab eo tägitur; Quomo-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "dò menti? Quia de eo cogitat, e.g. hæc ipsa mensa cui",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "nunc assideo, præsens est corpori, quia illam cubito utroq;",
+     "heading": 0
+    }
+   ],
+   "catchword": "tango;",
+   "notes": "Marginal word \"tango;\" at the lower right is a catchword-like or margin note fragment; the heading \"XLI.\" is set in spaced capitals. Some letters are blurred by stains and show-through near the top right and centre; readings there are best effort."
+  },
+  {
+   "n": 36,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "tango; Animo etiam est præsens, quatenus mihi videor",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "videre vel tangere mensam, id quod est de mensa co-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "gitare.",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "XLII.",
+     "heading": 1,
+     "caput": "42",
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "Objicis Septimo; Epist: posteriore ad Corinth.12.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "Apostolus Paulus facta narratione revelationis rerum",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "Cœlestium sibi factæ ait se nescire an in corpore an extra",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "corpus sibi tàm gloriosa contigerit manifestatio; Ergo",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "Apostolus dubitans an in corpore ea sibi facta fuerit re-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "velatio præsupponit animum rebus sublimibus intentissi-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "mum esse posse absq; recessu ex corpore; Idque locum",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "habet sive per phrasin, an in corpore, Apostolus dubi-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "tet an in corpore in cœlum translato sive an in corpore",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "terris affixo sibi arcanorum divinorum revelatio con-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "tigerit. Respondeo, primò Verba Apostoli in hoc lo-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "co veritati præjudicare non possunt, sunt enim pro-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "secta ex principijs, quibus Apostolus vel à præcepto-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "ribus vel ab aliis fuit imbutus, sunt verba cum ignorantiæ",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "non scientiæ professione. secundò; Verba Apostoli appri-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "mè nobis inserviunt, utrovis sensu phrasis an in corpore",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "sumatur; Quia Apostolus dubitans an animus ecstaticus",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "an reapse in cœlum translatus tantâ fuerit fruitus gloriâ,",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "evidenter concludendum præbet gloriam cœlestem ani-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "mo per cogitationes revera posse manifestari, quia gloriâ",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "cœli animus ecstaticus frui non potest nisi per cogitatio-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "nes; Animus verò in cœlum translatus gloriâ fruitur",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "reapse; Ergò Apostolus dubitare non potuisset an animus",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "ecstaticus an in cœlum translatus tantâ fuisset fruitus glo-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "riâ nisi præsupponeret ecstatico manifestari gloriam cœli",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "posse eâ ratione ut animus nesciat an sibi per ecstasin an",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "verò per translationem in cœlum tanta obtigerit gloria;",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "Id quod est gloriam cœli verè manifestari.",
+     "heading": 0
+    }
+   ],
+   "catchword": "XLIII. Obijcis",
+   "signature": "E 2",
+   "notes": "Marginal reference mark \"{a}\" after \"corpore\" is a small pointing mark, not a note. Catchword and signature are at the foot. Possible printing irregularities: \"an in corpore\" in the phrase \"an!in corpore\" appears with a stray mark."
+  },
+  {
+   "n": 37,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: feat"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "XLIII.",
+     "heading": 1,
+     "caput": "43",
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "Objicis Octavo; Lucæ 16. legimus quòd Lazari",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "animus ab Angelis fuit in sinum Abrahæ asportatus; Ergò",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "animus mutare potest loca ut modò hîc modò sit ibi non",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "tantùm operative sed etiam quoad situm; Id enim quod",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "transfit de loco in locum motu locali situm admittit: pro-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "inde absurdum non est animi u in suo corpore habere suum",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "situm. Resp. I. Absurdum est animo tribuere motum.",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "1. Quia si animus è corpore suo recedit exibit vel per",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 10,
+     "text": "aures vel per oculos vel per os. Atqui nulla est causa cur",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "per unam corporis partem potiùs exeat quàm per aliam.",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "Ergò per nullam exit. 2. Scire vellem quò motu ex cor-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "pore exeat versus cœlum an motu spirali? Si motu spi-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "rali imitabitur volatum avium quæ hoc motu sursùm",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "tolluntur facilius quàm quòvis aliò; Si motu rectò, id",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "fiet ut compendiò utatur, ad lineam autem rectam, quæ",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "tantæ longitudinis, ducendam dexteritate mathemati-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "ca majore opus est quàm in hac vita obtineri possit. 3.",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "Quantumvis velox fuerit motus, quò animus migrare di-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "citur in cœlum, patietur tamen aliquid moræ in eme-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "tienda via, tùm quia omnis motus est successivus, tùm",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "quia viæ longitudo est maxima; Sic animus tantò itine-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "re utens neq; est in terra neq; in cœlis sed in loco interme-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "dio; Id quod purgatorio non parùm patrocinatur; Si ani-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "mo velis gloriæ lumen affundi eôpse momentò quò cor-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "pus egreditur ut cœlitibus jam annumerari possit, nostræ",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "causæ litas, sic enim animus migrationibus quærere glo-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "riam opus non habet. 4. Quid illa migratio juvat cùm",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "animus fieri gloriosus non possit nisi gloriosis cogitatio-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "nibus? Ejusmodi autem cogitationum plenè particeps",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "esse potest, quanquàm migrationes de loco in locum non",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "instituat, 5. Stulta opinio quòd animus in cœlum transfeat",
+     "heading": 0
+    }
+   ],
+   "catchword": "feat",
+   "notes": "Catchword \"feat\" at lower right is partly obscured; read as \"feat\". Page number and running head not printed. Some words in the lower lines are faint."
+  },
+  {
+   "n": 38,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: in"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "feat instar viatoris causam dedit consuetudini mulierculi-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "larum qua fenestras aperiunt, ut animus e corpore hu-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "mano recedens liberius obstacula pervadere possit; Et",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "quanquam doctiores respondeant animum penetrare",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "corpora ut necesse non sit aperire fenestram tamen intel-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "lectu non assequuntur quae dicunt, sc. quomodo substan-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "tia motu suo penetrare substantiam possit. 6. Scire",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "etiam velim an animus seipsum moveat an moveatur ab",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "alio? Si prius cur non subinde ex corpore exspatiatur im-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "primis quando corpus aegrotat? Si posterius, quid illud",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "fit a quo animus impelli possit nemo hominum intelli-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "git. 7. Insuper motus concessus est rebus ut remotis",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "possint fieri vicinae; Atqui animus absq; motu locali re-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "bus fit vicinus; Ergo nullus usus motus. II. Ex loco",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "allegato Lucae definire non est animi naturam; Tum quia",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "ibi parabolica continetur recitatio, quae non nisi ex fine",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "est argumentativa, finis autem parabolae non est animi",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "a corpore separati enodare naturam; Sed indicare quod",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "bonis post hanc vitam bene, malis male fit futurum, &",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "quod horum & illorum status inter se permutari nun-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "quam patientur; Tum quia animabus separatis oculos,",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "digitos, linguam, sitim & colloquia locus tribuit, quae",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "animabus separatis convenire non possunt. III. Aspor-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "tatio animi Lazari in sinum Abrahae facta ab Angelis est",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "metaphorica, quemadmodum sinus Abrahae sensum me-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "taphoricum habet, ut sensus fit quod anima Lazari in lae-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "titiae coelestis usum cum Abrahamo communem deve-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "nerit; Haec transportatio dicitur facta ab Angelis itidem",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "figurate, quia nec animus portari, nec Angeli portare",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "possunt, cum onera portentur humeris, capiti vel pecto-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "ri imposita; Sed Angeli asportarunt animum Lazari",
+     "heading": 0
+    }
+   ],
+   "catchword": "in",
+   "signature": "E 3",
+   "notes": "Page is a printed text page; a few words are in italics (Tum) and the text is partly faded. Some words such as \"substantiam\" and \"possit\" in the sixth paragraph are read with [?] uncertainty where the scan is faded: \"possit\" may be \"poffit\" as printed. Printed \"fubftan-\" and \"substantia\" words read as printed. No page number or running head visible."
+  },
+  {
+   "n": 39,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: res,"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "in finum Abrahæ quandò animam Lazari folenni jubilo",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "in gloriæ communionem adoptárunt, Luc: 15. verf. 10.",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "XLIV.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "Quanquàm animo res, de quibus cogitat, revera sint",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "præsentes, aliæ tamen magis quàm aliæ; Quò enim plu-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "ribus cogitationibus circa res animus versatur eò sunt ei",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "præsentiores; Sic res, quam animus non tantùm cogno-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "scit sed etiam amat, præsentior est animo quàm quæ ab",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "ipso duntaxat cognoscitur; Arctior autem animi cum re-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "bus conjunctio non datur quàm quâ animus corpus sibi",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "unit; Quia res, de quibus animus cogitat, quâ ratio-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "ne cunq; mutentur; mutationem tamen animo nullam",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "inferunt, nec vice versâ; Animi autem cum corpore",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "colligatio hoc habet ut corpore variationem patiente",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "patiatur & animus & vice versâ; Ubi in agendo & pa-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "tiendo mutuus concursus haud dubiè animum cum cor-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "pore multò arctiùs copulat quàm cogitans cum re cogi-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "tata copuletur.",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "XLV.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 20,
+     "text": "Ex superioribus ergò liquet animum toti corpori &",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 21,
+     "text": "singulis ejus partibus esse conjunctum, tùm quia animus",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "& toti corpori & singulis ejus partibus seorsim motum",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "imperare potest, tùm quia & à toto corpore & à singulis",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "ejus partibus seorsim affici animus solet; Quemadmo-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "dùm enim animus toti corpori imperat ut ad sessionem",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "sese componat, aut oculis seorsim ut Soli sese obvertant;",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "Sic animus non à sola totius corporis sessione, sed etiam",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "seorsim ab oculorum motu affici potest.",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "XLVI.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 30,
+     "text": "Interim animus præcipuè conjunctus est glandulæ",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 31,
+     "text": "pineali; Quia quanquàm nobis sint duo oculi, duæ au-",
+     "heading": 0
+    }
+   ],
+   "catchword": "res,",
+   "notes": "Catchword/signature: none visible. Last line continues on next page (\"res,\" as printed at right margin of the last line). Some words in the scan are faint; \"pineali\" and \"seorsim\" readings are as printed."
+  },
+  {
+   "n": 40,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "res, duæ manus, atq; ita duplciia sint externorum sensuum",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "organa, quemadmodum & partes cerebri omnes gemi-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "næ, sensus tamen unius cujusque rei unô tempore tan-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "tùm est unus; Necesse enim est existere locum aliquem,",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "in quo duæ impressiones per duplicia sensuum organa",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "ab unico venientes objecto rursus in unum coëant an-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "tequàm perveniant ad animam, ne ipsi loco unius ob-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "je-cti duo objecta repræsentent; Nullus verò in toto",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "corpore humano locus invenitur ubi ejusmodi coitio fie-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "ri possit nisi in cerebri meditullio ubi glandula est pi-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "nealis; Sicuti enim è colo fila hûç illûc trahuntur â ne-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "trice, ita è cerebro nervi, sensuum proxima organa, in",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "omnes partes corporis nostri protenduntur. Nec putan-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "dum est quòd in glandula pineali situm animus habeat,",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "sed in ea proximè atq; immediatè suas functiones exer-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "cet agendo & patiendo, motus scil. corporis alios impe-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "rando alias sentiendo; Unô verbô, animo proxima se-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "des est in glandula pineali non situs sed functionum ra-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "tione; Proindè quandò pes dicitur dolere, dolor non in",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "pede sed cerebri est meditullio, dolor enim pedis est sen-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "satio quâ animus in cerebri meditullio per nervorû ad pe-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "dem protensorum beneficium obscurè sentit lesionem pe-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "dis tanquàm suam & in pede existentem.",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "XLVII.",
+     "heading": 1,
+     "para": true
+    },
+    {
+     "n": 25,
+     "text": "Ut extra oleas vagentur qui quærunt an anima sit in",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 26,
+     "text": "tota glandula an in parte ejus? Quia animus, cùm non",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "situs sed functionum ratione in glandula esse dicatur,",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "neq; cum totius glandulæ neq; cum partis occupatione",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "in glandula est; Mirum est quòd adversarij quodvis in",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "cerebro punctum potiùs animo esse sedem voluntquàm",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "glandulam pinealem, omni ratione destituti; Absur-dita-",
+     "heading": 0
+    }
+   ],
+   "catchword": "dita-"
+  },
+  {
+   "n": 41,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "surditatem suæ produnt opinionis, <i>tum</i> quòd",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "animo se designare sedem opinantes nullam designant, <i>tum</i>",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "quòd puncta à corporum communione, quanquàm ex",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "illis omnia constent corpora, excludere coguntur metuentes",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "ne puncta corporibus accensendo dimensionem",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "animi sedes habeat; Discant nullas inter corpus & spiritum",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "medias dari substantias.",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "§ ornamental rule",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 9,
+     "text": "I.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 10,
+     "text": "Ornatissimo atq; Doctissimo Dn. Defendenti.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 11,
+     "text": "<i>Dulcia non meruit, qui non gustavit amara:</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 12,
+     "text": "<i>Sic Tibi sudanti jam dulcia præmia confert</i>",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "<i>Musa; Dies noctesq; sonant, en! digna merenti!</i>",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "<i>Junxisti studiis animum, quem æquabit Olympo</i>",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "<i>Laude Minerva.</i>",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "Indissolubilis amicitiæ tesseram, scripsit Musâ & Apolline",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 17,
+     "text": "nullo, <i>Joh. Casp. Seelmatter.</i>",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "§ ornamental rule",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 19,
+     "text": "II.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 20,
+     "text": "<i>Acclamatio Annagrammatico echica</i>",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 21,
+     "text": "CORNELIUS HENTZIUS.",
+     "heading": 2
+    },
+    {
+     "n": 22,
+     "text": "Ἀναγραμματισμὸς. VIRTUS ZELO HISCENS.",
+     "heading": 2
+    },
+    {
+     "n": 23,
+     "text": "ECho responde dulces quem quæro Camenæ?",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 24,
+     "text": "Mene rogas? Respondebis qua Mente? Libente;",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "Nonne sacri Suadæ Tripodes hunc Edocuere?",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "Vere; Virtutis raræ num Zelj glíscit Amore?",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "More; sed hinc quæso dic quanta feret Bona?",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "Dona. Multane dona Feret? Meret; en in nomine Zelum? Coe-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "lum? Nam novit cœli perrumpere Fores.",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "O Res! Vox resonans nunc plura Tacebo; Valebo.",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "<i>In symbolum æternum duraturæ fraternitatis appositi</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 32,
+     "text": "Joh. Rodolphus Salchlinus.",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "notes": "Ornamental rules and the Greek anagram line are reproduced as best legible; the Greek line is transcribed as read. Some letters in the Latin acclamation are uncertain due to print wear. The verse lines have been set as one paragraph where the printed lines were run together, and the initial D and E are large drop capitals."
+  }
+ ]
+}
