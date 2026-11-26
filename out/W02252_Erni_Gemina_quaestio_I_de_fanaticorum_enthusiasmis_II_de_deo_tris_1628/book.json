@@ -1,0 +1,1282 @@
+{
+ "source": "W02252_Erni_Gemina_quaestio_I_de_fanaticorum_enthusiasmis_II_de_deo_tris_1628.pdf",
+ "pages": [
+  {
+   "n": 1,
+   "type": "empty",
+   "model": "claude-haiku-5-5",
+   "notes": "Digitiser's cover sheet, not a printed page of the book. The logo, title block, shelf mark, persistent link, usage notes and Visual Library logo are all the digitiser's own material and are left out as page furniture. No printed text of the book appears on this scan."
+  },
+  {
+   "n": 2,
+   "type": "title",
+   "model": "claude-haiku-5-5",
+   "number": "2j",
+   "lines": [
+    {
+     "n": null,
+     "text": "GEMINA",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "QVAESTIO.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "I. De fanaticorum enthusiasmis.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "II. De DEO τριουνωσαλω.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "De quibus,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Gratia Iehovae adspirante,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Habebitur disputatio publica, adversus Anabaptistarum deliria: ad diem 22. Octobris horâ locóque consuetis.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "PRAESIDE",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "HENRICO ERNIO S. S. THEOLOgiae, in Schola Tigurina, Professore, disputabit",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "IOAN. BERNHARDUS FRISIUS, gregis Christi apud Kusnachtenses Pastor:",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Assumentis partes sustinente",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "GEORGIO MYLLERO S. THEOlogiae studioso.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Ignatius ad Philad.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Vnus est ingenitus Deus, Pater: unus genitus Filius, Deus Verbum & homor & unus Paracletus, Spiritus veritatis.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "TIGVRI.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Typis IOHAN. IACOBI BODMERI.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Anno M. DC. XXVIII.",
+     "heading": 0
+    }
+   ],
+   "notes": "Greek word \"τριουνωσαλω\" in the title line is a rendering of the printed Greek (τριῶν ἕνωσις-like form); copied as seen, uncertain. Line \"Vnus est ... homor\" reads \"homor\" as printed, possibly \"honor\" with a damaged letter. Handwritten \"2j\" and the ink mark at top right are not printed text."
+  },
+  {
+   "n": 3,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "IRENAEVS MARTYR adversus haereses lib. 1. cap. 2.",
+     "heading": 1,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "Ecclesia, inquit, per universum orbem usque ad fines terrae seminata, & ab Apostolis, & a discipulis eorum accepit eam fidem, quae est in unum Deum, Patrem omnipotentem, qui fecit coelum & terram, mare & omnia, quae in eis sunt; & in unum Iesum Christum, filium Dei, incarnatum pro nostra salute; & in Spiritum sanctum.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "ATHENAGORAS IN APOLOGIA ad Antonin. Imp.",
+     "heading": 1,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "Quis non miretur, si atheos nos vocari audiat, qui dicimus Deum Patrem & Filium Deum, & Spiritum Sanctum, illorum & in unione virtutem, & in ordine distinctionem demonstrantes?",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "CLEMENS ALEXANDRINUS lib. 3. Paedagog.",
+     "heading": 1,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "Laudemus unum Patrem & Filium, una cum Spiritu Sancto, qui unus est omnia, in quo omnia, qui est undiquaque bonus, undiquaque pulcher, undiquaque sapiens, undiquaque iustus, cui gloria nunc, & in secula.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "Ἡ μὲν γὰρ ἐκκλησία, καὶ ποὺ καὶ ὅλης τῆς οἰκουμένης ἕως περάτων τῆς γῆς, πίστιν ἔλαβεν παρὰ τῶν ἀποστόλων καὶ τῶν ἐκείνων μαθητῶν τὴν εἰς ἕνα θεὸν πατέρα τὸν πεποιηκότα τὸν οὐρανὸν καὶ τὴν γῆν, καὶ τὰς θαλάσσας, καὶ πάντα τὰ ἐν αὐτοῖς· εἰς ἕνα Χριστὸν Ἰησοῦν, τὸν υἱὸν τοῦ θεοῦ, τὸν σαρκωθέντα εἰς τὴν ἡμετέραν σωτηρίαν· καὶ εἰς πνεῦμα ἅγιον.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 8,
+     "text": "Iren. lib. 1. cap. 2. Vide etc. p. 34.",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "marginalia": [
+    {
+     "side": "left",
+     "at": "Ecclesia, inquit, per",
+     "line_from": 2,
+     "line_to": 2,
+     "text": "Ex edit. veteri Latina, p. 35. ea Gallasij"
+    }
+   ],
+   "notes": "Handwritten marginal notes in the left margin (Ex edit. veteri Latina, p. 35. ea Gallasij) and a handwritten interlinear word \"enim\" above the first line. The Greek passage is handwritten and partly hard to read; the final reference line is partly illegible. Show-through from the reverse page is ignored."
+  },
+  {
+   "n": 4,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "number": "50",
+   "warnings": [
+    {
+     "type": "merged_lines",
+     "text": "1 line(s) contain several printed lines merged together (longest 221 chars, median 9); line numbering is unreliable"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "I. QVAESTIO.",
+     "heading": 1,
+     "caput": "1",
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "An praeter scriptum Dei Verbum, Ecclesia peculiaribus opus habeat revelationibus, nec ne?",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "Qvum hodie, ut & olim, in Ecclesia Christi multi deprehendantur homines fanatici & phantasti, qui suâ se sanctimoniâ titillantes sibi persuadent, se in tertium usque coelum evehi, ibique cum divino Paulo videre & audire, <i>ἀπόρρητα</i>: immo quos & <i>ἀναμάρτητος</i> jactare se nihil pudet, & quiptissimam, licet sanctissimam carnem Christi in impurissimis suis corporibus circumferre gloriantur, ad Gnosticorum sceleratissimam foeditatem, quàm proximè accedentes: de illorum insolentissimis maximeq; impijs phantasmatis, visionibus, imaginationibus & somnijs, quae ipsi sibi fingunt, agere fert animus, ad praemonendos omnes pio zelo ardentes doctores & pastores, ut gregem suum studiosé & solicitè attendentes sibi eiq; à talibus lupis, cum ovium vestimentis obrepentibus, caveȧnt, nè quid damni accipere aut dare videantur.",
+     "heading": 0,
+     "para": true,
+     "merged": true
+    },
+    {
+     "n": 4,
+     "text": "THESIS I.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "<i>Quaestionis istius affirmativa probatur Anabaptistis: Ecclesiam nempe etiam nunc hodie peculiaribus opus habere revelationibus.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "II.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "<i>Hinc Thomas Munzerus, qui in Anabaptistarum coryphaeis</i>",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "catchword": "ryphaeis",
+   "signature": "A 2",
+   "notes": "Show-through from the reverse page is present in faint text throughout and was omitted. The marginal reference marks \"3\" and \"13\" in the body text are not accompanied by legible notes on this page. The Greek words are transcribed as best read. The line \"clā-\" at the foot left is a catchword-like fragment and was not transcribed as text."
+  },
+  {
+   "n": 5,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "merged_lines",
+     "text": "1 line(s) contain several printed lines merged together (longest 242 chars, median 7); line numbering is unreliable"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "ryphæis & ducibus est, asserere non veretur, Scripturam V. & N. Testamenti, non esse verum Dei Verbum, sed illud intus esse quærendum; intelligens nimirum internas revelationes, quas jactitare consueverunt, sicut refert Tolsanus in Thesi-bus <i>MSS.</i>",
+     "heading": 0,
+     "merged": true
+    },
+    {
+     "n": 2,
+     "text": "III.",
+     "heading": 1,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "<i>Ejusdem farinæ est</i> Nicolaus Stork, <i>Munzeri præcep-tor, prædicans á Deo per somnia sibi ostendi & aperiri quæ vel-let. Idem affirmabat ad se venisse Angelum, qui renunciasset ipsum in thronum Gabrielis Archangeli evectum iri. Qua voce judicabat sibi promissum esse imperium orbis terrarum, cun-ctis Regibus, Principibus & Magistratibus totius mundi de-letis: quin & fidenter edicebat, sanctos & electos, impiis exstin-ctis omnibus in hoc mundo rerum esse potituros. Teste</i> Ioanne Gastio Brisacense, <i>in lib. de Anabapt. pag. 247.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "IV.",
+     "heading": 1,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "<i>Anno 1535. Amsterodamiin Batavia, confluxerunt viri septem & mulieres quinque, sectæ Anabaptisticæ addicti: In quibus unus, cui nomen</i> Theodorico, <i>collapsus humi & in longum porrectus simulat esse seraptum extra se, & somno solutus enthusiastico, præmissa exhortatione ad preces habendas, ex-ponit, se ad majestatis divinæ, ut & infernalium omnium con-templationem abreptum fuisse, & diem extremum præ foribus esse, cognovisse. Mox vestibus omnino denudatus jubet reli-quos suum exemplum imitari. Oportet, inquit, filios Dei exuere & abjicere quicquid é terra factum est: Et cum veritas nuda sit, ejus assectatores decet esse nudos. Hinc Adamitæ isti eâ pu-dore quám vestimentis spoliati, nudi cum nudis, in plateas pro-rumpunt, horribili voce clamitantes: Væ, væ, væ! divina vin-dicta! dies Domini adest! agite pœnitentiam. Insolentissimis cla-</i>",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "catchword": "clam-",
+   "notes": "Show-through from the reverse page is present and ignored. Marginal notes: none. The Greek and Latin text is otherwise legible; the last line is partly obscured by show-through."
+  },
+  {
+   "n": 6,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "number": "VII",
+   "warnings": [
+    {
+     "type": "merged_lines",
+     "text": "1 line(s) contain several printed lines merged together (longest 438 chars, median 7); line numbering is unreliable"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "clamoribus & ululatibus perterriti cives passim ad arma concurrunt, verentes ne per insidias urbs occuparetur: furiosos istos prehensos ad capitis supplicium rapiunt. Ad quod cum ducerentur, primus clamabat intenta voce: semper laudate Dominum: secundus; vindica sanguinem tuorum, Domine: tertius; aperite oculos: quartus; væ, væ, fœminis! Interim vestes oblatas, quibus tegerentur, repudiabant, veritatem nudam esse oportere distitantes.",
+     "heading": 0,
+     "merged": true
+    },
+    {
+     "n": 2,
+     "text": "V.",
+     "heading": 1,
+     "caput": "5",
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "<i>Somniârunt etiam nonnulli, ut testis est VVigandus; animas conspexisse se in purgatorio sellis ignitis insidentes, & raptos esse se in cœlum, ubi majestatem Dei fuerint intuiti.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "VI.",
+     "heading": 1,
+     "caput": "6",
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "<i>Istorum societatem insinuant se Libertini, qui neglecta feré externa Verbi prædicatione, & sacris contemptis congressibus, immediatam à Deo præstolantur institutionem. Hucetiam facit nugigerulus ille</i> Plaustrarius, <i>qui tota plaustra nugamentis plena vendidit, eáque non nemini arriserunt, ita ut luce digna judicârit. Istorum amicitiam colit ò Sæva, qui Pharisaico tumore suis q, somniis inflatus se peccati scelerisq; purum fingit; interim tamen in iis est, de quibus</i> 2. Pet. 2. v. 10. <i>qui dominatum despiciunt, qui audaces sunt, & sibi placent, nec horrent dignitates convicijs incessere. In eorum insuper censu est, de quibus Apostolus</i> Act. 20. v. 29. <i>Ego enim hoc novi, inquit, post discessum meum, lupos graves, non parcentes gregi, ingressuros esse in vos.</i> v. 30. <i>Et ex vobis ipsis exorituros, qui loquantur perversa, ut discipulos post se abstrahant.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "Jacobus Ammanus Tasswylensis, chiurgus oreivis Tiguvinus.",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "signature": "A 3",
+   "notes": "Handwritten marginal note in red-brown ink at right (\"Jacobus Ammanus Tasswylensis, chirurgus ... Tiguvinus\") and handwritten page number \"51\" at top right are not printed; the note is given as a foot paragraph only for reference, its reading is uncertain. Italic and roman mixed text transcribed as shown; the reading \"Sæva\" and \"suis q;\" are doubtful."
+  },
+  {
+   "n": 7,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "merged_lines",
+     "text": "3 line(s) contain several printed lines merged together (longest 863 chars, median 5); line numbering is unreliable"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "VII.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "Hac opinionum vanitate & visionum futilitate, transeunt in Scholam Pepuzianorum & Enthusiastarum, qui divinos raptus & afflatus iactitare soliti fuerant. De quibus Theodoritus, Histor. Eccl. 4.",
+     "heading": 0,
+     "para": true,
+     "merged": true
+    },
+    {
+     "n": 3,
+     "text": "VIII.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "At vero ut ecstatici somniatores isti, faciliùs simpliciores circumscribant, suis deliramentis aliqua rationum specie fucum addere moliuntur, Ex Epist. 1. ad Thess. cap. 4. v. 9. Nos, aiunt, in novo Testamento esse Θεοδιδάκτους [?], & proinde somniis eiusmodi, visionibus & enthusiasmis locum esse relinquendum.",
+     "heading": 0,
+     "para": true,
+     "merged": true
+    },
+    {
+     "n": 5,
+     "text": "IX.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "Miseri isti homuli non sentiunt se consequentiam extorquere contra mentem Apostoli, qui loco adducto agit de fraterna dilectione, negans ad eam ulla opus esse exhortatione, quia sunt Thessalonicenses eam rem jam abunde docti á Deo. Cur igitur latiùs æquo dictū illud Paulinum extendunt, atque adeò simpliciter accipiunt, quod κατά τι positum est? Imò voci Θεοδιδάκτος mentem á re alienissimam affingunt. Etenim notat eum qui inter ventu lectionis, vel auditionis & meditationis Verbi Dei scripti á Sp. S. docetur intus, illustratur, fide donatur, & trahitur, sicut Lydia, Act. 16. 14. eum verò nequaquam, qui suis insomniis, & raptuum figmentis delectatur & expletur. Verae & divinae visiones in veteri Testamento frequentatae nunc cessârunt, earum loco patefactiones divinas in Verbo DEI ἐγγράφῳ habemus sufficientes; in quibus unicè acquiescendum est Ecclesiae.",
+     "heading": 0,
+     "para": true,
+     "merged": true
+    },
+    {
+     "n": 7,
+     "text": "X.",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "notes": "Handwritten marginal and top annotations (in ink, Latin and Greek references such as \"Epiphanius\", \"Haer. 48\", \"Phrygia\") are not printed text and are omitted. The Greek words Θεοδιδάκτους and κατά τι are uncertain and marked [?]. The bottom \"A 3\" is a faint printed signature and is not transcribed as text. Section numerals VII–X are set as bare numbers and given as paragraphs."
+  },
+  {
+   "n": 8,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "number": "52",
+   "warnings": [
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "X.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "<i>Abutuntur etiam vaticinio Ierem. 31. v.33. repetito a Hebr. 8. v.10. sequent.</i> Quod tempore novi fœderis Deus indituru sit Legem mentibus hominum, & inscripturus cordibus eorum, ita ut non amplius electurus sit proximus proximum: sed omnes Deum sint cognituri.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "XI.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "<i>Admittunt ignorationem Elenchi: non enim eo loco agitur de peculiaribus visionibus & revelationibus, quæ præter & extra Dei Verbum scriptum eventuræ sint in novo fœdere: sed agitur, per hyperbolicam amplificationem, de copiosissima Spiritus S. virtute & gratia, quâ omnis caro novi fœderis perfundenda sit. Quæ mirifica Spiritus sancti vis sese primùm exserere cœpit, insigni illo pentecostes festo. Act. 2.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "XII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "<i>Adjiciunt insuper, ea, quæ in veteri Testamento maximè fuerint necessaria, in novo quoque necessaria esse: sed revelationes, præter Verbum Dei scriptum, in veteri Testamento maximè fuisse necessarias. Ergo & in novo.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "XIII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 8,
+     "text": "<i>Major est salsissima, quippe vitio consequentiæ laborans. Quia in V. Test. multa fuerunt necessaria, ut ceremoniæ, umbræ, typi, figuræ, multæ leges politicæ &c. quæ in novo T. nec necessariæ, nec introducendæ sunt.</i> Ioan. 1.17. Lex per Mosem data est, gratia & veritas per Iesum Christum exstitit. <i>Multæ etiam & variæ fuerunt olim patefactiones per somnia, per visiones, per angelos, per oracula, per Vrim & Thummim, & id genus alia. Quis verò adeò delirus fuerit, qui, Messia</i>",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "notes": "Show-through of the reverse side is not transcribed. Ornamental heading numerals X, XI, XII, XIII are set as level-2 heads. The last line is set flush right."
+  },
+  {
+   "n": 9,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "Messiam jam exhibito, in tanta divinae voluntatis, per Verbum Dei scriptum, patefactione & luce, ijsdem insuper opus esse, dixerit?",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "XIV.",
+     "heading": 1,
+     "caput": "14",
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "<i>Ut siculnea adversariorum argumenta vel levi digito frangantur: sic orthodoxa sententia; Revelationes nempe extraordinarias neutiquam in novo Test. necessarias esse; validissime corroborari potest.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "XV.",
+     "heading": 1,
+     "caput": "15",
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "<i>Etenim revelationes praeter Dei Verbum postulare, redolet non levem impietatem. Quid ni enim id sit impium, si quis praeter perfectissimam & sufficientissimam, ad supremam beatitatem, divinae voluntatis patefactionem, aliquid amplius a Deo contendere & efflagitare ausit?</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "XVI.",
+     "heading": 1,
+     "caput": "16",
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "<i>An non sufficiat id, quod est 2. Timoth 3.</i> Tu vero permane in iis, quae didicisti, sciens a quo didiceris, & quia ab infantia sacras literas nosti, quae te possunt instruere ad salutem, per fidem, quae est in Christo Iesu. <i>Et 2. Thess. 2.</i> State & tenete institutiones, quas didicistis sive per sermonem, sive per Epistolam nostram. <i>Et 2. Pet. 3.</i> Memores sitis eorum verborum, quae sancti Prophetae praedixerunt, atque mandati domini Servatoris, quod a nobis Apostolis accepistis. <i>Ioan. 5.</i> Scrutamini scripturas: nam vos videmini vobis in iis habere vitam aeternam: & illae sunt, quae testificantur de me. <i>Luc. 15.</i> Habent Mosem & Prophetas; audiant eos. <i>Ioan. 8.</i> Qui ex Deo est, verbum Dei audit. <i>Galat. 1.</i> Sub anathematis comminatione adstringimur Evangelio iam praedicato. <i>Eph. 2, Ec</i>",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "notes": "Printed text is in italic and roman type mixed; long s rendered as s. Lower right line \"2,Ec\" is a cut-off catchword-like fragment at the line end, transcribed as printed. Some words in the lower half are faint."
+  },
+  {
+   "n": 10,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "number": "53",
+   "warnings": [
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "2. Ecclesia Dei fundata super doctrinam Prophetarum & Apostolorum. <i>Et Deut. 13. v. 1. sequentibus: Cum surrexerit in medio tui Propheta aut somniator: non obedies isti somniatori. Et Propheta ille interficietur.</i>",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "XVII.",
+     "heading": 1,
+     "caput": "17",
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "<i>Quod si nobis permanendum est in iis, quae ex S. Literis didicimus: si tenendae sunt institutiones Apostolicae: si verborum Propheticorum & mandatorum Christi memoria colenda: si somniatores enthusiastici neci dandi sunt: quid novas quaeramus revelationes? Sufficiunt, inquit Athanasius contra Gentes, sanctae ac divinitus inspiratae Scripturae, ad omnem institutionem veritatis. Et Hilarius: Bene habet, ut iis tantum, quae scripta sunt, contentus sis. Valeant ergo Anabaptistarum enthusiasmi, deliria & somnia, magna cum impietate conjuncta.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "XVIII.",
+     "heading": 1,
+     "caput": "18",
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "<i>Caeterum Catabaptistarum revelationes horribiliter cadunt, & non nisi sanguinem & caedes spirant. Ante oculos constitue Anabaptistarum Monasteriensium furores & truculentiam. Redi in memoriam miserae illius uxorculae, quae Basileae carceri inclusa, & suis speculationibus circumventa sibi persuasit, se absque alimento, more Heliae, Mosis, Christi, sustentatum & conservatum iri. Quocirca ab omni nutrimento se abstinuit, sed, spacio decem dierum elapso, animam infelix exhalavit. Nemini obscurum est insolentissimum & truculentissimum facinus illud apud Sangallenses patratum, ubi frater fratri, praesentibus ipsis parentibus, caput praecidit. Ecce quo rapiantur miseri spiritu suo enthusiastico!</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "XIX.",
+     "heading": 1,
+     "caput": "19",
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "<i>Verum enim vero nihil novi, sed eadem fabula, mutatis tan-</i>",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "catchword": "tan-",
+   "signature": "B",
+   "notes": "Faint show-through of the reverse page is present and omitted. Handwritten \"53\" at top right is not printed."
+  },
+  {
+   "n": 11,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "number": "3",
+   "warnings": [
+    {
+     "type": "merged_lines",
+     "text": "1 line(s) contain several printed lines merged together (longest 801 chars, median 265); line numbering is unreliable"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "tantum personis, Satana duce, agitatur. Apud Epiphanium lib. 1. Tom. 1. sol. 14. legere est, Dositheum quendam inepiis cogitationibus in quandam speluncam abreptum, jejunio, quoad fame enecaretur, vacâsse. Iosephus lib. 20. Antiquit. Iud. inducit nobile Pseudoprophetarum ecstaticorum par, quorum alterum Theodam, alterum AEgyptium vocat. Theodam recepisse se vel verbo Iordanem esse divisurum: sed cum id praestare non posset, una cum suis asseclatoribus a Fado Iudaeae gubernatore deprehensum & capite multatum esse. AEgyptium vero spopondisse se conscenso[?] olivarum monte effecturum, ut multi Hierosolymorum conciderent. Sed Felix praefectus emissis militibus asseclas ejus plus quadringentos, ducentis captis, interemit. Ejusmodi eventum in veniunt hominum ecstaticorum & phantasticorum conatus.",
+     "heading": 0,
+     "merged": true
+    },
+    {
+     "n": 2,
+     "text": "XX.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "Cum igitur enthusiasmi Anabaptistici fructus magna cum impietate, ferocia & truculentia conjunctus sit, iterum atque iterum damnandus & ad Gangem amandandus: eorum divinis revelationibus, quae in sanctissimo Dei Verbo scripto proponuntur, graeco animo nitendum est.",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "catchword": "Super",
+   "notes": "Decorative woodcut headpiece below the paragraph, not transcribed. Mirrored show-through text from the reverse page (lines below the XX paragraph, the lines near the ornament, and the faint \"XIX.\" and following line) was left out. \"conscenso\" is uncertain. The \"3\" at the foot is taken as the page number."
+  },
+  {
+   "n": 12,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "number": "54",
+   "running_head": "Super",
+   "warnings": [
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "CATABAPTISTARVM ridiculis ecstasibus, EPIGRAMMA.",
+     "heading": 1,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "Quæ Catabaptistæ sibi somnia inania fingunt,Gens tetra, excelso, vana, prophana Deo.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "Sunt ea Tartarei, crudeles Principis umbræ,Ejusdem innumeris sünt q, fucata dolis.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "Haud cernuntur ijs cœlestia, sana: IcelestaSed, vana, à fusco somnia missa Deo.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "Digna docent exempla fide; rabidiq, furores,Queis genus hoc hominum rupit in omne nefas.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "Vestibus exutis, nudiqué pudore, per urbesBacchati, insolitos voce boâre sonos.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "Nequitiæ forsan memores, culpaéque, volebâtNudati, rigidis subdere terga flagris?",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 8,
+     "text": "Sufficiant nobis Superorum oracula Regis;Sufficiant: dubiæ noctis imago vale!",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 9,
+     "text": "Observantiæ, in clarissimum DN. præsidem, testificandæ gratiâ fecit, GEORGIVS MYLLERVS. A.",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "catchword": "II. QVAE",
+   "signature": "B 2",
+   "notes": "Show-through text from the reverse page is faint in the background and was not transcribed. Pencil number \"54\" at top right is handwriting, not printed. Some words in the verse are uncertain due to the print weight (e.g. \"Icelesta\", \"boâre\", \"Nudati\", \"Sufficiant:\" second line) and should be checked against the scan; \"Icelesta\" may be a printing error for \"Ic elesta\" or similar. The catchword \"II. QVAE\" and signature \"B 2\" are as printed."
+  },
+  {
+   "n": 13,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "merged_lines",
+     "text": "3 line(s) contain several printed lines merged together (longest 312 chars, median 72); line numbering is unreliable"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "II. QVAESTIO. An in essentiae Dei unitate tres sint distinctae personae?",
+     "heading": 1,
+     "caput": "2",
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "THESIS I.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "IN hoc etiam doctrinae Christianae capite fluctuantes Anabaptistae, quid certò statuant, non habent. In Colloquio enim Frankenthalensi molestissimum ipsis accidebat, fateri personarum ὑφισάμενα in SS. Trinitate, tanquam rem sibi minùs perspectam.",
+     "heading": 0,
+     "para": true,
+     "merged": true
+    },
+    {
+     "n": 4,
+     "text": "II.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "Quid tamen suis sentiant animis abunde literarum monumētis prodiderunt. Trelcatius ex ipsorummet scriptis refert, quosdam Anabaptistas asserere vereri, tres illos, Patrem, Filium & Spiritum S. tres esse in una essentia personas, proprietatibus ἀχωρίστως distinctas: sed tantùm esse tria nomina, & unam essentiam.",
+     "heading": 0,
+     "para": true,
+     "merged": true
+    },
+    {
+     "n": 6,
+     "text": "III.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "Quin & doctrinam de Trinitate, in Concilio demum Nicaeno, Papa Sylvestro, annis amplius trecentis à Christogonia, esse inventam.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 8,
+     "text": "IV.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 9,
+     "text": "Sic igitur Sabellium Afrum tetrum haereticum ab inferis revocant, qui, referente Cedreno, unam tantùm pro Trinitate personam statuit, quae nomine tantùm triplici, Patris, Filij & Spiritus S. non reipsa aut hypostasibus distinguatur. V. Quo-",
+     "heading": 0,
+     "para": true,
+     "merged": true
+    }
+   ],
+   "catchword": "V. Quo-",
+   "notes": "Woodcut ornament at the head of the page is not transcribed. Faint mirrored text from the reverse page shows through and is excluded. Marginal areas carry no printed notes. The catchword \"V. Quo-\" is the last line of text, set as the next-page start and was kept in the paragraph; the text is printed at the foot of the column. Heading levels: \"II. QVAESTIO\" treated as level 1; THESIS and the Roman-numbered theses are series headings at level 2."
+  },
+  {
+   "n": 14,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "number": "85",
+   "warnings": [
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "V.",
+     "heading": 3,
+     "caput": "5",
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "<i>Quocirca quæstionis cardo in hoc vertitur: Annè in una eademq; Deitatis essentia, seu, natura tres sint exsistendi modi, seu, tres personæ proprietatibus incommunicabilibus inter se distinctæ? an verò in una eademq; Deitatis essentia tria tantummodo sint nomina, sine veris exsistendi modis?</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "VI.",
+     "heading": 3,
+     "caput": "6",
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "<i>Prius orthodoxa probat Ecclesia: Anabaptistæ complures negant, at posterius affirmant, atque adeò in Antitrinitariorum castra transfugiunt.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "VII.",
+     "heading": 3,
+     "caput": "7",
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "<i>Nostrum itaque fuerit demonstrare, in una eademq; DEI essentia tres esse subsistentias, vel personas, proprietatibus incommunicabilibus distinctas.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "VIII.",
+     "heading": 3,
+     "caput": "8",
+     "para": true
+    },
+    {
+     "n": 8,
+     "text": "<i>De essentiæ unitate, quam etiam saniores Philosophi agnoverunt, nihil laboratur. Né daretur progressus in infinitum, unum tandem & summum ENS deprehenderant; sed trinum illum subsistendi modum videre non potuerant, propiùs licét nonnullis accessisse videantur, ut videre est apud Mornæum.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 9,
+     "text": "IX.",
+     "heading": 3,
+     "caput": "9",
+     "para": true
+    },
+    {
+     "n": 10,
+     "text": "<i>Quare Triados mysterium non nisi ex ore ipsius DEI, ὁ λόγος, qui est sapientia Patris, cognosci potest. Hinc enim didicimus in divinæ essentiæ unitate tres esse peculiares exsistendi modos, qui in Ecclesia Hebræa appellantur אלהים: in Græca, ὑποστάσεις, χαρακτῆρες, ἐνσάρκωμα, πρόσωπα, τρόποι ὑπάρ-</i>",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "catchword": "ὑπάρ-",
+   "signature": "B 3",
+   "notes": "Faint show-through of the reverse page (Latin and German text) is ignored. The Greek word at the end of the IX paragraph continues onto the next page (ὑπάρ- hyphenated). The Hebrew word is transcribed as shown on the scan; the marginal stain at lower left is ignored."
+  },
+  {
+   "n": 15,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: Iudæi"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "ὑπόστασις: in Latina, modi exsistendi, hypostases, subsistentiæ, personæ. Quæ vox postrema & Italis, & Hispanis, & Germanis, & Gallis, & aliis nonnullis gentibus nota & familiaris est.",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "X.",
+     "heading": 1,
+     "caput": "10",
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "Persona est subsistentia in Dei essentia, totam divinam essentiam naturâ in se habens, sed proprietate sua incommunicabili, á reliquis Deitatis personis distincta.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "XI.",
+     "heading": 1,
+     "caput": "11",
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "Plures autem & quidem tres esse subsistendi modos, inessentiæ divinæ unitate, evidentissimé demonstratur, contra Iudæos, Mahometanos, Sabellianos, eorumq; assectatores Anabaptistas, tam ex veteri, quám novo Testamento.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "XII.",
+     "heading": 1,
+     "caput": "12",
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "Vnum & alterum locum ex V. Test. adducemus Genes. 1. v. 1. In principio ברא אלהים creavit diy. Vbi per verbum singulare unitas essentiæ Dei, procul omni dubio, intelligitur. Quid enim notius in V. Test. Deo VNO, Audi Israël, Dominus Deus tuus, Deus unus est, Deut. 6. 4. At per nomen plurale Elohim, intelligi aliud non potest, quám personarum pluralitas.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 8,
+     "text": "XIII.",
+     "heading": 1,
+     "caput": "13",
+     "para": true
+    },
+    {
+     "n": 9,
+     "text": "Nec juvat hic quicquam pseudochristianos judaizantes, quód nomen Elohim etiam tribuatur creaturis, ut Mosi, Exodi 7. v. 1. Vide נתתיך אלהים לפרעה, id est, dedi te deos Pharaoni. Quæ ipsa phrasis exponitur supra cap. 4. v. 16. Tu verò (Mose) sis ei (Aharon) לאלהים Lelohim, h. e. in Deos, vel vice, seu, loco Deorum. Pluralitas deorum, quâ",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "catchword": "Iudæi",
+   "notes": "Greek and Hebrew words are reproduced as best legible; the Hebrew in v. 1 and Exodus 7:1 is approximate. The final line of the page is partly blurred. Page number not printed on this scan."
+  },
+  {
+   "n": 16,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "number": "96",
+   "warnings": [
+    {
+     "type": "merged_lines",
+     "text": "1 line(s) contain several printed lines merged together (longest 442 chars, median 7); line numbering is unreliable"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "Iudæi maximopere horruerunt, intelligi nullo modo potest: superest igitur ut intelligatur pluralitas, atq; adeó sancta Trinitas personarum: ut sensus sit: Ego te, Mose, constitui quadantenus meo loco, ad res admirandas conficiendas, virtute Elohim, vel Iehovae. Hinc manifestum est, vocem Elohim Deo proprie tribui, improprie creaturis, & proinde nihil omnino obstare, quó minús adductus locus de sacrosancta Trinitatis mysterio intelligatur.",
+     "heading": 0,
+     "merged": true
+    },
+    {
+     "n": 2,
+     "text": "XIV.",
+     "heading": 1,
+     "caput": "14",
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "<i>Caterum Genes. 1. v. 1. 26. Et dixit Deus:</i> נעשה אדם בצלמנו כדמותנו <i>h. e. Faciamus hominem ad imaginem nostrā, secundum similitudinem nostram. Ex verbo plurali, faciamus, & affixo pronomine plurali</i> ונ <i>certó colligitur non natura & essentiae, quae unica est; sed subsistentiarum, seu, personarum pluralitas. Et ex singularibus vocibus</i> צלם & דמות <i>h. e. imago & similitudo, ad quam homo condendus erat, colligitur sine omni dubitatione unitas naturae seu essentiae: cúm ea toti insit Deitati: non soli alicui personae.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "XV.",
+     "heading": 1,
+     "caput": "15",
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "<i>Tacitè praetereundus non est insignis ille locus Genes. 3. v. 22.</i> Dixit Iehova Elohim: Ecce homo factus est. בארר ממנו sicut unus ex nobis. <i>LXXII. interpretes reddunt ad verbum:</i> ὡς εἷς ἐξ ἡμῶν. <i>Et hic sermo est Iehovae, quo gravissima & sanctissima ironiâ protoplastis exprobrat nefariam molitionem, qua ad aequalitatem cum Elohim aspirabant, dicens: Ecce homo factus est sicut unus ex nobis. Quae ironia negationem infert, & perinde est ac si dixisset: nullo modo alicui nostrum cum Elohim similis aut aequalis est factus.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "XVI.",
+     "heading": 1,
+     "caput": "16",
+     "para": true
+    }
+   ],
+   "notes": "Hebrew and Greek passages are reproduced approximately; the Hebrew words in the scan are only partly legible. The chapter numeral XVI is printed at the foot of the page and its text is not on this page. Faint show-through from the reverse side is omitted."
+  },
+  {
+   "n": 17,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text:  Gratia"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "XVI.",
+     "heading": 1,
+     "caput": "16",
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "<i>Complura alia adduci poterant, sed brevitatis studio in his acquiescimus. At verò né quis cogitet pluralitatem illam personarum ad Trinitatem statim revocari non posse: agé consideremus duo tantum loca. I. Psalm. 2. v. 7. Iehova dixit ad me: (Pater ad Filium):</i> בני אתה אני היום ילדתיך <i>h.e. Filius meus es tu, hodie genui TE. Et v. 12.</i> נשקו בר <i>Osculamini Filium, ne forte irascatur &c. Quo loco evidentissimé sese nobis offerunt & ostendunt duae distinctissimae personae, PATER & FILIVS.</i> II. <i>Genes. 1. v. 2.</i> רוח <i>Et Spiritus Dei agitabat sese super faciē aquarum, vel, incubabat aquis fovendis & moderandis, more avium pulliciei suae conservandae incubantium. Et hic diserte</i>issimé <i>fit mentio SPIRITVS SANCTI, qui est tertia sanctissimae Trinitatis persona.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "XVII.",
+     "heading": 1,
+     "caput": "17",
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "<i>Nihil igitur nunc reliquum, quam ut fidenter edicamus, per Elohim in V. T. indubitaté & proprie notari tres unitatis essentiae divinae personas distinctissimas, PATREM, FILIVM & SPIRITVM SANCTVM, & aliarum per totum sacrum codicem nullam omnino fieri mentionem.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "XVIII.",
+     "heading": 1,
+     "caput": "18",
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "<i>Hoc ipsum mysterium in N. T. clarius evolutum inducitur & confirmatur. In Baptismate Christi Matth. 3. v. 16. Et Ioan. 1. v. 32. Auditur vox Patris: Spiritus S. specie columbae descendit, & Christo Dei Filio insidet. In missione Apostolorum: Baptizate gentes in nomine Patris, Filii & Spiritus S. In alijs locis apertissimis, ut 2. Cor. 13. v. 13.</i>",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "catchword": "Gratia",
+   "signature": "XVI",
+   "notes": "Hebrew phrases in the text (בני אתה אני היום ילדתיך, נשקו בר, רוח אלהים) are printed in Hebrew letters and transcribed as seen; the Hebrew in the second line of Psalm 2 and the Genesis 1:2 line are reproduced as best legible. Printed Roman numerals \"II.\" and \"XVI.\" are section numbers. The page carries no page number or running head. Show-through from the reverse page is not transcribed."
+  },
+  {
+   "n": 18,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "number": "59",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text:  & qui-"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "Gratia domini nostri Iesu Christi, & charitas Dei, nempe Patris, & communicatio Spiritus S. sit cum omnibus vobis. <i>1. Ioan. 5. v. 7.</i> Tres sunt in coelo qui testificantur, Pater, Sermo, & Spiritus sanctus: & hi tres unum sunt, nimirum essentia & mente.",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "XVIII.",
+     "heading": 1,
+     "caput": "18",
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "<i>At objiciant nobis Sabelli-Anabaptistae, tres quidem hic commemorari in una Deitate: non ideo tamen sequi, tres esse personas, quae suis proprietatibus incommunicabilibus ita distinguantur, ut haec non sit illa.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "XX.",
+     "heading": 1,
+     "caput": "20",
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "<i>Etsi ex superioribus distinctissimae singularum personarum subsistentiae colligi & ostendi possunt; tamen majoris lucis gratia, de iis sigillatim agemus. PATER est prima sacrosanctae Triadis persona, a nullo originem habens, qui ab aeterno Filium, essentialem suam imaginem, genuit, & Spiritum S. cum eodem spirat.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "XXI.",
+     "heading": 1,
+     "caput": "21",
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "<i>Patrem esse personam testatur Apostolus Hebr. 1. v. 3. Quum Filium dicit esse characterem ὑποστάσεως Patris, quae sit persona, personam Patris ad amussim referens: & imago, εἰκὼν τῆς Θεῦ τῆς ἀοράτου, imago Dei invisibilis, quâ se Pater conspiciendum praebet, sicut imago cerae impressa ad amussim refert imaginem insculptam sigillo. Patrem esse insuper primâ personâ, esse à se ipso non ab alio, tam essentiae quàm personalitatis ratione, colligimus inde, quòd omnino ἀνάρχῳ & ἀγέννητῳ, omnisque originis fons est. Pater etiam est, quia genuit Filium. Psal. 2. v. 7. Filius meus es tu, hodie genui te.</i>",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "catchword": "& qui-",
+   "notes": "Marginal sign \"C\" below the text and the catchword \"& qui-\" at the foot right are printed; the catchword is given as printed. Greek words are transcribed as best read. The handwritten \"59\" at top right is not printed and is not transcribed as text; the printed page number is taken as 59 from the scan's handwritten mark and may not be a printed number."
+  },
+  {
+   "n": 19,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "merged_lines",
+     "text": "2 line(s) contain several printed lines merged together (longest 816 chars, median 185); line numbering is unreliable"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "& quidem ab æterno, Micheæ 5. v. 2. modo ἀναταλὴπτῳ & ἀνεπαλαλήτῳ, per imaginis suæ formationem. Pater quoque is est, qui unà cum Filio Spiritum S. spirat. Unde Matth. 10.20. Spiritus etiam Patris dicitur. Pater etiam is est, qui mittit Filium, non mittitur. Quum igitur in monadica Triade, Pater dicatur hypostasis, seu, persona: cùm dicatur genuisse ab æterno Filium, ceu essentialem sui imaginem: cùm sit prima Deitatis persona: cùm ab eodem emanet Spiritus S. cùmidem mittat Filium: Quis ita effrons, qui inficias ire ausit, Patrem esse in sancta Trinitate personam, à reliquis personis proprietatibus incommunicabilibus distinctissimam?",
+     "heading": 0,
+     "merged": true
+    },
+    {
+     "n": 2,
+     "text": "XXII.",
+     "heading": 1,
+     "caput": "22",
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "Filius est secunda Deitatis persona, quæ ab æterno à Patre genita est: Psalmo 2. Micheæ 5. á qua etiam, ut & á Patre procedit, datur & mittitur Spiritus S. Ioan. 14.26. Et cap. 15. 26. Et cap. 16.14. dicitur Spiritus S. omnia à Christo accipere: Ille de meo accipiet, & annunciabit vobis omnia. Et ad Rom. 8.9. dicitur & Patris & Filij Spiritus: Vos autem non estis in carne, sed in Spiritu: siquidem Spiritus Dei (Patris) habitat in vobis: quòd si quis Spiritum Christi non habet, is non est ipsius. Et Galat. 4. 6. vocatur Spiritus Filij. Unde S. Augustinus de verbis & actione Christi, Ioan. 20. v. 21. Christus in sufflando, inquit, dedit Spiritum S. ut ostenderet etiam à se Eum procedere. Filius etiam à Patre missus præfinito tempore manifestatus est in carne. 1. Timoth. 3. Et λόγος caro factus est. Ioan. 1.",
+     "heading": 0,
+     "para": true,
+     "merged": true
+    },
+    {
+     "n": 4,
+     "text": "XXIII.",
+     "heading": 1,
+     "caput": "23",
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "Quum ergo Filius à Patre sit genitus, ab æterno, modo inexplicabili: cùm ab eodem Filius à Patre emanet Spiritus S. cùm & á Patre missus sit & carnem humanam in unitatem personæ assumat",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "notes": "Heading XXII and XXIII are Roman numerals set as headings. The last line \"assuma\" is printed as a catchword-like fragment at the right; it is treated as the end of the final line. Some Greek words and the \"Ioan. 1.\" reference are printed in small type; the final line of the text is cut by the lower edge and reads \"assuma\" with a stroke. Partly illegible passages: \"ἀναταλὴπτῳ\" and \"ἀνεπαλαλήτῳ\" are uncertain [?]. Show-through from the reverse page is present and was ignored."
+  },
+  {
+   "n": 20,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "number": "58",
+   "warnings": [
+    {
+     "type": "merged_lines",
+     "text": "2 line(s) contain several printed lines merged together (longest 550 chars, median 156); line numbering is unreliable"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "assumserit: jubare certé meridiano clarius evadit, Filium illum & á Patre & á Spiritu distinctissimum habere ἐ ὑπάρξεως ξόπου, & proinde non tantum esse nomen, sed verè exsistentem personam & quidem secundam, in sacrosancta Trinitate.",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "XXIV.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "Spiritus S. est tertia Deitatis persona, quæ á Patre & á Filio, per æternam spirationem procedit, & καὶ ἐνέργειαν in electorum corda sanctificanda mittitur.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "XXV.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "Spiritum S. tertium esse Deitatis hyphistamenon, á Patre & F. distinctum, testatur Dominus ipse, quando discipulos jubet administrare baptismum, in nomine Patris, F. & Spir. S. Quemadmodum enim Patris persona nequit esse persona Filij, & vice versa: sic & Spiritus Sancti persona nec Patris, nec Filij persona esse potest: cùm internam & propriam differentiam in se habeat, quæ est singularis illa ἐκπόρευσις, progressio, seu emanatio, qua tam á Filio, quàm á Patre, per admirabilem & ἀνεκδιήγητον quandam spirationem procedit.",
+     "heading": 0,
+     "para": true,
+     "merged": true
+    },
+    {
+     "n": 6,
+     "text": "XXVI.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "Spirationem istam Spiritus ipse testatissimâ facit. Matth. 10. v. 16. ut & Rom. 8. v. 9. Spiritus Patris dicitur. Ioan. 15. 26. τὸ πνεῦμα τῆς ἀληθείας, ὁ παρὰ τοῦ πατρὸς ἐκπορεύεται. Idem Spiritus dicitur esse Filij, Galat 4. 6 Dicitur & Spiritus Christi, Rom. 8. 9. Hinc fit ut Filius æqualiter Patri det & mittat Spiritum eundem, Ioan. 20. 22. Ioan. 15. 26. Quare concludimus Spiritum S. esse certam, distinctam, per se subsistentem, & ordine tertiam Deitatis personam, tùm á Patre, tùm á Filio procedentem: & proinde Græcam Ecclesiam, quam sequun-",
+     "heading": 0,
+     "para": true,
+     "merged": true
+    }
+   ],
+   "signature": "C 2",
+   "notes": "Catchword \"C 2\" is the gathering signature at the foot, not a catchword. Greek passages copied as legible; some accents uncertain. Line \"fequun-\" is a hyphenated word continuing onto the next page."
+  },
+  {
+   "n": 21,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "<i>sequuntur Ruteni & Moschi, non parum alucinari, quando docent Spiritum S. á solo Patre procedere.</i>",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "XXVII.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "<i>Ex ijs, quæ hactenus dicta sunt de Deo τρισυπόστατον, quód singulæ personæ proprietatibus incommunicabilibus, ἀγεννησίᾳ, γεννητὸς & ἐκπορευτὸς [?] potissimùm inter se realiter distinguantur, solidissimé contra veteres & recentes Sabellianos confici-mus, in una eademque Deitatis essentia, non tantùm tria esse nomina, diversas munerum partes innuentia: sed tres esse res veras hypostases differentijs suis characteristicis ita distinctas, ut inter se permisceri aut confundi neque debeant neque possint.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "XXVIII.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "<i>De Sophistarum leptologematis, quibus orthodoxiæ vim facere tentant, in ipso disputationis conflictu, DEO TRINV-NO adspirante, agetur.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "FINIS.",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "notes": "The woodcut ornament below the text carries no words and is not transcribed. Faint mirrored text (show-through from the other side of the leaf) is ignored. The Greek word after \"ἀγεννησίᾳ\" is only partly legible and is marked [?]. The \"XXVII.\" and \"XXVIII.\" numbers and \"FINIS\" are set as paragraphs, because they are bare numbers and a closing word. No running head, page number, catchword or signature is printed on this page."
+  }
+ ]
+}
