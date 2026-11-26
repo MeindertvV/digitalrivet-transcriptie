@@ -1,0 +1,553 @@
+{
+ "work": "W02606_Goclenius_De_Vita_Proroganda_Hoc_est_Animi_Corporisque_vigore_conserva_1608",
+ "made": "2026-11-26T00:51:10",
+ "model": "claude-haiku-5-5",
+ "prompt": "655260ce46aa8978",
+ "candidates": 335,
+ "cost_usd": 0.0229,
+ "dropped": [
+  "title 'Quaestio VIII. An ciborum natura & potestas ad varia gentium ingenia moresque aliquid conferat?' is not in 'AD QVÆST. VIII.': to the scan",
+  "no scans for 1 wanted"
+ ],
+ "toc": [
+  {
+   "scan": 1,
+   "line": 0,
+   "lines": [
+    [
+     1,
+     0
+    ]
+   ],
+   "level": 1,
+   "title": "Ad illustrissimos principes ac Dn. Fridericum iunior. Com. Palat. Rheni: &c. Nec non Dn. Ottonem Hassiae Landt-grauium, &c."
+  },
+  {
+   "scan": 4,
+   "line": 0,
+   "lines": [
+    [
+     4,
+     0
+    ],
+    [
+     5,
+     0
+    ]
+   ],
+   "level": 1,
+   "title": "Epistola dedicatoria"
+  },
+  {
+   "scan": 17,
+   "line": 1,
+   "lines": [
+    [
+     17,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "De vita prorogada tractatus"
+  },
+  {
+   "scan": 18,
+   "line": 1,
+   "lines": [
+    [
+     18,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Quaestio I. Circa operis hujus titulum:"
+  },
+  {
+   "scan": 22,
+   "line": 2,
+   "lines": [
+    [
+     22,
+     2
+    ],
+    [
+     22,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Quaestio II. An subiectum morbi & sanitatis sit ipsius partis essentia, hoc est, an febris constitutat in partium cordis constitution"
+  },
+  {
+   "scan": 24,
+   "line": 1,
+   "lines": [
+    [
+     24,
+     1
+    ],
+    [
+     24,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Quaestio III. An humores sint subiectum morbi & sanitatis? N."
+  },
+  {
+   "scan": 25,
+   "line": 3,
+   "lines": [
+    [
+     25,
+     3
+    ],
+    [
+     25,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Caput I. De aere eiusque conditionibus, essentia, qualitate, regionum, populorum & locorum varietate, deque utendi modo, & peste"
+  },
+  {
+   "scan": 45,
+   "line": 1,
+   "lines": [
+    [
+     45,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Caput II."
+  },
+  {
+   "scan": 56,
+   "line": 3,
+   "lines": [
+    [
+     56,
+     3
+    ],
+    [
+     56,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Caput III. De cibo, & potu, secundum locum inter Sanitatis praecepta & capita obtinentibus."
+  },
+  {
+   "scan": 90,
+   "line": 2,
+   "lines": [
+    [
+     90,
+     2
+    ],
+    [
+     90,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Quaestio I. An largius sit coenandum quam prandendum? Disting."
+  },
+  {
+   "scan": 98,
+   "line": 4,
+   "lines": [
+    [
+     98,
+     4
+    ],
+    [
+     98,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Quaestio II. Utrum magis sit noxium, potando an vorando excedere modum?"
+  },
+  {
+   "scan": 105,
+   "line": 2,
+   "lines": [
+    [
+     105,
+     2
+    ],
+    [
+     105,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Quaestio III. An à potu omninò fit abstinendum intermedio prandii & coenæ tempore?"
+  },
+  {
+   "scan": 107,
+   "line": 3,
+   "lines": [
+    [
+     107,
+     3
+    ],
+    [
+     107,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Quaestio IV. An hieme plus edere conveniat quam aestate, propterea quòd ventres sint tempore hiberno calidiores, aestate vero frigidiores"
+  },
+  {
+   "scan": 119,
+   "line": 1,
+   "lines": [
+    [
+     119,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "Quaestio V. An alimentum sit tantum dicendum quod nutrit?"
+  },
+  {
+   "scan": 121,
+   "line": 1,
+   "lines": [
+    [
+     121,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "Quaestio VI. An nutritio sit assimilatio?"
+  },
+  {
+   "scan": 125,
+   "line": 3,
+   "lines": [
+    [
+     125,
+     3
+    ],
+    [
+     125,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Quaestio VII. An morbi communes etiam oriantur à malorum ciborum copia & culpa?"
+  },
+  {
+   "scan": 138,
+   "line": 3,
+   "lines": [
+    [
+     138,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Quaestio IX. Morbi quod quibusdam gentibus peculiariter accidant, an victus ratio in causa sit, & cur repente quidam hominibus exoriantur in certis membris? Consuetudinem denique plurimum valere."
+  },
+  {
+   "scan": 146,
+   "line": 2,
+   "lines": [
+    [
+     146,
+     2
+    ],
+    [
+     146,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput IV. De primo, & vario mirabilique diversissimarum gentium victu."
+  },
+  {
+   "scan": 161,
+   "line": 3,
+   "lines": [
+    [
+     161,
+     3
+    ],
+    [
+     161,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Caput V. De alimentorum divisione, generibus, & differentiis generatim, deque mirâ terrarum quarundam fertilitate."
+  },
+  {
+   "scan": 174,
+   "line": 2,
+   "lines": [
+    [
+     174,
+     2
+    ],
+    [
+     174,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput VI. De alimentis quæ veniunt à vegetabilibus & plantis."
+  },
+  {
+   "scan": 222,
+   "line": 2,
+   "lines": [
+    [
+     222,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput VII. De pane, placentis, pultibus, variisque eduliis."
+  },
+  {
+   "scan": 250,
+   "line": 2,
+   "lines": [
+    [
+     250,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput VIII. De leguminibus."
+  },
+  {
+   "scan": 265,
+   "line": 2,
+   "lines": [
+    [
+     265,
+     2
+    ],
+    [
+     265,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput IX. De alimentis, quæ sumuntur ex radicibus."
+  },
+  {
+   "scan": 281,
+   "line": 1,
+   "lines": [
+    [
+     281,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Caput X. De alimentis, quæ sumuntur ex plantarum foliis."
+  },
+  {
+   "scan": 292,
+   "line": 1,
+   "lines": [
+    [
+     292,
+     1
+    ],
+    [
+     292,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XI. De alimentis quæ sumuntur ex fructibus."
+  },
+  {
+   "scan": 339,
+   "line": 2,
+   "lines": [
+    [
+     339,
+     2
+    ],
+    [
+     339,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XII. De alimentis quæ veniunt ex floribus, ubi commodè de acetariis rite præparandis."
+  },
+  {
+   "scan": 350,
+   "line": 3,
+   "lines": [
+    [
+     350,
+     3
+    ],
+    [
+     350,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XIII. De alimentis quae veniunt ab animalibus."
+  },
+  {
+   "scan": 432,
+   "line": 1,
+   "lines": [
+    [
+     432,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XIV. De alimentis, quæ veniunt ab animalibus humi gradientibus."
+  },
+  {
+   "scan": 493,
+   "line": 2,
+   "lines": [
+    [
+     493,
+     2
+    ],
+    [
+     493,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XV. De serpentina & viperina."
+  },
+  {
+   "scan": 495,
+   "line": 3,
+   "lines": [
+    [
+     495,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XVI."
+  },
+  {
+   "scan": 542,
+   "line": 1,
+   "lines": [
+    [
+     542,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XVII. De ranis memorabilia & scitu digna."
+  },
+  {
+   "scan": 546,
+   "line": 3,
+   "lines": [
+    [
+     546,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XVIII."
+  },
+  {
+   "scan": 561,
+   "line": 3,
+   "lines": [
+    [
+     561,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XIX."
+  },
+  {
+   "scan": 582,
+   "line": 2,
+   "lines": [
+    [
+     582,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XX. De lacte memorabilia."
+  },
+  {
+   "scan": 607,
+   "line": 4,
+   "lines": [
+    [
+     607,
+     4
+    ],
+    [
+     607,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXI. De condimentis."
+  },
+  {
+   "scan": 645,
+   "line": 1,
+   "lines": [
+    [
+     645,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Index hujus libri"
+  }
+ ],
+ "book": "Goclenius, De vita prorogada (Mainz 1608): a single printed Latin treatise on preserving health, preceded by dedications and verses and followed by an alphabetical index. The treatise is divided into a short introduction of numbered quaestiones, then Caput I–XXI on air, food, drink and related matter, with quaestiones inside Caput III.",
+ "series": [
+  {
+   "label": "Caput",
+   "first": "I",
+   "last": "XXI",
+   "count": 21,
+   "level": 2,
+   "found": 24
+  },
+  {
+   "label": "Quaestio",
+   "first": "I",
+   "last": "III",
+   "count": 3,
+   "level": 2,
+   "found": 24
+  },
+  {
+   "label": "Quaestio",
+   "first": "I",
+   "last": "IX",
+   "count": 9,
+   "level": 3,
+   "found": 11
+  }
+ ],
+ "taste": 50,
+ "doubt": "",
+ "input": 54540,
+ "output": 24571
+}
