@@ -1,0 +1,48 @@
+{
+  "units": [
+    "380.15",
+    "380.16",
+    "380.17",
+    "380.18",
+    "380.19",
+    "380.20",
+    "380.21",
+    "380.22",
+    "380.23",
+    "380.24",
+    "380.25",
+    "380.26",
+    "380.27",
+    "380.28",
+    "380.29",
+    "380.30",
+    "380.31",
+    "380.32",
+    "380.33",
+    "380.34",
+    "380.35",
+    "380.36"
+  ],
+  "model": "claude-haiku-5-5",
+  "prompt_sha256": "12ce0f2da37c56b7",
+  "stop_reason": "end_turn",
+  "batch": true,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 1787,
+    "inference_geo": "global",
+    "input_tokens": 526,
+    "output_tokens": 1813,
+    "output_tokens_details": {
+      "thinking_tokens": 1450
+    },
+    "server_tool_use": null,
+    "service_tier": "batch",
+    "speed": "standard"
+  },
+  "cost_usd": 0.00049
+}
