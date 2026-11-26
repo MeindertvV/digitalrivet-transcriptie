@@ -1,0 +1,778 @@
+{
+ "work": "W03616_Hornius_Georgii_Hornii_Dissertationes_historicae_et_politicae_1655",
+ "made": "2026-11-26T11:37:44",
+ "model": "claude-haiku-5-5",
+ "prompt": "655260ce46aa8978",
+ "candidates": 377,
+ "cost_usd": 0.0222,
+ "dropped": [],
+ "toc": [
+  {
+   "scan": 3,
+   "line": 1,
+   "lines": [
+    [
+     3,
+     1
+    ],
+    [
+     3,
+     2
+    ],
+    [
+     3,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     3,
+     5
+    ]
+   ],
+   "level": 1,
+   "title": "Dedicatio. Nobilissimis & amplissimis Gymnasii Tetrarchiae Neomagensis curatoribus"
+  },
+  {
+   "scan": 14,
+   "line": 1,
+   "lines": [
+    [
+     14,
+     1
+    ],
+    [
+     14,
+     2
+    ],
+    [
+     14,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Lectori benevolo salutem"
+  },
+  {
+   "scan": 15,
+   "line": 1,
+   "lines": [
+    [
+     15,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Ad lectorem"
+  },
+  {
+   "scan": 17,
+   "line": 1,
+   "lines": [
+    [
+     17,
+     1
+    ],
+    [
+     17,
+     2
+    ],
+    [
+     17,
+     3
+    ],
+    [
+     17,
+     4
+    ],
+    [
+     17,
+     5
+    ],
+    [
+     17,
+     6
+    ]
+   ],
+   "level": 1,
+   "title": "Dissertatio I. De Ducatu Gelriae."
+  },
+  {
+   "scan": 24,
+   "line": 15,
+   "lines": [
+    [
+     24,
+     15
+    ],
+    [
+     24,
+     16
+    ],
+    [
+     24,
+     17
+    ]
+   ],
+   "level": 1,
+   "title": "Dissertatio II. De insula & oppido Batavorum, quod Neomagum vocant."
+  },
+  {
+   "scan": 33,
+   "line": 1,
+   "lines": [
+    [
+     33,
+     1
+    ],
+    [
+     33,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Dissertatio III. De insula & urbe Bommelensi."
+  },
+  {
+   "scan": 39,
+   "line": 14,
+   "lines": [
+    [
+     39,
+     14
+    ],
+    [
+     39,
+     15
+    ]
+   ],
+   "level": 1,
+   "title": "Dissertatio IV. De insula & urbe Tilensi."
+  },
+  {
+   "scan": 45,
+   "line": 1,
+   "lines": [
+    [
+     45,
+     1
+    ],
+    [
+     45,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Dissertatio V. De comitatu & urbe Zutphaniensi."
+  },
+  {
+   "scan": 51,
+   "line": 13,
+   "lines": [
+    [
+     51,
+     13
+    ],
+    [
+     51,
+     14
+    ],
+    [
+     51,
+     15
+    ]
+   ],
+   "level": 1,
+   "title": "Dissertatio VI. De comitatu Velavia & urbe Arnhemo."
+  },
+  {
+   "scan": 58,
+   "line": 1,
+   "lines": [
+    [
+     58,
+     1
+    ],
+    [
+     58,
+     2
+    ],
+    [
+     58,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Dissertatio VII. De urbe Drusiburgo, quam Doesburgum hodie vocant."
+  },
+  {
+   "scan": 64,
+   "line": 20,
+   "lines": [
+    [
+     64,
+     20
+    ],
+    [
+     64,
+     21
+    ]
+   ],
+   "level": 1,
+   "title": "Dissertatio VIII. De urbe Hardervico."
+  },
+  {
+   "scan": 72,
+   "line": 1,
+   "lines": [
+    [
+     72,
+     1
+    ],
+    [
+     72,
+     2
+    ],
+    [
+     72,
+     3
+    ],
+    [
+     72,
+     4
+    ]
+   ],
+   "level": 1,
+   "title": "Dissertatio IX. De Academiis in universum, & speciatim de Academia Gelro-Zutphaniensi, quae est Hardervici."
+  },
+  {
+   "scan": 79,
+   "line": 25,
+   "lines": [
+    [
+     79,
+     25
+    ],
+    [
+     79,
+     26
+    ]
+   ],
+   "level": 1,
+   "title": "Dissertatio X. De navigationibus & portubus."
+  },
+  {
+   "scan": 85,
+   "line": 1,
+   "lines": [
+    [
+     85,
+     1
+    ],
+    [
+     85,
+     2
+    ],
+    [
+     85,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Dissertatio XI. De Transisalania in universum, & speciatim urbe Zwolla."
+  },
+  {
+   "scan": 90,
+   "line": 18,
+   "lines": [
+    [
+     90,
+     18
+    ],
+    [
+     90,
+     19
+    ]
+   ],
+   "level": 1,
+   "title": "Dissertatio XII. De urbe Campensi."
+  },
+  {
+   "scan": 95,
+   "line": 6,
+   "lines": [
+    [
+     95,
+     6
+    ],
+    [
+     95,
+     7
+    ]
+   ],
+   "level": 1,
+   "title": "Dissertatio XIII. De Vada."
+  },
+  {
+   "scan": 99,
+   "line": 11,
+   "lines": [
+    [
+     99,
+     11
+    ],
+    [
+     99,
+     12
+    ]
+   ],
+   "level": 1,
+   "title": "Dissertatio XIV. De urbe Elburgo."
+  },
+  {
+   "scan": 102,
+   "line": 23,
+   "lines": [
+    [
+     102,
+     23
+    ],
+    [
+     102,
+     24
+    ]
+   ],
+   "level": 1,
+   "title": "Dissertatio XV. De India Orientali."
+  },
+  {
+   "scan": 110,
+   "line": 3,
+   "lines": [
+    [
+     110,
+     3
+    ],
+    [
+     110,
+     4
+    ],
+    [
+     110,
+     5
+    ],
+    [
+     110,
+     6
+    ],
+    [
+     110,
+     7
+    ],
+    [
+     110,
+     8
+    ]
+   ],
+   "level": 1,
+   "title": "Dissertatio XVI. De origine, constitutione, incremento, mutationibus & conservatione, serenissimae, potentissimae & florentissimae Reipublicae Belgicae."
+  },
+  {
+   "scan": 134,
+   "line": 1,
+   "lines": [
+    [
+     134,
+     1
+    ],
+    [
+     134,
+     2
+    ],
+    [
+     134,
+     3
+    ],
+    [
+     134,
+     4
+    ],
+    [
+     134,
+     5
+    ],
+    [
+     134,
+     6
+    ]
+   ],
+   "level": 1,
+   "title": "Dissertatio XVII. De tyrannide I. contra seditiosam & horribilem Iesuitarum doctrinam, quae reges & principes, titulo tyrannorum occidendos sicariis objiciunt."
+  },
+  {
+   "scan": 144,
+   "line": 1,
+   "lines": [
+    [
+     144,
+     1
+    ],
+    [
+     144,
+     2
+    ],
+    [
+     144,
+     3
+    ],
+    [
+     144,
+     4
+    ],
+    [
+     144,
+     5
+    ],
+    [
+     144,
+     6
+    ],
+    [
+     144,
+     7
+    ]
+   ],
+   "level": 1,
+   "title": "Dissertatio XVIII. De tyrannide secunda: quae est contra seditiosam & horribilem Iesuitarum doctrinam, qua reges & principes, titulo tyrannorum occidendos sicariis objiciunt."
+  },
+  {
+   "scan": 155,
+   "line": 20,
+   "lines": [
+    [
+     155,
+     20
+    ],
+    [
+     155,
+     21
+    ],
+    [
+     155,
+     22
+    ],
+    [
+     155,
+     23
+    ]
+   ],
+   "level": 1,
+   "title": "Dissertatio XIX. Contra id quod hactenus probavimus, excipiunt Jesvitæ nominatim Evdaemon;"
+  },
+  {
+   "scan": 203,
+   "line": 22,
+   "lines": [
+    [
+     203,
+     22
+    ],
+    [
+     203,
+     23
+    ],
+    [
+     203,
+     24
+    ]
+   ],
+   "level": 1,
+   "title": "Dissertatio XX. De regnis Daniae & Norwagiae."
+  },
+  {
+   "scan": 211,
+   "line": 12,
+   "lines": [
+    [
+     211,
+     12
+    ],
+    [
+     211,
+     13
+    ]
+   ],
+   "level": 1,
+   "title": "Dissertatio XXI. De Imperio Hunnorum."
+  },
+  {
+   "scan": 227,
+   "line": 1,
+   "lines": [
+    [
+     227,
+     1
+    ],
+    [
+     227,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Dissertatio XXII. De Comitatu Nassoviae."
+  },
+  {
+   "scan": 236,
+   "line": 14,
+   "lines": [
+    [
+     236,
+     14
+    ],
+    [
+     236,
+     15
+    ]
+   ],
+   "level": 1,
+   "title": "Dissertatio XXIII. De Ducatu Cliviae."
+  },
+  {
+   "scan": 252,
+   "line": 8,
+   "lines": [
+    [
+     252,
+     8
+    ],
+    [
+     252,
+     9
+    ]
+   ],
+   "level": 1,
+   "title": "Dissertatio XXIV. De Imperio Mexicano."
+  },
+  {
+   "scan": 258,
+   "line": 14,
+   "lines": [
+    [
+     258,
+     14
+    ],
+    [
+     258,
+     15
+    ],
+    [
+     258,
+     16
+    ]
+   ],
+   "level": 1,
+   "title": "Dissertatio XXV. De Magistratus authoritate, potestate & officio."
+  },
+  {
+   "scan": 266,
+   "line": 5,
+   "lines": [
+    [
+     266,
+     5
+    ],
+    [
+     266,
+     6
+    ]
+   ],
+   "level": 1,
+   "title": "Dissertatio XXVI. De Consilio & Consiliario."
+  },
+  {
+   "scan": 271,
+   "line": 18,
+   "lines": [
+    [
+     271,
+     18
+    ],
+    [
+     271,
+     19
+    ]
+   ],
+   "level": 1,
+   "title": "Dissertatio XXVII. De Democratia."
+  },
+  {
+   "scan": 276,
+   "line": 15,
+   "lines": [
+    [
+     276,
+     15
+    ],
+    [
+     276,
+     16
+    ]
+   ],
+   "level": 1,
+   "title": "Dissertatio XXVIII. De Aristocratia."
+  },
+  {
+   "scan": 287,
+   "line": 1,
+   "lines": [
+    [
+     287,
+     1
+    ],
+    [
+     287,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Dissertatio XXIX. De Ephoris."
+  },
+  {
+   "scan": 299,
+   "line": 1,
+   "lines": [
+    [
+     299,
+     1
+    ],
+    [
+     299,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Dissertatio XXX. De Seianismo Prima"
+  },
+  {
+   "scan": 308,
+   "line": 1,
+   "lines": [
+    [
+     308,
+     1
+    ],
+    [
+     308,
+     2
+    ],
+    [
+     308,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Dissertatio XXX. De Nominibus, Terminis, Temporibus Imperiorum fatalibus."
+  },
+  {
+   "scan": 322,
+   "line": 12,
+   "lines": [
+    [
+     322,
+     12
+    ],
+    [
+     322,
+     13
+    ],
+    [
+     322,
+     14
+    ]
+   ],
+   "level": 1,
+   "title": "Dissertatio XXXI. De Academiarum per Occidentem instauratione."
+  },
+  {
+   "scan": 339,
+   "line": 14,
+   "lines": [
+    [
+     339,
+     14
+    ],
+    [
+     339,
+     15
+    ],
+    [
+     339,
+     16
+    ]
+   ],
+   "level": 1,
+   "title": "Dissertatio XXXII. Specimen Historiae Americanae Veteris ante adventum Hispanorum."
+  },
+  {
+   "scan": 368,
+   "line": 16,
+   "lines": [
+    [
+     368,
+     16
+    ],
+    [
+     368,
+     17
+    ],
+    [
+     368,
+     18
+    ],
+    [
+     368,
+     19
+    ]
+   ],
+   "level": 1,
+   "title": "Dissertatio XXXIII. De Saracenorum origine & rebus gestis, Chronicon Volfgangi Drechsleri."
+  },
+  {
+   "scan": 410,
+   "line": 1,
+   "lines": [
+    [
+     410,
+     1
+    ],
+    [
+     410,
+     2
+    ],
+    [
+     410,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Index materiarum hoc opere contentarum."
+  }
+ ],
+ "book": "Georgii Hornii Dissertationes historicae et politicae (Lugd. Batavorum, 1655), a volume of front matter (dedication to the curators of the Neomagum gymnasium, note to the reader), then 34 numbered dissertations on Gelderland, Dutch and German history, the Jesuit doctrine of tyrannicide, Denmark, Hungary, Nassau, Cleves, Mexico, political theory, Seianism, academies, America and the Saracens, closed by a finis and a topical index of matters; the numeral XXX is printed twice.",
+ "series": [
+  {
+   "label": "Dissertatio",
+   "first": "I",
+   "last": "XXXIII",
+   "count": 34,
+   "level": 1,
+   "found": 38
+  }
+ ],
+ "taste": 50,
+ "doubt": "",
+ "input": 40737,
+ "output": 28697
+}
