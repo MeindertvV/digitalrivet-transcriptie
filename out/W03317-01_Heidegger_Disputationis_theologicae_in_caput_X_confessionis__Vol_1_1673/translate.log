@@ -1,0 +1,34 @@
+Translating 13 group(s) into English with claude-haiku-5-5, effort medium, batch
+Submitted batch msgbatch_01T9poK698R2h4fUhSoRPQDa with 13 group(s)
+Batch msgbatch_01T9poK698R2h4fUhSoRPQDa: 13 processing, 0 done, 0 errored
+Batch msgbatch_01T9poK698R2h4fUhSoRPQDa: 13 processing, 0 done, 0 errored
+Batch msgbatch_01T9poK698R2h4fUhSoRPQDa: 13 processing, 0 done, 0 errored
+Batch msgbatch_01T9poK698R2h4fUhSoRPQDa: 13 processing, 0 done, 0 errored
+Batch msgbatch_01T9poK698R2h4fUhSoRPQDa: 13 processing, 0 done, 0 errored
+Batch msgbatch_01T9poK698R2h4fUhSoRPQDa: 13 processing, 0 done, 0 errored
+Batch msgbatch_01T9poK698R2h4fUhSoRPQDa: 13 processing, 0 done, 0 errored
+  30.17: ok  [2 units, 3763 out (1495 thinking), $0.0011, total $0.00]
+    note: unit(s) [7] without the italics of the Latin
+  6.16: ok  [18 units, 7109 out (4022 thinking), $0.0020, total $0.00]
+  25.20: ok  [2 units, 6296 out (3346 thinking), $0.0018, total $0.00]
+  28.1: ok  [9 units, 4308 out (1563 thinking), $0.0013, total $0.01]
+  14.37: ok  [2 units, 4505 out (1673 thinking), $0.0013, total $0.01]
+  22.29: ok  [4 units, 6439 out (3513 thinking), $0.0018, total $0.01]
+  17.18: 4 of 7 units ok, unit(s) ['18.15', '18.21'] next to a unit that failed; unit(s) ['18.20'] much longer than the Latin  [7 units, 4787 out (1482 thinking), $0.0014, total $0.01]
+  32.16: ok  [21 units, 2393 out (606 thinking), $0.0007, total $0.01]
+  4.1: ok  [22 units, 2852 out (809 thinking), $0.0009, total $0.01]
+  12.7: ok  [9 units, 4955 out (1946 thinking), $0.0014, total $0.01]
+    note: unit(s) [2, 5, 8, 12, 18, 21, 24, 25, 26, 28] without the italics of the Latin
+  2.1: 21 of 36 units ok, unit(s) ['2.21', '3.4', '3.26', '3.29', '3.39', '3.40', '3.46'] next to a unit that failed; unit(s) ['2.22', '2.23', '3.9', '3.42'] much longer than the Latin; unit(s) ['3.1', '3.10', '3.32', '3.43'] much shorter than the Latin  [36 units, 3357 out (1873 thinking), $0.0011, total $0.01]
+  20.20: ok  [9 units, 5565 out (2807 thinking), $0.0016, total $0.02]
+  9.7: ok  [10 units, 4922 out (1528 thinking), $0.0015, total $0.02]
+Retrying 2 group(s) with units left directly
+    note: unit(s) [4, 15] without the italics of the Latin
+  2.21: ok  [15 units, 2691 out (1525 thinking), $0.0017, total $0.02]
+    note: unit(s) [1] without the italics of the Latin
+  18.15: 2 of 3 units ok, unit(s) ['18.20'] contains Arabic characters (U+0648 ARABIC LETTER WAW)  [3 units, 2638 out (1119 thinking), $0.0017, total $0.02]
+  18.20: FAILED: unit(s) ['18.20'] much longer than the Latin  [1 units, 886 out (646 thinking), $0.0005, total $0.02]
+  18.20~2: FAILED: unit(s) ['18.20'] much longer than the Latin  [1 units, 910 out (642 thinking), $0.0005, total $0.02]
+1 group(s) failed, listed in /home/user/digitalrivet-transcriptie/out/W03317-01_Heidegger_Disputationis_theologicae_in_caput_X_confessionis__Vol_1_1673/translation_en/failed.txt
+Spent this run: $0.022
+150 of 151 units translated -> /home/user/digitalrivet-transcriptie/out/W03317-01_Heidegger_Disputationis_theologicae_in_caput_X_confessionis__Vol_1_1673/translation_en.json
