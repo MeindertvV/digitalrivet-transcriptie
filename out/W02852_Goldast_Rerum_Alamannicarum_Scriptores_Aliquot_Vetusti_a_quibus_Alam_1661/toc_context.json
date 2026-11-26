@@ -1,0 +1,9373 @@
+{
+ "work": "W02852_Goldast_Rerum_Alamannicarum_Scriptores_Aliquot_Vetusti_a_quibus_Alam_1661",
+ "made": "2026-11-26T10:32:37",
+ "model": "claude-haiku-5-5",
+ "prompt": "655260ce46aa8978",
+ "candidates": 2970,
+ "cost_usd": 0.06674,
+ "dropped": [
+  "title 'LV. Litterae mandatorum' is not in 'LV.': to the scan",
+  "title 'XCIX. Vauco' moved from 'Anonymus. FINIS.' to 'Vauco.'",
+  "'XXXVIII. Quod baptismus tempore Paschae celebrandus sit catholicis' off the catchword 'XXXVIII.'",
+  "title 'Sed et abbatissae omne genus chartas aedebant, quarum unam precariam vidimus' is not in 'DIMUS satis longam hoc initio.': to the scan",
+  "order: {'ids': [2242], 'level': 1, 'title': 'Antiquitatum Alamannicarum Pars II. Complectens res ecclesiasticas, quas monachi appellant interiores'}",
+  "no scans for 3 wanted"
+ ],
+ "toc": [
+  {
+   "scan": 11,
+   "line": 1,
+   "lines": [
+    [
+     11,
+     1
+    ],
+    [
+     11,
+     2
+    ],
+    [
+     11,
+     3
+    ],
+    [
+     11,
+     4
+    ],
+    [
+     11,
+     5
+    ],
+    [
+     11,
+     6
+    ],
+    [
+     11,
+     7
+    ]
+   ],
+   "level": 1,
+   "title": "Dedicatio. Reverendissimo et Illustrissimo Principi ac Domino, D. Johanni Swichardo, Sacrae Moguntinae sedis Archiepiscopo, S. Romani Imperii per Germaniam Archicancellario, Principi Electori"
+  },
+  {
+   "scan": 15,
+   "line": 1,
+   "lines": [
+    [
+     15,
+     1
+    ],
+    [
+     15,
+     2
+    ],
+    [
+     15,
+     3
+    ],
+    [
+     15,
+     4
+    ],
+    [
+     15,
+     5
+    ],
+    [
+     15,
+     6
+    ],
+    [
+     15,
+     7
+    ],
+    [
+     15,
+     8
+    ]
+   ],
+   "level": 1,
+   "title": "Pauli Melissi Franci, comitis pal. eq. aur. et civis Romani, consiliarii Archipalatini, Melos ad Melchiorem Haiminsfeldium Goldastum, Nobilem Helvetium"
+  },
+  {
+   "scan": 16,
+   "line": 1,
+   "lines": [
+    [
+     16,
+     1
+    ],
+    [
+     16,
+     2
+    ],
+    [
+     16,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Syllabus scriptorum hoc tomo contentorum"
+  },
+  {
+   "scan": 17,
+   "line": 1,
+   "lines": [
+    [
+     17,
+     1
+    ],
+    [
+     17,
+     2
+    ],
+    [
+     17,
+     3
+    ],
+    [
+     17,
+     4
+    ],
+    [
+     17,
+     5
+    ]
+   ],
+   "level": 1,
+   "title": "Historiarum Alamannicarum Pars I. Complectens res in Alamannia gestas ab A.N.C. 1Oc. usque ad A.N. MCCL."
+  },
+  {
+   "scan": 17,
+   "line": 13,
+   "lines": [
+    [
+     17,
+     13
+    ],
+    [
+     17,
+     14
+    ]
+   ],
+   "level": 2,
+   "title": "De auctoribus et eorum scriptis"
+  },
+  {
+   "scan": 17,
+   "line": 15,
+   "lines": [
+    [
+     17,
+     15
+    ]
+   ],
+   "level": 3,
+   "title": "Hepidannus coenobita S. Galli"
+  },
+  {
+   "scan": 18,
+   "line": 1,
+   "lines": [
+    [
+     18,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "Ratpertus Thuregiensis monachus S. Galli"
+  },
+  {
+   "scan": 18,
+   "line": 30,
+   "lines": [
+    [
+     18,
+     30
+    ]
+   ],
+   "level": 3,
+   "title": "Ekkehardus Iunior monachus S. Galli"
+  },
+  {
+   "scan": 20,
+   "line": 15,
+   "lines": [
+    [
+     20,
+     15
+    ]
+   ],
+   "level": 3,
+   "title": "Burkhardus monachus S. Galli"
+  },
+  {
+   "scan": 20,
+   "line": 31,
+   "lines": [
+    [
+     20,
+     31
+    ]
+   ],
+   "level": 3,
+   "title": "Cunradus de Fabaria, presbyter S. Othmari"
+  },
+  {
+   "scan": 20,
+   "line": 41,
+   "lines": [
+    [
+     20,
+     41
+    ]
+   ],
+   "level": 3,
+   "title": "Bertholdus monachus S. Galli"
+  },
+  {
+   "scan": 20,
+   "line": 44,
+   "lines": [
+    [
+     20,
+     44
+    ]
+   ],
+   "level": 3,
+   "title": "Ioachimus Vadianus, cos. Sanctgallensis"
+  },
+  {
+   "scan": 21,
+   "line": 6,
+   "lines": [
+    [
+     21,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "Tiufburgius monachus S. Galli"
+  },
+  {
+   "scan": 21,
+   "line": 11,
+   "lines": [
+    [
+     21,
+     11
+    ]
+   ],
+   "level": 3,
+   "title": "Ioh. Georgius Tibianus"
+  },
+  {
+   "scan": 22,
+   "line": 1,
+   "lines": [
+    [
+     22,
+     1
+    ],
+    [
+     22,
+     2
+    ],
+    [
+     22,
+     3
+    ],
+    [
+     22,
+     4
+    ],
+    [
+     22,
+     5
+    ],
+    [
+     22,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "Hepidanni coenobitae S. Galli annales breves rerum in Alamannia gestarum. Anni Domini nostri incipiunt"
+  },
+  {
+   "scan": 35,
+   "line": 1,
+   "lines": [
+    [
+     35,
+     1
+    ],
+    [
+     35,
+     2
+    ],
+    [
+     35,
+     3
+    ],
+    [
+     35,
+     4
+    ],
+    [
+     35,
+     5
+    ],
+    [
+     35,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "Ratperti monachi S. Galli liber de origine et diversis casibus monasterii S. Galli in Alamannia"
+  },
+  {
+   "scan": 35,
+   "line": 7,
+   "lines": [
+    [
+     35,
+     7
+    ],
+    [
+     35,
+     8
+    ]
+   ],
+   "level": 3,
+   "title": "Caput I. De beatissimis viris Columbano et Gallo"
+  },
+  {
+   "scan": 36,
+   "line": 47,
+   "lines": [
+    [
+     36,
+     47
+    ],
+    [
+     36,
+     48
+    ]
+   ],
+   "level": 3,
+   "title": "Caput II. De S. Othmaro primo Abbate"
+  },
+  {
+   "scan": 37,
+   "line": 38,
+   "lines": [
+    [
+     37,
+     38
+    ],
+    [
+     37,
+     39
+    ]
+   ],
+   "level": 3,
+   "title": "Caput III. De Iohanne Episcopo et Abbate"
+  },
+  {
+   "scan": 38,
+   "line": 29,
+   "lines": [
+    [
+     38,
+     29
+    ],
+    [
+     38,
+     30
+    ]
+   ],
+   "level": 3,
+   "title": "Caput IV. De Waltone Abbate, et Eginone Episcopo Constantiensi"
+  },
+  {
+   "scan": 39,
+   "line": 6,
+   "lines": [
+    [
+     39,
+     6
+    ],
+    [
+     39,
+     7
+    ]
+   ],
+   "level": 3,
+   "title": "Caput V. De Werdone Abbate"
+  },
+  {
+   "scan": 40,
+   "line": 12,
+   "lines": [
+    [
+     40,
+     12
+    ],
+    [
+     40,
+     13
+    ]
+   ],
+   "level": 3,
+   "title": "Caput VI. De Cotzperto Abbate, et Wolfleoz Episcopo Constantiensi"
+  },
+  {
+   "scan": 41,
+   "line": 45,
+   "lines": [
+    [
+     41,
+     45
+    ],
+    [
+     41,
+     46
+    ]
+   ],
+   "level": 3,
+   "title": "Caput VII. De substitutione Bernwici Abbatis"
+  },
+  {
+   "scan": 42,
+   "line": 31,
+   "lines": [
+    [
+     42,
+     31
+    ],
+    [
+     42,
+     32
+    ]
+   ],
+   "level": 3,
+   "title": "Caput VIII. De substitutione Grimaldi Abbatis"
+  },
+  {
+   "scan": 45,
+   "line": 14,
+   "lines": [
+    [
+     45,
+     14
+    ],
+    [
+     45,
+     15
+    ]
+   ],
+   "level": 3,
+   "title": "Caput IX. De regimine Hartmoti Grimaldo Abbate adhuc viuente"
+  },
+  {
+   "scan": 47,
+   "line": 1,
+   "lines": [
+    [
+     47,
+     1
+    ],
+    [
+     47,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput X. De electione Hartmoti in Abbatem Grimaldo mortuo"
+  },
+  {
+   "scan": 49,
+   "line": 31,
+   "lines": [
+    [
+     49,
+     31
+    ],
+    [
+     49,
+     32
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XI. De Bernhardo Abbate"
+  },
+  {
+   "scan": 51,
+   "line": 1,
+   "lines": [
+    [
+     51,
+     1
+    ],
+    [
+     51,
+     2
+    ],
+    [
+     51,
+     3
+    ],
+    [
+     51,
+     4
+    ],
+    [
+     51,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Ekkehardi Iunioris coenobitae S. Galli liber de casibus monasterii S. Galli in Alamannia"
+  },
+  {
+   "scan": 51,
+   "line": 6,
+   "lines": [
+    [
+     51,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "Praeloquium"
+  },
+  {
+   "scan": 51,
+   "line": 31,
+   "lines": [
+    [
+     51,
+     31
+    ],
+    [
+     51,
+     32
+    ]
+   ],
+   "level": 3,
+   "title": "Caput I. De Salomone Abbate S. Galli"
+  },
+  {
+   "scan": 66,
+   "line": 17,
+   "lines": [
+    [
+     66,
+     17
+    ],
+    [
+     66,
+     18
+    ],
+    [
+     66,
+     19
+    ]
+   ],
+   "level": 3,
+   "title": "Caput II. De Magistro Isone Monacho S. Galli et discipulis eius"
+  },
+  {
+   "scan": 68,
+   "line": 11,
+   "lines": [
+    [
+     68,
+     11
+    ],
+    [
+     68,
+     12
+    ],
+    [
+     68,
+     13
+    ]
+   ],
+   "level": 3,
+   "title": "Caput III. De Magistro Notkero, et confodalibus suis Ratperto et Tutilone"
+  },
+  {
+   "scan": 76,
+   "line": 1,
+   "lines": [
+    [
+     76,
+     1
+    ],
+    [
+     76,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput IIII. De Hartmanno Abbate S. Galli"
+  },
+  {
+   "scan": 77,
+   "line": 13,
+   "lines": [
+    [
+     77,
+     13
+    ],
+    [
+     77,
+     14
+    ]
+   ],
+   "level": 3,
+   "title": "Caput V. De Engilberto Abbate S. Galli"
+  },
+  {
+   "scan": 85,
+   "line": 29,
+   "lines": [
+    [
+     85,
+     29
+    ],
+    [
+     85,
+     30
+    ]
+   ],
+   "level": 3,
+   "title": "Caput VI. De Thietone Abbate S. Galli"
+  },
+  {
+   "scan": 87,
+   "line": 1,
+   "lines": [
+    [
+     87,
+     1
+    ],
+    [
+     87,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput VII. De Cralone Abbate"
+  },
+  {
+   "scan": 87,
+   "line": 38,
+   "lines": [
+    [
+     87,
+     38
+    ],
+    [
+     87,
+     39
+    ]
+   ],
+   "level": 3,
+   "title": "Caput VIII. De Annone Abbate et eodem Cralone"
+  },
+  {
+   "scan": 88,
+   "line": 34,
+   "lines": [
+    [
+     88,
+     34
+    ],
+    [
+     88,
+     35
+    ]
+   ],
+   "level": 3,
+   "title": "Caput IX. De Cralone restituto Abbate"
+  },
+  {
+   "scan": 94,
+   "line": 1,
+   "lines": [
+    [
+     94,
+     1
+    ],
+    [
+     94,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput X. De Burkhardo Ingenito et parentibus eius"
+  },
+  {
+   "scan": 102,
+   "line": 1,
+   "lines": [
+    [
+     102,
+     1
+    ],
+    [
+     102,
+     2
+    ],
+    [
+     102,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XI. De visitatione sub Burckhardo Ingenito Abbate S. Galli auctoritate Imperatoris Ottonis facta"
+  },
+  {
+   "scan": 112,
+   "line": 31,
+   "lines": [
+    [
+     112,
+     31
+    ],
+    [
+     112,
+     32
+    ],
+    [
+     112,
+     33
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XII. De primitiua construtione capellae S. Galli, et eius dedicatione"
+  },
+  {
+   "scan": 113,
+   "line": 6,
+   "lines": [
+    [
+     113,
+     6
+    ],
+    [
+     113,
+     7
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XIII. De Notkero Medico, scriptore et pictore peritissimo"
+  },
+  {
+   "scan": 113,
+   "line": 37,
+   "lines": [
+    [
+     113,
+     37
+    ],
+    [
+     113,
+     38
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XIV. De Keroldo Monacho S. Galli"
+  },
+  {
+   "scan": 115,
+   "line": 1,
+   "lines": [
+    [
+     115,
+     1
+    ],
+    [
+     115,
+     2
+    ],
+    [
+     115,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XV. De Waltone Decano, et Kuniberto Praeposito Brisaugensi, et morte Kuniberti"
+  },
+  {
+   "scan": 116,
+   "line": 1,
+   "lines": [
+    [
+     116,
+     1
+    ],
+    [
+     116,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XVI. De Notkero Abbate S. Galli"
+  },
+  {
+   "scan": 126,
+   "line": 1,
+   "lines": [
+    [
+     126,
+     1
+    ],
+    [
+     126,
+     2
+    ],
+    [
+     126,
+     3
+    ],
+    [
+     126,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Burkhardi monachi S. Galli liber de casibus monasterii S. Galli in Alamannia"
+  },
+  {
+   "scan": 126,
+   "line": 5,
+   "lines": [
+    [
+     126,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Praeloquium"
+  },
+  {
+   "scan": 127,
+   "line": 1,
+   "lines": [
+    [
+     127,
+     1
+    ],
+    [
+     127,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput I. De Immone Abbate et morte eius"
+  },
+  {
+   "scan": 128,
+   "line": 25,
+   "lines": [
+    [
+     128,
+     25
+    ],
+    [
+     128,
+     26
+    ]
+   ],
+   "level": 3,
+   "title": "Caput II. De Vodalrico Abbate huius nominis primo"
+  },
+  {
+   "scan": 129,
+   "line": 8,
+   "lines": [
+    [
+     129,
+     8
+    ],
+    [
+     129,
+     9
+    ],
+    [
+     129,
+     10
+    ]
+   ],
+   "level": 3,
+   "title": "Caput III. De Kerhardo Abbate et accusatione fratrum contra ipsum facta"
+  },
+  {
+   "scan": 133,
+   "line": 18,
+   "lines": [
+    [
+     133,
+     18
+    ],
+    [
+     133,
+     19
+    ]
+   ],
+   "level": 3,
+   "title": "Caput IIII. De Burkhardo Abbate huius nominis secundo"
+  },
+  {
+   "scan": 134,
+   "line": 24,
+   "lines": [
+    [
+     134,
+     24
+    ],
+    [
+     134,
+     25
+    ]
+   ],
+   "level": 3,
+   "title": "Caput V. De Diepaldo Abbate S. Galli"
+  },
+  {
+   "scan": 134,
+   "line": 33,
+   "lines": [
+    [
+     134,
+     33
+    ],
+    [
+     134,
+     34
+    ]
+   ],
+   "level": 3,
+   "title": "Caput VI. De Notperto Abbate"
+  },
+  {
+   "scan": 135,
+   "line": 19,
+   "lines": [
+    [
+     135,
+     19
+    ],
+    [
+     135,
+     20
+    ],
+    [
+     135,
+     21
+    ]
+   ],
+   "level": 3,
+   "title": "Caput VII. De Vodalrico huius nominis tertio et postea Patriarcha Aquilegiensi"
+  },
+  {
+   "scan": 139,
+   "line": 40,
+   "lines": [
+    [
+     139,
+     40
+    ],
+    [
+     139,
+     41
+    ]
+   ],
+   "level": 3,
+   "title": "Caput VIII. De Manegoldo Abbate et eius Aduersario"
+  },
+  {
+   "scan": 141,
+   "line": 1,
+   "lines": [
+    [
+     141,
+     1
+    ],
+    [
+     141,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput IX. De Werinhero Abbate"
+  },
+  {
+   "scan": 141,
+   "line": 31,
+   "lines": [
+    [
+     141,
+     31
+    ],
+    [
+     141,
+     32
+    ],
+    [
+     141,
+     33
+    ]
+   ],
+   "level": 3,
+   "title": "Caput X. De Vodalrico Abbate huius nominis quarto natione de Tegerfeld"
+  },
+  {
+   "scan": 142,
+   "line": 22,
+   "lines": [
+    [
+     142,
+     22
+    ],
+    [
+     142,
+     23
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XI. De Vodalrico Abbate huius nominis quinto natione de Veringen"
+  },
+  {
+   "scan": 142,
+   "line": 33,
+   "lines": [
+    [
+     142,
+     33
+    ],
+    [
+     142,
+     34
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XII. De Heinrico Abbate natione de Klingen"
+  },
+  {
+   "scan": 144,
+   "line": 1,
+   "lines": [
+    [
+     144,
+     1
+    ],
+    [
+     144,
+     2
+    ],
+    [
+     144,
+     3
+    ],
+    [
+     144,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Cunradi de Fabaria presbyteri S. Othmari liber de casibus monasterii S. Galli in Alamannia"
+  },
+  {
+   "scan": 144,
+   "line": 5,
+   "lines": [
+    [
+     144,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Prohemium"
+  },
+  {
+   "scan": 144,
+   "line": 13,
+   "lines": [
+    [
+     144,
+     13
+    ],
+    [
+     144,
+     14
+    ]
+   ],
+   "level": 3,
+   "title": "Caput I. De Heinrico Abbate natione de Klingen"
+  },
+  {
+   "scan": 144,
+   "line": 33,
+   "lines": [
+    [
+     144,
+     33
+    ],
+    [
+     144,
+     34
+    ],
+    [
+     144,
+     35
+    ]
+   ],
+   "level": 3,
+   "title": "Caput II. De Vodalrico Abbate huius nominis sexto, natione de Sax"
+  },
+  {
+   "scan": 145,
+   "line": 21,
+   "lines": [
+    [
+     145,
+     21
+    ],
+    [
+     145,
+     22
+    ],
+    [
+     145,
+     23
+    ]
+   ],
+   "level": 3,
+   "title": "Caput III. Nomina quorundam fratrum in monasterio, qui columnae fuerunt ecclesiae verbo et exemplo"
+  },
+  {
+   "scan": 145,
+   "line": 32,
+   "lines": [
+    [
+     145,
+     32
+    ],
+    [
+     145,
+     33
+    ]
+   ],
+   "level": 3,
+   "title": "Caput IIII. Heinricus Decanus turrim cum tribus construxit capellis"
+  },
+  {
+   "scan": 146,
+   "line": 31,
+   "lines": [
+    [
+     146,
+     31
+    ],
+    [
+     146,
+     32
+    ]
+   ],
+   "level": 3,
+   "title": "Caput V. De electione Vodalrici benignissimi Abbatis"
+  },
+  {
+   "scan": 147,
+   "line": 30,
+   "lines": [
+    [
+     147,
+     30
+    ]
+   ],
+   "level": 3,
+   "title": "Caput VI"
+  },
+  {
+   "scan": 148,
+   "line": 5,
+   "lines": [
+    [
+     148,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Caput VII"
+  },
+  {
+   "scan": 148,
+   "line": 34,
+   "lines": [
+    [
+     148,
+     34
+    ]
+   ],
+   "level": 3,
+   "title": "Caput VIII"
+  },
+  {
+   "scan": 151,
+   "line": 38,
+   "lines": [
+    [
+     151,
+     38
+    ]
+   ],
+   "level": 3,
+   "title": "Caput IX"
+  },
+  {
+   "scan": 152,
+   "line": 16,
+   "lines": [
+    [
+     152,
+     16
+    ],
+    [
+     152,
+     17
+    ]
+   ],
+   "level": 3,
+   "title": "Caput X. De electione Ruodolfi de Giutingen"
+  },
+  {
+   "scan": 153,
+   "line": 43,
+   "lines": [
+    [
+     153,
+     43
+    ],
+    [
+     153,
+     44
+    ],
+    [
+     153,
+     45
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XI. De electione Cuonradi Abbatis de Busnang"
+  },
+  {
+   "scan": 155,
+   "line": 4,
+   "lines": [
+    [
+     155,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XII"
+  },
+  {
+   "scan": 155,
+   "line": 28,
+   "lines": [
+    [
+     155,
+     28
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XIII"
+  },
+  {
+   "scan": 156,
+   "line": 26,
+   "lines": [
+    [
+     156,
+     26
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XIV"
+  },
+  {
+   "scan": 160,
+   "line": 29,
+   "lines": [
+    [
+     160,
+     29
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XV"
+  },
+  {
+   "scan": 161,
+   "line": 7,
+   "lines": [
+    [
+     161,
+     7
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XVI"
+  },
+  {
+   "scan": 161,
+   "line": 43,
+   "lines": [
+    [
+     161,
+     43
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XVII"
+  },
+  {
+   "scan": 162,
+   "line": 15,
+   "lines": [
+    [
+     162,
+     15
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XVIII"
+  },
+  {
+   "scan": 162,
+   "line": 22,
+   "lines": [
+    [
+     162,
+     22
+    ],
+    [
+     162,
+     23
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XIX"
+  },
+  {
+   "scan": 163,
+   "line": 3,
+   "lines": [
+    [
+     163,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XX"
+  },
+  {
+   "scan": 163,
+   "line": 41,
+   "lines": [
+    [
+     163,
+     41
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXI"
+  },
+  {
+   "scan": 164,
+   "line": 17,
+   "lines": [
+    [
+     164,
+     17
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXII"
+  },
+  {
+   "scan": 165,
+   "line": 1,
+   "lines": [
+    [
+     165,
+     1
+    ],
+    [
+     165,
+     2
+    ],
+    [
+     165,
+     3
+    ],
+    [
+     165,
+     4
+    ],
+    [
+     165,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Cunradi de Fabaria presbyteri S. Othmari catalogus abbatum qui praefuerunt monasterio S. Galli"
+  },
+  {
+   "scan": 166,
+   "line": 16,
+   "lines": [
+    [
+     166,
+     16
+    ],
+    [
+     166,
+     17
+    ],
+    [
+     166,
+     18
+    ]
+   ],
+   "level": 2,
+   "title": "Anonymi de officialibus domini principis S. Galli"
+  },
+  {
+   "scan": 166,
+   "line": 28,
+   "lines": [
+    [
+     166,
+     28
+    ],
+    [
+     166,
+     29
+    ],
+    [
+     166,
+     30
+    ],
+    [
+     166,
+     31
+    ],
+    [
+     166,
+     36
+    ]
+   ],
+   "level": 2,
+   "title": "Bertholdi monachi annotatio de abbatibus monasterii S. Galli"
+  },
+  {
+   "scan": 168,
+   "line": 1,
+   "lines": [
+    [
+     168,
+     1
+    ],
+    [
+     168,
+     2
+    ],
+    [
+     168,
+     3
+    ],
+    [
+     168,
+     4
+    ],
+    [
+     168,
+     5
+    ],
+    [
+     168,
+     6
+    ],
+    [
+     168,
+     9
+    ]
+   ],
+   "level": 2,
+   "title": "Ioachimi Vadiani chronologia abbatum monasterii S. Galli cum notationibus ex vett. membranis anno Domini"
+  },
+  {
+   "scan": 171,
+   "line": 1,
+   "lines": [
+    [
+     171,
+     1
+    ],
+    [
+     171,
+     2
+    ],
+    [
+     171,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "N. de Tiufburg ephemerides monasterii S. Galli"
+  },
+  {
+   "scan": 171,
+   "line": 4,
+   "lines": [
+    [
+     171,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Ianuarius"
+  },
+  {
+   "scan": 171,
+   "line": 42,
+   "lines": [
+    [
+     171,
+     42
+    ]
+   ],
+   "level": 3,
+   "title": "Februarius"
+  },
+  {
+   "scan": 173,
+   "line": 8,
+   "lines": [
+    [
+     173,
+     8
+    ]
+   ],
+   "level": 3,
+   "title": "Martius"
+  },
+  {
+   "scan": 174,
+   "line": 18,
+   "lines": [
+    [
+     174,
+     18
+    ]
+   ],
+   "level": 3,
+   "title": "Aprilis"
+  },
+  {
+   "scan": 175,
+   "line": 32,
+   "lines": [
+    [
+     175,
+     32
+    ]
+   ],
+   "level": 3,
+   "title": "Maius"
+  },
+  {
+   "scan": 176,
+   "line": 21,
+   "lines": [
+    [
+     176,
+     21
+    ]
+   ],
+   "level": 3,
+   "title": "Iunius"
+  },
+  {
+   "scan": 177,
+   "line": 4,
+   "lines": [
+    [
+     177,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Iulius"
+  },
+  {
+   "scan": 177,
+   "line": 28,
+   "lines": [
+    [
+     177,
+     28
+    ]
+   ],
+   "level": 3,
+   "title": "Augustus"
+  },
+  {
+   "scan": 178,
+   "line": 1,
+   "lines": [
+    [
+     178,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "October"
+  },
+  {
+   "scan": 178,
+   "line": 32,
+   "lines": [
+    [
+     178,
+     32
+    ]
+   ],
+   "level": 3,
+   "title": "November"
+  },
+  {
+   "scan": 179,
+   "line": 31,
+   "lines": [
+    [
+     179,
+     31
+    ]
+   ],
+   "level": 3,
+   "title": "December"
+  },
+  {
+   "scan": 181,
+   "line": 1,
+   "lines": [
+    [
+     181,
+     1
+    ],
+    [
+     181,
+     2
+    ],
+    [
+     181,
+     3
+    ],
+    [
+     181,
+     4
+    ],
+    [
+     181,
+     5
+    ],
+    [
+     181,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "Ioh. Georgii Tibiani panegyricon. Super laudibus Acronii lacus in Alemannia, et eiusdem civitatum"
+  },
+  {
+   "scan": 185,
+   "line": 0,
+   "lines": [
+    [
+     185,
+     0
+    ]
+   ],
+   "level": 1,
+   "title": "Lectori benevolo S."
+  },
+  {
+   "scan": 244,
+   "line": 1,
+   "lines": [
+    [
+     244,
+     1
+    ],
+    [
+     244,
+     2
+    ],
+    [
+     244,
+     3
+    ],
+    [
+     244,
+     4
+    ],
+    [
+     244,
+     5
+    ]
+   ],
+   "level": 1,
+   "title": "Historiarum Alamannicarum Pars II. Complectens selectas Sanctorum historias, qui apud Alamannos claruere, in quibus plurima antiquitatis monumenta"
+  },
+  {
+   "scan": 244,
+   "line": 7,
+   "lines": [
+    [
+     244,
+     7
+    ],
+    [
+     244,
+     8
+    ]
+   ],
+   "level": 2,
+   "title": "De auctoribus et eorum scriptis"
+  },
+  {
+   "scan": 244,
+   "line": 9,
+   "lines": [
+    [
+     244,
+     9
+    ]
+   ],
+   "level": 3,
+   "title": "Walafridus Strabus abbas Augiensis"
+  },
+  {
+   "scan": 245,
+   "line": 25,
+   "lines": [
+    [
+     245,
+     25
+    ]
+   ],
+   "level": 3,
+   "title": "Iso magister, coenobita S. Galli"
+  },
+  {
+   "scan": 246,
+   "line": 1,
+   "lines": [
+    [
+     246,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "S. Theodorus eremita"
+  },
+  {
+   "scan": 246,
+   "line": 21,
+   "lines": [
+    [
+     246,
+     21
+    ]
+   ],
+   "level": 3,
+   "title": "Ermenricus Elevvangensis monachus"
+  },
+  {
+   "scan": 246,
+   "line": 34,
+   "lines": [
+    [
+     246,
+     34
+    ]
+   ],
+   "level": 3,
+   "title": "Anonymus scriptor vitae S. Findani"
+  },
+  {
+   "scan": 246,
+   "line": 39,
+   "lines": [
+    [
+     246,
+     39
+    ]
+   ],
+   "level": 3,
+   "title": "Hepidannus coenobita S. Galli"
+  },
+  {
+   "scan": 247,
+   "line": 9,
+   "lines": [
+    [
+     247,
+     9
+    ]
+   ],
+   "level": 2,
+   "title": "S. Fridolini historia"
+  },
+  {
+   "scan": 248,
+   "line": 1,
+   "lines": [
+    [
+     248,
+     1
+    ],
+    [
+     248,
+     2
+    ],
+    [
+     248,
+     3
+    ],
+    [
+     248,
+     4
+    ],
+    [
+     248,
+     5
+    ],
+    [
+     248,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "Walafridi Strabi abbatis Augiensis de vita B. Galli Confessoris liber I"
+  },
+  {
+   "scan": 248,
+   "line": 7,
+   "lines": [
+    [
+     248,
+     7
+    ]
+   ],
+   "level": 3,
+   "title": "Prologus"
+  },
+  {
+   "scan": 250,
+   "line": 9,
+   "lines": [
+    [
+     250,
+     9
+    ],
+    [
+     250,
+     10
+    ],
+    [
+     250,
+     11
+    ]
+   ],
+   "level": 3,
+   "title": "In nomine Domini nostri Iesu Christi incipit vita B. Galli Confessoris Christi"
+  },
+  {
+   "scan": 250,
+   "line": 12,
+   "lines": [
+    [
+     250,
+     12
+    ],
+    [
+     250,
+     13
+    ],
+    [
+     250,
+     14
+    ]
+   ],
+   "level": 3,
+   "title": "Caput I. Quibus profectibus B. Gallus a pueritia sub magisterio S. Columbani usque ad sacerdotii dignitatem profecerit"
+  },
+  {
+   "scan": 251,
+   "line": 1,
+   "lines": [
+    [
+     251,
+     1
+    ],
+    [
+     251,
+     2
+    ],
+    [
+     251,
+     3
+    ],
+    [
+     251,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Caput II. Qualiter sancti viri pro nomine Domini peregrinationem aggressi ad Sigibertum Regem pervenerint, et Luxouium coeperint incolere"
+  },
+  {
+   "scan": 251,
+   "line": 31,
+   "lines": [
+    [
+     251,
+     31
+    ],
+    [
+     251,
+     32
+    ],
+    [
+     251,
+     33
+    ],
+    [
+     251,
+     34
+    ],
+    [
+     251,
+     35
+    ]
+   ],
+   "level": 3,
+   "title": "Caput III. Qua auctoritate B. Columbanus Theodoricum Regem corripuit, et quibus odiis eum Brunnihildis de regno illo eiecerit"
+  },
+  {
+   "scan": 252,
+   "line": 18,
+   "lines": [
+    [
+     252,
+     18
+    ],
+    [
+     252,
+     19
+    ],
+    [
+     252,
+     20
+    ]
+   ],
+   "level": 3,
+   "title": "Caput IV. Quomodo optione data quaerendae habitationis ad Tucconiam venerunt, et quid ibidem gesserunt"
+  },
+  {
+   "scan": 253,
+   "line": 1,
+   "lines": [
+    [
+     253,
+     1
+    ],
+    [
+     253,
+     2
+    ],
+    [
+     253,
+     3
+    ],
+    [
+     253,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Caput V. Adventus eorum ad Willimarum presbyterum apud Arbonam, et humanitas eius, et Brigantii commemoratio"
+  },
+  {
+   "scan": 253,
+   "line": 28,
+   "lines": [
+    [
+     253,
+     28
+    ],
+    [
+     253,
+     29
+    ],
+    [
+     253,
+     30
+    ],
+    [
+     253,
+     31
+    ]
+   ],
+   "level": 3,
+   "title": "Caput VI. Ut eundem locum adierint, et quid in conventu populi B. Gallus fecerit, qualiter oratorium restaurauerint, et quamdiu ibidem constiterint"
+  },
+  {
+   "scan": 254,
+   "line": 24,
+   "lines": [
+    [
+     254,
+     24
+    ],
+    [
+     254,
+     25
+    ],
+    [
+     254,
+     26
+    ]
+   ],
+   "level": 3,
+   "title": "Caput VII. Quas Daemonum voces Gallus audierit, et quomodo idem error abscesserit"
+  },
+  {
+   "scan": 255,
+   "line": 1,
+   "lines": [
+    [
+     255,
+     1
+    ],
+    [
+     255,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput VIII. Machinatio et malicia incolarum aduersus sanctos viros, et post praeceptum Ducis consilium discedendi"
+  },
+  {
+   "scan": 255,
+   "line": 28,
+   "lines": [
+    [
+     255,
+     28
+    ],
+    [
+     255,
+     29
+    ],
+    [
+     255,
+     30
+    ],
+    [
+     255,
+     31
+    ]
+   ],
+   "level": 3,
+   "title": "Caput IX. Qualiter discedentibus caeteris Gallus ob infirmitatem remanserit, quaque sedulitate ab Willimaro presbytero receptus sit, et apud eum recreatus"
+  },
+  {
+   "scan": 256,
+   "line": 7,
+   "lines": [
+    [
+     256,
+     7
+    ],
+    [
+     256,
+     8
+    ]
+   ],
+   "level": 3,
+   "title": "Caput X. Insinuatio Hiltiboldi Diaconi de loco solitariae habitationis, quam vir Domini desiderabat"
+  },
+  {
+   "scan": 256,
+   "line": 36,
+   "lines": [
+    [
+     256,
+     36
+    ],
+    [
+     256,
+     37
+    ],
+    [
+     256,
+     38
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XI. Quomodo cum Diacono desertum penetrans optatum repererit locum, sibi praelegerit, et obedientia ursi"
+  },
+  {
+   "scan": 257,
+   "line": 38,
+   "lines": [
+    [
+     257,
+     38
+    ],
+    [
+     257,
+     39
+    ],
+    [
+     257,
+     40
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XII. Ut Daemonum fantasmata in specie mulierum ostensa eodem loco sanctus pater depulerit"
+  },
+  {
+   "scan": 258,
+   "line": 26,
+   "lines": [
+    [
+     258,
+     26
+    ],
+    [
+     258,
+     27
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XIII. Loci ipsius electio et serpentium discessio"
+  },
+  {
+   "scan": 258,
+   "line": 40,
+   "lines": [
+    [
+     258,
+     40
+    ],
+    [
+     258,
+     41
+    ],
+    [
+     258,
+     42
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XIIII. Qualiter locum eundem ieiunio dedicaverint, et ad castrum regressus mortem Episcopi cognoverit"
+  },
+  {
+   "scan": 259,
+   "line": 21,
+   "lines": [
+    [
+     259,
+     21
+    ],
+    [
+     259,
+     22
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XV. Quomodo ad Ducem cum Presbytero sit evocatus, et illuc ire nolens Retiam comearit, et a Ioanne Diacono susceptus sit"
+  },
+  {
+   "scan": 260,
+   "line": 8,
+   "lines": [
+    [
+     260,
+     8
+    ],
+    [
+     260,
+     9
+    ],
+    [
+     260,
+     10
+    ],
+    [
+     260,
+     11
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XVI. Qualiter missus post virum Dei presbytero Episcopi a Rege directi filiam ducis liberare non valentes ad Regem tum confusione redierint, confesso Daemone B. Galli virtutem"
+  },
+  {
+   "scan": 260,
+   "line": 44,
+   "lines": [
+    [
+     260,
+     44
+    ],
+    [
+     260,
+     45
+    ],
+    [
+     260,
+     46
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XVII. Ut vir Dei per praesbiterem ad Ducem venerit"
+  },
+  {
+   "scan": 261,
+   "line": 26,
+   "lines": [
+    [
+     261,
+     26
+    ],
+    [
+     261,
+     27
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XVIII. Qualiter oratione et verbo filiam Ducis a Daemone liberauerit"
+  },
+  {
+   "scan": 262,
+   "line": 1,
+   "lines": [
+    [
+     262,
+     1
+    ],
+    [
+     262,
+     2
+    ],
+    [
+     262,
+     3
+    ],
+    [
+     262,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XIX. Qua ratione oblatum episcopatus honorem respuerit, et quomodo pauperibus dona Ducis distribuerit, discipulum ad eleemosynam hortatus sit"
+  },
+  {
+   "scan": 262,
+   "line": 29,
+   "lines": [
+    [
+     262,
+     29
+    ],
+    [
+     262,
+     30
+    ],
+    [
+     262,
+     31
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XX. Quo caritatis feruore Iohannem Diaconum litteris euocatum instituerit"
+  },
+  {
+   "scan": 263,
+   "line": 1,
+   "lines": [
+    [
+     263,
+     1
+    ],
+    [
+     263,
+     2
+    ],
+    [
+     263,
+     3
+    ],
+    [
+     263,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXI. Quibus verbis Ducis filia vitam B. Galli et virtutes enarrans Sigiberti Regis illi gratiam et solatium impetrauerit"
+  },
+  {
+   "scan": 263,
+   "line": 32,
+   "lines": [
+    [
+     263,
+     32
+    ],
+    [
+     263,
+     33
+    ],
+    [
+     263,
+     34
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXII. Quo consilio eadem puella thalamos Regis euadens diuina se subdiderit seruituti"
+  },
+  {
+   "scan": 264,
+   "line": 37,
+   "lines": [
+    [
+     264,
+     37
+    ],
+    [
+     264,
+     38
+    ],
+    [
+     264,
+     39
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXIII. Quantum ex viri Dei doctrina et exemplis supra dictus Iohannes triennio profecerit"
+  },
+  {
+   "scan": 265,
+   "line": 1,
+   "lines": [
+    [
+     265,
+     1
+    ],
+    [
+     265,
+     2
+    ],
+    [
+     265,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXIIII. Quomodo B. Gallus ab episcopali sede promotione excusauerit in concilio principali"
+  },
+  {
+   "scan": 265,
+   "line": 37,
+   "lines": [
+    [
+     265,
+     37
+    ],
+    [
+     265,
+     38
+    ],
+    [
+     265,
+     39
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXV. Promotio et consecratio Iohannis supradicti, et cura quam postmodum sibi inuicem exhibuerint"
+  },
+  {
+   "scan": 266,
+   "line": 38,
+   "lines": [
+    [
+     266,
+     38
+    ],
+    [
+     266,
+     39
+    ],
+    [
+     266,
+     40
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXVI. Ut transitum B. Columbani S. Gallus sicut prius per visionem cognouerat, ita post discipuli legationem factum compererit"
+  },
+  {
+   "scan": 267,
+   "line": 26,
+   "lines": [
+    [
+     267,
+     26
+    ],
+    [
+     267,
+     27
+    ],
+    [
+     267,
+     28
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXVII. Miraculum tabulae incremento monstratum"
+  },
+  {
+   "scan": 267,
+   "line": 45,
+   "lines": [
+    [
+     267,
+     45
+    ],
+    [
+     267,
+     46
+    ],
+    [
+     267,
+     47
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXVIII. Qua ratione fratribus Luxouio venientibus satisfecerit, et quam mirabili eos doni caelestis ubertate refouerit"
+  },
+  {
+   "scan": 268,
+   "line": 43,
+   "lines": [
+    [
+     268,
+     43
+    ],
+    [
+     268,
+     44
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXIX. Quomodo sanctus pater inter aedificationis studia apud Arbonam migrarit ad Dominum"
+  },
+  {
+   "scan": 269,
+   "line": 17,
+   "lines": [
+    [
+     269,
+     17
+    ],
+    [
+     269,
+     18
+    ],
+    [
+     269,
+     19
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXX. Ut funeri eius Iohannes Episcopus interfuerit, et quemadmodum cognouerit non ibi eum debere recondi"
+  },
+  {
+   "scan": 270,
+   "line": 5,
+   "lines": [
+    [
+     270,
+     5
+    ],
+    [
+     270,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXXI. Debilis per vestimentorum sancti viri munus acceptum sanatus"
+  },
+  {
+   "scan": 270,
+   "line": 23,
+   "lines": [
+    [
+     270,
+     23
+    ],
+    [
+     270,
+     24
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXXII. Signa mortificationis eius post transitum deprehensa"
+  },
+  {
+   "scan": 270,
+   "line": 43,
+   "lines": [
+    [
+     270,
+     43
+    ],
+    [
+     270,
+     44
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXXIII. Quomodo ab equis indomitis ad locum sepulturae corpus eius delatum sit"
+  },
+  {
+   "scan": 271,
+   "line": 11,
+   "lines": [
+    [
+     271,
+     11
+    ],
+    [
+     271,
+     12
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXXIIII. Miraculum in cereis ostensum"
+  },
+  {
+   "scan": 271,
+   "line": 29,
+   "lines": [
+    [
+     271,
+     29
+    ],
+    [
+     271,
+     30
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXXV. Conclusio libelli"
+  },
+  {
+   "scan": 272,
+   "line": 1,
+   "lines": [
+    [
+     272,
+     1
+    ],
+    [
+     272,
+     2
+    ],
+    [
+     272,
+     3
+    ],
+    [
+     272,
+     4
+    ],
+    [
+     272,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Walafridi Strabi abbatis Augiensis de miraculis B. Galli Confessoris liber II"
+  },
+  {
+   "scan": 272,
+   "line": 6,
+   "lines": [
+    [
+     272,
+     6
+    ],
+    [
+     272,
+     7
+    ]
+   ],
+   "level": 3,
+   "title": "Caput I. Quomodo hostes sepulchrum B. Galli violauerunt"
+  },
+  {
+   "scan": 273,
+   "line": 7,
+   "lines": [
+    [
+     273,
+     7
+    ],
+    [
+     273,
+     8
+    ]
+   ],
+   "level": 3,
+   "title": "Caput II. Qualiter Bofo Episcopus corpus eius reposuerit"
+  },
+  {
+   "scan": 273,
+   "line": 23,
+   "lines": [
+    [
+     273,
+     23
+    ],
+    [
+     273,
+     24
+    ]
+   ],
+   "level": 3,
+   "title": "Caput III. Qua poena multati sint eiusdem loci violatores"
+  },
+  {
+   "scan": 273,
+   "line": 40,
+   "lines": [
+    [
+     273,
+     40
+    ],
+    [
+     273,
+     41
+    ]
+   ],
+   "level": 3,
+   "title": "Caput IIII. Quo miraculo palla super lectum sancti incensa redintegrata sit"
+  },
+  {
+   "scan": 274,
+   "line": 17,
+   "lines": [
+    [
+     274,
+     17
+    ],
+    [
+     274,
+     18
+    ]
+   ],
+   "level": 3,
+   "title": "Caput V. Miraculum missae auis"
+  },
+  {
+   "scan": 274,
+   "line": 30,
+   "lines": [
+    [
+     274,
+     30
+    ],
+    [
+     274,
+     31
+    ]
+   ],
+   "level": 3,
+   "title": "Caput VI. De signorum sancti viri multiplicitate"
+  },
+  {
+   "scan": 274,
+   "line": 45,
+   "lines": [
+    [
+     274,
+     45
+    ],
+    [
+     274,
+     46
+    ],
+    [
+     274,
+     47
+    ]
+   ],
+   "level": 3,
+   "title": "Caput VII. Quomodo donarium sancto deferendum ab incendio sit reseruatum"
+  },
+  {
+   "scan": 275,
+   "line": 14,
+   "lines": [
+    [
+     275,
+     14
+    ],
+    [
+     275,
+     15
+    ]
+   ],
+   "level": 3,
+   "title": "Caput VIII. Correctio eius, qui caballum, quem vouerat, fraude retinuit"
+  },
+  {
+   "scan": 275,
+   "line": 32,
+   "lines": [
+    [
+     275,
+     32
+    ],
+    [
+     275,
+     33
+    ]
+   ],
+   "level": 3,
+   "title": "Caput IX. Cera de furto oblata in lapidem conuersa"
+  },
+  {
+   "scan": 276,
+   "line": 1,
+   "lines": [
+    [
+     276,
+     1
+    ],
+    [
+     276,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput X. Pronunciatio scriptoris de qualitate operis assumpti"
+  },
+  {
+   "scan": 276,
+   "line": 24,
+   "lines": [
+    [
+     276,
+     24
+    ],
+    [
+     276,
+     25
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XI. Quemadmodum Pipinus eundem locum Othmaro cum priuilegio et donis commendarit"
+  },
+  {
+   "scan": 277,
+   "line": 29,
+   "lines": [
+    [
+     277,
+     29
+    ],
+    [
+     277,
+     30
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XII. Qualiter praecauentibus Victoris incursum populis signum caelitus sit datum"
+  },
+  {
+   "scan": 278,
+   "line": 7,
+   "lines": [
+    [
+     278,
+     7
+    ],
+    [
+     278,
+     8
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XIII. Qua animadversione idem a sua praesumptione sit repressus"
+  },
+  {
+   "scan": 278,
+   "line": 27,
+   "lines": [
+    [
+     278,
+     27
+    ],
+    [
+     278,
+     28
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XIIII. Paralyticus caecus et surdus B. Galli meritis sanatus"
+  },
+  {
+   "scan": 278,
+   "line": 44,
+   "lines": [
+    [
+     278,
+     44
+    ],
+    [
+     278,
+     45
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XV. Quomodo Othmarus Abba ab iniquis primatibus sit afflictus"
+  },
+  {
+   "scan": 279,
+   "line": 17,
+   "lines": [
+    [
+     279,
+     17
+    ],
+    [
+     279,
+     18
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XVI. Qualiter eorundem instinctu Sidonius Episcopus eundem locum innuaferit"
+  },
+  {
+   "scan": 279,
+   "line": 32,
+   "lines": [
+    [
+     279,
+     32
+    ],
+    [
+     279,
+     33
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XVII. Quod damnum in rebus suis pro eadem temeritate incurrerit"
+  },
+  {
+   "scan": 280,
+   "line": 1,
+   "lines": [
+    [
+     280,
+     1
+    ],
+    [
+     280,
+     2
+    ],
+    [
+     280,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XVIII. Qua sceleritate fratribus insliterit, et quam turpiter discesserit"
+  },
+  {
+   "scan": 280,
+   "line": 29,
+   "lines": [
+    [
+     280,
+     29
+    ],
+    [
+     280,
+     30
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XIX. Miraculum in sagina porcorum exhibitum"
+  },
+  {
+   "scan": 281,
+   "line": 11,
+   "lines": [
+    [
+     281,
+     11
+    ],
+    [
+     281,
+     12
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XX. Qualiter deprehensi sint qui stabula incenderunt"
+  },
+  {
+   "scan": 281,
+   "line": 32,
+   "lines": [
+    [
+     281,
+     32
+    ],
+    [
+     281,
+     33
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXI. Quomodo ille qui siluam publice incenderat correptus sit"
+  },
+  {
+   "scan": 282,
+   "line": 9,
+   "lines": [
+    [
+     282,
+     9
+    ],
+    [
+     282,
+     10
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXII. Quam periurus vindictam pertulerit"
+  },
+  {
+   "scan": 282,
+   "line": 27,
+   "lines": [
+    [
+     282,
+     27
+    ],
+    [
+     282,
+     28
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXIII. Quemadmodum inuocatus vir sanctus quondam a nece liberauerit"
+  },
+  {
+   "scan": 283,
+   "line": 1,
+   "lines": [
+    [
+     283,
+     1
+    ],
+    [
+     283,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXIIII. Puella Daemonio liberata"
+  },
+  {
+   "scan": 283,
+   "line": 24,
+   "lines": [
+    [
+     283,
+     24
+    ],
+    [
+     283,
+     25
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXV. Miraculo olei defluentis anxietas interpata custodis"
+  },
+  {
+   "scan": 283,
+   "line": 44,
+   "lines": [
+    [
+     283,
+     44
+    ],
+    [
+     283,
+     45
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXVI. Qualiter fugitiuus Monachus reuocatus sit inuitus"
+  },
+  {
+   "scan": 284,
+   "line": 2,
+   "lines": [
+    [
+     284,
+     2
+    ],
+    [
+     284,
+     3
+    ],
+    [
+     284,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXVII. Fulmine deformatus partes Roma, partim in hoc Sancto loco sanatus"
+  },
+  {
+   "scan": 285,
+   "line": 1,
+   "lines": [
+    [
+     285,
+     1
+    ],
+    [
+     285,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXVIII. Surdus et mutus ibidem sanitati restitutus"
+  },
+  {
+   "scan": 285,
+   "line": 4,
+   "lines": [
+    [
+     285,
+     4
+    ],
+    [
+     285,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXVIIII. Furiosum per visionem indicatum"
+  },
+  {
+   "scan": 285,
+   "line": 7,
+   "lines": [
+    [
+     285,
+     7
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXX. Qualiter ibi sanctimonialis foemina brachia receperit"
+  },
+  {
+   "scan": 285,
+   "line": 9,
+   "lines": [
+    [
+     285,
+     9
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXXI. Furtum in ferramentis factum quomodo sit denudatum"
+  },
+  {
+   "scan": 286,
+   "line": 1,
+   "lines": [
+    [
+     286,
+     1
+    ],
+    [
+     286,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXXII. Debilis reformatus"
+  },
+  {
+   "scan": 286,
+   "line": 9,
+   "lines": [
+    [
+     286,
+     9
+    ],
+    [
+     286,
+     10
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXXIII. Quidam a periculo fastidii liberatus"
+  },
+  {
+   "scan": 286,
+   "line": 20,
+   "lines": [
+    [
+     286,
+     20
+    ],
+    [
+     286,
+     21
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXXIIII. Alter a ferri vinculis absolutus"
+  },
+  {
+   "scan": 287,
+   "line": 8,
+   "lines": [
+    [
+     287,
+     8
+    ],
+    [
+     287,
+     9
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXXV. Pharus cum lampadibus mirabiliter seruata"
+  },
+  {
+   "scan": 287,
+   "line": 23,
+   "lines": [
+    [
+     287,
+     23
+    ],
+    [
+     287,
+     24
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXXVI. Lucerna casu non laesa"
+  },
+  {
+   "scan": 287,
+   "line": 31,
+   "lines": [
+    [
+     287,
+     31
+    ],
+    [
+     287,
+     32
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXXVII. Qua medela medico periclitanti subueniatur"
+  },
+  {
+   "scan": 288,
+   "line": 1,
+   "lines": [
+    [
+     288,
+     1
+    ],
+    [
+     288,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXXVIII. Puella a natiuitate caeca illuminata"
+  },
+  {
+   "scan": 288,
+   "line": 10,
+   "lines": [
+    [
+     288,
+     10
+    ],
+    [
+     288,
+     11
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXXIX. Infirmus puluere sarcofagi et oleo recreatus"
+  },
+  {
+   "scan": 288,
+   "line": 28,
+   "lines": [
+    [
+     288,
+     28
+    ],
+    [
+     288,
+     29
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XL. Manus arida puella restituta"
+  },
+  {
+   "scan": 288,
+   "line": 35,
+   "lines": [
+    [
+     288,
+     35
+    ],
+    [
+     288,
+     36
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XLI. Cera, quam rusticus ab Ecclesia rapuit, in lapidem conuersa"
+  },
+  {
+   "scan": 289,
+   "line": 1,
+   "lines": [
+    [
+     289,
+     1
+    ],
+    [
+     289,
+     2
+    ],
+    [
+     289,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XLII. Mutus vocis officio muneratus"
+  },
+  {
+   "scan": 289,
+   "line": 15,
+   "lines": [
+    [
+     289,
+     15
+    ],
+    [
+     289,
+     16
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XLIII. Puer contractus a debilitate liberatus"
+  },
+  {
+   "scan": 289,
+   "line": 38,
+   "lines": [
+    [
+     289,
+     38
+    ],
+    [
+     289,
+     39
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XLIIII. Paralytica sanitati restituta"
+  },
+  {
+   "scan": 290,
+   "line": 1,
+   "lines": [
+    [
+     290,
+     1
+    ],
+    [
+     290,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XLV. Caeca illuminata"
+  },
+  {
+   "scan": 290,
+   "line": 10,
+   "lines": [
+    [
+     290,
+     10
+    ],
+    [
+     290,
+     11
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XLVI. Candela caelitus incensa"
+  },
+  {
+   "scan": 290,
+   "line": 20,
+   "lines": [
+    [
+     290,
+     20
+    ],
+    [
+     290,
+     21
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XLVII. Scotus a multiplici debilitate curatus"
+  },
+  {
+   "scan": 291,
+   "line": 9,
+   "lines": [
+    [
+     291,
+     9
+    ],
+    [
+     291,
+     10
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XLVIII. Oratio Walafridi"
+  },
+  {
+   "scan": 292,
+   "line": 1,
+   "lines": [
+    [
+     292,
+     1
+    ],
+    [
+     292,
+     2
+    ],
+    [
+     292,
+     3
+    ],
+    [
+     292,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Walafridi Strabi abbatis Augiensis liber de vita S. Othmari abbatis"
+  },
+  {
+   "scan": 292,
+   "line": 5,
+   "lines": [
+    [
+     292,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Prologus"
+  },
+  {
+   "scan": 292,
+   "line": 23,
+   "lines": [
+    [
+     292,
+     23
+    ],
+    [
+     292,
+     24
+    ],
+    [
+     292,
+     25
+    ]
+   ],
+   "level": 3,
+   "title": "Caput I. Quomodo vir Dei Othmarus pro sanctitate vitae cellula S. Galli sit praelatus, et regia auctoritate regularem inibi vitam instituerit"
+  },
+  {
+   "scan": 293,
+   "line": 5,
+   "lines": [
+    [
+     293,
+     5
+    ],
+    [
+     293,
+     6
+    ],
+    [
+     293,
+     7
+    ]
+   ],
+   "level": 3,
+   "title": "Caput II. Qua conuersationis sanctae perfectione nituerit"
+  },
+  {
+   "scan": 293,
+   "line": 37,
+   "lines": [
+    [
+     293,
+     37
+    ],
+    [
+     293,
+     38
+    ],
+    [
+     293,
+     39
+    ]
+   ],
+   "level": 3,
+   "title": "Caput III. Quantam in pauperes misericordiam habuerit"
+  },
+  {
+   "scan": 294,
+   "line": 1,
+   "lines": [
+    [
+     294,
+     1
+    ],
+    [
+     294,
+     2
+    ],
+    [
+     294,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Caput IIII. Qualiter a quibusdam iniquis pro zelo iustitiae, quo ferebat, multis affectus fit iniuriis"
+  },
+  {
+   "scan": 294,
+   "line": 29,
+   "lines": [
+    [
+     294,
+     29
+    ],
+    [
+     294,
+     30
+    ],
+    [
+     294,
+     31
+    ]
+   ],
+   "level": 3,
+   "title": "Caput V. Quam in obiectione ficta criminis modestiam tenuerit, et qua accusator eius poena multatus sit"
+  },
+  {
+   "scan": 295,
+   "line": 1,
+   "lines": [
+    [
+     295,
+     1
+    ],
+    [
+     295,
+     2
+    ],
+    [
+     295,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Caput VI. Quomodo inter arta custodia claustra vitam finierit"
+  },
+  {
+   "scan": 295,
+   "line": 18,
+   "lines": [
+    [
+     295,
+     18
+    ],
+    [
+     295,
+     19
+    ],
+    [
+     295,
+     20
+    ]
+   ],
+   "level": 3,
+   "title": "Caput VII. Qualiter post multum temporis corpus eius sine corruptione repertum sit"
+  },
+  {
+   "scan": 295,
+   "line": 33,
+   "lines": [
+    [
+     295,
+     33
+    ],
+    [
+     295,
+     34
+    ],
+    [
+     295,
+     35
+    ]
+   ],
+   "level": 3,
+   "title": "Caput VIII. Quam mirabiliter in translatione corporis eius tempestas sedata sit"
+  },
+  {
+   "scan": 296,
+   "line": 5,
+   "lines": [
+    [
+     296,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Caput IX. De abundantia potus cuiusdam fontis miraculosi, et ubi corpus eius post translationem sepultum fuit"
+  },
+  {
+   "scan": 296,
+   "line": 29,
+   "lines": [
+    [
+     296,
+     29
+    ],
+    [
+     296,
+     30
+    ],
+    [
+     296,
+     31
+    ]
+   ],
+   "level": 3,
+   "title": "Caput X. Mutus et surdus ad sepulchrum eius curatus"
+  },
+  {
+   "scan": 297,
+   "line": 11,
+   "lines": [
+    [
+     297,
+     11
+    ],
+    [
+     297,
+     12
+    ],
+    [
+     297,
+     13
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XI. Quomodo lux in eodem loco caelitus data apparuerit"
+  },
+  {
+   "scan": 297,
+   "line": 21,
+   "lines": [
+    [
+     297,
+     21
+    ],
+    [
+     297,
+     22
+    ],
+    [
+     297,
+     23
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XII. Quidam ibidem casu desperatus quam facile conualuerit"
+  },
+  {
+   "scan": 297,
+   "line": 35,
+   "lines": [
+    [
+     297,
+     35
+    ],
+    [
+     297,
+     36
+    ],
+    [
+     297,
+     37
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XIII. Canto actus sanitatis restitutus"
+  },
+  {
+   "scan": 298,
+   "line": 17,
+   "lines": [
+    [
+     298,
+     17
+    ],
+    [
+     298,
+     18
+    ],
+    [
+     298,
+     19
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XIIII. Cerei lapidem conuersa"
+  },
+  {
+   "scan": 298,
+   "line": 27,
+   "lines": [
+    [
+     298,
+     27
+    ],
+    [
+     298,
+     28
+    ],
+    [
+     298,
+     29
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XV. Clerico quidam manus restituta"
+  },
+  {
+   "scan": 298,
+   "line": 39,
+   "lines": [
+    [
+     298,
+     39
+    ],
+    [
+     298,
+     40
+    ],
+    [
+     298,
+     41
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XVI. Quomodo idem sepulchrum in destructione basilicae illaesum permanserit, et qualiter reliquiae viri sancti translatae sint"
+  },
+  {
+   "scan": 299,
+   "line": 14,
+   "lines": [
+    [
+     299,
+     14
+    ],
+    [
+     299,
+     15
+    ],
+    [
+     299,
+     16
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XVII. Quae offensio in eodem oratorio cuidam fratri manifestata sit"
+  },
+  {
+   "scan": 465,
+   "line": 1,
+   "lines": [
+    [
+     465,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Catalogus nominum Alamannicorum"
+  },
+  {
+   "scan": 466,
+   "line": 1,
+   "lines": [
+    [
+     466,
+     1
+    ],
+    [
+     466,
+     2
+    ],
+    [
+     466,
+     3
+    ],
+    [
+     466,
+     4
+    ],
+    [
+     466,
+     5
+    ],
+    [
+     466,
+     6
+    ]
+   ],
+   "level": 1,
+   "title": "Lex Alamannorum"
+  },
+  {
+   "scan": 466,
+   "line": 7,
+   "lines": [
+    [
+     466,
+     7
+    ],
+    [
+     466,
+     8
+    ]
+   ],
+   "level": 3,
+   "title": "Capitulum I. De liberis qui res suas ad ecclesiam Dei tradunt"
+  },
+  {
+   "scan": 466,
+   "line": 24,
+   "lines": [
+    [
+     466,
+     24
+    ],
+    [
+     466,
+     25
+    ],
+    [
+     466,
+     26
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. II. De liberis qui res suas ad ecclesiam Dei tradunt, et in beneficium sub usufructuario accipiunt"
+  },
+  {
+   "scan": 467,
+   "line": 1,
+   "lines": [
+    [
+     467,
+     1
+    ],
+    [
+     467,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. III. De liberis et servis qui ad ecclesiam confugiunt"
+  },
+  {
+   "scan": 467,
+   "line": 18,
+   "lines": [
+    [
+     467,
+     18
+    ],
+    [
+     467,
+     19
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. IIII. De liberis qui infra ianuas ecclesiae interfecti fuerint"
+  },
+  {
+   "scan": 467,
+   "line": 24,
+   "lines": [
+    [
+     467,
+     24
+    ],
+    [
+     467,
+     25
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. V. De raptoribus qui de ecclesiis aliquid vi abstraxerint"
+  },
+  {
+   "scan": 467,
+   "line": 30,
+   "lines": [
+    [
+     467,
+     30
+    ],
+    [
+     467,
+     31
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. VI. De liberis qui de ecclesia aliquid furati fuerint"
+  },
+  {
+   "scan": 467,
+   "line": 39,
+   "lines": [
+    [
+     467,
+     39
+    ],
+    [
+     467,
+     40
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. VII. De liberis qui servum ecclesiae occiderunt"
+  },
+  {
+   "scan": 467,
+   "line": 46,
+   "lines": [
+    [
+     467,
+     46
+    ],
+    [
+     467,
+     47
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. VIII. De colonis ecclesiae occisis"
+  },
+  {
+   "scan": 468,
+   "line": 1,
+   "lines": [
+    [
+     468,
+     1
+    ],
+    [
+     468,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. VIIII. De eo qui in curte episcopi armatus ingreditur"
+  },
+  {
+   "scan": 468,
+   "line": 6,
+   "lines": [
+    [
+     468,
+     6
+    ],
+    [
+     468,
+     7
+    ],
+    [
+     468,
+     8
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. X. De eo qui in presbiteri curtem armatus ingreditur"
+  },
+  {
+   "scan": 468,
+   "line": 12,
+   "lines": [
+    [
+     468,
+     12
+    ],
+    [
+     468,
+     13
+    ],
+    [
+     468,
+     14
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. XI. De his qui episcopo aliquam iniuriam fecerint"
+  },
+  {
+   "scan": 468,
+   "line": 20,
+   "lines": [
+    [
+     468,
+     20
+    ],
+    [
+     468,
+     21
+    ],
+    [
+     468,
+     22
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. XII. De his qui presbitero parrochiano iniuriam intulerint"
+  },
+  {
+   "scan": 468,
+   "line": 27,
+   "lines": [
+    [
+     468,
+     27
+    ],
+    [
+     468,
+     28
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. XIII. De his qui diacono aliquam iniuriam fecerint"
+  },
+  {
+   "scan": 468,
+   "line": 33,
+   "lines": [
+    [
+     468,
+     33
+    ],
+    [
+     468,
+     34
+    ],
+    [
+     468,
+     35
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. XIIII. De his qui monacho aliquam iniuriam intulerint"
+  },
+  {
+   "scan": 468,
+   "line": 39,
+   "lines": [
+    [
+     468,
+     39
+    ],
+    [
+     468,
+     40
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. XV. De his qui clerico aliquam iniuriam fecerint"
+  },
+  {
+   "scan": 469,
+   "line": 1,
+   "lines": [
+    [
+     469,
+     1
+    ],
+    [
+     469,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. XVI. De liberis qui ad ecclesiam dimissi sunt, si occidantur"
+  },
+  {
+   "scan": 469,
+   "line": 5,
+   "lines": [
+    [
+     469,
+     5
+    ],
+    [
+     469,
+     6
+    ],
+    [
+     469,
+     7
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. XVII. De ancilla libera dimissa si postea servo se coniunxerit, et de Alamanna quae servo nupserit"
+  },
+  {
+   "scan": 469,
+   "line": 17,
+   "lines": [
+    [
+     469,
+     17
+    ],
+    [
+     469,
+     18
+    ],
+    [
+     469,
+     19
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. XVIII. Ut nullus laicus rem ecclesiae absque carta praesumat possidere"
+  },
+  {
+   "scan": 469,
+   "line": 23,
+   "lines": [
+    [
+     469,
+     23
+    ],
+    [
+     469,
+     24
+    ],
+    [
+     469,
+     25
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. XVIIII. Ut presbiter res vel mancipia ecclesiae potestatem vendendi non habeat"
+  },
+  {
+   "scan": 469,
+   "line": 31,
+   "lines": [
+    [
+     469,
+     31
+    ],
+    [
+     469,
+     32
+    ],
+    [
+     469,
+     33
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. XX. De his qui ecclesiae servum aut ancillam susceperint fugitivos"
+  },
+  {
+   "scan": 469,
+   "line": 39,
+   "lines": [
+    [
+     469,
+     39
+    ],
+    [
+     469,
+     40
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. XXI. Qualiter servi ecclesiae tributa solvere debeant"
+  },
+  {
+   "scan": 470,
+   "line": 1,
+   "lines": [
+    [
+     470,
+     1
+    ],
+    [
+     470,
+     2
+    ],
+    [
+     470,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. XXII. De servis ecclesiasticis si ad episcopum aut ad iudicem suum venire dispexerint"
+  },
+  {
+   "scan": 470,
+   "line": 12,
+   "lines": [
+    [
+     470,
+     12
+    ],
+    [
+     470,
+     13
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. XXIII. De eo qui mortem ducis consiliatus fuerit"
+  },
+  {
+   "scan": 470,
+   "line": 18,
+   "lines": [
+    [
+     470,
+     18
+    ],
+    [
+     470,
+     19
+    ],
+    [
+     470,
+     20
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. XXIIII. De homine qui gentem extraneam infra provinciam invitaverit"
+  },
+  {
+   "scan": 470,
+   "line": 25,
+   "lines": [
+    [
+     470,
+     25
+    ],
+    [
+     470,
+     26
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. XXV. De his qui in exercitu litem commiserint"
+  },
+  {
+   "scan": 470,
+   "line": 32,
+   "lines": [
+    [
+     470,
+     32
+    ],
+    [
+     470,
+     33
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. XXVI. De his qui in exercitu aliquod furtum fecerint"
+  },
+  {
+   "scan": 470,
+   "line": 38,
+   "lines": [
+    [
+     470,
+     38
+    ],
+    [
+     470,
+     39
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. XXVII. De eo qui sigillum aut mandatum ducis neglexerit"
+  },
+  {
+   "scan": 471,
+   "line": 1,
+   "lines": [
+    [
+     471,
+     1
+    ],
+    [
+     471,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. XXVIII. De eo qui in curte ducis hominem occiderit"
+  },
+  {
+   "scan": 471,
+   "line": 11,
+   "lines": [
+    [
+     471,
+     11
+    ],
+    [
+     471,
+     12
+    ],
+    [
+     471,
+     13
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. XXVIIII. De eo qui missum ducis infra provinciam occiderit"
+  },
+  {
+   "scan": 471,
+   "line": 17,
+   "lines": [
+    [
+     471,
+     17
+    ],
+    [
+     471,
+     18
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. XXX. De eo qui in curte regis furtum commiserit"
+  },
+  {
+   "scan": 471,
+   "line": 22,
+   "lines": [
+    [
+     471,
+     22
+    ],
+    [
+     471,
+     23
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. XXXI. De eo qui res ducis furaverit"
+  },
+  {
+   "scan": 471,
+   "line": 27,
+   "lines": [
+    [
+     471,
+     27
+    ],
+    [
+     471,
+     28
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. XXXII. De feminis quae in ministerio ducis sunt"
+  },
+  {
+   "scan": 471,
+   "line": 32,
+   "lines": [
+    [
+     471,
+     32
+    ],
+    [
+     471,
+     33
+    ],
+    [
+     471,
+     34
+    ],
+    [
+     471,
+     35
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. XXXIII. De eo qui praesumpserit infra provinciam res ducis hostiliter invadere"
+  },
+  {
+   "scan": 471,
+   "line": 42,
+   "lines": [
+    [
+     471,
+     42
+    ],
+    [
+     471,
+     43
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. XXXIIII. De filio ducis qui contra patrem suum surrexit"
+  },
+  {
+   "scan": 472,
+   "line": 14,
+   "lines": [
+    [
+     472,
+     14
+    ],
+    [
+     472,
+     15
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. XXXV. De conventu ut secundum antiquam consuetudinem fiat"
+  },
+  {
+   "scan": 472,
+   "line": 43,
+   "lines": [
+    [
+     472,
+     43
+    ],
+    [
+     472,
+     44
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. XXXVI. De mancipiis ne foris provincia vendantur"
+  },
+  {
+   "scan": 473,
+   "line": 5,
+   "lines": [
+    [
+     473,
+     5
+    ],
+    [
+     473,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. XXXVII. De eo qui die dominico opera servilia fecerit"
+  },
+  {
+   "scan": 473,
+   "line": 16,
+   "lines": [
+    [
+     473,
+     16
+    ],
+    [
+     473,
+     17
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. XXXVIII. De incestis nuptiis"
+  },
+  {
+   "scan": 473,
+   "line": 24,
+   "lines": [
+    [
+     473,
+     24
+    ],
+    [
+     473,
+     25
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. XXXVIIII. De patricidiis et fratricidiis"
+  },
+  {
+   "scan": 473,
+   "line": 32,
+   "lines": [
+    [
+     473,
+     32
+    ],
+    [
+     473,
+     33
+    ],
+    [
+     473,
+     34
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. XL. Ut nullus causam audire praesumat nisi qui a duce constitutus est"
+  },
+  {
+   "scan": 474,
+   "line": 3,
+   "lines": [
+    [
+     474,
+     3
+    ],
+    [
+     474,
+     4
+    ],
+    [
+     474,
+     5
+    ],
+    [
+     474,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. XLI. De eo qui saepe interpellatus ante ducem de qualicumque causa, et convictus fuerit, ne ad iuramentum permittatur"
+  },
+  {
+   "scan": 474,
+   "line": 17,
+   "lines": [
+    [
+     474,
+     17
+    ],
+    [
+     474,
+     18
+    ],
+    [
+     474,
+     19
+    ],
+    [
+     474,
+     20
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. XLII. Ut scriptura non valeat, in qua annus et dies non ostenditur"
+  },
+  {
+   "scan": 474,
+   "line": 22,
+   "lines": [
+    [
+     474,
+     22
+    ],
+    [
+     474,
+     23
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. XLIII. De libero qui alteri libero crimen mortale imposuerit"
+  },
+  {
+   "scan": 474,
+   "line": 28,
+   "lines": [
+    [
+     474,
+     28
+    ],
+    [
+     474,
+     29
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. XLIIII. De rixis quae saepe fieri solent in populo"
+  },
+  {
+   "scan": 474,
+   "line": 38,
+   "lines": [
+    [
+     474,
+     38
+    ],
+    [
+     474,
+     39
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. XLV. De libero qui liberum extra terminos vendiderit"
+  },
+  {
+   "scan": 475,
+   "line": 1,
+   "lines": [
+    [
+     475,
+     1
+    ],
+    [
+     475,
+     2
+    ],
+    [
+     475,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. XLVI. De eo qui feminam ingenuam extra marcam vendiderit"
+  },
+  {
+   "scan": 475,
+   "line": 7,
+   "lines": [
+    [
+     475,
+     7
+    ],
+    [
+     475,
+     8
+    ],
+    [
+     475,
+     9
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. XLVII. De libero qui liberum hominem vel feminam liberam infra provinciam vendiderit"
+  },
+  {
+   "scan": 475,
+   "line": 14,
+   "lines": [
+    [
+     475,
+     14
+    ],
+    [
+     475,
+     15
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. XLVIII. De eo qui hominem occiderit et eum morttodum fecerit"
+  },
+  {
+   "scan": 475,
+   "line": 20,
+   "lines": [
+    [
+     475,
+     20
+    ],
+    [
+     475,
+     21
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. XLIX. De eo qui liberum de terra effodierit"
+  },
+  {
+   "scan": 475,
+   "line": 26,
+   "lines": [
+    [
+     475,
+     26
+    ],
+    [
+     475,
+     27
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. L. De libero qui alterius uxorem tulerit"
+  },
+  {
+   "scan": 475,
+   "line": 36,
+   "lines": [
+    [
+     475,
+     36
+    ],
+    [
+     475,
+     37
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. LI. De eo qui sponsam alterius acceperit"
+  },
+  {
+   "scan": 475,
+   "line": 41,
+   "lines": [
+    [
+     475,
+     41
+    ],
+    [
+     475,
+     42
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. LII. De eo qui sponsam suam dimiserit et aliam duxerit"
+  },
+  {
+   "scan": 476,
+   "line": 1,
+   "lines": [
+    [
+     476,
+     1
+    ],
+    [
+     476,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. LIII. De eo qui filiam alienam non desponsatam acceperit"
+  },
+  {
+   "scan": 476,
+   "line": 9,
+   "lines": [
+    [
+     476,
+     9
+    ],
+    [
+     476,
+     10
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. LIIII. De uxore marito sine filiis relicta"
+  },
+  {
+   "scan": 476,
+   "line": 17,
+   "lines": [
+    [
+     476,
+     17
+    ],
+    [
+     476,
+     18
+    ],
+    [
+     476,
+     19
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. LV. De eo qui proximi sui defuncti uxori sine filiis relictae dotem contradixerit"
+  },
+  {
+   "scan": 476,
+   "line": 30,
+   "lines": [
+    [
+     476,
+     30
+    ],
+    [
+     476,
+     31
+    ],
+    [
+     476,
+     32
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. LVI. De hereditate duarum sororum, quae absque fratribus post mortem patris relictae sunt"
+  },
+  {
+   "scan": 476,
+   "line": 39,
+   "lines": [
+    [
+     476,
+     39
+    ],
+    [
+     476,
+     40
+    ],
+    [
+     476,
+     41
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. LVII. De eo qui mulierem in itinere vadentem denudaverit, aut cum ea maechaverit"
+  },
+  {
+   "scan": 476,
+   "line": 48,
+   "lines": [
+    [
+     476,
+     48
+    ],
+    [
+     476,
+     49
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. LVIII. De eo qui alium percusserit aut vulneraverit"
+  },
+  {
+   "scan": 477,
+   "line": 14,
+   "lines": [
+    [
+     477,
+     14
+    ],
+    [
+     477,
+     15
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. LVIIII. De eo qui alteri aurem abscideret"
+  },
+  {
+   "scan": 477,
+   "line": 20,
+   "lines": [
+    [
+     477,
+     20
+    ],
+    [
+     477,
+     21
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. LX. De eo qui palpebras alterius maculaverit"
+  },
+  {
+   "scan": 477,
+   "line": 27,
+   "lines": [
+    [
+     477,
+     27
+    ],
+    [
+     477,
+     28
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. LXI. De nare transpuncta"
+  },
+  {
+   "scan": 477,
+   "line": 32,
+   "lines": [
+    [
+     477,
+     32
+    ],
+    [
+     477,
+     33
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. LXII. De labiis maculatis"
+  },
+  {
+   "scan": 477,
+   "line": 44,
+   "lines": [
+    [
+     477,
+     44
+    ],
+    [
+     477,
+     45
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. LXIII. De lingua abscisa et de vulneribus in facie factis"
+  },
+  {
+   "scan": 477,
+   "line": 47,
+   "lines": [
+    [
+     477,
+     47
+    ],
+    [
+     477,
+     48
+    ],
+    [
+     477,
+     49
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. LXIIII. De eo qui alium contra legem tunderit, et diversis vulneribus"
+  },
+  {
+   "scan": 478,
+   "line": 42,
+   "lines": [
+    [
+     478,
+     42
+    ],
+    [
+     478,
+     43
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. LXV. De eo qui alteri viam contradixerit"
+  },
+  {
+   "scan": 478,
+   "line": 46,
+   "lines": [
+    [
+     478,
+     46
+    ],
+    [
+     478,
+     47
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. LXVI. De eo qui alterum de caballo iactaverit"
+  },
+  {
+   "scan": 478,
+   "line": 51,
+   "lines": [
+    [
+     478,
+     51
+    ],
+    [
+     478,
+     52
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. LXVII. De libero qui liberum occiderit"
+  },
+  {
+   "scan": 479,
+   "line": 5,
+   "lines": [
+    [
+     479,
+     5
+    ],
+    [
+     479,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. LXVIII. De eo qui alterius ammissarium furaverit"
+  },
+  {
+   "scan": 479,
+   "line": 13,
+   "lines": [
+    [
+     479,
+     13
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. LXVIIII."
+  },
+  {
+   "scan": 479,
+   "line": 23,
+   "lines": [
+    [
+     479,
+     23
+    ],
+    [
+     479,
+     24
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. LXX. De eo qui equum plagaverit dum hominem plagare voluerit"
+  },
+  {
+   "scan": 479,
+   "line": 29,
+   "lines": [
+    [
+     479,
+     29
+    ],
+    [
+     479,
+     30
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. LXXI. De eo qui in troppo de iumentis ductricem involaverit"
+  },
+  {
+   "scan": 479,
+   "line": 36,
+   "lines": [
+    [
+     479,
+     36
+    ],
+    [
+     479,
+     37
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. LXXII. De eo qui pregnum iumentum ferierit et abortivum fecerit"
+  },
+  {
+   "scan": 479,
+   "line": 40,
+   "lines": [
+    [
+     479,
+     40
+    ],
+    [
+     479,
+     41
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. LXXIII. Qualiter iumenta quae messem laeserint includantur"
+  },
+  {
+   "scan": 480,
+   "line": 1,
+   "lines": [
+    [
+     480,
+     1
+    ],
+    [
+     480,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. LXXIIII. De eo qui iurum gregem regentem involaverit aut occiderit"
+  },
+  {
+   "scan": 480,
+   "line": 4,
+   "lines": [
+    [
+     480,
+     4
+    ],
+    [
+     480,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. LXXV. De eo cui mortaudus imputatur"
+  },
+  {
+   "scan": 480,
+   "line": 7,
+   "lines": [
+    [
+     480,
+     7
+    ],
+    [
+     480,
+     8
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. LXXVI. De eo qui grauida mulieri natum interficerit"
+  },
+  {
+   "scan": 480,
+   "line": 10,
+   "lines": [
+    [
+     480,
+     10
+    ],
+    [
+     480,
+     11
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. LXXVII. De pretio bouis"
+  },
+  {
+   "scan": 480,
+   "line": 13,
+   "lines": [
+    [
+     480,
+     13
+    ],
+    [
+     480,
+     14
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. LXXVIII. De eo qui pastores vel artifices occiderit"
+  },
+  {
+   "scan": 480,
+   "line": 16,
+   "lines": [
+    [
+     480,
+     16
+    ],
+    [
+     480,
+     17
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. LXXVIIII. De eo qui cum ancilla vestiaria et genetiaria concubuerit"
+  },
+  {
+   "scan": 480,
+   "line": 19,
+   "lines": [
+    [
+     480,
+     19
+    ],
+    [
+     480,
+     20
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. LXXX. De eo qui incendium super alium in nocte miserit"
+  },
+  {
+   "scan": 480,
+   "line": 22,
+   "lines": [
+    [
+     480,
+     22
+    ],
+    [
+     480,
+     23
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. LXXXI. De canibus seuisibus vel alijs furatis aut occisis"
+  },
+  {
+   "scan": 481,
+   "line": 13,
+   "lines": [
+    [
+     481,
+     13
+    ],
+    [
+     481,
+     14
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. LXXXII. De eo qui aliquam clausuram in aqua fecerit et ibi aliquid negauerit"
+  },
+  {
+   "scan": 481,
+   "line": 21,
+   "lines": [
+    [
+     481,
+     21
+    ],
+    [
+     481,
+     22
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. LXXXIII. De his qui de terra sua inter se contendunt"
+  },
+  {
+   "scan": 481,
+   "line": 38,
+   "lines": [
+    [
+     481,
+     38
+    ],
+    [
+     481,
+     39
+    ],
+    [
+     481,
+     40
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. LXXXIIII. De eo qui servum alterius fugientem acceperit, et sequenti domino contradixerit"
+  },
+  {
+   "scan": 481,
+   "line": 45,
+   "lines": [
+    [
+     481,
+     45
+    ],
+    [
+     481,
+     46
+    ],
+    [
+     481,
+     47
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. LXXXV. De eo qui servum in pignus subscripserit, et si ipse servus aliquod damnum fecerit"
+  },
+  {
+   "scan": 482,
+   "line": 1,
+   "lines": [
+    [
+     482,
+     1
+    ],
+    [
+     482,
+     2
+    ],
+    [
+     482,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. LXXXVI. De eo qui alteri res suas apud se inventas contradixerit"
+  },
+  {
+   "scan": 482,
+   "line": 8,
+   "lines": [
+    [
+     482,
+     8
+    ],
+    [
+     482,
+     9
+    ],
+    [
+     482,
+     10
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. LXXXVII. Ut fratres post mortem patris eorum hereditatem non dissipent antequam dividant eam"
+  },
+  {
+   "scan": 482,
+   "line": 14,
+   "lines": [
+    [
+     482,
+     14
+    ],
+    [
+     482,
+     15
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. LXXXVIII. De eo qui hominem occiderit et negaverit"
+  },
+  {
+   "scan": 482,
+   "line": 20,
+   "lines": [
+    [
+     482,
+     20
+    ],
+    [
+     482,
+     21
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. LXXXVIIII. De coxa vel brachio incisis"
+  },
+  {
+   "scan": 482,
+   "line": 25,
+   "lines": [
+    [
+     482,
+     25
+    ],
+    [
+     482,
+     26
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. XC. De eo qui mulieri pregnandi abortivum fecerit"
+  },
+  {
+   "scan": 482,
+   "line": 32,
+   "lines": [
+    [
+     482,
+     32
+    ],
+    [
+     482,
+     33
+    ],
+    [
+     482,
+     34
+    ]
+   ],
+   "level": 3,
+   "title": "Capit. XCI. De hereditate quam mulier post partum statim mortua derelinquit"
+  },
+  {
+   "scan": 483,
+   "line": 12,
+   "lines": [
+    [
+     483,
+     12
+    ],
+    [
+     483,
+     13
+    ],
+    [
+     483,
+     14
+    ]
+   ],
+   "level": 2,
+   "title": "Hoc decretum est apud regem et principes eius, et apud cunctum populum christianum qui infra regnum Meruuungorum consistunt"
+  },
+  {
+   "scan": 483,
+   "line": 18,
+   "lines": [
+    [
+     483,
+     18
+    ],
+    [
+     483,
+     19
+    ]
+   ],
+   "level": 2,
+   "title": "VI. De iuratoribus quales vel quantos secundum cuna homo habere debet"
+  },
+  {
+   "scan": 483,
+   "line": 39,
+   "lines": [
+    [
+     483,
+     39
+    ]
+   ],
+   "level": 2,
+   "title": "VIII. Qualiter servi componendi sunt"
+  },
+  {
+   "scan": 484,
+   "line": 1,
+   "lines": [
+    [
+     484,
+     1
+    ],
+    [
+     484,
+     2
+    ],
+    [
+     484,
+     3
+    ],
+    [
+     484,
+     4
+    ],
+    [
+     484,
+     5
+    ],
+    [
+     484,
+     6
+    ]
+   ],
+   "level": 1,
+   "title": "Chartarum et instrumentorum veterum Alamannorum centuria una, in certos titulos digesta"
+  },
+  {
+   "scan": 484,
+   "line": 6,
+   "lines": [
+    [
+     484,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "De ingenuitate"
+  },
+  {
+   "scan": 484,
+   "line": 7,
+   "lines": [
+    [
+     484,
+     7
+    ],
+    [
+     484,
+     8
+    ]
+   ],
+   "level": 3,
+   "title": "I. Madalfredus"
+  },
+  {
+   "scan": 484,
+   "line": 33,
+   "lines": [
+    [
+     484,
+     33
+    ],
+    [
+     484,
+     34
+    ]
+   ],
+   "level": 3,
+   "title": "II. Sintpertus monachus"
+  },
+  {
+   "scan": 495,
+   "line": 2,
+   "lines": [
+    [
+     495,
+     2
+    ],
+    [
+     495,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "III. Albuinus clericus. De servitute"
+  },
+  {
+   "scan": 495,
+   "line": 18,
+   "lines": [
+    [
+     495,
+     18
+    ]
+   ],
+   "level": 3,
+   "title": "IIII. Anonymus"
+  },
+  {
+   "scan": 495,
+   "line": 28,
+   "lines": [
+    [
+     495,
+     28
+    ],
+    [
+     495,
+     29
+    ],
+    [
+     495,
+     30
+    ]
+   ],
+   "level": 2,
+   "title": "De manumissione. V. Nandcrimus monachus"
+  },
+  {
+   "scan": 495,
+   "line": 44,
+   "lines": [
+    [
+     495,
+     44
+    ],
+    [
+     495,
+     45
+    ]
+   ],
+   "level": 3,
+   "title": "VI. Ernustus cancellarius"
+  },
+  {
+   "scan": 496,
+   "line": 8,
+   "lines": [
+    [
+     496,
+     8
+    ],
+    [
+     496,
+     9
+    ]
+   ],
+   "level": 3,
+   "title": "VII. Vuato diaconus"
+  },
+  {
+   "scan": 496,
+   "line": 35,
+   "lines": [
+    [
+     496,
+     35
+    ],
+    [
+     496,
+     36
+    ]
+   ],
+   "level": 3,
+   "title": "VIII. Thiothartus"
+  },
+  {
+   "scan": 497,
+   "line": 9,
+   "lines": [
+    [
+     497,
+     9
+    ],
+    [
+     497,
+     10
+    ],
+    [
+     497,
+     11
+    ]
+   ],
+   "level": 2,
+   "title": "De dote. IX. Formula Ifonis"
+  },
+  {
+   "scan": 497,
+   "line": 17,
+   "lines": [
+    [
+     497,
+     17
+    ],
+    [
+     497,
+     18
+    ]
+   ],
+   "level": 3,
+   "title": "X. Anonymus"
+  },
+  {
+   "scan": 497,
+   "line": 31,
+   "lines": [
+    [
+     497,
+     31
+    ],
+    [
+     497,
+     32
+    ],
+    [
+     497,
+     33
+    ]
+   ],
+   "level": 2,
+   "title": "De donationibus. XI. Pernhardus subdiaconus"
+  },
+  {
+   "scan": 497,
+   "line": 49,
+   "lines": [
+    [
+     497,
+     49
+    ],
+    [
+     497,
+     50
+    ]
+   ],
+   "level": 3,
+   "title": "XII. Alboinus"
+  },
+  {
+   "scan": 498,
+   "line": 29,
+   "lines": [
+    [
+     498,
+     29
+    ],
+    [
+     498,
+     30
+    ],
+    [
+     498,
+     31
+    ]
+   ],
+   "level": 2,
+   "title": "De testamentis. XIII. Vmbertus canonicus"
+  },
+  {
+   "scan": 499,
+   "line": 1,
+   "lines": [
+    [
+     499,
+     1
+    ],
+    [
+     499,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "XIIII. Anonymus"
+  },
+  {
+   "scan": 499,
+   "line": 9,
+   "lines": [
+    [
+     499,
+     9
+    ],
+    [
+     499,
+     10
+    ],
+    [
+     499,
+     11
+    ]
+   ],
+   "level": 2,
+   "title": "De codicillis. XV. Mano diaconus"
+  },
+  {
+   "scan": 499,
+   "line": 31,
+   "lines": [
+    [
+     499,
+     31
+    ],
+    [
+     499,
+     32
+    ],
+    [
+     499,
+     33
+    ]
+   ],
+   "level": 2,
+   "title": "De permutationibus et concambiis. XVI. Formula Ifonis"
+  },
+  {
+   "scan": 500,
+   "line": 8,
+   "lines": [
+    [
+     500,
+     8
+    ],
+    [
+     500,
+     9
+    ]
+   ],
+   "level": 3,
+   "title": "XVII. Theotardus praepositus"
+  },
+  {
+   "scan": 500,
+   "line": 40,
+   "lines": [
+    [
+     500,
+     40
+    ],
+    [
+     500,
+     41
+    ]
+   ],
+   "level": 3,
+   "title": "XVIII. Risine subdiaconus"
+  },
+  {
+   "scan": 501,
+   "line": 16,
+   "lines": [
+    [
+     501,
+     16
+    ]
+   ],
+   "level": 3,
+   "title": "XIX. Notkerus"
+  },
+  {
+   "scan": 501,
+   "line": 28,
+   "lines": [
+    [
+     501,
+     28
+    ]
+   ],
+   "level": 3,
+   "title": "XX. Ratpertus monachus"
+  },
+  {
+   "scan": 501,
+   "line": 40,
+   "lines": [
+    [
+     501,
+     40
+    ],
+    [
+     501,
+     41
+    ]
+   ],
+   "level": 3,
+   "title": "XXI. Sigibertus presbyter"
+  },
+  {
+   "scan": 502,
+   "line": 10,
+   "lines": [
+    [
+     502,
+     10
+    ],
+    [
+     502,
+     11
+    ]
+   ],
+   "level": 3,
+   "title": "XXII. Herimotus monachus"
+  },
+  {
+   "scan": 502,
+   "line": 27,
+   "lines": [
+    [
+     502,
+     27
+    ],
+    [
+     502,
+     28
+    ]
+   ],
+   "level": 3,
+   "title": "XXIII. Ruadgangus"
+  },
+  {
+   "scan": 502,
+   "line": 43,
+   "lines": [
+    [
+     502,
+     43
+    ],
+    [
+     502,
+     44
+    ]
+   ],
+   "level": 3,
+   "title": "XXIV. Ratpertus levita"
+  },
+  {
+   "scan": 503,
+   "line": 11,
+   "lines": [
+    [
+     503,
+     11
+    ],
+    [
+     503,
+     12
+    ],
+    [
+     503,
+     13
+    ]
+   ],
+   "level": 2,
+   "title": "De transactionibus et pactionibus. XXV. Formula Ifonis"
+  },
+  {
+   "scan": 503,
+   "line": 30,
+   "lines": [
+    [
+     503,
+     30
+    ],
+    [
+     503,
+     31
+    ]
+   ],
+   "level": 3,
+   "title": "XXVI. Vuolfcozus"
+  },
+  {
+   "scan": 504,
+   "line": 20,
+   "lines": [
+    [
+     504,
+     20
+    ],
+    [
+     504,
+     21
+    ]
+   ],
+   "level": 3,
+   "title": "XXVII. Anonymus"
+  },
+  {
+   "scan": 505,
+   "line": 1,
+   "lines": [
+    [
+     505,
+     1
+    ],
+    [
+     505,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "XXVIII. Etcho archipresbyter"
+  },
+  {
+   "scan": 505,
+   "line": 29,
+   "lines": [
+    [
+     505,
+     29
+    ],
+    [
+     505,
+     30
+    ],
+    [
+     505,
+     31
+    ]
+   ],
+   "level": 2,
+   "title": "De emptione et venditione. XXIX. Vuaringilus cancellarius"
+  },
+  {
+   "scan": 505,
+   "line": 48,
+   "lines": [
+    [
+     505,
+     48
+    ],
+    [
+     505,
+     49
+    ]
+   ],
+   "level": 3,
+   "title": "XXX. Andreas presbyter"
+  },
+  {
+   "scan": 506,
+   "line": 17,
+   "lines": [
+    [
+     506,
+     17
+    ],
+    [
+     506,
+     18
+    ]
+   ],
+   "level": 3,
+   "title": "XXXI. Lauefo presbyter"
+  },
+  {
+   "scan": 506,
+   "line": 43,
+   "lines": [
+    [
+     506,
+     43
+    ],
+    [
+     506,
+     44
+    ]
+   ],
+   "level": 3,
+   "title": "XXXII. Vuilimannus clericus"
+  },
+  {
+   "scan": 507,
+   "line": 10,
+   "lines": [
+    [
+     507,
+     10
+    ],
+    [
+     507,
+     11
+    ]
+   ],
+   "level": 3,
+   "title": "XXXIII. Vmbertus canonicus"
+  },
+  {
+   "scan": 507,
+   "line": 28,
+   "lines": [
+    [
+     507,
+     28
+    ],
+    [
+     507,
+     29
+    ],
+    [
+     507,
+     30
+    ]
+   ],
+   "level": 2,
+   "title": "De rerum traditione. XXXIIII. Formula Ifonis"
+  },
+  {
+   "scan": 507,
+   "line": 42,
+   "lines": [
+    [
+     507,
+     42
+    ],
+    [
+     507,
+     43
+    ]
+   ],
+   "level": 3,
+   "title": "XXXV. Audo clericus"
+  },
+  {
+   "scan": 508,
+   "line": 17,
+   "lines": [
+    [
+     508,
+     17
+    ],
+    [
+     508,
+     18
+    ]
+   ],
+   "level": 3,
+   "title": "XXXVI. Siluester diaconus"
+  },
+  {
+   "scan": 508,
+   "line": 39,
+   "lines": [
+    [
+     508,
+     39
+    ],
+    [
+     508,
+     40
+    ]
+   ],
+   "level": 3,
+   "title": "XXXVII. Idem"
+  },
+  {
+   "scan": 509,
+   "line": 15,
+   "lines": [
+    [
+     509,
+     15
+    ],
+    [
+     509,
+     16
+    ]
+   ],
+   "level": 3,
+   "title": "XXXVIII. Idem"
+  },
+  {
+   "scan": 509,
+   "line": 39,
+   "lines": [
+    [
+     509,
+     39
+    ],
+    [
+     509,
+     40
+    ]
+   ],
+   "level": 3,
+   "title": "XXXIX. Hiringus monachus"
+  },
+  {
+   "scan": 510,
+   "line": 36,
+   "lines": [
+    [
+     510,
+     36
+    ],
+    [
+     510,
+     37
+    ],
+    [
+     510,
+     38
+    ]
+   ],
+   "level": 3,
+   "title": "XL. Landarius presbyter"
+  },
+  {
+   "scan": 511,
+   "line": 4,
+   "lines": [
+    [
+     511,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "XLI. Anonymus"
+  },
+  {
+   "scan": 511,
+   "line": 24,
+   "lines": [
+    [
+     511,
+     24
+    ]
+   ],
+   "level": 3,
+   "title": "XLII. Liutfridus presbyter"
+  },
+  {
+   "scan": 512,
+   "line": 5,
+   "lines": [
+    [
+     512,
+     5
+    ],
+    [
+     512,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "XLIII. Vuaringisus"
+  },
+  {
+   "scan": 512,
+   "line": 27,
+   "lines": [
+    [
+     512,
+     27
+    ],
+    [
+     512,
+     28
+    ]
+   ],
+   "level": 3,
+   "title": "XLIIII. Vuaringisus"
+  },
+  {
+   "scan": 512,
+   "line": 45,
+   "lines": [
+    [
+     512,
+     45
+    ],
+    [
+     512,
+     46
+    ]
+   ],
+   "level": 3,
+   "title": "XLV. Moathelmus clericus"
+  },
+  {
+   "scan": 513,
+   "line": 32,
+   "lines": [
+    [
+     513,
+     32
+    ],
+    [
+     513,
+     33
+    ]
+   ],
+   "level": 3,
+   "title": "XLVI. Vsalto diaconus"
+  },
+  {
+   "scan": 514,
+   "line": 5,
+   "lines": [
+    [
+     514,
+     5
+    ],
+    [
+     514,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "XLVII. Emicho"
+  },
+  {
+   "scan": 514,
+   "line": 29,
+   "lines": [
+    [
+     514,
+     29
+    ],
+    [
+     514,
+     30
+    ]
+   ],
+   "level": 3,
+   "title": "XLVIII. Adalhardus lector"
+  },
+  {
+   "scan": 515,
+   "line": 4,
+   "lines": [
+    [
+     515,
+     4
+    ],
+    [
+     515,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "XLIX. Bernegarius presbyter"
+  },
+  {
+   "scan": 515,
+   "line": 34,
+   "lines": [
+    [
+     515,
+     34
+    ],
+    [
+     515,
+     35
+    ]
+   ],
+   "level": 3,
+   "title": "L. Atto clericus"
+  },
+  {
+   "scan": 516,
+   "line": 17,
+   "lines": [
+    [
+     516,
+     17
+    ],
+    [
+     516,
+     18
+    ]
+   ],
+   "level": 3,
+   "title": "LI. Hratbertus comes"
+  },
+  {
+   "scan": 517,
+   "line": 1,
+   "lines": [
+    [
+     517,
+     1
+    ],
+    [
+     517,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "LIII. Notger et Bebo"
+  },
+  {
+   "scan": 517,
+   "line": 11,
+   "lines": [
+    [
+     517,
+     11
+    ],
+    [
+     517,
+     12
+    ]
+   ],
+   "level": 3,
+   "title": "LIIII. Dodo"
+  },
+  {
+   "scan": 517,
+   "line": 23,
+   "lines": [
+    [
+     517,
+     23
+    ],
+    [
+     517,
+     24
+    ]
+   ],
+   "level": 3,
+   "title": "LIIII. Albricus diaconus"
+  },
+  {
+   "scan": 518,
+   "line": 24,
+   "lines": [
+    [
+     518,
+     24
+    ],
+    [
+     518,
+     25
+    ]
+   ],
+   "level": 3,
+   "title": "LVI. Vuarimbertus levita"
+  },
+  {
+   "scan": 518,
+   "line": 42,
+   "lines": [
+    [
+     518,
+     42
+    ],
+    [
+     518,
+     43
+    ]
+   ],
+   "level": 3,
+   "title": "LVII. Notkerus"
+  },
+  {
+   "scan": 519,
+   "line": 6,
+   "lines": [
+    [
+     519,
+     6
+    ],
+    [
+     519,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "De traditione precaria. LVIII. Hiringus lector"
+  },
+  {
+   "scan": 520,
+   "line": 1,
+   "lines": [
+    [
+     520,
+     1
+    ],
+    [
+     520,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "LIX. Autuuingus lector"
+  },
+  {
+   "scan": 520,
+   "line": 30,
+   "lines": [
+    [
+     520,
+     30
+    ],
+    [
+     520,
+     31
+    ]
+   ],
+   "level": 3,
+   "title": "LX. Vualdo decanus"
+  },
+  {
+   "scan": 521,
+   "line": 11,
+   "lines": [
+    [
+     521,
+     11
+    ],
+    [
+     521,
+     12
+    ]
+   ],
+   "level": 3,
+   "title": "LXI. Ato diaconus"
+  },
+  {
+   "scan": 521,
+   "line": 35,
+   "lines": [
+    [
+     521,
+     35
+    ],
+    [
+     521,
+     36
+    ]
+   ],
+   "level": 3,
+   "title": "LXII. Hadupertus clericus"
+  },
+  {
+   "scan": 522,
+   "line": 15,
+   "lines": [
+    [
+     522,
+     15
+    ],
+    [
+     522,
+     16
+    ]
+   ],
+   "level": 3,
+   "title": "LXIII. Marcellus monachus"
+  },
+  {
+   "scan": 522,
+   "line": 38,
+   "lines": [
+    [
+     522,
+     38
+    ],
+    [
+     522,
+     39
+    ]
+   ],
+   "level": 3,
+   "title": "LXIV. Theothartus"
+  },
+  {
+   "scan": 523,
+   "line": 13,
+   "lines": [
+    [
+     523,
+     13
+    ],
+    [
+     523,
+     14
+    ]
+   ],
+   "level": 3,
+   "title": "LXV. Cozpertus diaconus"
+  },
+  {
+   "scan": 523,
+   "line": 35,
+   "lines": [
+    [
+     523,
+     35
+    ],
+    [
+     523,
+     36
+    ],
+    [
+     523,
+     37
+    ]
+   ],
+   "level": 2,
+   "title": "De precariis. LXVI. Formula Ifanis"
+  },
+  {
+   "scan": 524,
+   "line": 1,
+   "lines": [
+    [
+     524,
+     1
+    ],
+    [
+     524,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "LXVII. Vuaringifus"
+  },
+  {
+   "scan": 524,
+   "line": 25,
+   "lines": [
+    [
+     524,
+     25
+    ],
+    [
+     524,
+     26
+    ]
+   ],
+   "level": 3,
+   "title": "LXVIII. Vuenilo"
+  },
+  {
+   "scan": 525,
+   "line": 4,
+   "lines": [
+    [
+     525,
+     4
+    ],
+    [
+     525,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "LXIX. Ruodo lector"
+  },
+  {
+   "scan": 525,
+   "line": 27,
+   "lines": [
+    [
+     525,
+     27
+    ],
+    [
+     525,
+     28
+    ]
+   ],
+   "level": 3,
+   "title": "LXX. Vuatto diaconus"
+  },
+  {
+   "scan": 526,
+   "line": 10,
+   "lines": [
+    [
+     526,
+     10
+    ]
+   ],
+   "level": 3,
+   "title": "LXXI. Otine"
+  },
+  {
+   "scan": 526,
+   "line": 26,
+   "lines": [
+    [
+     526,
+     26
+    ]
+   ],
+   "level": 3,
+   "title": "LXXII. Notgerus"
+  },
+  {
+   "scan": 526,
+   "line": 46,
+   "lines": [
+    [
+     526,
+     46
+    ],
+    [
+     526,
+     47
+    ]
+   ],
+   "level": 3,
+   "title": "LXXIII. Purgolfus monachus et subdiaconus"
+  },
+  {
+   "scan": 527,
+   "line": 35,
+   "lines": [
+    [
+     527,
+     35
+    ],
+    [
+     527,
+     36
+    ]
+   ],
+   "level": 3,
+   "title": "LXXIIII. Albricus presbyter"
+  },
+  {
+   "scan": 528,
+   "line": 4,
+   "lines": [
+    [
+     528,
+     4
+    ],
+    [
+     528,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "LXXV. Ripertus presbyter"
+  },
+  {
+   "scan": 528,
+   "line": 21,
+   "lines": [
+    [
+     528,
+     21
+    ],
+    [
+     528,
+     22
+    ]
+   ],
+   "level": 3,
+   "title": "LXXVI. Abo presbyter"
+  },
+  {
+   "scan": 529,
+   "line": 7,
+   "lines": [
+    [
+     529,
+     7
+    ],
+    [
+     529,
+     8
+    ],
+    [
+     529,
+     9
+    ]
+   ],
+   "level": 2,
+   "title": "De beneficiis et feudis. LXXVII. Harmedeus clericus"
+  },
+  {
+   "scan": 530,
+   "line": 6,
+   "lines": [
+    [
+     530,
+     6
+    ],
+    [
+     530,
+     7
+    ],
+    [
+     530,
+     8
+    ]
+   ],
+   "level": 3,
+   "title": "LXXVIII. Rimidingus presbyter"
+  },
+  {
+   "scan": 530,
+   "line": 29,
+   "lines": [
+    [
+     530,
+     29
+    ],
+    [
+     530,
+     30
+    ]
+   ],
+   "level": 3,
+   "title": "LXXIX. Purgolfus monachus"
+  },
+  {
+   "scan": 530,
+   "line": 47,
+   "lines": [
+    [
+     530,
+     47
+    ],
+    [
+     530,
+     48
+    ]
+   ],
+   "level": 3,
+   "title": "LXXX. Anonymus"
+  },
+  {
+   "scan": 531,
+   "line": 12,
+   "lines": [
+    [
+     531,
+     12
+    ],
+    [
+     531,
+     13
+    ]
+   ],
+   "level": 3,
+   "title": "LXXXI. Hratbertus conzl."
+  },
+  {
+   "scan": 531,
+   "line": 34,
+   "lines": [
+    [
+     531,
+     34
+    ],
+    [
+     531,
+     35
+    ]
+   ],
+   "level": 3,
+   "title": "LXXXII. Anonymus"
+  },
+  {
+   "scan": 531,
+   "line": 51,
+   "lines": [
+    [
+     531,
+     51
+    ],
+    [
+     531,
+     52
+    ]
+   ],
+   "level": 3,
+   "title": "LXXXIII. Vuolfcozus"
+  },
+  {
+   "scan": 532,
+   "line": 31,
+   "lines": [
+    [
+     532,
+     31
+    ],
+    [
+     532,
+     32
+    ]
+   ],
+   "level": 3,
+   "title": "LXXXIV. Ifo monachus"
+  },
+  {
+   "scan": 533,
+   "line": 13,
+   "lines": [
+    [
+     533,
+     13
+    ],
+    [
+     533,
+     14
+    ],
+    [
+     533,
+     15
+    ]
+   ],
+   "level": 2,
+   "title": "De ecclesiis et iure patronatus. LXXXV. Anonymus"
+  },
+  {
+   "scan": 533,
+   "line": 33,
+   "lines": [
+    [
+     533,
+     33
+    ],
+    [
+     533,
+     34
+    ]
+   ],
+   "level": 3,
+   "title": "LXXXVI. Notpertus abbas"
+  },
+  {
+   "scan": 534,
+   "line": 2,
+   "lines": [
+    [
+     534,
+     2
+    ],
+    [
+     534,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "LXXXVII. Hupertus presbyter"
+  },
+  {
+   "scan": 534,
+   "line": 5,
+   "lines": [
+    [
+     534,
+     5
+    ],
+    [
+     534,
+     6
+    ],
+    [
+     534,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "De colonis censitis. LXXXVIII. Anonymus"
+  },
+  {
+   "scan": 534,
+   "line": 9,
+   "lines": [
+    [
+     534,
+     9
+    ],
+    [
+     534,
+     10
+    ]
+   ],
+   "level": 2,
+   "title": "De furtis. LXXXIX. Ruodepertus magister"
+  },
+  {
+   "scan": 535,
+   "line": 22,
+   "lines": [
+    [
+     535,
+     22
+    ],
+    [
+     535,
+     23
+    ],
+    [
+     536,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "De noticiis testium. XC. Anonymus"
+  },
+  {
+   "scan": 536,
+   "line": 8,
+   "lines": [
+    [
+     536,
+     8
+    ],
+    [
+     536,
+     24
+    ]
+   ],
+   "level": 3,
+   "title": "XCI. Anonymus"
+  },
+  {
+   "scan": 536,
+   "line": 25,
+   "lines": [
+    [
+     536,
+     25
+    ],
+    [
+     536,
+     42
+    ]
+   ],
+   "level": 3,
+   "title": "XCII. Anonymus"
+  },
+  {
+   "scan": 536,
+   "line": 43,
+   "lines": [
+    [
+     536,
+     43
+    ],
+    [
+     537,
+     12
+    ]
+   ],
+   "level": 3,
+   "title": "XCIII. Anonymus"
+  },
+  {
+   "scan": 537,
+   "line": 13,
+   "lines": [
+    [
+     537,
+     13
+    ],
+    [
+     537,
+     23
+    ]
+   ],
+   "level": 3,
+   "title": "XCIV. Anonymus"
+  },
+  {
+   "scan": 537,
+   "line": 24,
+   "lines": [
+    [
+     537,
+     24
+    ],
+    [
+     538,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "XCV. Anonymus"
+  },
+  {
+   "scan": 538,
+   "line": 11,
+   "lines": [
+    [
+     538,
+     11
+    ]
+   ],
+   "level": 3,
+   "title": "XCVI. Anonymus"
+  },
+  {
+   "scan": 538,
+   "line": 16,
+   "lines": [
+    [
+     538,
+     16
+    ]
+   ],
+   "level": 3,
+   "title": "XCVII. Anonymus"
+  },
+  {
+   "scan": 540,
+   "line": 1,
+   "lines": [
+    [
+     540,
+     1
+    ],
+    [
+     540,
+     2
+    ],
+    [
+     540,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "De sententiis iudicum. XCVIII. Anonymus"
+  },
+  {
+   "scan": 540,
+   "line": 3,
+   "lines": [
+    [
+     540,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "XCIX. Vauco"
+  },
+  {
+   "scan": 541,
+   "line": 10,
+   "lines": [
+    [
+     541,
+     10
+    ],
+    [
+     541,
+     11
+    ],
+    [
+     541,
+     12
+    ],
+    [
+     541,
+     13
+    ],
+    [
+     541,
+     14
+    ],
+    [
+     541,
+     15
+    ]
+   ],
+   "level": 1,
+   "title": "Ioachimi Vadiani De obscuris Alemannicorum verborum significationibus. Epistola ad Heinricum Bullingerum"
+  },
+  {
+   "scan": 546,
+   "line": 1,
+   "lines": [
+    [
+     546,
+     1
+    ],
+    [
+     546,
+     2
+    ],
+    [
+     546,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Rvodeperti magistri S. Galli epistulae"
+  },
+  {
+   "scan": 546,
+   "line": 4,
+   "lines": [
+    [
+     546,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "I."
+  },
+  {
+   "scan": 546,
+   "line": 10,
+   "lines": [
+    [
+     546,
+     10
+    ]
+   ],
+   "level": 2,
+   "title": "II."
+  },
+  {
+   "scan": 546,
+   "line": 17,
+   "lines": [
+    [
+     546,
+     17
+    ]
+   ],
+   "level": 2,
+   "title": "III."
+  },
+  {
+   "scan": 546,
+   "line": 23,
+   "lines": [
+    [
+     546,
+     23
+    ]
+   ],
+   "level": 2,
+   "title": "IIII."
+  },
+  {
+   "scan": 546,
+   "line": 31,
+   "lines": [
+    [
+     546,
+     31
+    ]
+   ],
+   "level": 2,
+   "title": "V."
+  },
+  {
+   "scan": 546,
+   "line": 40,
+   "lines": [
+    [
+     546,
+     40
+    ]
+   ],
+   "level": 2,
+   "title": "VI."
+  },
+  {
+   "scan": 547,
+   "line": 1,
+   "lines": [
+    [
+     547,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "VII."
+  },
+  {
+   "scan": 547,
+   "line": 23,
+   "lines": [
+    [
+     547,
+     23
+    ]
+   ],
+   "level": 2,
+   "title": "VIII."
+  },
+  {
+   "scan": 547,
+   "line": 29,
+   "lines": [
+    [
+     547,
+     29
+    ]
+   ],
+   "level": 2,
+   "title": "VIIII."
+  },
+  {
+   "scan": 548,
+   "line": 1,
+   "lines": [
+    [
+     548,
+     1
+    ],
+    [
+     548,
+     2
+    ],
+    [
+     548,
+     3
+    ],
+    [
+     548,
+     4
+    ]
+   ],
+   "level": 1,
+   "title": "Hrabani Mauri Abbatis Fuldensis Glossae Latino-barbaricae de partibus humani corporis"
+  },
+  {
+   "scan": 548,
+   "line": 5,
+   "lines": [
+    [
+     548,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Walafridus Strabus Mauri discipulus"
+  },
+  {
+   "scan": 550,
+   "line": 10,
+   "lines": [
+    [
+     550,
+     10
+    ],
+    [
+     550,
+     11
+    ],
+    [
+     550,
+     12
+    ],
+    [
+     550,
+     13
+    ]
+   ],
+   "level": 1,
+   "title": "Hrabani Mauri abbatis Fuldensis de inventione linguarum ab Hebraea usque ad Theodiscam, et notis antiquis"
+  },
+  {
+   "scan": 553,
+   "line": 1,
+   "lines": [
+    [
+     553,
+     1
+    ],
+    [
+     553,
+     43
+    ]
+   ],
+   "level": 1,
+   "title": "Kerónis S. Galli interpretatio vocabulorum regulam S. Benedicti"
+  },
+  {
+   "scan": 581,
+   "line": 62,
+   "lines": [
+    [
+     581,
+     62
+    ]
+   ],
+   "level": 1,
+   "title": "Catalogus nominum propriorum, quibus Alamanni quondam appellati"
+  },
+  {
+   "scan": 581,
+   "line": 63,
+   "lines": [
+    [
+     581,
+     63
+    ],
+    [
+     581,
+     64
+    ]
+   ],
+   "level": 2,
+   "title": "Caput I. De hominibus propriis masculinis in Alamannia Theutonica"
+  },
+  {
+   "scan": 599,
+   "line": 111,
+   "lines": [
+    [
+     599,
+     111
+    ],
+    [
+     599,
+     112
+    ],
+    [
+     599,
+     113
+    ],
+    [
+     599,
+     114
+    ]
+   ],
+   "level": 1,
+   "title": "Caput II. De nominibus propriis masculinis in Alamannia Curiensi et Burgundionensi"
+  },
+  {
+   "scan": 620,
+   "line": 31,
+   "lines": [
+    [
+     620,
+     31
+    ],
+    [
+     620,
+     32
+    ],
+    [
+     620,
+     33
+    ],
+    [
+     620,
+     34
+    ]
+   ],
+   "level": 1,
+   "title": "Caput III. De nominibus propriis femininis in Alamannia Theutonica"
+  },
+  {
+   "scan": 630,
+   "line": 1,
+   "lines": [
+    [
+     630,
+     1
+    ],
+    [
+     630,
+     2
+    ],
+    [
+     630,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Caput IIII. De nominibus propriis femininis in Alamannia Curiensi et Burgundionensi"
+  },
+  {
+   "scan": 631,
+   "line": 1,
+   "lines": [
+    [
+     631,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Antiquitatum Alamannicarum Pars II. Complectens res ecclesiasticas, quas monachi appellant interiores"
+  },
+  {
+   "scan": 631,
+   "line": 2,
+   "lines": [
+    [
+     631,
+     2
+    ],
+    [
+     631,
+     3
+    ],
+    [
+     631,
+     5
+    ],
+    [
+     631,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "De auctoribus et eorum scriptis. Remedius Curiensis episcopus; Notingus Constantiensis episcopus; Symbolum Alamannicae ecclesiae"
+  },
+  {
+   "scan": 632,
+   "line": 1,
+   "lines": [
+    [
+     632,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Confessio Alamannicae ecclesiae"
+  },
+  {
+   "scan": 632,
+   "line": 6,
+   "lines": [
+    [
+     632,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "Litania Alamannicae ecclesiae"
+  },
+  {
+   "scan": 632,
+   "line": 17,
+   "lines": [
+    [
+     632,
+     17
+    ],
+    [
+     632,
+     18
+    ]
+   ],
+   "level": 2,
+   "title": "Benedictiones Alamannicae ecclesiae"
+  },
+  {
+   "scan": 632,
+   "line": 50,
+   "lines": [
+    [
+     632,
+     50
+    ]
+   ],
+   "level": 2,
+   "title": "Fraternitates Alamannicae ecclesiae"
+  },
+  {
+   "scan": 635,
+   "line": 2,
+   "lines": [
+    [
+     635,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Anniversarii Alamannicae ecclesiae"
+  },
+  {
+   "scan": 636,
+   "line": 1,
+   "lines": [
+    [
+     636,
+     1
+    ],
+    [
+     636,
+     2
+    ],
+    [
+     636,
+     3
+    ],
+    [
+     636,
+     4
+    ],
+    [
+     636,
+     5
+    ],
+    [
+     636,
+     6
+    ],
+    [
+     636,
+     7
+    ],
+    [
+     636,
+     8
+    ],
+    [
+     636,
+     9
+    ]
+   ],
+   "level": 1,
+   "title": "Alamannicae ecclesiae veteris canones, ex pontificum epistolis excerpti a Remedio Curiensi episcopo, iussu Karoli Magni regis Francorum et Alamannorum"
+  },
+  {
+   "scan": 636,
+   "line": 12,
+   "lines": [
+    [
+     636,
+     12
+    ]
+   ],
+   "level": 3,
+   "title": "I. De licentia corporis Domini"
+  },
+  {
+   "scan": 636,
+   "line": 24,
+   "lines": [
+    [
+     636,
+     24
+    ]
+   ],
+   "level": 3,
+   "title": "II. De vasis sacris"
+  },
+  {
+   "scan": 636,
+   "line": 38,
+   "lines": [
+    [
+     636,
+     38
+    ]
+   ],
+   "level": 3,
+   "title": "III. Quo loco celebranda sit missa"
+  },
+  {
+   "scan": 637,
+   "line": 4,
+   "lines": [
+    [
+     637,
+     4
+    ],
+    [
+     637,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "IIII. De oboedientia exhibenda episcopis"
+  },
+  {
+   "scan": 637,
+   "line": 19,
+   "lines": [
+    [
+     637,
+     19
+    ],
+    [
+     637,
+     20
+    ]
+   ],
+   "level": 3,
+   "title": "V. Nihil absque licentia episcopi agendum"
+  },
+  {
+   "scan": 637,
+   "line": 29,
+   "lines": [
+    [
+     637,
+     29
+    ],
+    [
+     637,
+     30
+    ],
+    [
+     637,
+     31
+    ]
+   ],
+   "level": 3,
+   "title": "VI. Quod omnibus baptismum percipere necessarium sit"
+  },
+  {
+   "scan": 637,
+   "line": 36,
+   "lines": [
+    [
+     637,
+     36
+    ],
+    [
+     637,
+     37
+    ],
+    [
+     637,
+     38
+    ],
+    [
+     637,
+     39
+    ]
+   ],
+   "level": 3,
+   "title": "VII. Baptizatos ab episcopo consignari debere"
+  },
+  {
+   "scan": 638,
+   "line": 9,
+   "lines": [
+    [
+     638,
+     9
+    ],
+    [
+     638,
+     10
+    ]
+   ],
+   "level": 3,
+   "title": "VIII. Quid conferat aquae baptismus ad Dei cultum"
+  },
+  {
+   "scan": 638,
+   "line": 18,
+   "lines": [
+    [
+     638,
+     18
+    ],
+    [
+     638,
+     19
+    ]
+   ],
+   "level": 3,
+   "title": "VIIII. Quod non ubique et a solo sacrificandum sit"
+  },
+  {
+   "scan": 638,
+   "line": 35,
+   "lines": [
+    [
+     638,
+     35
+    ],
+    [
+     638,
+     36
+    ]
+   ],
+   "level": 3,
+   "title": "X. Non tollendas res ecclesiae"
+  },
+  {
+   "scan": 638,
+   "line": 42,
+   "lines": [
+    [
+     638,
+     42
+    ],
+    [
+     638,
+     43
+    ]
+   ],
+   "level": 3,
+   "title": "XI. De ordinatione episcoporum"
+  },
+  {
+   "scan": 639,
+   "line": 13,
+   "lines": [
+    [
+     639,
+     13
+    ],
+    [
+     639,
+     14
+    ]
+   ],
+   "level": 3,
+   "title": "XII. De accusatione sacerdotum"
+  },
+  {
+   "scan": 639,
+   "line": 22,
+   "lines": [
+    [
+     639,
+     22
+    ],
+    [
+     639,
+     23
+    ],
+    [
+     639,
+     24
+    ]
+   ],
+   "level": 3,
+   "title": "XIII. De querimonia contra sacerdotes"
+  },
+  {
+   "scan": 639,
+   "line": 32,
+   "lines": [
+    [
+     639,
+     32
+    ],
+    [
+     639,
+     33
+    ],
+    [
+     639,
+     34
+    ],
+    [
+     639,
+     35
+    ]
+   ],
+   "level": 3,
+   "title": "XIIII. De bipertito ordine sacerdotum"
+  },
+  {
+   "scan": 640,
+   "line": 1,
+   "lines": [
+    [
+     640,
+     1
+    ],
+    [
+     640,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "XV. De his, qui praelatos contemnunt"
+  },
+  {
+   "scan": 640,
+   "line": 11,
+   "lines": [
+    [
+     640,
+     11
+    ],
+    [
+     640,
+     12
+    ]
+   ],
+   "level": 3,
+   "title": "XVI. De his, qui doctorum culpas produnt"
+  },
+  {
+   "scan": 640,
+   "line": 18,
+   "lines": [
+    [
+     640,
+     18
+    ],
+    [
+     640,
+     19
+    ]
+   ],
+   "level": 3,
+   "title": "XVII. De reprobis moribus pastoris tolerandis"
+  },
+  {
+   "scan": 640,
+   "line": 32,
+   "lines": [
+    [
+     640,
+     32
+    ],
+    [
+     640,
+     33
+    ],
+    [
+     640,
+     34
+    ]
+   ],
+   "level": 3,
+   "title": "XVIII. Quod episcopus sine regulari mutatione ecclesiam suam non dimittat"
+  },
+  {
+   "scan": 641,
+   "line": 12,
+   "lines": [
+    [
+     641,
+     12
+    ],
+    [
+     641,
+     13
+    ],
+    [
+     641,
+     14
+    ]
+   ],
+   "level": 3,
+   "title": "XIX. Non infamandum vel eiiciendum episcopum"
+  },
+  {
+   "scan": 641,
+   "line": 24,
+   "lines": [
+    [
+     641,
+     24
+    ],
+    [
+     641,
+     25
+    ]
+   ],
+   "level": 3,
+   "title": "XX. Non temere iudicandum"
+  },
+  {
+   "scan": 641,
+   "line": 41,
+   "lines": [
+    [
+     641,
+     41
+    ],
+    [
+     641,
+     42
+    ]
+   ],
+   "level": 3,
+   "title": "XXI. De scriptis vi extortis"
+  },
+  {
+   "scan": 642,
+   "line": 6,
+   "lines": [
+    [
+     642,
+     6
+    ],
+    [
+     642,
+     7
+    ],
+    [
+     642,
+     8
+    ]
+   ],
+   "level": 3,
+   "title": "XXII. De querela contra episcopum vel actorem ecclesiae"
+  },
+  {
+   "scan": 642,
+   "line": 16,
+   "lines": [
+    [
+     642,
+     16
+    ],
+    [
+     642,
+     17
+    ],
+    [
+     642,
+     18
+    ]
+   ],
+   "level": 3,
+   "title": "XXIII. Nihil praeter panem et vinum aqua mixtum ad altare offerendum"
+  },
+  {
+   "scan": 642,
+   "line": 35,
+   "lines": [
+    [
+     642,
+     35
+    ],
+    [
+     642,
+     36
+    ]
+   ],
+   "level": 3,
+   "title": "XXIV. De aqua sancta spargenda"
+  },
+  {
+   "scan": 643,
+   "line": 1,
+   "lines": [
+    [
+     643,
+     1
+    ],
+    [
+     643,
+     2
+    ],
+    [
+     643,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "XXV. Non eis communicandum qui perturbant sacerdotes"
+  },
+  {
+   "scan": 643,
+   "line": 14,
+   "lines": [
+    [
+     643,
+     14
+    ],
+    [
+     643,
+     15
+    ],
+    [
+     643,
+     16
+    ]
+   ],
+   "level": 3,
+   "title": "XXVI. Quod schismatici appellentur qui cum sacerdotibus non auxiliantur"
+  },
+  {
+   "scan": 643,
+   "line": 33,
+   "lines": [
+    [
+     643,
+     33
+    ],
+    [
+     643,
+     34
+    ],
+    [
+     643,
+     35
+    ]
+   ],
+   "level": 3,
+   "title": "XXVII. Quod sacra vasa non ab aliis quam a domino sacratis hominibus debeant contrectari"
+  },
+  {
+   "scan": 644,
+   "line": 1,
+   "lines": [
+    [
+     644,
+     1
+    ],
+    [
+     644,
+     2
+    ],
+    [
+     644,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "XXVIII. De ieiunio VII ebdomadarum ante Paschа a clericis observando"
+  },
+  {
+   "scan": 644,
+   "line": 20,
+   "lines": [
+    [
+     644,
+     20
+    ],
+    [
+     644,
+     21
+    ],
+    [
+     644,
+     22
+    ]
+   ],
+   "level": 3,
+   "title": "XXIX. De tempore missae et quod angelicus hymnus dicendus est solummodo tempore congruo"
+  },
+  {
+   "scan": 644,
+   "line": 38,
+   "lines": [
+    [
+     644,
+     38
+    ],
+    [
+     644,
+     39
+    ],
+    [
+     644,
+     40
+    ]
+   ],
+   "level": 3,
+   "title": "XXX. Ne absens accusetur, et qui accusare non possint"
+  },
+  {
+   "scan": 645,
+   "line": 3,
+   "lines": [
+    [
+     645,
+     3
+    ],
+    [
+     645,
+     4
+    ],
+    [
+     645,
+     5
+    ],
+    [
+     645,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "XXXI. De metropolitanis ut nullus absque comprovincialium episcoporum instantia aliquorum audiat causas"
+  },
+  {
+   "scan": 645,
+   "line": 13,
+   "lines": [
+    [
+     645,
+     13
+    ],
+    [
+     645,
+     14
+    ]
+   ],
+   "level": 3,
+   "title": "XXXII. Quo die Pascha celebretur"
+  },
+  {
+   "scan": 645,
+   "line": 25,
+   "lines": [
+    [
+     645,
+     25
+    ],
+    [
+     645,
+     26
+    ],
+    [
+     645,
+     27
+    ]
+   ],
+   "level": 3,
+   "title": "XXXIII. Ne praedia ecclesiastica aliquis tollat et suis usibus applicet"
+  },
+  {
+   "scan": 645,
+   "line": 41,
+   "lines": [
+    [
+     645,
+     41
+    ],
+    [
+     645,
+     42
+    ],
+    [
+     645,
+     43
+    ]
+   ],
+   "level": 3,
+   "title": "XXXIIII. Quod non sit gravius peccatum fornicatio quam sacrilegium"
+  },
+  {
+   "scan": 646,
+   "line": 3,
+   "lines": [
+    [
+     646,
+     3
+    ],
+    [
+     646,
+     4
+    ],
+    [
+     646,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "XXXV. Quod nulli archiepiscopi primates vocentur nisi qui primas tenent civitates"
+  },
+  {
+   "scan": 646,
+   "line": 14,
+   "lines": [
+    [
+     646,
+     14
+    ],
+    [
+     646,
+     15
+    ]
+   ],
+   "level": 3,
+   "title": "XXXVI. De ordinationibus episcoporum"
+  },
+  {
+   "scan": 646,
+   "line": 37,
+   "lines": [
+    [
+     646,
+     37
+    ],
+    [
+     646,
+     38
+    ],
+    [
+     646,
+     39
+    ],
+    [
+     646,
+     40
+    ]
+   ],
+   "level": 3,
+   "title": "XXXVII. Quod sacratae Deo feminae vel monachae sacra vasa vel sacratas pallas contingere non debeant"
+  },
+  {
+   "scan": 647,
+   "line": 1,
+   "lines": [
+    [
+     647,
+     1
+    ],
+    [
+     647,
+     2
+    ],
+    [
+     647,
+     3
+    ],
+    [
+     647,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "XXXVIII. Quod baptismus tempore Paschae celebrandus sit catholicis"
+  },
+  {
+   "scan": 647,
+   "line": 15,
+   "lines": [
+    [
+     647,
+     15
+    ],
+    [
+     647,
+     16
+    ],
+    [
+     647,
+     17
+    ],
+    [
+     647,
+     18
+    ]
+   ],
+   "level": 3,
+   "title": "XXXIX. Quod inconsulto Romano pontifice causae episcoporum non debeant diffiniri"
+  },
+  {
+   "scan": 647,
+   "line": 28,
+   "lines": [
+    [
+     647,
+     28
+    ],
+    [
+     647,
+     29
+    ],
+    [
+     647,
+     30
+    ],
+    [
+     647,
+     31
+    ]
+   ],
+   "level": 3,
+   "title": "XL. Episcoporum testes quot esse debeant, et ne absens quisquam iudicetur"
+  },
+  {
+   "scan": 648,
+   "line": 2,
+   "lines": [
+    [
+     648,
+     2
+    ],
+    [
+     648,
+     3
+    ],
+    [
+     648,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "XLI. Quod nullus episcopus propriis rebus spoliatus antequam suis restituatur debeat ad iudicia vocari"
+  },
+  {
+   "scan": 648,
+   "line": 7,
+   "lines": [
+    [
+     648,
+     7
+    ],
+    [
+     648,
+     8
+    ]
+   ],
+   "level": 3,
+   "title": "XLII. De ordinationibus"
+  },
+  {
+   "scan": 648,
+   "line": 10,
+   "lines": [
+    [
+     648,
+     10
+    ],
+    [
+     648,
+     11
+    ],
+    [
+     648,
+     12
+    ]
+   ],
+   "level": 3,
+   "title": "XLIII. De conspiratione contra episcopos"
+  },
+  {
+   "scan": 648,
+   "line": 14,
+   "lines": [
+    [
+     648,
+     14
+    ],
+    [
+     648,
+     15
+    ],
+    [
+     648,
+     16
+    ]
+   ],
+   "level": 3,
+   "title": "XLIIII. Excommunicatis non communicandum"
+  },
+  {
+   "scan": 649,
+   "line": 4,
+   "lines": [
+    [
+     649,
+     4
+    ],
+    [
+     649,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "XLV. Terminos non transgredientos"
+  },
+  {
+   "scan": 649,
+   "line": 23,
+   "lines": [
+    [
+     649,
+     23
+    ],
+    [
+     649,
+     24
+    ]
+   ],
+   "level": 3,
+   "title": "XLVI. De lapsu sacerdotis"
+  },
+  {
+   "scan": 650,
+   "line": 9,
+   "lines": [
+    [
+     650,
+     9
+    ],
+    [
+     650,
+     10
+    ],
+    [
+     650,
+     11
+    ]
+   ],
+   "level": 3,
+   "title": "XLVII. De possessionibus ecclesiarum"
+  },
+  {
+   "scan": 650,
+   "line": 31,
+   "lines": [
+    [
+     650,
+     31
+    ],
+    [
+     650,
+     32
+    ],
+    [
+     650,
+     33
+    ]
+   ],
+   "level": 3,
+   "title": "XLVIII. Praedia dicata ne invadantur"
+  },
+  {
+   "scan": 654,
+   "line": 9,
+   "lines": [
+    [
+     654,
+     9
+    ],
+    [
+     654,
+     10
+    ],
+    [
+     654,
+     11
+    ],
+    [
+     654,
+     12
+    ],
+    [
+     654,
+     38
+    ],
+    [
+     654,
+     39
+    ],
+    [
+     654,
+     40
+    ]
+   ],
+   "level": 3,
+   "title": "XLVII-XLVIII. De possessionibus ecclesiarum; praedia dicata ne invadantur (repeated printing)"
+  },
+  {
+   "scan": 698,
+   "line": 1,
+   "lines": [
+    [
+     698,
+     1
+    ],
+    [
+     698,
+     2
+    ],
+    [
+     698,
+     3
+    ],
+    [
+     698,
+     4
+    ],
+    [
+     698,
+     5
+    ],
+    [
+     698,
+     6
+    ],
+    [
+     698,
+     7
+    ],
+    [
+     698,
+     8
+    ],
+    [
+     698,
+     9
+    ]
+   ],
+   "level": 1,
+   "title": "Ioachimi Vadiani consulis Sanctgallensis In farragine antiquitatum de collegiis et monasteriis Germaniae veteribus, praefatio"
+  },
+  {
+   "scan": 708,
+   "line": 1,
+   "lines": [
+    [
+     708,
+     1
+    ],
+    [
+     708,
+     2
+    ],
+    [
+     708,
+     3
+    ],
+    [
+     708,
+     4
+    ],
+    [
+     708,
+     5
+    ]
+   ],
+   "level": 1,
+   "title": "Ioachimi Vadiani consulis Sanctgallensis De collegiis monasteriisque Germaniae veteribus. Liber I"
+  },
+  {
+   "scan": 750,
+   "line": 1,
+   "lines": [
+    [
+     750,
+     1
+    ],
+    [
+     750,
+     2
+    ],
+    [
+     750,
+     3
+    ],
+    [
+     750,
+     4
+    ],
+    [
+     750,
+     5
+    ],
+    [
+     750,
+     6
+    ]
+   ],
+   "level": 1,
+   "title": "Ioachimi Vadiani consulis Sanctgallensis De collegiis, monasteriisque Germaniae veteribus. Liber II"
+  },
+  {
+   "scan": 759,
+   "line": 20,
+   "lines": [
+    [
+     759,
+     20
+    ],
+    [
+     759,
+     21
+    ],
+    [
+     759,
+     22
+    ]
+   ],
+   "level": 2,
+   "title": "Exemplum donationis vetus, plusculis annis ante Otomarum scriptum"
+  },
+  {
+   "scan": 761,
+   "line": 11,
+   "lines": [
+    [
+     761,
+     11
+    ]
+   ],
+   "level": 2,
+   "title": "Aliud exemplum donationis"
+  },
+  {
+   "scan": 764,
+   "line": 6,
+   "lines": [
+    [
+     764,
+     6
+    ],
+    [
+     764,
+     7
+    ],
+    [
+     764,
+     8
+    ]
+   ],
+   "level": 2,
+   "title": "Aliud exemplum planè barbarum in ipso monasterio scriptum"
+  },
+  {
+   "scan": 765,
+   "line": 39,
+   "lines": [
+    [
+     765,
+     39
+    ],
+    [
+     765,
+     40
+    ],
+    [
+     765,
+     41
+    ]
+   ],
+   "level": 2,
+   "title": "Aliud exemplum donationis cum conditione planè incomptum et barbarum"
+  },
+  {
+   "scan": 767,
+   "line": 30,
+   "lines": [
+    [
+     767,
+     30
+    ],
+    [
+     767,
+     31
+    ],
+    [
+     767,
+     32
+    ]
+   ],
+   "level": 2,
+   "title": "Aliud exemplum cambete scriptum haud procul Basilea, vivente tum et satagente Otomaro"
+  },
+  {
+   "scan": 769,
+   "line": 30,
+   "lines": [
+    [
+     769,
+     30
+    ],
+    [
+     769,
+     31
+    ],
+    [
+     769,
+     32
+    ]
+   ],
+   "level": 2,
+   "title": "Aliud exemplum donationis Paulo comptius sub Carolo Pipini filio scriptum"
+  },
+  {
+   "scan": 772,
+   "line": 42,
+   "lines": [
+    [
+     772,
+     42
+    ],
+    [
+     772,
+     43
+    ],
+    [
+     772,
+     44
+    ]
+   ],
+   "level": 2,
+   "title": "Aliud exemplum donationis cum conditione sub Ludovico Caroli f. scriptum"
+  },
+  {
+   "scan": 782,
+   "line": 9,
+   "lines": [
+    [
+     782,
+     9
+    ],
+    [
+     782,
+     10
+    ],
+    [
+     782,
+     11
+    ]
+   ],
+   "level": 2,
+   "title": "Chartae precariae exemplum sub eodem Ludovico scriptum"
+  },
+  {
+   "scan": 798,
+   "line": 9,
+   "lines": [
+    [
+     798,
+     9
+    ],
+    [
+     798,
+     10
+    ],
+    [
+     798,
+     11
+    ],
+    [
+     798,
+     12
+    ]
+   ],
+   "level": 2,
+   "title": "Transactionum conventionumque chartas pacationum vocabant"
+  },
+  {
+   "scan": 800,
+   "line": 23,
+   "lines": [
+    [
+     800,
+     23
+    ]
+   ],
+   "level": 2,
+   "title": "Aliud exemplum"
+  },
+  {
+   "scan": 802,
+   "line": 26,
+   "lines": [
+    [
+     802,
+     26
+    ],
+    [
+     802,
+     27
+    ],
+    [
+     802,
+     28
+    ],
+    [
+     802,
+     29
+    ],
+    [
+     802,
+     30
+    ]
+   ],
+   "level": 2,
+   "title": "Sequitur exemplum fundationis parochiae sub Hainrichо quarto"
+  },
+  {
+   "scan": 822,
+   "line": 12,
+   "lines": [
+    [
+     822,
+     12
+    ],
+    [
+     824,
+     1
+    ],
+    [
+     824,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Bartholomaei Schobingeri ICtl. Additiones ad Ioachimi Vadiani consulis farraginem antiquitatum"
+  },
+  {
+   "scan": 828,
+   "line": 1,
+   "lines": [
+    [
+     828,
+     1
+    ],
+    [
+     828,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Ad librum primum. Pag. I. Num. I."
+  },
+  {
+   "scan": 859,
+   "line": 17,
+   "lines": [
+    [
+     859,
+     17
+    ],
+    [
+     859,
+     18
+    ],
+    [
+     859,
+     43
+    ]
+   ],
+   "level": 2,
+   "title": "Ad librum secundum"
+  },
+  {
+   "scan": 868,
+   "line": 23,
+   "lines": [
+    [
+     868,
+     23
+    ]
+   ],
+   "level": 1,
+   "title": "Finis"
+  },
+  {
+   "scan": 869,
+   "line": 1,
+   "lines": [
+    [
+     869,
+     1
+    ],
+    [
+     869,
+     2
+    ],
+    [
+     869,
+     3
+    ],
+    [
+     869,
+     4
+    ],
+    [
+     869,
+     5
+    ]
+   ],
+   "level": 1,
+   "title": "Ioannis Comandri epistolae ad Ioachimum Vadianum consulem De antiquitatibus Curiae in Retia prima"
+  },
+  {
+   "scan": 870,
+   "line": 1,
+   "lines": [
+    [
+     870,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Alia"
+  },
+  {
+   "scan": 870,
+   "line": 28,
+   "lines": [
+    [
+     870,
+     28
+    ]
+   ],
+   "level": 2,
+   "title": "Alia"
+  },
+  {
+   "scan": 874,
+   "line": 1,
+   "lines": [
+    [
+     874,
+     1
+    ],
+    [
+     874,
+     2
+    ],
+    [
+     874,
+     3
+    ],
+    [
+     874,
+     4
+    ],
+    [
+     874,
+     5
+    ],
+    [
+     874,
+     6
+    ],
+    [
+     874,
+     7
+    ],
+    [
+     874,
+     8
+    ],
+    [
+     874,
+     9
+    ],
+    [
+     874,
+     10
+    ]
+   ],
+   "level": 1,
+   "title": "Ioachimi Vadiani consulis Sanctgallensis De primitivae ecclesiae statu, qui aurea atque argentea christianismi aetate floruit. Liber imperfectus"
+  },
+  {
+   "scan": 875,
+   "line": 27,
+   "lines": [
+    [
+     875,
+     27
+    ]
+   ],
+   "level": 2,
+   "title": "Aurea aetas ecclesiae"
+  },
+  {
+   "scan": 887,
+   "line": 34,
+   "lines": [
+    [
+     887,
+     34
+    ]
+   ],
+   "level": 2,
+   "title": "Argentea aetas ecclesiae"
+  },
+  {
+   "scan": 910,
+   "line": 1,
+   "lines": [
+    [
+     910,
+     1
+    ],
+    [
+     910,
+     2
+    ],
+    [
+     910,
+     3
+    ],
+    [
+     910,
+     4
+    ],
+    [
+     910,
+     5
+    ],
+    [
+     910,
+     6
+    ],
+    [
+     910,
+     7
+    ]
+   ],
+   "level": 1,
+   "title": "Ioachimi Vadiani consulis Sanctgallensis De coniugio servorum epistola ad Ioannem Zvickium"
+  },
+  {
+   "scan": 922,
+   "line": 1,
+   "lines": [
+    [
+     922,
+     1
+    ],
+    [
+     922,
+     2
+    ],
+    [
+     922,
+     3
+    ],
+    [
+     922,
+     4
+    ],
+    [
+     922,
+     5
+    ],
+    [
+     922,
+     6
+    ],
+    [
+     922,
+     28
+    ]
+   ],
+   "level": 1,
+   "title": "Iohannis Zvickii Constantiensis responsio ad Ioachimum Vadianum"
+  },
+  {
+   "scan": 923,
+   "line": 1,
+   "lines": [
+    [
+     923,
+     1
+    ],
+    [
+     923,
+     2
+    ],
+    [
+     923,
+     3
+    ],
+    [
+     923,
+     4
+    ],
+    [
+     923,
+     5
+    ],
+    [
+     923,
+     6
+    ]
+   ],
+   "level": 1,
+   "title": "Leonis Iudae De divortio, epistola I ad Ioachimum Vadianum et Dominicum Zylium"
+  },
+  {
+   "scan": 924,
+   "line": 1,
+   "lines": [
+    [
+     924,
+     1
+    ],
+    [
+     924,
+     2
+    ],
+    [
+     924,
+     3
+    ],
+    [
+     924,
+     4
+    ],
+    [
+     924,
+     5
+    ],
+    [
+     924,
+     27
+    ]
+   ],
+   "level": 1,
+   "title": "Iohannis Zvickii Constantiensis responsio ad Ioachimum Vadianum (altera)"
+  },
+  {
+   "scan": 925,
+   "line": 1,
+   "lines": [
+    [
+     925,
+     1
+    ],
+    [
+     925,
+     2
+    ],
+    [
+     925,
+     3
+    ],
+    [
+     925,
+     4
+    ],
+    [
+     925,
+     5
+    ],
+    [
+     925,
+     6
+    ],
+    [
+     925,
+     7
+    ]
+   ],
+   "level": 1,
+   "title": "Leonis Iudae De divortio, epistola I"
+  },
+  {
+   "scan": 927,
+   "line": 11,
+   "lines": [
+    [
+     927,
+     11
+    ],
+    [
+     927,
+     12
+    ],
+    [
+     927,
+     13
+    ],
+    [
+     927,
+     14
+    ],
+    [
+     927,
+     15
+    ],
+    [
+     927,
+     16
+    ]
+   ],
+   "level": 2,
+   "title": "Epistola II. Ad Ioachimum Vadianum"
+  },
+  {
+   "scan": 931,
+   "line": 0,
+   "lines": [
+    [
+     931,
+     0
+    ],
+    [
+     931,
+     0
+    ],
+    [
+     931,
+     0
+    ],
+    [
+     931,
+     0
+    ]
+   ],
+   "level": 1,
+   "title": "Ioannis Kesleri Sanctgallensis Bibliotheca"
+  },
+  {
+   "scan": 933,
+   "line": 1,
+   "lines": [
+    [
+     933,
+     1
+    ],
+    [
+     933,
+     2
+    ],
+    [
+     933,
+     3
+    ],
+    [
+     933,
+     4
+    ],
+    [
+     933,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Dominus Ioachimo Vadiano doctissimo prudentissimoque consuli, Ioannes Kesler S.D.P."
+  },
+  {
+   "scan": 934,
+   "line": 1,
+   "lines": [
+    [
+     934,
+     1
+    ],
+    [
+     934,
+     2
+    ],
+    [
+     934,
+     3
+    ],
+    [
+     934,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Bibliotheca Sangallensis. Ioachimum Vadianum prudentissimum consulem alloquitur"
+  },
+  {
+   "scan": 943,
+   "line": 1,
+   "lines": [
+    [
+     943,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Index rerum et verborum memorabilium"
+  },
+  {
+   "scan": 944,
+   "line": 1,
+   "lines": [
+    [
+     944,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Index"
+  },
+  {
+   "scan": 945,
+   "line": 0,
+   "lines": [
+    [
+     945,
+     0
+    ]
+   ],
+   "level": 2,
+   "title": "Index"
+  },
+  {
+   "scan": 946,
+   "line": 1,
+   "lines": [
+    [
+     946,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Index"
+  },
+  {
+   "scan": 947,
+   "line": 1,
+   "lines": [
+    [
+     947,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Index"
+  },
+  {
+   "scan": 948,
+   "line": 1,
+   "lines": [
+    [
+     948,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Index"
+  }
+ ],
+ "book": "Goldast's 1606 Frankfurt edition of Alamannic historical writers in two tomes: Tomus I (Historiarum Alamannicarum partes I-II, with chronicles, monastic histories and saints' lives of St Gall, Reichenau and related houses, plus dedications, syllabus and Tibianus' panegyric) and Tomus II (Antiquitatum Alamannicarum, with the Alamannic law, charters, glossaries and indices).",
+ "series": [
+  {
+   "label": "Pars",
+   "first": "I",
+   "last": "II",
+   "count": 2,
+   "level": 1,
+   "found": 38
+  },
+  {
+   "label": "Caput",
+   "first": "I",
+   "last": "XI",
+   "count": 161,
+   "level": 3,
+   "found": 414
+  },
+  {
+   "label": "Mensis",
+   "first": "Ianuarius",
+   "last": "December",
+   "count": 12,
+   "level": 3,
+   "found": 414
+  }
+ ],
+ "taste": 12,
+ "doubt": "",
+ "input": 156533,
+ "output": 72040
+}
