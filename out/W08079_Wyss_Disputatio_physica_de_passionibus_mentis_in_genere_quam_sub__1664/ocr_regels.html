@@ -1,0 +1,501 @@
+<!doctype html><meta charset=utf-8><meta name=viewport content='width=device-width,initial-scale=1'><title>OCR per regel</title><style>
+:root{--bg:#fffdf8;--ink:#2a241c;--muted:#857a69;--rule:#e4dccc;--goed:#2f7d32;--redelijk:#a07000;
+--afwijkend:#b3261e;--geen:#7a5aa8;--mark:#f7d77a}
+@media (prefers-color-scheme:dark){:root{--bg:#1f1b15;--ink:#e9e1d2;--muted:#9a8f7d;--rule:#383126;
+--goed:#7cc47f;--redelijk:#e0b54a;--afwijkend:#f08a80;--geen:#b9a0e0;--mark:#6b5414}}
+body{font:15px/1.45 Georgia,serif;max-width:1300px;margin:2em auto;padding:0 16px;color:var(--ink);background:var(--bg)}
+h1{font-size:1.4em} h3{margin:1.6em 0 .3em;font-size:1.05em} a{color:inherit}
+table{border-collapse:collapse;width:100%} td,th{border-bottom:1px solid var(--rule);padding:3px 6px;vertical-align:top;text-align:left}
+th{font:600 12px system-ui;color:var(--muted)} td.n,td.s{font:12px system-ui;white-space:nowrap;color:var(--muted)}
+td.s{text-align:right;font-weight:600} td.o{font-family:ui-monospace,monospace;font-size:13px;color:var(--muted)}
+tr.goed td.s{color:var(--goed)} tr.redelijk td.s{color:var(--redelijk)} tr.afwijkend td.s{color:var(--afwijkend)}
+tr.geen td.s{color:var(--geen)} tr.alleen td.s{color:var(--afwijkend)} td.gap{color:var(--muted);font-style:italic}
+tr.afwijkend td:first-child,tr.geen td:first-child,tr.alleen td:first-child{box-shadow:inset 3px 0 var(--afwijkend)}
+mark{background:var(--mark);color:inherit;border-radius:2px} .sum span{margin-right:1.4em;font:13px system-ui}
+.bar{display:flex;height:8px;border-radius:4px;overflow:hidden;margin:.5em 0 1em;max-width:600px}
+.bar i{display:block} p.no{color:var(--muted);font-style:italic}
+label{font:13px system-ui;color:var(--muted)} body.weak tr.goed,body.weak tr.redelijk{display:none}
+body.weak section:not(:has(tr.afwijkend,tr.geen,tr.alleen)){display:none}
+</style>
+<h1>OCR per regel: W08079_Wyss_Disputatio_physica_de_passionibus_mentis_in_genere_quam_sub__1664</h1>
+<p>15 scans met tekst, 15 met bruikbare OCR, waarvan 0 waar de OCR de pagina slecht volgt. 397 regels vergeleken, gemiddelde overeenkomst 90%.</p>
+<div class=bar><i style='width:81.360201511335%;background:var(--goed)' title='goed: 323'></i><i style='width:15.617128463476071%;background:var(--redelijk)' title='redelijk: 62'></i><i style='width:0.5037783375314862%;background:var(--afwijkend)' title='afwijkend: 2'></i><i style='width:2.5188916876574305%;background:var(--geen)' title='geen: 10'></i></div>
+<p class=sum><span style='color:var(--goed)'>goed: 323</span><span style='color:var(--redelijk)'>redelijk: 62</span><span style='color:var(--afwijkend)'>afwijkend: 2</span><span style='color:var(--geen)'>geen: 10</span><span>OCR-regels zonder transcriptie: 19</span></p>
+<label><input type=checkbox onchange="document.body.classList.toggle('weak',this.checked)"> alleen afwijkende regels</label>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W08079_Wyss_Disputatio_physica_de_passionibus_mentis_in_genere_quam_sub__1664.pdf#page=1' target=_blank>scan 1</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=goed><td class=n>1</td><td>Disputatio physica de passionibus mentis in genere</td><td class=o>Disputatio physica de passionibus mentis in genere</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>2</td><td>Albinus, David</td><td class=o>Albinus, David</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>3</td><td>[Bernae], 1664</td><td class=o>[Bernae], 1664</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>4</td><td>Universitätsbibliothek Bern</td><td class=o>Universitätsbibliothek Bern</td><td class=s>100%</td></tr>
+<tr class=alleen><td class=n></td><td class=gap>ontbreekt in de transcriptie?</td><td class=o><mark>Die Plattform e-rara.ch macht die in Schweizer Bibliotheken vorhandenen Drucke online verfügbar. Das Spektrum reicht</mark></td><td class=s>alleen OCR</td></tr>
+<tr class=alleen><td class=n></td><td class=gap>ontbreekt in de transcriptie?</td><td class=o><mark>von Büchern über Karten bis zu illustrierten Materialien – von den Anfängen des Buchdrucks bis ins 20. Jahrhundert.</mark></td><td class=s>alleen OCR</td></tr>
+<tr class=alleen><td class=n></td><td class=gap>ontbreekt in de transcriptie?</td><td class=o><mark>e-rara.ch provides online access to rare books available in Swiss libraries. The holdings extend from books and maps to</mark></td><td class=s>alleen OCR</td></tr>
+<tr class=alleen><td class=n></td><td class=gap>ontbreekt in de transcriptie?</td><td class=o><mark>illustrated material – from the beginnings of printing to the 20th century.</mark></td><td class=s>alleen OCR</td></tr>
+<tr class=alleen><td class=n></td><td class=gap>ontbreekt in de transcriptie?</td><td class=o><mark>e-rara.ch met en ligne des reproductions numériques d’imprimés conservés dans les bibliothèques de Suisse. L’éventail</mark></td><td class=s>alleen OCR</td></tr>
+<tr class=alleen><td class=n></td><td class=gap>ontbreekt in de transcriptie?</td><td class=o><mark>va des livres aux documents iconographiques en passant par les cartes – des débuts de l’imprimerie jusqu’au 20e siècle.</mark></td><td class=s>alleen OCR</td></tr>
+<tr class=alleen><td class=n></td><td class=gap>ontbreekt in de transcriptie?</td><td class=o><mark>e-rara.ch mette a disposizione in rete le edizioni antiche conservate nelle biblioteche svizzere. La collezione comprende</mark></td><td class=s>alleen OCR</td></tr>
+<tr class=alleen><td class=n></td><td class=gap>ontbreekt in de transcriptie?</td><td class=o><mark>libri, carte geografiche e materiale illustrato che risalgono agli inizi della tipografia fino ad arrivare al XX secolo.</mark></td><td class=s>alleen OCR</td></tr>
+<tr class=alleen><td class=n></td><td class=gap>ontbreekt in de transcriptie?</td><td class=o><mark>Nutzungsbedingungen Dieses Digitalisat kann kostenfrei heruntergeladen werden. Die Lizenzierungsart und die</mark></td><td class=s>alleen OCR</td></tr>
+<tr class=alleen><td class=n></td><td class=gap>ontbreekt in de transcriptie?</td><td class=o><mark>Nutzungsbedingungen sind individuell zu jedem Dokument in den Titelinformationen angegeben. Für weitere</mark></td><td class=s>alleen OCR</td></tr>
+<tr class=alleen><td class=n></td><td class=gap>ontbreekt in de transcriptie?</td><td class=o><mark>Informationen siehe auch [Link]</mark></td><td class=s>alleen OCR</td></tr>
+<tr class=alleen><td class=n></td><td class=gap>ontbreekt in de transcriptie?</td><td class=o><mark>Terms of Use This digital copy can be downloaded free of charge. The type of licensing and the terms of use are</mark></td><td class=s>alleen OCR</td></tr>
+<tr class=alleen><td class=n></td><td class=gap>ontbreekt in de transcriptie?</td><td class=o><mark>indicated in the title information for each document individually. For further information please refer to the terms of use</mark></td><td class=s>alleen OCR</td></tr>
+<tr class=alleen><td class=n></td><td class=gap>ontbreekt in de transcriptie?</td><td class=o><mark>Conditions d&#x27;utilisation Ce document numérique peut être téléchargé gratuitement. Son statut juridique et ses</mark></td><td class=s>alleen OCR</td></tr>
+<tr class=alleen><td class=n></td><td class=gap>ontbreekt in de transcriptie?</td><td class=o><mark>conditions d&#x27;utilisation sont précisés dans sa notice détaillée. Pour de plus amples informations, voir [Link]</mark></td><td class=s>alleen OCR</td></tr>
+<tr class=alleen><td class=n></td><td class=gap>ontbreekt in de transcriptie?</td><td class=o><mark>Condizioni di utilizzo Questo documento può essere scaricato gratuitamente. Il tipo di licenza e le condizioni di utilizzo</mark></td><td class=s>alleen OCR</td></tr>
+<tr class=alleen><td class=n></td><td class=gap>ontbreekt in de transcriptie?</td><td class=o><mark>sono indicate nella notizia bibliografica del singolo documento. Per ulteriori informazioni vedi anche [Link]</mark></td><td class=s>alleen OCR</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W08079_Wyss_Disputatio_physica_de_passionibus_mentis_in_genere_quam_sub__1664.pdf#page=2' target=_blank>scan 2</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=redelijk><td class=n>1</td><td>DISPUTATIO <mark>PHYSICA</mark></td><td class=o>DISPUTATIO</td><td class=s>74%</td></tr>
+<tr><td class=n>2</td><td>De</td><td class=o></td><td class=s></td></tr>
+<tr class=geen><td class=n>3</td><td>PASSIONIBUS</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=goed><td class=n>4</td><td>MENTIS <mark>IN</mark></td><td class=o>MENTIS</td><td class=s>86%</td></tr>
+<tr class=goed><td class=n>5</td><td>GENERE,</td><td class=o>GENERE <mark>,</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>6</td><td>Quam,</td><td class=o>■Quam,</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>7</td><td>Divino annuente Numine</td><td class=o>Divino annuente Numine</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>8</td><td><mark>SUB PRÆSIDIO</mark></td><td class=o><mark>iPrisidio</mark></td><td class=s>67%</td></tr>
+<tr class=goed><td class=n>9</td><td>Reverendi, Clarissimi <mark>atq; Doctissimi, Viri,</mark></td><td class=o>Reverendi) Clarißimi <mark>at^ DoftißimhVir</mark></td><td class=s>91%</td></tr>
+<tr class=redelijk><td class=n>10</td><td><mark>DN.</mark> DAVIDIS <mark>ALBINI,</mark></td><td class=o><mark>.</mark> DAVIDIS</td><td class=s>64%</td></tr>
+<tr class=geen><td class=n>11</td><td>IN INCLYTO BERNATUM LYCÆO</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=goed><td class=n>12</td><td><mark>Philosophiæ Professoris</mark> ordinarij, Præceptoris</td><td class=o><mark>PhilosophiaeProfessoris</mark> ordinarij <mark>,</mark> .Praeceptoris</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>13</td><td>fui omni observantiæ cultu jugiter</td><td class=o>fui omni observantiae cultu jugiter</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>14</td><td>colendi,</td><td class=o>colendi <mark>,</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>15</td><td><mark>Publicè</mark> discutiendam proponit</td><td class=o><mark>Publice</mark> discutiendam proponit</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>16</td><td><mark>JOH. ANTHONIUS â WATTENWYL, HBer-</mark></td><td class=o><mark>AN THON IUS a W ATTENWYL,HBej</mark></td><td class=s>86%</td></tr>
+<tr class=goed><td class=n>17</td><td>nas, Phil. Stud.</td><td class=o>nas <mark>,</mark> Phil. Stud.</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>18</td><td>Ad diem 10. <mark>Decembr.</mark> horis <mark>locoq; solitis.</mark></td><td class=o>\~Ad diem 10. <mark>Becembr,</mark> horis <mark>locosolitis</mark></td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>19</td><td>Excudebat <mark>ILLUSTRISSIMÆ REIPUBLICÆ</mark></td><td class=o>Excudebat <mark>ILLUSTRISSIMA REI PUBLICA</mark></td><td class=s>97%</td></tr>
+<tr class=redelijk><td class=n>20</td><td><mark>BERNENSIS</mark> TYPOGRAPHUS,</td><td class=o>Typographus</td><td class=s>71%</td></tr>
+<tr class=goed><td class=n>21</td><td>Georgius <mark>Sonnleitnerus.</mark></td><td class=o>Georgius <mark>Sonnleimerus,</mark></td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>22</td><td>M DC <mark>LXIV.</mark></td><td class=o>M DC <mark>LXI</mark></td><td class=s>92%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W08079_Wyss_Disputatio_physica_de_passionibus_mentis_in_genere_quam_sub__1664.pdf#page=3' target=_blank>scan 3</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=redelijk><td class=n>1</td><td><mark>Amplissimis,</mark> genere &amp; virtute <mark>conspicuis</mark> Viris ac</td><td class=o><mark>x^Amsißmisy</mark> genere &amp; virtute <mark>conflicttü</mark> Viris ac</td><td class=s>84%</td></tr>
+<tr class=goed><td class=n>2</td><td><mark>Dominis,</mark></td><td class=o><mark>Dominiis</mark></td><td class=s>93%</td></tr>
+<tr class=geen><td class=n>3</td><td>Dn. ANTHONIO à GRAFFENRIED, Inclytæ</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=goed><td class=n>4</td><td><mark>Reipublicæ</mark> Bernensis Consuli dignissimo, gravissimo, ac susce-</td><td class=o><mark>publica;</mark> Bernensis Consuli dignissimo, gravissimo, ac susce¬</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>5</td><td>ptori suo <mark>è</mark> Sacro fonte <mark>æternùm colendo.</mark></td><td class=o>ptori suo <mark>-e</mark> Sacro fonte <mark>aeterniimcolendo .</mark></td><td class=s>93%</td></tr>
+<tr class=afwijkend><td class=n>6</td><td><mark>Dn. JOH. RODOLPHO WURSTENBERGERO, ejusdem</mark></td><td class=o><mark>WORSTENBERGERO</mark></td><td class=s>54%</td></tr>
+<tr class=goed><td class=n>7</td><td>Reip. Tribuno plebis spectatissimo, affini suo <mark>plurimùm</mark> ho-</td><td class=o>Reip <mark>.</mark> Tribuno plebis spectatissimo <mark>,</mark> affini suo <mark>plurimum</mark> ho¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>8</td><td>norando.</td><td class=o>norando <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>9</td><td><mark>Ut</mark> Et</td><td class=o><mark>tl t</mark> Et</td><td class=s>67%</td></tr>
+<tr class=goed><td class=n>10</td><td><mark>Dn. DAVIDI ALBINO, Philosophiæ</mark> Professori acutissimo,</td><td class=o><mark>DAVID , Philosophia;</mark> Professori acutissimo, <mark>;</mark></td><td class=s>88%</td></tr>
+<tr class=goed><td class=n>11</td><td><mark>Collegij</mark> minoris inspectori fidelissimo, hospiti suo aman-</td><td class=o><mark>Collegi;</mark> minoris inspectori fidelissimo <mark>-,</mark> hospiti suo aman-</td><td class=s>99%</td></tr>
+<tr class=goed><td class=n>12</td><td>tissimo.</td><td class=o>tissimo.</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>13</td><td><mark>Dn.</mark> PETRO <mark>MALACRIDÆ,</mark> Ecclesiæ, quæ colligitur in Wyl,</td><td class=o><mark>MALACRIDAI</mark> PETRO <mark>,</mark> Ecclesiae, quae colligitur in Wyl <mark>,</mark></td><td class=s>86%</td></tr>
+<tr class=goed><td class=n>14</td><td>Pastori vigilantissimo, olim hospiti suo <mark>admodùm</mark> colendo.</td><td class=o>Pastori vigilantissimo, olim hospiti suo <mark>admodum</mark> colendo,</td><td class=s>98%</td></tr>
+<tr class=redelijk><td class=n>15</td><td><mark>Quin Etiam</mark></td><td class=o><mark>E T I A M</mark></td><td class=s>71%</td></tr>
+<tr class=afwijkend><td class=n>16</td><td><mark>Dn. SIGISMUNDO à WATTENWYL, Præfecturâ</mark></td><td class=o><mark>Y L,Praefecturai«</mark></td><td class=s>51%</td></tr>
+<tr class=goed><td class=n>17</td><td><mark>in</mark> Morsee laudabiliter <mark>defuncto, patruo</mark> suo omni honore prose-</td><td class=o>Morsee laudabiliter <mark>defuncto,patruo</mark> suo omni honore prose¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>18</td><td>quendo.</td><td class=o>quendo,</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>19</td><td><mark>Dn. ALBERTO à WATTENWYL, Chiliarchæ in Galliâ</mark></td><td class=o><mark>E N-WYL,Chiliarchte</mark></td><td class=s>56%</td></tr>
+<tr class=goed><td class=n>20</td><td><mark>strenuissimè</mark> defuncto, patrueli suo <mark>plurimùm</mark> observando.</td><td class=o><mark>strenuissime</mark> defuncto, patrueli suo <mark>plurimum</mark> observando.</td><td class=s>96%</td></tr>
+<tr class=redelijk><td class=n>21</td><td><mark>Dn. DANIELI STÜRLERO,</mark> Gubernatori in Bomon meri-</td><td class=o><mark>! ST ii RL E R</mark> 0,Gubernatori in Bomon meri¬</td><td class=s>81%</td></tr>
+<tr class=goed><td class=n>22</td><td>tissimo, Affini suo ad aras usq; colendo.</td><td class=o>tissimo <mark>,</mark> Affini suo ad aras usq; colendo,</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>23</td><td><mark>Dn. SAMUELI à WATTENWYL,</mark> Præfecto <mark>in Roma-</mark></td><td class=o>&#x27;Praefecto <mark>inRoma -</mark></td><td class=s>61%</td></tr>
+<tr class=goed><td class=n>24</td><td>monstier dignissimo, Agnato ac Tutori suo observandissimo,</td><td class=o>monstier dignissimo, Agnato ac Tutori suo observandissimo,</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>25</td><td><mark>fidelissimo.</mark></td><td class=o><mark>fidelissimos</mark></td><td class=s>96%</td></tr>
+<tr class=geen><td class=n>26</td><td>Dn. JACOBO à WATTENWYL, Chiliarchæ in patriâ</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=redelijk><td class=n>27</td><td>animosissimo, Fratri suo omni <mark>φιλαδελφία</mark> prosequendo.</td><td class=o>animosissimo <mark>,</mark> Fratri suo omni <mark>pi^ cstÄpla</mark> prosequendo <mark>.</mark></td><td class=s>79%</td></tr>
+<tr class=redelijk><td class=n>28</td><td><mark>Dn. NICOLAO à WATTENWYL,</mark> Inclytæ <mark>Reip.</mark> Ber-</td><td class=o><mark>EN WY L,</mark> Inclytae <mark>Pteip .</mark> Ber¬</td><td class=s>69%</td></tr>
+<tr class=goed><td class=n>29</td><td>nensis <mark>ducentûm-viro</mark> meritissimo, patrueli suo <mark>plurimùm</mark></td><td class=o>nensis <mark>ducentum-viro</mark> meritissimo <mark>,</mark> patrueli suo <mark>plurimum</mark></td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>30</td><td>observando.</td><td class=o>observando.</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>31</td><td>Has <mark>disquisitiones philosophicas sacras facit</mark></td><td class=o>Has <mark>difquifltiomsphiloflepbicassacrasfacit</mark></td><td class=s>88%</td></tr>
+<tr class=goed><td class=n>32</td><td>Joh. Anthonius <mark>à Wattenwyl, Resp.</mark></td><td class=o>Joh <mark>.</mark> Anthonius <mark>a Wattenvvyl , Relp.</mark></td><td class=s>87%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W08079_Wyss_Disputatio_physica_de_passionibus_mentis_in_genere_quam_sub__1664.pdf#page=4' target=_blank>scan 4</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=redelijk><td class=n>1</td><td>DISPUTATIO <mark>PHYSICA</mark></td><td class=o>DISPUTATIO</td><td class=s>74%</td></tr>
+<tr class=redelijk><td class=n>2</td><td><mark>De</mark> PASSIONIBUS <mark>MENTIS</mark></td><td class=o>PASSIONIBUS</td><td class=s>73%</td></tr>
+<tr class=goed><td class=n>3</td><td><mark>IN GENERE.</mark></td><td class=o><mark>G E N E R E,</mark></td><td class=s>86%</td></tr>
+<tr class=geen><td class=n>4</td><td>THESIS I.</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=goed><td class=n>5</td><td>T <mark>communis</mark> commotionum animi natu-</td><td class=o>T <mark>com munis</mark> commotionum animi natu <mark>“</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>6</td><td>ra plenius nobis innotescat, ad secun-</td><td class=o>ra plenius nobis innotescat <mark>,</mark> ad secun¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>7</td><td>dos investigationum nostrarum labo-</td><td class=o>dos investigationum nostrarum labo-</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>8</td><td>resaccingimur: <mark>Primùm</mark> observamus,</td><td class=o>resaccingimur <mark>: Primum</mark> observamus <mark>,</mark></td><td class=s>97%</td></tr>
+<tr class=redelijk><td class=n>9</td><td><mark>quòd affectus</mark> animum <mark>nunquàm</mark> tur-</td><td class=o><mark>quod affeBus</mark> animum tur¬ <mark>nunquam</mark></td><td class=s>76%</td></tr>
+<tr class=goed><td class=n>10</td><td>bant quin corpori aliqua variatio ac-</td><td class=o>bant quin corpori aliqua variatio ac¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>11</td><td>cidat, <mark>quæ spirituũ</mark> animalium est agi-</td><td class=o>cidat <mark>, quse spirituu</mark> animalium est agi¬</td><td class=s>94%</td></tr>
+<tr class=goed><td class=n>12</td><td>tatio humorum perturbatione <mark>sæpè</mark> conjuncta; <mark>Imò in</mark></td><td class=o>tatio humorum <mark>5 Imö in</mark> perturbatione <mark>sepe</mark> conjuncta</td><td class=s>85%</td></tr>
+<tr class=redelijk><td class=n>13</td><td>humoribus <mark>spiritibusquè</mark> animalibus tumultuandi <mark>sæpè tanta</mark></td><td class=o>humoribus animalibus tumultuandi</td><td class=s>72%</td></tr>
+<tr class=goed><td class=n>14</td><td><mark>est</mark> vehementia ut etiam in externam corporis su-</td><td class=o>vehementia ut etiam in externam corporis su¬</td><td class=s>96%</td></tr>
+<tr class=redelijk><td class=n>15</td><td><mark>perficiem prosiliant;</mark> Hinc ex <mark>serenâ fronte lætitiam, corrugatâ</mark></td><td class=o><mark>prostliant ;</mark> Hinc ex <mark>serenafronte setitiam,cor¬</mark></td><td class=s>77%</td></tr>
+<tr class=redelijk><td class=n>16</td><td><mark>tristitiam,</mark> membrorum promptitudine <mark>cupiditatem</mark></td><td class=o><mark>,</mark> membrorum <mark>cupidita »</mark> promptitudine</td><td class=s>60%</td></tr>
+<tr class=redelijk><td class=n>17</td><td><mark>animi</mark> cognoscimus.</td><td class=o>cognoscimus <mark>.</mark></td><td class=s>81%</td></tr>
+<tr><td class=n>18</td><td>II.</td><td class=o></td><td class=s></td></tr>
+<tr class=redelijk><td class=n>19</td><td><mark>Ejusmodi</mark> mutationes <mark>plurimùm</mark> afficere videntur <mark>cor,</mark></td><td class=o>mutationes <mark>plurimnm</mark> afficere videntur</td><td class=s>84%</td></tr>
+<tr class=goed><td class=n>20</td><td><mark>tùm quia</mark> prostant eorum exempla, quibus nimia <mark>vel</mark></td><td class=o>prostant eorum exempla <mark>,</mark> quibus nimia</td><td class=s>86%</td></tr>
+<tr class=redelijk><td class=n>21</td><td><mark>tristitia vel lætitia</mark> mortem repentinam <mark>attulit, id</mark> quod <mark>fieri haud</mark></td><td class=o><mark>setitia</mark> mortem repentinam <mark>attulit,id</mark> quod</td><td class=s>77%</td></tr>
+<tr class=goed><td class=n>22</td><td>potuisset, nisi, ita philosophante Berkringero</td><td class=o>potuisset <mark>,</mark> nisi, ita philofophante Berkringero</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>23</td><td><mark>in suis</mark> institutionibus Ethicis, ipse <mark>vitæ</mark> fons h. e. cor de-</td><td class=o>institutionibus Ethicis, <mark>,</mark> ipse <mark>vita?</mark> fons h. e. cor de¬</td><td class=s>92%</td></tr>
+<tr class=goed><td class=n>24</td><td>vastatus fuisset; <mark>Tùm</mark> quia qui animum affectu <mark>perturbatum</mark></td><td class=o>vastatus fuisset <mark>; Tum</mark> quia qui animum affectu <mark>perturba¬</mark></td><td class=s>95%</td></tr>
+<tr class=redelijk><td class=n>25</td><td><mark>habet, plerumq;</mark> maximam alterationem in corde <mark>sentit</mark> fa-</td><td class=o><mark>;</mark> maximam alterationem in corde fa¬</td><td class=s>76%</td></tr>
+<tr class=goed><td class=n>26</td><td>ctam sentit.</td><td class=o>ctam sentit <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>27</td><td><mark>A 2 III. Quæ</mark></td><td class=o><mark>HI.Quas</mark></td><td class=s>57%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W08079_Wyss_Disputatio_physica_de_passionibus_mentis_in_genere_quam_sub__1664.pdf#page=5' target=_blank>scan 5</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=goed><td class=n>1</td><td>III.</td><td class=o>III <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>2</td><td>Quæ <mark>verò</mark> in corde confusio est nervulos exiguos cir-</td><td class=o>Quae <mark>vero</mark> in corde confusio est nervulos exiguos cir¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>3</td><td>ca cor dispersos ita motitat, ut &amp; altera extremitas eorun-</td><td class=o>ca cor dispersos ita motitat <mark>,</mark> ut &amp; altera extremitas eorun¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>4</td><td>dem nervulorum in cerebro <mark>terminata</mark> concutiatur, unde</td><td class=o>dem nervulorum in cerebro <mark>terminat »</mark> concutiatur <mark>,</mark> unde</td><td class=s>99%</td></tr>
+<tr class=goed><td class=n>5</td><td>illico nascitur animi perceptio, quam mentis passionem vo-</td><td class=o>illico nascitur animi perceptio <mark>,</mark> quam *mentis paßionem vo¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>6</td><td>camus, ut proinde variationes in corpore <mark>factæ</mark> causa sint</td><td class=o>camus <mark>,</mark> ut proinde ,variationes in corpore <mark>fadhe</mark> causa sint</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>7</td><td><mark>passionum, nó verò contrà;</mark> Cujus rei experimentum <mark>extat</mark></td><td class=o><mark>passionum,no vero conträj</mark> ,Cujus rei experimentum</td><td class=s>86%</td></tr>
+<tr class=redelijk><td class=n>8</td><td>in eo qui tristis est &amp; <mark>interim nescit cur tristis sit, ibi tri-</mark></td><td class=o>in eo qui tristis est &amp; <mark>interininescir</mark></td><td class=s>74%</td></tr>
+<tr class=goed><td class=n>9</td><td>stitia <mark>necessariò</mark> orta est ex quadam corporis mutatione, si</td><td class=o>stitia <mark>necessario</mark> orta est ex quadam corporis mutatione <mark>,</mark> si</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>10</td><td>enim ipsa anima <mark>tristitiæ causa</mark> esset, sciret <mark>omninò</mark> quare</td><td class=o>enim ipsa anima <mark>tristitiaecausa</mark> esset, sciret <mark>omnino</mark> quare</td><td class=s>98%</td></tr>
+<tr class=redelijk><td class=n>11</td><td>tristis sit, <mark>proindeq;</mark> tristitia mutationis <mark>in corpore viri</mark></td><td class=o>tristis sit <mark>, proipdeq ,</mark> tristitia mutationis</td><td class=s>83%</td></tr>
+<tr class=goed><td class=n>12</td><td>tristis factæ causa non est, nisi velimus ponere aliquid sui</td><td class=o>tristis factae causa non est, nisi, velimus ponere aliquid fui«</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>13</td><td>ipsius causam <mark>esse posse.</mark></td><td class=o>ipsius causam <mark>esseposse«</mark></td><td class=s>100%</td></tr>
+<tr><td class=n>14</td><td>IV.</td><td class=o></td><td class=s></td></tr>
+<tr class=redelijk><td class=n>15</td><td><mark>Nec putandum</mark> est mentis passionem <mark>esse</mark> perceptionem</td><td class=o>est mentis paßionem <mark>este</mark> perceptionem <mark>-</mark></td><td class=s>84%</td></tr>
+<tr class=goed><td class=n>16</td><td>confusionis in corde ut in <mark>corde factæ, passio</mark> enim ejus na-</td><td class=o>confufionis in corde ut in <mark>cord c fa £l&lt;s , paßto</mark> enim ejus na¬</td><td class=s>90%</td></tr>
+<tr class=goed><td class=n>17</td><td>turæ est ut anima per eam sentiat aliquid tanquam <mark>in se-</mark></td><td class=o>turae est ut anima per eam sentiat aliquid tanquam</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>18</td><td><mark>ipsâ non verò</mark> tanquam in corpore, non quidem <mark>quòd</mark> in</td><td class=o><mark>jpsaiion &gt;vero</mark> tanquam in corpore <mark>,</mark> non quidem <mark>quod</mark> in</td><td class=s>89%</td></tr>
+<tr class=goed><td class=n>19</td><td>ipsa anima revera aliquid fit quod per passionem sentiat,</td><td class=o>ipsa anima revera <mark>:</mark> aliquid sit quod per paßionem sentiat <mark>,</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>20</td><td>sed passio ipsa talis sentiendi forma est ut <mark>per eam</mark> anima</td><td class=o>sed paßio ipsa talis sentiendi forma est ut <mark>peream</mark> anima</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>21</td><td><mark>sentiat aliquid tanquam</mark> in <mark>seipsâ:</mark> Interim hanc formam</td><td class=o><mark>tanquäm</mark> in <mark>seipsä :</mark> Interim hanc formam</td><td class=s>77%</td></tr>
+<tr class=goed><td class=n>22</td><td>sentiendi <mark>sæpiùs</mark> ea comitatur, <mark>quâ</mark> anima aliquid sentit</td><td class=o>sentiendi <mark>saepius</mark> ea comitatur <mark>, qua</mark> anima aliquid sentit</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>23</td><td>tanquam in corde e. gr. qui timet non <mark>tantùm</mark> sentit ali-</td><td class=o>tanquam in corde e. gr. qui timet non <mark>tantum</mark> sentit ali¬</td><td class=s>98%</td></tr>
+<tr class=redelijk><td class=n>24</td><td><mark>quid tanquam</mark> in ipsa <mark>animâ,</mark> sed præterea percipit ali-</td><td class=o>in ipsa <mark>anima ,</mark> sed praeterea percipit ali¬</td><td class=s>84%</td></tr>
+<tr class=goed><td class=n>25</td><td>quid tanquam in corde, hic <mark>verò</mark> posterior <mark>sensus omni-</mark></td><td class=o>quid tanquam in corde <mark>,</mark> hic <mark>vero</mark> posterior <mark>sensusomni ,</mark></td><td class=s>98%</td></tr>
+<tr class=redelijk><td class=n>26</td><td><mark>nò distinguendus</mark> est <mark>à</mark> priori, quia ille <mark>affectum facit, hic</mark></td><td class=o>est <mark>ä</mark> priori <mark>,</mark> quia ille <mark>affeBum facit,hic</mark></td><td class=s>76%</td></tr>
+<tr class=goed><td class=n>27</td><td><mark>verò affectùs</mark> comes est; Quod discrimen <mark>à</mark> Philosophis</td><td class=o><mark>vero affetins;</mark> comes est,- Quod discrimen <mark>ä</mark> Philosophis</td><td class=s>91%</td></tr>
+<tr class=goed><td class=n>28</td><td><mark>hactenùs</mark> non bene fuit observatum, unde de <mark>affectibus</mark></td><td class=o><mark>hactenus</mark> non bene fuit observatum <mark>,</mark> unde de <mark>affeftibw</mark></td><td class=s>92%</td></tr>
+<tr class=redelijk><td class=n>29</td><td><mark>adeò obscurè</mark> loquuntur; <mark>Quòd verò hi duo sensus sæ-</mark></td><td class=o><mark>adeo obscure</mark> loquuntur</td><td class=s>58%</td></tr>
+<tr class=alleen><td class=n></td><td class=gap>ontbreekt in de transcriptie?</td><td class=o><mark>i Quod vero rhi duo sensus sie-</mark></td><td class=s>alleen OCR</td></tr>
+<tr class=goed><td class=n>30</td><td><mark>piùs</mark> conjuncti sunt <mark>indè</mark> est, quia eadem causa quæ po-</td><td class=o><mark>piüs</mark> conjuncti sunt <mark>inde</mark> est, <mark>.</mark> quia eadem causa quae po¬</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>31</td><td>steriorem efficit <mark>sæpiùs</mark> spiritus animales ita determinat,</td><td class=o>steriorem essicit <mark>saepius</mark> spiritus animales ita determinat, <mark>,</mark></td><td class=s>98%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W08079_Wyss_Disputatio_physica_de_passionibus_mentis_in_genere_quam_sub__1664.pdf#page=6' target=_blank>scan 6</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=goed><td class=n>1</td><td>ut priorem <mark>procitent</mark> e. g. causa quæ efficit dolorem, <mark>qui</mark></td><td class=o>ut priorem <mark>proritent</mark> e. g. causa quae efficit dolorem <mark>,qur</mark></td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>2</td><td>sensus <mark>est quo</mark> anima aliquid sentit <mark>tanquàm</mark> in corpore,</td><td class=o>sensus <mark>estquo</mark> anima aliquid sentit <mark>tanquäm</mark> in. corpore,</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>3</td><td>spiritus <mark>animales plerumq;</mark> ita afficit, ut inde tristitia na-</td><td class=o>spiritus <mark>animalesplerumcp;</mark> ita afficit, ut inde tristitia na¬</td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>4</td><td>scatur.</td><td class=o>scatur»</td><td class=s>100%</td></tr>
+<tr><td class=n>5</td><td>V.</td><td class=o></td><td class=s></td></tr>
+<tr class=goed><td class=n>6</td><td><mark>Quanquàm</mark> difficile sit aliis explicare quid sit asse-</td><td class=o><mark>Quanquam</mark> difficile sit aliis explicare quid sit affe*-</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>7</td><td><mark>ctus, ipsa</mark> anima tamen <mark>apertissimè</mark> cognoscit quid <mark>affectus</mark></td><td class=o><mark>Qas&gt;ipia</mark> anima tamen <mark>apertissime ,</mark> cognoscit quid <mark>affeQus</mark></td><td class=s>88%</td></tr>
+<tr class=goed><td class=n>8</td><td>sit <mark>postquàm eô</mark> imbuta fuit, <mark>imò</mark> ut quis <mark>exactè</mark> cogno-</td><td class=o>sit <mark>postquam e &amp;</mark> imbuta fuit <mark>, imo</mark> ut quis <mark>exacte</mark> cogno¬</td><td class=s>90%</td></tr>
+<tr class=goed><td class=n>9</td><td>scat quid sit ira oportet eum aliquando iratum fuisse;</td><td class=o>scat quid sit ira oportet eum aliquando iratum; suisse;</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>10</td><td><mark>Quemadmodū</mark> enim <mark>cæco</mark> nato satis explicari <mark>nunquàm</mark></td><td class=o><mark>Quemadmodu</mark> enim <mark>coeco</mark> nato satis explicari <mark>nunquam</mark></td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>11</td><td>potest quid sit color, ita si quis animum omnium <mark>affec-</mark></td><td class=o>potest quid sit color, ita si quis animum omnium <mark>affe*</mark></td><td class=s>99%</td></tr>
+<tr class=goed><td class=n>12</td><td><mark>tuum</mark> expertem haberet, ei quoq; quid sit <mark>affectus</mark> nun-</td><td class=o><mark>Quum</mark> expertem haberet <mark>,</mark> ei quoq <mark>;</mark> quid sit <mark>ujseQus</mark> nun¬</td><td class=s>89%</td></tr>
+<tr class=goed><td class=n>13</td><td><mark>quàm</mark> satis enodari posset.</td><td class=o><mark>quam</mark> fatis enodari posset»</td><td class=s>95%</td></tr>
+<tr><td class=n>14</td><td>VI.</td><td class=o></td><td class=s></td></tr>
+<tr class=goed><td class=n>15</td><td>Quæcunq; <mark>ergò</mark> vel ab aliis vel <mark>à</mark> nobis ad definien-</td><td class=o>Quaecunq <mark>; ergo</mark> vel ab aliis vel <mark>ä</mark> nobis ad definien¬</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>16</td><td>dam naturam <mark>affectuum</mark> afferuntur, crassiores <mark>tantùm</mark> eo-</td><td class=o>dam naturam <mark>affeQuum</mark> afferuntur, crassiores <mark>tantum</mark> eo¬</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>17</td><td>rum sunt delineationes, <mark>quæ eò</mark> faciunt, ut de iis cum</td><td class=o>rum sunt delineationes <mark>, quas eo</mark> faciunt <mark>,</mark> ut de iis cum</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>18</td><td>aliis <mark>quomodocunq; differere</mark> discamus, penitiori cogni-</td><td class=o>aliis <mark>qnomodocuncp disterere</mark> discamus, penitiori cogni¬</td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>19</td><td>tione solius animæ experientiæ interim <mark>reservatâ, anima</mark></td><td class=o>tione solius animae experientiae interim <mark>reservata,anima</mark></td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>20</td><td>enim nostra, si passione <mark>aliquâ</mark> perturbata fuerit, semet-</td><td class=o>enim nostra <mark>,</mark> si passione <mark>aliqua</mark> perturbata fuerit, semet-</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>21</td><td>ipsam intuens, <mark>clariùs</mark> se cognoscit, <mark>quàm</mark> ut aliis aperi-</td><td class=o>ipsam intuens, <mark>clarius</mark> se cognoscit, <mark>quam</mark> ut &#x27;aliis aperi¬</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>22</td><td>re possit.</td><td class=o>re possit.</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>23</td><td><mark>VII.</mark></td><td class=o><mark>VIL</mark></td><td class=s>67%</td></tr>
+<tr class=goed><td class=n>24</td><td><mark>Maximè</mark> etiam observandum est dari animi nostri</td><td class=o><mark>Maxime</mark> etiam observandum est dari animi nostri:</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>25</td><td>commotiones <mark>passionibus mentis</mark> simillimas, nec interim</td><td class=o>commotiones <mark>paßonthus mentä</mark> simillimas <mark>3</mark> nec interim</td><td class=s>91%</td></tr>
+<tr class=redelijk><td class=n>26</td><td><mark>iis congeneres esse;</mark> Discrimen ita tene: <mark>Primò</mark> animi</td><td class=o>Discrimen ita tene <mark>: Primo</mark> animi</td><td class=s>72%</td></tr>
+<tr class=goed><td class=n>27</td><td>commotiones, quæ mentis passiones <mark>nuncupantur, volun-</mark></td><td class=o>commotiones <mark>,</mark> quae mentis paßiones <mark>nuncupantur,,volun¬</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>28</td><td>tati <mark>sæpè</mark> sunt adversæ; Quæ <mark>verò ex altero</mark> ordine ani-</td><td class=o>tati <mark>saepe</mark> sunt adversae <mark>; :</mark> Quae <mark>vero ex.altero</mark> ordine ani¬</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>29</td><td>mi commotiones sunt, voluntati <mark>perpetuò</mark> consentiunt:</td><td class=o>mi commotiones sunt, voluntati <mark>perpetuo</mark> consentiunt <mark>:</mark></td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>30</td><td><mark>Secundò illæ</mark> quandoq; accidunt animæ <mark>fortuitò;</mark> Hæ ve-</td><td class=o><mark>Secundo i\\&amp;</mark> quandoq <mark>;</mark> accidunt animae <mark>fortuito ;</mark> Hae ve¬</td><td class=s>91%</td></tr>
+<tr class=redelijk><td class=n>31</td><td><mark>rò nunquàm: Tertiò illæ</mark> oriuntur <mark>à</mark> mutationibus corpo-</td><td class=o><mark>ro nunquam ; TerttoxWx.</mark> oriuntur <mark>a</mark> mutationibus corpo¬</td><td class=s>80%</td></tr>
+<tr class=goed><td class=n>32</td><td>ris, ut <mark>superiùs</mark> demonstratum; Hæ <mark>verò à</mark> solo intelle-</td><td class=o>ris, ut <mark>superius</mark> demonstratum <mark>;</mark> Hae <mark>vero a</mark> solo intelle-</td><td class=s>93%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W08079_Wyss_Disputatio_physica_de_passionibus_mentis_in_genere_quam_sub__1664.pdf#page=7' target=_blank>scan 7</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=goed><td class=n>1</td><td><mark>&amp;tu,</mark> ut merito <mark>à</mark> Cartesio commotiones intellectuales vo-</td><td class=o><mark>ctu,</mark> ut merito <mark>ä</mark> Cartesio commotiones intellectuales vo«</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>2</td><td><mark>centur.</mark> Exemplum animi commotionum, <mark>quæ</mark> intelle-</td><td class=o>Exemplum animi commotionum <mark>, qua?</mark> intelle¬</td><td class=s>91%</td></tr>
+<tr class=goed><td class=n>3</td><td>ctuales sunt, esto <mark>lætitia,</mark> quam Stoici urgebant ex pas-</td><td class=o>ctuales sunt, esto <mark>laetitiai</mark> quam Stoici urgebant ex pas¬</td><td class=s>99%</td></tr>
+<tr class=goed><td class=n>4</td><td>sionibus mentis deletis percipiendam; Exemplum quo-</td><td class=o>sionibus mentis deletis percipiendam <mark>;</mark> Exemplum quo¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>5</td><td>que esto illa lætitia, quam quis percipit ex tristitia, <mark>quâ</mark></td><td class=o>que esto illa laetitia <mark>,</mark> quam quis percipit ex tristitia <mark>, qua</mark></td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>6</td><td>aliorum infortunio condolet, <mark>cognoscens</mark> eam ex virtute</td><td class=o>aliorum infortunio condolet <mark>, cognofens</mark> eam ex virtute</td><td class=s>99%</td></tr>
+<tr class=goed><td class=n>7</td><td>esse.</td><td class=o>esse.</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>8</td><td>VIII.</td><td class=o>VIII <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>9</td><td>Interim vix fieri potest ut commotio animi, quem</td><td class=o>Interim vix fieri potest ut commotio animi <mark>,</mark> quem</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>10</td><td>intellectualem <mark>vocamus, locum</mark> habeat quin alterius generis</td><td class=o>intellectualem <mark>vocamus,loeu</mark> habeat quin alterius generis</td><td class=s>97%</td></tr>
+<tr class=redelijk><td class=n>11</td><td><mark>commotiones sequantur,</mark> nam <mark>quamprimùm intellectus no-</mark></td><td class=o><mark>commotionesit quantur ,</mark> nam <mark>quamprimum</mark></td><td class=s>76%</td></tr>
+<tr class=goed><td class=n>12</td><td>ster observat aliquod bonum vel malum, etsi illud adeo</td><td class=o>ster observat aliquod bonum vel malum, etsi illud adeo</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>13</td><td>differat ab omni alio quod pertinet ad corpus, <mark>ut omni-</mark></td><td class=o>disserat ab omni alio quod pertinet ad corpus, <mark>-utomni¬</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>14</td><td>no omnem imaginationem fugiat, imaginatio tamen <mark>sta-</mark></td><td class=o>no omnem imaginationem fugiat, imaginatio tamen <mark>sia-</mark></td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>15</td><td>tim aliquam in <mark>cerebro facit impressionem, ex</mark> qua sequi-</td><td class=o>tim aliquam in <mark>cerebrofacit impressionem,ex</mark> qua sequi¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>16</td><td>tur motus <mark>spirituum, indeq;</mark> tandem affectus: <mark>Hæc</mark> enim</td><td class=o>tur motus <mark>spirituum,indeq ;</mark> tandem affectus <mark>: Ha?c</mark> enim</td><td class=s>99%</td></tr>
+<tr class=goed><td class=n>17</td><td>est natura nostræ animæ, ut aliquod bonum vel malum</td><td class=o>est natura nostrae animae ut aliquod bonum vel malum</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>18</td><td><mark>intelligens</mark> conetur illud quoque sibi imaginari, hic ipse</td><td class=o><mark>Intelligenz</mark> conetur illud quoque sibi imaginari <mark>,</mark> hic ipse</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>19</td><td>conatus tantam vim habet ut glandulam pinealem <mark>infle-</mark></td><td class=o>conatus tantam vim habet ut glandulam pinealem <mark>inste-</mark></td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>20</td><td><mark>ctere possit.</mark></td><td class=o><mark>ctere,possit</mark></td><td class=s>100%</td></tr>
+<tr><td class=n>21</td><td>IX.</td><td class=o></td><td class=s></td></tr>
+<tr class=goed><td class=n>22</td><td>Ut objecta excitandis in animo nostro <mark>affectibus apta</mark></td><td class=o>Ut objecta excitandis in animo nostro <mark>afffüibmapta</mark></td><td class=s>91%</td></tr>
+<tr class=goed><td class=n>23</td><td>sint, <mark>nostrâ</mark> referre debent h. e. vel nobis utilia vel no-</td><td class=o>sint <mark>, nostra</mark> referre debent h <mark>.</mark> e. vel nobis utilia vel no¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>24</td><td>xia esse, ut <mark>quæ</mark> indifferentis <mark>naturæ</mark> esse censentur, ad</td><td class=o>xia esse <mark>,</mark> ut <mark>qua?</mark> indifferentis <mark>natura?</mark> esse censentur <mark>,</mark> ad</td><td class=s>98%</td></tr>
+<tr class=redelijk><td class=n>25</td><td><mark>affectuum</mark> procreationem <mark>invalida sint.</mark></td><td class=o><mark>affeUusim</mark> procreationem</td><td class=s>71%</td></tr>
+<tr><td class=n>26</td><td>X.</td><td class=o></td><td class=s></td></tr>
+<tr class=goed><td class=n>27</td><td><mark>Tres passionum</mark> effectus notamus; Unus est <mark>quòd</mark> op-</td><td class=o><mark>Trespaflionum</mark> effectus notamus <mark>;</mark> Unus est <mark>quod</mark> op¬</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>28</td><td>pugnant animam, consensum ab <mark>eâ</mark> impetrare conantes</td><td class=o>pugnant animam, consensum ab <mark>ea</mark> impetrare conantes</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>29</td><td>e. g. ira sollicitat animam ut <mark>eâ</mark> consentiente fiat, &amp; <mark>hæc</mark></td><td class=o>e. g. ira sollicitat animam ut <mark>ea</mark> consentiente fiat, &amp; <mark>ha?c</mark></td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>30</td><td><mark>sollicitatio valida magnoperè</mark> est, quia anima passionibus</td><td class=o><mark>sollicitatiovalidamagnopere</mark> est, quia anima passionibus</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>31</td><td>naturaliter delectatur, ut seipsam abdicare debeat quan-</td><td class=o>naturaliter delectatur, ut seipsam abdicare debeat quan-</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>32</td><td><mark>docunque passionibus</mark> resistere cupit: Alius <mark>deinde passio-</mark></td><td class=o><mark>doc \xnc$\iej &gt;aßioMbfM</mark> resistere cupit <mark>:</mark> Alius <mark>deindhpaßto -</mark></td><td class=s>83%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W08079_Wyss_Disputatio_physica_de_passionibus_mentis_in_genere_quam_sub__1664.pdf#page=8' target=_blank>scan 8</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=goed><td class=n>1</td><td><mark>num</mark> effectus <mark>est</mark> invadere animam <mark>ut ab ipsâ</mark> extorqueant</td><td class=o><mark>mm</mark> effectus <mark>esi:</mark> invadere animam <mark>utab spsa</mark> extorqueant <mark>-</mark></td><td class=s>90%</td></tr>
+<tr class=goed><td class=n>2</td><td><mark>consensum in</mark> motum corporis, ad quem spiritus anima-</td><td class=o><mark>eonsensumin</mark> motum corporis, ad quem spiritus anima¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>3</td><td>les cum <mark>affectu</mark> excitati corpus disponunt: Tandem a-</td><td class=o>les cum <mark>affeäu</mark> excitati corpus disponunt <mark>f</mark> Tandem a-</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>4</td><td><mark>lius passionum</mark> effectus <mark>est pertinax</mark> cogitationum mora in</td><td class=o><mark>fius paßtomm</mark> effectus <mark>estpertinax</mark> cogitationum mora in</td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>5</td><td>eo de quo factæ sunt e. g. si quicquam vidimus cum hor-</td><td class=o>eo de quo factae sunt e <mark>.</mark> g. si quicquam vidimus cum hor¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>6</td><td>rore, horror ille facit ut pertinacius de re visa cogite-</td><td class=o>rore <mark>,</mark> horror ille facit- ut pertinacius de re visa cogite¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>7</td><td>mus; Hoc <mark>adeò</mark> verum est ut &amp; <mark>tædium, quod</mark> quoq; unus</td><td class=o>mus; Hoc <mark>adeo</mark> verum est ut &amp; <mark>ttedium,quod</mark> quoq <mark>;</mark> unus</td><td class=s>95%</td></tr>
+<tr class=redelijk><td class=n>8</td><td><mark>ex affectibus est, cogitationes</mark> confirmet, <mark>nō facilè</mark> enim co-</td><td class=o><mark>est,cogitationes</mark> confirmet, <mark>nö facile</mark> enim co¬</td><td class=s>82%</td></tr>
+<tr class=goed><td class=n>9</td><td>gitatio de cibo, qui <mark>nauseam peperit,</mark> intercidit.</td><td class=o>gitatio de cibo, qui <mark>nauseampeperit,</mark> intercidit <mark>*</mark></td><td class=s>100%</td></tr>
+<tr><td class=n>10</td><td>XI.</td><td class=o></td><td class=s></td></tr>
+<tr class=goed><td class=n>11</td><td>Triplicem in anima notamus conflictum; Alius est</td><td class=o>Triplicem in anima notamus conflictum <mark>;</mark> Alius est</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>12</td><td><mark>inter</mark> voluntatem &amp; <mark>affectum,</mark> exemplum est <mark>quandò</mark> ani-</td><td class=o><mark>fnter</mark> voluntatem &amp; <mark>affettum,</mark> exemplum est <mark>quando</mark> ani¬</td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>13</td><td>ma cupiditate rei cujusdam habendæ tentata est, volun-</td><td class=o>ma cupiditate rei cujusdam habendae tentata est, volun¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>14</td><td>tas <mark>verò</mark> cupiditatem aversatur; <mark>Alius deindè</mark> conflictus</td><td class=o>tas <mark>vero</mark> cupiditatem aversatur; <mark>Aliusdeinde</mark> conflictus</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>15</td><td>est, <mark>quòd sæpè</mark> eadem causa, quæ excitat in anima ali-</td><td class=o>est <mark>, quod saepe</mark> eadem causa <mark>,</mark> quae excitat in anima ali¬</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>16</td><td>quam <mark>passionem,</mark> excitet etiam quosdam motus in corpo-</td><td class=o>quam <mark>paßionem-i</mark> excitet etiam quosdam motus in corpo¬</td><td class=s>99%</td></tr>
+<tr class=goed><td class=n>17</td><td>re ad quos anima nihil confert &amp; quos sistit aut sistere</td><td class=o>re ad quos anima nihil confert &amp; quos sistit aut sistere</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>18</td><td>conatur <mark>quamprimùm</mark> eos observat, experientia est in</td><td class=o>conatur <mark>quamprimum</mark> eos observat <mark>,</mark> experientia est in</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>19</td><td>eo, in quo id, quod excitat metum, efficit quoq; ut spi-</td><td class=o>eo, in quo id, quod excitat metum, efficit quoq <mark>;</mark> ut spi¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>20</td><td>ritus ingrediantur musculos, qui inserviunt movendis</td><td class=o>ritus ingrediantur musculos <mark>,</mark> qui inserviunt movendis</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>21</td><td>cruribus ad fugiendum; Voluntas <mark>verò</mark> ejusmodi motus</td><td class=o>cruribus ad fugiendum <mark>;</mark> Voluntas <mark>vero</mark> ejusmodi motus</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>22</td><td>sistit: <mark>Alius deinde</mark> in anima conflictus est inter <mark>affectum</mark></td><td class=o>sistit <mark>: Aliusdeinde</mark> in anima conflictus est inter <mark>ajfettum</mark></td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>23</td><td>&amp; <mark>affectum</mark> ut <mark>quandò</mark> anima eodem <mark>fermè</mark> tempore se</td><td class=o>&amp; <mark>affeclum</mark> ut <mark>quando</mark> anima eodem <mark>ferme</mark> tempore se</td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>24</td><td>impelli sentit ad eandem rem appetendam &amp; aversan-</td><td class=o>impelli sentit ad eandem rem appetendam &amp; aversan¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>25</td><td>dam.</td><td class=o>dam,</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>26</td><td>XII.</td><td class=o>XII <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>27</td><td>Modum, <mark>quô</mark> hic ultimus conflictus in anima exci-</td><td class=o>Modum <mark>, quo</mark> hic ultimus conflictus in anima exci-</td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>28</td><td><mark>tatur,</mark> ita explicamus; <mark>Quandò</mark> anima aliquo <mark>affectu</mark> com-</td><td class=o><mark>Zatur,</mark> ita explicamus; <mark>Quando</mark> anima aliquo <mark>affeclu</mark> com¬</td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>29</td><td>mota est &amp; rationes meditatur <mark>affectui contrarias,</mark> si accidat</td><td class=o>mota est &amp; rationes meditatur <mark>affeBut corrarias,</mark> si accidat</td><td class=s>92%</td></tr>
+<tr class=goed><td class=n>30</td><td>ut ex illis una <mark>vim habeat</mark> mutandi ad momentum cur-</td><td class=o>ut ex illis una <mark>vimffiabeat</mark> mutandi ad momentum cur¬</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>31</td><td>sum spirituum, contingere potest, ut quæ sequitur ratio</td><td class=o>sum spirituum <mark>,</mark> contingere potest, ut quae sequitur ratio</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>32</td><td><mark>eâ</mark> vi careat, unde spiritus suum <mark>cursum illicò</mark> resumunt,</td><td class=o><mark>§a</mark> vi careat, unde spiritus suum <mark>cursumillico</mark> resumunt,</td><td class=s>95%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W08079_Wyss_Disputatio_physica_de_passionibus_mentis_in_genere_quam_sub__1664.pdf#page=9' target=_blank>scan 9</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=redelijk><td class=n>1</td><td><mark>quia dispositio quæ</mark> præcessit in nervis, corde &amp; sanguine</td><td class=o><mark>*</mark> praecessit in nervis <mark>,</mark> corde &amp; sanguine</td><td class=s>79%</td></tr>
+<tr class=goed><td class=n>2</td><td>mutata non est, quo tandem fit ut anima contrariis <mark>af-</mark></td><td class=o>mutata non est <mark>,</mark> quo tandem fit ut anima contrariis <mark>4/-</mark></td><td class=s>98%</td></tr>
+<tr class=redelijk><td class=n>3</td><td><mark>fectibus</mark> eodem <mark>fermè</mark> tempore inquietetur.</td><td class=o>eodem <mark>ferme</mark> tempore <mark>fiätbus</mark> inquietetur <mark>.</mark></td><td class=s>76%</td></tr>
+<tr class=goed><td class=n>4</td><td>XIII.</td><td class=o>XIII <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>5</td><td>Ex ejusmodi repugnantiis, <mark>præcipuè verò</mark> ex <mark>eâ</mark> quæ</td><td class=o>Ex ejusmodi repugnantiis <mark>, praecipue vero</mark> ex <mark>ea</mark> quae</td><td class=s>93%</td></tr>
+<tr class=redelijk><td class=n>6</td><td>tertii <mark>ordinis</mark> est, sumpserunt alii Philosophi <mark>occasio-</mark></td><td class=o>tertii <mark>occasio¬</mark> est <mark>,</mark> sumpserunt alii Philosophi</td><td class=s>80%</td></tr>
+<tr class=redelijk><td class=n>7</td><td><mark>nem, fingendi</mark> discrimen inter animam rationalem &amp;</td><td class=o>discrimen inter animam <mark>nem , fingendi</mark> rationalem &amp;</td><td class=s>74%</td></tr>
+<tr class=goed><td class=n>8</td><td>sensitivam, quale est inter rem &amp; rem; Alii <mark>verò</mark> sta-</td><td class=o>sensitivam <mark>,</mark> quale est inter rem &amp; rem <mark>;</mark> Alii <mark>vero</mark> sta¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>9</td><td>tuendi in eadem anima duas <mark>intrinsecùs</mark> distinctas po-</td><td class=o>tuendi in eadem anima duas <mark>intrinsecus</mark> distinctas po¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>10</td><td>tentias, <mark>quasquè ei tanquàm</mark> diversas in <mark>scenâ</mark> personas</td><td class=o>tentias <mark>, quasque eitanquam</mark> diversas in <mark>scena</mark> personas</td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>11</td><td>imposuerunt, quæ fere semper sibi <mark>mutuò</mark> contrariæ es-</td><td class=o>imposuerunt <mark>,</mark> quae fere semper sibi <mark>mutuo</mark> contrariae es¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>12</td><td>sent, alteram vocarunt partem superiorem, alteram <mark>verò</mark></td><td class=o>sent <mark>,</mark> alteram vocarunt partem superiorem <mark>,</mark> alteram <mark>vero</mark></td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>13</td><td>partem inferiorem, ad illam referunt intellectum &amp; vo-</td><td class=o>partem inferiorem <mark>,</mark> ad illam referunt intellectum &amp; vo¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>14</td><td>luntatem, ad hanc sensum &amp; appetitum <mark>sensitivum.</mark></td><td class=o>luntatem <mark>,</mark> ad hanc sensum &amp; appetitum <mark>/ ensitivum .</mark></td><td class=s>99%</td></tr>
+<tr class=goed><td class=n>15</td><td>XIV.</td><td class=o>&#x27;XIV <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>16</td><td><mark>A</mark> nobis <mark>verò</mark> homini non tribuitur nisi una anima,</td><td class=o><mark>Ä</mark> nobis <mark>vero</mark> homini non tribuitur nisi una anima <mark>,</mark></td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>17</td><td>quæ in se nullam varietatem partium <mark>habet, eadem</mark> enim</td><td class=o>quae in se nullam varietatem partium <mark>habet,eadem</mark> enim</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>18</td><td>substantia, quæ sensitiva est, est etiam rationalis &amp; con-</td><td class=o>substantia <mark>,</mark> quae sensitiva est, est etiam rationalis &amp; con¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>19</td><td><mark>trà:</mark> Error <mark>verò,</mark> per quem Philosophi discrimen inter-</td><td class=o><mark>tra :</mark> Error <mark>vero ,</mark> per quem Philosophi discrimen inter¬</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>20</td><td>num in anima posuerunt inter partem superiorem <mark>&amp;</mark></td><td class=o>num in anima posuerunt <mark>.&amp;</mark> inter partem superiorem</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>21</td><td>inferiorem, inde <mark>solùm</mark> processit, <mark>quòd</mark> non <mark>benè</mark> di-</td><td class=o>inferiorem <mark>,</mark> inde <mark>solum</mark> processit <mark>, quod</mark> non <mark>bene</mark> di¬</td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>22</td><td>stinxerunt functiones animæ <mark>à</mark> functionibus corporis,</td><td class=o>stinxerunt functiones animae <mark>a</mark> functionibus corporis <mark>,</mark></td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>23</td><td>cui soli tribuendum est id omne quod in nobis potest</td><td class=o>cui soli tribuendum est id omne quod in nobis potest</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>24</td><td>observari repugnare nostræ <mark>rationi; Adeò</mark> ut nulla <mark>hîc</mark></td><td class=o>observari repugnare nostrae <mark>arationi ; Adeo</mark> ut nulla <mark>hic</mark></td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>25</td><td>alia lucta <mark>fit, nisi quòd cùm conarion,</mark> quod est in medio ce-</td><td class=o>alia lucta <mark>sit,nisi</mark> quod <mark>cum conarion,quod</mark> est in medio ce¬</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>26</td><td>rebri, possit impelli ex una parte ab anima &amp; ex <mark>alterâ à</mark></td><td class=o>rebri <mark>,</mark> possit impelli ex una parte ab anima &amp; ex <mark>altera a</mark></td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>27</td><td>spiritibus animalibus, qui nil nisi corpora sunt, <mark>sæpè e-</mark></td><td class=o>spiritibus animalibus <mark>,</mark> qui nil nisi corpora sunt <mark>, saepe</mark></td><td class=s>99%</td></tr>
+<tr class=goed><td class=n>28</td><td>veniat ut hæ duæ impulsiones sint contrariæ, &amp; ut for-</td><td class=o>veniat ut hae duae impulsiones sint contrariae <mark>,</mark> &amp; ut for¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>29</td><td>tior impediat effectum alterius; <mark>Ut, si</mark> spiritus animales</td><td class=o>tior impediat effectum alterius <mark>; Ut,si</mark> spiritus animales</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>30</td><td>nullum alium motum haberent, <mark>quàm</mark> quem ab anima</td><td class=o>nullum alium motum haberent <mark>, quam</mark> quem ab anima</td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>31</td><td>accipiunt, mnis ejusmodi conflictus sublatus esset.</td><td class=o>accipiunt <mark>,</mark> mnis ejusmodi conflictus sublatus esset.</td><td class=s>100%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W08079_Wyss_Disputatio_physica_de_passionibus_mentis_in_genere_quam_sub__1664.pdf#page=10' target=_blank>scan 10</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr><td class=n>1</td><td>XV.</td><td class=o></td><td class=s></td></tr>
+<tr class=goed><td class=n>2</td><td>Ex eventu autem horum conflictuum quisque cogno-</td><td class=o>“Ex eventu autem horum conflictuum quisque cogno¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>3</td><td>scere potest fortitudinem aut debilitatem suæ animæ,</td><td class=o>scere potest fortitudinem aut debilitatem suae animae,</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>4</td><td>nam illi proculdubio, in quibus voluntas facilius vince-</td><td class=o>nam illi proculdubio <mark>,</mark> in quibus voluntas facilius vince¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>5</td><td>re potest passiones <mark>&amp;</mark> motus corporis sistere, ad quos <mark>asse-</mark></td><td class=o>re potest paßiones <mark>&amp;c</mark> motus corporis sistere, ad quos <mark>ajse»</mark></td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>6</td><td><mark>ctus</mark> voluntatem disponunt, sublimiores habent animos,</td><td class=o><mark>Bus</mark> voluntatem disponunt <mark>,</mark> sublimiores habent animos <mark>,</mark></td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>7</td><td><mark>quàm</mark> illi, qui subinde <mark>à</mark> præsentibus <mark>affectibus</mark> abducun-</td><td class=o><mark>quam</mark> illi <mark>,</mark> qui subinde <mark>a</mark> praesentibus <mark>affeBtbus</mark> abducun¬</td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>8</td><td>tur.</td><td class=o>tur <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>9</td><td>XVI.</td><td class=o>XVI <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>10</td><td>Ut <mark>verò</mark> ex <mark>victoriâ adversùs affectus deportatâ</mark> ani-</td><td class=o>Ut <mark>vero</mark> ex <mark>victoria adversus affeftus deportata</mark> ani¬</td><td class=s>89%</td></tr>
+<tr class=goed><td class=n>11</td><td>ma fortitudinem suam cognoscat, oportet ab ea pro-</td><td class=o>ma fortitudinem suam cognoscat <mark>,</mark> oportet ab ea pro¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>12</td><td>priis armis pugnatum fuisse; Per propria animæ arma</td><td class=o>priis armis pugnatum fuisse <mark>;</mark> Per propria animae arma</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>13</td><td>intelligimus proposita rata &amp; firma de <mark>bonò</mark> &amp; <mark>malò</mark> fa-</td><td class=o>intelligimus proposita rata &amp; firma de <mark>bono</mark> &amp; <mark>malo</mark> fa¬</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>14</td><td>cta, <mark>secundùm</mark> quæ anima decrevit actiones vitæ suæ</td><td class=o>cta <mark>, secundum</mark> quae anima decrevit actiones vitae suae</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>15</td><td>dirigere, &amp; animæ propria arma vocantur, quia sunt o-</td><td class=o>dirigere <mark>,</mark> &amp; animae propria arma vocantur <mark>,</mark> quia sunt o-</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>16</td><td>pera ipsius voluntatis, quæ sola animæactio est, ex. gr.</td><td class=o>pera ipsius voluntatis <mark>,</mark> quae fola .animaeactio est, ex. gr.</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>17</td><td>Illa anima propriis armis utitur, quæ vehementissimo</td><td class=o>Illa anima propriis armis utitur <mark>,</mark> quae vehementifsimo</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>18</td><td>metu perculsa ex conspectu hostis patriæ fines invasuri</td><td class=o>metu perculsa ex conspectu hostis patriae fines invasuri</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>19</td><td>huic metui ex solo proposito bene agendi resistit, cui</td><td class=o>huic metui ex solo proposito bene agendi resistit <mark>,</mark> cui</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>20</td><td>fortitudinem pro <mark>patriâ</mark> consentaneam arbitratur.</td><td class=o>fortitudinem pro <mark>patria</mark> consentaneam arbitratur <mark>.</mark></td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>21</td><td>XVII.</td><td class=o>XVII.</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>22</td><td>Quæ <mark>verò</mark> anima <mark>affectibus</mark> imperat contrariorum</td><td class=o>Quae <mark>vero</mark> anima imperat contrariorum</td><td class=s>84%</td></tr>
+<tr class=redelijk><td class=n>23</td><td><mark>affectuum patrocinio</mark> utens, dimicat alienis armis, nec ex</td><td class=o>utens <mark>,</mark> dimicat alienis armis <mark>,</mark> nec ex</td><td class=s>75%</td></tr>
+<tr class=goed><td class=n>24</td><td><mark>victoriâ</mark> fortitudinis suæ indicium habet, e. g. si animus</td><td class=o><mark>victoria</mark> fortitudinis suae indicium habet <mark>,</mark> e. g. si animus</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>25</td><td><mark>invidiâ</mark> ex aliorum <mark>prosperò</mark> successu afficiatur, eodem-</td><td class=o><mark>invidia</mark> ex aliorum <mark>prospero</mark> successu afficiatur <mark>,</mark> eodem <mark>-</mark></td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>26</td><td>que <mark>ferè</mark> tempore affectu invidiæ adverso <mark>teneatur, quan-</mark></td><td class=o>que <mark>fere</mark> tempore affectu invidiae adverso <mark>teneatur,quan -</mark></td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>27</td><td><mark>quàm</mark> hoc animata illi cum <mark>victoriâ resistat, fortitudinis</mark></td><td class=o><mark>quara</mark> hoc animata illi cum <mark>victoria resistat,fortitudinis</mark></td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>28</td><td><mark>documentò</mark> id tamen non est.</td><td class=o><mark>documento</mark> id tamen non est.</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>29</td><td>XVIII.</td><td class=o>XVIII <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>30</td><td>Nonnulli sunt, quorum paucus tamen numerus, qui</td><td class=o>Nonnulli sunt <mark>,</mark> quorum paucus tamen numerus <mark>,</mark> qui</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>31</td><td>animæ <mark>suæ</mark> vires <mark>nunquàm</mark> experti <mark>sunt, quia</mark> eas <mark>nunquàm</mark></td><td class=o>animae <mark>suas</mark> vires <mark>nunquam</mark> experti <mark>sunt,quia</mark> eas <mark>nunquam</mark></td><td class=s>94%</td></tr>
+<tr class=goed><td class=n>32</td><td><mark>explorârunt,</mark> animam iis duntaxat armis pugnare facien-</td><td class=o><mark>explorarunt ,</mark> animam iis duntaxat armis pugnare facien <mark>-</mark></td><td class=s>98%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W08079_Wyss_Disputatio_physica_de_passionibus_mentis_in_genere_quam_sub__1664.pdf#page=11' target=_blank>scan 11</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=goed><td class=n>1</td><td><mark>tes, quæ</mark> aliqui <mark>affectus</mark> præbent ad resistendum quibus-</td><td class=o><mark>fces , quas</mark> aliqui <mark>affeBm</mark> praebent ad resistendum quibus®</td><td class=s>88%</td></tr>
+<tr class=goed><td class=n>2</td><td>dam aliis.</td><td class=o>dam aliis.</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>3</td><td><mark>XIX.</mark></td><td class=o><mark>X IX.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>4</td><td><mark>Animæ omnium maximè</mark> imbecilles <mark>sunt,</mark> quarum</td><td class=o><mark>Animatomnium maxinre</mark> imbecilles <mark>simt ,</mark> quarum</td><td class=s>86%</td></tr>
+<tr class=goed><td class=n>5</td><td>voluntas <mark>semper patitur</mark> se abduci <mark>à</mark> præsentibus <mark>affectibus,</mark></td><td class=o>voluntas <mark>femperpatitur</mark> fe abduci <mark>ä</mark> praesentibus <mark>ajseciibu*-»</mark></td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>6</td><td>quia <mark>suorum adversariorum</mark> imperio <mark>subsunt ab</mark> iisq; vin-</td><td class=o>quia <mark>suorumadversariorum</mark> imperio <mark>subsuntab</mark> iisq; vin¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>7</td><td><mark>cuntur, quoties</mark> pugna ineunda est.</td><td class=o><mark>cuntur,quoties</mark> pugna ineunda est-</td><td class=s>100%</td></tr>
+<tr><td class=n>8</td><td>XX.</td><td class=o></td><td class=s></td></tr>
+<tr class=goed><td class=n>9</td><td><mark>Imò</mark> miserrima est illa anima, quæ <mark>à</mark> præsentibus <mark>aff-</mark></td><td class=o><mark>Imo</mark> miserrima est illa anima, quae <mark>ä</mark> praesentibus <mark>ajse~</mark></td><td class=s>92%</td></tr>
+<tr class=redelijk><td class=n>10</td><td><mark>ectibus semper abducitur; Tùm</mark> quia servit <mark>sordidissi-</mark></td><td class=o>quia servit <mark>fordidififi-</mark></td><td class=s>61%</td></tr>
+<tr class=goed><td class=n>11</td><td>mam servitutem iis, quibus imperare deberet; <mark>Tùm</mark> quia</td><td class=o>mam servitutem iis, quibus imperare deberet <mark>; Tum</mark> quia</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>12</td><td>servitutis suæ ipsa causa est, anima enim servire dicitur</td><td class=o>servitutis suae ipsa causa est, anima enim servire dicitur</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>13</td><td><mark>affectibus, quandò</mark> iis <mark>consentit,</mark> ad consensum <mark>verò</mark> ani-</td><td class=o><mark>affeätbusy quando</mark> iis <mark>cortsentit ,</mark> ad consensum <mark>vero</mark> ani¬</td><td class=s>88%</td></tr>
+<tr class=goed><td class=n>14</td><td>ma nunquam cogitur nec cogi potest: Hæc miseria ani-</td><td class=o>ma nunquam cogitur nec cogi potest: Haec miseria ani®</td><td class=s>100%</td></tr>
+<tr class=alleen><td class=n></td><td class=gap>ontbreekt in de transcriptie?</td><td class=o><mark>mx eb major est , quod</mark></td><td class=s>alleen OCR</td></tr>
+<tr class=geen><td class=n>15</td><td>mæ eò major est, quòd affectus persæpè ipsâ anima u-</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=goed><td class=n>16</td><td>tuntur ad <mark>ipsamet</mark> debellandam, bis <mark>verò</mark> perit <mark>qui proprio</mark></td><td class=o>tuntur ad <mark>ipsainet</mark> debellandam, bis <mark>vero</mark> perit <mark>quiproprie</mark></td><td class=s>93%</td></tr>
+<tr class=redelijk><td class=n>17</td><td><mark>gladio perit;</mark> Hocq; <mark>contingit, quotiescunque affectus sibi</mark></td><td class=o>Hocq <mark>; contingit,quotiescunqub</mark></td><td class=s>69%</td></tr>
+<tr class=goed><td class=n>18</td><td><mark>mutuò</mark> contrarii sunt, qui animam per vices in partes</td><td class=o><mark>mutuo</mark> contrarii sunt, qui animam per&#x27; vices in partes</td><td class=s>98%</td></tr>
+<tr class=redelijk><td class=n>19</td><td><mark>suas trahunt e.g. Cùm</mark> metus repræsentat mortem <mark>ut</mark></td><td class=o><mark>Cum</mark> metus repraesentat mortem <mark>ue</mark></td><td class=s>75%</td></tr>
+<tr class=goed><td class=n>20</td><td><mark>summum</mark> malum &amp; ad fugam instigat, ambitio <mark>verò</mark> ab</td><td class=o><mark>fumum</mark> malum &amp; ad fugam instigat, ambitio <mark>verö</mark> ab <mark>al®</mark></td><td class=s>94%</td></tr>
+<tr class=goed><td class=n>21</td><td>altera parte repræsentat infamiam hujus fugæ ut malum</td><td class=o>altera parte repraesentat infamiam hujus fugae ut malum</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>22</td><td><mark>pejus morte; Hi duo affectus,</mark> si voluntatem ita agitent</td><td class=o><mark>$«* ,</mark> si voluntatem ita agitent</td><td class=s>66%</td></tr>
+<tr class=goed><td class=n>23</td><td>ut <mark>modò</mark> huic <mark>modò</mark> illi obtemperet, animam <mark>sanè</mark> sibi</td><td class=o>ut <mark>modo</mark> huic <mark>modo</mark> illi obtemperet <mark>,</mark> animam <mark>sane</mark> sibi?</td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>24</td><td>ipsi <mark>perpetuò</mark> repugnantem faciunt.</td><td class=o>ipsi <mark>perpetuo</mark> repugnantem faciunt.</td><td class=s>97%</td></tr>
+<tr class=redelijk><td class=n>25</td><td><mark>XXI.</mark></td><td class=o><mark>XXL</mark></td><td class=s>67%</td></tr>
+<tr class=goed><td class=n>26</td><td>Plurimi <mark>contrà sunt, qui judicia</mark> ejusmodi determina-</td><td class=o>Plurimi <mark>contra sunt,quijudicia</mark> ejusmodi determina <mark>®</mark></td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>27</td><td>ta habent, quibus partem suarum actionum attempe-</td><td class=o>ta habent <mark>,</mark> quibus partem suarum actionum attempe¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>28</td><td>rant, alij quidem majorem, alij minorem, prout ipsa</td><td class=o>rant <mark>,</mark> alij quidem majorem <mark>,</mark> alij minorem <mark>,</mark> prout ipsa</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>29</td><td>animi decreta firmiora vel <mark>infirmiora sunt.</mark></td><td class=o>animi decreta firmiora vel <mark>infirmiorafunt »</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>30</td><td>XXII.</td><td class=o>XXII <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>31</td><td>Et <mark>quamvis judicia</mark> ejusmodi falsa <mark>essent</mark> vel <mark>innit-</mark></td><td class=o>Et <mark>quamvis?judicia</mark> ejusmodi falsa <mark>esient</mark> vel <mark>innite¬</mark></td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>32</td><td><mark>entur</mark> quibusdam <mark>affectibus, à</mark> quibus voluntas antea <mark>passa</mark></td><td class=o><mark>rentur</mark> quibusdam <mark>affettibw, ä</mark> quibus voluntas antea <mark>pas</mark></td><td class=s>90%</td></tr>
+<tr class=goed><td class=n>33</td><td>est se vinci, nihilominus tamen si anima ea sequi per-</td><td class=o><mark>&amp;</mark> est fe vinci, nihilominus tamen si anima ea sequi per«</td><td class=s>98%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W08079_Wyss_Disputatio_physica_de_passionibus_mentis_in_genere_quam_sub__1664.pdf#page=12' target=_blank>scan 12</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=goed><td class=n>1</td><td>gat, etiam <mark>cum</mark> abest <mark>passio, quæ illa</mark> produxit, considera-</td><td class=o>gat <mark>,</mark> etiam <mark>cüm</mark> abest <mark>paßte, quadlla</mark> produxit <mark>,</mark> considera¬</td><td class=s>90%</td></tr>
+<tr class=goed><td class=n>2</td><td>ri possunt ut propria illius arma, &amp; <mark>animæ</mark> non desinunt</td><td class=o>ri possunt ut propria illius arma <mark>,</mark> &amp; <mark>anima :</mark> non desinunt</td><td class=s>99%</td></tr>
+<tr class=goed><td class=n>3</td><td>robustiores vel imbecilliores <mark>esse, prout plus</mark> vel minus ju-</td><td class=o>robustiores vel imbecilliores <mark>esss,prout pius</mark> vel minus ju¬</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>4</td><td>dicia ejusmodi sequuntur &amp; <mark>resistunt præsentibus passionibus,</mark></td><td class=o>dicia ejusmodi sequuntur &amp; <mark>resistuntpr &gt;4/%f- ;tsentibus/</mark></td><td class=s>85%</td></tr>
+<tr class=goed><td class=n>5</td><td>quæ illis <mark>contrariæ</mark> sunt. E. G. Esto <mark>Turca</mark> aliquis,</td><td class=o>quae illis <mark>contraria ;</mark> sunt <mark>.</mark> E. G <mark>.</mark> Esto <mark>Turea</mark> aliquis <mark>»</mark></td><td class=s>96%</td></tr>
+<tr class=redelijk><td class=n>6</td><td>qui ex falsa opinione <mark>Christianam religionem erroneam</mark></td><td class=o>qui ex falsa opinione <mark>Cbristianam</mark></td><td class=s>74%</td></tr>
+<tr class=goed><td class=n>7</td><td><mark>esse</mark> concepit propositum eorum sanguinem profunden-</td><td class=o><mark>elfe</mark> concepit propositum eorum sanguinem profunden¬</td><td class=s>98%</td></tr>
+<tr class=redelijk><td class=n>8</td><td>di, ubicunque eos <mark>offenderet; si postea contingat ut</mark></td><td class=o>di <mark>,</mark> ubicunque eos <mark>ostenderet ;</mark></td><td class=s>69%</td></tr>
+<tr class=goed><td class=n>9</td><td><mark>obvium</mark> habeat hominem Christianum aliquem <mark>afflictis-</mark></td><td class=o><mark>obyium</mark> habeat hominem Christianum aliquem <mark>arflictisi</mark></td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>10</td><td>simæ <mark>fortunæ,</mark> &amp; <mark>affectu</mark> commiserationis animus ejus tan-</td><td class=o>simae <mark>fortan Xi</mark> &amp; <mark>ajfeßu</mark> commiserationis animus ejus tan¬</td><td class=s>88%</td></tr>
+<tr class=goed><td class=n>11</td><td>gatur, propositi vero observans hominem Christianum</td><td class=o>gatur <mark>,</mark> propositi vero observans hominem Christianum</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>12</td><td>occidat, animæ suæ vires <mark>exploratas dedit, affectu</mark> commi-</td><td class=o>•occidat <mark>,</mark> animae suae vires <mark>expioratasrdedit , afftclu</mark> commi“</td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>13</td><td><mark>serationis triumphato.</mark></td><td class=o><mark>■ferathnis triumphat &amp;o</mark></td><td class=s>88%</td></tr>
+<tr class=geen><td class=n>14</td><td>XXIII.</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=goed><td class=n>15</td><td><mark>Interim</mark> magna est differentia inter decreta quæ pro-</td><td class=o>magna est differentia inter decreta quae pro¬</td><td class=s>92%</td></tr>
+<tr class=goed><td class=n>16</td><td>ficiscuntur ex errore &amp; ea quæ veritate cognita nituntur,</td><td class=o>ficiscuntur ex errore &amp; ea quae veritate cognita nituntur <mark>»</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>17</td><td>qui enim hæc sectantur consilij pœnitentiæ non sunt</td><td class=o>qui enim haec sectantur consilij poenitentiae non sunt</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>18</td><td>obnoxij, secus se habent <mark>qui illa sequuntur postquam</mark></td><td class=o>obnoxij <mark>,</mark> secus fe habent</td><td class=s>62%</td></tr>
+<tr class=goed><td class=n>19</td><td>error retectus fuerit.</td><td class=o>error retectus fuerit <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>20</td><td>XXIV.</td><td class=o>XXIV <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>21</td><td><mark>Passiones</mark> non sunt eijciendæ sapienti quomodo Stoi-</td><td class=o><mark>Pastiones</mark> non sunt eijciendae sapienti quomodo Stoi¬</td><td class=s>98%</td></tr>
+<tr class=redelijk><td class=n>22</td><td><mark>ci voluerunt, quamvis Just.</mark> Lipsius eorum <mark>sententiā</mark> aliter</td><td class=o><mark>.</mark> Lipsius eorum <mark>sententia</mark> aliter</td><td class=s>68%</td></tr>
+<tr class=redelijk><td class=n>23</td><td><mark>quàm communiter</mark> fit interpretetur; <mark>Omnes enim ani-</mark></td><td class=o>sit interpretetur</td><td class=s>55%</td></tr>
+<tr class=goed><td class=n>24</td><td>mi <mark>affectus</mark> natura <mark>suâ</mark> boni sunt, <mark>nihilque;</mark> ex illis præter</td><td class=o>mi <mark>djseftus</mark> natura <mark>sua</mark> boni sunt <mark>, nihilq ;</mark> ex illis praeter</td><td class=s>90%</td></tr>
+<tr class=goed><td class=n>25</td><td>eorum pravos usus aut excessus vitandum; <mark>Pravus</mark></td><td class=o>eorum pravos usus aut excessus vitandum</td><td class=s>92%</td></tr>
+<tr class=goed><td class=n>26</td><td><mark>affectuum</mark> usus est, quando erratur <mark>in affectuum</mark> objecto, ut</td><td class=o><mark>ituum</mark> usus est <mark>,</mark> quando erratur <mark>iu ajfeäuum</mark> objecto <mark>,</mark> ut</td><td class=s>86%</td></tr>
+<tr class=goed><td class=n>27</td><td>quando quis alteri invidus fit, cui invidus <mark>esse</mark> non de-</td><td class=o>quando quis alteri invidus fit <mark>,</mark> cui invidus <mark>este</mark> non de¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>28</td><td><mark>beret.</mark> Excessus vero <mark>affectuum</mark> est, quando ratio ab il-</td><td class=o>Excessus vero <mark>affeRuum</mark> est <mark>,</mark> quando ratio ab il¬</td><td class=s>90%</td></tr>
+<tr class=goed><td class=n>29</td><td>lis absorpta est, id quod contingere potest etiamsi <mark>asse-</mark></td><td class=o>lis absorpta est <mark>,</mark> id quod contingere potest etiamsi <mark>ajse-</mark></td><td class=s>98%</td></tr>
+<tr class=redelijk><td class=n>30</td><td><mark>ctus</mark> versetur circa objectum debitum <mark>e.g. Si quis tristis</mark></td><td class=o><mark>flus</mark> versetur circa objectum debitum</td><td class=s>76%</td></tr>
+<tr class=goed><td class=n>31</td><td>fieret infortunio suæ familiæ, debita esset illa <mark>tristitia, quia</mark></td><td class=o>fieret infortunio suae familiae, debita esset illa <mark>tristitia,quia</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>32</td><td>aliorum malo affici debemus, excederet autem hæc tri-</td><td class=o>aliorum malo affici debemus <mark>,</mark> excederet autem haec tri-</td><td class=s>100%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W08079_Wyss_Disputatio_physica_de_passionibus_mentis_in_genere_quam_sub__1664.pdf#page=13' target=_blank>scan 13</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=goed><td class=n>1</td><td><mark>ftitia,</mark> fi anima interim nullam sublimiorem cogitatio-</td><td class=o><mark>filtia ,</mark> si anima interim nullam sublimiorem cogitatio¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>2</td><td>nem haberet,in qua <mark>tanquam in</mark> arce fit collocata ne <mark>à</mark> tri-</td><td class=o>nem haberet,in qua <mark>tanquanxin .</mark> arce sit collocata ne <mark>a</mark> tri-</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>3</td><td><mark>ftitiâ opprimatur.</mark></td><td class=o><mark>ßitiäopprimature .</mark></td><td class=s>85%</td></tr>
+<tr class=goed><td class=n>4</td><td>XXV.</td><td class=o>XXV <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>5</td><td>Ab affectibus pendet omne bonum &amp; malum præ-</td><td class=o>Ab affectibus pendet omne bonum &amp; malum prae¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>6</td><td>sentis <mark>vitæ, adeò</mark> ut quos affectus magis movent, dulce-</td><td class=o>sentis <mark>vitis , adeo</mark> ut quos affectus magis movent, dulce¬</td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>7</td><td>dines vel amaritudines hujus vitæ <mark>frequentiùs</mark> gustent;</td><td class=o>dines vel amaritudines hujus vitae <mark>frequentius</mark> gustent <mark>;</mark></td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>8</td><td>Ut enim aliquid in hac vita nobis malum sit, oportet</td><td class=o>Ut enim aliquid in hac vita nobis- malum sit <mark>,</mark> oportet</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>9</td><td><mark>priùs</mark> in animam nostram id injecisse talem <mark>affectum, qui</mark></td><td class=o><mark>prius</mark> in animam nostram id injecisse talem <mark>affettum-,qui</mark></td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>10</td><td>animæ molestus sit, <mark>e.g.</mark> Ut bellum sit aliquod malum,</td><td class=o>animae molestus sit, <mark>e. g.</mark> Ut bellum sit aliquod malum,</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>11</td><td>tristitia vel metus, quæ passiones molestæ <mark>sunt, animum</mark></td><td class=o>tristitia vel metus, quae passiones molestae <mark>sunt,animum</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>12</td><td><mark>priùs perturbâsse</mark> debent; Hinc illis, qui ex bello natas</td><td class=o><mark>prius perturbasse</mark> debent <mark>;</mark> Hinc illis <mark>,</mark> qui ex bello natas</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>13</td><td>sibi occasiones vident fortitudinis animi sui demonstran-</td><td class=o>sibi occasiones vident fortitudinis animi sui demonstran¬</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>14</td><td>dæ fortunæq; suæ locupletandæ <mark>&amp; propterea bello læ-</mark></td><td class=o>dae fortunaeq <mark>;</mark> suae locupletandae</td><td class=s>75%</td></tr>
+<tr class=goed><td class=n>15</td><td>tantur, bellum malum non est, quia lætitia, quam ex bel-</td><td class=o>tantur <mark>,</mark> bellum malum non est, quia laetitia, quam ex bel¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>16</td><td>lo annunciato percipiunt, <mark>affectus</mark> animæ dulcis est.</td><td class=o>lo annunciato percipiunt <mark>, affechu</mark> animae dulcis est».</td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>17</td><td>XXVI.</td><td class=o>XXVI <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>18</td><td><mark>Quanquàm repræsentationes certorum</mark> quorundam</td><td class=o><mark>Quanquäm repraesentationescertorum</mark> quorundam</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>19</td><td>objectorum animæ factæ naturaliter junctæ sint certis</td><td class=o>objectorum animae factae naturaliter junctae sint certis</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>20</td><td><mark>passionibus,</mark> possunt tamen per habitum inde <mark>seperari, imò</mark></td><td class=o><mark>■paßtonibw&#x27;)</mark> possunt tamen per habitum inde <mark>seperarsiimo</mark></td><td class=s>92%</td></tr>
+<tr class=redelijk><td class=n>21</td><td>jungi aliis <mark>valdè</mark> differentibus; <mark>Ita est aliquis qui cupi-</mark></td><td class=o>jungi aliis <mark>valde</mark> differentibus <mark>;</mark></td><td class=s>71%</td></tr>
+<tr class=goed><td class=n>22</td><td>ditatem cibum habendi ex <mark>eò repræsentato</mark> percipit, con-</td><td class=o>ditatem cibum habendi ex <mark>eo reprassentatö</mark> percipit, con¬</td><td class=s>94%</td></tr>
+<tr class=goed><td class=n>23</td><td>tingit <mark>verò</mark> ex inopinato ut in <mark>cibò</mark> res quædam <mark>valdè</mark></td><td class=o>tingit <mark>vero</mark> ex inopinato ut in <mark>cib6</mark> res quaedam <mark>valde</mark></td><td class=s>94%</td></tr>
+<tr class=goed><td class=n>24</td><td>sordida reperiatur, inopinatus ille casus efficiet, ut re-</td><td class=o>sordida reperiatur <mark>,</mark> inopinatus ille casus efficiet <mark>,</mark> ut re¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>25</td><td>præsentatio ejusmodi cibi jungatur horrori, qui <mark>affectus</mark></td><td class=o>praesentatio ejusmodi cibi jungatur horrori <mark>,</mark> qui <mark>affettus</mark></td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>26</td><td>est <mark>à</mark> cupiditate <mark>valdè</mark> differens; Ita effici posse putamus</td><td class=o>est <mark>ä</mark> cupiditate <mark>valde</mark> disserens <mark>;</mark> Ita effici posse putamus</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>27</td><td>ut qui antea ex aspectu decollandorum hominum trepi-</td><td class=o>ut qui antea ex aspectu decollandorum hominum trepi¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>28</td><td>dus fieri solebat nunc animosus eodem casu contingen-</td><td class=o>dus sieri: solebat nunc animosus eodem casu contingen¬</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>29</td><td><mark>te reddatur:</mark> Quin idem in bestiis <mark>quoquè</mark> observari</td><td class=o>Quin idem in bestiis <mark>quoque</mark> observari</td><td class=s>84%</td></tr>
+<tr class=goed><td class=n>30</td><td>potest, canis enim cum videt perdicem, naturaliter pro-</td><td class=o>potest, canis enim cum videt perdicem <mark>,</mark> naturaliter pro¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>31</td><td>pensus est ad incurrendum in eam; Et <mark>cùm</mark> audit <mark>sclopetû</mark></td><td class=o>pensus est ad incurrendum in eam <mark>;</mark> Et <mark>cum</mark> audit <mark>sclopetu</mark></td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>32</td><td>displodi, ille <mark>strepitus naturaliter</mark> eum ad fugam incitat,</td><td class=o>displodi <mark>,</mark> ille <mark>strepitusnaturaliter</mark> eum ad fugam incitat <mark>,</mark></td><td class=s>100%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W08079_Wyss_Disputatio_physica_de_passionibus_mentis_in_genere_quam_sub__1664.pdf#page=14' target=_blank>scan 14</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=goed><td class=n>1</td><td>tamen canes venatici ita instituuntur, ut <mark>visâ</mark> perdice sub-</td><td class=o>tamen canes venatici ita instituuntur <mark>,</mark> ut <mark>visa</mark> perdice sub¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>2</td><td>sistant, &amp; <mark>auditô displosionis</mark> strepitu accurrant; <mark>Quan-</mark></td><td class=o>sistant <mark>,</mark> &amp; <mark>audito diiplosionis</mark> strepitu accurrant</td><td class=s>91%</td></tr>
+<tr class=goed><td class=n>3</td><td><mark>quàm verò</mark> bestiæ ratione <mark>careát</mark> &amp; forte omni cogitatio-</td><td class=o><mark>quärn vero</mark> bestiae ratione <mark>careät</mark> &amp; forte omni cogitatio¬</td><td class=s>91%</td></tr>
+<tr class=goed><td class=n>4</td><td><mark>ne, omnes</mark> tamen motus spirituum &amp; <mark>conarij, qui</mark> excitant</td><td class=o><mark>ne,omnes</mark> tamen motus spirituum &amp; <mark>conarij,qui</mark> excitant</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>5</td><td>in nobis passiones, in illis quoq; <mark>sunt, ut</mark> inserviant motibus</td><td class=o>in nobis paßiones <mark>,</mark> in illis quoq <mark>; sunt,ut</mark> inserviant motibus</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>6</td><td>nervorum &amp; musculorum excitandis, <mark>cóservandis</mark> &amp; con-</td><td class=o>nervorum &amp; musculorum excitandis <mark>, coservandis</mark> &amp; con¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>7</td><td>firmandis, qui motus in nobis <mark>comitari solent passiones;</mark></td><td class=o>firmandis <mark>,</mark> qui motus in nobis <mark>comitari,solent pastiones ;</mark></td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>8</td><td>Hactenus de <mark>passionibus</mark> mentis in genere.</td><td class=o>Hactenus de <mark>pastionibus</mark> mentis in genere <mark>«.</mark></td><td class=s>97%</td></tr>
+<tr><td class=n>9</td><td>❧❧❧❧❧❧</td><td class=o></td><td class=s></td></tr>
+<tr class=redelijk><td class=n>10</td><td>COLLECTANEA <mark>EX UNIVERSA</mark></td><td class=o>COLLECTANEA</td><td class=s>69%</td></tr>
+<tr class=goed><td class=n>11</td><td>Cartesii Philosophia.</td><td class=o>Cartesii Philosophia, <mark>.</mark></td><td class=s>100%</td></tr>
+<tr><td class=n>12</td><td>I.</td><td class=o></td><td class=s></td></tr>
+<tr class=goed><td class=n>13</td><td><mark>Mens est substantia</mark> cogitans; Corpus <mark>verò sub-</mark></td><td class=o><mark>eMens efffubflantia</mark> cogitans <mark>;</mark> Corpus <mark>verosub»•</mark></td><td class=s>91%</td></tr>
+<tr class=goed><td class=n>14</td><td><mark>stantia</mark> extensa.</td><td class=o><mark>flantia</mark> extensa.</td><td class=s>93%</td></tr>
+<tr><td class=n>15</td><td>II.</td><td class=o></td><td class=s></td></tr>
+<tr class=geen><td class=n>16</td><td>Unio mentis cum corpore est unum ex primò notis.</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=geen><td class=n>17</td><td>III.</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=goed><td class=n>18</td><td><mark>Cognoscitur sensibus tantùm; Ut</mark> proinde intel-</td><td class=o><mark>nofiiturfinfibustantum ; Z)t</mark> proinde intel-</td><td class=s>85%</td></tr>
+<tr class=goed><td class=n>19</td><td><mark>lectus</mark> eam non <mark>assequatur.</mark></td><td class=o><mark>letfw</mark> eam non <mark>ajsequatur...</mark></td><td class=s>88%</td></tr>
+<tr><td class=n>20</td><td>IV.</td><td class=o></td><td class=s></td></tr>
+<tr class=redelijk><td class=n>21</td><td><mark>Mentis à corpore separatæ cœlum sunt gloriosis-</mark></td><td class=o><mark>utentis a corporefiparau coelumsuntgloriofls-</mark></td><td class=s>84%</td></tr>
+<tr class=goed><td class=n>22</td><td>sima <mark>cogitationes de</mark> Deo.</td><td class=o>fima <mark>cogitationesde</mark> Deo.</td><td class=s>100%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W08079_Wyss_Disputatio_physica_de_passionibus_mentis_in_genere_quam_sub__1664.pdf#page=15' target=_blank>scan 15</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr><td class=n>1</td><td>V.</td><td class=o></td><td class=s></td></tr>
+<tr class=goed><td class=n>2</td><td><mark>Quia</mark> Idea <mark>Dei tantam</mark> realitatem <mark>objectivam in</mark></td><td class=o>Idea <mark>Deitantam</mark> realitatem <mark>ohje&amp;ivam m</mark></td><td class=s>85%</td></tr>
+<tr class=goed><td class=n>3</td><td><mark>se</mark> continet, ut illam mens <mark>nostra non nisi à</mark></td><td class=o><mark>fi</mark> continet, ut illam mens <mark>nofira nonnifi d</mark></td><td class=s>91%</td></tr>
+<tr class=goed><td class=n>4</td><td><mark>solo</mark> Deo realiter <mark>existente potuerit</mark> accipere,</td><td class=o><mark>filo</mark> Deo realiter <mark>exiflentepotuerit</mark> accipere</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>5</td><td><mark>firmissimè</mark> inde concluditur Dei <mark>existentia.</mark></td><td class=o><mark>firmiß ime</mark> inde concluditur Dei <mark>exiflentia .</mark></td><td class=s>95%</td></tr>
+<tr><td class=n>6</td><td>VI.</td><td class=o></td><td class=s></td></tr>
+<tr class=goed><td class=n>7</td><td><mark>A</mark> Dei sive <mark>Entis summè perfecti existentia o-</mark></td><td class=o><mark>otA</mark> Dei five <mark>Entü summe perfeäi existentiao -</mark></td><td class=s>86%</td></tr>
+<tr class=goed><td class=n>8</td><td>mnis certitudo humanarum scientiarum de-</td><td class=o>mnis certitudo humanarum scientiarum de¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>9</td><td>pendet, <mark>adeò</mark> ut, <mark>nisi sciamus</mark> Deum <mark>existe-</mark></td><td class=o>pendet <mark>, adeo</mark> ut, <mark>nifisciamus</mark> Deum <mark>exifle-</mark></td><td class=s>94%</td></tr>
+<tr class=goed><td class=n>10</td><td>re, ne quidem <mark>certò scire</mark> possimus ter tria esse</td><td class=o>re, ne quidem <mark>certoscire</mark> poßimus ter tria eße</td><td class=s>97%</td></tr>
+<tr class=redelijk><td class=n>11</td><td><mark>novem.</mark></td><td class=o><mark>novenu .</mark></td><td class=s>73%</td></tr>
+<tr class=goed><td class=n>12</td><td>VII.</td><td class=o>&#x27;VII.</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>13</td><td><mark>Mens nostra solâ</mark> voluntate <mark>potest</mark> movere cor-</td><td class=o><mark>suffiens nofirafild</mark> voluntate <mark>pote&amp;</mark> movere cor«</td><td class=s>82%</td></tr>
+<tr class=goed><td class=n>14</td><td>pus.</td><td class=o>pus <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=geen><td class=n>15</td><td>VIII.</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=redelijk><td class=n>16</td><td><mark>Id</mark> quod <mark>imago quaedam divinæ potentiæ est: Deus</mark></td><td class=o>quod <mark>imagoqmdam divina potentia efi^ Dem</mark></td><td class=s>83%</td></tr>
+<tr class=goed><td class=n>17</td><td><mark>enim</mark> produxit, <mark>quaecunque produxit, solâ</mark></td><td class=o><mark>enimproduxit , quacunque</mark> produxit <mark>, soli</mark></td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>18</td><td>voluntate.</td><td class=o>voluntate^ <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>19</td><td><mark>FINIS</mark></td><td class=o><mark>FINI</mark></td><td class=s>89%</td></tr>
+</table></section>
