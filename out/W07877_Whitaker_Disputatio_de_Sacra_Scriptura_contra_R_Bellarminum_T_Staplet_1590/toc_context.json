@@ -1,0 +1,1637 @@
+{
+ "work": "W07877_Whitaker_Disputatio_de_Sacra_Scriptura_contra_R_Bellarminum_T_Staplet_1590",
+ "made": "2026-11-26T11:21:58",
+ "model": "claude-haiku-5-5",
+ "prompt": "655260ce46aa8978",
+ "candidates": 443,
+ "cost_usd": 0.03111,
+ "dropped": [
+  "title 'Quaestio prima. De numero Canonicorum librorum Scripturæ.' is not in 'Libris Canonicis. / QVÆSTIO PRIMA.': to the scan",
+  "no scans for 1 wanted"
+ ],
+ "toc": [
+  {
+   "scan": 2,
+   "line": 1,
+   "lines": [
+    [
+     2,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Ordo quaestionum."
+  },
+  {
+   "scan": 3,
+   "line": 1,
+   "lines": [
+    [
+     3,
+     1
+    ],
+    [
+     3,
+     2
+    ],
+    [
+     3,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     3,
+     5
+    ]
+   ],
+   "level": 1,
+   "title": "Nobilissimo et sapientissimo viro Gulielmo Cecilio, equiti aurato, Baroni Burghleiensi, summo Angliae Thesaurario, & Cantabrigiensis Academiae Cancellario."
+  },
+  {
+   "scan": 11,
+   "line": 1,
+   "lines": [
+    [
+     11,
+     1
+    ],
+    [
+     11,
+     2
+    ],
+    [
+     11,
+     3
+    ],
+    [
+     11,
+     4
+    ],
+    [
+     11,
+     5
+    ]
+   ],
+   "level": 1,
+   "title": "Praefatio in controversiarum tractationem habita Cantabrigiae ad auditores."
+  },
+  {
+   "scan": 17,
+   "line": 1,
+   "lines": [
+    [
+     17,
+     1
+    ],
+    [
+     17,
+     2
+    ],
+    [
+     17,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput primum. In quo controversia haec omnis in suas particulares quaestiones distribuitur."
+  },
+  {
+   "scan": 18,
+   "line": 31,
+   "lines": [
+    [
+     18,
+     31
+    ],
+    [
+     18,
+     32
+    ]
+   ],
+   "level": 2,
+   "title": "Caput secundum. De statu primae quaestionis."
+  },
+  {
+   "scan": 20,
+   "line": 29,
+   "lines": [
+    [
+     20,
+     29
+    ],
+    [
+     20,
+     30
+    ],
+    [
+     20,
+     31
+    ]
+   ],
+   "level": 2,
+   "title": "Caput tertium. De hæreticis, qui in sacras & Canonicas Scripturas sacrilegi fuerunt."
+  },
+  {
+   "scan": 26,
+   "line": 18,
+   "lines": [
+    [
+     26,
+     18
+    ],
+    [
+     26,
+     19
+    ],
+    [
+     26,
+     20
+    ]
+   ],
+   "level": 2,
+   "title": "Caput quartum. In quo Aduersariorum argumentum proponitur, & diluitur."
+  },
+  {
+   "scan": 34,
+   "line": 1,
+   "lines": [
+    [
+     34,
+     1
+    ],
+    [
+     34,
+     2
+    ],
+    [
+     34,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput quintum. In quo rationes afferuntur contra libros secundi generis."
+  },
+  {
+   "scan": 37,
+   "line": 23,
+   "lines": [
+    [
+     37,
+     23
+    ],
+    [
+     37,
+     24
+    ],
+    [
+     37,
+     25
+    ]
+   ],
+   "level": 2,
+   "title": "Caput sextum. In quo aliis testimoniis illustratur causæ nostræ veritas."
+  },
+  {
+   "scan": 46,
+   "line": 19,
+   "lines": [
+    [
+     46,
+     19
+    ],
+    [
+     46,
+     20
+    ]
+   ],
+   "level": 2,
+   "title": "Caput septimum. De libro Baruch."
+  },
+  {
+   "scan": 49,
+   "line": 21,
+   "lines": [
+    [
+     49,
+     21
+    ],
+    [
+     49,
+     22
+    ]
+   ],
+   "level": 2,
+   "title": "Caput octavum. De Hesteræ capitibus septem apocryphis."
+  },
+  {
+   "scan": 53,
+   "line": 23,
+   "lines": [
+    [
+     53,
+     23
+    ],
+    [
+     53,
+     24
+    ]
+   ],
+   "level": 2,
+   "title": "Caput nonum. De partibus apocryphis Danielis."
+  },
+  {
+   "scan": 56,
+   "line": 15,
+   "lines": [
+    [
+     56,
+     15
+    ],
+    [
+     56,
+     16
+    ]
+   ],
+   "level": 2,
+   "title": "Caput decimum. De libro Tobiæ."
+  },
+  {
+   "scan": 57,
+   "line": 27,
+   "lines": [
+    [
+     57,
+     27
+    ],
+    [
+     57,
+     28
+    ]
+   ],
+   "level": 2,
+   "title": "Caput undecimum. De libro Iudith."
+  },
+  {
+   "scan": 61,
+   "line": 10,
+   "lines": [
+    [
+     61,
+     10
+    ],
+    [
+     61,
+     11
+    ]
+   ],
+   "level": 2,
+   "title": "Caput duodecimum. De libro Sapientiæ."
+  },
+  {
+   "scan": 64,
+   "line": 5,
+   "lines": [
+    [
+     64,
+     5
+    ],
+    [
+     64,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "Caput decimum tertium. De libro Ecclesiastico."
+  },
+  {
+   "scan": 65,
+   "line": 30,
+   "lines": [
+    [
+     65,
+     30
+    ],
+    [
+     65,
+     31
+    ]
+   ],
+   "level": 2,
+   "title": "Caput decimum quartum. De libris Maccabæorum."
+  },
+  {
+   "scan": 72,
+   "line": 24,
+   "lines": [
+    [
+     72,
+     24
+    ],
+    [
+     72,
+     25
+    ]
+   ],
+   "level": 2,
+   "title": "Caput decimum quintum. De libris confessione Papistarum apocryphis."
+  },
+  {
+   "scan": 74,
+   "line": 23,
+   "lines": [
+    [
+     74,
+     23
+    ],
+    [
+     74,
+     24
+    ]
+   ],
+   "level": 2,
+   "title": "Caput decimum sextum. De libris Novi Testamenti."
+  },
+  {
+   "scan": 78,
+   "line": 1,
+   "lines": [
+    [
+     78,
+     1
+    ],
+    [
+     78,
+     2
+    ],
+    [
+     78,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Quaestio secunda. De editione Scripturarum authentica."
+  },
+  {
+   "scan": 78,
+   "line": 4,
+   "lines": [
+    [
+     78,
+     4
+    ],
+    [
+     78,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Caput primum. De statu quaestionis."
+  },
+  {
+   "scan": 79,
+   "line": 29,
+   "lines": [
+    [
+     79,
+     29
+    ],
+    [
+     79,
+     30
+    ]
+   ],
+   "level": 2,
+   "title": "Caput secundum. De Hebraica editione."
+  },
+  {
+   "scan": 83,
+   "line": 1,
+   "lines": [
+    [
+     83,
+     1
+    ],
+    [
+     83,
+     2
+    ],
+    [
+     83,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput tertium. De Hebraeorum librorum versione Græca interpretum septuaginta."
+  },
+  {
+   "scan": 86,
+   "line": 27,
+   "lines": [
+    [
+     86,
+     27
+    ],
+    [
+     86,
+     28
+    ]
+   ],
+   "level": 2,
+   "title": "Caput quartum. De aliis translationibus Græcis veteris Testamenti."
+  },
+  {
+   "scan": 88,
+   "line": 15,
+   "lines": [
+    [
+     88,
+     15
+    ],
+    [
+     88,
+     16
+    ]
+   ],
+   "level": 2,
+   "title": "Caput quintum. De Græca editione Novi Testamenti."
+  },
+  {
+   "scan": 90,
+   "line": 9,
+   "lines": [
+    [
+     90,
+     9
+    ],
+    [
+     90,
+     10
+    ]
+   ],
+   "level": 2,
+   "title": "Caput sextum. De Latina vulgata editione."
+  },
+  {
+   "scan": 95,
+   "line": 10,
+   "lines": [
+    [
+     95,
+     10
+    ],
+    [
+     95,
+     11
+    ],
+    [
+     95,
+     12
+    ]
+   ],
+   "level": 2,
+   "title": "Caput septimum. In quo respondetur ad argumenta Adversariorum, quibus probare conantur vulgatam Latinam editionem esse authenticam."
+  },
+  {
+   "scan": 100,
+   "line": 14,
+   "lines": [
+    [
+     100,
+     14
+    ],
+    [
+     100,
+     15
+    ],
+    [
+     100,
+     16
+    ]
+   ],
+   "level": 2,
+   "title": "Caput octavum. In quo respondetur ad decem rationes interpretum Anglo-Rhemensium, quibus vulgatæ versionis in Novo Testamento authoritatem probare conantur."
+  },
+  {
+   "scan": 103,
+   "line": 24,
+   "lines": [
+    [
+     103,
+     24
+    ],
+    [
+     103,
+     25
+    ],
+    [
+     103,
+     26
+    ]
+   ],
+   "level": 2,
+   "title": "Caput nonum. In quo argumenta explicantur, quibus Latinam vulgatam editionem non esse Scripturam authenticam probatur."
+  },
+  {
+   "scan": 118,
+   "line": 1,
+   "lines": [
+    [
+     118,
+     1
+    ],
+    [
+     118,
+     2
+    ],
+    [
+     118,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput decimum. In quo proponuntur loca quædam corrupta in vulgata editione veteris Testamenti."
+  },
+  {
+   "scan": 129,
+   "line": 6,
+   "lines": [
+    [
+     129,
+     6
+    ],
+    [
+     129,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "Caput undecimum. De editione Latina Psalmorum, eiusque multiplice vitiositate."
+  },
+  {
+   "scan": 139,
+   "line": 1,
+   "lines": [
+    [
+     139,
+     1
+    ],
+    [
+     139,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput duodecimum. De locis in editione Latina Novi Testamenti corruptis."
+  },
+  {
+   "scan": 149,
+   "line": 28,
+   "lines": [
+    [
+     149,
+     28
+    ],
+    [
+     149,
+     29
+    ]
+   ],
+   "level": 2,
+   "title": "Caput decimum tertium. In quo status quæstionis de vernaculis versionibus explicatur."
+  },
+  {
+   "scan": 152,
+   "line": 6,
+   "lines": [
+    [
+     152,
+     6
+    ],
+    [
+     152,
+     7
+    ],
+    [
+     152,
+     8
+    ]
+   ],
+   "level": 2,
+   "title": "Caput decimum quartum. In quo argumenta Aduersariorum refutantur, quibus vernaculas Scripturæ versiones oppugnant."
+  },
+  {
+   "scan": 168,
+   "line": 23,
+   "lines": [
+    [
+     168,
+     23
+    ],
+    [
+     168,
+     24
+    ]
+   ],
+   "level": 2,
+   "title": "Caput decimum quintum. Argumenta nostra pro vernaculis Scripturarum versionibus."
+  },
+  {
+   "scan": 179,
+   "line": 19,
+   "lines": [
+    [
+     179,
+     19
+    ],
+    [
+     179,
+     20
+    ],
+    [
+     179,
+     21
+    ]
+   ],
+   "level": 2,
+   "title": "Caput decimum sextum. Status quæstionis, de precibus publicis & sacris lingua vernacula peragendis."
+  },
+  {
+   "scan": 180,
+   "line": 16,
+   "lines": [
+    [
+     180,
+     16
+    ],
+    [
+     180,
+     17
+    ]
+   ],
+   "level": 2,
+   "title": "Caput decimum septimum. Argumenta Papistarum pro sacris peregrinis diluuntur."
+  },
+  {
+   "scan": 185,
+   "line": 10,
+   "lines": [
+    [
+     185,
+     10
+    ],
+    [
+     185,
+     11
+    ],
+    [
+     185,
+     12
+    ]
+   ],
+   "level": 2,
+   "title": "Caput decimum octavum. Nostra argumenta, quibus probamus officia Ecclesiastica vernacula cuiusque gentis lingua peragenda esse."
+  },
+  {
+   "scan": 197,
+   "line": 1,
+   "lines": [
+    [
+     197,
+     1
+    ],
+    [
+     197,
+     2
+    ],
+    [
+     197,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Quaestio tertia. De Scripturæ authoritate."
+  },
+  {
+   "scan": 197,
+   "line": 4,
+   "lines": [
+    [
+     197,
+     4
+    ],
+    [
+     197,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Caput primum. De statu quæstionis."
+  },
+  {
+   "scan": 201,
+   "line": 6,
+   "lines": [
+    [
+     201,
+     6
+    ],
+    [
+     201,
+     7
+    ],
+    [
+     201,
+     8
+    ]
+   ],
+   "level": 2,
+   "title": "Caput secundum. Quanta tum a Papistis, tum a nobis, Ecclesiæ erga Scripturam authoritas tribuatur."
+  },
+  {
+   "scan": 204,
+   "line": 30,
+   "lines": [
+    [
+     204,
+     30
+    ],
+    [
+     204,
+     31
+    ]
+   ],
+   "level": 2,
+   "title": "Caput tertium. In quo primum Argumentum Adversariorum diluitur."
+  },
+  {
+   "scan": 217,
+   "line": 32,
+   "lines": [
+    [
+     217,
+     32
+    ],
+    [
+     217,
+     33
+    ],
+    [
+     217,
+     34
+    ]
+   ],
+   "level": 2,
+   "title": "Caput quartum. In quo secundum argumentum Stapletoni proponitur & diluitur."
+  },
+  {
+   "scan": 220,
+   "line": 28,
+   "lines": [
+    [
+     220,
+     28
+    ],
+    [
+     220,
+     29
+    ],
+    [
+     220,
+     30
+    ]
+   ],
+   "level": 2,
+   "title": "Caput quintum. In quo Tertium argumentum Adversariorum examinatur & reicitur."
+  },
+  {
+   "scan": 226,
+   "line": 16,
+   "lines": [
+    [
+     226,
+     16
+    ],
+    [
+     226,
+     17
+    ],
+    [
+     226,
+     18
+    ]
+   ],
+   "level": 2,
+   "title": "Caput sextum. In quo ad quartum Aduersariorum argumentum respondetur."
+  },
+  {
+   "scan": 229,
+   "line": 33,
+   "lines": [
+    [
+     229,
+     33
+    ],
+    [
+     229,
+     34
+    ]
+   ],
+   "level": 2,
+   "title": "Caput septimum. De quinto argumento Adversariorum."
+  },
+  {
+   "scan": 232,
+   "line": 23,
+   "lines": [
+    [
+     232,
+     23
+    ],
+    [
+     232,
+     24
+    ]
+   ],
+   "level": 2,
+   "title": "Caput octavum. De Adversariorum argumento sexto."
+  },
+  {
+   "scan": 235,
+   "line": 14,
+   "lines": [
+    [
+     235,
+     14
+    ],
+    [
+     235,
+     15
+    ]
+   ],
+   "level": 2,
+   "title": "Caput nonum. De septimo argumento Adversariorum."
+  },
+  {
+   "scan": 238,
+   "line": 22,
+   "lines": [
+    [
+     238,
+     22
+    ],
+    [
+     238,
+     23
+    ]
+   ],
+   "level": 2,
+   "title": "Caput decimum. De reliquis duobus argumentis Adversariorum."
+  },
+  {
+   "scan": 242,
+   "line": 19,
+   "lines": [
+    [
+     242,
+     19
+    ],
+    [
+     242,
+     20
+    ],
+    [
+     242,
+     21
+    ]
+   ],
+   "level": 2,
+   "title": "Caput undecimum. Argumenta nostra, quibus probamus Scripturarum authoritatem, quoad nos, non pendere ex Ecclesiæ iudicio ac testimonio."
+  },
+  {
+   "scan": 264,
+   "line": 16,
+   "lines": [
+    [
+     264,
+     16
+    ],
+    [
+     264,
+     17
+    ],
+    [
+     264,
+     18
+    ]
+   ],
+   "level": 1,
+   "title": "Quaestio quarta. De perspicuitate Scripturarum."
+  },
+  {
+   "scan": 264,
+   "line": 19,
+   "lines": [
+    [
+     264,
+     19
+    ],
+    [
+     264,
+     20
+    ]
+   ],
+   "level": 2,
+   "title": "Caput primum. De statu quæstionis."
+  },
+  {
+   "scan": 269,
+   "line": 19,
+   "lines": [
+    [
+     269,
+     19
+    ],
+    [
+     269,
+     20
+    ]
+   ],
+   "level": 2,
+   "title": "Caput secundum. Quare Deus voluit multa esse in Scripturis obscura."
+  },
+  {
+   "scan": 270,
+   "line": 31,
+   "lines": [
+    [
+     270,
+     31
+    ],
+    [
+     270,
+     32
+    ],
+    [
+     270,
+     33
+    ]
+   ],
+   "level": 2,
+   "title": "Caput tertium. In quo Papistarum argumenta diluuntur."
+  },
+  {
+   "scan": 281,
+   "line": 25,
+   "lines": [
+    [
+     281,
+     25
+    ],
+    [
+     281,
+     26
+    ]
+   ],
+   "level": 2,
+   "title": "Caput quartum. Argumenta nostrorum a Bellarmino exagitata defenduntur."
+  },
+  {
+   "scan": 298,
+   "line": 1,
+   "lines": [
+    [
+     298,
+     1
+    ],
+    [
+     298,
+     2
+    ],
+    [
+     298,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Quaestio quinta. De interpretatione Scripturarum."
+  },
+  {
+   "scan": 298,
+   "line": 4,
+   "lines": [
+    [
+     298,
+     4
+    ],
+    [
+     298,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Caput primum. De statu quæstionis."
+  },
+  {
+   "scan": 299,
+   "line": 6,
+   "lines": [
+    [
+     299,
+     6
+    ],
+    [
+     299,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "Caput secundum. De quibusdam prolegomenis ad quæstionis statum intelligendum necessariis."
+  },
+  {
+   "scan": 305,
+   "line": 6,
+   "lines": [
+    [
+     305,
+     6
+    ],
+    [
+     305,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "Caput tertium. Fusius de statu prioris partis huius quæstionis."
+  },
+  {
+   "scan": 310,
+   "line": 1,
+   "lines": [
+    [
+     310,
+     1
+    ],
+    [
+     310,
+     2
+    ],
+    [
+     310,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput quartum. Argumenta Adversariorum ex Vetere Testamento sumpta removentur."
+  },
+  {
+   "scan": 316,
+   "line": 33,
+   "lines": [
+    [
+     316,
+     33
+    ],
+    [
+     316,
+     34
+    ]
+   ],
+   "level": 2,
+   "title": "Caput quintum. Respondetur ad testimonia ex Novo Testamento deprompta."
+  },
+  {
+   "scan": 324,
+   "line": 21,
+   "lines": [
+    [
+     324,
+     21
+    ],
+    [
+     324,
+     22
+    ]
+   ],
+   "level": 2,
+   "title": "Caput sextum. De tertio argumento Adversariorum."
+  },
+  {
+   "scan": 331,
+   "line": 28,
+   "lines": [
+    [
+     331,
+     28
+    ],
+    [
+     331,
+     29
+    ],
+    [
+     331,
+     30
+    ]
+   ],
+   "level": 2,
+   "title": "Caput septimum. De quarto Iesuitæ argumento."
+  },
+  {
+   "scan": 334,
+   "line": 3,
+   "lines": [
+    [
+     334,
+     3
+    ],
+    [
+     334,
+     4
+    ],
+    [
+     334,
+     5
+    ],
+    [
+     334,
+     6
+    ],
+    [
+     334,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "Caput octavum. Argumenta nostra, quibus probamus summum iudicium interpretandi Scripturas, non Ecclesiæ, sed Scripturis ipsis, & Spiritui sancto, tribuendum esse."
+  },
+  {
+   "scan": 348,
+   "line": 24,
+   "lines": [
+    [
+     348,
+     24
+    ],
+    [
+     348,
+     25
+    ]
+   ],
+   "level": 2,
+   "title": "Caput nonum. Status quæstionis, de mediis inveniendi verum Scripturæ sensum."
+  },
+  {
+   "scan": 354,
+   "line": 8,
+   "lines": [
+    [
+     354,
+     8
+    ],
+    [
+     354,
+     9
+    ],
+    [
+     354,
+     10
+    ]
+   ],
+   "level": 2,
+   "title": "Caput decimum. Argumenta Adversariorum in genere contra hæc media diluuntur."
+  },
+  {
+   "scan": 356,
+   "line": 8,
+   "lines": [
+    [
+     356,
+     8
+    ],
+    [
+     356,
+     9
+    ]
+   ],
+   "level": 2,
+   "title": "Caput undecimum. Particularia Adversariorum argumenta refutantur."
+  },
+  {
+   "scan": 362,
+   "line": 15,
+   "lines": [
+    [
+     362,
+     15
+    ],
+    [
+     362,
+     16
+    ],
+    [
+     362,
+     17
+    ]
+   ],
+   "level": 2,
+   "title": "Caput duodecimum. Argumenta Adversary examinantur, quibus conatur sua media stabilire."
+  },
+  {
+   "scan": 365,
+   "line": 24,
+   "lines": [
+    [
+     365,
+     24
+    ],
+    [
+     365,
+     25
+    ]
+   ],
+   "level": 2,
+   "title": "Caput decimum tertium. Scripturam esse ex Scriptura interpretandam."
+  },
+  {
+   "scan": 371,
+   "line": 1,
+   "lines": [
+    [
+     371,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Quaestio sexta. De Scripturæ perfectione, contra humanas traditiones."
+  },
+  {
+   "scan": 371,
+   "line": 2,
+   "lines": [
+    [
+     371,
+     2
+    ],
+    [
+     371,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput primum. Quæstio proponitur."
+  },
+  {
+   "scan": 372,
+   "line": 5,
+   "lines": [
+    [
+     372,
+     5
+    ],
+    [
+     372,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "Caput secundum. Quid Papistæ traditionis nomine significent."
+  },
+  {
+   "scan": 374,
+   "line": 1,
+   "lines": [
+    [
+     374,
+     1
+    ],
+    [
+     374,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput tertium. Quomodo Papistæ traditiones partiantur."
+  },
+  {
+   "scan": 376,
+   "line": 25,
+   "lines": [
+    [
+     376,
+     25
+    ],
+    [
+     376,
+     26
+    ]
+   ],
+   "level": 2,
+   "title": "Caput quartum. Quibus regulis Papistæ traditiones veras ab adulterinis distinguunt."
+  },
+  {
+   "scan": 383,
+   "line": 3,
+   "lines": [
+    [
+     383,
+     3
+    ],
+    [
+     383,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Caput quintum. Quæ dogmata a Papistis traditionum authoritate defendantur."
+  },
+  {
+   "scan": 384,
+   "line": 3,
+   "lines": [
+    [
+     384,
+     3
+    ],
+    [
+     384,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Caput sextum. Status quæstionis propositus."
+  },
+  {
+   "scan": 386,
+   "line": 22,
+   "lines": [
+    [
+     386,
+     22
+    ],
+    [
+     386,
+     23
+    ],
+    [
+     386,
+     24
+    ]
+   ],
+   "level": 2,
+   "title": "Caput septimum. Argumenta Adversariorum, quibus probant Scripturas sine traditionibus nec esse necessarias, nec sufficientes."
+  },
+  {
+   "scan": 390,
+   "line": 33,
+   "lines": [
+    [
+     390,
+     33
+    ]
+   ],
+   "level": 2,
+   "title": "Caput octavum. Scripturas esse necessarias."
+  },
+  {
+   "scan": 393,
+   "line": 8,
+   "lines": [
+    [
+     393,
+     8
+    ],
+    [
+     393,
+     9
+    ],
+    [
+     393,
+     10
+    ],
+    [
+     393,
+     11
+    ]
+   ],
+   "level": 2,
+   "title": "Caput nonum. Argumenta Adversariorum, quibus probant Scripturas sine traditionibus non esse sufficientes."
+  },
+  {
+   "scan": 407,
+   "line": 5,
+   "lines": [
+    [
+     407,
+     5
+    ],
+    [
+     407,
+     6
+    ],
+    [
+     407,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "Caput decimum. Respondetur argumentis ex Scriptura sumptis, quibus Bellarminus probat, esse aliquas veras traditiones."
+  },
+  {
+   "scan": 423,
+   "line": 19,
+   "lines": [
+    [
+     423,
+     19
+    ],
+    [
+     423,
+     20
+    ]
+   ],
+   "level": 2,
+   "title": "Caput undecimum. Bellarmini tertium argumentum diluitur."
+  },
+  {
+   "scan": 425,
+   "line": 9,
+   "lines": [
+    [
+     425,
+     9
+    ],
+    [
+     425,
+     10
+    ],
+    [
+     425,
+     11
+    ]
+   ],
+   "level": 2,
+   "title": "Caput duodecimum. Ad quartum argumentum, positum in testimoniis Patrum, respondetur."
+  },
+  {
+   "scan": 458,
+   "line": 11,
+   "lines": [
+    [
+     458,
+     11
+    ],
+    [
+     458,
+     12
+    ]
+   ],
+   "level": 2,
+   "title": "Caput decimum tertium. Reliqua Bellarmini argumenta refutantur."
+  },
+  {
+   "scan": 462,
+   "line": 22,
+   "lines": [
+    [
+     462,
+     22
+    ],
+    [
+     462,
+     23
+    ],
+    [
+     462,
+     24
+    ],
+    [
+     462,
+     25
+    ]
+   ],
+   "level": 2,
+   "title": "Caput decimum quartum. Argumenta nostra contra traditiones non scriptas ex Scripturis, ad quas aliquid Bellarminus respondet."
+  },
+  {
+   "scan": 483,
+   "line": 23,
+   "lines": [
+    [
+     483,
+     23
+    ],
+    [
+     483,
+     24
+    ]
+   ],
+   "level": 2,
+   "title": "Caput decimum quintum. In quo alia Scripturæ testimonia contra traditiones explicantur, de quibus nihil Bellarminus respondit."
+  },
+  {
+   "scan": 492,
+   "line": 28,
+   "lines": [
+    [
+     492,
+     28
+    ],
+    [
+     492,
+     29
+    ],
+    [
+     492,
+     30
+    ]
+   ],
+   "level": 2,
+   "title": "Caput decimum sextum. Traditiones non scriptæ rationibus oppugnantur."
+  },
+  {
+   "scan": 506,
+   "line": 11,
+   "lines": [
+    [
+     506,
+     11
+    ],
+    [
+     506,
+     12
+    ]
+   ],
+   "level": 2,
+   "title": "Caput decimum septimum. Testimonia Patrum."
+  },
+  {
+   "scan": 531,
+   "line": 1,
+   "lines": [
+    [
+     531,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Ad lectorem christianum."
+  },
+  {
+   "scan": 532,
+   "line": 25,
+   "lines": [
+    [
+     532,
+     25
+    ],
+    [
+     532,
+     26
+    ]
+   ],
+   "level": 1,
+   "title": "Errata sic corrigenda. Prior numerus paginam, posterior versum indicat."
+  },
+  {
+   "scan": 533,
+   "line": 1,
+   "lines": [
+    [
+     533,
+     1
+    ],
+    [
+     533,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Index præcipuarum rerum, quæ in hoc libro continentur."
+  }
+ ],
+ "book": "Whitaker's Disputatio de sacra Scriptura contra Robertum Bellarminum et Thomam Stapletonum (Cambridge, 1588): front matter (ordo, dedication, preface, address to the reader), then six quaestiones, each divided into numbered chapters, closed by errata and an index.",
+ "series": [
+  {
+   "label": "Quaestio",
+   "first": "I",
+   "last": "VI",
+   "count": 6,
+   "level": 1,
+   "found": 11
+  },
+  {
+   "label": "Caput",
+   "first": "II",
+   "last": "XVI",
+   "count": 78,
+   "level": 2,
+   "found": 79
+  }
+ ],
+ "taste": 50,
+ "doubt": "",
+ "input": 61630,
+ "output": 38152
+}
