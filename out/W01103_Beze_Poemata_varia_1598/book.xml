@@ -17435,8 +17435,22 @@
     </main_text>
     <notes>The woodcut is described above and not transcribed. The verse has several evident printing irregularities (long s and f forms, "savi" for "saevi", "Ligeris", "ina" for "una", "cede" for "caede", "oberras"); the letters were copied as printed where legible, with [?] omitted because the printed text itself is clear, but the initial "V" of the verse is a woodcut-style letter and the word "expérsque" may be misread. Verse lines were kept as printed as separate lines in one paragraph.</notes>
   </page>
-  <page type="missing" n="320">
-    <warning type="missing_page">page 320 was not transcribed: invalid XML: junk after document element: line 12, column 0</warning>
+  <page type="text" lines="ocr" n="320" model="claude-haiku-5-5">
+    <warning type="catchword_in_text">catchword taken out of the main text: Homo</warning>
+    <layout>One page of text: running head at top centre; a title and emblem heading; below a framed woodcut (emblem border, no text inside); below the frame a verse epigram in italic lines; at the foot a word "Homo" in large type.</layout>
+    <running_head>THEOD. BEZAE</running_head>
+    <main_text>
+      <l n="1" type="heading" level="1" caput="31" para="true">Coelum tonans simul &amp; pluens.</l>
+      <l n="2" type="heading" level="1" caput="31">XXXXI.</l>
+      <l n="3" para="true">Cœu rutilis idem qui dissilit ignibus æther,</l>
+      <l n="4">Fœcundus grauido pectore fundit aquas:</l>
+      <l n="5">Vita fide sic Christus erit tibi vera receptus,</l>
+      <l n="6">Spretus at hic idem mors tibi Christus erit.</l>
+    </main_text>
+    <notes>The initial C of the verse is a large woodcut letter, joined to the first word as "Cœu". The verse is set in italic; the text is transcribed as printed. The woodcut frame encloses an empty central field and is not text. Heading numeral printed as XXXXI in the scan, reproduced as printed in the heading line "XXXXI." Some letters of the verse lines are uncertain where the scan is faint.</notes>
+    <bottom_margin>
+      <catchword>Homo</catchword>
+    </bottom_margin>
   </page>
   <page type="text" lines="ocr" n="321" model="claude-haiku-5-5">
     <layout>One page of text: running head at top with page number at top right; a centred heading (motto and number) above; a woodcut ornamental frame in the middle with no text inside; below it a four-line italic verse with a large initial A.</layout>

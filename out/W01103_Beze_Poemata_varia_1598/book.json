@@ -41054,13 +41054,53 @@
   },
   {
    "n": 320,
-   "type": "missing",
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "running_head": "THEOD. BEZAE",
    "warnings": [
     {
-     "type": "missing_page",
-     "text": "page 320 was not transcribed: invalid XML: junk after document element: line 12, column 0"
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: Homo"
     }
-   ]
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "Coelum tonans simul & pluens.",
+     "heading": 1,
+     "caput": "31",
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "XXXXI.",
+     "heading": 1,
+     "caput": "31"
+    },
+    {
+     "n": 3,
+     "text": "Cœu rutilis idem qui dissilit ignibus æther,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "Fœcundus grauido pectore fundit aquas:",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "Vita fide sic Christus erit tibi vera receptus,",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "Spretus at hic idem mors tibi Christus erit.",
+     "heading": 0
+    }
+   ],
+   "catchword": "Homo",
+   "notes": "The initial C of the verse is a large woodcut letter, joined to the first word as \"Cœu\". The verse is set in italic; the text is transcribed as printed. The woodcut frame encloses an empty central field and is not text. Heading numeral printed as XXXXI in the scan, reproduced as printed in the heading line \"XXXXI.\" Some letters of the verse lines are uncertain where the scan is faint."
   },
   {
    "n": 321,
