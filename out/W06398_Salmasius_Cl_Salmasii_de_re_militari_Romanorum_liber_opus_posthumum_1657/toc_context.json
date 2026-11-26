@@ -1,0 +1,586 @@
+{
+ "work": "W06398_Salmasius_Cl_Salmasii_de_re_militari_Romanorum_liber_opus_posthumum_1657",
+ "made": "2026-11-26T10:52:36",
+ "model": "claude-haiku-5-5",
+ "prompt": "655260ce46aa8978",
+ "candidates": 163,
+ "cost_usd": 0.00828,
+ "dropped": [],
+ "toc": [
+  {
+   "scan": 7,
+   "line": 1,
+   "lines": [
+    [
+     7,
+     1
+    ],
+    [
+     7,
+     2
+    ],
+    [
+     7,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Georgius Hornius. Lectori benevolo salutem"
+  },
+  {
+   "scan": 8,
+   "line": 1,
+   "lines": [
+    [
+     8,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Praefatio"
+  },
+  {
+   "scan": 13,
+   "line": 1,
+   "lines": [
+    [
+     13,
+     1
+    ],
+    [
+     13,
+     2
+    ],
+    [
+     13,
+     3
+    ],
+    [
+     13,
+     4
+    ],
+    [
+     13,
+     5
+    ],
+    [
+     13,
+     6
+    ],
+    [
+     13,
+     7
+    ],
+    [
+     13,
+     8
+    ],
+    [
+     13,
+     9
+    ],
+    [
+     13,
+     10
+    ],
+    [
+     13,
+     11
+    ],
+    [
+     13,
+     12
+    ]
+   ],
+   "level": 1,
+   "title": "Illustrissimo viro, Domino Jacobo Augusto Thuano, I. A. F. in senatu Parisiensi praesidi integerrimo, comiti de Meslay, Christianissimi Galliarum regis a consiliis et ad praepotentes Belgii foederati ordines legato."
+  },
+  {
+   "scan": 17,
+   "line": 5,
+   "lines": [
+    [
+     17,
+     5
+    ],
+    [
+     17,
+     6
+    ],
+    [
+     17,
+     7
+    ]
+   ],
+   "level": 1,
+   "title": "Cap. I. De mutatione artis militaris apud Romanos & quod saepe variaverit multis argumentis probatum"
+  },
+  {
+   "scan": 24,
+   "line": 1,
+   "lines": [
+    [
+     24,
+     1
+    ],
+    [
+     24,
+     2
+    ],
+    [
+     24,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Cap. II. De legionis Romanae divisione, & aliam fuisse Scipionis aevo, aliam sub Caesaribus"
+  },
+  {
+   "scan": 34,
+   "line": 10,
+   "lines": [
+    [
+     34,
+     10
+    ],
+    [
+     34,
+     11
+    ],
+    [
+     34,
+     12
+    ]
+   ],
+   "level": 1,
+   "title": "Cap. III. Legionem antiquam sive Polybianam a Caesariana & nova diversam fuisse ordinatione"
+  },
+  {
+   "scan": 45,
+   "line": 21,
+   "lines": [
+    [
+     45,
+     21
+    ],
+    [
+     45,
+     22
+    ],
+    [
+     45,
+     23
+    ]
+   ],
+   "level": 1,
+   "title": "Cap. IV. De ordinandorum in acie locatione, sive ordinationis ordine qua differebat legio vetus a nova"
+  },
+  {
+   "scan": 62,
+   "line": 9,
+   "lines": [
+    [
+     62,
+     9
+    ],
+    [
+     62,
+     10
+    ],
+    [
+     62,
+     11
+    ]
+   ],
+   "level": 1,
+   "title": "Cap. V. De antiqua & nova ordinanda apud Romanos aciei ratione, & utriusque differentia, ac primum de antiqua"
+  },
+  {
+   "scan": 68,
+   "line": 11,
+   "lines": [
+    [
+     68,
+     11
+    ],
+    [
+     68,
+     12
+    ],
+    [
+     68,
+     13
+    ]
+   ],
+   "level": 1,
+   "title": "Cap. VI. De ordinanda aciei ratione, quae in nova militia apud Romanos obtinuit"
+  },
+  {
+   "scan": 87,
+   "line": 27,
+   "lines": [
+    [
+     87,
+     27
+    ],
+    [
+     87,
+     28
+    ],
+    [
+     87,
+     29
+    ]
+   ],
+   "level": 1,
+   "title": "Cap. VII. Quot modis acies Romana instrueretur numero ac genere differentibus in antiqua ac nova militia"
+  },
+  {
+   "scan": 95,
+   "line": 16,
+   "lines": [
+    [
+     95,
+     16
+    ],
+    [
+     95,
+     17
+    ],
+    [
+     95,
+     18
+    ],
+    [
+     95,
+     19
+    ]
+   ],
+   "level": 1,
+   "title": "Cap. VIII. Iterum de multiplici acie Romanorum tractatum, et qua in re differebant antiqua ordinatio sub Scipionibus, et nova sub Caesaribus"
+  },
+  {
+   "scan": 106,
+   "line": 18,
+   "lines": [
+    [
+     106,
+     18
+    ],
+    [
+     106,
+     19
+    ],
+    [
+     106,
+     20
+    ]
+   ],
+   "level": 1,
+   "title": "Cap. IX. De cornibus Romanae aciei veteris & novae, ut illa in vetere Sociis data sunt, in nova civibus"
+  },
+  {
+   "scan": 115,
+   "line": 4,
+   "lines": [
+    [
+     115,
+     4
+    ],
+    [
+     115,
+     5
+    ],
+    [
+     115,
+     6
+    ],
+    [
+     115,
+     7
+    ]
+   ],
+   "level": 1,
+   "title": "Cap. X. Qua nota dignosci debeat utrum acies simplex sit an multiplex. Simplicem esse quae unius formae est et aequata fronte, et vocari quadratam"
+  },
+  {
+   "scan": 124,
+   "line": 1,
+   "lines": [
+    [
+     124,
+     1
+    ],
+    [
+     124,
+     2
+    ],
+    [
+     124,
+     3
+    ],
+    [
+     124,
+     4
+    ],
+    [
+     124,
+     5
+    ]
+   ],
+   "level": 1,
+   "title": "Cap. XI. Quadratam aciem Romanis eam dictam fuisse quae frontem haberet quadratam, non quae forma τετράγωνος esset ordinata, ut acies Crassi fuit, ἀμφίστομον vel ἀντίστομον"
+  },
+  {
+   "scan": 136,
+   "line": 31,
+   "lines": [
+    [
+     136,
+     31
+    ],
+    [
+     136,
+     32
+    ],
+    [
+     136,
+     33
+    ]
+   ],
+   "level": 1,
+   "title": "Cap. XII. De subsidiis & subsidiariis copiis, & quanta in his fuerit differentia Scipionum temporibus usitata militia ac Caesariana"
+  },
+  {
+   "scan": 150,
+   "line": 8,
+   "lines": [
+    [
+     150,
+     8
+    ],
+    [
+     150,
+     9
+    ],
+    [
+     150,
+     10
+    ],
+    [
+     150,
+     11
+    ]
+   ],
+   "level": 1,
+   "title": "Cap. XIII. De subsidiis in Romanorum acie collocandis, sicut ea collocari mos fuit in ea militari disciplina, quae sub Caesaribus observata est"
+  },
+  {
+   "scan": 163,
+   "line": 3,
+   "lines": [
+    [
+     163,
+     3
+    ],
+    [
+     163,
+     4
+    ],
+    [
+     163,
+     5
+    ],
+    [
+     163,
+     6
+    ]
+   ],
+   "level": 1,
+   "title": "Cap. XIV. De levi armatura ac velitibus, et quantum in eorum appellatione vetus ordinatio differat a nova. De accensis ac rorariis"
+  },
+  {
+   "scan": 170,
+   "line": 5,
+   "lines": [
+    [
+     170,
+     5
+    ],
+    [
+     170,
+     6
+    ],
+    [
+     170,
+     7
+    ],
+    [
+     170,
+     8
+    ]
+   ],
+   "level": 1,
+   "title": "Cap. XV. Iterum de levi armatura disseritur, et de eorum levium peditum differentia, qui in legionis censu erant, et qui extra eius numerum. Item de Accensis"
+  },
+  {
+   "scan": 178,
+   "line": 1,
+   "lines": [
+    [
+     178,
+     1
+    ],
+    [
+     178,
+     2
+    ],
+    [
+     178,
+     3
+    ],
+    [
+     178,
+     4
+    ],
+    [
+     178,
+     5
+    ]
+   ],
+   "level": 1,
+   "title": "Cap. XVI. De velitum per bellum Punicum secundum institutione, deque eorum differentia ab antiqua levi armatura, et de ratione nominis eorum cur ita appellati fuerint"
+  },
+  {
+   "scan": 189,
+   "line": 1,
+   "lines": [
+    [
+     189,
+     1
+    ],
+    [
+     189,
+     2
+    ],
+    [
+     189,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Cap. XVII. Velites in Caesariana militia notos non fuisse, sed hos Antesignanos appellatos, et hanc legionum levem tunc extitisse armaturam"
+  },
+  {
+   "scan": 208,
+   "line": 14,
+   "lines": [
+    [
+     208,
+     14
+    ],
+    [
+     208,
+     15
+    ],
+    [
+     208,
+     16
+    ],
+    [
+     208,
+     17
+    ]
+   ],
+   "level": 1,
+   "title": "Cap. XVIII. De Antesignanis Caesariana militia, quae levis legionum fuit armatura, et quae in re diversa ab antiqua legionis velitibus fuerint. Hos etiam alios fuisse ab Antesignanis posterioris aevi"
+  },
+  {
+   "scan": 218,
+   "line": 24,
+   "lines": [
+    [
+     218,
+     24
+    ],
+    [
+     218,
+     25
+    ],
+    [
+     218,
+     26
+    ]
+   ],
+   "level": 1,
+   "title": "Cap. XIX. De vexillariis legionum qui successere in locum Antesignanorum. De loco in acie levis armaturae. De exculcatoribus posterioris aevi"
+  },
+  {
+   "scan": 238,
+   "line": 8,
+   "lines": [
+    [
+     238,
+     8
+    ],
+    [
+     238,
+     9
+    ],
+    [
+     238,
+     10
+    ],
+    [
+     238,
+     11
+    ]
+   ],
+   "level": 1,
+   "title": "Cap. XX. De equitibus, et in his differentia antiqua rei militaris ac nova, et qui numerus eorum in antiqua legione fuerit"
+  },
+  {
+   "scan": 250,
+   "line": 1,
+   "lines": [
+    [
+     250,
+     1
+    ],
+    [
+     250,
+     2
+    ],
+    [
+     250,
+     3
+    ],
+    [
+     250,
+     4
+    ],
+    [
+     250,
+     5
+    ]
+   ],
+   "level": 1,
+   "title": "Cap. XXI. Locus Polybii explicatus de diverso equitum numero in antiquiore et sui temporis legione, et de ratione legendi equitis in utraque re militari diversa"
+  }
+ ],
+ "book": "A single-work Latin scholarly treatise, Cl. Salmasii De re militari Romanorum liber (posthumous, 1657), built as a printer's title page, an editor's address to the reader, a preface, a dedication to Jacques-Auguste de Thou, and 21 numbered chapters (Cap. I to XXI) on the Roman legion, closing with FINIS.",
+ "series": [
+  {
+   "label": "Cap.",
+   "first": "I",
+   "last": "XXI",
+   "count": 21,
+   "level": 1,
+   "found": 24
+  }
+ ],
+ "taste": 50,
+ "doubt": "",
+ "input": 19845,
+ "output": 9213
+}
