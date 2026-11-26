@@ -1,0 +1,954 @@
+{
+ "work": "W07659_Vries_Exercitationes_rationales_de_Deo_1685",
+ "made": "2026-11-26T00:34:43",
+ "model": "claude-haiku-5-5",
+ "prompt": "655260ce46aa8978",
+ "candidates": 485,
+ "cost_usd": 0.02377,
+ "dropped": [],
+ "toc": [
+  {
+   "scan": 5,
+   "line": 0,
+   "lines": [
+    [
+     5,
+     0
+    ],
+    [
+     5,
+     0
+    ],
+    [
+     5,
+     0
+    ],
+    [
+     5,
+     0
+    ],
+    [
+     5,
+     0
+    ],
+    [
+     5,
+     0
+    ],
+    [
+     5,
+     0
+    ],
+    [
+     5,
+     0
+    ]
+   ],
+   "level": 1,
+   "title": "Exercitationes rationales de Deo, divinisque perfectionibus"
+  },
+  {
+   "scan": 7,
+   "line": 1,
+   "lines": [
+    [
+     7,
+     1
+    ],
+    [
+     7,
+     2
+    ],
+    [
+     7,
+     3
+    ],
+    [
+     7,
+     4
+    ],
+    [
+     7,
+     5
+    ],
+    [
+     7,
+     6
+    ],
+    [
+     7,
+     7
+    ],
+    [
+     7,
+     8
+    ],
+    [
+     7,
+     9
+    ],
+    [
+     7,
+     10
+    ],
+    [
+     7,
+     11
+    ],
+    [
+     7,
+     12
+    ],
+    [
+     10,
+     1
+    ],
+    [
+     10,
+     4
+    ],
+    [
+     10,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "Dedicatio"
+  },
+  {
+   "scan": 11,
+   "line": 2,
+   "lines": [
+    [
+     11,
+     2
+    ],
+    [
+     12,
+     1
+    ],
+    [
+     12,
+     2
+    ],
+    [
+     12,
+     3
+    ],
+    [
+     14,
+     1
+    ],
+    [
+     14,
+     2
+    ],
+    [
+     14,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Ad lectorem"
+  },
+  {
+   "scan": 16,
+   "line": 1,
+   "lines": [
+    [
+     16,
+     1
+    ],
+    [
+     16,
+     2
+    ],
+    [
+     16,
+     3
+    ],
+    [
+     16,
+     4
+    ],
+    [
+     16,
+     5
+    ],
+    [
+     16,
+     6
+    ],
+    [
+     16,
+     24
+    ]
+   ],
+   "level": 2,
+   "title": "Epos. In opus elegans Viri Clarissimi, D. M. Gerardi de Vries, Philosophiae in Academia Patria Doctoris & Professoris Ordinarii"
+  },
+  {
+   "scan": 17,
+   "line": 1,
+   "lines": [
+    [
+     17,
+     1
+    ],
+    [
+     17,
+     2
+    ],
+    [
+     17,
+     3
+    ],
+    [
+     17,
+     4
+    ],
+    [
+     17,
+     5
+    ],
+    [
+     17,
+     30
+    ]
+   ],
+   "level": 2,
+   "title": "In messem philosophicam. Clari Philosophi M. Gerardi de Vries, Prof. Publ. Epidorpidum ode"
+  },
+  {
+   "scan": 18,
+   "line": 1,
+   "lines": [
+    [
+     18,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Respondentium vicibus functi fuerunt in Exercitat. de Deo juvenes ornatissimi"
+  },
+  {
+   "scan": 19,
+   "line": 15,
+   "lines": [
+    [
+     19,
+     15
+    ]
+   ],
+   "level": 2,
+   "title": "Nomina respondentium. In exercitat. miscellan."
+  },
+  {
+   "scan": 21,
+   "line": 1,
+   "lines": [
+    [
+     21,
+     1
+    ],
+    [
+     21,
+     2
+    ],
+    [
+     21,
+     3
+    ],
+    [
+     21,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Exercitatio I. Praeliminaris, de Theologia naturali"
+  },
+  {
+   "scan": 27,
+   "line": 8,
+   "lines": [
+    [
+     27,
+     8
+    ],
+    [
+     27,
+     9
+    ],
+    [
+     27,
+     10
+    ],
+    [
+     27,
+     11
+    ]
+   ],
+   "level": 2,
+   "title": "Exercitatio II. De Dei existentia, ejusque per naturae lumen cognoscendae modis"
+  },
+  {
+   "scan": 42,
+   "line": 15,
+   "lines": [
+    [
+     42,
+     15
+    ],
+    [
+     42,
+     16
+    ],
+    [
+     42,
+     17
+    ]
+   ],
+   "level": 2,
+   "title": "Exercitatio III. De Atheismo speculativo"
+  },
+  {
+   "scan": 51,
+   "line": 1,
+   "lines": [
+    [
+     51,
+     1
+    ],
+    [
+     51,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Exercitatio IV. De Deo independente"
+  },
+  {
+   "scan": 61,
+   "line": 1,
+   "lines": [
+    [
+     61,
+     1
+    ],
+    [
+     61,
+     2
+    ],
+    [
+     61,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Exercitatio V. De Dei attributis, in communi"
+  },
+  {
+   "scan": 68,
+   "line": 1,
+   "lines": [
+    [
+     68,
+     1
+    ],
+    [
+     68,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Exercitatio VI. De Deo infinite perfecto"
+  },
+  {
+   "scan": 76,
+   "line": 19,
+   "lines": [
+    [
+     76,
+     19
+    ],
+    [
+     76,
+     20
+    ],
+    [
+     76,
+     21
+    ]
+   ],
+   "level": 2,
+   "title": "Exercitatio VII. De Deo necessario existente"
+  },
+  {
+   "scan": 81,
+   "line": 1,
+   "lines": [
+    [
+     81,
+     1
+    ],
+    [
+     81,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Exercitatio VIII. De Deo aeterno"
+  },
+  {
+   "scan": 88,
+   "line": 22,
+   "lines": [
+    [
+     88,
+     22
+    ],
+    [
+     88,
+     23
+    ]
+   ],
+   "level": 2,
+   "title": "Exercitatio IX. De Deo immenso"
+  },
+  {
+   "scan": 98,
+   "line": 1,
+   "lines": [
+    [
+     98,
+     1
+    ],
+    [
+     98,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Exercitatio X. De Deo uno"
+  },
+  {
+   "scan": 101,
+   "line": 13,
+   "lines": [
+    [
+     101,
+     13
+    ],
+    [
+     101,
+     14
+    ]
+   ],
+   "level": 2,
+   "title": "Exercitatio XI. De Deo simplici"
+  },
+  {
+   "scan": 106,
+   "line": 14,
+   "lines": [
+    [
+     106,
+     14
+    ],
+    [
+     106,
+     15
+    ]
+   ],
+   "level": 2,
+   "title": "Exercitatio XII. De Deo immutabili"
+  },
+  {
+   "scan": 110,
+   "line": 7,
+   "lines": [
+    [
+     110,
+     7
+    ],
+    [
+     110,
+     8
+    ]
+   ],
+   "level": 2,
+   "title": "Exercitatio XIII. De Deo omnisufficiente"
+  },
+  {
+   "scan": 114,
+   "line": 1,
+   "lines": [
+    [
+     114,
+     1
+    ],
+    [
+     114,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Exercitatio XIV. De Deo incomprehensibili"
+  },
+  {
+   "scan": 121,
+   "line": 1,
+   "lines": [
+    [
+     121,
+     1
+    ],
+    [
+     121,
+     2
+    ],
+    [
+     121,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Exercitatio XV. De Deo admirabili, et amabili"
+  },
+  {
+   "scan": 125,
+   "line": 1,
+   "lines": [
+    [
+     125,
+     1
+    ],
+    [
+     125,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Exercitatio XVI. De Deo adorabili"
+  },
+  {
+   "scan": 130,
+   "line": 1,
+   "lines": [
+    [
+     130,
+     1
+    ],
+    [
+     130,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Exercitatio XVII. De Deo vivente"
+  },
+  {
+   "scan": 133,
+   "line": 6,
+   "lines": [
+    [
+     133,
+     6
+    ],
+    [
+     133,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "Exercitatio XVIII. De Deo intelligente"
+  },
+  {
+   "scan": 151,
+   "line": 1,
+   "lines": [
+    [
+     151,
+     1
+    ],
+    [
+     151,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Exercitatio XIX. De Deo volente"
+  },
+  {
+   "scan": 168,
+   "line": 13,
+   "lines": [
+    [
+     168,
+     13
+    ],
+    [
+     168,
+     14
+    ]
+   ],
+   "level": 2,
+   "title": "Exercitatio XX. De Deo sancto"
+  },
+  {
+   "scan": 177,
+   "line": 1,
+   "lines": [
+    [
+     177,
+     1
+    ],
+    [
+     177,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Exercitatio XXI. De Deo potente"
+  },
+  {
+   "scan": 187,
+   "line": 18,
+   "lines": [
+    [
+     187,
+     18
+    ],
+    [
+     187,
+     19
+    ],
+    [
+     187,
+     20
+    ]
+   ],
+   "level": 2,
+   "title": "Exercitatio XXII. De Dei majestate et beatitudine"
+  },
+  {
+   "scan": 194,
+   "line": 0,
+   "lines": [
+    [
+     194,
+     0
+    ]
+   ],
+   "level": 2,
+   "title": "Exercitatio XXIII. De Deo creante"
+  },
+  {
+   "scan": 216,
+   "line": 9,
+   "lines": [
+    [
+     216,
+     9
+    ],
+    [
+     216,
+     10
+    ],
+    [
+     216,
+     11
+    ],
+    [
+     216,
+     12
+    ]
+   ],
+   "level": 2,
+   "title": "Exercitatio XXIV. De Deo providente per conservationem"
+  },
+  {
+   "scan": 224,
+   "line": 11,
+   "lines": [
+    [
+     224,
+     11
+    ],
+    [
+     224,
+     12
+    ],
+    [
+     224,
+     13
+    ],
+    [
+     224,
+     14
+    ],
+    [
+     224,
+     15
+    ]
+   ],
+   "level": 2,
+   "title": "Exercitatio XXV. De Deo providente per gubernationem"
+  },
+  {
+   "scan": 254,
+   "line": 11,
+   "lines": [
+    [
+     254,
+     11
+    ],
+    [
+     254,
+     12
+    ]
+   ],
+   "level": 2,
+   "title": "Exercitatio philosophica de lege naturae"
+  },
+  {
+   "scan": 265,
+   "line": 0,
+   "lines": [
+    [
+     265,
+     0
+    ],
+    [
+     265,
+     0
+    ],
+    [
+     265,
+     0
+    ],
+    [
+     265,
+     0
+    ]
+   ],
+   "level": 1,
+   "title": "Gerardi de Vries Philosophemata miscellanea, sive Dissertationes"
+  },
+  {
+   "scan": 267,
+   "line": 1,
+   "lines": [
+    [
+     267,
+     1
+    ],
+    [
+     267,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Dissertatio de Infinito"
+  },
+  {
+   "scan": 267,
+   "line": 3,
+   "lines": [
+    [
+     267,
+     3
+    ],
+    [
+     267,
+     4
+    ],
+    [
+     267,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Sectio prior. Quae est de conceptu infiniti"
+  },
+  {
+   "scan": 285,
+   "line": 1,
+   "lines": [
+    [
+     285,
+     1
+    ],
+    [
+     285,
+     2
+    ],
+    [
+     285,
+     3
+    ],
+    [
+     285,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Sectio posterior. Quae est de extensione infinita"
+  },
+  {
+   "scan": 319,
+   "line": 1,
+   "lines": [
+    [
+     319,
+     1
+    ],
+    [
+     319,
+     2
+    ],
+    [
+     319,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Disquisitio de nullibitate spirituum"
+  },
+  {
+   "scan": 339,
+   "line": 6,
+   "lines": [
+    [
+     339,
+     6
+    ],
+    [
+     339,
+     7
+    ],
+    [
+     339,
+     8
+    ]
+   ],
+   "level": 2,
+   "title": "Exercitatio de homine automatico"
+  },
+  {
+   "scan": 354,
+   "line": 11,
+   "lines": [
+    [
+     354,
+     11
+    ],
+    [
+     354,
+     12
+    ],
+    [
+     354,
+     13
+    ]
+   ],
+   "level": 2,
+   "title": "Disquisitio de contradictoriis Deo possibilibus"
+  },
+  {
+   "scan": 378,
+   "line": 1,
+   "lines": [
+    [
+     378,
+     1
+    ],
+    [
+     378,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Dissertatio de sensuum usu in philosophando"
+  },
+  {
+   "scan": 419,
+   "line": 10,
+   "lines": [
+    [
+     419,
+     10
+    ],
+    [
+     419,
+     11
+    ],
+    [
+     419,
+     12
+    ],
+    [
+     419,
+     13
+    ],
+    [
+     419,
+     14
+    ]
+   ],
+   "level": 2,
+   "title": "Exercitatio expendens consectaria ideae, qua absolvitur mens humana sola cogitatione"
+  },
+  {
+   "scan": 440,
+   "line": 1,
+   "lines": [
+    [
+     440,
+     1
+    ],
+    [
+     440,
+     2
+    ],
+    [
+     440,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Exercitatio de operationibus brutorum"
+  }
+ ],
+ "book": "Gerardus de Vries, Exercitationes rationales de Deo, divinisque perfectionibus (Trajecti 1685): a volume of two works, the Exercitationes on God (front matter, 25 numbered exercitationes, one unnumbered philosophical exercitation on natural law) and the Philosophemata miscellanea, sive Dissertationes (seven dissertations, two of them in sections), followed by indexes.",
+ "series": [
+  {
+   "label": "Exercitatio",
+   "first": "I",
+   "last": "XXV",
+   "count": 25,
+   "level": 2,
+   "found": 39
+  },
+  {
+   "label": "Dissertatio",
+   "first": "De Infinito",
+   "last": "De Operationibus brutorum",
+   "count": 7,
+   "level": 2,
+   "found": 39
+  },
+  {
+   "label": "Sectio",
+   "first": "prior",
+   "last": "posterior",
+   "count": 2,
+   "level": 3,
+   "found": 2
+  }
+ ],
+ "taste": 50,
+ "doubt": "",
+ "input": 66739,
+ "output": 21429
+}
