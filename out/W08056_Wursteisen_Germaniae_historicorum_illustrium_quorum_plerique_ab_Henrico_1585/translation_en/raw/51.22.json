@@ -1,0 +1,44 @@
+{
+  "units": [
+    "51.22",
+    "51.31",
+    "51.34",
+    "51.43",
+    "51.48",
+    "52.2",
+    "52.7",
+    "52.13",
+    "52.19",
+    "52.23",
+    "52.35",
+    "52.37",
+    "52.42",
+    "52.45",
+    "52.47",
+    "53.3",
+    "53.6",
+    "53.13"
+  ],
+  "model": "claude-haiku-5-5",
+  "prompt_sha256": "28cc5cc8edeba4ce",
+  "stop_reason": "end_turn",
+  "batch": true,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 1788,
+    "inference_geo": "global",
+    "input_tokens": 3998,
+    "output_tokens": 6460,
+    "output_tokens_details": {
+      "thinking_tokens": 3543
+    },
+    "server_tool_use": null,
+    "service_tier": "batch",
+    "speed": "standard"
+  },
+  "cost_usd": 0.00182
+}
