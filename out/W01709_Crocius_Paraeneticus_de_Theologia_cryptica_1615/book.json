@@ -1235,13 +1235,36 @@
   },
   {
    "n": 31,
-   "type": "missing",
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "number": "29",
+   "running_head": "Theol. Crypt.",
    "warnings": [
     {
-     "type": "missing_page",
-     "text": "page 31 was not transcribed: invalid XML: not well-formed (invalid token): line 10, column 1296"
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: modi"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
     }
-   ]
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "CAP. II.",
+     "heading": 1,
+     "caput": "2",
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "Omnia quidem Dei praecepta sunt seria & vera: at quis ea nos Deo prorsus invito ac transgressionem non permittente aut impedire non valente transgredi dixerit? Ita igitur Deus sine mendacio & hypocrisi in verbo suo significat se velle, quod tamen aliter evenire posse, nonnunquam etiam evenire sciat & quo dictum est modo ut eveniret permittere velit: velit, in quam, non voluntate approbante ac jubente, sed permittente, quae jubenti non est contraria. Ita etiam deveneranda sunt nobis d'icta Deut. 32. v. 4. <i>Rupis illius opus perfectum: omnes enim viae illius sunt jus. Deus fortis fidelis, & expers iniquitatis, justus & rectus est.</i> Psal. 11. vel potius 11. vers. 3. & 4. si illa verba in psalmorum numeratione, quam a te allegatam video: <i>Vana loquuntur sunt unusquisque ad proximum suum labia dolosa, in corde & corde loquuntur.</i> Disperdat Dominus universa labia dolosa. Jof. 24. v. 14. <i>Servite Jehovae perfecte & vere.</i> 1. Reg. 2. 4. <i>Ambula coram me in omni veritate, in omni corde tuo & in omni anima tua:</i> velut melior habet versio: <i>Si observaveris filii tui viam suam, ambulando coram me in fide: ex toto corde suo & ex toto animo suo &c.</i> Haec & similia, quibus veritatis studium Deus commendat, cujus",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "catchword": "modi"
   },
   {
    "n": 32,

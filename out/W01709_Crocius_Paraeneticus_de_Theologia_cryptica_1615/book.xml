@@ -497,8 +497,21 @@
     </main_text>
     <notes>Marginal reference marks at the right edge are partly illegible; the word "Omnia" at the foot is the catchword-like line and is kept as printed. Several words in the marginal reference line are uncertain and marked by the surrounding transcription.</notes>
   </page>
-  <page type="missing" n="31">
-    <warning type="missing_page">page 31 was not transcribed: invalid XML: not well-formed (invalid token): line 10, column 1296</warning>
+  <page type="text" lines="none" n="31" model="claude-haiku-5-5">
+    <warning type="catchword_in_text">catchword taken out of the main text: modi</warning>
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One printed page, single column of running text. Running head across top: "CAP. II." at left, "Theol. Crypt." centred-right; page number "29" at top right. Body is one column of text, with no margin notes. A few marginal Scripture references appear inline within the text block.</layout>
+    <page_number>29</page_number>
+    <running_head>Theol. Crypt.</running_head>
+    <bottom_margin>
+      <catchword>modi</catchword>
+      <signature />
+    </bottom_margin>
+    <main_text>
+      <l n="1" type="heading" level="1" caput="2" para="true">CAP. II.</l>
+      <l n="2" para="true">Omnia quidem Dei praecepta sunt seria &amp; vera: at quis ea nos Deo prorsus invito ac transgressionem non permittente aut impedire non valente transgredi dixerit? Ita igitur Deus sine mendacio &amp; hypocrisi in verbo suo significat se velle, quod tamen aliter evenire posse, nonnunquam etiam evenire sciat &amp; quo dictum est modo ut eveniret permittere velit: velit, in quam, non voluntate approbante ac jubente, sed permittente, quae jubenti non est contraria. Ita etiam deveneranda sunt nobis d'icta Deut. 32. v. 4. <i>Rupis illius opus perfectum: omnes enim viae illius sunt jus. Deus fortis fidelis, &amp; expers iniquitatis, justus &amp; rectus est.</i> Psal. 11. vel potius 11. vers. 3. &amp; 4. si illa verba in psalmorum numeratione, quam a te allegatam video: <i>Vana loquuntur sunt unusquisque ad proximum suum labia dolosa, in corde &amp; corde loquuntur.</i> Disperdat Dominus universa labia dolosa. Jof. 24. v. 14. <i>Servite Jehovae perfecte &amp; vere.</i> 1. Reg. 2. 4. <i>Ambula coram me in omni veritate, in omni corde tuo &amp; in omni anima tua:</i> velut melior habet versio: <i>Si observaveris filii tui viam suam, ambulando coram me in fide: ex toto corde suo &amp; ex toto animo suo &amp;c.</i> Haec &amp; similia, quibus veritatis studium Deus commendat, cujus </l>
+    </main_text>
+    <notes />
   </page>
   <page type="text" lines="none" n="32" model="claude-haiku-5-5">
     <warning type="doubtful">"..." in the text: a passage was skipped or a remark written as print</warning>
