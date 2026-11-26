@@ -66882,13 +66882,145 @@
   },
   {
    "n": 645,
-   "type": "missing",
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "number": "624",
+   "running_head": "ARISTOTELIS / DE PARTIBUS ANIMALIUM",
    "warnings": [
     {
-     "type": "missing_page",
-     "text": "page 645 was not transcribed: invalid XML: not well-formed (invalid token): line 10, column 186"
+     "type": "incomplete",
+     "text": "4 lines hold only a marker: a block was given up"
+    },
+    {
+     "type": "merged_lines",
+     "text": "3 line(s) contain several printed lines merged together (longest 2680 chars, median 24); line numbering is unreliable"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
     }
-   ]
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "ΑΡΙΣΤΟΤΕΛΟΥΣ ΠΕΡΙ ΖΩΩΝ ΜΟΡΙΩΝ Τ' Δ.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "Κεφάλαιον α.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "[illegible, ~40 letters] ΟΝ αὐτὸν δὲ ἱερπὸν ἔχει τὰ ἀεὶ τὰ ἀπλάγχνα καὶ τὰ ἐν τοῖς κοιλίαις, καὶ τὰ εἰρηκότα μορίων ἐχόντων τοῖς τετράπο̄σι μὲν, ὡστόκοις δὲ τῆς ζῴων, καὶ τοῖς ἀποσιν, οἷον τοῖς ὄφεσι.",
+     "heading": 0,
+     "para": true,
+     "merged": true
+    },
+    {
+     "n": 4,
+     "text": "[illegible, ~60 letters]",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "Κεφάλαιον γ.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "[illegible, ~120 letters]",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "[illegible, ~90 letters]",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 8,
+     "text": "[illegible, ~30 letters]",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 9,
+     "text": "ARISTOTELIS STAGIRITÆ DE PARTIBVS ANIMALIVM ET EARVM CAVSIS, LIBER QVARTVS.",
+     "heading": 1,
+     "para": true
+    },
+    {
+     "n": 10,
+     "text": "CAPVT I.",
+     "heading": 1,
+     "caput": "1",
+     "para": true
+    },
+    {
+     "n": 11,
+     "text": "<i>Viscera, & ventrem, cateraque superius exposita, in quadrupedibus cuiparis, & iis, quæ pedibus carent, eadem modo habent, at in nonnullis aliis differre.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 12,
+     "text": "VIsceRA, venter, & reliquæ, quas exposuimus, partes, modo eodem in quadrupedibus oniparis, & in iis, quæ pedibus carent, vt serpentibus, habentur. Natura enim serpentum cognata iis est, quippe quæ similis sit lacertæ prælonge, ac expediti. His vero, & piscibus omnia similia sunt, nisi quòd pulmo serpentibus datus est, quoniam terra vtantur: pisces eo carent, & branchias vice pulmonis sortiuntur. Vesica nec piscibus, neque eorum vlli, quæ modò dixi, adiuncta est, nisi testudini. Humor enim iis in corticem tegentem, vt avibus in pennas, absumitur, cùm exiguo potu contenta sint, propter exanguem pulmonis naturam. Et quidem excrementum alui iis quoque omnibus albicat, quemadmodum avibus. Itaque iis, quæ vesicam habent, exempta vrina, salsugo quædam terrena in vasis subsidet. Quantum enim dulce, & potulētum sit, in carnem præ sua leuitate absumitur. Viperæ inter serpentes eadem à cæteris sui generis differētia discrepant, qua inter pisces cartilaginea à cæteris sui generis. Nā & cartilaginea, & viperæ, animal edunt in lucem, vbi primùm intra se oua pepererint. Ventres singulos hæc quoque omnia habent, vt cætera, quæ vtrinque dentata sunt: lienem etiam admodum parvum, vt cætera, quæ carent vesica. Serpentes propter corporis formam, quæ longa est, & angusta, speciem quoque viscerum habent prolixam, & cæteris animalibus dissimilem, vt quam ad sui corporis opificium, quasi formulam effigiatam sortiantur. Omentum, lactes, & intestinorum naturam, atque etiam septum, & cor omnia animalia sanguine prædita obtinent. Pulmonem, atque arteriam omnia, præter pisces. Situm etiam arteriæ, gulæque, omnia, quibus hæc data sunt, similem tenent, propter causas supra dictas.",
+     "heading": 0,
+     "para": true,
+     "merged": true
+    },
+    {
+     "n": 13,
+     "text": "CAPVT II.",
+     "heading": 1,
+     "caput": "2",
+     "para": true
+    },
+    {
+     "n": 14,
+     "text": "<i>Quam ob causam animalium alia fel habeant, alia non.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 15,
+     "text": "FEl etiam habet maior pars animalium, quibus sanguis: idque aut in iecore, aut intestinis sepositum, vt quod suam naturam non minus aluo familiarem habeat. Hoc ita esse maximè in piscibus constat. Cùm enim pisces fel habeant omnes, tum magna ex parte suis intestinis annexum continent: nonnulli etiam toto intestino prætextum, vt amia. Necnon serpentum pars maxima eodem modo habere cernitur. Quam obrem qui fellis naturam sensus alicuius gratia esse opinantur, non recte sentiunt. Volunt enim ideo fel adesse, vt partem animæ sitam in iecore mordendo excitet, lacxando exhilaret. Quædam felle omnino carent, vt equus, mulus, asinus, ceruus, duma. Camelus non discretum, sed venulis quibusdam confusum habet. Vitulus etiam marinus caret, & inter pisces marinos delphinus. Sunt & quæ partim habeant, partim non habeant eodem in genere, vt mures: quod idem homini etiam accidit. Aliqui enim fel in iecore habere visuntur, aliqui carent: itaque de toto genere ambigitur. Qui enim alterutrū compererint, idem omnibus tribuunt, quasi omnes eodem habeant modo, quo aliqui. Hoc idem ouibus etiam, caprisque euenit: pars enim earum maxima habet fel: & quidem terris quibusdam adeò largè, vt exuperantia prodigii loco habeatur, vt in Naxo: sed aliis quibusdam locis omnino careat, vt apud Chalcidē Euboicam, parte quadam agri. Adhæc, piscium fel (vt dictum est) longè remotum à iecore est. Anaxagoras errore opinari videtur, fel esse morborum causam acutorum: cùm enim abundat, aspergi in pulmonem, & venas, & costas asseuerat. Iis nanque ferè accidunt ea vitia animalibus, quæ felle carent, differētis etiam id pateret, si ita esset. Adhæc, copia humoris, quæ per abscessus decumbit, conferri non poterit cum eo, quod ex fellis cōceptaculo aspergatur. Sed enim vt bilis, quæ qualibet alia corporis parte gignitur, excrementum quoddam, liquamentúmque est: sic fel iecori adiunctum, non rei cuiquam delegatum, sed excrementū esse videtur, quomodo & alui, intestinorum quæ sedimen. Attamen natura commodè vel excrementis suis interdum abutitur: sed non propterea quærere omnia alicuius causa debemus. Cùm enim aliqua eiusmodi sint, fit, vt alia complura necessariò causa eorum proueniant. Quibus igitur iecoris constitutio salubris est, & sanguinis natura, quæ iecur subeat, dulcis accedit, hæc aut nullum fel suo in iecore habent, aut venulis quibusdam inclusum continent, aut partim habent, partim non habent. Quam ob rem iecinora eorum, quæ felle vacant, dulcia sunt, probèque colorata, propè dixerim, omnium. Particula etiam iecoris, quæ felli subdita est, dulcissima est. At verò quæ sanguine miris, quæ felli subdita est, dulcissima est. At verò quæ sanguine vult, & amarum fel nasci, <i>nus puro consistunt, hæc excrementum id, quod fel appellamus, semouent: excrementum enim contrarium alimento esse vult, & ama-</i>",
+     "heading": 0,
+     "para": true,
+     "merged": true
+    }
+   ],
+   "marginalia": [
+    {
+     "side": "left",
+     "at": "[illegible, ~40 letters]",
+     "line_from": 3,
+     "line_to": 3,
+     "text": "Histor. lib.2. c.17."
+    },
+    {
+     "side": "left",
+     "at": "[illegible, ~60 letters]",
+     "line_from": 4,
+     "line_to": 4,
+     "text": "Ἀπολογία"
+    },
+    {
+     "side": "left",
+     "at": "[illegible, ~90 letters]",
+     "line_from": 7,
+     "line_to": 7,
+     "text": "Histor. anim. lib.1.c.17."
+    }
+   ],
+   "notes": "Greek text of the left column is largely illegible at this scan resolution; only the headings and note labels were read with confidence, and the body lines are marked illegible rather than guessed. Right-column Latin is read from the scan; some words near the outer edge and the bottom are doubtful. Reference letters B, C, D, E, F, G stand between the columns and belong to the text lines beside them. Page is a double spread partly shown; the right-hand page is the Latin column."
   },
   {
    "n": 646,
@@ -68460,13 +68592,122 @@
   },
   {
    "n": 663,
-   "type": "missing",
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "number": "642",
+   "running_head": "ARISTOTELIS",
    "warnings": [
     {
-     "type": "missing_page",
-     "text": "page 663 was not transcribed: invalid XML: not well-formed (invalid token): line 9, column 29"
+     "type": "incomplete",
+     "text": "4 lines hold only a marker: a block was given up"
+    },
+    {
+     "type": "merged_lines",
+     "text": "3 line(s) contain several printed lines merged together (longest 2166 chars, median 25); line numbering is unreliable"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
     }
-   ]
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "[illegible, ~60 letters]",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "[illegible, ~400 letters]",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "Κεφάλαιον γ.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "Τῶν περὶ τοὺς ὄρχεις ἢ τὰς ὑστέρας διαφορᾶς.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "[illegible, ~500 letters]",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "Κεφάλαιον δ.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "Τίνος ἕνεκέν ἐστιν ἡ τῶν ὀρχέων σύστασις.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 8,
+     "text": "[illegible, ~900 letters]",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 9,
+     "text": "CAPUT III.",
+     "heading": 1,
+     "caput": "3",
+     "para": true
+    },
+    {
+     "n": 10,
+     "text": "Genitalia membra non eadem omnibus esse animalibus.",
+     "heading": 3,
+     "para": true
+    },
+    {
+     "n": 11,
+     "text": "Testes, & vteri, aut vulua, non pari ratione in omnibus sanguine preditis animalibus sunt. Iam enim, vt primum de testibus dicam, alia omnino testibus carent in eo genere, vt pisces, vt serpetes, meatúsque tantum geminos semini genitali prescriptos obtinent: alia habent quidem testes, sed intus lumbis adherentes, qua renes continentur, meatúsque ab eorum vtroque foras tendunt, vt in iis, quæ testibus carent, qui in idem coniungantur, quomodo in illis constitutum est. Ita aues omnes habent, & quadrupedes, quæ oua pariunt, inter eas, quæ aerem accipiùt, pulmonem que obtinent: his enim omnibus testes lumbis intus adhærent, meatúsque gemini ab his similiter, atque serpentibus tendunt: vt lacerto, testudini, atque omnibus cortice intectis. Quæ autem animal gignunt, omnia testes in aduerso habent, sed nonnulla intus vltima conditos aluo, vt delphinus: nec meatus, sed penem pertendentem habet, vt boues. Alia foris gerunt, quorum alia pendentes, vt homines: alia annexos ad sedem sessiles, vt sues. Sed de his diligentiùs distinctum est in libris, quos de historia animalium scripsimus. Vteri omnium bipartiti sunt, vt testes gemini omnibus maribus habentur: sed aliis iuxta genitale, vt mulieribus, & omnibus, quæ animal non solùm foras, sed etiã intra se generant, & piscibus, qui oua edunt: aliis iuxta leptum transfuerium, siue cinctu, vt auibus omnibus, & piscibus qui animal pariunt. Crustatis etiã vulvæ bifidæ sunt, atque etiam mollibus. Quæ enim oua eorum vocitur, pro vulua habent mebranas, quibus continentur. Sed hoc maximè indiscretum est in polypis, vt sim plex esse videatur. Cuius rei causa est, forma corporis, quæ similis vndique est. Infectis etiã, quibus aliquid magnitudinis, bifidæ sunt: minoribus incertæ, propter corporis exiguitatem. Partes, quas explicandas proposui, ita se habent.",
+     "heading": 0,
+     "para": true,
+     "merged": true
+    },
+    {
+     "n": 12,
+     "text": "CAPUT IIII.",
+     "heading": 1,
+     "caput": "4",
+     "para": true
+    },
+    {
+     "n": 13,
+     "text": "Quam ob causam natura testiculos animalibus indidit: quæ item animalia actiu, & quæ tardius coeant: & quod tamen cum statim à castratione missi, impleuerit.",
+     "heading": 3,
+     "para": true,
+     "merged": true
+    },
+    {
+     "n": 14,
+     "text": "DE differentia instrumentorum genitalium, quæ in maribus sunt, qui, quas ob causas sint, consideret, accipiat primùm necesse est, cuiusnam rei gratia testium constitutio habeatur. Ergo si natura rem quancunque facit, aut quia necessaria est, aut quia melius ita est, hoc etiã membrum id esse ad generationem patet. Omnibus enim, quæ generant, adiunctù esset, si necessitatis ratio haberetur. Nunc verò nec serpentibus testes sunt, neque piscibus. Visi sunt enim coire, plenóque feminis genitalis habere suos meatus. Restat igitur vt melioris cuiuspiam notæ gratia testes habeantur. Sed enim maximè animalium parti munus nullum fere aliud est, nisi quod plantarum semen, & fructus. Vtque in ratione sibi voraciora, auidioráque sunt, quibus intestinú rectum: sic ea, quæ testibus carent, meatúsque tantum habent, aut non carent, sed intus habent, omnia propesiora, celeriorâque ad Venerem sunt. At verò quæ castiora esse conuenit, iis vt in cibi vsu intestino opus est non recto, sic meatus illi reuolutione, anfractúsque habent, ne libido vehemens crebráque citetur. Testes autem ad hanc rem emolita natura est. Motum enim excrementi genitalis stabiliorem faciunt in viuiparis, vt equis, ceteris, que eiusmodi, atque etiam hominibus, cum replicationem ferunt. Sed quemadmodum se habeant, petendũ ex animalium historiis est. Nullam enim partè meatuum testes complent, sed adiecti pendent eo modo, quo pondera textrices telis annectunt. His enim detractis meatus intrò se retrahunt. Quo fit, ne exécta possint generare: nam nisi ita retraherentur, possent generare. Et iam taurus quidam, cum statim à castratione immisset, impleuit, quoniam nondum retracti essent meatus. Auium verò, & quadrupedum oui parorum testes excrementum recipiunt genitale. Itaque tardiùs iis, quàm piscibus, semen prodit. Patet hoc in auium genere, cũ tempore coitus testes multò habeant grandiores, quæ certo tempore coeant. At vbi id tempus præterierit, adeò exiguos habent, vt incertum fere, an habeant, sit, cum tamen eo tempore, quo coeunt, gerant prægrandes. Celeriùs itaq. ea coeunt, quæ testes intra se continent: quæ enim extrà habent, non prius semen emittunt, quàm retrahant testes.",
+     "heading": 0,
+     "para": true,
+     "merged": true
+    },
+    {
+     "n": 15,
+     "text": "{A} minæ est, quibus hæc sexus contrarietas data est.",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "notes": "Greek column largely illegible at this scan resolution; the Greek passages are marked by approximate length. Left margin notes: \"De partibus animal. lib.j.c.14.\" (beside section F), \"Inf. lib.5 cap.7 Quidam\" and \"Hist. lib.j.c.1.\" (beside lines of section G). Centre column section letters A to G are reference marks. Running head right of the page is show-through and is left out. Some Latin words in the right column were read with [?] where uncertain."
   },
   {
    "n": 664,
