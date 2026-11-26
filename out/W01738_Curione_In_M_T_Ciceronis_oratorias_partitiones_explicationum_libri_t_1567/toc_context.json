@@ -1,0 +1,901 @@
+{
+ "work": "W01738_Curione_In_M_T_Ciceronis_oratorias_partitiones_explicationum_libri_t_1567",
+ "made": "2026-11-26T01:43:50",
+ "model": "claude-haiku-5-5",
+ "prompt": "655260ce46aa8978",
+ "candidates": 230,
+ "cost_usd": 0.02471,
+ "dropped": [
+  "title 'Cælij Secundi Curionis, in M.T. Ciceronis oratorias partitiones, explicationum libri tres.' is not in 'HIS ACCESSERE, BASILEAE, PER IO-': to the scan",
+  "no scans for 3 wanted"
+ ],
+ "toc": [
+  {
+   "scan": 3,
+   "line": 1,
+   "lines": [
+    [
+     3,
+     1
+    ],
+    [
+     3,
+     2
+    ],
+    [
+     3,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     3,
+     5
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "Epistola. Caelius Secundus Curio illustri ac magnifico D.D. Stanislao Tencinio, Comiti, Palatino Cracouiensi et Lublinensi, Belsensi, Vededouiensique Praefecto, eiusque generoso filio Ioanni, S.P.D."
+  },
+  {
+   "scan": 5,
+   "line": 0,
+   "lines": [
+    [
+     5,
+     0
+    ]
+   ],
+   "level": 2,
+   "title": "Nuncupatoria."
+  },
+  {
+   "scan": 17,
+   "line": 1,
+   "lines": [
+    [
+     17,
+     1
+    ],
+    [
+     17,
+     2
+    ],
+    [
+     17,
+     3
+    ],
+    [
+     17,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Liber primus. Caelii S.C. in M.T. Ciceronis partitiones oratorias explicationum."
+  },
+  {
+   "scan": 17,
+   "line": 5,
+   "lines": [
+    [
+     17,
+     5
+    ],
+    [
+     17,
+     6
+    ],
+    [
+     17,
+     7
+    ]
+   ],
+   "level": 3,
+   "title": "Inscriptionis explicatio: id est, cur Partitiones appellatae, & de methodo pauca."
+  },
+  {
+   "scan": 20,
+   "line": 1,
+   "lines": [
+    [
+     20,
+     1
+    ],
+    [
+     20,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Partitionum exordium."
+  },
+  {
+   "scan": 28,
+   "line": 6,
+   "lines": [
+    [
+     28,
+     6
+    ],
+    [
+     28,
+     7
+    ]
+   ],
+   "level": 3,
+   "title": "Summa et prima Rhetoricae partitio."
+  },
+  {
+   "scan": 55,
+   "line": 16,
+   "lines": [
+    [
+     55,
+     16
+    ]
+   ],
+   "level": 3,
+   "title": "De inuentione."
+  },
+  {
+   "scan": 92,
+   "line": 6,
+   "lines": [
+    [
+     92,
+     6
+    ],
+    [
+     92,
+     7
+    ]
+   ],
+   "level": 3,
+   "title": "De collocatione, seu dispositione."
+  },
+  {
+   "scan": 128,
+   "line": 18,
+   "lines": [
+    [
+     128,
+     18
+    ]
+   ],
+   "level": 3,
+   "title": "De elocutione."
+  },
+  {
+   "scan": 158,
+   "line": 2,
+   "lines": [
+    [
+     158,
+     2
+    ],
+    [
+     158,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "De generibus dicendi."
+  },
+  {
+   "scan": 189,
+   "line": 16,
+   "lines": [
+    [
+     189,
+     16
+    ]
+   ],
+   "level": 3,
+   "title": "De actione."
+  },
+  {
+   "scan": 191,
+   "line": 21,
+   "lines": [
+    [
+     191,
+     21
+    ]
+   ],
+   "level": 3,
+   "title": "De memoria."
+  },
+  {
+   "scan": 194,
+   "line": 18,
+   "lines": [
+    [
+     194,
+     18
+    ],
+    [
+     194,
+     19
+    ]
+   ],
+   "level": 2,
+   "title": "Liber secundus. Explicationum oratoriarum."
+  },
+  {
+   "scan": 194,
+   "line": 20,
+   "lines": [
+    [
+     194,
+     20
+    ]
+   ],
+   "level": 3,
+   "title": "De oratione."
+  },
+  {
+   "scan": 196,
+   "line": 23,
+   "lines": [
+    [
+     196,
+     23
+    ]
+   ],
+   "level": 3,
+   "title": "De exordiis."
+  },
+  {
+   "scan": 206,
+   "line": 18,
+   "lines": [
+    [
+     206,
+     18
+    ]
+   ],
+   "level": 3,
+   "title": "De narratione."
+  },
+  {
+   "scan": 214,
+   "line": 16,
+   "lines": [
+    [
+     214,
+     16
+    ]
+   ],
+   "level": 3,
+   "title": "De confirmatione."
+  },
+  {
+   "scan": 216,
+   "line": 14,
+   "lines": [
+    [
+     216,
+     14
+    ],
+    [
+     216,
+     15
+    ]
+   ],
+   "level": 3,
+   "title": "De coniecturae locis."
+  },
+  {
+   "scan": 218,
+   "line": 23,
+   "lines": [
+    [
+     218,
+     23
+    ],
+    [
+     218,
+     24
+    ]
+   ],
+   "level": 3,
+   "title": "Verisimilium inuentio & partitio."
+  },
+  {
+   "scan": 236,
+   "line": 3,
+   "lines": [
+    [
+     236,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "De locis definitiui status."
+  },
+  {
+   "scan": 239,
+   "line": 4,
+   "lines": [
+    [
+     239,
+     4
+    ],
+    [
+     239,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "De qualitatis locis."
+  },
+  {
+   "scan": 243,
+   "line": 1,
+   "lines": [
+    [
+     243,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "De refutatione."
+  },
+  {
+   "scan": 247,
+   "line": 6,
+   "lines": [
+    [
+     247,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "De argumentatione."
+  },
+  {
+   "scan": 259,
+   "line": 3,
+   "lines": [
+    [
+     259,
+     3
+    ],
+    [
+     259,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "De assumptorum locorum tractatione."
+  },
+  {
+   "scan": 266,
+   "line": 18,
+   "lines": [
+    [
+     266,
+     18
+    ],
+    [
+     266,
+     19
+    ]
+   ],
+   "level": 3,
+   "title": "De peroratione, in qua primum de amplificatione agit."
+  },
+  {
+   "scan": 287,
+   "line": 20,
+   "lines": [
+    [
+     287,
+     20
+    ],
+    [
+     287,
+     21
+    ]
+   ],
+   "level": 3,
+   "title": "De enumeratione, altera perorationis parte."
+  },
+  {
+   "scan": 292,
+   "line": 1,
+   "lines": [
+    [
+     292,
+     1
+    ],
+    [
+     292,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Liber tertius. Explicationum oratoriarum."
+  },
+  {
+   "scan": 292,
+   "line": 3,
+   "lines": [
+    [
+     292,
+     3
+    ],
+    [
+     292,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "De quaestione, eiusque partibus."
+  },
+  {
+   "scan": 295,
+   "line": 21,
+   "lines": [
+    [
+     295,
+     21
+    ],
+    [
+     295,
+     22
+    ],
+    [
+     295,
+     23
+    ]
+   ],
+   "level": 3,
+   "title": "De proposito, sive consultatione, sive infinita quaestione."
+  },
+  {
+   "scan": 311,
+   "line": 5,
+   "lines": [
+    [
+     311,
+     5
+    ],
+    [
+     311,
+     6
+    ],
+    [
+     311,
+     7
+    ]
+   ],
+   "level": 3,
+   "title": "De quaestione definita, sive de generibus causarum."
+  },
+  {
+   "scan": 312,
+   "line": 14,
+   "lines": [
+    [
+     312,
+     14
+    ],
+    [
+     312,
+     15
+    ]
+   ],
+   "level": 3,
+   "title": "De genere demonstrativo."
+  },
+  {
+   "scan": 325,
+   "line": 14,
+   "lines": [
+    [
+     325,
+     14
+    ],
+    [
+     325,
+     15
+    ]
+   ],
+   "level": 3,
+   "title": "Virtutum et vitiorum distributio."
+  },
+  {
+   "scan": 335,
+   "line": 37,
+   "lines": [
+    [
+     335,
+     37
+    ]
+   ],
+   "level": 3,
+   "title": "De artibus liberalibus."
+  },
+  {
+   "scan": 342,
+   "line": 15,
+   "lines": [
+    [
+     342,
+     15
+    ],
+    [
+     342,
+     16
+    ]
+   ],
+   "level": 3,
+   "title": "De vitiis, virtutibus oppositis."
+  },
+  {
+   "scan": 349,
+   "line": 1,
+   "lines": [
+    [
+     349,
+     1
+    ],
+    [
+     349,
+     2
+    ],
+    [
+     349,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "In M.T. Ciceronis de genere deliberativo."
+  },
+  {
+   "scan": 354,
+   "line": 13,
+   "lines": [
+    [
+     354,
+     13
+    ],
+    [
+     354,
+     14
+    ]
+   ],
+   "level": 3,
+   "title": "Rerum utilium, bonarumque diuisio."
+  },
+  {
+   "scan": 372,
+   "line": 21,
+   "lines": [
+    [
+     372,
+     21
+    ]
+   ],
+   "level": 3,
+   "title": "De causis."
+  },
+  {
+   "scan": 385,
+   "line": 1,
+   "lines": [
+    [
+     385,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "De genere iudiciali."
+  },
+  {
+   "scan": 394,
+   "line": 26,
+   "lines": [
+    [
+     394,
+     26
+    ]
+   ],
+   "level": 3,
+   "title": "De statibus."
+  },
+  {
+   "scan": 411,
+   "line": 5,
+   "lines": [
+    [
+     411,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "De coniectura."
+  },
+  {
+   "scan": 454,
+   "line": 11,
+   "lines": [
+    [
+     454,
+     11
+    ]
+   ],
+   "level": 3,
+   "title": "De statu definitivo."
+  },
+  {
+   "scan": 466,
+   "line": 3,
+   "lines": [
+    [
+     466,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "De statu qualitatis."
+  },
+  {
+   "scan": 492,
+   "line": 10,
+   "lines": [
+    [
+     492,
+     10
+    ],
+    [
+     492,
+     11
+    ]
+   ],
+   "level": 3,
+   "title": "De scripto et sententia."
+  },
+  {
+   "scan": 508,
+   "line": 7,
+   "lines": [
+    [
+     508,
+     7
+    ]
+   ],
+   "level": 3,
+   "title": "De contrariis legibus."
+  },
+  {
+   "scan": 512,
+   "line": 11,
+   "lines": [
+    [
+     512,
+     11
+    ],
+    [
+     512,
+     12
+    ]
+   ],
+   "level": 3,
+   "title": "Partitionum oratoriarum conclusio."
+  },
+  {
+   "scan": 520,
+   "line": 1,
+   "lines": [
+    [
+     520,
+     1
+    ],
+    [
+     520,
+     2
+    ],
+    [
+     520,
+     3
+    ],
+    [
+     520,
+     4
+    ],
+    [
+     520,
+     5
+    ],
+    [
+     520,
+     6
+    ],
+    [
+     520,
+     7
+    ]
+   ],
+   "level": 1,
+   "title": "Summa praeceptorum de arte dicendi, ex tribus Ciceronis libris de Oratore, distincte ac dilucide collecta, & exemplis ex eiusdem orationibus breuiter illustrata."
+  },
+  {
+   "scan": 558,
+   "line": 1,
+   "lines": [
+    [
+     558,
+     1
+    ],
+    [
+     558,
+     2
+    ],
+    [
+     558,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Praecepta artis rhetoricae summatim de multis, ac Syntomata, à Iulio Seuerìano collecta."
+  },
+  {
+   "scan": 560,
+   "line": 20,
+   "lines": [
+    [
+     560,
+     20
+    ]
+   ],
+   "level": 2,
+   "title": "De disponendis criminibus."
+  },
+  {
+   "scan": 561,
+   "line": 23,
+   "lines": [
+    [
+     561,
+     23
+    ]
+   ],
+   "level": 2,
+   "title": "De principijs."
+  },
+  {
+   "scan": 562,
+   "line": 1,
+   "lines": [
+    [
+     562,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "De narrationibus."
+  },
+  {
+   "scan": 564,
+   "line": 15,
+   "lines": [
+    [
+     564,
+     15
+    ]
+   ],
+   "level": 2,
+   "title": "De disponendis argumentis."
+  },
+  {
+   "scan": 566,
+   "line": 9,
+   "lines": [
+    [
+     566,
+     9
+    ]
+   ],
+   "level": 2,
+   "title": "De propositione aduersarij."
+  },
+  {
+   "scan": 568,
+   "line": 5,
+   "lines": [
+    [
+     568,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "De coniectura."
+  },
+  {
+   "scan": 570,
+   "line": 3,
+   "lines": [
+    [
+     570,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "De fine."
+  },
+  {
+   "scan": 571,
+   "line": 21,
+   "lines": [
+    [
+     571,
+     21
+    ]
+   ],
+   "level": 2,
+   "title": "De qualitate."
+  },
+  {
+   "scan": 571,
+   "line": 24,
+   "lines": [
+    [
+     571,
+     24
+    ]
+   ],
+   "level": 2,
+   "title": "De affectibus."
+  },
+  {
+   "scan": 580,
+   "line": 15,
+   "lines": [
+    [
+     580,
+     15
+    ]
+   ],
+   "level": 2,
+   "title": "De epilogis."
+  }
+ ],
+ "book": "Curione's commentary in three books (Explicationum libri tres) on Cicero's Partitiones oratoriae, with dedication and preface, followed in the same 1567 Basel volume by a summary of Cicero's De oratore and by Severianus's Syntomata rhetoricae.",
+ "series": [
+  {
+   "label": "Liber",
+   "first": "primus",
+   "last": "tertius",
+   "count": 3,
+   "level": 2,
+   "found": 15
+  },
+  {
+   "label": "Caput",
+   "first": "Inscriptionis explicatio",
+   "last": "Partitionum oratoriarum conclusio",
+   "count": 42,
+   "level": 3,
+   "found": 40
+  },
+  {
+   "label": "De",
+   "first": "disponendis criminibus",
+   "last": "Epilogis",
+   "count": 10,
+   "level": 2,
+   "found": 42
+  }
+ ],
+ "taste": 50,
+ "doubt": "",
+ "input": 36020,
+ "output": 35610
+}
