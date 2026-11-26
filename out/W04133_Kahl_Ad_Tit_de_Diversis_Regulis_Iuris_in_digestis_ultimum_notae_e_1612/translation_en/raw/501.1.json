@@ -1,0 +1,56 @@
+{
+  "units": [
+    "501.1",
+    "501.4",
+    "501.5",
+    "501.10",
+    "501.13",
+    "501.16",
+    "501.21",
+    "502.3",
+    "502.11",
+    "502.18",
+    "502.26",
+    "502.28",
+    "503.3",
+    "503.10",
+    "503.12",
+    "503.18",
+    "503.22",
+    "503.25",
+    "504.6",
+    "504.9",
+    "504.12",
+    "504.25",
+    "504.27",
+    "505.5",
+    "505.8",
+    "505.10",
+    "506.11",
+    "506.13",
+    "506.16",
+    "506.18"
+  ],
+  "model": "claude-haiku-5-5",
+  "prompt_sha256": "e2935b2d041163fd",
+  "stop_reason": "end_turn",
+  "batch": true,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 1791,
+    "inference_geo": "global",
+    "input_tokens": 3492,
+    "output_tokens": 6450,
+    "output_tokens_details": {
+      "thinking_tokens": 3454
+    },
+    "server_tool_use": null,
+    "service_tier": "batch",
+    "speed": "standard"
+  },
+  "cost_usd": 0.0018
+}
