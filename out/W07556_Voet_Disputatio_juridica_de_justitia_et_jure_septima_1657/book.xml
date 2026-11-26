@@ -1,0 +1,602 @@
+<?xml version='1.0' encoding='utf-8'?>
+<book source="W07556_Voet_Disputatio_juridica_de_justitia_et_jure_septima_1657.pdf">
+  <page type="title" n="1" model="subscription/claude-haiku-5-5">
+    <layout>One page, all centred: title block at the top, a woodcut ornament in the middle, and the imprint at the foot. No margins with text.</layout>
+    <main_text>
+      <l>DISPVTATIO IVRIDICA</l>
+      <l>De</l>
+      <l>IIS DOMINIA</l>
+      <l>RERUM ACQVIRENDI MO-</l>
+      <l>DIS, QVÆ DESCENDVNT EX</l>
+      <l>IVRE GENTIUM</l>
+      <l>
+        <i>Quam</i>
+      </l>
+      <l>CHRISTO duce &amp; auspice,</l>
+      <l>
+        <i>Præside,</i>
+      </l>
+      <l>Dn.M. ANDREA <bl>Kiessen</bl>/Halberstad.</l>
+      <l>
+        <i>In celeberrima Academia Lipsiensi exercitij</i>
+      </l>
+      <l>
+        <i>gratia defendere conabitur.</i>
+      </l>
+      <l>PHILIPPVS OHEIM Stetino-Pomeranus.</l>
+      <l>
+        <i>Habebitur 25. Maij horis &amp; loco consuetis.</i>
+      </l>
+      <l>HALÆ SAXONVM,</l>
+      <l>
+        <i>Excudebat Christophorus Bismarcus, Anno 1613.</i>
+      </l>
+    </main_text>
+    <notes>Woodcut ornament (a grotesque mask with scrolls and tassels) between the Præside line and the imprint, no text. Library oval stamp at the left edge and a handwritten "44" at the top right were left out. The name "Kiessen" in the Præside line is set in a special display face and is doubtful; it is marked in black letter but may read differently. Long s rendered as plain s throughout. The "IIS" in the title is printed as "IIS" (for "iis"), kept as printed.</notes>
+  </page>
+  <page type="title" n="2" model="subscription/claude-haiku-5-5">
+    <layout>One printed page, dedication leaf. Ornamental border at top; centred dedication lines below; "D. &amp; C." at right; "Respondens" at lower right. No page number, running head or catchword.</layout>
+    <main_text>
+      <l>Consultissimo, Clarissimo &amp; Doctissimo Viro,</l>
+      <l>Dn. IOANNI CHRISTOPHORO FRI-</l>
+      <l>DERICO I. U. Doctori eximio, &amp; in alma Lipsien-</l>
+      <l>si Advocato atqi [?] causarum patrono primario.</l>
+      <l>Nec non,</l>
+      <l>Ornatissimo &amp; doctissimo Viro</l>
+      <l>Dn. BENEDICTO OHEIM Philosophiæ magistro</l>
+      <l>&amp; medicæ artis candidato, fratri suo Ger-</l>
+      <l>mano</l>
+      <l>D. &amp; C.</l>
+      <l>Respondens</l>
+    </main_text>
+    <notes>
+    Long s is printed as s throughout; transcribed as plain s per rules. Ornamental woodcut border at top carries no text. Faint, blurred print under the dedication (partly obscured by show-through and staining) is not legible and is omitted. "atqi" is uncertain and marked [?]. "D. &amp; C." and "Respondens" are set at the right margin of the page, not in the centred block.
+  </notes>
+  </page>
+  <page type="text" lines="none" n="3" model="subscription/claude-haiku-5-5">
+    <warning type="catchword_in_text">catchword taken out of the main text:  nullos</warning>
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <warning type="repaired_xml">missing or unbalanced tag(s) repaired by the script; the words are unchanged</warning>
+    <layout>Running head at top centre. Full-width heading "PRÆFATIO". One column of running text, with no margin notes. Catchword at lower right. Signature at foot centre.</layout>
+    <running_head>Disput. de Acqu. Dom. Iur. Gent.</running_head>
+    <main_text>
+      <l n="1" type="heading" level="1" para="true">PRÆFATIO</l>
+      <l n="2" para="true">Nbenè constituta Repub. rerum communio, tolerari nec debet nec potest: cum quod dominiorum distinctio à Jure Gentium introdu-sta l.5.ff.de J.&amp; J. l.1.in sin.ff.de furt.§.11.Instit.de rer. <i>div.,&amp; àjure Divino approbata sit Gen.s.4.vers.4.Exod 20.ver.5 17.1.Corinth.6.vers.10.1. Johan.3.vers.17. Obstare videtur c.§.8.Resp.pete ex l.2 §.legis 23.C.de vet. Jur.Enucl.cum ob re-ngendas lites aliasque gravissimas causas, &amp; rationesdigito quast monstrat l.in re 26.ff.de servit.urb.prad.l.cum pa-7 §. dulcissimis 20.ff.de Legat.2.Et tale persequitur Donellus li.mm.c.7.Arius Pin.in 2.p.Rubr.(C.de rescind.vend.n.15.&amp; sequ.dd.ad l.42.n.7.ff.de V.S.Arum.disp.4.th.2.Lucas Ofiander inhir. (Controvers.c.7.ubi ad contraria Anabaptistarum argu-ta respondet, Hinc tractatio de acquisitione Dominio-num non minima &amp; infima pars Iurisprud. esse videtur.ericā doctrina de acquisitione dominiorum commo-mè in duo summa capita distingui : quorum primumdominiorum speciebus: alterum de ipsis dominia ac-endi modis aget. Ex his ultimum est bipartitum : nan-mur enim Dominium vel Iure Gentium vel Iure Ci-: &amp; hinc modi dominia acquirendi sunt Iuris Genti-vel Iuris Civilis §.sin.Instit.de usu &amp; habit.l.1.in pr.ff.de ac-rer dom.§.singulorum Instit.eod.ibid. Dd.Et licet in his textib.terpretib.ibi ȳ modi quos nos modos Juris gentium vocamus,naturalis nominentur, hoc tamen sit ratione juris naturalis se-arij quod nihil aliud quam ipsissimum Ius Gentium. Nam</i>
+      </l>
+    </main_text>
+    <marginalia>
+      <note side="right" at="rerum communio, tolerari" line_from="2" line_to="2">Dig.</note>
+    </marginalia>
+    <bottom_margin>
+      <catchword>nullos</catchword>
+      <signature>A 2</signature>
+    </bottom_margin>
+    <notes>Scan is low-resolution; many citations in the italic and roman mix are uncertain and may contain errors. The right margin shows a vertical rule with no printed notes. The line "Nam" is the last text line; "nullos" is the catchword. Italic spans in the citations were approximated. No page number is printed. The stray marks at the lower left and the small mark below the text are not transcribed.</notes>
+  </page>
+  <page type="text" lines="none" n="4" model="subscription/claude-haiku-5-5">
+    <warning type="catchword_in_text">catchword taken out of the main text: &amp; ex-</warning>
+    <warning type="merged_lines">1 line(s) contain several printed lines merged together (longest 767 chars, median 181); line numbering is unreliable</warning>
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One page of text. Running head at the top, centred. Main text in one column, a centred "THESIS I." line, then the thesis paragraph. Below it, footnotes (a) to (d) in smaller type, running to the foot of the page. No margin notes, page number or catchword.</layout>
+    <running_head>DISP. DE ACQU. DOM. IURIS GENT.</running_head>
+    <main_text>
+      <l n="1">nullos acquirendi dominia modos Juris merè naturalis esse indè per-spicuum est, quod distinctio Dominiorum Iuri Naturali contraria sit junct. l.4.&amp;s.ff.de J.&amp; J.idq; discretis verbis traditur S.singulo-rum Instit.de rer div. In hac nostra disputatione de modis Dominia acquirendi ex Jure Gentium descendentibus a-gemus.</l>
+      <l n="2" para="true">THESIS I.</l>
+      <l n="3" para="true">Iure gentium dominia acquiruntur {a} vel per apprehensionem {b} vel per accessionem {c} quarum illa fit seu occupatione {d} quæ aut violenta, &amp; contingit vel venatione {e} vel captura {f} aut non violenta quæ fit vel juven-tione {g} vel traditione {h} Hæc vel confusione {i} vel specificatione {k} seu accessione propriè ita dicta, quæ aut naturalis, aut industrialis. {l}</l>
+      <l n="4" type="foot" para="true" merged="true">{a} Tot &amp; nec plures nec pauciores Dominia rerum acquirendi modos Iuris Gentium esse, quam hic a nobis referuntur clarum est ex t, t.Inst.de rer div. &amp; t. t.ff.de acqu.rer.dom. Obstare videtur quod in l.in traditionibus C.de pact.duo tantum dominia acquirendi modi ponantur scil.Traditio &amp; Usucapio. Rc.[?]cum Contio 1.difp.c.8.hanc omnes Iuris Civilis, illam omnes Iuris Gentium dominia acquirendi modos sub se comprehendere. Omnes autem hosce modos in duas species apprehensionem &amp; accessionem includi posse putat Contius 1.difp.18.in pr.&amp; n.12.Forc.Neyc.dial.84.n.4.Donell.4.Gomm.7,&amp;c. Gom. r.dn.[?] Hackel.illust.qu.difp.18.th.1.m.d.quod etiam nos sequimur. Diff.varie interpretes in §.singulorum Instit.de rer. div. Goedd. ad l.rei appellatione 23.n.4.ff.de V.S.</l>
+      <l n="5" type="foot" para="true">{b} In nostra autem distinctione per apprehensionem omnem contractum rerum qui appropriandi animo, vel à nobis, vel ab ijs qui nostra potestati subjecti sunt fieri solet, denotamus.</l>
+      <l n="6" type="foot" para="true">{c} Sub accessione v. in genere omne id quod rei nostrae accedit quocunq; modo id fiat comprehendimus.</l>
+      <l n="7" type="foot" para="true">{d} Per occupationem talem contactum qui ex sola nostra voluntate dependet,</l>
+    </main_text>
+    <notes>Long s normalised to s throughout (e.g. "seu", "descendentibus", "solet"). The printed reference letters (a) to (l) are copied as curly-brace marks {a} to {l}; the footnotes carry the same marks. "THESIS I." is a numbered thesis and is therefore written as a plain paragraph, not a heading. Doubtful readings: "Rc." in footnote (a) and "Gom. r.dn." are marked [?]. The footnote (d) continues past the scan edge ("ex-"). No page number, catchword or signature is visible.</notes>
+    <bottom_margin>
+      <catchword>&amp; ex-</catchword>
+    </bottom_margin>
+  </page>
+  <page type="text" lines="none" n="5" model="subscription/claude-haiku-5-5">
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One printed page: a single full-width column of running text, with the running head above it and a gathering signature and catchword at the foot. No marginal notes.</layout>
+    <running_head>DISP. DE ACQU. DOM. IURIS GENT.</running_head>
+    <bottom_margin>
+      <catchword>nitet</catchword>
+      <signature>A 3</signature>
+    </bottom_margin>
+    <main_text>
+      <l n="1">externa persone interventu haud opus habet, significamus. (e) nationis vocem hic generaliter &amp; itá accipimus ut non modo Ve-tionem proprie sic dictam (quæ est quadrupedum ferarum in syl-vis &amp; campis) sed &amp; pifcationem &amp; aucupium sub se comprehen-dit, quod §. feræ igitur Inst. de rer. div. &amp; §. omnia l. 1. ff. de acqu. rer. m. suadet, ubi dicitur: Omnia animalia quæ in cælo h.e. aere, terrâ aquâ seu feras pisces ac volucres capientium fieri. Dicimus autem nationem occupationem violentam propterea quod armis &amp; sub-ndo perficiatur. (f) Licet captura nomen in se tam latum sit, ut nationem quoq; sub se complectatur: hic tamen eandem, pro eá olenta occupatione qua in bellis res hostium acquirimus solum-do accipimus, &amp; venationi disparatè opponimus, (g) Hic modus quirendi rectè referetur ad apprehensionem &amp; quidem ad eam ap-shensionem quæ fit occupando. In inventione enim non vi sio; sed supatio rei transfert dominium, unde si duo rem vident alter pri-alter posterior, &amp; ú qui posterior eandem conspexit, prior appre-ndit, non qui prior conspexit; sed qui prior eandem jacentem ap-shendit dominus est judicandus (secundum Dd. in l. si Barsatoram s. de fidejus. &amp; mandat. Rectè autem inventionem occupationem violentam nominamus: nam sine armis &amp; strepitu ea non po-perfici (h) Per traditionem talem contactum seu apprehensio-ne quæ sine externa alicujus persone interventu ac voluntate con-stiente perfici haud potest, significamus. Et quidem rectè ponitur ditio inter modos acquisitionis Juris gentium per l. qua ratione 9. æc quoque ff. de acqu. rer. dom. §. per traditionem Instit. de rer. div. ff. videtur Ulpian. in frag. c. 19. &amp; vid. apud Wesemb. ad §. 2. Instit. de tamen. ordin. &amp; eum secutum Fomannum disput. 9. th. 26. m. 1. qui per apprehensionem perficiuntur. Traditio enim vera est sine apprehensione nulla, l. traditionibus C. de pact. l. serv. C. de rei vind. ficit in traditione ad translationem domini apprehensio corpo-ris, nec præterea vacua possessionis oblatio necessaria est ut commu-nitet</l>
+    </main_text>
+    <notes>The text is cut off at the right edge of the scan, so some line ends are guessed from context: the word hyphenated at "Ve-tionem" and the line ends near "s. de fidejus." are doubtful. The paragraph layout is hard to confirm, since no line ends clearly short. I read it as one paragraph, but check the printed indents. Section letters (e), (f), (g), (h) stand inside the text and are kept as text. The catchword "nitet" is read from the foot right; the last line ends with a hyphen. The "Ve-tionem" break is doubtful and may hide a word such as "Venationem" or a misprint; the scan does not settle it.</notes>
+  </page>
+  <page type="text" lines="none" n="6" model="subscription/claude-haiku-5-5">
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One page of running text in a single column. Below the last full lines, a small-type note line at left. Catchword at lower right.</layout>
+    <running_head>Disp. de Acqu. Dom. Iuris Gent.</running_head>
+    <bottom_margin>
+      <catchword>Venatio</catchword>
+    </bottom_margin>
+    <main_text>
+      <l n="1">iter fentiunt Dd.&amp; gloffin l.fi agerff. de rei vind. per §. per traditio- rem Inftit.de rer.div.l.20.ff.de acq.rer.dom.arg.l.naturaliter 12. ff. de icqu. poff. quod fequitur Caftrenfis in l. 2.de act. Empt.&amp; Doncll.4. Comm.19.Diff.Contius 1.difp.8.Wefemb.in parat.de contrah. empt. Hottom.illuftr.quaeft.11.Mynf.1 obf.53.per l.cum res 12. C. de probat. qui praedium 13.C.de diftract.pignor.l.2 §.1.1.§.2.C. de act. Empt. 18.de vi &amp;vi armata. Fitta tamen traditio fine apprehenfione fieri potest §.interdum Inftit.de rer.div.cujus rationem reddit Wefemb.&amp; Baro ibi.(i) Licet interpretes fubtiliter diftinguant inter confufio- nem &amp; commixtionem : confufionem, rerum liquidarum &amp; ea- rum quae difficulter feparari possunt : commixtionem ficcarum &amp; illarum rerum quae facile feparari possunt effe, ftatuant fundament. §.22.&amp;fequ.Inftit.de rer.div. <i>tamen cum hac voces fapius confun- dantur ut ex Pomponius in pr. jun&amp;. fed fi plumbum ff.derei vind, videre eft, nos quod, hic latam fignificationem adhibemus , &amp; hic voces pro uno eodem, fumimus.</i>(k) Goedd. putat p.3. difp. 3.th.fin, <i>specificationem confufione quoq; fieri,&amp; confufionem fub fe comple- ti. Verum hac longe diver(a funt : Confufio enim dicitur quando corpora diver(a unum vel diver(a materie ita permifcentur ut non unum corpus, vel unam novam fpeciem conftituant,fed diverfa corpora. Specificatio vero vocatur quando diver(e fpecies ita permi- centur ut novam à prioribus diver(am fpeciem conftituant. Proin- de fi latiffime &amp; improprie accipiatur verbum fpecificationi: opi- nionem Goedd.admittimus : fin vero ftrictè &amp; proprie fumitur eam admittere haud poffumus. (l)acceffione fpeciali feu proprie ita dicta d folummodo quod rei quidem noftrae accedit,non tamen ita cum eo opulatur, ut cum re noftra vel unam fpeciem,vel unum confufum haos conftituat,comprehendimus,eam, dividimus in naturalem, &amp; induftrialem argum.§.item ea cum §§.feqq.junct.§.cum in fuo§§. qq.Inftit.de rer.div.de hac acceffione fpeciatim ita dicta vid. Pecki-</i>
+      </l>
+      <l n="2" type="foot" para="true">minc,42.deR.Lin 6.Althuf,lib,1.Iurisprud.Roman,c.15.in pr.</l>
+    </main_text>
+    <notes>Page number not printed. The main text is one continuous paragraph on the scan; the first line continues from the previous page. Word-level doubts: the first word "iter" and the marks after "Doncll.4." and "Gent." are uncertain. Lines running in italic are set in italic type throughout; the opening words of the first full italic line may differ slightly. The small-type line at the foot is a reference note; its opening letters are uncertain.</notes>
+  </page>
+  <page type="text" lines="none" n="7" model="subscription/claude-haiku-5-5">
+    <warning type="merged_lines">1 line(s) contain several printed lines merged together (longest 948 chars, median 282); line numbering is unreliable</warning>
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One column of running text. Right margin: one note ("De Venatione.") beside the first lines. Below the text: small italic footnotes (a)-(d) and the continuation of the note on the animals. Running head at the top. No page number and no catchword printed.</layout>
+    <running_head>Diss. de Acq. Dom. Iuris Gent.</running_head>
+    <main_text>
+      <l n="1" para="true">II.</l>
+      <l n="2" para="true">Venatio non quidem animalia Cicura {b} attamen ias feras semper {c} Cicuritas ac mansuefactas tum si[?] fuetudinem redeundi deferunt {d} sive in proprio, sive lieno fundo captae, capientium dominio subjicit, in um ut quam diu sub potestate nostra sunt, nostri do-ij esse judicentur.</l>
+      <l n="3" type="foot" para="true" merged="true">(a) Quomodo per venationem quid acquirere possimus, ut eò us intelligatur distinctionem quandam animalium instituere. Sciendum igitur ex distinctione ad I.C. pertinente, animalia esse ferae, vel Cicura, vel Cicurata. Fera animalia dicuntur quae o-ò indomitae sunt naturae, &amp; in sylvis, campis ac aquis degunt, ut generis cervi, lepores, ursi, leones, grues, vultures, Phasiani, [?]ures, pisces, castores, mergi, &amp;c. quibus etiam annumerantur apes §. apium quoque Instit. de rer. div. quod tamen de apibus allonon inclusis accipiendum putamus, cum quo convenit Ius Saxonicum, quod omnia illa animalia fera naturae facit, quae à pastoribus durinequeunt gloss. Landrecht lib. 2. art. 40. Cicura &amp; mansuetae domi nobiscum in nostris fundis habentur ut boves equi, gallinae, anseres, quarum duorum ultimarum specierum non sed mansuetam naturam esse inde arguit Imper. Justinianus dentur gallinae ferae &amp; anseres feri §. Gallinarum Instit. de rer. divis.</l>
+      <l n="4" type="foot" para="true">Cicurata seu mansuefacta animalia vocantur quae naturaliter em fera natura sunt, sed accidentaliter hominum industria &amp; intentia mansueta sunt reddita: cujus generis opinione J.C. §. pavonem quoque columbas pavones cervi mansuefacti, &amp; id genus alia. Quibus nos quoq; apes alveis inclusos annumerandos putamus, quod eos in alvearia vel arborem includendo quis &amp; cicurare suos facere dicatur arg. d. §. pavonum quoque &amp; arg. l. 3. §. qui-ectè 16, ff. de acquir. poss. etiam de jure Saxon. gloss Weichbilde 120.</l>
+      <l n="5" para="true">Nam licet hoc &amp; ejusmodi alia animalia à Justiniano §.api-</l>
+    </main_text>
+    <marginalia>
+      <note side="right" at="Venatio non quidem" line_from="2" line_to="2">De Venatione.</note>
+      <note letter="a" side="right" at="Venatio non quidem" line_from="2" line_to="2">a</note>
+    </marginalia>
+    <notes>Right margin: "De Venatione." only. Marks {b}, {c}, {d} in the text are read from the scan; the footnote letters (a), (b) are reconstructed from their positions and may be imperfect. Some words in the left-hand column are cut off by the scan edge (e.g. "ias", "ij", "um", "tum si[?]"), so their full form is uncertain. Several footnote words, especially the Saxon law citations and "ures", are doubtful. No page number is printed.</notes>
+  </page>
+  <page type="text" lines="none" n="8" model="subscription/claude-haiku-5-5">
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One block of text, one column of running text. Running head at the top, centred. No page number, catchword or signature on this part.; One column of running text, full width, starting mid-page and ending at a line break mid-word. No margin notes, no notes below the text.</layout>
+    <running_head>DISP. DE ACQU. DOM, IURIS GENT.</running_head>
+    <main_text>
+      <l n="1">
+        <i>§.</i>apium quoque &amp; <i>§.</i>pavonum quoque Instit.de rer.div. <i>fera natura esse dicantur, eadem tamen fera cicurata &amp; mansuefacta esse ipsa verba hor.text.ut &amp; l.37.ff.de furt.</i> luculentissimè ostendunt <i>(b)</i> Animalia Cicura per venationem nullo modo occupari, sed à domino quocunq; loco vindicari possunt, in tantum ut in eadem restituere recusantem domino detur furti actio etiam pro gallina unica <i>§.gallinarum Instit.de rer.div.</i> Nec obstat quod cum de minimis non curet prætor, ob rem tam parvi momenti furti actio non institui posse, videatur: furti enim actio non ex re subtracta, sed ex qualitate facti astimanda est. Nec etiam obstat, quod doli actio non competat de minori summa duobus aureis <i>l 4.C.de restit.in integr.</i> dolus enim præsentis cum quo contrahimus facilius præcaveri potest quam ignoti furtum, ut ita dispar hic subsit ratio. Taceo quod doli actio sit extraordinaria &amp; proinde de re minima non detur, <i>fundani.l. scio 4 ff. de in integr.restit.</i> furti verò actio sit ordinaria quam responsionem habet <i>Myns.in §.gallinarum n.1.hic. De jure Saxon. possum gallinas alienis domum meam involantibus ibiq; damnum dantibus alas amputare,easq; domum remittere</i>
+        <bl>Weichbild</bl> art.111.<i>Si verò eas occi-dero teneor solvere pro gallinis singulis dimidium solidum</i>
+        <bl>Lantrecht[?]</bl> lib.3.art.51.(c) <i>Ex animalibus ea quae omninò feræ natura existunt, venari de jure gentium Civium licitum est, in tantum ut contra me in fundo venari prohibentem actionem injuriarum habeam</i> l.13.ff. <i>de injurijs ex ea ratione quod sicut aqua profluens, &amp; aer quo ad proprietatem nullius sint in bonis §.&amp; quidem Instit.de rer.div. Sic &amp; animalia in aere (in quo degere ferae quoq; rectius dicuntur, nec solo cohaerere secundum gloss. in l.sin. vero quasi vento C.de alim.pupill. præstand.) ac aqua degentia rectè nullius censentur, proindeq; occupanti cedant §.all.ferae igitur &amp; §.apium Instit.de rer div. Et hoc in tantum procedit, ut aves &amp; terrestria animalia quod concernit, non modo meum proprium, sed &amp; alienum fundum venandi, &amp; aucupandi gratia ingredi</i> all.§.ferae &amp; §.apium l.3,ff.de acqui.rer.dom. <i>&amp; proin-</i>
+      </l>
+    </main_text>
+    <notes>Doubtful: "(b)" is a reference mark in the text. Printed "s" is transcribed as s throughout. Doubtful readings: the mark before "Weichbild" is unclear; "Lantrecht" may be "Landrecht"; italic and roman boundaries in the Latin citations are approximate.</notes>
+  </page>
+  <page type="text" lines="none" n="9" model="subscription/claude-haiku-5-5">
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One column of running text, full width. Running head at the top. No margin notes, no notes below the text.; One page of running text, full width, with a signature mark at the lower left and a catchword at the lower right.</layout>
+    <running_head>DISP. DE ACQVIS. DOM. IVRIS GENT-</running_head>
+    <bottom_margin>
+      <catchword>micri-</catchword>
+      <signature>B</signature>
+    </bottom_margin>
+    <main_text>
+      <l n="1">
+        <i>prindè ipes quoq; cum feri vermes sint alveũ non inclusas ex alieno fundo capere possim d. §.apium, &amp; quicquid ita pervenationem capio meum efficit, modo illud ceperim non n. persecutio, ut nec vulneratio; sed captura feram efficit §. illud quæsitum d.loc.l. f.§.illud quæsitum ff.cod. meumq; manet tam diu, quam diu id in potestate mea, vel ego illud persecutione mea recuperare possim illudq; postquam aufugit persequor, persecutione vero mea cessante vel animali in tali statu posito ut recuperare difficillime illud possim naturali libertati restitutum censetur, &amp; occupanti cedit §. ferae cum §§. seqq. duob.Inst.de rer. divis.l.f.in pr.§.1.ff.de acq.rer.dom. Fera enim non censentur fructus fundi, sed in eo libere vagantur fundumq; pro libitu relinquere possunt l.3.§. item fera&gt; ff.de acq. rer. dom. Wesemb. in parat.ff. de acq.rer.dom.n.7. Fera tamen animalia tam terrestria tam volatilia alicujus vivario inclusa inde citra furtum eximi non possunt, quia in privati possessione &amp; quodammodo fructus fundi existunt d.§.item feras cum §.seq. Licet autem in fundo alieno ve- nari possim, nec in venationem actione ulla conuenire possim: tamen is cui fundus est potest prohibere, ne venandi aut aucupandi aut mel ac apes auferendi causa ipsius fundum ingrediar. &amp; si contra hanc prohibitionem facio, habet in me actionem injuriarum all. §. feræ &amp; §. apium l. 16. ff. de servit. rustic. præd. non tamen sic contra prohibitionem capta dominus fundi; sed venator acquirit §. feræ instit. d. lo. l. in laqueum 15. ff. de acqu. rer. dom. l. agrum C. de servit. &amp; aqua; &amp; si tali modo omnibus in meo fundo venari interdico illiq; per tempus immemoriale acquiescunt, hoc ipso mihi jus proprium ac tale acquisitum ut nemo posteà in meo fundo venari possit cum tali præscriptione in fi ar privilegij fit l. 1. 2. ac 11. C. de servit. &amp; aqua l. 3. §. ductus aquæ C. de aqua quotid. &amp; æstiv. &amp; me non minus ac lex seu consuetudo in meo jure firmet c super quibusdam §. præterea de V.S. Wesen. b. in parat. ff. de acq. rer. dom. n. 7. Et tali modo acquisiverunt principes venationes in plerisq; [illegible, ~3 letters] fibiq; eisdem quasi proprias dicarunt, in tantum ut hodie non modo in publicis; sed &amp; in privatis fundis ac me-</i>
+      </l>
+    </main_text>
+    <notes>The first word "prindè" and "ipes" are uncertain; "ipes" may read "ipsæ" [?]. "Wesemb." in the citation is uncertain. The last word is cut off by the edge of the scan and is left as "ve-" with its printed hyphen. Whole passage is italic, citations included as set. The middle of the paragraph has a dark blot over the word after "plerisq;", so that word is marked illegible. Otherwise the scan is clear.</notes>
+  </page>
+  <page type="text" lines="none" n="10" model="subscription/claude-haiku-5-5">
+    <warning type="merged_lines">1 line(s) contain several printed lines merged together (longest 813 chars, median 237); line numbering is unreliable</warning>
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One page of running text in one column, full width. Running head at the top. The text is cut off at the left edge and at the bottom of this part.; One column of running text, full width, with the last line ending in a hyphen. A catchword stands at the right below the last line.</layout>
+    <running_head>DISP. DE ACQU. DOM. JURIS GENT.</running_head>
+    <bottom_margin>
+      <catchword>wum[?]</catchword>
+    </bottom_margin>
+    <main_text>
+      <l n="1" merged="true">[ribus] easdem privatis rectè interdicere possint: subditi enim dum acquieverunt in factà prohibitione principes, aliosq; prohibentes in ure venationum ita firmarunt, ut hodie nemo subditorum seu privatorum, venatione uti possit, nisi qui vel similiter per tempus immemoriale non modò utendo, sed &amp; alios prohibendo hac venationum jura sibi acquisivit l. si quisquam ff. de diverf. temp. praescript. vel cui hoc speciatim à principibus indultum. Nec refert quod inferri possit, principium hujus praescriptionis vitiosum esse, quia prohibitio venationum est contra libertatem naturalem: nam patientia subditorum hunc titulum &amp; initium sufficienter &amp; ita purgat, ut hi non modò in acquisitionem consentire, sed &amp; venationum jura ad praescriptionem eorundem tacentes principibus quasi motu proprio deferre videantur.</l>
+      <l n="2" para="true">Taceo quod alias principes ob utilitatem publicam huic naturali libertati derogare &amp; venandi licentiam non modò restringere; sed &amp; omnino subditis venationes iure interdicere possint, ut deducit Fachin[?]. 1. Controv. 1. &amp; Hcig[?]. p. 1.</l>
+      <l n="3">[illegible, ~8 letters]</l>
+      <l n="4">n parat.deacqu.rer.dom. <i>Zoanetta</i> in tract. de empt. vend sub pacto retrovend.n.148.&amp;in tract. de duplici venatione n. 36. &amp; <i>dn. Hack.</i> disp.illustr.19.th.2.lit.f.<i>Colerus</i> decif. 101.&amp;148.<i>Pruckm.</i>in tract. de regalib.&amp;venatio c.4.n.7.&amp; seq. <i>Sebast. Medices</i> de ven. p.1.quaest 5. quorum argumenta ostendunt. 1. Principes aliosq; superioritatis iura habentes tum in proprijs quae jure privatorum habent, tum in publicis nemoribus ac sylvis inde venationes subditis rectè interdicere, quod quilibet ne alter suum fundum venandi aucupandi &amp; apes ac mel auferendi gratiâ ingrediatur, jure prohibere possit ut supra deductum: Sylvae publicae verò, maria, litora maris, aliaq; loca publica jure superioritatis quasi privati fundi principum facta sint, l.litora 3.ff.ne quid in loc.publ.l. deprecatio 9.ff. ad L. Rhod. de jactu. 2. Principes aliosq; superioritatis iura habêtes in ipsis privatis quoq; subditorum fundis propter publicum interesse ne [illegible, ~4 letters] agricolae, opifices &amp; id genus alij homines, agriculturam, opificia per venatio-</l>
+    </main_text>
+    <notes>The first word of the first line is cut off at the left edge; only "ribus" is legible. The last line is partly cut off and illegible. "Fachin" and "Hcig" are doubtful readings. Lines at the top are the end of a sentence from the previous part and are copied as they stand. A dark stain obscures the word before "agricolae". The word "ferae" in the first line is doubtful. The catchword at the lower right is only partly legible.</notes>
+  </page>
+  <page type="text" lines="none" n="11" model="subscription/claude-haiku-5-5">
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <warning type="repaired_xml">missing or unbalanced tag(s) repaired by the script; the words are unchanged</warning>
+    <layout>One page of running text, one block. Running head at the top above the text. No margin notes and no page number in this part.; One block of running text in a single column, with the signature "B 2" and a catchword at the foot on the right. A strip of cut-off fragments runs along the left edge.</layout>
+    <running_head>DISP. DE ACQU. DOM. IURIS GENT.</running_head>
+    <bottom_margin>
+      <catchword>cente</catchword>
+      <signature>B 2</signature>
+    </bottom_margin>
+    <main_text>
+      <l n="1">
+        <i>num jucunditatem allecti relinquant, ne venationibus dediti, latro-cinijs assuescant, &amp; ne species animalium devastentur per nimiam venationem ac similes ob causas interdicere posse.</i> 3. <i>Principes alios q superioritatis jura habentes ob publicum interesse inter eos ipsos subditos q venationi jura obtinet, certu venandi modu prscribere posse, quotiescúq, publica utilitas id exigat.</i> Diss. Joh. Faber &amp; alij in §. feræl nst. de rer. div. horum Contradicentium argum. dissolvunt Fach. Zoan. d.d.lo. &amp; Eber. Speckhan qq. J. cent. 1. qu. 97. <i>Sic ergo agricolis in venationibus certum modum præscripsit Fridericus Imper. in c. 1. §. si quis rusticus vers. nemo retia de pace tenenda in usf. Feud. Sic Jus civile in itineribus frequentatis foveas facere &amp; tendiculas ponere ad capiendas feras nulla monitione præcedente prohibet l. qui fovéas 28. ff. ad L. Aquil. Sic idem Jus Civile piscatoribus noctu in litore maris ignem accendere interdicit, ne decipiantur nauta putantes ad portum se appelere l. ne piscatores ff. de incend. ruin. &amp; naufr. Sic Jus Saxon interdicit omnem venationem Si segesjam[?] in articulos sic ge-nicula surrexit Sandrecht[?] lib. 2. art. 61. Sic Jus Saxon feram in alie-</i>
+      </l>
+      <l n="2">nam sylvam tendentem cum canibus non nisi absq; in flatu cornu-culi venatorij persequi concedit Landrecht[?] lib.2.art. 61. Sic idem Jus Saxonum alienum fundum venandi gratia ingredi non modò tùm quando dominus id prohibet <bl>Weichbild</bl> sub tit. <bl>das man auff an-dern Bürfern nicht jagen soll</bl>/&amp; gloss. <bl>Weichbilds</bl> art.122. sed &amp; generaliter ipso jure licet per præscriptionem in alieno fundo venandi Jus acquisierint, sub pœna centum florenorum in ordinat.Provinc <bl>von jagen/hegen und Hünerfangen</bl> interdicit. Sic nostri Illustrissim Duces Saxonici[?] statis temporibus (scil.ijs quibus fere generationi &amp; propagationi dedite sunt venari prohibuerunt. Sic justissimi &amp; medijs principes aliiq; jurisdictionem exercentes venaticas quibusdam in suis proprijs etiam fundis plane ademerunt, caq; jura sibi solummodo usurpare cœperunt; quod quidem Geil.2.obl.68.n. 10. non plane injuriosum putat, modò hæc jura venationum exer-</l>
+    </main_text>
+    <notes>The scan shows only the lower part of the page. Doubtful readings: "Landrecht" (printed in a form that may be Sanorecht), "Saxonici" (printed as "Saxgnici"), and "Illustrissim" at the right edge, which may continue past the cut. Black-letter passages are marked with bl; the boundary between black letter and roman is uncertain in places. "statis" is printed "slatis". A small isolated mark "1" stands at the centre foot; I did not treat it as a page number. The left-edge fragments (o, k, de, s., tis, in, di, fu, locus, actu, quod, opis, atio, um) are cut-off margin text and are not transcribed. No running head or page number is visible.</notes>
+  </page>
+  <page type="text" lines="none" n="12" model="subscription/claude-haiku-5-5">
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One block of running text in full width, with the running head at the top and the page number at the top left. Catchword at the bottom right. No marginal notes.</layout>
+    <page_number>1</page_number>
+    <running_head>DISP. DE ACQU. DOM. IURIS GENT.</running_head>
+    <bottom_margin>
+      <catchword>nus</catchword>
+    </bottom_margin>
+    <main_text>
+      <l n="1">centes operam dent ne ferae privatorum agros depascantur,&amp; si aliter fiat,damnum reficiant.De eo autem hic disceptant interpretes: jus venandi aucupandi in sylva aliena iis qui venationum jura obtinent,eaq; aliis interdicunt an servitutis realis praedio cohaerentis,an servitutis personalis jurisdictioni perpetua quasi propria , an vero regalis nomine competat? Zasius in sing.resp.lib.r.c.11.Geill. 2.obs.66. Mynsin[?] in Inst.ad §. inter rusticorum n.6.&amp; 7.servitutem realem pu-tant, quam opinionem consuetudine Germaniae Universali recep-tam dicit. Dn.Hackelm. qq.illustr.disp.7.th.19.memb.1 Zoan.in rep.l.2.C. de pact. inter empt.&amp; vendit.Hartm.Hartmanni lib.2.pr. obs.tit.23.c.3. Servitutem Jurisdictionalem vocant,eamq; sententi-am legibus consonam existimat Dn.Hackelm.d.th.m.c.Heig.1.quaest. 15.n.44. Andreas Knichen de Privil. Elect.&amp; Ducum Saxoniae &amp; Pruckm,in tract. de Regalib. venationum jura ad regalia referunt, quibus respondet Vulteius 1.Feud.c.5. n.7.&amp; Niol[?],disp.feud.11. th.3. Nos venationum jura pro diversa consideratione,&amp; ad servitutes praediales arg.l.quaesitum 12. §. si in agro 12.l. fundo 21.ff.de instit.vel inst leg.&amp; ad servitutes Jurisdictionales arg.l.28.ff.de servit.&amp; ad regalia fundam.c.unic.quae sunt regalia in verbo piscationum. &amp; inde quod Electores principes,aliique status imperii hodie jure venationum infeudentur. Illud item in quaestione est: an jura venationum habentes mortis supplicio contra interdictum eorum feras capientes re-ctè afficiant? De jure quidem Saxonico antiquiori propter venatio-nem contra prohibitionem principium factam nemo capitaliter vel corporaliter puniri potest Landrecht[?] lib.1.art.61. &amp; hoc quoq; hodie observari debere statuimus cum Wesemb.[?] in parat. ff. de acquir.rer. dom.n.7.Eberhard.Speckhan[?].cent.1.quaest.98.Tiraquello de nobil.c. 3.7.n.150.Marant de ord.jud.p.4. distl.n.45.&amp; distl.3.n.17. Sebast.Me-dic.in tract.de venat.piscat.&amp; aucup.quaest. §.n. 7.Goden.Consil.70. qui ibi elegantissimas sane &amp; firmissimas rationes adducunt.Hac de venatione proprie sic dicta ac aucupio.Ab his illud venationum ge-</l>
+    </main_text>
+    <notes>Page begins mid-sentence ("centes"), a fragment carried over from the previous page. Printed "s" in "Mynsin" and "Niol" read with doubt; the abbreviation "Niol" may be a short form of Niolius or similar. "Landrecht" and "Speckhan" are uncertain in the scan. "Wesemb." is uncertain. The catchword "nus" is at the lower right. Printed running head is in small capitals. The page number "1" is printed at the top left.</notes>
+  </page>
+  <page type="text" lines="none" n="13" model="subscription/claude-haiku-5-5">
+    <warning type="catchword_in_text">catchword taken out of the main text: rer. div.</warning>
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One page of text: running head at the top, one full-width text block, and a narrow column of marginal notes at the left edge, cut off at the scan edge.; One block of italic text across the page, with a column of small notes at the left margin, cut off at the scan edge. A short line of reference at the lower right.</layout>
+    <running_head>DISP. DE ACQU. DOM. IURIS GENT.</running_head>
+    <main_text>
+      <l n="1">num quod piscatio dicitur suas diversas habet observantias: nam aquas quod concernit licet in mari, fluvio, lacu &amp; stagno publico jure gentium inspecto liberè piscari possim d.§.fe æ &amp; §.apium Inst. de rer. div. d.§.item feras: <i>de jure civili tamen novissimo hodie cum regalibus investiti piscationem in publicis fluminibus jure superioritatis prohibere possunt</i> arg.c.unic.quæ sint regalia in usib. feudor. l.1.§.per-mittitur 41.junct.§.seq.ff.De aqua quotid.&amp; æstiv l.sin.C. de aquæ du-ctu. Diff.Cæpoll.in tract.de servit.rustic.præd.rubr.de piscat Rosenth.in Synopsi juris feudalis c.5.quæst.26. Privatas vero aquas quod attinet in lacu, stagno, diverticulo alieno, qui piscatur, statim propter ipsum fundum licet prohibitio non præcesserit, actione injuriarum imo furti conveniri potest, &amp; sic furtim capti pisces à domino extorqueri possunt l.13.in sin ff.de injur. d.§.item feras l.3.§.quicquid autem ff. de acquir.rer.dom.l.funes 15 ff.de act.empt.l.venat.ff.de usur. Diff.Cujacius 4.Obs.2.Duar.ad l.possideri §.item feras ff.de acq.poss.per illum text. eò quod pisces ceu fructus aquæ sint, &amp; se instar pomorum aliorumque fructuum habeant quos citra furti crimen in alieno fundo de-<i>cerpere non licet t.t. de arbor. furt. Cæl. Si tamen sic in stagno altiore loco privato positi pisces ruptis aggeribus in flumen publicum defe-runtur, eos vel quilibet liberè, vel is cujus sunt regalia occupare po-terit</i> arg d.§.quicquid autem. <i>An vero privati longâ consuetudine flumen publicum privatum facere, &amp; ex eo quod in aliquo fluminis publici diverticulo soli pluribus annis piscari soliti sint, pratextu longæ consuetudinis alios à piscatione excludere possint rectè quaeri-tur? Negativæ subscribimus</i> arg. <i>l.6.ff.de rer.div.in pr. l.4.</i> s.<i>ff.de V-sucap. l.51.ff.de contrab.empt. &amp; per ea quæ habet Connenus 3.Com.16.Donell.</i> s.<i>comm.12. Gædd.ad l..</i> s.<i>ff.de V.S Cujac.ad l.16.ff.de servi-tut.præd. Diff. D 4. per l.7.de diver.temp.præscript.ad quam resp. Cujac.ad d.l.45.ff.de Usucap. Diff. &amp; Petrus Faber ad l.non est singu-lis ff.de R.l. &amp; ex parte Forcat. Necyom. Dial. 85. p. 351.</i> (d) <i>Cicurata &amp; mansuefacta animalia quod attinet, haec non prius ab alio occupari possunt, quam si animum redeundi abjiciunt</i> §. pavonum Instit. de rer. div.</l>
+    </main_text>
+    <marginalia>
+      <note side="left" at="num quod piscatio" line_from="1" line_to="1">ali-</note>
+      <note side="left" at="num quod piscatio" line_from="1" line_to="1">etes:</note>
+      <note side="left" at="num quod piscatio" line_from="1" line_to="1">a ob-</note>
+      <note side="left" at="num quod piscatio" line_from="1" line_to="1">ts,an</note>
+      <note side="left" at="num quod piscatio" line_from="1" line_to="1">vers</note>
+      <note side="left" at="num quod piscatio" line_from="1" line_to="1">bf.66,</note>
+      <note side="left" at="num quod piscatio" line_from="1" line_to="1">mp.</note>
+      <note side="left" at="num quod piscatio" line_from="1" line_to="1">i rec.</note>
+      <note side="left" at="num quod piscatio" line_from="1" line_to="1">loan.in</note>
+      <note side="left" at="num quod piscatio" line_from="1" line_to="1">b.2.pf.</note>
+      <note side="left" at="num quod piscatio" line_from="1" line_to="1">ntenti-</note>
+      <note side="left" at="num quod piscatio" line_from="1" line_to="1">.quæst.</note>
+      <note side="left" at="num quod piscatio" line_from="1" line_to="1">ꝺ</note>
+      <note side="left" at="num quod piscatio" line_from="1" line_to="1">ferunt,</note>
+      <note side="left" at="num quod piscatio" line_from="1" line_to="1">h.ꝛ</note>
+      <note side="left" at="num quod piscatio" line_from="1" line_to="1">vtuntu</note>
+      <note side="left" at="eò quod pisces" line_from="1" line_to="1">inlitiu[?]</note>
+    </marginalia>
+    <notes>The right side of the page is cut off at the scan edge, so the lines end mid-word. The marginal fragments at the left are cut short and are only partly legible; their exact line positions are approximate, and they are listed in top-to-bottom order at the start of the paragraph. Doubtful readings in the citations are copied as they appear. Left-margin notes are only partly visible and their readings are uncertain; they are given as best read. "(d)" is a reference mark in the text.</notes>
+    <bottom_margin>
+      <catchword>rer. div.</catchword>
+    </bottom_margin>
+  </page>
+  <page type="text" lines="none" n="14" model="subscription/claude-haiku-5-5">
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One page of text in a single column. Running head at the top. Footnote (a) in smaller type below the text block. No marginal notes.</layout>
+    <running_head>Disp. de Acqu. Dom. Iuris Gent.</running_head>
+    <main_text>
+      <l n="1">
+        <i>rer.div.quam rejicisse videntur fi revertendi consuetudinem intermittunt, all.loc.quod ex quot actibus cognoscatur, arbitrio judicis relinquendam</i> leg.1.§.2.in sin.ff.de jur.deliberandi. Necesse au-tem est,ut hanc consuetudinem proprio motu intermittant: <i>Si enim inescationibus a proposito per vicinum avertantur, &amp; hoc casu per venationem occupentur, vel alias vi nobis adimantur, habeo in occupantem actionem furti</i> l.Pomponius ff.famil.erciscund. l.fi pavonem ff.de furt.§.pavonum Instit.de rer.div. <i>etiam de jure Sa-xonico, quod in eum qui apes exalveariis eximit, actionem furti competat, disponit</i> gloss.Weichbilde/art.120.</l>
+      <l n="2" para="true">III.</l>
+      <l n="3" type="heading" level="2" para="true">Captura, personas &amp; res bello justo captas, capienti-busadjudicat.</l>
+      <l n="4" para="true">
+        <i>Ut in venatione, sic &amp; captivitate res nostro dominio subjicimus</i> §.item ea Instit.de rer.div.l.adeo in pr.ff.de acqu.rer.dom.l.1.§.1.ff.de acqu.poffeff. modo bellum justum fit h e.tale quod a populo Roma-no aliis, vel ab alii\, populoRomano indictum, vel inter eos, qui su-periorem non recognoscunt, geritur, hi enim hostes proprie dicun-tur, ceteri prædones l.hostes ff.de captiv.&amp; postlim. reverf.l. hostes ff. de V.S.&amp; quidem personæ &amp; res mobiles in bello captæ militum ca-pientium fiunt d.§,modo non obstet mos vel pactum: Ex nonnulla-rum enim gentium belligerantium more vel pactis captivi [illegible, ~10 letters] so-luto liberi fiunt. Res immobiles vero belli duci, vel populo qui bel-lum gerit, acquiruntur l.captivus ff.de captiv.&amp; postlim reverf. Si ita-men in bello capta nostra potestati eximuntur similiter ut fera capta nostra esse desinunt d.§.item ea quæ ex hostibus.</l>
+      <l n="5" para="true">IV.</l>
+      <l n="6" para="true">Inventione acquirimus vel res, quæ nondum in alicujus dominio fuerunt{a} vel res pro derelicto habitas,{b} vel thesaurum{c}.</l>
+      <l n="7" type="foot" para="true">{a} (a) Pro rebus quæ nondum in alicujus dominio fuerunt ha-bentur</l>
+    </main_text>
+    <notes>Long s rendered as plain s throughout. The Greek word after "captivi" is too faint to read and is marked illegible. Footnotes (b) and (c) are not printed on this page. The italic passages are read from the scan and may not be exact. The paragraph "Inventione acquirimus..." is printed in the text block and is not clearly a heading, so it is set as a paragraph. Headings "III." and "IV." are bare numbers and are set as paragraphs.</notes>
+  </page>
+  <page type="text" lines="none" n="15" model="subscription/claude-haiku-5-5">
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One column of running text, with no marginal notes and no page number printed. Running head at the top of the page.</layout>
+    <running_head>Disp. de Acqu. Dom. Iuris Gent.</running_head>
+    <main_text>
+      <l n="1">bentur gemmæ, lapides Margaritæ (quæ Species quomodo invicem differant de eo consule l. fi non sunt §. sin.ff.de auro &amp; argent. legat. ubi dicitur,quod gemmæ sint materia pellucida,&amp; gemma quasi gemma nominentur, quam Etymologiam improbat Laurent. Valla lib.6.elegant.c.ult.) aliaq; in maris litore n.isfcentia.Hac omnia similiter ut mare jure naturali omnibus communia sunt: prinde q; cum in nullius dominio existant,occupanti cedunt §.item lapilli Institt. de rer.div.(b)Hoc item modo acquiruntur res pro derelicto habita §.qua ratione Institt.eod.l.1.ff.pro derelicto. Dicuntur autem res pro derelicto habita ,quas dominus ita abjicit,ut earsdem in rebus suis amplius habere noluerit §.all.unde illa res que in tempestate à nautis levandæ navis erat ejiciuntur §.alia sane sin.Institt.eod.l.2. in sin. l. 8.ff.ad L.Rhod.de jact.l.9.§.alia ff.de acqu.rer.dom.l.21.§.1.ff.de acqu. possunt vel incendij causa projiciuntur l.1.ff.de incend.ruin.&amp;nauf.vel erbeda currenti ignerantibus domini decidunt §.all. alia l 43.§. qui alienum ff.de furt. vel aliàs amittuntur §.alia Inst.de rer.div.Cum nõ abjiciendi,sed majoris piculi evitâdi causâ relinquantur,pro derelicto nõ suat habende,hinc non fiunt occupantis, sed legitimo domino sub pœna furti sunt reftitueda jurib.all.d.l.falsus creditor §.qui alienum quid &amp; §.proinde ff.de fugt. 'De jure quoq; Saxonico, rem alienam inveniens,vel à latronibus ac furibus recuperans,vel fi domino rei eandem petente fe eam habere negat,vel si non notum facit edicto publico , quod hanc rem alienam secum habeat furtum committit: non tamen ordinaria pœna furti puniri potest in differ. Zob. à Romanedittis part.2.diff.61.Sabiniani tamen existimarunt, nautas in naufragiis res ejectas pro derelicto habere,eo quod ex duobus unum eligant,&amp; in ipsam jacturam rei consentiant l. falsus 43. §. qui alienum cum §.seq.&amp; §.pen.ult.ff.de furt. id enim necessitate compulsi faciunt naut.e,in necessariis autem nemo liberalitatem exercere præsumatur, &amp; hæc Sabinianorum jàdudum explosa est sententia per contraria responsa l.qui levandæ 8.l.2.in sin ff.ad L.Rhod. de jact. §.</l>
+    </main_text>
+    <notes>The scan has no marginal notes. The top line is a fragment starting mid-word ("bentur"). Doubtful readings: "fugt" in "§.proinde ff.de fugt." and "erbeda" in "erbeda currenti" are uncertain; "poff." of the printed "pofl." is also uncertain.</notes>
+  </page>
+  <page type="text" lines="none" n="16" model="subscription/claude-haiku-5-5">
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One printed page of text in a single column, with no margin notes. Running head at the top. Catchword at the lower right.</layout>
+    <running_head>DISPUT. DE ACQU. DOM. IUR. GENT;</running_head>
+    <bottom_margin>
+      <catchword>tore</catchword>
+    </bottom_margin>
+    <main_text>
+      <l n="1">act. §. alia sanè Instit. de rer. div.&amp; constitutionem novam authent, quo jure novissimo res naufragorum surripientium bona fisco adju-dicantur, non obstante contraria consuetudine auth. navigia C. de furt. Si tamen nautæ animo rem derelinquendi jactum faciunt, res sic derelictas occupantibus fieri non negamus, sed potius cum Ulp. &amp; Sabiniani in d.l. falsus §. quod si dominus &amp; §. si jactum ff. de furt. affirmamus, quæ voluntas nautarum unde elici possit eleganter explicat Conanus lib.3.c.3. &amp; Menoch. lib.5. præsumpt 30. Illud hîc ab interpretibus investigari solet. ◊An inventor ob restitutionem suctam premium exigere possit? Negativa verior videtur per d.l. falsus §. ergo ff. de furt. Schneidvv tamen in §.sin.Inst.de rer.div. hanc opinionem limitat, quod inventor pro oper. rei conquirendæ causâ adhibita licitè præmium petat, quod Jacob. de Bellovifo lib. 1.c.10. n.54. pract.Criminal. ampliat dicendo inventorem posse uti retentione donec de interesse satisfiat. De jure Saxonum rem alienam inveniens publico edicto ex cathedra ecclesiæ notificare debet, si hanc rem invenisse. Publico hoc edicto facto si dominus rei intra sex septimanas sese sistit, si ejusmodi cum inventore est territorii rem libere ac totaliter recuperat: Si verò extraneus potest inventor tertiam sibi partem præmij loco retinere. Quod si se non sistit intra sex septimanas res illa pro duab. partibus judici istius loci, tertia inventori cedit. Sander.[?] lib.2.art.37</l>
+      <l n="2" para="true">(c) Tertio per inventionem acquiritur thesaurus h.e. antiquitus depositæ pecuniæ cujus non extat memoria, quæ dominum non habet l. nunquam nuda §.1.ff. de acq. rer.dom. cujus consilarium[?] tam pecuniam cujus depositorem probabiliter scire possumus, non thesaurum esse, &amp; proinde inventam non inventori cedere, sed deponentis ejusdem hæredum manere l. nunquam §.fi in sin. &amp; l. peregrè ff. de acq. poss. Hinc pecunia inventa in re empta non in modum thesauri; sed E.C. quod à venditoris parentibus ibi depositæ sit non ad emptorem, sed venditorem totaliter pertinet ut est text. form. in l. nunquam §.1,ff. de acqu. rer.dom. l. peregrè ff. de acqu. poss. l. à tu-tore</l>
+    </main_text>
+    <notes>No margin notes are printed on this page. The marginal lines "Sander." and "consilarium" are uncertain readings. No page number is printed. The running head is set in small capitals and has been normalised for u/v and i/j. The paragraph beginning "(c) Tertio" starts on a new line after a citation line. The printed word at the foot is "tore", which is a catchword.</notes>
+  </page>
+  <page type="text" lines="none" n="17" model="subscription/claude-haiku-5-5">
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One column of running text, full width, with a rule at its right edge. Running head above the text. No margin notes. The left edge shows fragments of the neighbouring page, which are left out. The page continues below the cut.; One column of running text, centred. Left margin: fragments of notes, cut off at the image edge. Foot of text: gathering signature "C" centred below the last line. No running head or page number visible.</layout>
+    <running_head>DISP. DE ACQU. DOM. IURIS GENT.</running_head>
+    <bottom_margin>
+      <signature>C</signature>
+    </bottom_margin>
+    <main_text>
+      <l n="1">tore ff. de rei vind. vide Alvarot. in c.1. n.8. quæ sint regalia in ufib. Feu-dor. <i>Sunt autem certa requisita quæ intervenire debent, ad id, ut thesaurum inventum quis suum faciat, ad hæc intelligenda sequentes assertiones sunt notanda. 1. Si investigatur &amp; invenitur thesaurus magicus, &amp; aliis illicitis, sive in suo sive in alieno loco non inventori sed fisco applicatur l.unic. in pr. C. de thesauris, quia rei illicitæ operam dans inde commodum sperare non debet. 2. Si invenitur in fundo, vel alio loco proprio fit inventoris §. thesauros Instit. de rer. div. idq; ex præscripto Divi Hadriani d. l. unic. C. de Thesaur. 3. Si invenitur in loco alieno data operâ, cedit totus non inven-tori, sed loci domino: non enim licitum est in alterius fundo thesaurum inquirere d.l.un. C. de thesaur. 4. Si invenitur in loco alieno casu &amp; fortuitò dimidius inventori, &amp; dimidius loci domino applicatur, nec refert locus publicus an privatus sit. In privato ergo loco alieno inventus dimidius inventori, dimidius domino illius loci privati applicatur. In loco cæsaris patrimoniali vel publico fiscali invento dimidius inventori, dimidius fisco. Cæsaris in pædia all §. thes</i> [illegible, ~40 letters] faurus l.3.§.penult.ff.de jur.fisci. Illud quæstionis est in loco sacro vel religioso fortuitò inventus,cui cedat? Hoc enim in punct.d.§ penult. l.3,ff.de jurefisci §.thesauros Instit.de rer.div.&amp; c.unic.quæ sint res regal.in usib.feud discrepantia habemus jura. Nec enim Hotm.We-semb.ad §.thesauros Instit.de rer,div.&amp;Borcholt.in c.unic. quæ sint regal.in usib.feudor.sententiam approbare possumus,qui nullam hic <i>courtuoniap d.ari existimant §.thesauros d.loc.sacr.&amp; religiosis privatis §.si in locis l.3.ad c.unic.de locis sacris ac religiosis publicis seu fiscalib.interpretantur. Eam ergò horum text.genuinam interpretationem esse existimamus.</i>D.fratres primum ut in loco sacro &amp; religioso casu inventus thesarus, dimidius fisco Imperatoris cederet voluerunt d.l.3.§.penult, idque non sine ratione; sed ex illo æquitatis capite,quod loca religiosa fisci imperatorij sint. D. Hadrianus vero naturalem æquitatem secutus in loco sacro &amp; religioso fortuitò inventum[?]</l>
+    </main_text>
+    <marginalia>
+      <note side="left" at="thes [illegible, ~40" line_from="1" line_to="1">fe</note>
+      <note side="left" at="thes [illegible, ~40" line_from="1" line_to="1">ter</note>
+      <note side="left" at="thes [illegible, ~40" line_from="1" line_to="1">cm</note>
+      <note side="left" at="thes [illegible, ~40" line_from="1" line_to="1">res</note>
+      <note side="left" at="thes [illegible, ~40" line_from="1" line_to="1">ter.</note>
+      <note side="left" at="thes [illegible, ~40" line_from="1" line_to="1">b.c.</note>
+      <note side="left" at="thes [illegible, ~40" line_from="1" line_to="1">mi.</note>
+      <note side="left" at="thes [illegible, ~40" line_from="1" line_to="1">nfe.</note>
+      <note side="left" at="thes [illegible, ~40" line_from="1" line_to="1">offu</note>
+      <note side="left" at="thes [illegible, ~40" line_from="1" line_to="1">cede.</note>
+      <note side="left" at="thes [illegible, ~40" line_from="1" line_to="1">&amp;l.</note>
+      <note side="left" at="thes [illegible, ~40" line_from="1" line_to="1">g me.</note>
+      <note side="left" at="thes [illegible, ~40" line_from="1" line_to="1">ita st</note>
+      <note side="left" at="thes [illegible, ~40" line_from="1" line_to="1">form.</note>
+      <note side="left" at="thes [illegible, ~40" line_from="1" line_to="1">l.àtu</note>
+      <note side="left" at="thes [illegible, ~40" line_from="1" line_to="1">ton</note>
+    </marginalia>
+    <notes>The line-end hyphens follow the printed breaks. Readings marked [?] are uncertain. The last line is cut off at the foot of this part, so "thes" is a fragment and is not completed here. The Greek-like ligatures and the long s are normalised to plain s. The top line is cut off and not legible. The left margin fragments are cut at the image edge and are only partly readable; they are given as read, with the cut parts left out. The last word of the page is partly cut and reads as "vensum"; it is taken as "inventum" with [?] because the final letters are unclear. Italic passage in the middle of the paragraph is set in italic type as printed.</notes>
+  </page>
+  <page type="text" lines="none" n="18" model="subscription/claude-haiku-5-5">
+    <warning type="merged_lines">1 line(s) contain several printed lines merged together (longest 1397 chars, median 231); line numbering is unreliable</warning>
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One column of running text, filling the page. Running head at the top, above the text. No margin notes, no catchword, no signature and no page number printed. A German passage in black letter appears inline in the text.</layout>
+    <running_head>Disp.de Acqu.Dom.Iuris Gent.</running_head>
+    <main_text>
+      <l n="1" merged="true">ventum thesaurum totum inventori assignavit. Postea Justinianus Imper. in §. thesauros Instit.de rer.div. non Divor.fratrum ut Duar. in tit.de solut.matrim.column.1.in sin.&amp;ad tit.de acq.rer.dom. c.4. &amp; Donell.4.Comm.14.existimant,sed D. Hadriani sententiam approbavit,ut recte sentit Godefrid.Novell.Leonis 51.eumq.secutus Fornannus disp.Inst.9.th.8.lit.h.Deinde Fridericus Imp.repudiata Justiniani &amp; Hadriani sententia D.fratrum opinionem revocavit,&amp; in forum reduxit c.unic.quae sint regal.in usib.feudor. Verum hisce iurib.omnib.derogatur putant Dd.dum ex notatis in c.1. de sent.&amp; rejudic. ubi traditur: quod loca sacra &amp; religiosa in dominio superioris ecclesiae esse dicantur, concludunt dimidiam partem thesauri in loco religioso inventi inventori,dimidiam praelato tribuendam esse. Verum hodie in praxi non attenta hac Dd.opinione sententiam D.fratrum &amp; c.unic.observari,censemus. Illud hic quod quaestionis est. An inventus thesaurus vel pro rei circumstantia ejus dimidiatus in fundo cujus dominium divisum directo an utili domino puta vasallo &amp; usufructuario acquiratur? ad dominum directum seu proprietatis talem thesaurum pertinere existimamus l.divortio §.si fundum in sin.ff.solu.matrim.Et in hoc quoq; convenit Jus Saxon.cum Jur.Civ.ut ostendit Wesemb.in not.ad §.Instit.de rer.div.&amp; Heig.in §.39.Instit.eod.fundam.constit.Electi.53.p.2. non obstante text.Landrecht/lib.1.art.35. <bl>Alle Schätze unter der Erde begraben tieffer denn ein Pflug/gehören zu der königlichen Gewalt.</bl> Nam licet illud olim sic in usu fuerit, hodie tamen hic text.de metallicis venis intelligendus est, ut declarant Dd. praecitati loc.fund.cit.constit.53.</l>
+      <l n="2" para="true">V.</l>
+      <l n="3" para="true">Traditio est datio possessionis {a} eademque fieri potest, vel per ipsum dominum {b} vel per ejus mandatarium. {c} Requiritur tamen ad eandem ex tantis[?] persona potestas &amp; voluntas {d} ex accipientis persona consensus &amp; apprehen-</l>
+    </main_text>
+    <notes>Footnote reference marks {a}, {b}, {c}, {d} in the last paragraph are printed as (a), (b), (c), (d); their notes are not on this page. "tantis" is uncertain. The last word is broken at the line end ("apprehen-") and continues on the next page. Possible printing slips, left as printed: "non Divor.fratrum", "Dd.opinione". The German in black letter is set inline.</notes>
+  </page>
+  <page type="text" lines="none" n="19" model="subscription/claude-haiku-5-5">
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One column of running text, with italic lines and reference marks (a) to (h) set in the same column. Running head across the top. Signature at the bottom left, a reference at the bottom right.</layout>
+    <running_head>DISP. DE ACQU. DOM. IURIS GENT,</running_head>
+    <bottom_margin>
+      <catchword>48. ff.</catchword>
+      <signature>C 2</signature>
+    </bottom_margin>
+    <main_text>
+      <l n="1">prehenfio {e} rei quæ traditur respectu ut habilis sit ad transferendum {f} &amp; sui ipsius {g} &amp; causæ propter quam traditur {h} ratione.</l>
+      <l n="2" para="true">{a} <i>positia definitio habetur apud Cujac. lib. 11. ob. 19. &amp; desum-ptæ ex l. 3 ff. Empt. Vend. &amp; l. si rem tradi 28. ff. de V.O.</i> Traditio ergo dicitur hic modus transferendi dominij quasi translatio. {b} <i>Fieri autem potest non solum a domino, vero §. per traditionem Instit. de rer. div. l. qua ratione §. hæc quoque ff. de acqu. rer. dom.</i> {c} <i>Sed &amp; ad sandatario h.e. eo qui iussu domini rem transfert §. nihil autem in terreft cum §. feq. Instit. d. l. all. text. ff.</i> {d} <i>Modo is qui vel cuius nomine res traditur verus dominus sit l. nemo plus potest ff. de R. J. &amp; l. traditio 20. ff. de acqu. rer. dom. vel is qui tradit, tale quasi dominium in rem habeat, ut liberè eam administrare possit (quales tutores &amp; curatores) quod si non habet eam alienare non potest, ut in furioso prodigo, minorenni, pupillo, marito ratione rerum dotalium immobilium aestimatarum perspicuum: velex concessione legis quasi dominus facti sit, cujusmodi creditor ratione rei oppignoratæ (e, Is verò cui res traditur in traditionem consentiat (in inventum enim nihil transferri potest) &amp; rem traditam apprehendat, quippe quod traditio apprehensionis species sit, &amp; mediante apprehensione perfi-citur.</i> {f} <i>Requiritur tamen porro ut in quem transfertur eandem accipere possit, ut res habilis ad transferendum {g} In habilis enim omnis res alienare prohibita, utpote res sacra, sancta, religiosa §. nulla Instit. de rer. div. fundus dotalis, t.t. ff. de fund. dotali &amp; id genus res alia {b} Ut præcedat titulus seu causa habilis ad translationem dominii (utpote emptio, venditio, donatio &amp;c.) eamq. ipsa traditio committitur &amp; quasi sit quatuor §. venditæ verò res Instit. d. loc. nec enim nudis pactis h.e. nudis titulis l. traditionib. l. servum 27. C. de rei vind. Ieuuquam nuda ff. acqu. rer. dom. dominio rerum transferuntur. Illud non immerito quæritur an error in causa dominii translatio nem impediat? Neg. per l. cum 36. ff. de acqu. rer. dom. J. in traditionib.</i>
+      </l>
+      <l n="3" type="foot" para="true">{a} Positio definitio habetur apud Cujacium.</l>
+    </main_text>
+    <notes>The scan is small and low in contrast. Many words of the italic passages are doubtful and are not marked individually; the reference marks (a) to (h) and their notes were partly read. The inline line numbers and citations in the italic passage are the least certain part. The line "ad sandatario" in the source is probably "ad mandatario", a printed error or my misreading; I left it as read. The Greek and Hebrew are absent on this page.</notes>
+  </page>
+  <page type="text" lines="none" n="20" model="subscription/claude-haiku-5-5">
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One page of text in a single column, with small-type reference lines across the top above the heading and small italic footnote lines below the main text. The running head is at the very top. No margin notes are visible.; One block of running text in one column across the full width of the page, from top to bottom. Below the last line, at the right, one catchword.</layout>
+    <running_head>DISP. DE ACQU. DOM. IURIS GENT.</running_head>
+    <bottom_margin>
+      <catchword>ditio</catchword>
+    </bottom_margin>
+    <main_text>
+      <l n="1" type="foot" para="true">48.ff.de pact.l.hominem ff.pro suo.Donell. 4. Comm.18. Diff. varie Od.per l.fi ego 19.ff.dereb.credit.&amp; l.35.ff.d.O.&amp; A quos sequitur Al-ciat.5.parerg.c.15.Conn.3.Comm.Responsionem vid.apud Donell.d. loc.&amp; apud Setserum d.disp.th.sin.Pac.cent.4.q.63.</l>
+      <l n="2" para="true">VI.</l>
+      <l n="3" para="true">Traditio vel est vera vel ficta,(a)Vera dicitur quando de manu in manum res traditur (b) ficta vocatur quando ius fingit traditionem intervenisse (c).</l>
+      <l n="4" type="foot" para="true">
+        <i>(a) Schneiddvv. &amp; alij ita distinguunt traditionem fund. L non statim ff.de peculio (b) &amp; prioris descriptionem habemus in S. per traditionem sub verbi tradi potest. Et à domino tradita alienantur, eaq; locum habet in solis rebus corporalibus tàm mobilibus d.§. per traditionem. tam immobilib. l.1.§.penult.ff.de acq.poss.(c) posteriòris v. delineationis varia exempla habentur §. interdum cum §.seq. [Instit.d.loc.. Eaq; in tantum porrigitur,ut per incertam voluntatem non certa personā constitutā in quam rem volumus transferre et</i>
+      </l>
+      <l n="5">jam fieri possit §. hoc amplius ait loc. &amp; non solum in corporalibus rebus, sed &amp; in incorporalibus locum habeat, cum in ijs patientia possessoris pro traditione habeatur <i>l.2 ff.de serv.</i> quam ad fictam traditionem sufficere exempla in <i>all. §§.</i> posita abundè declarant. <i>Sufficit</i> ergò hic fictio juris, nec reali traditione ad transferendum dominium opus est. E.g. quando rem tibi commodavi, aut locavi postea tibi eundem dono tunc non opus est, eam tibi tradam, sed sufficit patiar-rem tuam esse <i>§.all, interdum. Sic</i> quando tibi merces in horreo ven-do, non est opus ut ipsas merces tradam; sed traditio ficte per clavi-um dationem fieri potest <i>§.item</i> si quis modo venditio donatio vel alius titulus praecesserit <i>l.clavibus ff.de contrah.empt. Citra</i> legitimum titulum enim precedentem claves non rei tradende &amp; transferen-de, sed custodiæ saltem causâ datæ censentur <i>l.cum pater pluribus ff. de Leg.2. Illud hic non immeritò incidenter quæritur an de jure Saxon. in emptionib. &amp; venditionibus ad translationem dominii tra-</i>
+      </l>
+    </main_text>
+    <notes>The top-left reference lines are cut off at the left edge, so their first letters are fragmentary and kept as they stand. The footnote block is one continuous italic run with inline note marks (a), (b), (c); the boundaries between those notes are uncertain. "Setserum" and "Schneiddvv." are read as printed but are doubtful. Several abbreviations in the footnotes are uncertain and not checked against the printed text. The final footnote line may be incomplete at the lower edge. Top line is partly cut at the edge of the scan; words there are read as far as visible. Italic type is judged from the scan and may be incomplete.</notes>
+  </page>
+  <page type="text" lines="none" n="21" model="subscription/claude-haiku-5-5">
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One column of running text, with the footnote (a) in smaller type below it. A margin note stands in the right margin beside the paragraph beginning "Confusionem". Running head at the top.</layout>
+    <running_head>Disput. de Acqu. Dom. Iur. Gent.</running_head>
+    <bottom_margin>
+  </bottom_margin>
+    <main_text>
+      <l n="1">
+        <i>ditio seu cessio judicialis requiratur; an vero qualiacunq; extrajudicialis traditio sufficiat? discrepant hic interpretes Ruchbar. p. qu. 6. n. 41. &amp; Coler. decis. 16. n. 3. &amp; seq. putantes cessionem sive resignationem &amp; abdicationem</i>
+        <bl>
+          <i>Aufflassung und Werzich</i>
+        </bl>
+        <i>singularem judicialem requirere. Heigius v. p. 1. qu. 18. n. 18. existimat eam non de necessitate desiderari per gloss. ad art. 9. lib. 1. Landrecht. Heigij sententiam subscribimus.</i>
+      </l>
+      <l n="2" para="true">VII.</l>
+      <l n="3" para="true">Confusionem seu commixtionem dicimus quando duae materiae, seu corpora diversorum dominorum ita commiscentur &amp; confunduntur, ut tamen unam novam speciem diversam unum novum corpus non constituant (a) Hoc si voluntate &amp; consensu dominorum factum, res confusa est dividenda: (b) si vero casu, aut altero dominorum volente, altero invito factum (c) tunc similiter si quidem res confusae congerie, &amp; ita ut separari possint, unitae, quilibet rem suam vindicare poterit (d) sin vero continuitate extremorum, &amp; ita ut separari nequeant unitae, itidem divisio rerum sic commixtarum est instituenda (e).</l>
+      <l n="4" type="foot" para="true">(a) id enim quando unum novum corpus constituitur specificatio dicitur: quia diversa &amp; alia species producitur &amp; quidem si haec confusio voluntate dominorum fit, res erit dividenda, nec attendendum cuiuscunq; generis &amp; materiae res confusae fuerint §. si duorum cum seq. Inst. de rer. div. l. 5. in pr. ff. de comm. divid. l. 7. ff. de acqu. rer. dom. Habetq; hoc casu, quia consensu &amp; voluntate dominorum res inter se mutuae traditionis communes factae sunt §. si quod Instit. de rer. div. contra eum qui rem ita confusam solus vult retinere actio comm. divid. locum l. quidem Pomponius in sin. in pr. ff. de rei vind. Divisio tamen non pro dimidia parte secundum proportionem arithmeticam; sed pro rata ejus, quod quisquis contulit, habita ratione &amp; quantitatis &amp; qualitatis secundum proportionem Geome-tricam</l>
+    </main_text>
+    <marginalia>
+      <note side="right" at="Confusionem seu commixtionem" line_from="3" line_to="3">De confusione.</note>
+    </marginalia>
+    <notes>The running head is set in capitals and was read as "Disput. de Acqu. Dom. Iur. Gent." Several Latin words in the italic opening passage and in note (a) are small and uncertain: "Ruchbar.p." and "Coler." are read as printed but may be misread, and "Confusionem seu commixtionem" and "res confusae congerie" are read with some doubt, since the printed lines are faint. The line "Aufflassung und Werzich" is black letter and was read as best I could. The word "tricam" at the foot is the continuation of "Geome-" and is part of note (a), not a catchword. No page number is printed. Note (a) ends the page; the paragraph continues beyond it.</notes>
+  </page>
+  <page type="text" lines="none" n="22" model="subscription/claude-haiku-5-5">
+    <warning type="catchword_in_text">catchword taken out of the main text: (a)Id[?]</warning>
+    <warning type="merged_lines">1 line(s) contain several printed lines merged together (longest 1443 chars, median 466); line numbering is unreliable</warning>
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One printed page of running text in a single column, with a marginal note in the left margin beside the section "VIII." Running head at the top. Footnote text at the foot of the column, with its opening line cut off at the right edge.</layout>
+    <running_head>Disp. de Acquis. Dom. Iuris Gent.</running_head>
+    <bottom_margin>
+      <catchword>(a)Id</catchword>
+    </bottom_margin>
+    <main_text>
+      <l n="1" merged="true">tricam est instituenda (c)Si vero vel altero ex domini invito &amp; nolente vel casu ac fortuito commixtio facta (d)tum quod cujus fortuiti nemini imputari possint l.contractus ff.de R.J. quilibet rem suam vindicare potest, habetq; contra eum qui rem totam vult retinere actionem in rem l.3.l.f.l.23.in pr.ff.de rei vendic. quâ intentâ judex litem dirimere debet ex aequo, &amp; ita ut quilibet tantum &amp; tale consequatur, quantum &amp; quale prius habuit &amp; si hoc esse non potest, ut damno passo à commodum percipiente recompensatio fiat all §.quod si in sin. &amp; §.2.Inst.de off.judic. modò res talis sit, ut separari possit, cujus generis plerunq; res sicca quas congerie unum per commixtionem fieri in positione diximus (e) hac enim in qualitate deficiente, reqs ejusmodi existente, ut continuitate extremorum una fiat (quod in liquidis accidit corporib.) ita ut vel difficulter vel omninò non segregari possit leg.5.in prin.ff.de rei vendic. l.adeò 7.§ sed &amp; si 9.l.quicquid 27.ff.de acqu.rer dom. communis fit habetq; actio de comm.divid.Locum §.all.s.fi duorum Inst.non est inferenda particula NON &amp; legendum: non idem juris ut existimat Hottom.lib.7.obs.12. Non obst.l.idem §.idem 1.ff.de rei vindic.item §.cum ex aliena Inst.de rer.div.hi enim text.loquuntur de specificatione. Non obstat etiam l.si alieni 78 ff.solut.nam cum hic per solutionem meum acceperim traditione ficta debitoris dominium in mea pecunia numerata interiit. Donell.4.(Comm.30.</l>
+      <l n="2" para="true">VIII.</l>
+      <l n="3" para="true">Specificatio dicitur quando ex materia, una, vel materiis diversis nova species efficitur (a) &amp; in hoc acquisitionis modo (b) si partim ex mea, partim ex aliena materia speciem feci novam, eandem mea manet (c) sive ò ex aliena solum modò materia speciem facio, siquidem ad priorem &amp; rudem materiam reduci potest, ejus erit species facta cujus materia fuit (d) sin verò non reduci potest ad primam materiam ejus erit species qui operam in ea efficiendâ praestitit.(e)</l>
+    </main_text>
+    <marginalia>
+      <note side="left" at="Specificatio dicitur quando" line_from="3" line_to="3">DeSpeci-ficatione.</note>
+    </marginalia>
+    <notes>The top line of the page is cut off at the left edge, so the first word is a fragment: "tricam". The text in the upper block is set in small type and is partly faded, especially toward the right edge. Readings such as "all §.quod", "Hottom", "l.f.l.23" and "78 ff.solut." are uncertain and should be checked against the scan. The footnote "(a)Id" is cut off at the right edge of the scan, so its remainder is not visible. The marginal note is "DeSpeci-ficatione." with the hyphen as printed. A faint stray mark in the left margin is not printed text and is left out. Long s is written as plain s throughout, and the ligatures "ft" and "fi" are transcribed as printed.</notes>
+  </page>
+  <page type="text" lines="none" n="23" model="subscription/claude-haiku-5-5">
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One printed page. A single text column of italic running text, full width, with no margin notes, headings, page number or catchword. Running head at the top.</layout>
+    <running_head>Disp. de Acqu. Dom. Iuris Gent.</running_head>
+    <main_text>
+      <l n="1">
+        <i>(a) Id enim quando unum novum corpus diversum una nova species diversa non constituitur confusio seu commixtio dicitur. (b) Gravis circa specificationem inter Sabini &amp; Proculi Ictorum a se-ctas dissensio fuit: Sabiniani enim exististimarunt eiꝰ esse speciem qui materiae domino fuit eo quod id quod ex meo fit meum efficiatur l. d. eo §. quis ex vi[?] ff. ad exhibend. &amp; id quod nostrum est, sive facto nostro nobis adimi haud possit l. id quod nostrum 11. ff. de R. J. Procu-liani vero putarunt, eum factae species, cum antea in nullius bonis fuerit occupanti cedat per regulam quae in §. fere Instit. de rer. div. traditur. (c) (Cujus 9(. in l. adeo §. cum quis ff. de acqu. rer. dom. &amp; eum secutus Justinianus in §. cum ex aliena Instit. d. rer. div. hanc disce-ptationem sustulit, &amp; constituit, ut si partim ex aliena partim ex nostra materia novam speciem faciamus, eadem nostra maneat: cum non solum operam nostram praestiterimus; sed &amp; partem materiae dederimus. (d) Si vero ex pure &amp; simpliciter aliena materia speciem novam facimus, ut eo casu, si ad formam priorem reduci non possit, ea juris res maneat cujus materia fuit. §. cum exaliena Instit. de rer. div. l. 7. §. cum quis l. sed sit 26. ff. de acqu. rer. dom. (e) Si vero non ita abole-ri possit forma assumpta ut pristina rursus inducatur, ut tunc effecta species specificanti cedat, eo quod tunc materia deperdita censeatur d. loc. [?] Nec obstat l. all. adeo ubi dicitur, id quod ex meo fit, meum est: e. enim tum demum locum habet, si vel egomet ipsi ipse rem feci, vel alius meo nomine, vel me mandante, vel ratificante, ut notant interpretes ad hanc l. Requiritur tamen ad id, ut specificans speciem effectam suam faciat, bona fides: nam mala fide ex aliena materia, quid efficiens, non fit eius dominus d. l. adeo §. cum quis 7. ff. de rer. dom. sed operam suam materiae, domino, donare videtur arg. l. cujus per errorem ff. de R. J. l. adeo 7. §. ex diverso 12. ff. d. t. Nec adversatur, quod Justinianus in §. cum exaliena &amp; Cajus d. l. adeo §. cum quis non distinguant expresse inter malam &amp; bonam fidem, eam enim distinctionem habet Paulus tacite in vocab. suo NOMINE, quam nec Justinia-</i>
+      </l>
+    </main_text>
+    <notes>Whole page is italic running text, transcribed in one paragraph as it continues from the previous page (begins mid-sentence). Doubtful readings: "vi[?]" in the §. quis reference; "d. loc. [?]" line start, which is unclear in the scan; "Cujus 9(" as printed; "Justinia-" continues on the next page. Long s is transcribed as plain s; the ct ligature in "Ictorum" was read as ct. Hyphenated line-end words kept with their printed hyphens. No page number, catchword or signature is visible.</notes>
+  </page>
+  <page type="text" lines="none" n="24" model="subscription/claude-haiku-5-5">
+    <warning type="merged_lines">1 line(s) contain several printed lines merged together (longest 1686 chars, median 229); line numbering is unreliable</warning>
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One text column, with a marginal note at the left beside the section IX. Running head at the top. Catchword at the lower right. No page number is printed.</layout>
+    <running_head>DISP. DE ACQU. DOM. JURIS GENT.</running_head>
+    <bottom_margin>
+      <catchword>luvio</catchword>
+    </bottom_margin>
+    <main_text>
+      <l n="1" merged="true">stinianum[?] repudiasse inde verisimile est quod Caij in d.l.adeo me-diam viam sequentis opinionem approbet &amp; sequatur. Nec huic no-stra assertioni obstat id, quod nemo cum alterius damno locupletari debeat c.locupletari d.R.J.in 6.l.plane ʒ8.ff.de hæred.petit.l. jure na-turæ 206.ff.d.R.J. Domino enim materiæ datur actio in factum con-tra specificantem ad materiæ æstimationem consequendam. Diff. Conn.lib 3.c.6,n.3 &amp; addit,quod etiam tum quando species plus ma-teriæ quam artis habet, licet ad pristinam formam reduci haud pos-sit,ei res factæ sit adjudicanda,cujus fuit materia, quam opinionem doctè refutat Arum.ex Instit.4.th.15.&amp; positas distinctiones declarat Imperator multis exemplis in §.cum ex aliena Instit.de rer.div. Circa quæ tamen notandum id exemplum,quod de frumento ex spicis ex-cusso ibi ponitur, huc non quadrare.sed ex Caij institutionibus à compilatoribus Instit. Justinianarum perperàm exscriptum esse, non facto respectu ad posteriora verba Caij,quæ sunt hujus exempli correctoria,ut satis apparet ex l.7.§ cum quis 7.vers.videntur ta-men.ff.de acqu.rer.dom.ut deducit Hottom.&amp; Anton. Matthæus ad d.§.cum ex aliena. Fornannus vult Tribonianum excusare disp.9. th.15.m.g. &amp; adducit Imperatorum solummodo exempla in quibus quid ad priorem materiam reduci nequit,referre,nec strictè conclu-dere frumentum esse excutientis. Sed text.verba huic conciliationi reclamant. Illud hic quæritur rectè coronidis loco,an in navi idem obtineat quod in aliis speciebus &amp; navis quoq; illius qui eam conse-cit efficiatur? Affirm. cum Baldo ad §.cum ex aliena Instit.de aeq. div.Donell.4.comm.6.n.2.Hottom.ad d.§.cum ex aliena Antonio Fa-bro6.comm. 15.per l.61.ff.de rei vindic.</l>
+      <l n="2" para="true">IX.</l>
+      <l n="3" para="true">Accessioni naturali nobis acquiruntur ea, quæ ipsâ natura operante rebus nostris accedunt, vel ex rebus no-stris proficiscuntur (a) Et hujusmodi accessionis species, præcipuæ, ad quas aliæ referri possunt, [?]ex sunt scilicet al-</l>
+    </main_text>
+    <marginalia>
+      <note side="left" at="Accessioni naturali nobis" line_from="3" line_to="3">De accef-fione na-turali.</note>
+    </marginalia>
+    <notes>The first word at the top edge ("stinianum") is cut off by the scan edge; the missing initial is uncertain. The "⊕" sign before "Affirm." is a printed mark that is not transcribed. Italic type was not reliably distinguishable at this resolution, so italics are omitted. "sex" is doubtful and marked [?]. The printed line ends on "al-", and the catchword "luvio" completes it at the foot. No page number, signature or footnote text is printed on this page.</notes>
+  </page>
+  <page type="text" lines="none" n="25" model="subscription/claude-haiku-5-5">
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One page of text in a single column, ruled at both sides. Running head at the top. The main text is one paragraph. Below it, in smaller italic type, runs a block of notes headed by the mark (a). Catchword at the lower right. Signature at the lower left.</layout>
+    <running_head>DISP. DE ACQU. DOM. IURIS GENT.</running_head>
+    <main_text>
+      <l n="1">luvio{b} insula in flumine nata partus ancillarum{f} fructus sponte provenientes fundi{g} vel nostri aut quoad pleuum{h} aut quoad utile{i} dominium vel alieni bona fide à nobis possessi{k}.</l>
+      <l n="2" type="foot" para="true">{a} <i>Vidimus hactenus accessionis latissimè sumptæ species duas priores jam consequens est, ut proprie dictam accessionem videamus, quæ id quod rei accedit nostra vel ex nostra re proficiscitur, nostrum efficitur juxta vulgatam regulam: accessorium sequitur naturam sui principalis l.cum principalis 178.ff.d.R.I.c.accessorium de R.I. l.in 6. Harum una quidem principalis rectè naturalis vocatur, ideò quod maximè naturâ operante perficiatur. fund.§.insula cum trib. f.q.&amp;§.fi qs cum duo.feqq.§§.Inftit.de rer.div.</i>(b) <i>huius prima species alluvio (quæ nihil aliud quam incrementum latens) eam terræ portionem, quæ à flumine latenter &amp; sensim nostro fundo adjicitur nobis acquirit §.præterea Inftit.d.rer.div.l.adeò 7. §. 1. l. in agris 16.ff de acqu.rer.dom.l.1.C.de alluv.modo agri quibus portio adjicitur sint arcifinei seu occupatorij d.l.16.l.1.§.6.ff.de fluminib. qui quales declarat Con.in.lib.3.c.s n.4.&amp; seq.in limitatis enim h.e.certis limitibus distinctis agris jus alluvionis locum non habet d.l.16.ff.d.acqu.rer.dom.Diff.Conn.3.comm.s.n.4.vid.Donell.4.comm.26.&amp; 27 c.&amp; Baptistam Emium lib 1.d.alluv.c.17. Illud hic non immeritò quæritur an ad usfufructuarium, Emphyteutam &amp; vafallum jus alluvionis quoq; pertineat? Affirm.defendemus per l.item 9. huic ff.de Ufufr.l.fi fundus 16 in pr.ff.de pignorib.&amp; ea quæ habet Schraderus d.feud.p.r.c.6.n.26.&amp; Heig p 2.q.ult.Ea v.terræ portio, quæ reperenti no motu,&amp; ita ut animadverti possit, non paulatim &amp; latenter fundo nostro adijcitur non efficitur nostra, sed à suo domino antequam coaluat, quo vis tempore vindicare potest §.quod si vis Inft.d.lo.l.adeò §.1.ff.de acqu.rer.dom.Sit tamen tam diu negligentia suâ à domino non vindicatur donec coaluat, per hanc consolidationem, &amp; quasi fundo nostro agglutinationem nostra efficitur all §,&amp; all.l.adeò l.9 §.</i>
+      </l>
+    </main_text>
+    <bottom_margin>
+      <catchword>Alle-</catchword>
+      <signature>D [?]</signature>
+    </bottom_margin>
+    <notes>The scan is slightly blurred. The signature mark at the lower left is read as "D" with a stroke, uncertain. Italic and roman type in the note block is mixed; the marks (b), (f), (g), (h), (i), (k) stand in the main paragraph and are not repeated in the note block except (b). Some abbreviated citations are uncertain (e.g. "videamus", "posseffi", "Con.in.lib.3.c.s", "Heig p 2.q.ult"); these are copied as they appear, without guarantee. No page number is printed.</notes>
+  </page>
+  <page type="text" lines="none" n="26" model="subscription/claude-haiku-5-5">
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One printed page, one column of running text with marginal citations and references set into the column. The running head is at the top. No page number, catchword or signature is visible.</layout>
+    <running_head>DISP. DE ACQV. DOM. IURIS GENT.</running_head>
+    <main_text>
+      <l n="1" para="true">Alfenus 2.ff.de damno infect. quod &amp; in arboribus obtinet, quae ad fundum nostrum vi fluminis adiecta antequam radices egerint, a suo domino vindicari possunt: postquam vero radices egerunt, nostra efficiuntur d.l.9.§.Alfenus 2.ff.de dam.infect.l.ied fi 26.§. 2.ff. de acqu.rer.dom. Idem Pomponius §. f.ff.d.rei vindic.(c) <i>Insulam h.e. terram in solo seu mari</i> (inde enim nomen habet, quod maxime in mari sita sit) quod attinet hac in mari nata (vobis enim de insulis quae semper fuerunt cuius generis Corsica, Creta &amp; similes sic mo non est) similiter ut mare nullius est in bonis arg. §. &amp; quidem lusture de rer. div. &amp; proinde occupanti cedit §.Insul. Insulit.d.loc.adeo 7.§.3.ff. de acq rer.dom. Qui aqui animo eo eam ingreditur ut eandem occupet, nec hoc casu necesse est singulas terrae glebas apprehendi l.4.ff.de acqu.rer.dom. <i>Iurisdictionem tamen in insula sic occupata is retinet cuius est provincia</i> arg. l. insulae 9.ff.de judic. Vult ad §. Insula 22. Insulit. d. rer. div. Nam vero in fluminis medio eorum est communis quorum fundi flumen attingunt modo fundi artificium non limitati sint l.1. §.insula ff.de flum. §.insula 22. Insulit de rer div. <i>eo quod alveus quatenus non tegitur fluminis privatus sit, &amp; ad proximè accolentium dominium pertineat</i> l.ergo 30.§.1.&amp; 2.ff. d.acqu.rer.dom. Cuius tamen proportione quae ipsius fundi flumen attingit all. §. insula all. l. adeo §. insula &amp; l. inter eos ff. de acqu. rer, dom. acquiritur. Cum quo convenit Jus Saxon. art.56.lib.2. Landr. Et denique proprior est quam fluminis medietati, eorum quorum fundi proximius adjacent all.textib. Et haec acquisitio insulae de qua hic loquimur intelligenda est, tam te proprietate, tam de usu l. adeo §.3. inter 29.ff.de acq.rer.dom. Don.4.Com.11. Dis. Cuj. 14.obs.11 per l.pen. §. ult.ff.de acq.rer.dom. Resp.vid.apud Pac.Cod. Sinv. qu.93. <i>Sin flumen sinuose trascurrere incipit, ita ut superius dividatur, &amp; inferiori rursus uniatur ac ita ex agro alicuius insulam efficit, ea insula sic effecta ejus manet, cujus ager antea fuit</i> §. insula &amp; §. all. adeo §. quod fit d. art.56. Landrecht. <i>Similiter requiritur Insula flumius alveo jam firmiter agglu-</i>
+      </l>
+    </main_text>
+    <notes>The scan is blurred and the marginal citations run into the column, so many references and abbreviations are doubtful and may be misread. Words such as "lusture", "Insulit", "Cod. Sinv." and "Resp.vid.apud Pac.Cod." need checking against the original. The line ending "agglu-" is cut off at the foot of the page. Some italic passages are approximate in their extent.</notes>
+  </page>
+  <page type="text" lines="none" n="27" model="subscription/claude-haiku-5-5">
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One column of running text under a running head; a gathering signature at the lower left and a catchword at the lower right. No marginal notes.</layout>
+    <running_head>DISP. DE A[?]-AU. DOM. JURIS GENT.[?]</running_head>
+    <bottom_margin>
+      <catchword>beat</catchword>
+      <signature>D 2</signature>
+    </bottom_margin>
+    <main_text>
+      <l n="1">agglutinata ut sit. Si enim nondum alveus aret; sed solummodo virgultis aliâq; materiâ in ipso flumine fuslinetur[?] publica est, nec ad privatorum dominia pertinet, eo quod flumina in se publici juris sint l. penult. C. quæ res. de acqu. rer. dom. (d) Vt autem insula sic &amp; alveus derelictus h.e. fossa per quam flumen dilabitur seu venter fluminis, eorum efficitur, qui prope ripam prædia arcifinia &amp; occupatoria h.e. prædia non limitata possident. Et hoc casu pro quantitate prædij, quantitas alvei derelicti cuius aestimanda §. quod finaturali Instit. d. rer. div. l.1 §.1. ff. de fluminib. l. adeo 7 §.1 ergo §.1. ff. d. acqu. rer. dom. Licet quam diu alveus flumini inservit juris publici sit, in tantum ut &amp; ager privatus non modo per alveum fluminis publicus fiat, non quidem proprietate, sed usu l. adeo 7 §.5 eo quod flumen publicum sit non quod ad proprietatem, sed quo ad usum, ut deducit Vult. in tit. Instit. 2. rer. div. n. 24. in pr. ex l.1. in pr. ff. d. interdict. &amp; l. fluminum ff. d. damn. infect. Sed &amp; flumine alveum longo intervallo post delinquente, non prioris domini rursus efficiatur, sed iis qui prædia prope ripam possident, cedit ut all. §. quod si naturali &amp; all. l. adeo. Diversa tamen ratio est in inundato agro: Secedente enim aquâ, ager in iis rursus cedit quorum anteà fuit §. alia sane Instit. d. loc. l. 30. §. alluvio ff. de acq. rer. dom. Cui num obst. l. Attius 38. ff. eod. loquitur enim de mutatione alvei l. 23. l. 24. ff. quib. modis usufr. amitt. quod &amp; tum obtinet, si alveus a flumine noviter factus, repente exsiccetur, &amp; a flumine deflituatur l. adeo 7. §. quod si &amp; §. aliud sane l. ergo §. alluvio ff. de acqu. rer. dom. Donell. 4. Comm. c. 28. Baptista Æmilius d. jure alluvionis §.1. n. 2. &amp; seq. c. 13. Diff. Conn. 2. comm. §. contrariorum argum. dissolutionem vid. apud Pac. cent. 2. quæst. 88. (e)</l>
+      <l n="2" para="true">Quarto fœtus ex animalibus nostris proveniens non solum ijs quorum plenum, sed &amp; ijs quorum utile saltem habemus dominium, nobis cedit §. item ea Instit. d. loc. l. 6. ff. de acqu. rer. dom. &amp; l. 5. §. 2. ff. de rei vind. ubi JCtanquit: Si equam tuam equus meus prægnantem fecerit, eo esse tuum, sed meum quod natum est, quod ipsum ex usufructuario manifestum est, cui cedit licet utile saltem dominium ha-</l>
+    </main_text>
+    <notes>The running head at the top is hard to read; the abbreviated words "A-au." and the end of the title are doubtful. Several abbreviations and citations in the text ("ff.", "Instit.", "Pac.", "Diff. Conn.") are only as clear as the scan; a few letters in the Latin (e.g. "fuslinetur", "eo esse tuum", "Attius") may be misread. The word "cedit" in the last paragraph and "Vult." are doubtful. Italic type is not marked in the text. The "(d)" and "(e)" reference marks are inline in the text, not marginal notes.</notes>
+  </page>
+  <page type="text" lines="none" n="28" model="subscription/claude-haiku-5-5">
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One block of running text on one printed page, set in a single column. No margin notes, and no page number, catchword or signature is printed.</layout>
+    <running_head>DISPVT. DE ACQV. DOM. IVRA GENT.</running_head>
+    <main_text>
+      <l n="1">beat §. in pecudum Instit. d. l. (l) partus ancillarum quoq; similiter nobis cedit eo quod partus ventrem per l. f. §. 2. ff. de rei vind. &amp; arg. l. naturae 24. ff. de stat. hom. &amp; consequenter ventris domini [?] §. 2. sequitur, nisi quod in hoc illud peculiare sit, quod usufructu- arii [?] leg. [?] aliter essencefso, non usufr. ucturio, sed proprietario domino acquiratur, eo quod homo ob suam excellentiam non sit in fructu alie. §. pecudum &amp; l. 68. ff. de usufruct. Obstare videtur l. 10. l. Falcidia 24. ff. ad L. Falcid. &amp; l. Paulus respondit 4. ff. d. usuris. Respondit apud Forman. disputat. p. th 12. &amp; Graf. §. mliscell. c. 8. (g) De nig. fructus fundi quod attinet hi sunt aut naturales aut industriales l. fructus in pecudum l. qui si §. in alieno ff. d. usfur. &amp; ex his naturales &amp; sponte provenientes (de his enim hic in fructificatione nobis solummodo sermo est) ut foli accessorium possessori cedunt certa tamen cum distinctione. (h) Si enim fundus totaliter pleni dominii juris, noster est totaliter &amp; individualiter efficiuntur nostri arg. §. all item ea. Idq; ea ex ratione, quod nihil tam naturale sit, quam id quod ex re nostra provenit, nostrum fiat. (i) Si vero saltem quae ad usumfructum, vel colonorum jure, aliove utili dominii titulo nostrum est, ista jure per mortem usufructuarij vel coloni finito, percepti, h. e. a solo separati &amp; in horreum recondituq; nostri facti esse efficiuntur, pendentes &amp; superstites in horreum non dum recondit non similiter, sed eidem proprietario domino cedunt leg. si fructuarius messem leg. si apes 26. l. servus 61. §. locavi ff. d. furt. §. is vero Instit. d. rer. divis. in quo vocabulum fere non exterminandum putamus per l. 14. §. ult. ff. Locati leg. viam to C. de locat. Idq; propterea, quod fructus pendentes pars soli esse censentur l. fructus ff. d. rei vindic. morte autem usufructuarii, jus quod in solo fundi istius habuit ut personale extinguitur §. sin. Instit. d. usufr. Diss. Cujac. in notis Instit. post. &amp; putat deberi heredi fructuarii fructus pro rata temporis, quo constituit usufructus per l. §. §. 4. ff. si usufructus pet. &amp; l. 32. &amp; penult. ff. de usufruct. legat. quam opinionem Cujac. refutat. Hartm. lib. 1. quaest. 24. n. 17. (k) Quod si fundum alienum ut nostrum bona fide h. e. non aliter quam ut nostrum sit, scientes &amp; exstillimantes possidemus, quam diu in bona fide fumus</l>
+    </main_text>
+    <notes>The running head is copied as far as I can read it; "IVRA" and "ACQV." are not fully clear. The scan is faint and blurred in places, so the Latin words marked [?] and the Greek-free citations in the second half are uncertain. The lines after "usufructu-" in the middle of the page are hard to read and may contain errors. The paragraph breaks are not sharply indented and may not match the printer's exactly. The text is cut off at the foot of the scan, so the last word is taken as printed. No page number, catchword, signature or marginal note is visible.</notes>
+  </page>
+  <page type="text" lines="none" n="29" model="subscription/claude-haiku-5-5">
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One page of text, one column, with running head at top. No marginal notes or footnotes in this part.; One column of running text, full width, with a ruled vertical line at the right edge. Below the text: signature "D 3" at the left foot and catchword "suos" at the right foot. No marginal notes in this part.</layout>
+    <running_head>DISP. DE ACQU. DOM. IURIS GENT.</running_head>
+    <bottom_margin>
+      <catchword>suos</catchword>
+      <signature>D 3</signature>
+    </bottom_margin>
+    <main_text>
+      <l n="1">
+        <i>omnes in provenientes fructus naturales l. bonæ fidei 48. l. qui scit § 1. l. in pecudum. 28. ff. d. usur. § si quis Instit. de rer. div. nostros efficimus. Quod si alter verus dominus nondum fundo præscripto (si enim præscriptus esset, vindicatio non habet locum) eum vindicat, nosq; ita male fidei possessores esse incipimus, tunc dominus fundi suos facit naturales fructus pendentes, ex eo quod pars fundi esse censeantur l. fructus 44. ff. de rei vindic. &amp; omnes tam extantes tam consumptos, qui post malam fidem supervenientem, vel percepti sunt, vel percipi potuerunt l. in sin. C. de petit. hæred. l. certum 22. C. d. rei vind. Ut eis[?] bonæ fidei possessor non habet titulum suæ possessionis, h.e. quando quidem illum suum fundum esse certò statuit, quo titulo autem an ex emptione, an donatione, ipse vel sui antecessores eundem acceperint, ignorat, ante malam fidem perceptos h.e. quoquo modo solo remotos, licet in horreum non dum reconditi fuerint l. 13. ff. quib. mod. usufr. amitt. l. bonæ fidei ff. de acqu. rer. dom. l. qui scit § 1. ff. d. Usur. tam consumptos ex quibus bonæ fidei possessor fructus</i> [?] quibus bona fiunt possessor fac. ut est locupletior</l>
+      <l n="2">Didac.Covar.r.resol.c.3.per l.sed si §.consuluit ff.d.hæred petit.ex quo ex quo text interpretationem l.Nesennius §. fundum ff.d. re judic.de- fumendam, putamus cum Foman. disp. Inst.tit. 21. lit. c. Diff.Fach.1 contr.58 ita ut eorum æstimationem bonae fidei possessor præstare te- neatur,l.si me &amp; Titium ff si certum petat per § fundum l.Nesennius ff.d re judic l r.&amp; meff.d reb.credit.l.idem ff.de condict.indeb. <i>quam extantes</i> l. fructus &amp; fundi d l bonae fidei d.l.qui scit l.in pecudum ff. d.Usur. <i>Bonae fidei vero possessor, hoc casu solos fructus perceptos h. e.agro remotos, licet in horreum nondum reconditi fuerint</i> arg mod. adduct L.L. <i>Siquidem suae possessionis titulum habet h.c. fi scit quo jure ipse &amp; antecessores sui hunc fundum possideant, omnes tam extantes, quam consumptos</i> §.si qui Instit.d.rer.div.l.bonae fidei ff.d. acqu.rer.dom. <i>Sin v. titulu non habet, solos consumptos ex quibus non factus est locupletior</i> arg.all.l.l,sed si §.consuluit ff.de haered.petit. capi. <i>suos facit. Male fidei possessorem quod attinet, is e fructibus naturalibus, nec perceptos sive extent, sive consumpti sint, nec percipiendos suos</i>
+      </l>
+    </main_text>
+    <notes>Only the upper part of the page is shown here; the lower portion of the last line is cut off, so the line ends at the last visible word. "eisi" in "Ut eis[?]" is doubtful. Italic type is approximated from the scan; the roman/italic boundaries in the Latin references are uncertain. The top line is only partly legible and is marked [?]. Print runs to the page foot and the catchword "suos" repeats the next word. No page number or running head is printed in this part.</notes>
+  </page>
+  <page type="text" lines="none" n="30" model="subscription/claude-haiku-5-5">
+    <warning type="merged_lines">2 line(s) contain several printed lines merged together (longest 564 chars, median 7); line numbering is unreliable</warning>
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One column of running text, with marginal note on the left at the first line of the paragraph beginning "Accessione industriali"; notes in small type below the text (a), (b), (c); catchword at the lower right.</layout>
+    <running_head>DISP. DE ACQU. DOM IURIS GENT.</running_head>
+    <bottom_margin>
+      <catchword>nostro</catchword>
+    </bottom_margin>
+    <main_text>
+      <l n="1">
+        <i>uos facit, sed omnes sive indè locupletior factus sit sive non fundi domino restituere tenetur, l.si navis §.in l.1 uctus ff.d.rei vind.&amp; § all. si quis &amp; l.25.infin ff.d.usur. Et ejusmodi fructus à mala fide possessore repeti possunt si quidem extant rei vindicatione: sin v. consumpti condict. sine causa l.malâ fide C. de Condict.ex lege.</i>
+      </l>
+      <l n="2" para="true">X.</l>
+      <l n="3" para="true" merged="true">Accessione industriali nobis acquiruntur ea, quæ non naturâ; sed industria &amp; labore humano è rebus nostris proveniunt {a} quod ipsum fit, vel rem rei, vel rem solo conjungendo. {b} Hoc contingit aut plantatione &amp; satione {c} aut in ædificatione {d} illud aut intextione {e} aut pictura {f} aut scriptura {g}.</l>
+      <l n="4" type="foot" para="true">{a} arg.§.si tamen alienam &amp; § cum in suo solo cum §§.s. seqq. Inst.d.rer.div.</l>
+      <l n="5" type="foot" para="true" merged="true">{b} ita distinguit elegantissimè Foman.disp. 9. th. 16. &amp; 24. Et quidem in ea accessione, quâres solo conjungitur, hæc unica observatur regula: quod res semper solo cedat. In eâ verò accessione quâres rei conjungitur distinguendum an res quæ rei conjungitur illius rei cui conjungitur pars formalis fiat, annon? Priori casu ei cedit rei, quæ novæ formæ introducendæ causa fuit principalis: Posteriori casu res conjuncta simpliciter ei rei cedit, cui conjungitur, ut elegantissimè decidit Gædd. ad l.Labeo 14.n.11.ff.d.V.S. &amp; eum secutus Foman. d.disp.9.th.24.&amp; 25.</l>
+      <l n="6" type="foot" para="true">{c} <i>Plantata §.si Titulus l.adeò § ult. ff. d.acqu.rer.dom.l.1.&amp; 7.ff.d.rei vind. Satâ §.qua ratione Inst.d rer. div. l.qui scit 25.ff.de Usur.l.19.in pr.ff.d.acqu.rer.dom. solo cedunt, &amp; proindè si nos alienam plantam in nostrum fundum ponimus, alienumque semen nostro fundo inserimus, vel si alter quispiam plantam, suum semen, nostro fundo inserit, sic implantata, insita, nobis acquiruntur modò radices egerint; antequam enim radices egerint à suo domino vindicari possunt: radices enim sunt quasi gluten, quo planta vel arbor solo agglutinatur.</i>
+      </l>
+      <l n="7" para="true">
+        <i>Si ergo in nostro fundo arbor alterius à nobis bonâ fide insita fuerit, dominum priorem amittit, &amp;</i>
+      </l>
+    </main_text>
+    <marginalia>
+      <note side="left" at="Accessione industriali nobis" line_from="3" line_to="3">Deaccef-fionein-duftri:</note>
+    </marginalia>
+    <notes>The marginal note reads "Deaccessione industriali" split across three lines by hyphenation; transcribed as printed. Reference marks (a)–(g) in the text are printed in parentheses and are given here in braces. The division between small-type footnotes and the italic continuation after (c) is inferred from differences in type size and may be off. The final body line is the last full line; "nostro" is the catchword at the lower right. Long s printed as plain s throughout.</notes>
+  </page>
+  <page type="text" lines="none" n="31" model="subscription/claude-haiku-5-5">
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One page of running text in a single column. Running head at the top, centred. No page number, no margin notes with text. Catchword "indeb." at the lower right below the last line.</layout>
+    <running_head>DISP. DE ACQUIS. DOM. IURIS GENT-</running_head>
+    <bottom_margin>
+      <catchword>indeb.</catchword>
+    </bottom_margin>
+    <main_text>
+      <l n="1">mostra efficitur l.adeo 7.§.ult.ff.d.acq rer.dom.l.1.&amp;3.ff.de rei vindic. in tantum ut rursus erutus ad priorem dominum non revertatur l. sed si §.arbor.ff.d.acqu.rer.dom. Nec obstat l.idem §d.arbore ff.d.rei vindic. <i>Ille enim text priori domino utilem solummodo tribuit actionem, non directam, &amp; sic eum non constituit dominum, ut respondet Delrio</i> ad d.l.idem. <i>Unde &amp; si vicini arbor in confinio posita in meo fundo ita radices egit ut a terra mea alatur, mea efficitur, adeo ut fructus ejusdem inter nos sint dividendi, modo ab initio ubi coepit vitalis esse utriusq; fundi terram praefferit</i> §.si Titius Instit.de rer.div. d.l.adeo: <i>Ea enim arbor quae non est posita in fine licet in utroq; fundo radices egerit communis non est</i> l.6 in sin.ff.arbor.furt.caesar. Sed ego fructus inde in alienum decidentes fundum, etiam demum post tertium diem colligere possum l.unic ff.d.gland.legend.</l>
+      <l n="2" para="true">Jus tamen Saxonicum de tali quoq; arbore non communi decidentes fructus non arboris, sed fundi in quem cadunt domino l.2.art.52. <bl>Landrecht Weichbild</bl> art.157. imo eos fructus quos quis ex ramis arboris vicinae in suum fundum dependent, sic decerpere potest, domino fundi in quem rami dependent, adjudicat d. art. Landr ubi text inquit <bl>fleicht sich der Hepffe umb einen Baum/wer die Wurtzel inn dem Hofe hat/der ziehe den Hepffen/was ihm folget das ist sein/was aber nicht folget/das bleibt deß Nachbarn.</bl> Et quod magis est jus Saxon. domino fundi confinis arboris prope pendentes ramos suc-cidere[?] concedit <bl>Weichbild</bl> art.126. &amp; 127. Hisce casibus tamen datur ei, cui semen &amp; planta fuit, si vel nos, vel ille ipse bona fide h.e. nescientes fundum alienum esse, consevimus fundum, vel eidem quid implantavimus, contra dominum sita ac implantata retinere volentem, si non impensas, &amp; aestimationem seminis ac plantae praestat, ex-ceptio doli l.48.ff.de rei vindic. Etsi enim non feminis, sed soli jure fructus percipiuntur l.qua ratione 9.ff.d.acqu.rer.dom. d.l.qui scit. dominus tamen fundi obligatur ad restitutionem impensarum per l.plane 38.ff.de petit.haered. vel fructuum dationem l.14.ff.d.condict.</l>
+    </main_text>
+    <notes>Small marks ("u"-like signs) stand at the right edge of the text block beside the lines "ego fructus" and "Jus tamen"; they are not legible as note text and are not transcribed. Italic passages in the Latin are approximated from the scan. "suc-cidere" is a doubtful reading of the word split at the line end. "Etsi enim" and "text" are read as printed but are uncertain. The German black letter is transcribed as best read.</notes>
+  </page>
+  <page type="text" lines="none" n="32" model="subscription/claude-haiku-5-5">
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One block of running text, one column, full width. No margin notes, no footnotes, no page number, running head at top.</layout>
+    <running_head>DISP. DE ACQU. DOM. IURIS GENT.</running_head>
+    <main_text>
+      <l n="1">
+        <i>indeb Dejure Saxon.seminans non recuperat impensas santrecht[?] lib.2.art.46.Si v.eos mala fide rem alienam nostro fundo infevimus[?], implantavimus,dantur domino rei contra nos quatuor actiones scilicet ad exhibendum rei vindic. condict. furt. actio furti. arg. verbo-rum: sicut is qui alieno solo ædificavit §.all quâ ratione,per ea quæ adduxit Schneidvv.ad §.in suo solo Instit.de rer.div.n.6. E diverso verò si mala fide h.e.sciens fundum suum non esse fundo suo quid inserit implantat, amittit rem insitam implantatam arg.l.cujus per errorem ff.d.R.J.Et ea,quæ de sitione &amp; implantatione hactenus adduximus non solum procedunt in eo fundo,qui plenario dominio ju-re ad nos pertinet,sed &amp; in usufructuario &amp; eo fundo quem cum a-lienus sit,ut nostrum bona fide possidemus.Nam fundum plenarij do-minij jure ad nos pertinentem quod attinet,ut naturales sic &amp; indu-striales fructus rerum vel nostrâ vel alienâ industriâ fundo nostro implantarum insitarum nostri efficiuntur,secundum illam regul.ni-hil tàm naturale est,quàm ut id,quod ex re nostra provenit,nostrum efficiatur.Idē juris est in fundo usufructuario: usufructuarius n. ut naturales,sic &amp; omnes fructus ( sive ex re sua industria sive ex re alterius industriâ plantata,sata solo cedunt) suos facit ,cum distin-ctione tamen illâ,quæ de naturalibus fructibus præcedenti positione à nobis tradita per generalia verba §.is v.Instit.de rer.div.Similiter &amp; qui alienum fundum ut suum nondum præscriptum bona fide possi-det: domino v.præscriptionem interrumpente,non tantum naturales (secundum in præcedenti positione traditam distinctionem) sed &amp; industriales fructus,ex re suâ sive alienâ industriâ plantata,sata per regulam( sata plantata solo cedunt ) perceptos tàm consumptos quàm extantes,sive cum sive sine titulo possident § si quis Instit.d.rer. div l. 48. ff. d. acqu. rer. dom. l. 45. in sin. ff d,ufur.inspectâ scil.natu-rali æquitate (de rigore juris enim solos consumptos suos facit,ex-tantesq; per verum dominum officio judicis vindicari possunt per l. certum C.de rei vindic.)pendentes v.non æquè suos facit, quia pars fundi</i>
+      </l>
+    </main_text>
+    <notes>Whole page is italic text in one paragraph, starting mid-sentence (cont="true"). Uncertain readings: "santrecht" after "impensas" (end of line 1, right side, possibly a printed word or mark); "infevimus" (the verb may read differently). Printing spellings kept as they appear (e.g. "Idē", "infpectâ", "Institd.rer.div", "Dejure", "lib.2.art.46.Si"). Long s rendered as plain s throughout. Last word "fundi" is a catchword-like fragment at the bottom right of the text block but is part of the last line, so it is kept in the text and no separate catchword is given. No page number or signature is printed on this scan.</notes>
+  </page>
+  <page type="text" lines="none" n="33" model="subscription/claude-haiku-5-5">
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One page of text in a single column; running head at the top; gathering signature "E" at the foot; no marginal notes.</layout>
+    <running_head>DISP. DE ACQU. DOM. IURIS GENT.</running_head>
+    <bottom_margin>
+      <signature>E</signature>
+    </bottom_margin>
+    <main_text>
+      <l n="1">fundi censentur. Ius Sax. hæc omnia duob. axiom.atibus determinat, quorum primum ita se habet[?]: colens fundum alienum bonâ fide lucratur fructus, malâ fide, &amp; fructus &amp; operam perdit gl. Landrecht lib.2.art.46.[?]</l>
+      <l n="2" para="true">Secundum verò hoc modo <bl>Was die Ege be-strichen / vnnd die Hacke bedeckt hat / das folget dem Erbe des Fruchtgnissers.</bl> Landrecht lib.2.art.58.&amp; lib.3.art.76.(d) Inædificationem quod attinet, hæc soli dominum ædificij ac materiæ per ædificationem consumptæ quoq; dominum facit. 1. Sive quis ædificet in suo solo ex materia sua per d.l.d.eo §.si quis ff.ad exhibend. 2. Sive ædificet in suo de aliena materia §.cum in suo Inst.d.rer.div.l 1.&amp; 2.ff. d.superficiebus l.2.C.d.rei vindic.3. Sive ædificet in alieno solo de sua materiâ l.planè ff.d.pet.hæred. §.ex diverso d.doc. 4. Sive quis ædificet de aliena materiâ in solo alieno l.2.C.d.rei vind. Illud hîc non immeritò quæritur, an supra alterius parietem exstructum ædificium domino parietis acquiratur? affirmativam defendemus cum Harp. disp.12 th.1.in notis. Obstare videtur §.cum in suo Inst.d.rer.div. Resp. illud ædificium solo per parietem cohæret. Obst. videtur etiam l. quemadmodum 29.§.1.ff.ad L.Aquil. Resp. 1. Projectum ita provehitur, ut nusquam requiescat l.malum 242.§.1.ff.d.V.S. Proindeq; solo mediante pariete conjunctum haud rectè dicitur. 2. Illud fieri propter naturam servitutis. Projectum n.balere[?], quædam servitutis species est. Coras. ad tit.ff.d.dam.infect. Ad id tamen ut soli vel parietis dominus ædificij superexstructi dominium nancisci atur requiritur 1. ut solum sit privatum, d.§.cum in suo Inst.t.d.rer.div. In solo n.publico vel omnib. communi non ædificium solo, sed solum ædificio cedit l.in tantum 6.in pr.ff.d.rer.div. l.quod in litore t4. ff.d acqu.rer.dom. 2. requiritur ut res inædificata immobilis sit l.7.§.6 in suo ff.d.acqu.rer.dom. In re mobili n.non procedit acquisitio per inædificationem 1. Titius 6o.ff.eod. Hæc duo si adfuerint dominus soli, in tantum ædificij dominus efficitur, ut aliena materia ædificio junctâ nec per rei vindicationem nec per actionem ad exhibendum repeti possit l.23.§.penult.1. Iuliauus 37.ff.d.rei vindic. §.all.cum in suo l.7.§. 10.ff.</l>
+    </main_text>
+    <notes>Doubtful readings: "lib.2.art.46" in the gloss at the end of the first paragraph is hard to read where it breaks across lines; "n.balere" (habere?) and "ita se habet" show irregular spacing and letter forms; "nancisci atur" is printed with a space; "axiom.atibus" is printed with a stop inside the word. Black letter German is set inside roman text and marked with bl. Section marks and the reversed letters are copied as seen. The last line ends with "10.ff." at the right, which belongs to the text, not to a catchword. No page number is printed.</notes>
+  </page>
+  <page type="text" lines="none" n="34" model="subscription/claude-haiku-5-5">
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One text column filling the page, with inline italic citations and some italic words within the running text. No separate marginal notes are visible. Running head at the top. A catchword at the lower right. A small gathering mark at the lower left.</layout>
+    <running_head>DISP. DE ACQUIS. DOM. IURIS GENT-</running_head>
+    <bottom_margin>
+      <catchword>élus-[?]</catchword>
+      <signature>c[?]</signature>
+    </bottom_margin>
+    <main_text>
+      <l n="1">
+        <i>o.ff.d.acqu.rer.dom.propter prohibitionem L.12.Tab.qua ne aspe- ius urbis depositis aedificiis deformetur</i> l.z-C.d.aedific.privat. <i>tignum h.e.quamcunq; rem quæ structura aedificii accedit</i> l.7.in pr.ff.ad exhibend.§.eum in suo Inst.d.rer.div.l.1.ff.d.tign.junct.l.tigni ff.de V.S.) <i>ximere vetat</i> all.§.cum in suo l.1.ff.d.tign.junct. <i>Non tamen eo ipso dominus esse definit</i> all.§.cum in suo l.eum qui z3.ff.de usurp 4.in rem 3.in pr.ff.de rei vindic. <i>Secundo enim casu si ædificans est bona fidei possessor materiæ dominus existente ædificio habet actionem in factum pratoriam in simplum</i> d 1.in rem actio§ dicit ff.d.rei vind l. 98.in sin. ff.d.folut. &amp; <i>actionem de tign.junct0, ad duplam æstimationem consequendam</i> all.§.cum in suo l.1.ff.d.tign.junct. &amp; <i>diruto aedificio si non duplum est consecutus</i> rei vindicationem &amp; actionem ad exhibendum all.§.cum in suo d.l.7.§.10.in pr.d.l.1.&amp; 2.ff.de tign.junct. <i>Sin v. male fidei possessor materiæ, ædificans dominus materiæ habet</i> contra eum actionem d.tign.junct.ad interesse in duplum l.in rem actio §. tignum ff.d. rei vindic.l. 3. §.sciendum ff.ad exhib. <i>ac prater hasce actiones conditionem furtivam, si is à male fidei possessore emit,&amp; actionem furti si ipse ædificans materiam illam subtraxit secundo.</i> gloss.ad L.1.ff.d.tign.junct. <i>Tertio casu v. dominus materiasi vel ipse à vero domino possidet solum, vel si bona fide h.e.insciius ex sua materia in solo alieno ædificat,in ædificii possessione constitutus,</i> fundam.l.si in arca 33.ff.d.condict.iudebiti l.48.(sumptus ff.d. rei vind. <i>à domino soli impensas &amp; æstimationem materiæ retentione ædificii</i> l.in fundo 38.ff.d.rei vindic.<i>recuperare,eum si hoc interesse vecusit, ab acquisitione ædificii per exceptionem doli removere potest</i> §.all.ex diverso l.14.ff.de Except.doli.<i>In ædificii v.possessione non constitutus, si per errorem sine deductione expensarum fundum Æ ædificium restituit,non, nisi imploratione judicis suum consequi poterit ut sentit Foman,</i> d.difp.9.th.17.lit.C.<i>fund.præall.l.si in area.Non obstat l. qui except.40.§.si pars ff.de condict.indeb.&amp; l.heres 21.ff.ad Trebell. Loquuntur n.de eo casu quando inter solventem,&amp; accipientem qd negotii geritur,&amp; contrahitur. De jure Sax.potest Colonus usufru- ctus.</i>
+      </l>
+    </main_text>
+    <notes>The page has no printed page number. The running head is read as printed. The italic marking is approximate, and italic was applied only where the type clearly changes. Several abbreviations are uncertain and may need checking against the scan: "ff.d.folut.", "all.§.", "z3.", "3.in pr.", "d 1.in rem actio§", "vecusit", "gloss.", "sentit Foman". The final word of the page at the lower right ("élus-") is uncertain and was read as a catchword. The gathering mark at the lower left is uncertain. The text on the page is cut at the right edge, and some line ends may be incomplete.</notes>
+  </page>
+  <page type="text" lines="none" n="35" model="subscription/claude-haiku-5-5">
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One page of running text in a single column, with a running head above it and a gathering signature at the foot. The left edge carries cut-off fragments of the neighbouring page, not part of this page. No margin notes on the right.</layout>
+    <running_head>DISP. DE ACQU. DOM. IURIS GENT.</running_head>
+    <bottom_margin>
+      <signature>E 2</signature>
+    </bottom_margin>
+    <main_text>
+      <l n="1" para="true">
+        <i>Fuarius[?], vel alius, qui alienum prædium possidet ædificia tollere si proprietarius fundi impensas ædificii restituere recusat. Cantor. li.2. arc.53. Sin v.mala fide b.e. sciens alienam esse, quid in alieno solo ædificavit, materiam donasse præsumitur d.l.7.§.12.ff.d.acqu.rer. do. §.ex diverso Instit.d.rer.div. eandem</i>, <i>amittit</i> arg.l.per errorē ff.de R.I.all.§.ex diverso. <i>In tantum ut nec diruto ædificio eam vindicare</i> all.§.1.§.2.C.de rei vind.l.fi is contra quem C.d.ædif. priv.nec ullam actionem dolive exceptionem instituere posset Schne. ad.cum n solo Instit.de rer.div. <i>Obstare vid.l.2.C.d.rei vind.</i> ex opinione Hottom. R.vid.apud Don.4.comm.c.33. <i>Et quarto denique, casu quo materia ædificatio est præstanda à foli domino sive ædificans in bona fide, sive in malafide fuit, eaq. stante ædificio non præstita, diruto eodem, materia vindicari poterit per l.2.C.d.rei vind.</i>(c) <i>In textura hac cedit res intexta ei, cui est intexta</i> §.26.Instit.d.rer.div.eo &amp; pars ipsius formalis efficiatur Gœd.ad L.Labeo ff.de U.S. <i>Sic purpura alienæ chlamydi, sulteri intexta cedit chlamydi, &amp; ejus efficitur cuius chlamys fuit</i> l.23.§.3.ff.d.rei vind.l.tigni 7 ff.ad exh. <i>có &amp; suâ formam amittat, chlamydiq; ita jugatur ut pars formalis exist at, &amp; ex cludi o possit</i> Gœ.d.lo.(f) <i>In hac cedit tabula pictura, ei? q. cuj° pictura est, etiam tabula efficitur</i> l.qua ratione 9.§.2.ff.d.acqu.rer.dom.§.fi quis Instit.de rer.div. <i>eò quod pictura non sit simplex tabula accessio, sed accessoria &amp; specificatione tabulæ addens formam, ut non amplius tabula, sed pictura &amp; imago vocetur</i> Gœdd.d.loc.Foman.difp.9.th.25. <i>Nec obstat nobis Paulus in l.in rem 23.§.sed &amp; id 3.ff.d.rei vind. Loquitur enim de coreaceis, cereis, lapideis, ligneis tabulis quæ scribendæ delineandæ &amp; vulgariter depingendæ rei gratiâ factæ sunt. Cajus verò in d.l.qua ratione de pictura artificiosa loquitur, alioquin sibi contrarius esset lib.2.Instit.b.tit.§.item 4.</i> qualiter hosce text.consentiat Gœdd.d.loc.n.13.(g) <i>In hoc acquisitionis modo scriptura charta cedit</i> l.in rem 23.§.2.ff.de rei vind.l.3.§.penult, ff, ad exhib. §.lite-</l>
+    </main_text>
+    <notes>Left edge: cut-off fragments of the adjacent page (such as "qua ne", "rivat. ligna", "in pr.ffado", "ni ff.de V.S.") are excluded as neighbouring-page edge. Doubtful readings: the opening word "Fuarius" (first letter unclear, perhaps a swash capital) and "Cantor." (possibly a name), both marked [?] where uncertain. Italic and roman boundaries in the citations are approximate. Paragraph breaks are not clearly visible, so the text is one paragraph. The final word "§.lite-" is a line-end hyphen with the word continuing on the next page, not a catchword. No page number is printed. Accents and marks such as "7" and "&amp;" are copied as they appear. "Schne." and "Hottom." are kept as printed.</notes>
+  </page>
+  <page type="text" lines="none" n="36" model="subscription/claude-haiku-5-5">
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One printed page. Running head at top, centred. Below it a short block of centred annotation lines in smaller type, then the word FINIS in spaced capitals, then a woodcut ornament with a library stamp, which is not transcribed.</layout>
+    <running_head>DISP. DE ACQU. DOM. IURIS GENT.</running_head>
+    <main_text>
+      <l n="1" type="foot" para="true">§. litera Instit. de rer. div. eo quod non fiat pars formalis charta Coed. d. loc. Mynsing putat olim propterea scripturam chartæ cessisse, quod charta olim in maximo fuerit pretio: Id vero hodie cum non in tanto pretio sit non similiter obtinere. Resp. vid. apud Foman. d. disp. 9. th. 23.</l>
+      <l n="2" para="true">FINIS.</l>
+    </main_text>
+    <notes>
+    Below FINIS sits a woodcut ornament (a head within scrollwork, with a leafy base); it carries no printed text. The oval library stamp ("BIBLIOTECA ... ROMA ... VITTORIO EMANUELE") is excluded. The faint lines in the lower half of the scan are show-through from the other side and are not transcribed. No page number, catchword or signature is printed. The annotation lines are set in italic type, though some abbreviations ("Coed.", "d.", "Resp.") may be roman. The ß-like "§" at the start is read as a section sign. "Mynsing" and "Foman." are read as printed; the scan is slightly blurred around "Foman." and "d.disp.9.th.23", so these may need checking against the original.
+  </notes>
+  </page>
+</book>
