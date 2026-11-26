@@ -1,0 +1,877 @@
+{
+ "work": "W07731_Walton_Introductio_ad_lectionem_linguarum_orientalium_Hebraicae_Cha_1655",
+ "made": "2026-11-24T22:49:15",
+ "model": "claude-haiku-5-5",
+ "prompt": "655260ce46aa8978",
+ "candidates": 201,
+ "cost_usd": 0.02227,
+ "dropped": [
+  "title 'Synopsis brevis' is not in 'Pag.': to the scan",
+  "no scans for 7 wanted"
+ ],
+ "toc": [
+  {
+   "scan": 9,
+   "line": 1,
+   "lines": [
+    [
+     9,
+     1
+    ],
+    [
+     9,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Ad lectorem. Praefatio."
+  },
+  {
+   "scan": 110,
+   "line": 7,
+   "lines": [
+    [
+     110,
+     7
+    ],
+    [
+     110,
+     8
+    ]
+   ],
+   "level": 1,
+   "title": "Errata quaedam inter alia leviora in Introductione sequenti emendanda."
+  },
+  {
+   "scan": 111,
+   "line": 1,
+   "lines": [
+    [
+     111,
+     1
+    ],
+    [
+     111,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "1. Introductio ad lectionem linguae Hebraicae & Chaldaicae."
+  },
+  {
+   "scan": 111,
+   "line": 3,
+   "lines": [
+    [
+     111,
+     3
+    ],
+    [
+     111,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Sectio I. Alphabetum Hebraicum & Chaldaicum."
+  },
+  {
+   "scan": 113,
+   "line": 6,
+   "lines": [
+    [
+     113,
+     6
+    ],
+    [
+     113,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "Sectio II. De numerandi ratione."
+  },
+  {
+   "scan": 114,
+   "line": 1,
+   "lines": [
+    [
+     114,
+     1
+    ],
+    [
+     114,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Sectio III. De literarum divisionibus."
+  },
+  {
+   "scan": 117,
+   "line": 1,
+   "lines": [
+    [
+     117,
+     1
+    ],
+    [
+     117,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Sectio IV. De literis quiescentibus."
+  },
+  {
+   "scan": 118,
+   "line": 1,
+   "lines": [
+    [
+     118,
+     1
+    ],
+    [
+     118,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Sectio V. De vocalibus & diphthongis."
+  },
+  {
+   "scan": 122,
+   "line": 3,
+   "lines": [
+    [
+     122,
+     3
+    ],
+    [
+     122,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Sectio VI. De Daghes & Mappic."
+  },
+  {
+   "scan": 123,
+   "line": 12,
+   "lines": [
+    [
+     123,
+     12
+    ],
+    [
+     123,
+     13
+    ]
+   ],
+   "level": 2,
+   "title": "Sectio VII. De syllaba & legendi ratione."
+  },
+  {
+   "scan": 126,
+   "line": 15,
+   "lines": [
+    [
+     126,
+     15
+    ],
+    [
+     126,
+     16
+    ]
+   ],
+   "level": 2,
+   "title": "Sectio VIII. De accentibus & Maccaph."
+  },
+  {
+   "scan": 132,
+   "line": 7,
+   "lines": [
+    [
+     132,
+     7
+    ],
+    [
+     132,
+     8
+    ]
+   ],
+   "level": 2,
+   "title": "Compendiosa ratio discendi linguam Hebraeam & Chaldaicam."
+  },
+  {
+   "scan": 135,
+   "line": 8,
+   "lines": [
+    [
+     135,
+     8
+    ],
+    [
+     135,
+     9
+    ],
+    [
+     135,
+     10
+    ]
+   ],
+   "level": 2,
+   "title": "Exercitatio lectionis Hebr. ex Zeph. 3. ver. 8."
+  },
+  {
+   "scan": 136,
+   "line": 1,
+   "lines": [
+    [
+     136,
+     1
+    ],
+    [
+     136,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Alia exercitatio ex 2 Reg. 1. ver. 6."
+  },
+  {
+   "scan": 137,
+   "line": 1,
+   "lines": [
+    [
+     137,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Alphabetum Samaritanum."
+  },
+  {
+   "scan": 148,
+   "line": 1,
+   "lines": [
+    [
+     148,
+     1
+    ],
+    [
+     148,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Exercitatio lectionis Samaritanae ex Deuteron. cap. I. ver. I."
+  },
+  {
+   "scan": 149,
+   "line": 1,
+   "lines": [
+    [
+     149,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "3. Introductio brevis ad lectionem linguae Syriacae."
+  },
+  {
+   "scan": 149,
+   "line": 2,
+   "lines": [
+    [
+     149,
+     2
+    ],
+    [
+     149,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Sectio I. Alphabetum Syriacum."
+  },
+  {
+   "scan": 152,
+   "line": 13,
+   "lines": [
+    [
+     152,
+     13
+    ],
+    [
+     152,
+     14
+    ]
+   ],
+   "level": 2,
+   "title": "Sectio II. Literarum divisiones."
+  },
+  {
+   "scan": 154,
+   "line": 1,
+   "lines": [
+    [
+     154,
+     1
+    ],
+    [
+     154,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Sectio III. De vocalibus & diphthongis."
+  },
+  {
+   "scan": 156,
+   "line": 8,
+   "lines": [
+    [
+     156,
+     8
+    ],
+    [
+     156,
+     9
+    ]
+   ],
+   "level": 2,
+   "title": "Sectio IV. De Daghes & Mappic."
+  },
+  {
+   "scan": 158,
+   "line": 6,
+   "lines": [
+    [
+     158,
+     6
+    ],
+    [
+     158,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "Sectio V. De scheva."
+  },
+  {
+   "scan": 159,
+   "line": 1,
+   "lines": [
+    [
+     159,
+     1
+    ],
+    [
+     159,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Sectio VI. De aliis punctis Syriacis peculiaribus."
+  },
+  {
+   "scan": 160,
+   "line": 19,
+   "lines": [
+    [
+     160,
+     19
+    ],
+    [
+     160,
+     20
+    ]
+   ],
+   "level": 2,
+   "title": "Sectio VII. De lineolis."
+  },
+  {
+   "scan": 162,
+   "line": 1,
+   "lines": [
+    [
+     162,
+     1
+    ],
+    [
+     162,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Sectio VIII. De accentibus."
+  },
+  {
+   "scan": 163,
+   "line": 7,
+   "lines": [
+    [
+     163,
+     7
+    ],
+    [
+     163,
+     8
+    ]
+   ],
+   "level": 2,
+   "title": "Sectio IX. De grammaticis & lexicis Syriacis."
+  },
+  {
+   "scan": 165,
+   "line": 1,
+   "lines": [
+    [
+     165,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Sectio X. Exemplum lectionis Syriacae ex Joh. 3. 16."
+  },
+  {
+   "scan": 166,
+   "line": 1,
+   "lines": [
+    [
+     166,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "4. Introductio ad lectionem linguae Arabicae."
+  },
+  {
+   "scan": 166,
+   "line": 2,
+   "lines": [
+    [
+     166,
+     2
+    ],
+    [
+     166,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Sectio I. Alphabetum Arabicum."
+  },
+  {
+   "scan": 173,
+   "line": 1,
+   "lines": [
+    [
+     173,
+     1
+    ],
+    [
+     173,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Sectio II. Ratio numerandi & divisio literarum."
+  },
+  {
+   "scan": 175,
+   "line": 1,
+   "lines": [
+    [
+     175,
+     1
+    ],
+    [
+     175,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Sectio III. De vocalibus."
+  },
+  {
+   "scan": 177,
+   "line": 12,
+   "lines": [
+    [
+     177,
+     12
+    ],
+    [
+     177,
+     13
+    ],
+    [
+     177,
+     14
+    ]
+   ],
+   "level": 2,
+   "title": "Sectio IV. De Hamza, Wesla, Medda, Gjezma, & Tesdid."
+  },
+  {
+   "scan": 185,
+   "line": 2,
+   "lines": [
+    [
+     185,
+     2
+    ],
+    [
+     185,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Sectio V. De accentibus."
+  },
+  {
+   "scan": 185,
+   "line": 12,
+   "lines": [
+    [
+     185,
+     12
+    ],
+    [
+     185,
+     13
+    ]
+   ],
+   "level": 2,
+   "title": "Sectio VI. De radicalibus & servilibus literis."
+  },
+  {
+   "scan": 186,
+   "line": 9,
+   "lines": [
+    [
+     186,
+     9
+    ],
+    [
+     186,
+     10
+    ]
+   ],
+   "level": 2,
+   "title": "Sectio VII. De grammaticis & lexicis Arabicis."
+  },
+  {
+   "scan": 187,
+   "line": 17,
+   "lines": [
+    [
+     187,
+     17
+    ],
+    [
+     187,
+     18
+    ],
+    [
+     187,
+     19
+    ]
+   ],
+   "level": 2,
+   "title": "Sectio VIII. Consilium Erpenii, de studio Arab. feliciter instituendo."
+  },
+  {
+   "scan": 194,
+   "line": 1,
+   "lines": [
+    [
+     194,
+     1
+    ],
+    [
+     194,
+     2
+    ],
+    [
+     194,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Sectio IX. Exercitatio lectionis Arabicae, ex Cap. sive Surat 58 Alchorani."
+  },
+  {
+   "scan": 195,
+   "line": 0,
+   "lines": [
+    [
+     195,
+     0
+    ]
+   ],
+   "level": 1,
+   "title": "5. Introductio ad lectionem linguae Persicae."
+  },
+  {
+   "scan": 195,
+   "line": 1,
+   "lines": [
+    [
+     195,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Sectio I. Alphabetum Persicum."
+  },
+  {
+   "scan": 199,
+   "line": 1,
+   "lines": [
+    [
+     199,
+     1
+    ],
+    [
+     199,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Sectio II. De literarum pronuntiatione, &c."
+  },
+  {
+   "scan": 202,
+   "line": 1,
+   "lines": [
+    [
+     202,
+     1
+    ],
+    [
+     202,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Sectio III. De vocalibus aliisque notis."
+  },
+  {
+   "scan": 204,
+   "line": 13,
+   "lines": [
+    [
+     204,
+     13
+    ],
+    [
+     204,
+     14
+    ]
+   ],
+   "level": 2,
+   "title": "Sectio IV. De grammaticis & lexicis Persicis."
+  },
+  {
+   "scan": 205,
+   "line": 6,
+   "lines": [
+    [
+     205,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "Exercitatio lectionis Persicae, ex Gen. 1. ver. 1."
+  },
+  {
+   "scan": 206,
+   "line": 1,
+   "lines": [
+    [
+     206,
+     1
+    ],
+    [
+     206,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "6. Introductio ad lectionem linguae Aethiopicae."
+  },
+  {
+   "scan": 206,
+   "line": 3,
+   "lines": [
+    [
+     206,
+     3
+    ],
+    [
+     206,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Sectio I. De Aethiopum characteribus."
+  },
+  {
+   "scan": 210,
+   "line": 5,
+   "lines": [
+    [
+     210,
+     5
+    ],
+    [
+     210,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "Sectio II. De pronunciatione quarundam literarum."
+  },
+  {
+   "scan": 211,
+   "line": 25,
+   "lines": [
+    [
+     211,
+     25
+    ],
+    [
+     211,
+     26
+    ]
+   ],
+   "level": 2,
+   "title": "Sectio III. De accentibus."
+  },
+  {
+   "scan": 212,
+   "line": 7,
+   "lines": [
+    [
+     212,
+     7
+    ],
+    [
+     212,
+     8
+    ]
+   ],
+   "level": 2,
+   "title": "Sectio IV. De grammaticis & lexicis Aethiopicis."
+  },
+  {
+   "scan": 213,
+   "line": 1,
+   "lines": [
+    [
+     213,
+     1
+    ],
+    [
+     213,
+     2
+    ],
+    [
+     213,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Sectio V. Exercitatio lectionis Aethiopicae ex Psal. 117."
+  },
+  {
+   "scan": 213,
+   "line": 19,
+   "lines": [
+    [
+     213,
+     19
+    ]
+   ],
+   "level": 2,
+   "title": "Sectio I. Alphabetum Armenum."
+  },
+  {
+   "scan": 216,
+   "line": 12,
+   "lines": [
+    [
+     216,
+     12
+    ],
+    [
+     216,
+     13
+    ],
+    [
+     216,
+     14
+    ]
+   ],
+   "level": 2,
+   "title": "Sectio I. Alphabetum Coptum, seu Aegyptiacum."
+  },
+  {
+   "scan": 220,
+   "line": 8,
+   "lines": [
+    [
+     220,
+     8
+    ],
+    [
+     220,
+     9
+    ]
+   ],
+   "level": 2,
+   "title": "Sectio II. De pronunciatione literarum quarundam."
+  },
+  {
+   "scan": 223,
+   "line": 1,
+   "lines": [
+    [
+     223,
+     1
+    ],
+    [
+     223,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Index eorum quae in Introductione."
+  }
+ ],
+ "book": "Walton's Introductio ad lectionem linguarum orientalium (London, 1655), a single work: a title page and a Latin preface with synopsis, then eight short grammars (Hebrew and Chaldee, Samaritan, Syriac, Arabic, Persian, Ethiopic, Armenian, Coptic), each with numbered sections and reading exercises, closed by an index of contents.",
+ "series": [
+  {
+   "label": "Introductio ad lectionem",
+   "first": "1",
+   "last": "8",
+   "count": 8,
+   "level": 1,
+   "found": 8
+  },
+  {
+   "label": "Sectio",
+   "first": "I",
+   "last": "VIII",
+   "count": 42,
+   "level": 2,
+   "found": 45
+  }
+ ],
+ "taste": 50,
+ "doubt": "",
+ "input": 26185,
+ "output": 34654
+}
