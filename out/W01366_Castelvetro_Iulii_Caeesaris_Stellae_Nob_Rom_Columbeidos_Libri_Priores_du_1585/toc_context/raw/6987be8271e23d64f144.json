@@ -1,0 +1,50 @@
+{
+ "answer": {
+  "book": "Iulii Caesaris Stellae Nob. Rom. Columbeidos libri priores duo, a Latin verse epic in two books (Lyon 1585): a title, the text of Book I and Book II, and a closing errata list.",
+  "series": [
+   {
+    "label": "Liber",
+    "first": "I",
+    "last": "II",
+    "count": 2,
+    "level": 2
+   }
+  ],
+  "entries": [
+   {
+    "ids": [
+     6,
+     7,
+     8
+    ],
+    "level": 1,
+    "title": "Iulij Caesaris Stellae Nob: Rom: Columbeidos libri priores duo."
+   },
+   {
+    "ids": [
+     15
+    ],
+    "level": 2,
+    "title": "Liber Secundus."
+   },
+   {
+    "ids": [
+     24
+    ],
+    "level": 1,
+    "title": "Errata."
+   }
+  ],
+  "missing": [
+   {
+    "title": "Liber Primus",
+    "after": 8,
+    "level": 2
+   }
+  ]
+ },
+ "cost": 0.0034490200000000006,
+ "input": 5448,
+ "output": 5309,
+ "seconds": 25
+}
