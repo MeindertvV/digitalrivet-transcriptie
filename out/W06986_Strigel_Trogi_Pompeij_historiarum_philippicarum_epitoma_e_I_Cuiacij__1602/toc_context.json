@@ -1,0 +1,2445 @@
+{
+ "work": "W06986_Strigel_Trogi_Pompeij_historiarum_philippicarum_epitoma_e_I_Cuiacij__1602",
+ "made": "2026-11-26T00:26:05",
+ "model": "claude-haiku-5-5",
+ "prompt": "655260ce46aa8978",
+ "candidates": 941,
+ "cost_usd": 0.02977,
+ "dropped": [
+  "title 'In lib. IX. Notae Iacobi Bongarsii' kept on the number of 'NOTÆ IN LIB. IX.'",
+  "title 'In lib. XX. Notae Iacobi Bongarsii' kept on the number of 'NOTÆ IN LIB. XX.'",
+  "order: {'ids': [123, 124], 'level': 2, 'title': 'Scholia in lib. I. Theophili Cangiseri'}",
+  "order: {'ids': [136, 137], 'level': 2, 'title': 'Scholia in lib. II. Theophili Cangiseri'}",
+  "order: {'ids': [148, 149, 150], 'level': 2, 'title': 'Scholia in lib. III. Theophili Cangiseri'}",
+  "order: {'ids': [159, 160, 161], 'level': 2, 'title': 'Scholia in lib. IV. Theophili Cangiseri'}",
+  "order: {'ids': [191, 192, 193], 'level': 2, 'title': 'Scholia in lib. V. Theophili Cangiseri'}",
+  "order: {'ids': [202, 203, 204, 205], 'level': 2, 'title': 'Scholia in lib. VI. Theophili Cangiseri'}",
+  "order: {'ids': [214, 215, 216], 'level': 2, 'title': 'Scholia in lib. VII. Theophili Cangiseri'}",
+  "order: {'ids': [224, 225, 226], 'level': 2, 'title': 'Scholia in lib. VIII. Theophili Cangiseri'}",
+  "order: {'ids': [238, 239, 240], 'level': 2, 'title': 'Scholia in lib. IX. Theophili Cangiseri'}",
+  "order: {'ids': [538, 539], 'level': 1, 'title': 'Index eorum quae hoc libro continentur'}",
+  "order: {'ids': [540], 'level': 1, 'title': 'Index'}",
+  "no scans for 1 wanted"
+ ],
+ "toc": [
+  {
+   "scan": 2,
+   "line": 1,
+   "lines": [
+    [
+     2,
+     1
+    ],
+    [
+     2,
+     2
+    ],
+    [
+     2,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Index eorum, quae hoc in opere continentur"
+  },
+  {
+   "scan": 3,
+   "line": 0,
+   "lines": [
+    [
+     3,
+     0
+    ],
+    [
+     3,
+     0
+    ],
+    [
+     3,
+     0
+    ],
+    [
+     3,
+     0
+    ],
+    [
+     3,
+     0
+    ],
+    [
+     3,
+     0
+    ],
+    [
+     3,
+     0
+    ],
+    [
+     3,
+     0
+    ],
+    [
+     3,
+     0
+    ],
+    [
+     3,
+     0
+    ],
+    [
+     3,
+     0
+    ],
+    [
+     3,
+     0
+    ],
+    [
+     3,
+     0
+    ],
+    [
+     3,
+     0
+    ],
+    [
+     4,
+     1
+    ],
+    [
+     4,
+     2
+    ],
+    [
+     4,
+     3
+    ],
+    [
+     4,
+     4
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     4,
+     6
+    ],
+    [
+     4,
+     7
+    ],
+    [
+     4,
+     8
+    ],
+    [
+     4,
+     9
+    ],
+    [
+     4,
+     10
+    ],
+    [
+     4,
+     11
+    ],
+    [
+     4,
+     12
+    ],
+    [
+     4,
+     13
+    ]
+   ],
+   "level": 1,
+   "title": "Viris nobilissimis, amplissimis, prudentissimis ... dedicatio"
+  },
+  {
+   "scan": 5,
+   "line": 1,
+   "lines": [
+    [
+     5,
+     1
+    ],
+    [
+     5,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Theophilus Cangiser Saxohalensis. Benevolo & amico lectori"
+  },
+  {
+   "scan": 6,
+   "line": 0,
+   "lines": [
+    [
+     6,
+     0
+    ]
+   ],
+   "level": 1,
+   "title": "Praefatio"
+  },
+  {
+   "scan": 7,
+   "line": 0,
+   "lines": [
+    [
+     7,
+     0
+    ]
+   ],
+   "level": 1,
+   "title": "Ad lectorem"
+  },
+  {
+   "scan": 9,
+   "line": 1,
+   "lines": [
+    [
+     9,
+     1
+    ],
+    [
+     9,
+     2
+    ],
+    [
+     9,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Trogi Pompeii fragmenta. De eodem, et Iustino, veterum auctorum loca"
+  },
+  {
+   "scan": 14,
+   "line": 1,
+   "lines": [
+    [
+     14,
+     1
+    ],
+    [
+     14,
+     2
+    ],
+    [
+     14,
+     3
+    ],
+    [
+     14,
+     4
+    ],
+    [
+     14,
+     5
+    ],
+    [
+     14,
+     6
+    ]
+   ],
+   "level": 1,
+   "title": "Gnomologia Iustiniana, id est, sententiae quaedam ex Iustini libris collectae, et ordine alphabeti digestae"
+  },
+  {
+   "scan": 17,
+   "line": 1,
+   "lines": [
+    [
+     17,
+     1
+    ],
+    [
+     17,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Incipit praefatio Iustini"
+  },
+  {
+   "scan": 19,
+   "line": 1,
+   "lines": [
+    [
+     19,
+     1
+    ],
+    [
+     19,
+     2
+    ],
+    [
+     19,
+     3
+    ],
+    [
+     19,
+     4
+    ],
+    [
+     19,
+     5
+    ],
+    [
+     19,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "Liber I. Historiarum Philippicarum et totius mundi originum, et terrae situs ex historia Trogi Pompeii"
+  },
+  {
+   "scan": 33,
+   "line": 22,
+   "lines": [
+    [
+     33,
+     22
+    ],
+    [
+     33,
+     23
+    ],
+    [
+     33,
+     24
+    ]
+   ],
+   "level": 2,
+   "title": "Liber II. Pompeii Trogi epitoma historiarum"
+  },
+  {
+   "scan": 57,
+   "line": 1,
+   "lines": [
+    [
+     57,
+     1
+    ],
+    [
+     57,
+     2
+    ],
+    [
+     57,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Liber III. Pompeii Trogi epitoma historiarum"
+  },
+  {
+   "scan": 66,
+   "line": 26,
+   "lines": [
+    [
+     66,
+     26
+    ],
+    [
+     66,
+     27
+    ],
+    [
+     66,
+     28
+    ]
+   ],
+   "level": 2,
+   "title": "Liber IV. Pompeii Trogi epitoma historiarum"
+  },
+  {
+   "scan": 88,
+   "line": 19,
+   "lines": [
+    [
+     88,
+     19
+    ],
+    [
+     88,
+     20
+    ],
+    [
+     88,
+     21
+    ]
+   ],
+   "level": 2,
+   "title": "Liber V. Pompeii Trogi epitoma historiarum"
+  },
+  {
+   "scan": 101,
+   "line": 20,
+   "lines": [
+    [
+     101,
+     20
+    ],
+    [
+     101,
+     21
+    ],
+    [
+     101,
+     22
+    ]
+   ],
+   "level": 2,
+   "title": "Liber VI. Pompeii Trogi epitoma historiarum"
+  },
+  {
+   "scan": 110,
+   "line": 17,
+   "lines": [
+    [
+     110,
+     17
+    ],
+    [
+     110,
+     18
+    ],
+    [
+     110,
+     19
+    ]
+   ],
+   "level": 2,
+   "title": "Liber VII. Pompeii Trogi epitoma historiarum"
+  },
+  {
+   "scan": 116,
+   "line": 24,
+   "lines": [
+    [
+     116,
+     24
+    ],
+    [
+     116,
+     25
+    ],
+    [
+     116,
+     26
+    ]
+   ],
+   "level": 2,
+   "title": "Liber VIII. Pompeii Trogi epitoma historiarum"
+  },
+  {
+   "scan": 123,
+   "line": 24,
+   "lines": [
+    [
+     123,
+     24
+    ],
+    [
+     123,
+     25
+    ],
+    [
+     123,
+     26
+    ]
+   ],
+   "level": 2,
+   "title": "Liber IX. Pompeii Trogi epitoma historiarum"
+  },
+  {
+   "scan": 132,
+   "line": 17,
+   "lines": [
+    [
+     132,
+     17
+    ],
+    [
+     132,
+     18
+    ],
+    [
+     132,
+     19
+    ]
+   ],
+   "level": 2,
+   "title": "Liber X. Pompeii Trogi epitoma historiarum"
+  },
+  {
+   "scan": 136,
+   "line": 15,
+   "lines": [
+    [
+     136,
+     15
+    ],
+    [
+     136,
+     16
+    ],
+    [
+     136,
+     17
+    ]
+   ],
+   "level": 2,
+   "title": "Liber XI. Pompeii Trogi epitoma historiarum"
+  },
+  {
+   "scan": 151,
+   "line": 1,
+   "lines": [
+    [
+     151,
+     1
+    ],
+    [
+     151,
+     2
+    ],
+    [
+     151,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Liber XII. Pompeii Trogi epitoma historiarum"
+  },
+  {
+   "scan": 167,
+   "line": 1,
+   "lines": [
+    [
+     167,
+     1
+    ],
+    [
+     167,
+     2
+    ],
+    [
+     167,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Liber XIII. Pompeii Trogi epitoma historiarum"
+  },
+  {
+   "scan": 176,
+   "line": 21,
+   "lines": [
+    [
+     176,
+     21
+    ],
+    [
+     176,
+     22
+    ],
+    [
+     176,
+     23
+    ]
+   ],
+   "level": 2,
+   "title": "Liber XIV. Pompeii Trogi epitoma historiarum"
+  },
+  {
+   "scan": 183,
+   "line": 8,
+   "lines": [
+    [
+     183,
+     8
+    ],
+    [
+     183,
+     9
+    ],
+    [
+     183,
+     10
+    ]
+   ],
+   "level": 2,
+   "title": "Liber XV. Pompeii Trogi epitoma historiarum"
+  },
+  {
+   "scan": 189,
+   "line": 1,
+   "lines": [
+    [
+     189,
+     1
+    ],
+    [
+     189,
+     2
+    ],
+    [
+     189,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Liber XVI. Pompeii Trogi epitoma historiarum"
+  },
+  {
+   "scan": 195,
+   "line": 10,
+   "lines": [
+    [
+     195,
+     10
+    ],
+    [
+     195,
+     11
+    ],
+    [
+     195,
+     12
+    ]
+   ],
+   "level": 2,
+   "title": "Liber XVII. Pompeii Trogi epitoma historiarum"
+  },
+  {
+   "scan": 199,
+   "line": 1,
+   "lines": [
+    [
+     199,
+     1
+    ],
+    [
+     199,
+     2
+    ],
+    [
+     199,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Liber XVIII. Pompeii Trogi epitoma historiarum"
+  },
+  {
+   "scan": 208,
+   "line": 1,
+   "lines": [
+    [
+     208,
+     1
+    ],
+    [
+     208,
+     2
+    ],
+    [
+     208,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Liber XIX. Pompeii Trogi epitoma historiarum"
+  },
+  {
+   "scan": 211,
+   "line": 1,
+   "lines": [
+    [
+     211,
+     1
+    ],
+    [
+     211,
+     2
+    ],
+    [
+     211,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Liber XX. Pompeii Trogi epitoma historiarum"
+  },
+  {
+   "scan": 216,
+   "line": 10,
+   "lines": [
+    [
+     216,
+     10
+    ],
+    [
+     216,
+     11
+    ],
+    [
+     216,
+     12
+    ]
+   ],
+   "level": 2,
+   "title": "Liber XXI. Pompeii Trogi epitoma historiarum"
+  },
+  {
+   "scan": 221,
+   "line": 5,
+   "lines": [
+    [
+     221,
+     5
+    ],
+    [
+     221,
+     6
+    ],
+    [
+     221,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "Liber XXII. Pompeii Trogi epitoma historiarum"
+  },
+  {
+   "scan": 229,
+   "line": 16,
+   "lines": [
+    [
+     229,
+     16
+    ],
+    [
+     229,
+     17
+    ],
+    [
+     229,
+     18
+    ]
+   ],
+   "level": 2,
+   "title": "Liber XXIII. Pompeii Trogi epitoma historiarum"
+  },
+  {
+   "scan": 234,
+   "line": 7,
+   "lines": [
+    [
+     234,
+     7
+    ],
+    [
+     234,
+     8
+    ],
+    [
+     234,
+     9
+    ]
+   ],
+   "level": 2,
+   "title": "Liber XXIV. Pompeii Trogi epitoma historiarum"
+  },
+  {
+   "scan": 242,
+   "line": 17,
+   "lines": [
+    [
+     242,
+     17
+    ],
+    [
+     242,
+     18
+    ],
+    [
+     242,
+     19
+    ]
+   ],
+   "level": 2,
+   "title": "Liber XXV. Pompeii Trogi epitoma historiarum"
+  },
+  {
+   "scan": 247,
+   "line": 1,
+   "lines": [
+    [
+     247,
+     1
+    ],
+    [
+     247,
+     2
+    ],
+    [
+     247,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Liber XXVI. Pompeii Trogi epitoma historiarum"
+  },
+  {
+   "scan": 250,
+   "line": 14,
+   "lines": [
+    [
+     250,
+     14
+    ],
+    [
+     250,
+     15
+    ],
+    [
+     250,
+     16
+    ]
+   ],
+   "level": 2,
+   "title": "Liber XXVII. Pompeii Trogi epitoma historiarum"
+  },
+  {
+   "scan": 254,
+   "line": 1,
+   "lines": [
+    [
+     254,
+     1
+    ],
+    [
+     254,
+     2
+    ],
+    [
+     254,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Liber XXVIII. Pompeii Trogi epitoma historiarum"
+  },
+  {
+   "scan": 258,
+   "line": 13,
+   "lines": [
+    [
+     258,
+     13
+    ],
+    [
+     258,
+     14
+    ],
+    [
+     258,
+     15
+    ]
+   ],
+   "level": 2,
+   "title": "Liber XXIX. Pompeii Trogi epitoma historiarum"
+  },
+  {
+   "scan": 262,
+   "line": 10,
+   "lines": [
+    [
+     262,
+     10
+    ],
+    [
+     262,
+     11
+    ],
+    [
+     262,
+     12
+    ]
+   ],
+   "level": 2,
+   "title": "Liber XXX. Pompeii Trogi epitoma historiarum"
+  },
+  {
+   "scan": 266,
+   "line": 21,
+   "lines": [
+    [
+     266,
+     21
+    ],
+    [
+     266,
+     22
+    ],
+    [
+     266,
+     23
+    ]
+   ],
+   "level": 2,
+   "title": "Liber XXXI. Pompeii Trogi epitoma historiarum"
+  },
+  {
+   "scan": 275,
+   "line": 1,
+   "lines": [
+    [
+     275,
+     1
+    ],
+    [
+     275,
+     2
+    ],
+    [
+     275,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Liber XXXII. Pompeii Trogi epitoma historiarum"
+  },
+  {
+   "scan": 280,
+   "line": 12,
+   "lines": [
+    [
+     280,
+     12
+    ],
+    [
+     280,
+     13
+    ],
+    [
+     280,
+     14
+    ]
+   ],
+   "level": 2,
+   "title": "Liber XXXIII. Pompeii Trogi epitoma historiarum"
+  },
+  {
+   "scan": 282,
+   "line": 15,
+   "lines": [
+    [
+     282,
+     15
+    ],
+    [
+     282,
+     16
+    ],
+    [
+     282,
+     17
+    ]
+   ],
+   "level": 2,
+   "title": "Liber XXXIV. Pompeii Trogi epitoma historiarum"
+  },
+  {
+   "scan": 285,
+   "line": 21,
+   "lines": [
+    [
+     285,
+     21
+    ],
+    [
+     285,
+     22
+    ],
+    [
+     285,
+     23
+    ]
+   ],
+   "level": 2,
+   "title": "Liber XXXV. Pompeii Trogi epitoma historiarum"
+  },
+  {
+   "scan": 287,
+   "line": 17,
+   "lines": [
+    [
+     287,
+     17
+    ],
+    [
+     287,
+     18
+    ],
+    [
+     287,
+     19
+    ]
+   ],
+   "level": 2,
+   "title": "Liber XXXVI. Pompeii Trogi epitoma historiarum"
+  },
+  {
+   "scan": 292,
+   "line": 13,
+   "lines": [
+    [
+     292,
+     13
+    ],
+    [
+     292,
+     14
+    ],
+    [
+     292,
+     15
+    ]
+   ],
+   "level": 2,
+   "title": "Liber XXXVII. Pompeii Trogi epitoma historiarum"
+  },
+  {
+   "scan": 296,
+   "line": 1,
+   "lines": [
+    [
+     296,
+     1
+    ],
+    [
+     296,
+     2
+    ],
+    [
+     296,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Liber XXXVIII. Pompeii Trogi epitoma historiarum"
+  },
+  {
+   "scan": 308,
+   "line": 7,
+   "lines": [
+    [
+     308,
+     7
+    ],
+    [
+     308,
+     8
+    ],
+    [
+     308,
+     9
+    ]
+   ],
+   "level": 2,
+   "title": "Liber XXXIX. Pompeii Trogi epitoma historiarum"
+  },
+  {
+   "scan": 314,
+   "line": 6,
+   "lines": [
+    [
+     314,
+     6
+    ],
+    [
+     314,
+     7
+    ],
+    [
+     314,
+     8
+    ]
+   ],
+   "level": 2,
+   "title": "Liber XL. Pompeii Trogi epitoma historiarum"
+  },
+  {
+   "scan": 315,
+   "line": 18,
+   "lines": [
+    [
+     315,
+     18
+    ],
+    [
+     315,
+     19
+    ],
+    [
+     315,
+     20
+    ]
+   ],
+   "level": 2,
+   "title": "Liber XLI. Pompeii Trogi epitoma historiarum"
+  },
+  {
+   "scan": 321,
+   "line": 5,
+   "lines": [
+    [
+     321,
+     5
+    ],
+    [
+     321,
+     6
+    ],
+    [
+     321,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "Liber XLII. Pompeii Trogi epitoma historiarum"
+  },
+  {
+   "scan": 327,
+   "line": 9,
+   "lines": [
+    [
+     327,
+     9
+    ],
+    [
+     327,
+     10
+    ],
+    [
+     327,
+     11
+    ]
+   ],
+   "level": 2,
+   "title": "Liber XLIII. Pompeii Trogi epitoma historiarum"
+  },
+  {
+   "scan": 334,
+   "line": 1,
+   "lines": [
+    [
+     334,
+     1
+    ],
+    [
+     334,
+     2
+    ],
+    [
+     334,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Liber XLIV. Pompeii Trogi epitoma historiarum"
+  },
+  {
+   "scan": 340,
+   "line": 0,
+   "lines": [
+    [
+     340,
+     0
+    ],
+    [
+     340,
+     0
+    ],
+    [
+     340,
+     0
+    ],
+    [
+     340,
+     0
+    ]
+   ],
+   "level": 1,
+   "title": "Prologi historiarum Philippicarum Pompeii Trogi"
+  },
+  {
+   "scan": 341,
+   "line": 1,
+   "lines": [
+    [
+     341,
+     1
+    ],
+    [
+     341,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Ad Franciscum Rosaeum Ambianum"
+  },
+  {
+   "scan": 342,
+   "line": 1,
+   "lines": [
+    [
+     342,
+     1
+    ],
+    [
+     342,
+     2
+    ],
+    [
+     342,
+     3
+    ],
+    [
+     342,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Prologus lib. I. Liber historiarum Philippicarum et totius mundi origines, et terrae situs"
+  },
+  {
+   "scan": 342,
+   "line": 18,
+   "lines": [
+    [
+     342,
+     18
+    ]
+   ],
+   "level": 2,
+   "title": "Prologus lib. II"
+  },
+  {
+   "scan": 343,
+   "line": 1,
+   "lines": [
+    [
+     343,
+     1
+    ],
+    [
+     343,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Prologus lib. III"
+  },
+  {
+   "scan": 343,
+   "line": 13,
+   "lines": [
+    [
+     343,
+     13
+    ]
+   ],
+   "level": 2,
+   "title": "Prologus lib. IV"
+  },
+  {
+   "scan": 343,
+   "line": 17,
+   "lines": [
+    [
+     343,
+     17
+    ]
+   ],
+   "level": 2,
+   "title": "Prologus lib. V"
+  },
+  {
+   "scan": 343,
+   "line": 25,
+   "lines": [
+    [
+     343,
+     25
+    ]
+   ],
+   "level": 2,
+   "title": "Prologus lib. VI"
+  },
+  {
+   "scan": 343,
+   "line": 36,
+   "lines": [
+    [
+     343,
+     36
+    ]
+   ],
+   "level": 2,
+   "title": "Prologus lib. VII"
+  },
+  {
+   "scan": 346,
+   "line": 4,
+   "lines": [
+    [
+     346,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Prologus lib. VIII"
+  },
+  {
+   "scan": 346,
+   "line": 13,
+   "lines": [
+    [
+     346,
+     13
+    ]
+   ],
+   "level": 2,
+   "title": "Prologus lib. IX"
+  },
+  {
+   "scan": 346,
+   "line": 28,
+   "lines": [
+    [
+     346,
+     28
+    ]
+   ],
+   "level": 2,
+   "title": "Prologus lib. X"
+  },
+  {
+   "scan": 347,
+   "line": 3,
+   "lines": [
+    [
+     347,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Prologus lib. XI"
+  },
+  {
+   "scan": 347,
+   "line": 7,
+   "lines": [
+    [
+     347,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "Prologus lib. XII"
+  },
+  {
+   "scan": 347,
+   "line": 16,
+   "lines": [
+    [
+     347,
+     16
+    ]
+   ],
+   "level": 2,
+   "title": "Prologus lib. XIII"
+  },
+  {
+   "scan": 347,
+   "line": 26,
+   "lines": [
+    [
+     347,
+     26
+    ]
+   ],
+   "level": 2,
+   "title": "Prologus lib. XIV"
+  },
+  {
+   "scan": 347,
+   "line": 36,
+   "lines": [
+    [
+     347,
+     36
+    ]
+   ],
+   "level": 2,
+   "title": "Prologus lib. XV"
+  },
+  {
+   "scan": 348,
+   "line": 10,
+   "lines": [
+    [
+     348,
+     10
+    ]
+   ],
+   "level": 2,
+   "title": "Prologus lib. XVI"
+  },
+  {
+   "scan": 348,
+   "line": 23,
+   "lines": [
+    [
+     348,
+     23
+    ]
+   ],
+   "level": 2,
+   "title": "Prologus lib. XVII"
+  },
+  {
+   "scan": 348,
+   "line": 37,
+   "lines": [
+    [
+     348,
+     37
+    ]
+   ],
+   "level": 2,
+   "title": "Prologus lib. XVIII"
+  },
+  {
+   "scan": 349,
+   "line": 4,
+   "lines": [
+    [
+     349,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Prologus lib. XIX"
+  },
+  {
+   "scan": 349,
+   "line": 12,
+   "lines": [
+    [
+     349,
+     12
+    ]
+   ],
+   "level": 2,
+   "title": "Prologus lib. XX"
+  },
+  {
+   "scan": 349,
+   "line": 19,
+   "lines": [
+    [
+     349,
+     19
+    ]
+   ],
+   "level": 2,
+   "title": "Prologus lib. XXI"
+  },
+  {
+   "scan": 349,
+   "line": 28,
+   "lines": [
+    [
+     349,
+     28
+    ]
+   ],
+   "level": 2,
+   "title": "Prologus lib. XXII"
+  },
+  {
+   "scan": 349,
+   "line": 38,
+   "lines": [
+    [
+     349,
+     38
+    ]
+   ],
+   "level": 2,
+   "title": "Prologus lib. XXIII"
+  },
+  {
+   "scan": 350,
+   "line": 8,
+   "lines": [
+    [
+     350,
+     8
+    ]
+   ],
+   "level": 2,
+   "title": "Prologus lib. XXIV"
+  },
+  {
+   "scan": 350,
+   "line": 18,
+   "lines": [
+    [
+     350,
+     18
+    ]
+   ],
+   "level": 2,
+   "title": "Prologus lib. XXV"
+  },
+  {
+   "scan": 350,
+   "line": 27,
+   "lines": [
+    [
+     350,
+     27
+    ]
+   ],
+   "level": 2,
+   "title": "Prologus lib. XXVI"
+  },
+  {
+   "scan": 351,
+   "line": 3,
+   "lines": [
+    [
+     351,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Prologus lib. XXVII"
+  },
+  {
+   "scan": 351,
+   "line": 14,
+   "lines": [
+    [
+     351,
+     14
+    ]
+   ],
+   "level": 2,
+   "title": "Prologus lib. XXVIII"
+  },
+  {
+   "scan": 351,
+   "line": 25,
+   "lines": [
+    [
+     351,
+     25
+    ]
+   ],
+   "level": 2,
+   "title": "Prologus lib. XXIX"
+  },
+  {
+   "scan": 351,
+   "line": 32,
+   "lines": [
+    [
+     351,
+     32
+    ]
+   ],
+   "level": 2,
+   "title": "Prologus lib. XXX"
+  },
+  {
+   "scan": 352,
+   "line": 8,
+   "lines": [
+    [
+     352,
+     8
+    ]
+   ],
+   "level": 2,
+   "title": "Prologus lib. XXXI"
+  },
+  {
+   "scan": 352,
+   "line": 16,
+   "lines": [
+    [
+     352,
+     16
+    ]
+   ],
+   "level": 2,
+   "title": "Prologus lib. XXXII"
+  },
+  {
+   "scan": 352,
+   "line": 32,
+   "lines": [
+    [
+     352,
+     32
+    ]
+   ],
+   "level": 2,
+   "title": "Prologus lib. XXXIII"
+  },
+  {
+   "scan": 353,
+   "line": 1,
+   "lines": [
+    [
+     353,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Prologus lib. XXXIV"
+  },
+  {
+   "scan": 353,
+   "line": 19,
+   "lines": [
+    [
+     353,
+     19
+    ]
+   ],
+   "level": 2,
+   "title": "Prologus lib. XXXV"
+  },
+  {
+   "scan": 353,
+   "line": 30,
+   "lines": [
+    [
+     353,
+     30
+    ]
+   ],
+   "level": 2,
+   "title": "Prologus lib. XXXVI"
+  },
+  {
+   "scan": 354,
+   "line": 1,
+   "lines": [
+    [
+     354,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Prologus lib. XXXVII"
+  },
+  {
+   "scan": 354,
+   "line": 9,
+   "lines": [
+    [
+     354,
+     9
+    ]
+   ],
+   "level": 2,
+   "title": "Prologus lib. XXXVIII"
+  },
+  {
+   "scan": 354,
+   "line": 19,
+   "lines": [
+    [
+     354,
+     19
+    ]
+   ],
+   "level": 2,
+   "title": "Prologus lib. XXXIX"
+  },
+  {
+   "scan": 355,
+   "line": 1,
+   "lines": [
+    [
+     355,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Prologus lib. XL"
+  },
+  {
+   "scan": 355,
+   "line": 17,
+   "lines": [
+    [
+     355,
+     17
+    ]
+   ],
+   "level": 2,
+   "title": "Prologus lib. XLI"
+  },
+  {
+   "scan": 355,
+   "line": 28,
+   "lines": [
+    [
+     355,
+     28
+    ]
+   ],
+   "level": 2,
+   "title": "Prologus lib. XLII"
+  },
+  {
+   "scan": 356,
+   "line": 1,
+   "lines": [
+    [
+     356,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Prologus lib. XLIII"
+  },
+  {
+   "scan": 356,
+   "line": 6,
+   "lines": [
+    [
+     356,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "Prologus lib. XLIV"
+  },
+  {
+   "scan": 373,
+   "line": 1,
+   "lines": [
+    [
+     373,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Lectoris"
+  },
+  {
+   "scan": 374,
+   "line": 0,
+   "lines": [
+    [
+     374,
+     0
+    ]
+   ],
+   "level": 1,
+   "title": "Ad lectorem"
+  },
+  {
+   "scan": 377,
+   "line": 1,
+   "lines": [
+    [
+     377,
+     1
+    ],
+    [
+     377,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "De Trogo Pompeio et Iustino"
+  },
+  {
+   "scan": 379,
+   "line": 1,
+   "lines": [
+    [
+     379,
+     1
+    ],
+    [
+     379,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "In praefationem Iustini"
+  },
+  {
+   "scan": 379,
+   "line": 10,
+   "lines": [
+    [
+     379,
+     10
+    ]
+   ],
+   "level": 2,
+   "title": "In lib. I. Notae Iacobi Bongarsii"
+  },
+  {
+   "scan": 384,
+   "line": 24,
+   "lines": [
+    [
+     384,
+     24
+    ]
+   ],
+   "level": 2,
+   "title": "In lib. II. Notae Iacobi Bongarsii"
+  },
+  {
+   "scan": 392,
+   "line": 30,
+   "lines": [
+    [
+     392,
+     30
+    ]
+   ],
+   "level": 2,
+   "title": "In lib. III. Notae Iacobi Bongarsii"
+  },
+  {
+   "scan": 394,
+   "line": 10,
+   "lines": [
+    [
+     394,
+     10
+    ]
+   ],
+   "level": 2,
+   "title": "In lib. IV. Notae Iacobi Bongarsii"
+  },
+  {
+   "scan": 396,
+   "line": 1,
+   "lines": [
+    [
+     396,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "In lib. V. Notae Iacobi Bongarsii"
+  },
+  {
+   "scan": 398,
+   "line": 9,
+   "lines": [
+    [
+     398,
+     9
+    ]
+   ],
+   "level": 2,
+   "title": "In lib. VI. Notae Iacobi Bongarsii"
+  },
+  {
+   "scan": 400,
+   "line": 24,
+   "lines": [
+    [
+     400,
+     24
+    ]
+   ],
+   "level": 2,
+   "title": "In lib. VII. Notae Iacobi Bongarsii"
+  },
+  {
+   "scan": 402,
+   "line": 30,
+   "lines": [
+    [
+     402,
+     30
+    ]
+   ],
+   "level": 2,
+   "title": "In lib. VIII. Notae Iacobi Bongarsii"
+  },
+  {
+   "scan": 404,
+   "line": 0,
+   "lines": [
+    [
+     404,
+     0
+    ]
+   ],
+   "level": 2,
+   "title": "In lib. IX. Notae Iacobi Bongarsii"
+  },
+  {
+   "scan": 405,
+   "line": 22,
+   "lines": [
+    [
+     405,
+     22
+    ]
+   ],
+   "level": 2,
+   "title": "In lib. X. Notae Iacobi Bongarsii"
+  },
+  {
+   "scan": 406,
+   "line": 11,
+   "lines": [
+    [
+     406,
+     11
+    ]
+   ],
+   "level": 2,
+   "title": "In lib. XI. Notae Iacobi Bongarsii"
+  },
+  {
+   "scan": 410,
+   "line": 4,
+   "lines": [
+    [
+     410,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "In lib. XII. Notae Iacobi Bongarsii"
+  },
+  {
+   "scan": 413,
+   "line": 26,
+   "lines": [
+    [
+     413,
+     26
+    ]
+   ],
+   "level": 2,
+   "title": "In lib. XIII. Notae Iacobi Bongarsii"
+  },
+  {
+   "scan": 417,
+   "line": 1,
+   "lines": [
+    [
+     417,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "In lib. XIV. Notae Iacobi Bongarsii"
+  },
+  {
+   "scan": 418,
+   "line": 3,
+   "lines": [
+    [
+     418,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "In lib. XV. Notae Iacobi Bongarsii"
+  },
+  {
+   "scan": 419,
+   "line": 9,
+   "lines": [
+    [
+     419,
+     9
+    ]
+   ],
+   "level": 2,
+   "title": "In lib. XVI. Notae Iacobi Bongarsii"
+  },
+  {
+   "scan": 420,
+   "line": 13,
+   "lines": [
+    [
+     420,
+     13
+    ]
+   ],
+   "level": 2,
+   "title": "In lib. XVII. Notae Iacobi Bongarsii"
+  },
+  {
+   "scan": 421,
+   "line": 21,
+   "lines": [
+    [
+     421,
+     21
+    ]
+   ],
+   "level": 2,
+   "title": "In lib. XVIII. Notae Iacobi Bongarsii"
+  },
+  {
+   "scan": 423,
+   "line": 31,
+   "lines": [
+    [
+     423,
+     31
+    ]
+   ],
+   "level": 2,
+   "title": "In lib. XIX. Notae Iacobi Bongarsii"
+  },
+  {
+   "scan": 424,
+   "line": 0,
+   "lines": [
+    [
+     424,
+     0
+    ]
+   ],
+   "level": 2,
+   "title": "In lib. XX. Notae Iacobi Bongarsii"
+  },
+  {
+   "scan": 425,
+   "line": 25,
+   "lines": [
+    [
+     425,
+     25
+    ]
+   ],
+   "level": 2,
+   "title": "In lib. XXI. Notae Iacobi Bongarsii"
+  },
+  {
+   "scan": 427,
+   "line": 4,
+   "lines": [
+    [
+     427,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "In lib. XXII. Notae Iacobi Bongarsii"
+  },
+  {
+   "scan": 428,
+   "line": 23,
+   "lines": [
+    [
+     428,
+     23
+    ]
+   ],
+   "level": 2,
+   "title": "In lib. XXIII. Notae Iacobi Bongarsii"
+  },
+  {
+   "scan": 429,
+   "line": 20,
+   "lines": [
+    [
+     429,
+     20
+    ]
+   ],
+   "level": 2,
+   "title": "In lib. XXIV. Notae Iacobi Bongarsii"
+  },
+  {
+   "scan": 430,
+   "line": 36,
+   "lines": [
+    [
+     430,
+     36
+    ]
+   ],
+   "level": 2,
+   "title": "In lib. XXV. Notae Iacobi Bongarsii"
+  },
+  {
+   "scan": 431,
+   "line": 19,
+   "lines": [
+    [
+     431,
+     19
+    ]
+   ],
+   "level": 2,
+   "title": "In lib. XXVI. Notae Iacobi Bongarsii"
+  },
+  {
+   "scan": 432,
+   "line": 8,
+   "lines": [
+    [
+     432,
+     8
+    ]
+   ],
+   "level": 2,
+   "title": "In lib. XXVII. Notae Iacobi Bongarsii"
+  },
+  {
+   "scan": 432,
+   "line": 28,
+   "lines": [
+    [
+     432,
+     28
+    ]
+   ],
+   "level": 2,
+   "title": "In lib. XXVIII. Notae Iacobi Bongarsii"
+  },
+  {
+   "scan": 433,
+   "line": 15,
+   "lines": [
+    [
+     433,
+     15
+    ]
+   ],
+   "level": 2,
+   "title": "In lib. XXIX. Notae Iacobi Bongarsii"
+  },
+  {
+   "scan": 433,
+   "line": 32,
+   "lines": [
+    [
+     433,
+     32
+    ]
+   ],
+   "level": 2,
+   "title": "In lib. XXX. Notae Iacobi Bongarsii"
+  },
+  {
+   "scan": 435,
+   "line": 10,
+   "lines": [
+    [
+     435,
+     10
+    ]
+   ],
+   "level": 2,
+   "title": "In lib. XXXI. Notae Iacobi Bongarsii"
+  },
+  {
+   "scan": 437,
+   "line": 3,
+   "lines": [
+    [
+     437,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "In lib. XXXII. Notae Iacobi Bongarsii"
+  },
+  {
+   "scan": 438,
+   "line": 12,
+   "lines": [
+    [
+     438,
+     12
+    ]
+   ],
+   "level": 2,
+   "title": "In lib. XXXIII. Notae Iacobi Bongarsii"
+  },
+  {
+   "scan": 438,
+   "line": 32,
+   "lines": [
+    [
+     438,
+     32
+    ]
+   ],
+   "level": 2,
+   "title": "In lib. XXXIV. Notae Iacobi Bongarsii"
+  },
+  {
+   "scan": 439,
+   "line": 25,
+   "lines": [
+    [
+     439,
+     25
+    ]
+   ],
+   "level": 2,
+   "title": "In lib. XXXV. Notae Iacobi Bongarsii"
+  },
+  {
+   "scan": 440,
+   "line": 7,
+   "lines": [
+    [
+     440,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "In lib. XXXVI. Notae Iacobi Bongarsii"
+  },
+  {
+   "scan": 442,
+   "line": 1,
+   "lines": [
+    [
+     442,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "In lib. XXXVII. Notae Iacobi Bongarsii"
+  },
+  {
+   "scan": 442,
+   "line": 39,
+   "lines": [
+    [
+     442,
+     39
+    ]
+   ],
+   "level": 2,
+   "title": "In lib. XXXVIII. Notae Iacobi Bongarsii"
+  },
+  {
+   "scan": 444,
+   "line": 23,
+   "lines": [
+    [
+     444,
+     23
+    ]
+   ],
+   "level": 2,
+   "title": "In lib. XXXIX. Notae Iacobi Bongarsii"
+  },
+  {
+   "scan": 445,
+   "line": 8,
+   "lines": [
+    [
+     445,
+     8
+    ]
+   ],
+   "level": 2,
+   "title": "In lib. XL. Notae Iacobi Bongarsii"
+  },
+  {
+   "scan": 445,
+   "line": 19,
+   "lines": [
+    [
+     445,
+     19
+    ]
+   ],
+   "level": 2,
+   "title": "In lib. XLI. Notae Iacobi Bongarsii"
+  },
+  {
+   "scan": 447,
+   "line": 1,
+   "lines": [
+    [
+     447,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "In lib. XLII. Notae Iacobi Bongarsii"
+  },
+  {
+   "scan": 448,
+   "line": 12,
+   "lines": [
+    [
+     448,
+     12
+    ]
+   ],
+   "level": 2,
+   "title": "In lib. XLIII. Notae Iacobi Bongarsii"
+  },
+  {
+   "scan": 449,
+   "line": 27,
+   "lines": [
+    [
+     449,
+     27
+    ]
+   ],
+   "level": 2,
+   "title": "In lib. XLIV. Notae Iacobi Bongarsii"
+  },
+  {
+   "scan": 451,
+   "line": 9,
+   "lines": [
+    [
+     451,
+     9
+    ]
+   ],
+   "level": 2,
+   "title": "In prologos notae"
+  },
+  {
+   "scan": 456,
+   "line": 2,
+   "lines": [
+    [
+     456,
+     2
+    ],
+    [
+     456,
+     4
+    ]
+   ],
+   "level": 1,
+   "title": "Excerptiones chronologicae ad Iustini historias accommodatae"
+  },
+  {
+   "scan": 457,
+   "line": 1,
+   "lines": [
+    [
+     457,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Excerptiones chronologicae ad Ioannem Noblium"
+  },
+  {
+   "scan": 472,
+   "line": 1,
+   "lines": [
+    [
+     472,
+     1
+    ],
+    [
+     472,
+     2
+    ],
+    [
+     472,
+     32
+    ],
+    [
+     472,
+     33
+    ]
+   ],
+   "level": 1,
+   "title": "Variarum lectionum libellus"
+  },
+  {
+   "scan": 538,
+   "line": 1,
+   "lines": [
+    [
+     538,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Index rerum et verborum in notis memorabilium"
+  }
+ ],
+ "book": "Justin's Latin epitome of Pompeius Trogus' Historiae Philippicae in 44 books (Strigel edition, 1602), a multi-work volume with front matter and prefaces, the Trogus prologues, Cangiser's scholia on the first ten books, Bongarsius' notes, chronological excerpts, variant readings and indexes.",
+ "series": [
+  {
+   "label": "Liber",
+   "first": "I",
+   "last": "XLIV",
+   "count": 44,
+   "level": 2,
+   "found": 137
+  },
+  {
+   "label": "Prologus lib.",
+   "first": "I",
+   "last": "XLIV",
+   "count": 44,
+   "level": 2,
+   "found": 137
+  },
+  {
+   "label": "Scholia in lib.",
+   "first": "I",
+   "last": "X",
+   "count": 10,
+   "level": 2,
+   "found": 137
+  },
+  {
+   "label": "In lib.",
+   "first": "I",
+   "last": "XLIV",
+   "count": 44,
+   "level": 2,
+   "found": 137
+  }
+ ],
+ "taste": 25,
+ "doubt": "",
+ "input": 74978,
+ "output": 30143
+}
