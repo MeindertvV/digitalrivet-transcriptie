@@ -1,0 +1,636 @@
+{
+ "work": "W01332_Casmann_Anti_Socinus_Tractatus_Ad_Diiudicandum_Controversiam_Theolog_1612",
+ "made": "2026-11-25T11:07:12",
+ "model": "claude-haiku-5-5",
+ "prompt": "655260ce46aa8978",
+ "candidates": 196,
+ "cost_usd": 0.02547,
+ "dropped": [
+  "title 'Sectio II. Fides de Christi persona et officio.' kept on the number of 'CAPITIS II. SECTIO II.'",
+  "title 'Caput II. Socinians oppugnant Christi personam & officium, &c.' is not in 'CAPUT III. DE HORRENDA FIDEI Mutilatione, quâ Caput Fidei & salutis hodie à nonnullis rejecatur, quæ hoc loco Christiani': to the scan",
+  "title 'Sectio II. [illegible] de Christi satisfactione.' kept on the number of 'CAPITIS II. SECTIO II.'",
+  "title 'Sectio I. quia Mediator.' kept on the number of 'CAPITIS IV. SECTIO I.'",
+  "title 'Sectio II. & Reconciliator.' kept on the number of 'CAPITIS IV. SECTIO II.'",
+  "title 'Sectio I. quia Christus portavit nostra peccata.' kept on the number of 'CAPITIS V. SECTIO I.'",
+  "title 'Sectio II. quia pro nobis passus et mort.' kept on the number of 'CAPITIS V. SECTIO II.'",
+  "title 'Sectio III. quia sanguine peccata expiavit.' kept on the number of 'CAPITIS V. SECTIO III.'",
+  "title 'Sectio I. quia Christus Sacerdos.' kept on the number of 'CAPITIS VI. SECTIO I.'",
+  "title 'Sectio II. quia remisit peccata, & justificat.' kept on the number of 'CAPITIS VI. SECTIO II.'",
+  "title 'Sectio III. quia etiam pro Patribus Veteris Testamenti mortuus.' kept on the number of 'CAPITIS VI. SECTIO III.'",
+  "title 'Sectio I. quia Christi obedientia imputatur ad justitiam.' kept on the number of 'CAPITIS VII. SECTIO I.'",
+  "title 'Sectio II. quia judicio Dei erat satisfaciendum.' kept on the number of 'CAPITIS VII. SECTIO II.'",
+  "title 'Sectio III. quia Christus, non peccator, est mortuus.' kept on the number of 'CAPITIS VII. SECTIO III.'",
+  "title 'Sectio I. quia satisfactio pro peccatis Deo non fit necessaria.' kept on the number of 'CAPITIS I. SECTIO I.'",
+  "title 'Sectio II. quia Deus voluerit et velit peccatas remittere sine satisf.' kept on the number of 'CAPITIS I. SECTIO II.'",
+  "title 'Sectio III. quia justitia Dei, nobis non percuntibus, satisfieri non possit.' kept on the number of 'CAPITIS I. SECTIO III.'",
+  "title 'Sectio I. quia Christus non potuerit poenas nobis debitas persolvere.' kept on the number of 'CAPITIS II. SECTIO I.'",
+  "title 'Sectio II. quia non potuerint Christo peccata nostra imputari.' kept on the number of 'CAPITIS II. SECTIO II.'",
+  "title 'Sectio III. quia absurda sequantur.' kept on the number of 'CAPUT II. SECTIO III.'",
+  "no scans for 1 wanted"
+ ],
+ "toc": [
+  {
+   "scan": 3,
+   "line": 1,
+   "lines": [
+    [
+     3,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Lectori benevolo."
+  },
+  {
+   "scan": 4,
+   "line": 0,
+   "lines": [
+    [
+     4,
+     0
+    ]
+   ],
+   "level": 1,
+   "title": "Praefatio."
+  },
+  {
+   "scan": 5,
+   "line": 0,
+   "lines": [
+    [
+     5,
+     0
+    ]
+   ],
+   "level": 1,
+   "title": "Ad lectorem."
+  },
+  {
+   "scan": 16,
+   "line": 1,
+   "lines": [
+    [
+     16,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Pars I."
+  },
+  {
+   "scan": 17,
+   "line": 1,
+   "lines": [
+    [
+     17,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Caput I. De fide christiana christianismi."
+  },
+  {
+   "scan": 17,
+   "line": 2,
+   "lines": [
+    [
+     17,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Sectio I. Fides de Deo & Ecclesia."
+  },
+  {
+   "scan": 27,
+   "line": 1,
+   "lines": [
+    [
+     27,
+     1
+    ],
+    [
+     27,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Sectio II. Fides de Christi persona et officio."
+  },
+  {
+   "scan": 49,
+   "line": 0,
+   "lines": [
+    [
+     49,
+     0
+    ]
+   ],
+   "level": 3,
+   "title": "Sectio I."
+  },
+  {
+   "scan": 53,
+   "line": 2,
+   "lines": [
+    [
+     53,
+     2
+    ],
+    [
+     53,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Sectio II. [illegible] de Christi satisfactione."
+  },
+  {
+   "scan": 61,
+   "line": 1,
+   "lines": [
+    [
+     61,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Caput III. De satisfactione Chr. sententia utraque."
+  },
+  {
+   "scan": 62,
+   "line": 3,
+   "lines": [
+    [
+     62,
+     3
+    ],
+    [
+     62,
+     4
+    ],
+    [
+     62,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Sectio I. Chr. Servator, r. doctrina."
+  },
+  {
+   "scan": 71,
+   "line": 3,
+   "lines": [
+    [
+     71,
+     3
+    ],
+    [
+     71,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Sectio II. & exemplo."
+  },
+  {
+   "scan": 86,
+   "line": 1,
+   "lines": [
+    [
+     86,
+     1
+    ],
+    [
+     86,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Sectio III. & communicatione."
+  },
+  {
+   "scan": 91,
+   "line": 3,
+   "lines": [
+    [
+     91,
+     3
+    ],
+    [
+     91,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Caput IV. Satisfactionis Christi probatio prima."
+  },
+  {
+   "scan": 92,
+   "line": 2,
+   "lines": [
+    [
+     92,
+     2
+    ],
+    [
+     92,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Sectio I. quia Mediator."
+  },
+  {
+   "scan": 99,
+   "line": 2,
+   "lines": [
+    [
+     99,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Sectio II. & Reconciliator."
+  },
+  {
+   "scan": 109,
+   "line": 3,
+   "lines": [
+    [
+     109,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Sectio III. & Redemptor."
+  },
+  {
+   "scan": 123,
+   "line": 1,
+   "lines": [
+    [
+     123,
+     1
+    ],
+    [
+     123,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput V. Probatio secunda."
+  },
+  {
+   "scan": 124,
+   "line": 1,
+   "lines": [
+    [
+     124,
+     1
+    ],
+    [
+     124,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Sectio I. quia Christus portavit nostra peccata."
+  },
+  {
+   "scan": 133,
+   "line": 1,
+   "lines": [
+    [
+     133,
+     1
+    ],
+    [
+     133,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Sectio II. quia pro nobis passus et mort."
+  },
+  {
+   "scan": 140,
+   "line": 2,
+   "lines": [
+    [
+     140,
+     2
+    ],
+    [
+     140,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Sectio III. quia sanguine peccata expiavit."
+  },
+  {
+   "scan": 151,
+   "line": 3,
+   "lines": [
+    [
+     151,
+     3
+    ],
+    [
+     151,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Caput VI. Probatio tertia."
+  },
+  {
+   "scan": 152,
+   "line": 2,
+   "lines": [
+    [
+     152,
+     2
+    ],
+    [
+     152,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Sectio I. quia Christus Sacerdos."
+  },
+  {
+   "scan": 162,
+   "line": 4,
+   "lines": [
+    [
+     162,
+     4
+    ],
+    [
+     162,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Sectio II. quia remisit peccata, & justificat."
+  },
+  {
+   "scan": 168,
+   "line": 1,
+   "lines": [
+    [
+     168,
+     1
+    ],
+    [
+     168,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Sectio III. quia etiam pro Patribus Veteris Testamenti mortuus."
+  },
+  {
+   "scan": 171,
+   "line": 2,
+   "lines": [
+    [
+     171,
+     2
+    ],
+    [
+     171,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput VII. Probatio quarta."
+  },
+  {
+   "scan": 172,
+   "line": 2,
+   "lines": [
+    [
+     172,
+     2
+    ],
+    [
+     172,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Sectio I. quia Christi obedientia imputatur ad justitiam."
+  },
+  {
+   "scan": 177,
+   "line": 2,
+   "lines": [
+    [
+     177,
+     2
+    ],
+    [
+     177,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Sectio II. quia judicio Dei erat satisfaciendum."
+  },
+  {
+   "scan": 187,
+   "line": 2,
+   "lines": [
+    [
+     187,
+     2
+    ],
+    [
+     187,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Sectio III. quia Christus, non peccator, est mortuus."
+  },
+  {
+   "scan": 200,
+   "line": 1,
+   "lines": [
+    [
+     200,
+     1
+    ],
+    [
+     200,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Pars II. Socinianorum refutatio."
+  },
+  {
+   "scan": 200,
+   "line": 3,
+   "lines": [
+    [
+     200,
+     3
+    ],
+    [
+     200,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Caput I. Contra satisfactionem Christi, prima objectio."
+  },
+  {
+   "scan": 201,
+   "line": 2,
+   "lines": [
+    [
+     201,
+     2
+    ],
+    [
+     201,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Sectio I. quia satisfactio pro peccatis Deo non fit necessaria."
+  },
+  {
+   "scan": 220,
+   "line": 1,
+   "lines": [
+    [
+     220,
+     1
+    ],
+    [
+     220,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Sectio II. quia Deus voluerit et velit peccatas remittere sine satisf."
+  },
+  {
+   "scan": 250,
+   "line": 2,
+   "lines": [
+    [
+     250,
+     2
+    ],
+    [
+     250,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Sectio III. quia justitia Dei, nobis non percuntibus, satisfieri non possit."
+  },
+  {
+   "scan": 264,
+   "line": 1,
+   "lines": [
+    [
+     264,
+     1
+    ],
+    [
+     264,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput II. Contra eandem satisfactionem, secunda objectio."
+  },
+  {
+   "scan": 265,
+   "line": 1,
+   "lines": [
+    [
+     265,
+     1
+    ],
+    [
+     265,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Sectio I. quia Christus non potuerit poenas nobis debitas persolvere."
+  },
+  {
+   "scan": 279,
+   "line": 1,
+   "lines": [
+    [
+     279,
+     1
+    ],
+    [
+     279,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Sectio II. quia non potuerint Christo peccata nostra imputari."
+  },
+  {
+   "scan": 290,
+   "line": 2,
+   "lines": [
+    [
+     290,
+     2
+    ],
+    [
+     290,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Sectio III. quia absurda sequantur."
+  }
+ ],
+ "book": "Ottonis Casmanni Anti-Socinus, Tractatus ad diiudicandam controversiam theologicam (Amberg 1612): a Latin polemical treatise in two parts (Pars I on the faith and the merit and satisfaction of Christ, Pars II refuting the Socinian objections), preceded by dedicatory, preface and reader matter, each part divided into capita and sectiones.",
+ "series": [
+  {
+   "label": "Pars",
+   "first": "I",
+   "last": "II",
+   "count": 2,
+   "level": 1,
+   "found": 5
+  },
+  {
+   "label": "Caput",
+   "first": "I",
+   "last": "VII",
+   "count": 9,
+   "level": 2,
+   "found": 8
+  },
+  {
+   "label": "Sectio",
+   "first": "I",
+   "last": "II",
+   "count": 25,
+   "level": 3,
+   "found": 25
+  }
+ ],
+ "taste": 50,
+ "doubt": "",
+ "input": 27536,
+ "output": 40517
+}
