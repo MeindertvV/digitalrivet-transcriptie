@@ -1,0 +1,884 @@
+{
+ "answer": {
+  "book": "Keckermann's Systema compendiosum totius mathematicae is a volume of several works: front matter (dedicatory epistle, prolegomena, Praecognita, general table), Elementa geometriae, two parts of Scientia optica, Systema astronomicum in two books (the first divided into numbered sections), Systema geographicum in two books, and Commentatio nautica, whose second part is divided into numbered problemata; the chapters (Caput) are numbered within each book.",
+  "series": [
+   {
+    "label": "Liber",
+    "first": "I",
+    "last": "II",
+    "count": 2,
+    "level": 1
+   },
+   {
+    "label": "Liber",
+    "first": "I",
+    "last": "II",
+    "count": 2,
+    "level": 1
+   },
+   {
+    "label": "Pars",
+    "first": "prior",
+    "last": "posterior",
+    "count": 2,
+    "level": 1
+   },
+   {
+    "label": "Caput",
+    "first": "I",
+    "last": "VI",
+    "count": 6,
+    "level": 2
+   },
+   {
+    "label": "Caput",
+    "first": "I",
+    "last": "II",
+    "count": 2,
+    "level": 2
+   },
+   {
+    "label": "Caput",
+    "first": "I",
+    "last": "II",
+    "count": 2,
+    "level": 2
+   },
+   {
+    "label": "Caput",
+    "first": "I",
+    "last": "V",
+    "count": 5,
+    "level": 2
+   },
+   {
+    "label": "Caput",
+    "first": "I",
+    "last": "IV",
+    "count": 4,
+    "level": 2
+   },
+   {
+    "label": "Caput",
+    "first": "I",
+    "last": "VI",
+    "count": 6,
+    "level": 2
+   },
+   {
+    "label": "Caput",
+    "first": "I",
+    "last": "VI",
+    "count": 6,
+    "level": 2
+   },
+   {
+    "label": "Caput",
+    "first": "I",
+    "last": "XI",
+    "count": 11,
+    "level": 2
+   },
+   {
+    "label": "Caput",
+    "first": "I",
+    "last": "V",
+    "count": 5,
+    "level": 2
+   },
+   {
+    "label": "Pars",
+    "first": "I",
+    "last": "II",
+    "count": 2,
+    "level": 2
+   },
+   {
+    "label": "Quaestio",
+    "first": "I",
+    "last": "III",
+    "count": 3,
+    "level": 3
+   },
+   {
+    "label": "Problema",
+    "first": "I",
+    "last": "XII",
+    "count": 12,
+    "level": 3
+   }
+  ],
+  "entries": [
+   {
+    "ids": [
+     14,
+     15,
+     16,
+     17,
+     18,
+     19,
+     20,
+     21,
+     22,
+     23
+    ],
+    "level": 1,
+    "title": "Epistola dedicatoria: Iudiciorum publicorum sive scabinatus in florentissima republica Dantiscana, praesidi amplissimo, et assessoribus spectatissimis atque integerrimis, dominis ac patronis honorandis"
+   },
+   {
+    "ids": [
+     28,
+     29,
+     30,
+     31
+    ],
+    "level": 1,
+    "title": "Prolegomena scientiarum mathematicarum"
+   },
+   {
+    "ids": [
+     33,
+     34
+    ],
+    "level": 2,
+    "title": "De dignitate scientiarum mathematicarum"
+   },
+   {
+    "ids": [
+     37
+    ],
+    "level": 2,
+    "title": "De utilitate scientiarum mathematicarum"
+   },
+   {
+    "ids": [
+     38,
+     39
+    ],
+    "level": 3,
+    "title": "Specialis utilitas partim ad disciplinas speculativas pertinet, partim ad practicas"
+   },
+   {
+    "ids": [
+     40,
+     41,
+     42
+    ],
+    "level": 1,
+    "title": "Praecognita sive prolegomena didactica"
+   },
+   {
+    "ids": [
+     43
+    ],
+    "level": 2,
+    "title": "Tabula generalis totius mathematicae"
+   },
+   {
+    "ids": [
+     44,
+     45
+    ],
+    "level": 1,
+    "title": "Elementa geometriae"
+   },
+   {
+    "ids": [
+     46,
+     47,
+     48
+    ],
+    "level": 2,
+    "title": "Caput I. In quo prolegomena geometrica"
+   },
+   {
+    "ids": [
+     53,
+     54,
+     55
+    ],
+    "level": 2,
+    "title": "Caput II. De linea & angulis, eorumque affectionibus"
+   },
+   {
+    "ids": [
+     67,
+     68
+    ],
+    "level": 2,
+    "title": "Caput III. De figuris in genere, & in specie de circulo, eiusque affectionibus"
+   },
+   {
+    "ids": [
+     84,
+     85,
+     86
+    ],
+    "level": 2,
+    "title": "Caput IV. De triangulis & eorum affectionibus"
+   },
+   {
+    "ids": [
+     93,
+     94
+    ],
+    "level": 2,
+    "title": "Caput V. De quadrangulo & multangulo"
+   },
+   {
+    "ids": [
+     97,
+     98
+    ],
+    "level": 2,
+    "title": "Caput VI. De corporibus solidis"
+   },
+   {
+    "ids": [
+     117,
+     118,
+     119
+    ],
+    "level": 1,
+    "title": "Scientiae opticae pars prior, quae est generalis"
+   },
+   {
+    "ids": [
+     120,
+     121
+    ],
+    "level": 2,
+    "title": "Caput I. De optica in genere"
+   },
+   {
+    "ids": [
+     127,
+     128,
+     129
+    ],
+    "level": 2,
+    "title": "Caput II. De priori parte optices, nempe de radiatura & visione simplici"
+   },
+   {
+    "ids": [
+     131,
+     132,
+     133,
+     134,
+     135
+    ],
+    "level": 1,
+    "title": "Posterior pars: de visione geminata, et primo quidem de reflexa sive catoptrica"
+   },
+   {
+    "ids": [
+     136
+    ],
+    "level": 2,
+    "title": "Caput I. De visione geminata, & primo quidem, de reflexa sive catoptrica"
+   },
+   {
+    "ids": [
+     145,
+     146,
+     147
+    ],
+    "level": 2,
+    "title": "Caput II. De visione refracta sive mesoptica"
+   },
+   {
+    "ids": [
+     165,
+     166,
+     167,
+     168
+    ],
+    "level": 1,
+    "title": "Synagoge orationis ad professore praemissae, ad scientiae astronomicae commendationem"
+   },
+   {
+    "ids": [
+     170,
+     171,
+     172,
+     173,
+     174
+    ],
+    "level": 1,
+    "title": "Systematis astronomici liber primus. De parte astronomiae absoluta"
+   },
+   {
+    "ids": [
+     175,
+     176,
+     177,
+     178
+    ],
+    "level": 2,
+    "title": "Sectio I. De primo mobili & sphaera mona. Caput I. De generali astronomia subiecto"
+   },
+   {
+    "ids": [
+     184,
+     185,
+     186
+    ],
+    "level": 2,
+    "title": "Caput II. De circulis caelestibus in genere, & in specie de horizonte & meridiano"
+   },
+   {
+    "ids": [
+     196,
+     197
+    ],
+    "level": 2,
+    "title": "Caput III. De 4 reliquis circulis maioribus"
+   },
+   {
+    "ids": [
+     199,
+     200
+    ],
+    "level": 2,
+    "title": "Caput IV. De circulis minoribus"
+   },
+   {
+    "ids": [
+     206,
+     207,
+     208,
+     209,
+     210,
+     211,
+     212
+    ],
+    "level": 2,
+    "title": "Caput V. De ascensionibus & descensionibus partium zodiaci, sive de comparatione motus obliqui in coelo cum motu recto"
+   },
+   {
+    "ids": [
+     220,
+     221,
+     222,
+     223,
+     224,
+     225
+    ],
+    "level": 2,
+    "title": "Sectio II. De sphaera octava et stellis fixis. Caput I. De sphaerae octavae motu in genere"
+   },
+   {
+    "ids": [
+     227,
+     228,
+     229
+    ],
+    "level": 2,
+    "title": "Caput II. De stellis octavae sphaerae fixis deque earum numero ac distributione"
+   },
+   {
+    "ids": [
+     233,
+     234,
+     235
+    ],
+    "level": 2,
+    "title": "Caput III. De stellarum fixarum situ respectu zodiaci, aequatoris et horizontis"
+   },
+   {
+    "ids": [
+     245,
+     246,
+     247,
+     248
+    ],
+    "level": 2,
+    "title": "Caput IV. De usu globi caelestis, atque adeo de stellis fixis in coelo ex globi consideratione cognoscendis"
+   },
+   {
+    "ids": [
+     258,
+     259,
+     260,
+     261,
+     262,
+     263
+    ],
+    "level": 2,
+    "title": "Sectio III. De sphaeris et motu planetarum. Caput I. De planetis in genere"
+   },
+   {
+    "ids": [
+     267,
+     268,
+     269
+    ],
+    "level": 2,
+    "title": "Caput II. De communibus planetarum affectionibus"
+   },
+   {
+    "ids": [
+     270,
+     271
+    ],
+    "level": 2,
+    "title": "Caput III. De Sole"
+   },
+   {
+    "ids": [
+     280,
+     281
+    ],
+    "level": 2,
+    "title": "Caput IV. De Luna"
+   },
+   {
+    "ids": [
+     283,
+     284,
+     285,
+     286
+    ],
+    "level": 2,
+    "title": "Caput V. De planetis minus principibus in genere, & in specie de tribus superioribus"
+   },
+   {
+    "ids": [
+     289,
+     290
+    ],
+    "level": 2,
+    "title": "Caput VI. De Venere & Mercurio"
+   },
+   {
+    "ids": [
+     293,
+     294,
+     295,
+     296,
+     297,
+     298,
+     299,
+     300
+    ],
+    "level": 1,
+    "title": "Systematis astronomici liber secundus, pars posterior: De parte astronomiae comparata, sive de ratione & distinctione temporis"
+   },
+   {
+    "ids": [
+     301,
+     302
+    ],
+    "level": 2,
+    "title": "Caput I. De anno naturali"
+   },
+   {
+    "ids": [
+     307,
+     308
+    ],
+    "level": 2,
+    "title": "Caput II. De mensibus naturalibus"
+   },
+   {
+    "ids": [
+     311,
+     312
+    ],
+    "level": 2,
+    "title": "Caput III. De diebus & horis naturalibus"
+   },
+   {
+    "ids": [
+     317,
+     318,
+     319,
+     320,
+     321
+    ],
+    "level": 2,
+    "title": "Caput IV. De distinctione temporum ex instituto hominum: De anno civili, sive anno ab hominibus instituto"
+   },
+   {
+    "ids": [
+     327,
+     328,
+     329
+    ],
+    "level": 2,
+    "title": "Caput V. De mensibus, diebus & horis civilibus"
+   },
+   {
+    "ids": [
+     332,
+     333,
+     334,
+     335
+    ],
+    "level": 2,
+    "title": "Caput ultimum. De distinctione temporum orta, hoc est, epochis, intercalationibus, cyclis & indictionibus"
+   },
+   {
+    "ids": [
+     344,
+     345,
+     346,
+     347,
+     348
+    ],
+    "level": 1,
+    "title": "Epitome orationis, quam auctor habuit, lectiones geographicas auspicaturus"
+   },
+   {
+    "ids": [
+     349
+    ],
+    "level": 1,
+    "title": "Praefatio"
+   },
+   {
+    "ids": [
+     351,
+     352,
+     353,
+     354
+    ],
+    "level": 1,
+    "title": "Liber primus geographiae, in quo pars geographiae generalis"
+   },
+   {
+    "ids": [
+     355,
+     356,
+     357
+    ],
+    "level": 2,
+    "title": "Caput I. De geographiae natura & divisione"
+   },
+   {
+    "ids": [
+     360,
+     361,
+     362
+    ],
+    "level": 2,
+    "title": "Caput II. De globi terreni affectionibus generalibus"
+   },
+   {
+    "ids": [
+     369,
+     370,
+     371
+    ],
+    "level": 2,
+    "title": "Caput III. De generalioribus globi terreni partibus"
+   },
+   {
+    "ids": [
+     372,
+     373,
+     374,
+     375,
+     376
+    ],
+    "level": 2,
+    "title": "Caput IV. De quantitate terrae in genere, & in specie de dimensione spaciorum terrae ea, quam primam dicimus"
+   },
+   {
+    "ids": [
+     380,
+     381,
+     382,
+     383
+    ],
+    "level": 2,
+    "title": "Caput V. De distinctione sive dimensione globi terreni orta: nempe de zonis & climatibus"
+   },
+   {
+    "ids": [
+     404,
+     405
+    ],
+    "level": 2,
+    "title": "Caput VI. De globo terreno repraesentatitio"
+   },
+   {
+    "ids": [
+     410,
+     411,
+     412
+    ],
+    "level": 2,
+    "title": "Caput VII. De mappa seu tabula generali geographica"
+   },
+   {
+    "ids": [
+     416,
+     417
+    ],
+    "level": 2,
+    "title": "Caput VIII. De distinctione orbis terrarum respectu coeli"
+   },
+   {
+    "ids": [
+     421,
+     422,
+     423,
+     424
+    ],
+    "level": 2,
+    "title": "Caput IX. De distinctione orbis terrarum respectu solis sive umbrarum a sole sparsarum"
+   },
+   {
+    "ids": [
+     425,
+     426,
+     427,
+     428,
+     429,
+     430,
+     431
+    ],
+    "level": 2,
+    "title": "Caput X. De distinctione partium terrae respectu plagarum mundi ad se invicem collatarum, sive de longitudine ac latitudine terrae & particularium in terra locorum"
+   },
+   {
+    "ids": [
+     434,
+     435,
+     436,
+     437,
+     438,
+     439
+    ],
+    "level": 2,
+    "title": "Caput XI. De distinctione globi terreni respectu situs partium ad se invicem, atque adeo habitatorum, simulque respectu distantiae"
+   },
+   {
+    "ids": [
+     442
+    ],
+    "level": 2,
+    "title": "Tabula generalis totius orbis terrarum"
+   },
+   {
+    "ids": [
+     443,
+     444,
+     445,
+     446
+    ],
+    "level": 1,
+    "title": "Systematis geographici pars posterior, quae est specialis"
+   },
+   {
+    "ids": [
+     447,
+     448
+    ],
+    "level": 2,
+    "title": "Caput I. De Europa"
+   },
+   {
+    "ids": [
+     454,
+     455
+    ],
+    "level": 2,
+    "title": "Caput II. De Asia secunda orbis cognitae parte"
+   },
+   {
+    "ids": [
+     457,
+     458
+    ],
+    "level": 2,
+    "title": "Caput III. De Africa"
+   },
+   {
+    "ids": [
+     461,
+     462
+    ],
+    "level": 2,
+    "title": "Caput IV. De Novo orbe, id est, America"
+   },
+   {
+    "ids": [
+     466,
+     467,
+     468
+    ],
+    "level": 2,
+    "title": "Caput V et ultimum. De tabulis seu mappis particularibus"
+   },
+   {
+    "ids": [
+     471,
+     472,
+     473
+    ],
+    "level": 1,
+    "title": "P.P. in gymnasio Dantiscano IV. Non. Maii anno 1603 Philosophiae studiosis S."
+   },
+   {
+    "ids": [
+     474,
+     475,
+     476,
+     477
+    ],
+    "level": 1,
+    "title": "Brevis commentatio nautica per aphorismos & problemata"
+   },
+   {
+    "ids": [
+     480
+    ],
+    "level": 3,
+    "title": "I. Quaestio. Hebraeane potius genti an alteri cuidam gloria inventae navigationis & navium tribuenda sit?"
+   },
+   {
+    "ids": [
+     481,
+     482,
+     483
+    ],
+    "level": 3,
+    "title": "II. Quaestio. An navigationis necessarius in vita humana sit usus?"
+   },
+   {
+    "ids": [
+     485
+    ],
+    "level": 3,
+    "title": "III. Quaestio. Sitne navigatio res temeraria, & ab humana natura aliena, ubi simul per occasionem disputatur, an iter nauale praestet terrestri?"
+   },
+   {
+    "ids": [
+     486,
+     487
+    ],
+    "level": 2,
+    "title": "Pars altera commentationis nauticae, quae est specialis"
+   },
+   {
+    "ids": [
+     489
+    ],
+    "level": 3,
+    "title": "I. Problema. An mare sit altius terra, & quanta sit in mari profunditas?"
+   },
+   {
+    "ids": [
+     490,
+     491,
+     492
+    ],
+    "level": 3,
+    "title": "II. Problema. An maris salsedo aliquid ad navigationem conducat?"
+   },
+   {
+    "ids": [
+     493,
+     494,
+     495,
+     496
+    ],
+    "level": 3,
+    "title": "III. Problema. Utrum certa aliqua causa assignari possit fluxus & refluxus marini, & cur is in nostro mari Balthico non accidat?"
+   },
+   {
+    "ids": [
+     497,
+     498,
+     499,
+     500
+    ],
+    "level": 3,
+    "title": "IV. Problema. An naves velocius ab ortu in occasum, quam ab occasu in ortum ferantur?"
+   },
+   {
+    "ids": [
+     502
+    ],
+    "level": 3,
+    "title": "V. Problema. Utrum ventus fit aer commotus, an vero diversa quaedam ab aere exhalatio?"
+   },
+   {
+    "ids": [
+     504,
+     505,
+     506,
+     507
+    ],
+    "level": 3,
+    "title": "VI. Problema. Unde ventorum tanta vis esse possit, quae naves non tantum impellat sed etiam penitus evertat?"
+   },
+   {
+    "ids": [
+     509,
+     510,
+     511,
+     512
+    ],
+    "level": 3,
+    "title": "VII. Problema. Utrum sciri possit, ex quibus mundi partibus venti spirent, & quotnam sint numero venti?"
+   },
+   {
+    "ids": [
+     513,
+     514,
+     515
+    ],
+    "level": 3,
+    "title": "VIII. Problema. An sint quidam venti stati, qui continuis aliquot mensibus ab una mundi plaga spirent?"
+   },
+   {
+    "ids": [
+     518,
+     519,
+     520
+    ],
+    "level": 3,
+    "title": "IX. Problema. Quomodo pixis nautica fabrefacta fit, & quis fit eius usus?"
+   },
+   {
+    "ids": [
+     523
+    ],
+    "level": 3,
+    "title": "X. Problema. Quae causa fit, cur vela eorumque antennae quo altius malo affiguntur, eo velocius navim impellant, & cur tam exiguo gubernaculi ligno tanta nauium moles promoveatur?"
+   },
+   {
+    "ids": [
+     525,
+     526,
+     527
+    ],
+    "level": 3,
+    "title": "XI. Problema. Quae & quanta fuerit apud veteres navigandi peritia"
+   },
+   {
+    "ids": [
+     528,
+     529,
+     530
+    ],
+    "level": 3,
+    "title": "XII. Problema. An Echeneis piscis navigia retardet? & nonnulla etiam de Nautilo pisce"
+   }
+  ],
+  "missing": [
+   {
+    "title": "Pars I",
+    "after": 477,
+    "level": 2
+   }
+  ]
+ },
+ "cost": 0.03365652,
+ "input": 57318,
+ "output": 44976,
+ "seconds": 179
+}
