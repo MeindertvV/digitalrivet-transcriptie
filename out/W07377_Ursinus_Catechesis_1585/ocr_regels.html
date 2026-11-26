@@ -1,0 +1,888 @@
+<!doctype html><meta charset=utf-8><meta name=viewport content='width=device-width,initial-scale=1'><title>OCR per regel</title><style>
+:root{--bg:#fffdf8;--ink:#2a241c;--muted:#857a69;--rule:#e4dccc;--goed:#2f7d32;--redelijk:#a07000;
+--afwijkend:#b3261e;--geen:#7a5aa8;--mark:#f7d77a}
+@media (prefers-color-scheme:dark){:root{--bg:#1f1b15;--ink:#e9e1d2;--muted:#9a8f7d;--rule:#383126;
+--goed:#7cc47f;--redelijk:#e0b54a;--afwijkend:#f08a80;--geen:#b9a0e0;--mark:#6b5414}}
+body{font:15px/1.45 Georgia,serif;max-width:1300px;margin:2em auto;padding:0 16px;color:var(--ink);background:var(--bg)}
+h1{font-size:1.4em} h3{margin:1.6em 0 .3em;font-size:1.05em} a{color:inherit}
+table{border-collapse:collapse;width:100%} td,th{border-bottom:1px solid var(--rule);padding:3px 6px;vertical-align:top;text-align:left}
+th{font:600 12px system-ui;color:var(--muted)} td.n,td.s{font:12px system-ui;white-space:nowrap;color:var(--muted)}
+td.s{text-align:right;font-weight:600} td.o{font-family:ui-monospace,monospace;font-size:13px;color:var(--muted)}
+tr.goed td.s{color:var(--goed)} tr.redelijk td.s{color:var(--redelijk)} tr.afwijkend td.s{color:var(--afwijkend)}
+tr.geen td.s{color:var(--geen)} tr.alleen td.s{color:var(--afwijkend)} td.gap{color:var(--muted);font-style:italic}
+tr.afwijkend td:first-child,tr.geen td:first-child,tr.alleen td:first-child{box-shadow:inset 3px 0 var(--afwijkend)}
+mark{background:var(--mark);color:inherit;border-radius:2px} .sum span{margin-right:1.4em;font:13px system-ui}
+.bar{display:flex;height:8px;border-radius:4px;overflow:hidden;margin:.5em 0 1em;max-width:600px}
+.bar i{display:block} p.no{color:var(--muted);font-style:italic}
+label{font:13px system-ui;color:var(--muted)} body.weak tr.goed,body.weak tr.redelijk{display:none}
+body.weak section:not(:has(tr.afwijkend,tr.geen,tr.alleen)){display:none}
+</style>
+<h1>OCR per regel: W07377_Ursinus_Catechesis_1585</h1>
+<p>432 scans met tekst, 0 met bruikbare OCR, waarvan 0 waar de OCR de pagina slecht volgt. 0 regels vergeleken, gemiddelde overeenkomst 0%.</p>
+<div class=bar><i style='width:0.0%;background:var(--goed)' title='goed: 0'></i><i style='width:0.0%;background:var(--redelijk)' title='redelijk: 0'></i><i style='width:0.0%;background:var(--afwijkend)' title='afwijkend: 0'></i><i style='width:0.0%;background:var(--geen)' title='geen: 0'></i></div>
+<p class=sum><span style='color:var(--goed)'>goed: 0</span><span style='color:var(--redelijk)'>redelijk: 0</span><span style='color:var(--afwijkend)'>afwijkend: 0</span><span style='color:var(--geen)'>geen: 0</span><span>OCR-regels zonder transcriptie: 0</span></p>
+<label><input type=checkbox onchange="document.body.classList.toggle('weak',this.checked)"> alleen afwijkende regels</label>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=3' target=_blank>scan 3</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=5' target=_blank>scan 5</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=6' target=_blank>scan 6</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=7' target=_blank>scan 7</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=8' target=_blank>scan 8</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=9' target=_blank>scan 9</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=10' target=_blank>scan 10</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=11' target=_blank>scan 11</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=12' target=_blank>scan 12</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=13' target=_blank>scan 13</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=14' target=_blank>scan 14</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=15' target=_blank>scan 15</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=16' target=_blank>scan 16</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=17' target=_blank>scan 17</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=18' target=_blank>scan 18</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=19' target=_blank>scan 19</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=20' target=_blank>scan 20</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=21' target=_blank>scan 21</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=22' target=_blank>scan 22</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=23' target=_blank>scan 23</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=24' target=_blank>scan 24</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=25' target=_blank>scan 25</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=26' target=_blank>scan 26</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=27' target=_blank>scan 27</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=28' target=_blank>scan 28</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=29' target=_blank>scan 29</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=30' target=_blank>scan 30</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=31' target=_blank>scan 31</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=32' target=_blank>scan 32</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=33' target=_blank>scan 33</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=34' target=_blank>scan 34</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=35' target=_blank>scan 35</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=36' target=_blank>scan 36</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=37' target=_blank>scan 37</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=38' target=_blank>scan 38</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=39' target=_blank>scan 39</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=40' target=_blank>scan 40</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=41' target=_blank>scan 41</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=42' target=_blank>scan 42</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=43' target=_blank>scan 43</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=44' target=_blank>scan 44</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=45' target=_blank>scan 45</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=46' target=_blank>scan 46</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=47' target=_blank>scan 47</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=48' target=_blank>scan 48</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=49' target=_blank>scan 49</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=50' target=_blank>scan 50</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=51' target=_blank>scan 51</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=52' target=_blank>scan 52</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=53' target=_blank>scan 53</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=54' target=_blank>scan 54</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=55' target=_blank>scan 55</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=56' target=_blank>scan 56</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=57' target=_blank>scan 57</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=58' target=_blank>scan 58</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=59' target=_blank>scan 59</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=60' target=_blank>scan 60</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=61' target=_blank>scan 61</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=62' target=_blank>scan 62</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=63' target=_blank>scan 63</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=64' target=_blank>scan 64</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=65' target=_blank>scan 65</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=66' target=_blank>scan 66</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=67' target=_blank>scan 67</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=68' target=_blank>scan 68</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=69' target=_blank>scan 69</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=70' target=_blank>scan 70</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=71' target=_blank>scan 71</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=72' target=_blank>scan 72</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=73' target=_blank>scan 73</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=74' target=_blank>scan 74</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=75' target=_blank>scan 75</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=76' target=_blank>scan 76</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=77' target=_blank>scan 77</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=78' target=_blank>scan 78</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=79' target=_blank>scan 79</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=80' target=_blank>scan 80</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=81' target=_blank>scan 81</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=82' target=_blank>scan 82</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=83' target=_blank>scan 83</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=84' target=_blank>scan 84</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=85' target=_blank>scan 85</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=86' target=_blank>scan 86</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=87' target=_blank>scan 87</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=88' target=_blank>scan 88</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=89' target=_blank>scan 89</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=90' target=_blank>scan 90</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=91' target=_blank>scan 91</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=92' target=_blank>scan 92</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=93' target=_blank>scan 93</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=94' target=_blank>scan 94</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=95' target=_blank>scan 95</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=96' target=_blank>scan 96</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=97' target=_blank>scan 97</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=98' target=_blank>scan 98</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=99' target=_blank>scan 99</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=100' target=_blank>scan 100</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=101' target=_blank>scan 101</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=102' target=_blank>scan 102</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=103' target=_blank>scan 103</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=104' target=_blank>scan 104</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=105' target=_blank>scan 105</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=106' target=_blank>scan 106</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=107' target=_blank>scan 107</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=108' target=_blank>scan 108</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=109' target=_blank>scan 109</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=110' target=_blank>scan 110</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=111' target=_blank>scan 111</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=112' target=_blank>scan 112</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=113' target=_blank>scan 113</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=114' target=_blank>scan 114</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=115' target=_blank>scan 115</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=116' target=_blank>scan 116</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=117' target=_blank>scan 117</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=118' target=_blank>scan 118</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=119' target=_blank>scan 119</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=120' target=_blank>scan 120</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=121' target=_blank>scan 121</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=122' target=_blank>scan 122</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=123' target=_blank>scan 123</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=124' target=_blank>scan 124</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=125' target=_blank>scan 125</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=126' target=_blank>scan 126</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=127' target=_blank>scan 127</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=128' target=_blank>scan 128</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=129' target=_blank>scan 129</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=130' target=_blank>scan 130</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=131' target=_blank>scan 131</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=132' target=_blank>scan 132</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=133' target=_blank>scan 133</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=134' target=_blank>scan 134</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=135' target=_blank>scan 135</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=136' target=_blank>scan 136</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=137' target=_blank>scan 137</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=138' target=_blank>scan 138</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=139' target=_blank>scan 139</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=140' target=_blank>scan 140</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=141' target=_blank>scan 141</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=142' target=_blank>scan 142</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=143' target=_blank>scan 143</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=144' target=_blank>scan 144</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=145' target=_blank>scan 145</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=146' target=_blank>scan 146</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=147' target=_blank>scan 147</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=148' target=_blank>scan 148</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=149' target=_blank>scan 149</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=150' target=_blank>scan 150</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=151' target=_blank>scan 151</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=152' target=_blank>scan 152</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=153' target=_blank>scan 153</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=154' target=_blank>scan 154</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=155' target=_blank>scan 155</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=156' target=_blank>scan 156</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=157' target=_blank>scan 157</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=158' target=_blank>scan 158</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=159' target=_blank>scan 159</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=160' target=_blank>scan 160</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=161' target=_blank>scan 161</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=162' target=_blank>scan 162</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=163' target=_blank>scan 163</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=164' target=_blank>scan 164</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=165' target=_blank>scan 165</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=166' target=_blank>scan 166</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=167' target=_blank>scan 167</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=168' target=_blank>scan 168</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=169' target=_blank>scan 169</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=170' target=_blank>scan 170</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=171' target=_blank>scan 171</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=172' target=_blank>scan 172</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=173' target=_blank>scan 173</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=174' target=_blank>scan 174</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=175' target=_blank>scan 175</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=176' target=_blank>scan 176</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=177' target=_blank>scan 177</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=178' target=_blank>scan 178</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=179' target=_blank>scan 179</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=180' target=_blank>scan 180</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=181' target=_blank>scan 181</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=182' target=_blank>scan 182</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=183' target=_blank>scan 183</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=184' target=_blank>scan 184</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=185' target=_blank>scan 185</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=186' target=_blank>scan 186</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=187' target=_blank>scan 187</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=188' target=_blank>scan 188</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=189' target=_blank>scan 189</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=190' target=_blank>scan 190</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=191' target=_blank>scan 191</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=192' target=_blank>scan 192</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=193' target=_blank>scan 193</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=194' target=_blank>scan 194</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=195' target=_blank>scan 195</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=196' target=_blank>scan 196</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=197' target=_blank>scan 197</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=198' target=_blank>scan 198</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=199' target=_blank>scan 199</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=200' target=_blank>scan 200</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=201' target=_blank>scan 201</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=202' target=_blank>scan 202</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=203' target=_blank>scan 203</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=204' target=_blank>scan 204</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=205' target=_blank>scan 205</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=206' target=_blank>scan 206</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=207' target=_blank>scan 207</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=208' target=_blank>scan 208</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=209' target=_blank>scan 209</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=210' target=_blank>scan 210</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=211' target=_blank>scan 211</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=212' target=_blank>scan 212</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=213' target=_blank>scan 213</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=214' target=_blank>scan 214</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=215' target=_blank>scan 215</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=216' target=_blank>scan 216</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=217' target=_blank>scan 217</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=218' target=_blank>scan 218</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=219' target=_blank>scan 219</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=220' target=_blank>scan 220</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=221' target=_blank>scan 221</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=222' target=_blank>scan 222</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=223' target=_blank>scan 223</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=224' target=_blank>scan 224</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=225' target=_blank>scan 225</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=226' target=_blank>scan 226</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=227' target=_blank>scan 227</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=228' target=_blank>scan 228</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=229' target=_blank>scan 229</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=230' target=_blank>scan 230</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=231' target=_blank>scan 231</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=232' target=_blank>scan 232</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=233' target=_blank>scan 233</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=234' target=_blank>scan 234</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=235' target=_blank>scan 235</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=236' target=_blank>scan 236</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=237' target=_blank>scan 237</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=238' target=_blank>scan 238</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=239' target=_blank>scan 239</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=240' target=_blank>scan 240</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=241' target=_blank>scan 241</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=242' target=_blank>scan 242</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=243' target=_blank>scan 243</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=244' target=_blank>scan 244</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=245' target=_blank>scan 245</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=246' target=_blank>scan 246</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=247' target=_blank>scan 247</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=248' target=_blank>scan 248</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=249' target=_blank>scan 249</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=250' target=_blank>scan 250</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=251' target=_blank>scan 251</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=252' target=_blank>scan 252</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=253' target=_blank>scan 253</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=254' target=_blank>scan 254</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=255' target=_blank>scan 255</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=256' target=_blank>scan 256</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=257' target=_blank>scan 257</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=258' target=_blank>scan 258</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=259' target=_blank>scan 259</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=260' target=_blank>scan 260</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=261' target=_blank>scan 261</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=262' target=_blank>scan 262</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=263' target=_blank>scan 263</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=264' target=_blank>scan 264</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=265' target=_blank>scan 265</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=266' target=_blank>scan 266</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=267' target=_blank>scan 267</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=268' target=_blank>scan 268</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=269' target=_blank>scan 269</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=270' target=_blank>scan 270</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=271' target=_blank>scan 271</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=272' target=_blank>scan 272</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=273' target=_blank>scan 273</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=274' target=_blank>scan 274</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=275' target=_blank>scan 275</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=276' target=_blank>scan 276</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=277' target=_blank>scan 277</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=278' target=_blank>scan 278</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=279' target=_blank>scan 279</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=280' target=_blank>scan 280</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=281' target=_blank>scan 281</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=282' target=_blank>scan 282</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=283' target=_blank>scan 283</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=284' target=_blank>scan 284</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=285' target=_blank>scan 285</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=286' target=_blank>scan 286</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=287' target=_blank>scan 287</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=288' target=_blank>scan 288</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=289' target=_blank>scan 289</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=290' target=_blank>scan 290</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=291' target=_blank>scan 291</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=292' target=_blank>scan 292</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=293' target=_blank>scan 293</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=294' target=_blank>scan 294</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=295' target=_blank>scan 295</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=296' target=_blank>scan 296</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=297' target=_blank>scan 297</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=298' target=_blank>scan 298</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=299' target=_blank>scan 299</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=300' target=_blank>scan 300</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=301' target=_blank>scan 301</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=302' target=_blank>scan 302</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=303' target=_blank>scan 303</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=304' target=_blank>scan 304</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=305' target=_blank>scan 305</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=306' target=_blank>scan 306</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=307' target=_blank>scan 307</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=308' target=_blank>scan 308</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=309' target=_blank>scan 309</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=310' target=_blank>scan 310</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=311' target=_blank>scan 311</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=312' target=_blank>scan 312</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=313' target=_blank>scan 313</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=314' target=_blank>scan 314</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=315' target=_blank>scan 315</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=316' target=_blank>scan 316</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=317' target=_blank>scan 317</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=318' target=_blank>scan 318</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=319' target=_blank>scan 319</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=320' target=_blank>scan 320</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=321' target=_blank>scan 321</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=322' target=_blank>scan 322</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=323' target=_blank>scan 323</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=324' target=_blank>scan 324</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=325' target=_blank>scan 325</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=326' target=_blank>scan 326</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=327' target=_blank>scan 327</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=328' target=_blank>scan 328</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=329' target=_blank>scan 329</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=330' target=_blank>scan 330</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=331' target=_blank>scan 331</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=332' target=_blank>scan 332</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=333' target=_blank>scan 333</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=334' target=_blank>scan 334</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=335' target=_blank>scan 335</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=336' target=_blank>scan 336</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=337' target=_blank>scan 337</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=338' target=_blank>scan 338</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=339' target=_blank>scan 339</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=340' target=_blank>scan 340</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=341' target=_blank>scan 341</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=342' target=_blank>scan 342</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=343' target=_blank>scan 343</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=344' target=_blank>scan 344</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=345' target=_blank>scan 345</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=346' target=_blank>scan 346</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=347' target=_blank>scan 347</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=348' target=_blank>scan 348</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=349' target=_blank>scan 349</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=350' target=_blank>scan 350</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=351' target=_blank>scan 351</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=352' target=_blank>scan 352</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=353' target=_blank>scan 353</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=354' target=_blank>scan 354</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=355' target=_blank>scan 355</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=356' target=_blank>scan 356</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=357' target=_blank>scan 357</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=358' target=_blank>scan 358</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=359' target=_blank>scan 359</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=360' target=_blank>scan 360</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=361' target=_blank>scan 361</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=362' target=_blank>scan 362</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=363' target=_blank>scan 363</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=364' target=_blank>scan 364</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=365' target=_blank>scan 365</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=366' target=_blank>scan 366</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=367' target=_blank>scan 367</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=368' target=_blank>scan 368</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=369' target=_blank>scan 369</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=370' target=_blank>scan 370</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=371' target=_blank>scan 371</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=372' target=_blank>scan 372</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=373' target=_blank>scan 373</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=374' target=_blank>scan 374</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=375' target=_blank>scan 375</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=376' target=_blank>scan 376</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=377' target=_blank>scan 377</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=378' target=_blank>scan 378</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=379' target=_blank>scan 379</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=380' target=_blank>scan 380</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=381' target=_blank>scan 381</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=382' target=_blank>scan 382</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=383' target=_blank>scan 383</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=384' target=_blank>scan 384</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=385' target=_blank>scan 385</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=386' target=_blank>scan 386</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=387' target=_blank>scan 387</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=388' target=_blank>scan 388</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=389' target=_blank>scan 389</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=390' target=_blank>scan 390</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=391' target=_blank>scan 391</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=392' target=_blank>scan 392</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=393' target=_blank>scan 393</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=394' target=_blank>scan 394</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=395' target=_blank>scan 395</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=396' target=_blank>scan 396</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=397' target=_blank>scan 397</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=398' target=_blank>scan 398</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=399' target=_blank>scan 399</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=400' target=_blank>scan 400</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=401' target=_blank>scan 401</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=402' target=_blank>scan 402</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=403' target=_blank>scan 403</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=404' target=_blank>scan 404</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=405' target=_blank>scan 405</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=406' target=_blank>scan 406</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=407' target=_blank>scan 407</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=408' target=_blank>scan 408</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=409' target=_blank>scan 409</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=410' target=_blank>scan 410</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=411' target=_blank>scan 411</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=412' target=_blank>scan 412</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=413' target=_blank>scan 413</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=414' target=_blank>scan 414</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=415' target=_blank>scan 415</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=416' target=_blank>scan 416</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=417' target=_blank>scan 417</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=418' target=_blank>scan 418</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=419' target=_blank>scan 419</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=420' target=_blank>scan 420</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=421' target=_blank>scan 421</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=422' target=_blank>scan 422</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=423' target=_blank>scan 423</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=424' target=_blank>scan 424</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=425' target=_blank>scan 425</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=426' target=_blank>scan 426</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=427' target=_blank>scan 427</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=428' target=_blank>scan 428</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=429' target=_blank>scan 429</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=430' target=_blank>scan 430</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=431' target=_blank>scan 431</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=432' target=_blank>scan 432</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=434' target=_blank>scan 434</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=436' target=_blank>scan 436</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/claude-0/-home-user-digitalrivet-transcriptie/0f44bb87-ea1f-508e-9b05-fcfdcde8b4b9/scratchpad/pdfs/W07377_Ursinus_Catechesis_1585.pdf#page=438' target=_blank>scan 438</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
