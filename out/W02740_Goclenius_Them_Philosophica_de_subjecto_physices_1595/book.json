@@ -1,0 +1,849 @@
+{
+ "source": "W02740_Goclenius_Them_Philosophica_de_subjecto_physices_1595.pdf",
+ "pages": [
+  {
+   "n": 1,
+   "type": "empty",
+   "model": "claude-haiku-5-5",
+   "notes": "Cover of the volume, not a printed page. Brown speckled board with a spine strip at left. Yellow shelf label at upper left reads \"Phys. g. / 630 / e\" in manuscript and print; this is a library shelf mark and is left out. Faint scratches and marks on the board at centre, not text. No printed text, running head, page number or catchword is present."
+  },
+  {
+   "n": 2,
+   "type": "title",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": null,
+     "text": "Sammlung deutscher Drucke",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "1450 bis 1912",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Erworben mit Mitteln der",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Volkswagen-Stiftung",
+     "heading": 0
+    }
+   ],
+   "notes": "Embossed Volkswagen logo (blind stamp, no legible text) between the two title blocks; the rest of the sheet is blank. The scan shows the book's cover boards and a dark edge at the page border, which are not printed text and are left out."
+  },
+  {
+   "n": 3,
+   "type": "empty",
+   "model": "claude-haiku-5-5",
+   "notes": "No running text, page number, heading or note is printed. The left target carries only the printed chart legend \"BSB Bayerische StaatsBibliothek\" and \"© 2007 digitalfoto-trainer.de\", which are the digitiser's imaging targets and not part of the book, so they are left out. The right target is a colour checker with no lettering. This is a photographic calibration insert, not a book page."
+  },
+  {
+   "n": 4,
+   "type": "empty",
+   "model": "claude-haiku-5-5",
+   "notes": "Blank page: no printed text, no running head, no page number, no catchword, no signature. Visible features are only the paper, the dark covers, and a transparent plastic strip at the upper left, none of which is printed. The faint vertical line near the left edge is a paper fold or shadow, not text."
+  },
+  {
+   "n": 5,
+   "type": "title",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": null,
+     "text": "Them. Philosophica",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "DE SUBJECTO PHYSICES,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "cum aliis nonnullis:",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Quæ",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "DEI TER OPT. MAX. AUXILIO:",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "&",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "ROD. GOCLENII, PHI-",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "LOSOPHI CELEBERRIMI",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "præsidio,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "publicè pro virili defendenda suscipiet",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "VALENTINUS REUSSIUS",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Darmstatinus, Renanus.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Marpurgi, typis Pauli Egenolphi. 1595.",
+     "heading": 0
+    }
+   ],
+   "notes": "The emblem in the centre (an eagle or phoenix between two figures on a pedestal) is a woodcut and is not transcribed. Pencilled marks outside the border (\"Phys. g. 630 c\", \"Goclenii - Reuss\", \"265\") are library annotations and are left out."
+  },
+  {
+   "n": 6,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "CONSULTISS. REVER. AMPLISS. eruditione, & longo rerum usu praestantissimis viris:",
+     "heading": 1,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "Dn. <i>Joh. Pistorio</i>, illustris Principis ac DD. Georgii, Hassiae Landgravii &c. Cancellario prudentissimo; ἀναδόχῳ suo perpetuâ observantiâ colendo.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "Dn. M. <i>Joh. Angelo</i>, verbi divini apud Darmstatinos interpreti orthodoxo, & sup. Cattimelibocatus Superatt. vigilantis.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "Dn. <i>Christophoro Stockheim</i>/avúculo suo plurimùm honorâdo.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "Dn. <i>Justo Petro Friederich</i>/ Quaestori apud Bobenhusanos gravissimo, consobrino suo percaro.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "Χαίρειν.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "Ν̄δρες ἡύςυλοι, σύ θ' ὅτεώ γε κλιτόν Τοῦνομ' εἰςιλὼν ἐςατὴ ἔδωκεν, Τοῦ Διέςυς πλήσει μελέτας ἀεύεςαν Ἡχέτα τέτλιξ.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 8,
+     "text": "Λήιον δ' ἤδη φερέμεν κ' ἐγῷδα Ἐρχάτην μύεμηκα, λέγω. τελώςης Ἐρξάπν δὲν μέλιλ⊙ μέλιστὰν Τάνδτεκ γαίης.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 9,
+     "text": "Ἀλλ' ἂν ἔλθῃσι χρυσροῖο ὤρη Χείμα⊙, κ' οὔσης σκιερῆς ὀπωρης, Ἀλέγης τέτλιξ ἄπορεῖ ἐδωδῆς Τοῖσδε φάγοντι.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 10,
+     "text": "Ἐπομαι απουδὴ ὃ ἐγὼν μελίτης. Ἄνδρες, ὡς καρπῶν λαβέειν, ἀξεσοι, Ἱερῶτα μοισάων χρεὸς ιερέων Λίσετ' ὑμμας.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 11,
+     "text": "Valentinus Reusius, Resp.",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "notes": "Greek verses are printed with a large initial A and many abbreviations and accents; the Greek transcription is approximate where letters were hard to resolve. Ornament (fleuron) at foot not transcribed. Library stamp \"B S B München\" and shelf mark \"VW 90/96\" omitted. Printed names \"Stockheim\" and \"Friederich\" appear in a larger, heavier face and may be overprinted."
+  },
+  {
+   "n": 7,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "Theses Physicae DE SUBJECTO PHYSICES.",
+     "heading": 1,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "Thesis I.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "<i>Cum inter tot nobilissimas quaestiones, ab Aristotelis interpretibus ἄνω καὶ κάτω ventilatas, haec neutiquam, quae de physices subjecto agitata est, sit minima, non me [?]ἀνολογεῖν ἢ ἀεὶ[?]ςᾶτεῖν arbitror, si, quid hic statuendum videatur, brevibus expediam.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "<i>2. Non enim haec quaestio nullius momenti existimanda est, quippe quae ad naturam Physiologiae venandam, maximè sit necessaria.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "<i>3. Cùm enim scientia naturalis una sit, & unitas scientiae sumatur ex unitate subjecti, unum totius philosophiae naturalis subjectum adaequatum constituatur, oportet.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "<i>4. Quodnam hoc statuendum sit, vehementer inter Aristotelis interpretes olim disceptatum fuit.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "<i>5. Ego, priore loco dissentientibus philosophorum opinionibus expositis, deinde, quid veritati magis consentaneum sit, dispiciam.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 8,
+     "text": "<i>6. Primùm autem se nobis offert Thomas Aquinas, qui in principio primi lib. phys. asserit, ens mobile esse subjectum physices.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 9,
+     "text": "<i>7. Hanc suam sententiam, ut sartam tectam retineat, hoc inprimis argumento suadere conatur.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 10,
+     "text": "<i>8. Subjectum Physicae, aut est corpus mobile, aut est ens mobile.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 11,
+     "text": "<i>9. At corpus mobile nullo modo esse potest. Ergo.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 12,
+     "text": "<i>10. Assumtum duplici modo stabilire nititur.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 13,
+     "text": "<i>11. Primùm: quia subjectum adaequatum, omnes res in scientia propositas sub se complecti debet.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 14,
+     "text": "<i>12. Sub corpore autem, inquit, principia rerum naturalium, affectiones & accidentia, contineri non possunt.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 15,
+     "text": "<i>13. Secundùm: quia, si corpus mobile physices subjectum esset, probaretur subjectum in sua scientia, quod dicendum non est.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 16,
+     "text": "<i>14. Aristoteles autem 6. phys. probat, omne mobile esse dividuum</i>",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "catchword": "quod",
+   "notes": "The Greek words in thesis 1 are only partly legible at this scan resolution and are marked [?]. The \"Cum\" opening is a woodcut initial C followed by \"um\". Stains and a lens-shaped reflection at the right edge are not printed text."
+  },
+  {
+   "n": 8,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "merged_lines",
+     "text": "1 line(s) contain several printed lines merged together (longest 295 chars, median 86); line numbering is unreliable"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "quod est probare, omne mobile esse corpus.",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "15. Quoniam ergo physicus corpus mobile esse probat, idem physices subjectum constitui nullo modo potest.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "16. Verum ad priorem assumti confirmationem respondetur, eatenus de principiis & affectionibus in physicis tradi, quatenus videlicet corpori naturam habenti insunt: Hoc enim sublato, neque principia, neque affectiones remanebunt: utpote quae subjecti principia sunt, & in eo cum traduce haerent.",
+     "heading": 0,
+     "para": true,
+     "merged": true
+    },
+    {
+     "n": 4,
+     "text": "17. Ad posteriorem assumti probationem ex 6. phys. allatam, facilis etiam est responsio: quia, licet co loci ostendatur, omne mobile esse divisum, non tamen ob id probatur, dari corpus mobile.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "18. Cum ergo dividuum esse, & corpus mobile esse, non sit idem, facile cuivis mediocriter oculato apparet, hanc Thomae probationem non procedere, quippe non omne, quod est divisibile, statim etiam est corpus.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "19. Siquidem linea & superficies dividuae sunt, neque tamen ob id sunt corpora, ut recte infert Zab. lib. de natur. scient. constit. pag. 8.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "20. Unde etiam idem Thomas, videns argumenti sui vanitatem in principio 1. lib. de caelo, corpus mobile esse subjectum, asserit.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 8,
+     "text": "21. Quae eadem etiam Alberti Magni opinio fuit, tractat. I. c. 3.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 9,
+     "text": "22. Hanc suam opinionem, ut probabilem reddat, duabus potissimum utitur rationibus.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 10,
+     "text": "23. Una: Illud est subjectum scientiae, cujus partes & causae in scientia considerantur.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 11,
+     "text": "24. At corporis mobilis partes, nempe materia & forma, considerantur in physica. Ergo.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 12,
+     "text": "25. Altera subjectum debet esse tale, ut scientiam non excedat.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 13,
+     "text": "26. At ens mobile competit etiam Angelis. Ergo.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 14,
+     "text": "27. Quae sententia, si sano modo intelligatur, nostra non repugnabit.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 15,
+     "text": "28. Nam τὸ mobile Alberto significat idem, quod naturale, habens in se principium motus & quietis.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 16,
+     "text": "29. Tertia opinio est Scoti, qui physices subjectum substantiam naturalem statuit.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 17,
+     "text": "30. Hujus sententia autoritate Aristotelis in principio 3. de caelo nititur.",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "notes": "Several marginal references in the text are printed as bare marks (e.g. \"I.c.3\", \"pag.8\") and are kept as printed. Words such as \"Thomas\", \"Zab.\" and Greek \"τὸ\" are read from the scan with some uncertainty; the Greek in para. 28 is approximate. Page is largely legible; a small stain at the left edge and a blurred line at the foot are not transcribed."
+  },
+  {
+   "n": 9,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "nitítur, ubi physicum circa substantiam versari, ait.",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "31. Aristoteles autem loco dicto substantias corporeas intelligit: quod inde patet, quòd statim eas recensens, sola corpora nominet.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "32. Ultima, eaq; verißima est sententia recentiorum, in quam omnes hac ætate videntur conspirasse: subjectum physices esse corpus universè sumtum, quod & cœlestia, & inferiora omnia complectatur, quatenus naturale, hoc est, quatenus habet in seipso naturam, qua motus principium esse definitur.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "33. Subjectum autem duabus constabit partibus, teste Zab. 1. de natur. Log. & lib. de præcognit. re consideratâ, quæ hic est corpus: & modo considerandi, quâ naturale.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "34. Hanc sententiam haud dubiè veram esse censemus, cùm & efficaci ratione, & doctiß. physicorum testimoniis comprobetur.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "35. Ratio hæc est: Illud est statuendum subjectum, cui omnes conditiones, quas Aristoteles in post. analyt. in cujusq; scientiæ subjecto requirit, competunt.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "36. At hæ competunt omnes corpori naturam habenti.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 8,
+     "text": "37. Assumtum sic ostenditur.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 9,
+     "text": "38. Conditiones hæ sunt: 1. Subjecti esto anticipata notio, id est, subjectum debet ita esse præcognitum, ut intelligamus, & τί ἔστι τὸ σημαινόμενον, & ὅτι ἔστι.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 10,
+     "text": "39. II. Subjectum omnibus, quæ in scientia considerantur, substratum esto, ut ipsum nulli insit.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 11,
+     "text": "40. III. Subjectum habeto principia, & accidentia demonstranda.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 12,
+     "text": "41. IV. Subjectum καθολικὸν, id est, toti scientiæ adæquatum esto, ut neq; eam excedat, neq; ab ea excedatur.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 13,
+     "text": "42. Jam verò corpus naturam habens, primùm præcognoscitur, tùm quid nomen significet, tùm quod sit.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 14,
+     "text": "43. Secundò: Nulli inest, cùm ipsum per se subsistat, sed ipsum omnibus in physicis consideratis substratum est.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 15,
+     "text": "44. Tertiò: Habet principia & accidentia, quæ de ipso demonstrantur.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 16,
+     "text": "45. Quartò: Est toti physicæ adæquatum: nulla enim huius scientiæ pars est, in qua non agatur de principio, aut de accidente aliquo corporis naturæ",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "notes": "Show-through from the reverse page is visible at right and was left out. The last line of paragraph 45 (\"naturæ\") is set at the right, running on to the next page. Some words in paragraphs 35 and 38 are uncertain in the Greek and in the italic passages."
+  },
+  {
+   "n": 10,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: 6. Adula-"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "naturalis, quâ tale, id est, quâ corruptioni obnoxium est: & nulla alia est scientia, in qua de jam dictis etiam tradatur.",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "46. Ergò corpus naturale, quâ tale, est hujus scientiæ subjectum.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "47. Testimonia philosophi colligantur ex 2. phys. 1. & 3. de cælo. 6. Metaphys.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "48. Huc redeunt sententiæ Thomæ, Alberti, & Scoti, si candidè explicentur.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "49. Restant jam aliorum opiniones, de quibus etiam breviter dicemus.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "50. Hi autem in duas sectas distincti esse videntur: aliqui enim communius aliquod corpore naturali: aliqui etiam eodem angustius subjectum introduxerunt. Utrumque vitiosum.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "51. Qui communius finxerunt, quamlibet essentiam (ut incorpoream etiam, Deum & angelos) physices subjectum constituerunt.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 8,
+     "text": "52. Communius hoc est, quia substantia materia expertes, seu formæ separatæ pertinent ad Musieum Metaphysicum.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 9,
+     "text": "53. Qui verò angustius, vel corpus caducum, (cælum excludentes) vel corpus naturale mistum (& cælum, & elementa excludentes) naturalis scientiæ subjectum fecerunt.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 10,
+     "text": "54. Angustius hoc est, quia non tantum corpori caduco, sed etiam cælo & elementis naturæ notio ac definitio convenit.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 11,
+     "text": "55. Atque hæc de præsenti [illegible, ~8 letters] dicta sufficiant.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 12,
+     "text": "Ethicæ.",
+     "heading": 1,
+     "para": true
+    },
+    {
+     "n": 13,
+     "text": "1. Inter virtutes [illegible, ~6 letters], tanquam lumen quoddam emicat Comitas seu Affabilitas.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 14,
+     "text": "2. Ea enim facit, ut dicta & facta nostra aliquando, quasi quodam sale humanitatis, aspergantur & condiantur.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 15,
+     "text": "3. De hac igitur breviter disseremus.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 16,
+     "text": "4. Est autem affabilitas virtus, inter assentationem & contentionem posita, quæ in jucunditatibus molestiùs cernitur, quæ ex colloquiis hominum oriuntur.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 17,
+     "text": "5. Extremæ ejus sunt adulatio, quæ ex incessu, & morositas, seu contentio, quæ in defectu peccat.",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "catchword": "6. Adula-",
+   "notes": "Greek words in paragraphs 1 and 55 are partly illegible in the scan; the Greek in 1 is rendered as illegible. Paragraph 55 contains a Greek word which could not be read. Paragraph 52 \"Musieum\" is likely a printing error for Museum, left as printed. Paragraph 4 \"molestiùs cernitur\" contains a damaged word after \"molestiùs\"; the word is copied as it appears."
+  },
+  {
+   "n": 11,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "6. <i>Adulatio est vitiosus habitus loquendi placentia. Vel, est vitium, quo tanquam novo aucupio hominum gnathonici, sui ventis potissimum causa utuntur.</i>",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "7. <i>Blandus & placendi studiosus Graecis dicitur ἀρεσκος, qui omnibus, quae dicuntur & fiunt, applaudit, omniaq; laudat.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "8. <i>Morositas est perversus habitus animi, cum quispiam omnibus contradicit, hoc unum agens, ut aliis sua difficultate molestiam pariat.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "9. <i>Morosus Graecis dicitur δυσχερὴς, contentiosus & difficilis.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "Corollaria.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "1. <i>Optativo, quem vocant, modo Latinos carere dicimus.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "2. <i>Definitio verbi, qua definitur vox significans agere aliquid, aut pati, non est bona.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 8,
+     "text": "3. <i>Divisionem verbi in personale, & impersonale, tanquam supervacuam rejicimus.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 9,
+     "text": "4. <i>Evocatio Grammaticorum nulla est.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 10,
+     "text": "5. <i>Inepta est pronunciatio haec, aliquando, deinde, perinde, accentu videlicet in antepenultimam rejecto.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 11,
+     "text": "6. <i>Errant, qui Trinitatis mysterium in agrum physicum serunt.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 12,
+     "text": "7. <i>Mare meteoron esse negamus.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 13,
+     "text": "8. <i>Anima in intelligendo non utitur corporeo instrumento.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 14,
+     "text": "9. <i>Intellectus & singularia, & universalia percipit.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 15,
+     "text": "10. <i>Male Aristoteles juvenes a philosophia morali arcet.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 16,
+     "text": "Τῷ Θεῷ δόξα.",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "notes": "Greek words in items 7 and 9 and the closing line are transcribed as best read from the scan; the Greek in item 7 and 9 is somewhat blurred and may contain small errors. The printer's ornament at the foot is not transcribed. Faint show-through of text from the reverse side is ignored."
+  },
+  {
+   "n": 12,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "merged_lines",
+     "text": "1 line(s) contain several printed lines merged together (longest 647 chars, median 48); line numbering is unreliable"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "ORNATO ET DOCTO JUVENI Valentino Reussio, P.P.P.",
+     "heading": 1,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "VALENTINUS REUSSIUS",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "Ter μεταγραμματίζεται.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "En utilis re, sanus usu.Usus in re sinus valet.Laetus in re, nisus usu.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "Quando Valentini vis nomina noscere Reussi,Nominis invertas vera elementa boni.Invenies sanum, certa utilitate probatum,Invenies usu, nomine reg; bonum.Usus inest rebus sinus, usus in arte probatur:Reusius hoc praestat, Reusius hoc q; valet.Nang; Valentini dum cognita nomina jactat,Omnibus in rebus recta valere probat.Nititur hoc usu, certa quoq; nititur arte,Subjectum Physices, quaerere quando juvat.Reusius hoc, vere mihi credite, nititur usu,Utilis hinc dici, nomine reg; solet.Est etiam verus quoniam verissima profertIn Thesibus doctis: Rumpere livor edax.Rumpere livor edax, verus verissima profert:Nil potis es contra: perside Mome vale.",
+     "heading": 0,
+     "para": true,
+     "merged": true
+    },
+    {
+     "n": 6,
+     "text": "Conradus Bachmannus, Milsungensis H.",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "marginalia": [
+    {
+     "side": "right",
+     "at": "Quando Valentini vis",
+     "line_from": 5,
+     "line_to": 5,
+     "text": "Reusius, sis verus."
+    }
+   ],
+   "notes": "The Greek line is printed in Greek letters; the side note at the right reads \"Reusius, sis verus.\" The printed ornament below the poem is not transcribed. The BSB library stamp is omitted."
+  },
+  {
+   "n": 13,
+   "type": "empty",
+   "model": "claude-haiku-5-5",
+   "notes": "The page is blank: no printed text, headings, running head, page number, catchword or signature can be read. The dark surround, the brown board edges and the plastic clip are not part of the printed page and are left out. Paper speckling is not text."
+  },
+  {
+   "n": 14,
+   "type": "empty",
+   "model": "claude-haiku-5-5",
+   "notes": "The scan shows the back board or cover of the volume, not a printed page. It is blank apart from stains, speckling, scratches and the binding seam. No printed text is present, so nothing has been transcribed."
+  }
+ ]
+}
