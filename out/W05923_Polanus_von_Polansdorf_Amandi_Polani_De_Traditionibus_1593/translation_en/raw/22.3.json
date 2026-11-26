@@ -1,0 +1,47 @@
+{
+  "units": [
+    "22.3",
+    "22.4",
+    "22.6",
+    "22.7",
+    "22.8",
+    "22.11",
+    "22.28",
+    "23.6",
+    "23.7",
+    "23.12",
+    "23.13",
+    "23.16",
+    "23.23",
+    "23.27",
+    "24.13",
+    "24.14",
+    "24.21",
+    "24.27",
+    "25.1",
+    "25.4",
+    "25.23"
+  ],
+  "model": "claude-haiku-5-5",
+  "prompt_sha256": "e1183b3d34805c27",
+  "stop_reason": "end_turn",
+  "batch": true,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 1782,
+    "inference_geo": "global",
+    "input_tokens": 3526,
+    "output_tokens": 6174,
+    "output_tokens_details": {
+      "thinking_tokens": 3646
+    },
+    "server_tool_use": null,
+    "service_tier": "batch",
+    "speed": "standard"
+  },
+  "cost_usd": 0.00173
+}
