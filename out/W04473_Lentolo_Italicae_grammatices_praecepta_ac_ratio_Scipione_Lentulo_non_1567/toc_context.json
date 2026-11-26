@@ -1,0 +1,974 @@
+{
+ "work": "W04473_Lentolo_Italicae_grammatices_praecepta_ac_ratio_Scipione_Lentulo_non_1567",
+ "made": "2026-11-26T09:50:02",
+ "model": "claude-haiku-5-5",
+ "prompt": "655260ce46aa8978",
+ "candidates": 241,
+ "cost_usd": 0.0184,
+ "dropped": [],
+ "toc": [
+  {
+   "scan": 5,
+   "line": 1,
+   "lines": [
+    [
+     5,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Illustrissimi atque piiss. principis Friderici electoris, &c. Palatini filio D. Christophoro Comiti Palatino Rheni, & Du"
+  },
+  {
+   "scan": 6,
+   "line": 0,
+   "lines": [
+    [
+     6,
+     0
+    ]
+   ],
+   "level": 1,
+   "title": "Epistola"
+  },
+  {
+   "scan": 9,
+   "line": 1,
+   "lines": [
+    [
+     9,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Candido lectori"
+  },
+  {
+   "scan": 14,
+   "line": 2,
+   "lines": [
+    [
+     14,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "De literis"
+  },
+  {
+   "scan": 15,
+   "line": 2,
+   "lines": [
+    [
+     15,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "De vsu literarum"
+  },
+  {
+   "scan": 32,
+   "line": 1,
+   "lines": [
+    [
+     32,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Attrauerso"
+  },
+  {
+   "scan": 35,
+   "line": 2,
+   "lines": [
+    [
+     35,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "De articulis"
+  },
+  {
+   "scan": 37,
+   "line": 17,
+   "lines": [
+    [
+     37,
+     17
+    ]
+   ],
+   "level": 2,
+   "title": "De articulorum vsu"
+  },
+  {
+   "scan": 42,
+   "line": 4,
+   "lines": [
+    [
+     42,
+     4
+    ]
+   ],
+   "level": 1,
+   "title": "De nomine"
+  },
+  {
+   "scan": 44,
+   "line": 4,
+   "lines": [
+    [
+     44,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "De nominum finibus"
+  },
+  {
+   "scan": 52,
+   "line": 5,
+   "lines": [
+    [
+     52,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "De nominum declinatione"
+  },
+  {
+   "scan": 53,
+   "line": 15,
+   "lines": [
+    [
+     53,
+     15
+    ]
+   ],
+   "level": 3,
+   "title": "I. Paradig. ex Art. cum Præp."
+  },
+  {
+   "scan": 54,
+   "line": 8,
+   "lines": [
+    [
+     54,
+     8
+    ]
+   ],
+   "level": 3,
+   "title": "II. Paradig. ex Præp. sine Articulis."
+  },
+  {
+   "scan": 55,
+   "line": 5,
+   "lines": [
+    [
+     55,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "III. Paradig. ex articulo, I L."
+  },
+  {
+   "scan": 56,
+   "line": 1,
+   "lines": [
+    [
+     56,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "IIII. Paradig. ex nomine muliebris gen. quod recipit articulum, L A, priuatum sua vocali litera."
+  },
+  {
+   "scan": 56,
+   "line": 14,
+   "lines": [
+    [
+     56,
+     14
+    ]
+   ],
+   "level": 3,
+   "title": "V. Paradig. ex nomine eiusdem quidem gen. sed quod recipit articulum, L A, integrum."
+  },
+  {
+   "scan": 58,
+   "line": 8,
+   "lines": [
+    [
+     58,
+     8
+    ]
+   ],
+   "level": 2,
+   "title": "De nominib. comparativis et superlativis"
+  },
+  {
+   "scan": 59,
+   "line": 3,
+   "lines": [
+    [
+     59,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "De nominib. numeralibus"
+  },
+  {
+   "scan": 63,
+   "line": 3,
+   "lines": [
+    [
+     63,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "De nominib. ordinem significantibus"
+  },
+  {
+   "scan": 64,
+   "line": 2,
+   "lines": [
+    [
+     64,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "De nomine relativo"
+  },
+  {
+   "scan": 64,
+   "line": 4,
+   "lines": [
+    [
+     64,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Nom. relatiui declinatio"
+  },
+  {
+   "scan": 70,
+   "line": 3,
+   "lines": [
+    [
+     70,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "De nominib. quae Partitiua, Infinita, Distributiua, & Negantia appellantur"
+  },
+  {
+   "scan": 72,
+   "line": 3,
+   "lines": [
+    [
+     72,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "De pronomine"
+  },
+  {
+   "scan": 74,
+   "line": 7,
+   "lines": [
+    [
+     74,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "De pronominum declinatione"
+  },
+  {
+   "scan": 74,
+   "line": 8,
+   "lines": [
+    [
+     74,
+     8
+    ]
+   ],
+   "level": 3,
+   "title": "I. Paradig."
+  },
+  {
+   "scan": 74,
+   "line": 19,
+   "lines": [
+    [
+     74,
+     19
+    ]
+   ],
+   "level": 3,
+   "title": "II. Paradig."
+  },
+  {
+   "scan": 75,
+   "line": 8,
+   "lines": [
+    [
+     75,
+     8
+    ]
+   ],
+   "level": 3,
+   "title": "III. Paradig."
+  },
+  {
+   "scan": 75,
+   "line": 13,
+   "lines": [
+    [
+     75,
+     13
+    ]
+   ],
+   "level": 3,
+   "title": "IIII. Paradig."
+  },
+  {
+   "scan": 75,
+   "line": 24,
+   "lines": [
+    [
+     75,
+     24
+    ]
+   ],
+   "level": 3,
+   "title": "V. Paradig."
+  },
+  {
+   "scan": 76,
+   "line": 9,
+   "lines": [
+    [
+     76,
+     9
+    ]
+   ],
+   "level": 3,
+   "title": "VI. Paradig."
+  },
+  {
+   "scan": 76,
+   "line": 20,
+   "lines": [
+    [
+     76,
+     20
+    ]
+   ],
+   "level": 3,
+   "title": "VII. Paradig."
+  },
+  {
+   "scan": 77,
+   "line": 11,
+   "lines": [
+    [
+     77,
+     11
+    ]
+   ],
+   "level": 2,
+   "title": "De pronominum vsu"
+  },
+  {
+   "scan": 87,
+   "line": 1,
+   "lines": [
+    [
+     87,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "De verbo"
+  },
+  {
+   "scan": 87,
+   "line": 7,
+   "lines": [
+    [
+     87,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "Declinatio verbi activi primæ coniugationis"
+  },
+  {
+   "scan": 94,
+   "line": 1,
+   "lines": [
+    [
+     94,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Declinatio verbi substantiui"
+  },
+  {
+   "scan": 99,
+   "line": 7,
+   "lines": [
+    [
+     99,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "Declinatio verbi passiui primæ coniugationis"
+  },
+  {
+   "scan": 109,
+   "line": 1,
+   "lines": [
+    [
+     109,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Declinatio verbi actiui secundæ coniugationis"
+  },
+  {
+   "scan": 115,
+   "line": 11,
+   "lines": [
+    [
+     115,
+     11
+    ],
+    [
+     115,
+     12
+    ]
+   ],
+   "level": 2,
+   "title": "Declinatio verbi acti III. coniug."
+  },
+  {
+   "scan": 120,
+   "line": 13,
+   "lines": [
+    [
+     120,
+     13
+    ],
+    [
+     120,
+     14
+    ]
+   ],
+   "level": 2,
+   "title": "Declinat. verb. act. quartæ coniug."
+  },
+  {
+   "scan": 125,
+   "line": 8,
+   "lines": [
+    [
+     125,
+     8
+    ]
+   ],
+   "level": 2,
+   "title": "Declin. verb. Ho, hoc est Habeo"
+  },
+  {
+   "scan": 131,
+   "line": 10,
+   "lines": [
+    [
+     131,
+     10
+    ]
+   ],
+   "level": 2,
+   "title": "Declin. verb. Vo, vel Vado, hoc est, Eo, vel Abeo"
+  },
+  {
+   "scan": 137,
+   "line": 3,
+   "lines": [
+    [
+     137,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "De praeteritorum formatione"
+  },
+  {
+   "scan": 141,
+   "line": 2,
+   "lines": [
+    [
+     141,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "De particulis, quae verbis affigi solent"
+  },
+  {
+   "scan": 141,
+   "line": 4,
+   "lines": [
+    [
+     141,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "De vsu harum particularum"
+  },
+  {
+   "scan": 158,
+   "line": 0,
+   "lines": [
+    [
+     158,
+     0
+    ]
+   ],
+   "level": 2,
+   "title": "De verbis impersonalibus"
+  },
+  {
+   "scan": 158,
+   "line": 4,
+   "lines": [
+    [
+     158,
+     4
+    ]
+   ],
+   "level": 1,
+   "title": "De participiis"
+  },
+  {
+   "scan": 162,
+   "line": 0,
+   "lines": [
+    [
+     162,
+     0
+    ]
+   ],
+   "level": 1,
+   "title": "De gerundiis"
+  },
+  {
+   "scan": 162,
+   "line": 2,
+   "lines": [
+    [
+     162,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "De adverbiis"
+  },
+  {
+   "scan": 163,
+   "line": 2,
+   "lines": [
+    [
+     163,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Adverbia temporis"
+  },
+  {
+   "scan": 164,
+   "line": 2,
+   "lines": [
+    [
+     164,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Adverb. qualitatis"
+  },
+  {
+   "scan": 164,
+   "line": 4,
+   "lines": [
+    [
+     164,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Quantitatis"
+  },
+  {
+   "scan": 164,
+   "line": 6,
+   "lines": [
+    [
+     164,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "Negandi"
+  },
+  {
+   "scan": 165,
+   "line": 2,
+   "lines": [
+    [
+     165,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Affirmandi"
+  },
+  {
+   "scan": 165,
+   "line": 4,
+   "lines": [
+    [
+     165,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Augendi"
+  },
+  {
+   "scan": 165,
+   "line": 6,
+   "lines": [
+    [
+     165,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "Diminuendi"
+  },
+  {
+   "scan": 165,
+   "line": 8,
+   "lines": [
+    [
+     165,
+     8
+    ]
+   ],
+   "level": 2,
+   "title": "Corrigendi"
+  },
+  {
+   "scan": 166,
+   "line": 1,
+   "lines": [
+    [
+     166,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Iurandi"
+  },
+  {
+   "scan": 166,
+   "line": 3,
+   "lines": [
+    [
+     166,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Optandi"
+  },
+  {
+   "scan": 166,
+   "line": 5,
+   "lines": [
+    [
+     166,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Prohibendi"
+  },
+  {
+   "scan": 166,
+   "line": 7,
+   "lines": [
+    [
+     166,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "Hortandi"
+  },
+  {
+   "scan": 166,
+   "line": 9,
+   "lines": [
+    [
+     166,
+     9
+    ]
+   ],
+   "level": 2,
+   "title": "Congregandi"
+  },
+  {
+   "scan": 166,
+   "line": 11,
+   "lines": [
+    [
+     166,
+     11
+    ]
+   ],
+   "level": 2,
+   "title": "Comparandi"
+  },
+  {
+   "scan": 167,
+   "line": 2,
+   "lines": [
+    [
+     167,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Excipiendi"
+  },
+  {
+   "scan": 167,
+   "line": 4,
+   "lines": [
+    [
+     167,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Similitudinis"
+  },
+  {
+   "scan": 167,
+   "line": 6,
+   "lines": [
+    [
+     167,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "Dubitandi"
+  },
+  {
+   "scan": 167,
+   "line": 8,
+   "lines": [
+    [
+     167,
+     8
+    ]
+   ],
+   "level": 2,
+   "title": "Ostendendi"
+  },
+  {
+   "scan": 167,
+   "line": 10,
+   "lines": [
+    [
+     167,
+     10
+    ]
+   ],
+   "level": 2,
+   "title": "Eligendi"
+  },
+  {
+   "scan": 168,
+   "line": 1,
+   "lines": [
+    [
+     168,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Gestus corporis significandi"
+  },
+  {
+   "scan": 168,
+   "line": 3,
+   "lines": [
+    [
+     168,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Vocandi"
+  },
+  {
+   "scan": 168,
+   "line": 5,
+   "lines": [
+    [
+     168,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Ordinis"
+  },
+  {
+   "scan": 168,
+   "line": 7,
+   "lines": [
+    [
+     168,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "Distinguendi"
+  },
+  {
+   "scan": 168,
+   "line": 9,
+   "lines": [
+    [
+     168,
+     9
+    ]
+   ],
+   "level": 2,
+   "title": "Bene, vel male precandi"
+  },
+  {
+   "scan": 168,
+   "line": 11,
+   "lines": [
+    [
+     168,
+     11
+    ]
+   ],
+   "level": 2,
+   "title": "Interrogandi"
+  },
+  {
+   "scan": 169,
+   "line": 0,
+   "lines": [
+    [
+     169,
+     0
+    ]
+   ],
+   "level": 2,
+   "title": "Adverbia loci"
+  },
+  {
+   "scan": 170,
+   "line": 2,
+   "lines": [
+    [
+     170,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "De praepositione"
+  },
+  {
+   "scan": 172,
+   "line": 2,
+   "lines": [
+    [
+     172,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "De coniunctione"
+  },
+  {
+   "scan": 173,
+   "line": 6,
+   "lines": [
+    [
+     173,
+     6
+    ]
+   ],
+   "level": 1,
+   "title": "De interiectione"
+  }
+ ],
+ "book": "Single work: Scipione Lentulo's Italian grammar in Latin (Italicae grammaticae praecepta ac ratio, 1567), built as a dedication, a letter, a preface to the reader, then chapters by part of speech with declension and conjugation paradigms; no printed table of contents.",
+ "series": [
+  {
+   "label": "De",
+   "first": "De literis",
+   "last": "De interiectione",
+   "count": 12,
+   "level": 1,
+   "found": 34
+  },
+  {
+   "label": "Declinatio verbi activi",
+   "first": "primae coniugationis",
+   "last": "quartae coniugationis",
+   "count": 4,
+   "level": 2,
+   "found": 49
+  },
+  {
+   "label": "Paradig.",
+   "first": "I",
+   "last": "V",
+   "count": 12,
+   "level": 3,
+   "found": 13
+  }
+ ],
+ "taste": 50,
+ "doubt": "",
+ "input": 37778,
+ "output": 22273
+}
