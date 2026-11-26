@@ -1,0 +1,979 @@
+{
+ "work": "W01851_Daneau_Symboli_apostolici_explicatio_quatuor_thesibus_earumque_expo_1587",
+ "made": "2026-11-26T10:14:57",
+ "model": "claude-haiku-5-5",
+ "prompt": "655260ce46aa8978",
+ "candidates": 161,
+ "cost_usd": 0.01332,
+ "dropped": [
+  "title 'Symboli apostolici explicatio, quatuor thesibus earumque expositione partim ex Verbo Dei, partim ex Patribus Orthodoxis & contrariarum obiectionum refutatione breuiter comprehensa' is not in 'SYMBOLI APO- STOLICI EXPLI- CATIO QVATVOR PER LAMBERTVM DANAEVM. GENEVÆ, APVD EVSTATHIVM VIGNON. M. D. LXXXVII.': to the scan",
+  "title 'Symboli apostolici explicatio, quatuor thesibus earumque expositione (second title page)' is not in 'SYMBOLA PO- [?] CATHOLICO [?] Q V A T V O R GENEVÆ, M. D. LXXVI. [?]': to the scan",
+  "title 'Secunda Thesis, prima pars explicatur: Nihil esse in ipso Symbolo sibi ipsi repugnans' is not in 'OBIECTIONES IN SYMBOLVM APOSTOLICVM EX IPSOMET SYMBOLO SVMPTAE': to the scan",
+  "no scans for 3 wanted"
+ ],
+ "toc": [
+  {
+   "scan": 4,
+   "line": 1,
+   "lines": [
+    [
+     4,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Lambertus Danaeus omnibus Christianum nomen profitentibus pax, & gratia à Deo Patre, & Domino nostro Iesu Christo"
+  },
+  {
+   "scan": 8,
+   "line": 0,
+   "lines": [
+    [
+     8,
+     0
+    ]
+   ],
+   "level": 1,
+   "title": "Prolegomena in Symbolum Apostolorum"
+  },
+  {
+   "scan": 8,
+   "line": 1,
+   "lines": [
+    [
+     8,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Symbolum quid sit"
+  },
+  {
+   "scan": 8,
+   "line": 4,
+   "lines": [
+    [
+     8,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Symbolum hoc cur Apostolicum dictum"
+  },
+  {
+   "scan": 9,
+   "line": 2,
+   "lines": [
+    [
+     9,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Symbolum aliquod scribi fuisse vtile"
+  },
+  {
+   "scan": 9,
+   "line": 4,
+   "lines": [
+    [
+     9,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Symbolum Apostolorum"
+  },
+  {
+   "scan": 10,
+   "line": 1,
+   "lines": [
+    [
+     10,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Theses in Symbolum Apostolorum"
+  },
+  {
+   "scan": 10,
+   "line": 6,
+   "lines": [
+    [
+     10,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "Prima Thesis explicatio"
+  },
+  {
+   "scan": 10,
+   "line": 8,
+   "lines": [
+    [
+     10,
+     8
+    ]
+   ],
+   "level": 3,
+   "title": "Credo in Deum"
+  },
+  {
+   "scan": 11,
+   "line": 1,
+   "lines": [
+    [
+     11,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "Patrem Omnipotentem"
+  },
+  {
+   "scan": 11,
+   "line": 6,
+   "lines": [
+    [
+     11,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "Creatorem cœli et terræ"
+  },
+  {
+   "scan": 11,
+   "line": 11,
+   "lines": [
+    [
+     11,
+     11
+    ]
+   ],
+   "level": 3,
+   "title": "Et in Iesum Christum"
+  },
+  {
+   "scan": 12,
+   "line": 2,
+   "lines": [
+    [
+     12,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Dominum nostrum"
+  },
+  {
+   "scan": 12,
+   "line": 7,
+   "lines": [
+    [
+     12,
+     7
+    ]
+   ],
+   "level": 3,
+   "title": "Qui conceptus est ex Spiritu Sancto"
+  },
+  {
+   "scan": 13,
+   "line": 2,
+   "lines": [
+    [
+     13,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Natus ex Maria virgine"
+  },
+  {
+   "scan": 13,
+   "line": 6,
+   "lines": [
+    [
+     13,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "Passus sub Pontio Pilato. Crucifixus, Mortuus"
+  },
+  {
+   "scan": 13,
+   "line": 14,
+   "lines": [
+    [
+     13,
+     14
+    ]
+   ],
+   "level": 3,
+   "title": "Descendit ad Inferos"
+  },
+  {
+   "scan": 14,
+   "line": 6,
+   "lines": [
+    [
+     14,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "Tertia die resurrexit"
+  },
+  {
+   "scan": 14,
+   "line": 11,
+   "lines": [
+    [
+     14,
+     11
+    ]
+   ],
+   "level": 3,
+   "title": "Ascendit in cœlum"
+  },
+  {
+   "scan": 15,
+   "line": 3,
+   "lines": [
+    [
+     15,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Sedet ad dextram Dei"
+  },
+  {
+   "scan": 15,
+   "line": 8,
+   "lines": [
+    [
+     15,
+     8
+    ]
+   ],
+   "level": 3,
+   "title": "Venturus est inde iudicare vivos & mortuos"
+  },
+  {
+   "scan": 15,
+   "line": 13,
+   "lines": [
+    [
+     15,
+     13
+    ]
+   ],
+   "level": 3,
+   "title": "Credo in Sanctum Spiritum"
+  },
+  {
+   "scan": 16,
+   "line": 9,
+   "lines": [
+    [
+     16,
+     9
+    ]
+   ],
+   "level": 3,
+   "title": "Remissionem peccatorum"
+  },
+  {
+   "scan": 17,
+   "line": 2,
+   "lines": [
+    [
+     17,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Carnis resurrectionem"
+  },
+  {
+   "scan": 17,
+   "line": 8,
+   "lines": [
+    [
+     17,
+     8
+    ]
+   ],
+   "level": 3,
+   "title": "Vitam æternam"
+  },
+  {
+   "scan": 18,
+   "line": 1,
+   "lines": [
+    [
+     18,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Expositio symboli apostolici ex patrum orthodoxorum scriptis ac præsertim ex Augustino"
+  },
+  {
+   "scan": 19,
+   "line": 6,
+   "lines": [
+    [
+     19,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "Exhortatio ad hanc Symboli doctrinam, adeoque ad ipsum Symbolum ediscendum, eiusque commendatio"
+  },
+  {
+   "scan": 21,
+   "line": 2,
+   "lines": [
+    [
+     21,
+     2
+    ],
+    [
+     21,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Articuli. Credo in Deum, Patrem, Omnipotentem, Creatorem cœli & terræ, explicatio"
+  },
+  {
+   "scan": 27,
+   "line": 2,
+   "lines": [
+    [
+     27,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Omnipotentem"
+  },
+  {
+   "scan": 29,
+   "line": 2,
+   "lines": [
+    [
+     29,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Creatorem cœli & terræ"
+  },
+  {
+   "scan": 31,
+   "line": 2,
+   "lines": [
+    [
+     31,
+     2
+    ],
+    [
+     31,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Articuli. Et in Iesum Christum, Filium eius unicum, Dominum nostrum, explicatio"
+  },
+  {
+   "scan": 38,
+   "line": 3,
+   "lines": [
+    [
+     38,
+     3
+    ],
+    [
+     38,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Articuli. Qui conceptus est ex Spiritu Sancto, Natus ex Maria virgine, explicatio"
+  },
+  {
+   "scan": 38,
+   "line": 5,
+   "lines": [
+    [
+     38,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Qui conceptus est ex Spiritu Sancto"
+  },
+  {
+   "scan": 47,
+   "line": 2,
+   "lines": [
+    [
+     47,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Natus ex Maria Virgine"
+  },
+  {
+   "scan": 50,
+   "line": 2,
+   "lines": [
+    [
+     50,
+     2
+    ],
+    [
+     50,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Articuli. Passus sub Pontio Pilato, crucifixus, mortuus, & sepultus, explicatio"
+  },
+  {
+   "scan": 54,
+   "line": 2,
+   "lines": [
+    [
+     54,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Crucifixus"
+  },
+  {
+   "scan": 60,
+   "line": 1,
+   "lines": [
+    [
+     60,
+     1
+    ],
+    [
+     60,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Articuli. Descendit ad Inferos, explicatio"
+  },
+  {
+   "scan": 66,
+   "line": 2,
+   "lines": [
+    [
+     66,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Articuli. Tertia die resurrexit à mortuis, Ascendit in cœlum, Sedet ad dexteram Dei Patris Omnipotentis, explicatio"
+  },
+  {
+   "scan": 72,
+   "line": 2,
+   "lines": [
+    [
+     72,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Ascendit in cœlum"
+  },
+  {
+   "scan": 77,
+   "line": 3,
+   "lines": [
+    [
+     77,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Sedet ad dexteram Dei"
+  },
+  {
+   "scan": 83,
+   "line": 1,
+   "lines": [
+    [
+     83,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Articuli. Inde venturus est iudicare vivos & mortuos, explicatio"
+  },
+  {
+   "scan": 89,
+   "line": 2,
+   "lines": [
+    [
+     89,
+     2
+    ],
+    [
+     89,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Articuli. Credo in Spiritum sanctum, explicatio"
+  },
+  {
+   "scan": 99,
+   "line": 2,
+   "lines": [
+    [
+     99,
+     2
+    ],
+    [
+     99,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Articuli. Credo sanctam Ecclesiam Catholicam, Communionem sanctorum, explicatio"
+  },
+  {
+   "scan": 106,
+   "line": 3,
+   "lines": [
+    [
+     106,
+     3
+    ],
+    [
+     106,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Articuli. Remissionem peccatorum, carnis resurrectionem, & vitam æternam, explicatio"
+  },
+  {
+   "scan": 123,
+   "line": 2,
+   "lines": [
+    [
+     123,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Vitam æternam"
+  },
+  {
+   "scan": 139,
+   "line": 3,
+   "lines": [
+    [
+     139,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Obiectiones in secundam partem Thesis secundæ, nempe, Nihil esse in toto verbo Dei huic Symbolo repugnans"
+  },
+  {
+   "scan": 139,
+   "line": 4,
+   "lines": [
+    [
+     139,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Credo"
+  },
+  {
+   "scan": 139,
+   "line": 5,
+   "lines": [
+    [
+     139,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Obiicitur ex ipso Dei verbo"
+  },
+  {
+   "scan": 140,
+   "line": 5,
+   "lines": [
+    [
+     140,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Patrem"
+  },
+  {
+   "scan": 142,
+   "line": 4,
+   "lines": [
+    [
+     142,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Omnipotentem"
+  },
+  {
+   "scan": 143,
+   "line": 2,
+   "lines": [
+    [
+     143,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Creatorem"
+  },
+  {
+   "scan": 144,
+   "line": 8,
+   "lines": [
+    [
+     144,
+     8
+    ]
+   ],
+   "level": 3,
+   "title": "In I. Christum"
+  },
+  {
+   "scan": 145,
+   "line": 3,
+   "lines": [
+    [
+     145,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Filium"
+  },
+  {
+   "scan": 145,
+   "line": 10,
+   "lines": [
+    [
+     145,
+     10
+    ]
+   ],
+   "level": 3,
+   "title": "Dominum"
+  },
+  {
+   "scan": 146,
+   "line": 8,
+   "lines": [
+    [
+     146,
+     8
+    ]
+   ],
+   "level": 3,
+   "title": "Qui conceptus ex Spiritu sancto"
+  },
+  {
+   "scan": 147,
+   "line": 5,
+   "lines": [
+    [
+     147,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Natus ex Maria Virgine"
+  },
+  {
+   "scan": 148,
+   "line": 3,
+   "lines": [
+    [
+     148,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Passus"
+  },
+  {
+   "scan": 149,
+   "line": 10,
+   "lines": [
+    [
+     149,
+     10
+    ]
+   ],
+   "level": 3,
+   "title": "Mortuum"
+  },
+  {
+   "scan": 150,
+   "line": 7,
+   "lines": [
+    [
+     150,
+     7
+    ]
+   ],
+   "level": 3,
+   "title": "Descendit ad inferos"
+  },
+  {
+   "scan": 151,
+   "line": 5,
+   "lines": [
+    [
+     151,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Resurrexit tertia die"
+  },
+  {
+   "scan": 153,
+   "line": 1,
+   "lines": [
+    [
+     153,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "Ascendit in cœlum"
+  },
+  {
+   "scan": 154,
+   "line": 5,
+   "lines": [
+    [
+     154,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Sedere ad dexteram"
+  },
+  {
+   "scan": 156,
+   "line": 2,
+   "lines": [
+    [
+     156,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Credo in Spiritum sanctum"
+  },
+  {
+   "scan": 157,
+   "line": 2,
+   "lines": [
+    [
+     157,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Credo Ecclesiam"
+  },
+  {
+   "scan": 158,
+   "line": 2,
+   "lines": [
+    [
+     158,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Sanctam"
+  },
+  {
+   "scan": 158,
+   "line": 10,
+   "lines": [
+    [
+     158,
+     10
+    ]
+   ],
+   "level": 3,
+   "title": "Catholicam"
+  },
+  {
+   "scan": 159,
+   "line": 7,
+   "lines": [
+    [
+     159,
+     7
+    ]
+   ],
+   "level": 3,
+   "title": "Communionem Sanctorum"
+  },
+  {
+   "scan": 160,
+   "line": 5,
+   "lines": [
+    [
+     160,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Remissionem peccatorum"
+  },
+  {
+   "scan": 161,
+   "line": 5,
+   "lines": [
+    [
+     161,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Resurrectionem carnis"
+  },
+  {
+   "scan": 162,
+   "line": 2,
+   "lines": [
+    [
+     162,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Vitam æternam"
+  },
+  {
+   "scan": 163,
+   "line": 0,
+   "lines": [
+    [
+     163,
+     0
+    ]
+   ],
+   "level": 2,
+   "title": "In thesin tertiam"
+  },
+  {
+   "scan": 165,
+   "line": 5,
+   "lines": [
+    [
+     165,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "In quartam Thesim"
+  },
+  {
+   "scan": 167,
+   "line": 2,
+   "lines": [
+    [
+     167,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Creatio mundi & ex nihilo, & in tempore probatur"
+  },
+  {
+   "scan": 172,
+   "line": 1,
+   "lines": [
+    [
+     172,
+     1
+    ],
+    [
+     172,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Ad pium lectorem. Vbi et autoris defensio, et huius operis finis & vtilitas continetur"
+  },
+  {
+   "scan": 176,
+   "line": 1,
+   "lines": [
+    [
+     176,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Praefatio"
+  },
+  {
+   "scan": 177,
+   "line": 0,
+   "lines": [
+    [
+     177,
+     0
+    ]
+   ],
+   "level": 1,
+   "title": "Paratitlon"
+  }
+ ],
+ "book": "Lambertus Danaeus, Symboli apostolici explicatio (Geneva, 1587): a Latin theological volume with two title pages, a dedication to all Christians, prolegomena, four theses on the Apostles' Creed with Scriptural proofs, a patristic exposition of each article, objections with replies, and a preface and address to the reader.",
+ "series": [
+  {
+   "label": "Thesis",
+   "first": "I",
+   "last": "IV",
+   "count": 4,
+   "level": 2,
+   "found": 21
+  }
+ ],
+ "taste": 50,
+ "doubt": "",
+ "input": 25832,
+ "output": 16906
+}
