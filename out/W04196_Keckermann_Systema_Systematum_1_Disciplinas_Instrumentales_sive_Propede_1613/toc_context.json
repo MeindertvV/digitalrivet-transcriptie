@@ -1,0 +1,3936 @@
+{
+ "work": "W04196_Keckermann_Systema_Systematum_1_Disciplinas_Instrumentales_sive_Propede_1613",
+ "made": "2026-11-26T11:16:08",
+ "model": "claude-haiku-5-5",
+ "prompt": "655260ce46aa8978",
+ "candidates": 2363,
+ "cost_usd": 0.09177,
+ "dropped": [
+  "title 'Liber I. Rhetoricae ecclesiasticae' moved from 'Liber Primus.' to 'TYPVS RHETORICÆ ECCLESIASTICÆ'",
+  "order: {'ids': [792], 'level': 2, 'title': 'Liber II. De usu et exercitiis logicis, pertinentibus ad secundam partem Logicae'}",
+  "order: {'ids': [793], 'level': 4, 'title': 'Caput I. In quo ingressus ad hunc usum logicum'}",
+  "order: {'ids': [794, 795], 'level': 4, 'title': 'Caput II. De tractatione thematis coniuncti, sive de exercitiis secundae partis Logicae, ac primo de recta ordinatione subiecti et praedicati'}",
+  "order: {'ids': [797], 'level': 4, 'title': 'Caput III. Secundae partis Logicae circa propositionum divisionem'}",
+  "order: {'ids': [798], 'level': 4, 'title': 'Caput IV. De exercitiis formalibus ortis'}",
+  "order: {'ids': [800], 'level': 4, 'title': 'Caput V. De materialibus exercitiis secundae partis, ac primo de primariis'}",
+  "order: {'ids': [801], 'level': 4, 'title': 'Caput VI. De usu et exercitiis materialibus secundariis'}",
+  "order: {'ids': [805], 'level': 2, 'title': 'Liber III. De usu logico syllogistico'}",
+  "order: {'ids': [806], 'level': 4, 'title': 'Caput I.'}",
+  "order: {'ids': [810], 'level': 4, 'title': 'Caput II. De tractatione thematis coniuncti realis, puri et perfecti'}",
+  "order: {'ids': [815], 'level': 4, 'title': 'Caput III. De tractatione thematum coniunctorum imperfectorum'}",
+  "order: {'ids': [823], 'level': 4, 'title': 'Caput IV. De tractatione problematum notionalium, atque adeo simul mixtorum problematum'}",
+  "order: {'ids': [838], 'level': 4, 'title': 'Caput V. De problemate practico, et quidem de problemate temporis praeteriti et praesentis'}",
+  "order: {'ids': [858], 'level': 4, 'title': 'Caput VI. De themate practico futuri temporis'}",
+  "order: {'ids': [883], 'level': 4, 'title': 'Caput VII. De disputatione'}",
+  "order: {'ids': [886], 'level': 4, 'title': 'Caput VIII. De consultatione sociali'}",
+  "order: {'ids': [887], 'level': 4, 'title': 'Caput IX. De tractatione orta, atque adeo de ratione bene discendi, seu studia instituendi'}",
+  "order: {'ids': [898, 899, 900], 'level': 2, 'title': 'Pars posterior. De tractatorum resolutione'}",
+  "order: {'ids': [901], 'level': 4, 'title': 'Caput I. De resolutione thematis simplicis'}",
+  "order: {'ids': [902], 'level': 4, 'title': 'Caput II. De resolutione thematis coniuncti, iuxta secundam partem Logicae'}",
+  "order: {'ids': [903], 'level': 4, 'title': 'Caput III. De resolutione textus syllogistici'}",
+  "order: {'ids': [904], 'level': 4, 'title': 'Caput IV. De resolutione textus mixti'}",
+  "order: {'ids': [906], 'level': 4, 'title': 'Caput V. De resolutione integrae disciplinae'}",
+  "no scans for 9 wanted"
+ ],
+ "toc": [
+  {
+   "scan": 5,
+   "line": 1,
+   "lines": [
+    [
+     5,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Viris magnificis, spectatissimis, prudentissimis, DNN. proconsulibus et consulibus totique amplissimo senatui inclytæ et"
+  },
+  {
+   "scan": 9,
+   "line": 1,
+   "lines": [
+    [
+     9,
+     1
+    ],
+    [
+     9,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Iohannis-Henrici Alstedi præfatio. In primum tomum operum philosophicorum Bartholomæi Keckermanni"
+  },
+  {
+   "scan": 12,
+   "line": 1,
+   "lines": [
+    [
+     12,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Præfatio"
+  },
+  {
+   "scan": 13,
+   "line": 1,
+   "lines": [
+    [
+     13,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Typographus lectori"
+  },
+  {
+   "scan": 14,
+   "line": 1,
+   "lines": [
+    [
+     14,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Index eorum quæ primo tomo continentur"
+  },
+  {
+   "scan": 14,
+   "line": 9,
+   "lines": [
+    [
+     14,
+     9
+    ]
+   ],
+   "level": 1,
+   "title": "Index eorum quæ altero tomo continentur"
+  },
+  {
+   "scan": 15,
+   "line": 1,
+   "lines": [
+    [
+     15,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Elenchus principalium capitum huius tomi I"
+  },
+  {
+   "scan": 19,
+   "line": 1,
+   "lines": [
+    [
+     19,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Systematis systematum Bartholomæi Keckermanni. Tomus primus, in quo disciplinæ propædeuticæ"
+  },
+  {
+   "scan": 19,
+   "line": 3,
+   "lines": [
+    [
+     19,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Tractatus I. De Logicæ disciplinæ essentiam constituentibus et insequentibus"
+  },
+  {
+   "scan": 19,
+   "line": 4,
+   "lines": [
+    [
+     19,
+     4
+    ]
+   ],
+   "level": 4,
+   "title": "Caput I. In quo transitione Thesei ad hypothesin de nomine & etymologia Logicæ agitur"
+  },
+  {
+   "scan": 21,
+   "line": 3,
+   "lines": [
+    [
+     21,
+     3
+    ]
+   ],
+   "level": 4,
+   "title": "Caput II. Itaque de Logicæ definitione, id est, genere, obiecto, & fine docetur"
+  },
+  {
+   "scan": 24,
+   "line": 6,
+   "lines": [
+    [
+     24,
+     6
+    ]
+   ],
+   "level": 4,
+   "title": "Caput III. In quo de Logicæ propriis accidentibus & effectibus"
+  },
+  {
+   "scan": 27,
+   "line": 4,
+   "lines": [
+    [
+     27,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Tractatus II. De Logicæ disciplinæ inventoribus & auctoribus, ab initio mundi ad hunc usque"
+  },
+  {
+   "scan": 27,
+   "line": 5,
+   "lines": [
+    [
+     27,
+     5
+    ]
+   ],
+   "level": 4,
+   "title": "Caput I. De causis efficientibus Logicæ"
+  },
+  {
+   "scan": 28,
+   "line": 6,
+   "lines": [
+    [
+     28,
+     6
+    ],
+    [
+     28,
+     7
+    ]
+   ],
+   "level": 4,
+   "title": "Caput II. In quo historia Logica ab initio mundi texitur usque ad currens seculum"
+  },
+  {
+   "scan": 38,
+   "line": 5,
+   "lines": [
+    [
+     38,
+     5
+    ]
+   ],
+   "level": 4,
+   "title": "Caput III. In quo historia Logica huius decurrentis seculi usque ad P. Ramum Veromanduum"
+  },
+  {
+   "scan": 41,
+   "line": 1,
+   "lines": [
+    [
+     41,
+     1
+    ]
+   ],
+   "level": 4,
+   "title": "Caput IV. In quo Rami & Rameæ disciplinæ proprietates percensentur"
+  },
+  {
+   "scan": 55,
+   "line": 15,
+   "lines": [
+    [
+     55,
+     15
+    ],
+    [
+     55,
+     16
+    ]
+   ],
+   "level": 4,
+   "title": "Caput V. In quo Logicorum reliquorum catalogus pertexitur"
+  },
+  {
+   "scan": 62,
+   "line": 1,
+   "lines": [
+    [
+     62,
+     1
+    ],
+    [
+     62,
+     6
+    ]
+   ],
+   "level": 4,
+   "title": "Caput VI. De Logicæ artis inventoribus & excultoribus"
+  },
+  {
+   "scan": 63,
+   "line": 4,
+   "lines": [
+    [
+     63,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Tractatus III. De Logici systematis conformatione"
+  },
+  {
+   "scan": 63,
+   "line": 5,
+   "lines": [
+    [
+     63,
+     5
+    ],
+    [
+     63,
+     8
+    ]
+   ],
+   "level": 4,
+   "title": "Caput I. In quo ostenditur Aristotelis organum pro perfecti systematis mensura haberi non posse"
+  },
+  {
+   "scan": 64,
+   "line": 5,
+   "lines": [
+    [
+     64,
+     5
+    ],
+    [
+     64,
+     6
+    ]
+   ],
+   "level": 4,
+   "title": "Caput II. In quo de plenioris systematis logici formali agitur"
+  },
+  {
+   "scan": 78,
+   "line": 4,
+   "lines": [
+    [
+     78,
+     4
+    ],
+    [
+     78,
+     5
+    ]
+   ],
+   "level": 4,
+   "title": "Caput III. In quo de recti systematis materiali breviter pertractatur"
+  },
+  {
+   "scan": 80,
+   "line": 1,
+   "lines": [
+    [
+     80,
+     1
+    ]
+   ],
+   "level": 4,
+   "title": "Caput IV. De tertia & ultima causa efficiente habitus logici, usu nimirum sive experientia"
+  },
+  {
+   "scan": 82,
+   "line": 2,
+   "lines": [
+    [
+     82,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Benevolo lectori logico"
+  },
+  {
+   "scan": 85,
+   "line": 1,
+   "lines": [
+    [
+     85,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Bartholomæi Keckermanni Dantiscani Systema logicæ tribus libris adornatum, pleniore præceptorum methodo"
+  },
+  {
+   "scan": 88,
+   "line": 1,
+   "lines": [
+    [
+     88,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Systematis logici liber I, in quo pars prima, quæ est directrix simplicium"
+  },
+  {
+   "scan": 88,
+   "line": 2,
+   "lines": [
+    [
+     88,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Sectio prior. De terminis simplicibus primis"
+  },
+  {
+   "scan": 88,
+   "line": 3,
+   "lines": [
+    [
+     88,
+     3
+    ]
+   ],
+   "level": 4,
+   "title": "Caput I. De voce"
+  },
+  {
+   "scan": 97,
+   "line": 4,
+   "lines": [
+    [
+     97,
+     4
+    ]
+   ],
+   "level": 4,
+   "title": "Caput II. De rerum serie, quam prædicamentum vocant"
+  },
+  {
+   "scan": 103,
+   "line": 6,
+   "lines": [
+    [
+     103,
+     6
+    ],
+    [
+     103,
+     7
+    ]
+   ],
+   "level": 4,
+   "title": "Caput III. De genere"
+  },
+  {
+   "scan": 110,
+   "line": 4,
+   "lines": [
+    [
+     110,
+     4
+    ]
+   ],
+   "level": 4,
+   "title": "Caput IV. De specie"
+  },
+  {
+   "scan": 112,
+   "line": 7,
+   "lines": [
+    [
+     112,
+     7
+    ]
+   ],
+   "level": 4,
+   "title": "Caput V. De individuo"
+  },
+  {
+   "scan": 116,
+   "line": 6,
+   "lines": [
+    [
+     116,
+     6
+    ]
+   ],
+   "level": 4,
+   "title": "Caput VI. De differentia"
+  },
+  {
+   "scan": 120,
+   "line": 4,
+   "lines": [
+    [
+     120,
+     4
+    ],
+    [
+     120,
+     5
+    ]
+   ],
+   "level": 4,
+   "title": "Caput VII. Prædicamentum substantiæ"
+  },
+  {
+   "scan": 122,
+   "line": 3,
+   "lines": [
+    [
+     122,
+     3
+    ]
+   ],
+   "level": 4,
+   "title": "Caput VIII. Prædicamentum quantitatis"
+  },
+  {
+   "scan": 125,
+   "line": 3,
+   "lines": [
+    [
+     125,
+     3
+    ]
+   ],
+   "level": 4,
+   "title": "Caput IX. Prædicamentum qualitatis"
+  },
+  {
+   "scan": 129,
+   "line": 9,
+   "lines": [
+    [
+     129,
+     9
+    ],
+    [
+     129,
+     10
+    ]
+   ],
+   "level": 4,
+   "title": "Caput X. Prædicamentum actionis"
+  },
+  {
+   "scan": 130,
+   "line": 17,
+   "lines": [
+    [
+     130,
+     17
+    ],
+    [
+     130,
+     18
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XI. Prædicamentum passionis"
+  },
+  {
+   "scan": 131,
+   "line": 6,
+   "lines": [
+    [
+     131,
+     6
+    ],
+    [
+     131,
+     7
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XII. Prædicamentum relationis"
+  },
+  {
+   "scan": 134,
+   "line": 7,
+   "lines": [
+    [
+     134,
+     7
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XIII. Quatuor reliqua prædicamenta"
+  },
+  {
+   "scan": 135,
+   "line": 12,
+   "lines": [
+    [
+     135,
+     12
+    ],
+    [
+     136,
+     2
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XIV. De causa"
+  },
+  {
+   "scan": 136,
+   "line": 13,
+   "lines": [
+    [
+     136,
+     13
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XV. De causa efficiente"
+  },
+  {
+   "scan": 149,
+   "line": 2,
+   "lines": [
+    [
+     149,
+     2
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XVI. De materia"
+  },
+  {
+   "scan": 150,
+   "line": 15,
+   "lines": [
+    [
+     150,
+     15
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XVII. De forma"
+  },
+  {
+   "scan": 152,
+   "line": 3,
+   "lines": [
+    [
+     152,
+     3
+    ],
+    [
+     152,
+     4
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XVIII. De fine"
+  },
+  {
+   "scan": 156,
+   "line": 4,
+   "lines": [
+    [
+     156,
+     4
+    ],
+    [
+     156,
+     5
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XIX. De causato"
+  },
+  {
+   "scan": 157,
+   "line": 10,
+   "lines": [
+    [
+     157,
+     10
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XX. De subiecto"
+  },
+  {
+   "scan": 159,
+   "line": 2,
+   "lines": [
+    [
+     159,
+     2
+    ],
+    [
+     161,
+     2
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XXI. De accidente proprio & communi"
+  },
+  {
+   "scan": 163,
+   "line": 12,
+   "lines": [
+    [
+     163,
+     12
+    ],
+    [
+     165,
+     6
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XXII. De toto & parte"
+  },
+  {
+   "scan": 167,
+   "line": 15,
+   "lines": [
+    [
+     167,
+     15
+    ],
+    [
+     167,
+     16
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XXIII. De terminis externis"
+  },
+  {
+   "scan": 170,
+   "line": 1,
+   "lines": [
+    [
+     170,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "Libri primi sectio posterior. De terminis simplicibus ortis"
+  },
+  {
+   "scan": 170,
+   "line": 2,
+   "lines": [
+    [
+     170,
+     2
+    ]
+   ],
+   "level": 4,
+   "title": "Caput I. De explicatione vocis, deque coniugatis"
+  },
+  {
+   "scan": 178,
+   "line": 2,
+   "lines": [
+    [
+     178,
+     2
+    ]
+   ],
+   "level": 4,
+   "title": "Caput II. De definitione"
+  },
+  {
+   "scan": 186,
+   "line": 2,
+   "lines": [
+    [
+     186,
+     2
+    ],
+    [
+     186,
+     8
+    ]
+   ],
+   "level": 4,
+   "title": "Caput III. De divisione"
+  },
+  {
+   "scan": 190,
+   "line": 15,
+   "lines": [
+    [
+     190,
+     15
+    ]
+   ],
+   "level": 4,
+   "title": "Caput IV. De rerum identitate"
+  },
+  {
+   "scan": 195,
+   "line": 17,
+   "lines": [
+    [
+     195,
+     17
+    ],
+    [
+     197,
+     2
+    ]
+   ],
+   "level": 4,
+   "title": "Caput V. De distinctione"
+  },
+  {
+   "scan": 200,
+   "line": 2,
+   "lines": [
+    [
+     200,
+     2
+    ],
+    [
+     201,
+     2
+    ]
+   ],
+   "level": 4,
+   "title": "Caput VI. De oppositione"
+  },
+  {
+   "scan": 209,
+   "line": 1,
+   "lines": [
+    [
+     209,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Systematis logici liber secundus, in quo pars secunda directrix conceptus complexi"
+  },
+  {
+   "scan": 209,
+   "line": 2,
+   "lines": [
+    [
+     209,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Sectio prior. De propositione in communi"
+  },
+  {
+   "scan": 209,
+   "line": 3,
+   "lines": [
+    [
+     209,
+     3
+    ]
+   ],
+   "level": 4,
+   "title": "Caput I. De propositionis constitutione"
+  },
+  {
+   "scan": 216,
+   "line": 10,
+   "lines": [
+    [
+     216,
+     10
+    ]
+   ],
+   "level": 4,
+   "title": "Caput II. Propositionum divisiones ex materiali"
+  },
+  {
+   "scan": 219,
+   "line": 16,
+   "lines": [
+    [
+     219,
+     16
+    ]
+   ],
+   "level": 4,
+   "title": "Caput III. Propositionum divisiones ex formali"
+  },
+  {
+   "scan": 223,
+   "line": 4,
+   "lines": [
+    [
+     223,
+     4
+    ]
+   ],
+   "level": 4,
+   "title": "Caput IV. De modalibus secundario dictis"
+  },
+  {
+   "scan": 227,
+   "line": 9,
+   "lines": [
+    [
+     227,
+     9
+    ]
+   ],
+   "level": 4,
+   "title": "Caput V. De propositionum æquipollentia"
+  },
+  {
+   "scan": 229,
+   "line": 14,
+   "lines": [
+    [
+     229,
+     14
+    ]
+   ],
+   "level": 4,
+   "title": "Caput VI. De conversione"
+  },
+  {
+   "scan": 231,
+   "line": 8,
+   "lines": [
+    [
+     231,
+     8
+    ]
+   ],
+   "level": 4,
+   "title": "Caput VII. De oppositione"
+  },
+  {
+   "scan": 235,
+   "line": 1,
+   "lines": [
+    [
+     235,
+     1
+    ]
+   ],
+   "level": 4,
+   "title": "Caput VIII. De propositione composita"
+  },
+  {
+   "scan": 238,
+   "line": 1,
+   "lines": [
+    [
+     238,
+     1
+    ],
+    [
+     238,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Sectio posterior. De propositione ad certam materiam determinata"
+  },
+  {
+   "scan": 238,
+   "line": 3,
+   "lines": [
+    [
+     238,
+     3
+    ],
+    [
+     238,
+     4
+    ]
+   ],
+   "level": 4,
+   "title": "Caput I. De propositione perspicua, obscura, notionali & reali"
+  },
+  {
+   "scan": 242,
+   "line": 4,
+   "lines": [
+    [
+     242,
+     4
+    ],
+    [
+     242,
+     5
+    ]
+   ],
+   "level": 4,
+   "title": "Caput II. De propositionibus necessariis & contingentibus; propriis & impropriis"
+  },
+  {
+   "scan": 250,
+   "line": 1,
+   "lines": [
+    [
+     250,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Systematis logici liber tertius, in quo directrix discursus; tractatus primus, de syllogismo"
+  },
+  {
+   "scan": 250,
+   "line": 2,
+   "lines": [
+    [
+     250,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Sectio prima. De syllogismo in communi"
+  },
+  {
+   "scan": 250,
+   "line": 3,
+   "lines": [
+    [
+     250,
+     3
+    ]
+   ],
+   "level": 4,
+   "title": "Caput I. De syllogismi communis constitutione"
+  },
+  {
+   "scan": 251,
+   "line": 29,
+   "lines": [
+    [
+     251,
+     29
+    ]
+   ],
+   "level": 4,
+   "title": "Caput II. De inventione medii"
+  },
+  {
+   "scan": 255,
+   "line": 3,
+   "lines": [
+    [
+     255,
+     3
+    ]
+   ],
+   "level": 4,
+   "title": "Caput IV. De tribus figuris syllogismorum"
+  },
+  {
+   "scan": 257,
+   "line": 52,
+   "lines": [
+    [
+     257,
+     52
+    ]
+   ],
+   "level": 4,
+   "title": "Caput V. De syllogismi proprietatibus generalibus"
+  },
+  {
+   "scan": 262,
+   "line": 2,
+   "lines": [
+    [
+     262,
+     2
+    ]
+   ],
+   "level": 4,
+   "title": "Caput VI. Proprietates speciales primæ figuræ"
+  },
+  {
+   "scan": 264,
+   "line": 2,
+   "lines": [
+    [
+     264,
+     2
+    ]
+   ],
+   "level": 4,
+   "title": "Caput VII. De reductione & expositione"
+  },
+  {
+   "scan": 267,
+   "line": 2,
+   "lines": [
+    [
+     267,
+     2
+    ],
+    [
+     267,
+     3
+    ]
+   ],
+   "level": 4,
+   "title": "Caput VIII. Canones secundæ figuræ"
+  },
+  {
+   "scan": 267,
+   "line": 9,
+   "lines": [
+    [
+     267,
+     9
+    ],
+    [
+     267,
+     10
+    ]
+   ],
+   "level": 4,
+   "title": "Caput IX. Canones tertiæ figuræ"
+  },
+  {
+   "scan": 268,
+   "line": 5,
+   "lines": [
+    [
+     268,
+     5
+    ],
+    [
+     270,
+     2
+    ]
+   ],
+   "level": 4,
+   "title": "Caput X. De syllogismo ducente ad impossibile"
+  },
+  {
+   "scan": 271,
+   "line": 2,
+   "lines": [
+    [
+     271,
+     2
+    ],
+    [
+     271,
+     6
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XI. De enthymemate & consecutione sententiarum"
+  },
+  {
+   "scan": 273,
+   "line": 10,
+   "lines": [
+    [
+     273,
+     10
+    ],
+    [
+     275,
+     2
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XII. De inductione & sorite"
+  },
+  {
+   "scan": 276,
+   "line": 2,
+   "lines": [
+    [
+     276,
+     2
+    ],
+    [
+     277,
+     10
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XIII. De syllogismis imperfectis compositis"
+  },
+  {
+   "scan": 279,
+   "line": 4,
+   "lines": [
+    [
+     279,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Sectio secunda. De syllogismo certæ materiæ"
+  },
+  {
+   "scan": 279,
+   "line": 5,
+   "lines": [
+    [
+     279,
+     5
+    ]
+   ],
+   "level": 4,
+   "title": "Caput I. De syllogismo notionali seu topico"
+  },
+  {
+   "scan": 284,
+   "line": 4,
+   "lines": [
+    [
+     284,
+     4
+    ],
+    [
+     284,
+     5
+    ]
+   ],
+   "level": 4,
+   "title": "Caput II. De medio contingenti ex definitione & notatione nominis, itemque ex coniugatis"
+  },
+  {
+   "scan": 286,
+   "line": 1,
+   "lines": [
+    [
+     286,
+     1
+    ],
+    [
+     286,
+     3
+    ]
+   ],
+   "level": 4,
+   "title": "Caput III. De medio contingenti ex loco causæ & causati"
+  },
+  {
+   "scan": 286,
+   "line": 20,
+   "lines": [
+    [
+     286,
+     20
+    ]
+   ],
+   "level": 4,
+   "title": "Caput IV. De medio contingenti ex subiecto, accidente, toto & partibus"
+  },
+  {
+   "scan": 287,
+   "line": 1,
+   "lines": [
+    [
+     287,
+     1
+    ]
+   ],
+   "level": 4,
+   "title": "Caput V. De medio contingenti ex circumstantibus, adiacentibus, obiecto & concomitantibus"
+  },
+  {
+   "scan": 287,
+   "line": 13,
+   "lines": [
+    [
+     287,
+     13
+    ]
+   ],
+   "level": 4,
+   "title": "Caput VI. De medio contingenti ex descriptione & comparatione"
+  },
+  {
+   "scan": 291,
+   "line": 5,
+   "lines": [
+    [
+     291,
+     5
+    ]
+   ],
+   "level": 4,
+   "title": "Caput VIII. De medio contingenti ex testimonio humano"
+  },
+  {
+   "scan": 294,
+   "line": 3,
+   "lines": [
+    [
+     294,
+     3
+    ],
+    [
+     297,
+     2
+    ]
+   ],
+   "level": 4,
+   "title": "Caput IX. De medio necessario ex loco generis & specierum"
+  },
+  {
+   "scan": 298,
+   "line": 18,
+   "lines": [
+    [
+     298,
+     18
+    ]
+   ],
+   "level": 4,
+   "title": "Caput X. De medio dictico ex loco formæ, materiæ, subiecti & accidentis, proprii, totius & partium"
+  },
+  {
+   "scan": 299,
+   "line": 21,
+   "lines": [
+    [
+     299,
+     21
+    ],
+    [
+     299,
+     22
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XI. De medio dictico ex circumstantibus, obiecto, concomitantibus"
+  },
+  {
+   "scan": 300,
+   "line": 11,
+   "lines": [
+    [
+     300,
+     11
+    ],
+    [
+     300,
+     16
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XII. De medio dictico ex definitione & descriptione, divisione & oppositis"
+  },
+  {
+   "scan": 301,
+   "line": 15,
+   "lines": [
+    [
+     301,
+     15
+    ],
+    [
+     302,
+     8
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XIII. De medio necessario dictico ex testimonio Dei & sensuum"
+  },
+  {
+   "scan": 304,
+   "line": 4,
+   "lines": [
+    [
+     304,
+     4
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XIV. De demonstratione"
+  },
+  {
+   "scan": 310,
+   "line": 2,
+   "lines": [
+    [
+     310,
+     2
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XV. De demonstratione"
+  },
+  {
+   "scan": 312,
+   "line": 1,
+   "lines": [
+    [
+     312,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "Sectio tertia. De syllogismo apparenti & fallaci"
+  },
+  {
+   "scan": 312,
+   "line": 2,
+   "lines": [
+    [
+     312,
+     2
+    ]
+   ],
+   "level": 4,
+   "title": "Caput I. De fallaciis circa formam syllogismi, & in dictione"
+  },
+  {
+   "scan": 316,
+   "line": 4,
+   "lines": [
+    [
+     316,
+     4
+    ],
+    [
+     318,
+     2
+    ]
+   ],
+   "level": 4,
+   "title": "Caput II. De fallacia extra dictionem in rebus ipsis"
+  },
+  {
+   "scan": 319,
+   "line": 3,
+   "lines": [
+    [
+     319,
+     3
+    ],
+    [
+     319,
+     4
+    ],
+    [
+     319,
+     5
+    ]
+   ],
+   "level": 4,
+   "title": "Caput III. De fallaciis circa præmissas"
+  },
+  {
+   "scan": 322,
+   "line": 2,
+   "lines": [
+    [
+     322,
+     2
+    ],
+    [
+     322,
+     3
+    ]
+   ],
+   "level": 4,
+   "title": "Caput IV. De solutione fallaciarum"
+  },
+  {
+   "scan": 326,
+   "line": 8,
+   "lines": [
+    [
+     326,
+     8
+    ]
+   ],
+   "level": 3,
+   "title": "Tertiæ partis tractatus posterior. De methodo"
+  },
+  {
+   "scan": 326,
+   "line": 9,
+   "lines": [
+    [
+     326,
+     9
+    ]
+   ],
+   "level": 4,
+   "title": "Caput I. De methodo universali"
+  },
+  {
+   "scan": 332,
+   "line": 8,
+   "lines": [
+    [
+     332,
+     8
+    ]
+   ],
+   "level": 4,
+   "title": "Caput II. De methodo particulari"
+  },
+  {
+   "scan": 333,
+   "line": 7,
+   "lines": [
+    [
+     333,
+     7
+    ]
+   ],
+   "level": 1,
+   "title": "Bartholomæi Keckermanni Dantiscani philosophi Systematis logici plenioris pars altera, quæ est specialis, continens usum"
+  },
+  {
+   "scan": 335,
+   "line": 6,
+   "lines": [
+    [
+     335,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "Liber primus, in quo prima exercitatio logica, quæ est tractatio sive explicatio simplicium rerum seu thematum"
+  },
+  {
+   "scan": 335,
+   "line": 7,
+   "lines": [
+    [
+     335,
+     7
+    ]
+   ],
+   "level": 4,
+   "title": "Caput I. In quo præcognita"
+  },
+  {
+   "scan": 335,
+   "line": 13,
+   "lines": [
+    [
+     335,
+     13
+    ]
+   ],
+   "level": 4,
+   "title": "Caput II. De themate simplici & eius consideratione"
+  },
+  {
+   "scan": 336,
+   "line": 9,
+   "lines": [
+    [
+     336,
+     9
+    ],
+    [
+     336,
+     10
+    ]
+   ],
+   "level": 4,
+   "title": "Caput III. De tractatione thematis simplicis substantialis perfecti, & primo quidem spiritualis, sive supernaturalis"
+  },
+  {
+   "scan": 344,
+   "line": 3,
+   "lines": [
+    [
+     344,
+     3
+    ]
+   ],
+   "level": 4,
+   "title": "Caput IV. De tractatione substantiæ naturalis corporeæ"
+  },
+  {
+   "scan": 362,
+   "line": 23,
+   "lines": [
+    [
+     362,
+     23
+    ],
+    [
+     363,
+     1
+    ]
+   ],
+   "level": 4,
+   "title": "Caput V. De tractatione thematis perfecti accidentalis, & quidem primo thematis in quantitate"
+  },
+  {
+   "scan": 365,
+   "line": 3,
+   "lines": [
+    [
+     365,
+     3
+    ]
+   ],
+   "level": 4,
+   "title": "Caput VI. De explicatione qualitatum"
+  },
+  {
+   "scan": 376,
+   "line": 2,
+   "lines": [
+    [
+     376,
+     2
+    ],
+    [
+     376,
+     15
+    ]
+   ],
+   "level": 4,
+   "title": "Caput VII. De explicatione actionum"
+  },
+  {
+   "scan": 378,
+   "line": 3,
+   "lines": [
+    [
+     378,
+     3
+    ],
+    [
+     378,
+     15
+    ]
+   ],
+   "level": 4,
+   "title": "Caput VIII. De explicatione passionis"
+  },
+  {
+   "scan": 380,
+   "line": 5,
+   "lines": [
+    [
+     380,
+     5
+    ],
+    [
+     383,
+     9
+    ]
+   ],
+   "level": 4,
+   "title": "Caput IX. De explicatione thematis substantialis singularis, sive substantiæ individuæ"
+  },
+  {
+   "scan": 387,
+   "line": 2,
+   "lines": [
+    [
+     387,
+     2
+    ]
+   ],
+   "level": 4,
+   "title": "Caput X. De tractatione thematis partialis, sive de explicatione partis"
+  },
+  {
+   "scan": 392,
+   "line": 2,
+   "lines": [
+    [
+     392,
+     2
+    ],
+    [
+     393,
+     7
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XI. De tractatione substantiæ collectivæ"
+  },
+  {
+   "scan": 397,
+   "line": 16,
+   "lines": [
+    [
+     397,
+     16
+    ],
+    [
+     398,
+     2
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XII. De explicatione thematis imperfecti accidentalis, ac primo de explicatione accidentis singularis, sive individui"
+  },
+  {
+   "scan": 401,
+   "line": 6,
+   "lines": [
+    [
+     401,
+     6
+    ],
+    [
+     402,
+     4
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XIII. De explicatione thematis accidentalis concreti"
+  },
+  {
+   "scan": 404,
+   "line": 3,
+   "lines": [
+    [
+     404,
+     3
+    ],
+    [
+     404,
+     16
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XIV. De tractatione thematis accidentalis collectivi"
+  },
+  {
+   "scan": 407,
+   "line": 3,
+   "lines": [
+    [
+     407,
+     3
+    ],
+    [
+     407,
+     4
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XV. De explicatione relationis"
+  },
+  {
+   "scan": 411,
+   "line": 9,
+   "lines": [
+    [
+     411,
+     9
+    ],
+    [
+     412,
+     2
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XVI. De tractatione imaginis rei"
+  },
+  {
+   "scan": 422,
+   "line": 3,
+   "lines": [
+    [
+     422,
+     3
+    ],
+    [
+     423,
+     5
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XVII. De tractatione thematis privativi"
+  },
+  {
+   "scan": 429,
+   "line": 5,
+   "lines": [
+    [
+     429,
+     5
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XVIII. De tractando & instituendo consilio simplici, sive themate consultatorio"
+  },
+  {
+   "scan": 434,
+   "line": 7,
+   "lines": [
+    [
+     434,
+     7
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XX. De diversa applicatione instrumentorum logicorum ad thema explicandum"
+  },
+  {
+   "scan": 777,
+   "line": 1,
+   "lines": [
+    [
+     777,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "IV. Systema logicum minus"
+  },
+  {
+   "scan": 783,
+   "line": 1,
+   "lines": [
+    [
+     783,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Liber I. Systematis logici compendiose traditi"
+  },
+  {
+   "scan": 784,
+   "line": 2,
+   "lines": [
+    [
+     784,
+     2
+    ],
+    [
+     784,
+     3
+    ]
+   ],
+   "level": 4,
+   "title": "Caput I. De voce simplici"
+  },
+  {
+   "scan": 785,
+   "line": 23,
+   "lines": [
+    [
+     785,
+     23
+    ]
+   ],
+   "level": 4,
+   "title": "Caput II. De genere, specie, individuo et differentia"
+  },
+  {
+   "scan": 789,
+   "line": 11,
+   "lines": [
+    [
+     789,
+     11
+    ]
+   ],
+   "level": 4,
+   "title": "Caput III. Praedicamentum substantiae"
+  },
+  {
+   "scan": 791,
+   "line": 1,
+   "lines": [
+    [
+     791,
+     1
+    ]
+   ],
+   "level": 4,
+   "title": "Caput IV. Praedicamentum quantitatis"
+  },
+  {
+   "scan": 792,
+   "line": 1,
+   "lines": [
+    [
+     792,
+     1
+    ]
+   ],
+   "level": 4,
+   "title": "Caput V. Praedicamentum qualitatis"
+  },
+  {
+   "scan": 794,
+   "line": 1,
+   "lines": [
+    [
+     794,
+     1
+    ]
+   ],
+   "level": 4,
+   "title": "Caput VI. Praedicamentum actionis"
+  },
+  {
+   "scan": 794,
+   "line": 16,
+   "lines": [
+    [
+     794,
+     16
+    ]
+   ],
+   "level": 4,
+   "title": "Caput VII. Praedicamentum passionis"
+  },
+  {
+   "scan": 795,
+   "line": 9,
+   "lines": [
+    [
+     795,
+     9
+    ]
+   ],
+   "level": 4,
+   "title": "Caput VIII. Praedicamentum relationis"
+  },
+  {
+   "scan": 796,
+   "line": 9,
+   "lines": [
+    [
+     796,
+     9
+    ]
+   ],
+   "level": 4,
+   "title": "Caput IX. Quatuor reliqua praedicamenta"
+  },
+  {
+   "scan": 797,
+   "line": 11,
+   "lines": [
+    [
+     797,
+     11
+    ]
+   ],
+   "level": 4,
+   "title": "Caput X. De causa efficiente"
+  },
+  {
+   "scan": 800,
+   "line": 8,
+   "lines": [
+    [
+     800,
+     8
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XI. De materia et forma"
+  },
+  {
+   "scan": 801,
+   "line": 5,
+   "lines": [
+    [
+     801,
+     5
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XII. De fine et causato"
+  },
+  {
+   "scan": 803,
+   "line": 12,
+   "lines": [
+    [
+     803,
+     12
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XIII. De subiecto et accidente"
+  },
+  {
+   "scan": 805,
+   "line": 6,
+   "lines": [
+    [
+     805,
+     6
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XIV. De toto et parte"
+  },
+  {
+   "scan": 806,
+   "line": 17,
+   "lines": [
+    [
+     806,
+     17
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XV. De terminis externis"
+  },
+  {
+   "scan": 808,
+   "line": 7,
+   "lines": [
+    [
+     808,
+     7
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XVI. De termino dictionis ortae"
+  },
+  {
+   "scan": 810,
+   "line": 6,
+   "lines": [
+    [
+     810,
+     6
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XVII. De definitione rei"
+  },
+  {
+   "scan": 815,
+   "line": 2,
+   "lines": [
+    [
+     815,
+     2
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XVII. De divisione"
+  },
+  {
+   "scan": 817,
+   "line": 11,
+   "lines": [
+    [
+     817,
+     11
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XVIII. De rerum comparatione sive cognatione"
+  },
+  {
+   "scan": 819,
+   "line": 9,
+   "lines": [
+    [
+     819,
+     9
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XIX. De rerum distinctione seu diversitate"
+  },
+  {
+   "scan": 822,
+   "line": 2,
+   "lines": [
+    [
+     822,
+     2
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XX. De oppositione"
+  },
+  {
+   "scan": 825,
+   "line": 35,
+   "lines": [
+    [
+     825,
+     35
+    ],
+    [
+     825,
+     36
+    ]
+   ],
+   "level": 2,
+   "title": "Liber II. De propositione"
+  },
+  {
+   "scan": 825,
+   "line": 37,
+   "lines": [
+    [
+     825,
+     37
+    ]
+   ],
+   "level": 4,
+   "title": "Caput I. De propositionis simplicis constitutione"
+  },
+  {
+   "scan": 828,
+   "line": 11,
+   "lines": [
+    [
+     828,
+     11
+    ]
+   ],
+   "level": 4,
+   "title": "Caput II. Divisiones propositionis simplicis"
+  },
+  {
+   "scan": 831,
+   "line": 3,
+   "lines": [
+    [
+     831,
+     3
+    ],
+    [
+     831,
+     4
+    ]
+   ],
+   "level": 4,
+   "title": "Caput III. De propositionum conversione"
+  },
+  {
+   "scan": 832,
+   "line": 15,
+   "lines": [
+    [
+     832,
+     15
+    ]
+   ],
+   "level": 4,
+   "title": "Caput IV. De oppositione"
+  },
+  {
+   "scan": 834,
+   "line": 13,
+   "lines": [
+    [
+     834,
+     13
+    ]
+   ],
+   "level": 4,
+   "title": "Caput V. De propositione composita"
+  },
+  {
+   "scan": 837,
+   "line": 11,
+   "lines": [
+    [
+     837,
+     11
+    ]
+   ],
+   "level": 4,
+   "title": "Caput VI. De propositione certae materiae"
+  },
+  {
+   "scan": 841,
+   "line": 2,
+   "lines": [
+    [
+     841,
+     2
+    ],
+    [
+     841,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Liber III. De syllogismo et methodo"
+  },
+  {
+   "scan": 841,
+   "line": 4,
+   "lines": [
+    [
+     841,
+     4
+    ]
+   ],
+   "level": 4,
+   "title": "Caput I. De syllogismi constitutione"
+  },
+  {
+   "scan": 846,
+   "line": 4,
+   "lines": [
+    [
+     846,
+     4
+    ]
+   ],
+   "level": 4,
+   "title": "Caput II. Syllogismi canones generales et omnibus figuris communes"
+  },
+  {
+   "scan": 850,
+   "line": 7,
+   "lines": [
+    [
+     850,
+     7
+    ],
+    [
+     850,
+     8
+    ]
+   ],
+   "level": 4,
+   "title": "Caput III. De prima figura syllogismorum"
+  },
+  {
+   "scan": 854,
+   "line": 22,
+   "lines": [
+    [
+     854,
+     22
+    ]
+   ],
+   "level": 4,
+   "title": "Caput IV. De secunda figura"
+  },
+  {
+   "scan": 856,
+   "line": 24,
+   "lines": [
+    [
+     856,
+     24
+    ]
+   ],
+   "level": 4,
+   "title": "Caput V. De tertia figura"
+  },
+  {
+   "scan": 859,
+   "line": 4,
+   "lines": [
+    [
+     859,
+     4
+    ]
+   ],
+   "level": 4,
+   "title": "Caput VI. De syllogismo imperfecto ratione partium, atque adeo de enthymemate, inductione et sorite"
+  },
+  {
+   "scan": 869,
+   "line": 4,
+   "lines": [
+    [
+     869,
+     4
+    ]
+   ],
+   "level": 4,
+   "title": "Caput VII. De syllogismis imperfectis ratione propositionum compositarum"
+  },
+  {
+   "scan": 876,
+   "line": 8,
+   "lines": [
+    [
+     876,
+     8
+    ]
+   ],
+   "level": 4,
+   "title": "Caput VIII. De locis inventionis syllogisticae in genere"
+  },
+  {
+   "scan": 885,
+   "line": 4,
+   "lines": [
+    [
+     885,
+     4
+    ]
+   ],
+   "level": 4,
+   "title": "Caput IX. De inventione argumenti probabilis, sive contingentis ex notatione et coniugatis"
+  },
+  {
+   "scan": 888,
+   "line": 5,
+   "lines": [
+    [
+     888,
+     5
+    ]
+   ],
+   "level": 4,
+   "title": "Caput X. De medio contingenti, sive probabili ex locis internis"
+  },
+  {
+   "scan": 892,
+   "line": 11,
+   "lines": [
+    [
+     892,
+     11
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XI. De medio contingenti et locis terminorum externorum"
+  },
+  {
+   "scan": 894,
+   "line": 14,
+   "lines": [
+    [
+     894,
+     14
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XII. De medio contingenti ex loco descriptionis et consentaneae comparationis"
+  },
+  {
+   "scan": 902,
+   "line": 8,
+   "lines": [
+    [
+     902,
+     8
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XIII. De locis comparationis differentiae"
+  },
+  {
+   "scan": 905,
+   "line": 6,
+   "lines": [
+    [
+     905,
+     6
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XIV. De medio contingenti ex loco inartificiali"
+  },
+  {
+   "scan": 908,
+   "line": 5,
+   "lines": [
+    [
+     908,
+     5
+    ],
+    [
+     908,
+     6
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XV. De syllogismo necessario in genere, et de eius divisione"
+  },
+  {
+   "scan": 914,
+   "line": 11,
+   "lines": [
+    [
+     914,
+     11
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XVI. De loco generis, speciei, individui, materiae et formae"
+  },
+  {
+   "scan": 917,
+   "line": 5,
+   "lines": [
+    [
+     917,
+     5
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XVII. Locus subiecti et accidentis proprii, totius item et partium"
+  },
+  {
+   "scan": 921,
+   "line": 6,
+   "lines": [
+    [
+     921,
+     6
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XVIII. Loci necessarii externi"
+  },
+  {
+   "scan": 925,
+   "line": 7,
+   "lines": [
+    [
+     925,
+     7
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XIX. Locus definitionis et divisionis"
+  },
+  {
+   "scan": 928,
+   "line": 2,
+   "lines": [
+    [
+     928,
+     2
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XX. Locus comparatorum, diversorum et oppositorum"
+  },
+  {
+   "scan": 934,
+   "line": 26,
+   "lines": [
+    [
+     934,
+     26
+    ],
+    [
+     934,
+     27
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XXI. Locus testimonii necessarii"
+  },
+  {
+   "scan": 942,
+   "line": 4,
+   "lines": [
+    [
+     942,
+     4
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XXII. De demonstratione"
+  },
+  {
+   "scan": 948,
+   "line": 8,
+   "lines": [
+    [
+     948,
+     8
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XXIII. Demonstratio"
+  },
+  {
+   "scan": 955,
+   "line": 2,
+   "lines": [
+    [
+     955,
+     2
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XXIV. De syllogismo in speciem boni et veri, id est, de sophistico"
+  },
+  {
+   "scan": 963,
+   "line": 11,
+   "lines": [
+    [
+     963,
+     11
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XXV. De fallaciis extra dictionem"
+  },
+  {
+   "scan": 968,
+   "line": 21,
+   "lines": [
+    [
+     968,
+     21
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XXVI. De fallaciarum solutione"
+  },
+  {
+   "scan": 986,
+   "line": 1,
+   "lines": [
+    [
+     986,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Systema rhetoricae, in quo artis praecepta plene et methodice traduntur"
+  },
+  {
+   "scan": 986,
+   "line": 3,
+   "lines": [
+    [
+     986,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Liber I. De thematis oratorii tractatione"
+  },
+  {
+   "scan": 986,
+   "line": 4,
+   "lines": [
+    [
+     986,
+     4
+    ]
+   ],
+   "level": 4,
+   "title": "Caput I. De eloquentiae siue rhetoricae natura, id est obiecto, fine & partibus"
+  },
+  {
+   "scan": 989,
+   "line": 11,
+   "lines": [
+    [
+     989,
+     11
+    ]
+   ],
+   "level": 4,
+   "title": "Caput II. De tractatione oratoria thematis simplicis"
+  },
+  {
+   "scan": 995,
+   "line": 8,
+   "lines": [
+    [
+     995,
+     8
+    ]
+   ],
+   "level": 4,
+   "title": "Caput III. De explicatione oratoria thematum imperfectorum"
+  },
+  {
+   "scan": 997,
+   "line": 10,
+   "lines": [
+    [
+     997,
+     10
+    ]
+   ],
+   "level": 4,
+   "title": "Caput IV. De explicatione thematis accidentalis singularis"
+  },
+  {
+   "scan": 998,
+   "line": 6,
+   "lines": [
+    [
+     998,
+     6
+    ]
+   ],
+   "level": 4,
+   "title": "Caput V. De aliis thematibus imperfectis: eorumq; oratoria explicatione"
+  },
+  {
+   "scan": 1003,
+   "line": 5,
+   "lines": [
+    [
+     1003,
+     5
+    ]
+   ],
+   "level": 4,
+   "title": "Caput VI. De argumentis probantibus: & primo quidem de iis quibus probatur aliquid esse verum aut falsum"
+  },
+  {
+   "scan": 1010,
+   "line": 1,
+   "lines": [
+    [
+     1010,
+     1
+    ]
+   ],
+   "level": 4,
+   "title": "Caput VII. De amplificatione in genere, & in specie de dilatatione"
+  },
+  {
+   "scan": 1020,
+   "line": 4,
+   "lines": [
+    [
+     1020,
+     4
+    ]
+   ],
+   "level": 4,
+   "title": "Caput VIII. De exaggeratione"
+  },
+  {
+   "scan": 1023,
+   "line": 6,
+   "lines": [
+    [
+     1023,
+     6
+    ]
+   ],
+   "level": 4,
+   "title": "Caput IX. De dispositione oratoria in genere"
+  },
+  {
+   "scan": 1027,
+   "line": 8,
+   "lines": [
+    [
+     1027,
+     8
+    ],
+    [
+     1027,
+     9
+    ]
+   ],
+   "level": 4,
+   "title": "Caput X. De partibus orationis internis"
+  },
+  {
+   "scan": 1034,
+   "line": 4,
+   "lines": [
+    [
+     1034,
+     4
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XI. De exordio"
+  },
+  {
+   "scan": 1039,
+   "line": 10,
+   "lines": [
+    [
+     1039,
+     10
+    ]
+   ],
+   "level": 2,
+   "title": "Liber II. De tractatorum exornatione"
+  },
+  {
+   "scan": 1039,
+   "line": 11,
+   "lines": [
+    [
+     1039,
+     11
+    ]
+   ],
+   "level": 4,
+   "title": "Caput I. De exornatione siue elocutione in genere"
+  },
+  {
+   "scan": 1043,
+   "line": 7,
+   "lines": [
+    [
+     1043,
+     7
+    ]
+   ],
+   "level": 4,
+   "title": "Caput II. De tropis"
+  },
+  {
+   "scan": 1048,
+   "line": 4,
+   "lines": [
+    [
+     1048,
+     4
+    ]
+   ],
+   "level": 4,
+   "title": "Caput III. De synecdoche"
+  },
+  {
+   "scan": 1050,
+   "line": 3,
+   "lines": [
+    [
+     1050,
+     3
+    ]
+   ],
+   "level": 4,
+   "title": "Caput IV. De metaphora"
+  },
+  {
+   "scan": 1052,
+   "line": 7,
+   "lines": [
+    [
+     1052,
+     7
+    ]
+   ],
+   "level": 4,
+   "title": "Caput V. De ironia"
+  },
+  {
+   "scan": 1053,
+   "line": 6,
+   "lines": [
+    [
+     1053,
+     6
+    ]
+   ],
+   "level": 4,
+   "title": "Caput VI. De tropo relatiue considerato, nempe de emphasi, hyperbole, & miosi"
+  },
+  {
+   "scan": 1054,
+   "line": 13,
+   "lines": [
+    [
+     1054,
+     13
+    ]
+   ],
+   "level": 4,
+   "title": "Caput VII. De tropo improprie dicto"
+  },
+  {
+   "scan": 1056,
+   "line": 3,
+   "lines": [
+    [
+     1056,
+     3
+    ]
+   ],
+   "level": 4,
+   "title": "Caput VIII. De tropis coniunctae vocis"
+  },
+  {
+   "scan": 1059,
+   "line": 7,
+   "lines": [
+    [
+     1059,
+     7
+    ]
+   ],
+   "level": 4,
+   "title": "Caput IX. De formulis"
+  },
+  {
+   "scan": 1060,
+   "line": 5,
+   "lines": [
+    [
+     1060,
+     5
+    ]
+   ],
+   "level": 4,
+   "title": "Caput X. De sententia"
+  },
+  {
+   "scan": 1064,
+   "line": 16,
+   "lines": [
+    [
+     1064,
+     16
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XI. De figurata oratione in genere"
+  },
+  {
+   "scan": 1066,
+   "line": 6,
+   "lines": [
+    [
+     1066,
+     6
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XII. De figuris sententiae pertinentibus ad explicationem"
+  },
+  {
+   "scan": 1067,
+   "line": 17,
+   "lines": [
+    [
+     1067,
+     17
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XIII. De figuris exornantibus probationem"
+  },
+  {
+   "scan": 1070,
+   "line": 6,
+   "lines": [
+    [
+     1070,
+     6
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XIV. De figuris pertinentibus ad amplificationem & exaggerationem, simulque ad dispositionem"
+  },
+  {
+   "scan": 1072,
+   "line": 20,
+   "lines": [
+    [
+     1072,
+     20
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XV. De figuris peculiariter ornantibus expressionem affectuum"
+  },
+  {
+   "scan": 1075,
+   "line": 19,
+   "lines": [
+    [
+     1075,
+     19
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XVI. De figuris ad alium magis relatis"
+  },
+  {
+   "scan": 1080,
+   "line": 2,
+   "lines": [
+    [
+     1080,
+     2
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XVII. De figuris affectuum specialibus"
+  },
+  {
+   "scan": 1081,
+   "line": 22,
+   "lines": [
+    [
+     1081,
+     22
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XVIII. De figuris verborum communibus"
+  },
+  {
+   "scan": 1084,
+   "line": 8,
+   "lines": [
+    [
+     1084,
+     8
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XIX. De figuris verborum magis principalibus & propriis"
+  },
+  {
+   "scan": 1090,
+   "line": 8,
+   "lines": [
+    [
+     1090,
+     8
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XX. De sono concinnitate, siue euphonia"
+  },
+  {
+   "scan": 1095,
+   "line": 18,
+   "lines": [
+    [
+     1095,
+     18
+    ],
+    [
+     1095,
+     19
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XXI. De numero oratorio"
+  },
+  {
+   "scan": 1100,
+   "line": 16,
+   "lines": [
+    [
+     1100,
+     16
+    ],
+    [
+     1100,
+     17
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XXII. De orationis structura & intervallis"
+  },
+  {
+   "scan": 1120,
+   "line": 5,
+   "lines": [
+    [
+     1120,
+     5
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XXIII. De ornatu orationis ex copia"
+  },
+  {
+   "scan": 1129,
+   "line": 3,
+   "lines": [
+    [
+     1129,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Liber III. De habenda oratione"
+  },
+  {
+   "scan": 1129,
+   "line": 4,
+   "lines": [
+    [
+     1129,
+     4
+    ]
+   ],
+   "level": 4,
+   "title": "Caput I. De oratione memoriae mandanda"
+  },
+  {
+   "scan": 1140,
+   "line": 5,
+   "lines": [
+    [
+     1140,
+     5
+    ]
+   ],
+   "level": 4,
+   "title": "Caput II. De actione in genere"
+  },
+  {
+   "scan": 1143,
+   "line": 9,
+   "lines": [
+    [
+     1143,
+     9
+    ]
+   ],
+   "level": 4,
+   "title": "Caput III. De voce"
+  },
+  {
+   "scan": 1147,
+   "line": 16,
+   "lines": [
+    [
+     1147,
+     16
+    ]
+   ],
+   "level": 4,
+   "title": "Caput IV. De gestu in genere"
+  },
+  {
+   "scan": 1151,
+   "line": 1,
+   "lines": [
+    [
+     1151,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Liber I. Rhetoricae specialis"
+  },
+  {
+   "scan": 1151,
+   "line": 3,
+   "lines": [
+    [
+     1151,
+     3
+    ]
+   ],
+   "level": 4,
+   "title": "Caput I. In quo de orationis habendae subiecto, obiecto & circumstantiis"
+  },
+  {
+   "scan": 1156,
+   "line": 14,
+   "lines": [
+    [
+     1156,
+     14
+    ]
+   ],
+   "level": 4,
+   "title": "Caput II. De oratione dogmatica; & primo quid de oratione explicante thema perfectum"
+  },
+  {
+   "scan": 1158,
+   "line": 21,
+   "lines": [
+    [
+     1158,
+     21
+    ]
+   ],
+   "level": 4,
+   "title": "Caput III. De oratione dogmatica thematis simplicis imperfecti"
+  },
+  {
+   "scan": 1160,
+   "line": 7,
+   "lines": [
+    [
+     1160,
+     7
+    ]
+   ],
+   "level": 4,
+   "title": "Caput IV. De oratione explicante thema substantiale imperfectum: quod sit vel pars, vel collectivum quid"
+  },
+  {
+   "scan": 1161,
+   "line": 15,
+   "lines": [
+    [
+     1161,
+     15
+    ]
+   ],
+   "level": 4,
+   "title": "Caput V. De oratione explicante accidens imperfectum: & primo quidem de oratione explicante absoluta, quoad accidens singulare"
+  },
+  {
+   "scan": 1162,
+   "line": 13,
+   "lines": [
+    [
+     1162,
+     13
+    ]
+   ],
+   "level": 4,
+   "title": "Caput VI. De oratione explicante thema concretum accidentale collectivum, & denique accidens relativum"
+  },
+  {
+   "scan": 1165,
+   "line": 13,
+   "lines": [
+    [
+     1165,
+     13
+    ]
+   ],
+   "level": 4,
+   "title": "Caput VII. De imagine rei; deque privatione & oppositio relativo oratorie tractando"
+  },
+  {
+   "scan": 1167,
+   "line": 21,
+   "lines": [
+    [
+     1167,
+     21
+    ]
+   ],
+   "level": 4,
+   "title": "Caput VIII. De orationibus thematum coniunctorum: & primo quidem, de tractatione thematum coniunctorum magis theoreticorum"
+  },
+  {
+   "scan": 1169,
+   "line": 17,
+   "lines": [
+    [
+     1169,
+     17
+    ],
+    [
+     1169,
+     18
+    ]
+   ],
+   "level": 4,
+   "title": "Caput IX. De orationibus, quibus tractatur thema a primo ortum, siue magis practicum"
+  },
+  {
+   "scan": 1176,
+   "line": 5,
+   "lines": [
+    [
+     1176,
+     5
+    ]
+   ],
+   "level": 4,
+   "title": "Caput X. De motu affectuum in genere"
+  },
+  {
+   "scan": 1179,
+   "line": 7,
+   "lines": [
+    [
+     1179,
+     7
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XI. De affectu fixo, siue delectatione"
+  },
+  {
+   "scan": 1180,
+   "line": 15,
+   "lines": [
+    [
+     1180,
+     15
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XII. De affectibus variantibus, siue non perpetuis: & primo quidem de affectibus generalioribus"
+  },
+  {
+   "scan": 1184,
+   "line": 27,
+   "lines": [
+    [
+     1184,
+     27
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XIII. De mouendis affectibus specialioribus"
+  },
+  {
+   "scan": 1189,
+   "line": 2,
+   "lines": [
+    [
+     1189,
+     2
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XIV. De oratione affectuosa: & primo quidem de orationibus commendatoriis, petitoriis, & lamentatoriis, sive querulis"
+  },
+  {
+   "scan": 1191,
+   "line": 5,
+   "lines": [
+    [
+     1191,
+     5
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XV. De orationibus affectus magis coniuncti, & primo quidem de orationibus adhortatoriis, petitoriis, & consolatoriis"
+  },
+  {
+   "scan": 1194,
+   "line": 10,
+   "lines": [
+    [
+     1194,
+     10
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XVI. De formandis orationibus, quae pertinent ad affectum asperiorem"
+  },
+  {
+   "scan": 1202,
+   "line": 4,
+   "lines": [
+    [
+     1202,
+     4
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XVII. De oratione exprimente affectum nostrum: & primo quidem de oratione magis generali"
+  },
+  {
+   "scan": 1204,
+   "line": 12,
+   "lines": [
+    [
+     1204,
+     12
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XVIII. De orationibus specialibus affectum nostrum exprimentibus"
+  },
+  {
+   "scan": 1210,
+   "line": 7,
+   "lines": [
+    [
+     1210,
+     7
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XIX. De orationibus affectuosis generalibus mixtis: deque imperfecta orationum affectuosarum partitione"
+  },
+  {
+   "scan": 1211,
+   "line": 5,
+   "lines": [
+    [
+     1211,
+     5
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XX. De oratione affectuosa speciali: & primo quidem de orationibus moralibus seu ethicis"
+  },
+  {
+   "scan": 1213,
+   "line": 15,
+   "lines": [
+    [
+     1213,
+     15
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XXI. De formulis orationum oeconomicarum"
+  },
+  {
+   "scan": 1215,
+   "line": 17,
+   "lines": [
+    [
+     1215,
+     17
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XXII. De formulis orationum politicarum"
+  },
+  {
+   "scan": 1218,
+   "line": 9,
+   "lines": [
+    [
+     1218,
+     9
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XXIII. De formulis orationum iuridicarum"
+  },
+  {
+   "scan": 1219,
+   "line": 1,
+   "lines": [
+    [
+     1219,
+     1
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XXIV. De oratione adstricta textuali"
+  },
+  {
+   "scan": 1221,
+   "line": 2,
+   "lines": [
+    [
+     1221,
+     2
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XXV. De oratione adstricta responsoria"
+  },
+  {
+   "scan": 1222,
+   "line": 10,
+   "lines": [
+    [
+     1222,
+     10
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XXVI. De triplici charactere orationis in genere: & primo quidem de grandi"
+  },
+  {
+   "scan": 1233,
+   "line": 3,
+   "lines": [
+    [
+     1233,
+     3
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XXVII. De humili & mediocri dicendi genere; atque adeo etiam de mixto"
+  },
+  {
+   "scan": 1234,
+   "line": 9,
+   "lines": [
+    [
+     1234,
+     9
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XXVIII. De genere dicendi incitato & tracto, lentiori item & argutiori"
+  },
+  {
+   "scan": 1241,
+   "line": 3,
+   "lines": [
+    [
+     1241,
+     3
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XXIX. De dicendi genere exquisito; & minime exquisito"
+  },
+  {
+   "scan": 1242,
+   "line": 13,
+   "lines": [
+    [
+     1242,
+     13
+    ],
+    [
+     1242,
+     14
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XXX. De sermone imperfecto seu familiari; & primo quidem de colloquiis familiaribus"
+  },
+  {
+   "scan": 1245,
+   "line": 14,
+   "lines": [
+    [
+     1245,
+     14
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XXXI. De epistola in genere, & inprimis de eius partibus externis"
+  },
+  {
+   "scan": 1247,
+   "line": 22,
+   "lines": [
+    [
+     1247,
+     22
+    ],
+    [
+     1247,
+     23
+    ]
+   ],
+   "level": 4,
+   "title": "Caput XXXII. De partibus epistolae internis"
+  },
+  {
+   "scan": 1254,
+   "line": 1,
+   "lines": [
+    [
+     1254,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Liber II. Rhetoricae specialis. In quo pars orationis orta, siue de apparatu oratorio & resolutione"
+  },
+  {
+   "scan": 1254,
+   "line": 3,
+   "lines": [
+    [
+     1254,
+     3
+    ],
+    [
+     1254,
+     4
+    ]
+   ],
+   "level": 4,
+   "title": "Caput I. De electione & selectione"
+  },
+  {
+   "scan": 1263,
+   "line": 9,
+   "lines": [
+    [
+     1263,
+     9
+    ],
+    [
+     1263,
+     10
+    ]
+   ],
+   "level": 4,
+   "title": "Caput II. De exercitatione dicendi"
+  },
+  {
+   "scan": 1269,
+   "line": 1,
+   "lines": [
+    [
+     1269,
+     1
+    ]
+   ],
+   "level": 4,
+   "title": "Caput III. De apparatu oratorio orto, tam mediato quam extemporario"
+  },
+  {
+   "scan": 1273,
+   "line": 1,
+   "lines": [
+    [
+     1273,
+     1
+    ]
+   ],
+   "level": 4,
+   "title": "Caput IV. De apparatu orationis imperfectae, nempe familiaris & epistolicae"
+  },
+  {
+   "scan": 1277,
+   "line": 13,
+   "lines": [
+    [
+     1277,
+     13
+    ]
+   ],
+   "level": 2,
+   "title": "Liber et pars Rhetoricae. De resolutione prima orationis perfectae"
+  },
+  {
+   "scan": 1277,
+   "line": 14,
+   "lines": [
+    [
+     1277,
+     14
+    ]
+   ],
+   "level": 4,
+   "title": "Caput I. De resolutione prima orationis perfectae"
+  },
+  {
+   "scan": 1280,
+   "line": 3,
+   "lines": [
+    [
+     1280,
+     3
+    ]
+   ],
+   "level": 4,
+   "title": "Caput II. De resolutione orta"
+  },
+  {
+   "scan": 1283,
+   "line": 6,
+   "lines": [
+    [
+     1283,
+     6
+    ],
+    [
+     1283,
+     7
+    ]
+   ],
+   "level": 4,
+   "title": "Caput ultimum. De resolutione orationis imperfectae, sive colloquii familiaris & epistolae"
+  },
+  {
+   "scan": 1285,
+   "line": 1,
+   "lines": [
+    [
+     1285,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Introductio ad lectionem Ciceronis, et aliorum oratorum fructuosiorem"
+  },
+  {
+   "scan": 1285,
+   "line": 6,
+   "lines": [
+    [
+     1285,
+     6
+    ]
+   ],
+   "level": 4,
+   "title": "Caput prius. Quando & quibus Cicero legendus"
+  },
+  {
+   "scan": 1307,
+   "line": 1,
+   "lines": [
+    [
+     1307,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Rhetoricae ecclesiasticae, sive artis formandi et habendi conciones sacras"
+  },
+  {
+   "scan": 1307,
+   "line": 2,
+   "lines": [
+    [
+     1307,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "De Rhetoricae ecclesiasticae utilitate; deque authoris instituto. Praefatio ad pium & candidum lectorem"
+  },
+  {
+   "scan": 1313,
+   "line": 3,
+   "lines": [
+    [
+     1313,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Typus Rhetoricae ecclesiasticae"
+  },
+  {
+   "scan": 1313,
+   "line": 3,
+   "lines": [
+    [
+     1313,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Liber I. Rhetoricae ecclesiasticae"
+  },
+  {
+   "scan": 1315,
+   "line": 2,
+   "lines": [
+    [
+     1315,
+     2
+    ]
+   ],
+   "level": 4,
+   "title": "Caput I. De textuali inventione in genere"
+  },
+  {
+   "scan": 1318,
+   "line": 8,
+   "lines": [
+    [
+     1318,
+     8
+    ],
+    [
+     1318,
+     9
+    ]
+   ],
+   "level": 4,
+   "title": "Caput II. De praecognitione textus didactici"
+  },
+  {
+   "scan": 1319,
+   "line": 20,
+   "lines": [
+    [
+     1319,
+     20
+    ],
+    [
+     1319,
+     21
+    ]
+   ],
+   "level": 4,
+   "title": "Caput III. In quo canones generales mouendorum affectuum"
+  },
+  {
+   "scan": 1322,
+   "line": 13,
+   "lines": [
+    [
+     1322,
+     13
+    ],
+    [
+     1322,
+     14
+    ]
+   ],
+   "level": 4,
+   "title": "Caput IV. In quo canones speciales de certis affectibus traduntur"
+  },
+  {
+   "scan": 1324,
+   "line": 8,
+   "lines": [
+    [
+     1324,
+     8
+    ]
+   ],
+   "level": 4,
+   "title": "Caput V. De praecognitione textus mixti & historici"
+  },
+  {
+   "scan": 1325,
+   "line": 6,
+   "lines": [
+    [
+     1325,
+     6
+    ],
+    [
+     1325,
+     7
+    ]
+   ],
+   "level": 4,
+   "title": "Caput VI. De partitione textus"
+  },
+  {
+   "scan": 1326,
+   "line": 3,
+   "lines": [
+    [
+     1326,
+     3
+    ]
+   ],
+   "level": 4,
+   "title": "Caput VII. De verborum explicatione"
+  },
+  {
+   "scan": 1328,
+   "line": 9,
+   "lines": [
+    [
+     1328,
+     9
+    ]
+   ],
+   "level": 4,
+   "title": "Caput VIII. De amplificatione"
+  },
+  {
+   "scan": 1335,
+   "line": 7,
+   "lines": [
+    [
+     1335,
+     7
+    ],
+    [
+     1335,
+     8
+    ]
+   ],
+   "level": 4,
+   "title": "Caput IX. De applicatione"
+  },
+  {
+   "scan": 1337,
+   "line": 1,
+   "lines": [
+    [
+     1337,
+     1
+    ]
+   ],
+   "level": 4,
+   "title": "Caput X. De dispositione"
+  },
+  {
+   "scan": 1340,
+   "line": 7,
+   "lines": [
+    [
+     1340,
+     7
+    ]
+   ],
+   "level": 4,
+   "title": "Caput X. De exornatione"
+  },
+  {
+   "scan": 1343,
+   "line": 8,
+   "lines": [
+    [
+     1343,
+     8
+    ]
+   ],
+   "level": 2,
+   "title": "Liber II. In quo pars altera. De habenda concione sacra"
+  },
+  {
+   "scan": 1343,
+   "line": 9,
+   "lines": [
+    [
+     1343,
+     9
+    ]
+   ],
+   "level": 4,
+   "title": "Caput I. De voce"
+  },
+  {
+   "scan": 1346,
+   "line": 5,
+   "lines": [
+    [
+     1346,
+     5
+    ],
+    [
+     1346,
+     6
+    ]
+   ],
+   "level": 4,
+   "title": "Caput II. De gestibus"
+  },
+  {
+   "scan": 1347,
+   "line": 7,
+   "lines": [
+    [
+     1347,
+     7
+    ]
+   ],
+   "level": 4,
+   "title": "Caput postremum. In quo introductio ad usum praeceptorum traditorum"
+  },
+  {
+   "scan": 1353,
+   "line": 4,
+   "lines": [
+    [
+     1353,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Methodus formandi concionem"
+  },
+  {
+   "scan": 1354,
+   "line": 19,
+   "lines": [
+    [
+     1354,
+     19
+    ]
+   ],
+   "level": 2,
+   "title": "Tractatus de interpretatione ecclesiastica, D. Georgii Sohnii"
+  },
+  {
+   "scan": 1359,
+   "line": 2,
+   "lines": [
+    [
+     1359,
+     2
+    ],
+    [
+     1359,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "De ratione tractandarum quaestionum populariter, dialogus. Antonio Schoro auctore"
+  },
+  {
+   "scan": 1367,
+   "line": 2,
+   "lines": [
+    [
+     1367,
+     2
+    ]
+   ],
+   "level": 4,
+   "title": "De exordio"
+  },
+  {
+   "scan": 1368,
+   "line": 2,
+   "lines": [
+    [
+     1368,
+     2
+    ]
+   ],
+   "level": 4,
+   "title": "De narratione"
+  }
+ ],
+ "book": "Tomus primus of Bartholomaeus Keckermann's Systematis systematum (1613), a Latin volume of seven works on logic and rhetoric (Præcognita logica, Systema logicum maius, Gymnasium logicum, Systema logicum minus, Systema rhetoricum, Introductio ad eloquentiam, Rhetorica ecclesiastica), each built from books or tractatus, sections and numbered chapters; the sheet's headings cover only the first three works and the front matter, and the remaining works have no headings on the sheet.",
+ "series": [
+  {
+   "label": "",
+   "first": "I",
+   "last": "VII",
+   "count": 7,
+   "level": 1,
+   "found": 14
+  },
+  {
+   "label": "Tractatus",
+   "first": "I",
+   "last": "III",
+   "count": 3,
+   "level": 2,
+   "found": 24
+  },
+  {
+   "label": "Caput",
+   "first": "I",
+   "last": "III",
+   "count": 106,
+   "level": 4,
+   "found": 250
+  },
+  {
+   "label": "Liber",
+   "first": "I",
+   "last": "III",
+   "count": 3,
+   "level": 2,
+   "found": 24
+  },
+  {
+   "label": "Sectio",
+   "first": "prior",
+   "last": "posterior",
+   "count": 5,
+   "level": 3,
+   "found": 8
+  }
+ ],
+ "taste": 12,
+ "doubt": "",
+ "input": 220456,
+ "output": 97138
+}
