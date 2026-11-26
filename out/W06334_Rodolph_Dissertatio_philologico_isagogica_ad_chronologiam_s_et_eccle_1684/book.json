@@ -1,0 +1,4919 @@
+{
+ "source": "W06334_Rodolph_Dissertatio_philologico_isagogica_ad_chronologiam_s_et_eccle_1684.pdf",
+ "pages": [
+  {
+   "n": 1,
+   "type": "empty",
+   "model": "claude-haiku-5-5",
+   "notes": "Digitiser's cover sheet, not a page of the printed book. Omitted as page furniture: the e-rara and Visual Library logos, the digitiser's web links and the usage notes. For reference only, the title block gives: \"Dissertatio philologico-isagogica ad chronologiam s. et eccles. prima, de tempore in genere, die et septimana\", Rodolph, Johann Rudolph, Bernae, 1684, Universitätsbibliothek Bern."
+  },
+  {
+   "n": 2,
+   "type": "title",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": null,
+     "text": "DISSERTATIO PHILOLOGICO-ISAGOGICA",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "AD CHRONOLOGIAM S. ET ECCLES.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "PRIMA.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "De",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "TEMPORE IN GENERE,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "DIE ET SEPTIMANA.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Quam",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Deo, summo rerum & temporum Arbitro,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "favente,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "PRÆSIDE",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "DN. JOH. ROD. RODOLPHO,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "V.D.M. Linguæ Sanctæ & Ethices in Gymnasio",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Bern. Professore Ordinario, Mæcenate ac Fautore suo",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "nunquam satis demerendo, colendo,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Publicè pro viribus defendendam in se suscipit",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "DANIEL VULPIUS, H. Bernas",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "S. S. Theol. Stud.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Ad diem Maji horis locoq; solitis.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Ad numerandum dies nostros, sic facias cognoscere;",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "ut accipiamus cor sapientiæ. Psalm. 90. v. 12.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "BERNÆ,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Ex Officina Typogr. ILLUSTRISS. REIP. BERNENSIS.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Per Andream Hügenetum, M DC LXXXIV.",
+     "heading": 0
+    }
+   ],
+   "notes": "The woodcut ornament between \"Ad diem\" and \"Ad numerandum\" is an engraved putti-and-wreath device, not text. The printed date reads MDCLXXXIV in the scan; \"Ad diem\" line uses a long-s-free reading as printed. Doubtful: \"locoq;\" is read as printed, and the word \"Ad\" before \"diem\" is in script-like type. Some words in the printed title are partly obscured by a diagonal pencil stroke near \"VULPIUS\" and \"RODOLPHO\", which do not prevent reading."
+  },
+  {
+   "n": 3,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "VIRO",
+     "heading": 1,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "CONSULTISSIMO, PRUDENTISSIMO",
+     "heading": 1
+    },
+    {
+     "n": 3,
+     "text": "AC LITERATISSIMO,",
+     "heading": 1
+    },
+    {
+     "n": 4,
+     "text": "DN. DANIELI IMHOOF,",
+     "heading": 1
+    },
+    {
+     "n": 5,
+     "text": "PRÆFECTURIS GRANDISONENSI",
+     "heading": 1
+    },
+    {
+     "n": 6,
+     "text": "ET LAUSANNENSI",
+     "heading": 1
+    },
+    {
+     "n": 7,
+     "text": "SUMMA CUM LAUDE DEFUNCTO,",
+     "heading": 1
+    },
+    {
+     "n": 8,
+     "text": "E SACRO BAPTISMATIS FONTE",
+     "heading": 1
+    },
+    {
+     "n": 9,
+     "text": "SUSCEPTORI SUO BENIGNISSIMO,",
+     "heading": 1
+    },
+    {
+     "n": 10,
+     "text": "TANQUAM PATRI",
+     "heading": 1
+    },
+    {
+     "n": 11,
+     "text": "OMNI HONORIS GENERE",
+     "heading": 1
+    },
+    {
+     "n": 12,
+     "text": "SUSPICIUNDO.",
+     "heading": 1
+    },
+    {
+     "n": 13,
+     "text": "Disputationem hancce humillimè",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 14,
+     "text": "dicat, dedicat, offert",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "DANIEL VULPIUS, Resp.",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "notes": "The woodcut border at the top is an ornament and is not transcribed. The text is set in several sizes of capitals, so the heading is given as one block. The closing line \"Disputationem hancce humillimè dicat, dedicat, offert\" is printed in small type and the signature line is set in small capitals with a larger initial letter for each name."
+  },
+  {
+   "n": 4,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "DISSERTATIO PHILOLOGICO-",
+     "heading": 1,
+     "caput": "1",
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "ISAGOGICA AD CHRONOLOGIAM",
+     "heading": 1,
+     "caput": "1"
+    },
+    {
+     "n": 3,
+     "text": "S. ET ECCLES. PRIMA.",
+     "heading": 1,
+     "caput": "1"
+    },
+    {
+     "n": 4,
+     "text": "De TEMPORE IN GENERE,",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "DIE ET SEPTIMANA.",
+     "heading": 2
+    },
+    {
+     "n": 6,
+     "text": "DOctrinam temporis, saltem isa-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "gogicam, cum Philologia S. conjun-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "ctissimam, non immeritò ad θεοπνευ-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "στίαν & apparatum Studii Theologici",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "requirunt, qui tyronibus de recta ejus",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "feliciter instituendi ratione praeci-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "piunt. Necessitatem etiam fatebuntur",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "haud inviti, quotquot olim futuri Sacrarum Literatum",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "interpretes non in facilimis tantùm & obviis consistere",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "volunt, sed, qua sunt erectiori indole praediti, ad",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "amplioris cognitionis profectum in Scripturis & Historia",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "cùm sacra, tùm Ecclesiastica, quatenus possunt de-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "bentque, contendunt. Qua etiam de causa iis, qui privatâ",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "nostrâ qualicunque opellâ in Philologia Hebr. hactenus",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "utuntur, exercendis hanc & secuturas aliquot, si",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "Deus dederit, dissertatiunculas destinamus. Interea verò,",
+     "heading": 0
+    }
+   ],
+   "catchword": "ut",
+   "signature": "A 2",
+   "notes": "The initial D is a large woodcut letter, joined to the first word as \"Doctrinam\". The Greek word in the text is set across a line end and is only partly legible in the scan; the reading θεοπνευστίαν is my best reconstruction. The heading \"De\" is in a decorative script and is set as a separate line. The signature \"A 2\" appears at the foot left; the catchword \"ut\" at the foot right."
+  },
+  {
+   "n": 5,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: notum"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "ut nemini discipulorum latam volumus legem addis-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "cendi, quæ omittere facilius, quàm contemnere possit:",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "Ita non moramur contemptores animos, qui vel suorum",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "modò studiorum cupidi, quæ non ipsi tractant, temerè",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "& superciliose despiciunt; vel vitâ Vacunæ consecratâ,",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "<i>profusissimi in eo, cujus unius honesta avaritia est,</i> per iner-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "tiam, <i>desidiosamve occupationem,</i> non hæc nostra solùm",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "sacra, sed bonas quasque literas, damno nunquam satis",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "pœnitendo, negligunt.",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "Tempus in Genere.",
+     "heading": 1,
+     "para": true
+    },
+    {
+     "n": 11,
+     "text": "<i>§. 1.</i> Temporis consideratio <i>Historica</i> est, vel <i>Technica.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 12,
+     "text": "Hæc illi Isagoges loco præmittenda. Constituimus igi-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "tur primùm agere de Tempore in genere, ejusque dein-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "ceps pro varietate partium varia supputandi ratione.",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "<i>Tempus oritur ex comparatione durationis eorum, quæ existere</i>",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "<i>contingit, cum duratione motuum illorum æquabilium, quos è</i>",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "<i>terra in cælo observamus.</i> Ut proinde tempus nihil præter",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "modum cogitandi durationi generaliter sumptæ super-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "addat. Hunc unum, eumque facilem, conceptum si re-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "tineamus, non erit cur de ulla naturam temporis inve-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "stigandi difficultate queramur. Difficilem verò eam",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "indagationem reddit, quòd tempus ut absolutum quid in",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "rebus ante rationem inesse fingitur, atque adeò ubi in-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "veniri nequit, inquiritur. Inde temporis in <i>Metaphysicum,</i>",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "<i>Physicum, Mathematicum, Astronomicum, Politicum</i> nata di-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "stributio supervacanea est, tempore per se non variante,",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "nisi quod Calculi Astronomici minutiæ ad usum civi-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "lem non facile attemperantur. Unde tempus aliud <i>Astro-</i>",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "<i>nomicum, Civile</i> aliud constituitur: quo de suo loco.",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "<i>§. 2.</i> Comparari durationem hujus cum duratione",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 31,
+     "text": "illius velut mensurâ, ut tempus designetur, in vulgus",
+     "heading": 0
+    }
+   ],
+   "catchword": "notum",
+   "notes": "Two lines at the foot are partly obscured or faint; the marginal 'Tempus' heading is set in larger type. The word \"notum\" at the very foot is set right-aligned and may be a catchword-like end of the line rather than a separate element."
+  },
+  {
+   "n": 6,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: dicitur"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "notum est. Tantum morae huic illive negotiolo expe-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "diendo destinant homines e trivio loquentes, quantum",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "postulat, exempli causa, bis ter iteranda hæc vel",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "illa precum formula. Scitum est illud Plautini parasiti scioc-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "tericorum inventori male precantis, quòd ad definienda",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "prandendi coenandiqué tempora arte, quàm ventre,",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "uti mallet;",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "<i>Ut illum Dÿ perdant, primus qui horas repperit,</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 9,
+     "text": "<i>Quiq, adeò primus hic statuit solarium.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 10,
+     "text": "<i>Qui mihi comminuit misero articulatim diem.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 11,
+     "text": "<i>Nam me puero uterus hic erat solarium</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 12,
+     "text": "<i>Multò omnium istorum optumum & verissimum.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 13,
+     "text": "<i>Ubi iste monebat esse: nisi cum nihil erat.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 14,
+     "text": "<i>Nunc etiam quod est, non est, nisi soli lubet.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 15,
+     "text": "<i>Itaq; adeò jam oppletum est oppidum solariis.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 16,
+     "text": "<i>Major pars populi aridi reptant fame.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 17,
+     "text": "Sic ex ventre sapiunt qui pecudis vitam vivere amant.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 18,
+     "text": "Mensuram durationi rerum casuumque definiendæ,",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "universalem, familiarem & æquabilem depoícunt vita",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "hominum, negotiorumque vitæ necessitas. Atque talis est",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "præcipuè Solis & Lunæ motus, quo quidem in mundo",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "aspectabili vix familiarius quicquam, universalius",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "& æquabilius Terræ incolis apparet. Ut adeò commodis-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "simè vicem mensuræ præbere queat. Eum etiam in",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "usum Deus isthæc luminaria jussit esse <i>in expanso cœli,</i> ut essent",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "nimirum <i>in signa, in tempora, in dies & annos. Gen.1.14.</i>",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "Possunt quidem & alia astra illi servire usui, tametsi",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "modò non perinde facili: Unde annus magnus sidereus,",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "Saturninus, Jovialis, Martialis, apud Astronomos. Sed",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "solis præcipuus est usus, quippe primus, obvius & facilis,",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "atque ideò in rationibus aliorum motuum coelestium",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "adhibendus: exempli gratiâ; quando Saturni periodus",
+     "heading": 0
+    }
+   ],
+   "catchword": "dicitur",
+   "signature": "A 3",
+   "notes": "Verse lines are italic; \"Quiq,\" and \"Itaq;\" carry a long-tailed q mark as printed. The reference \"Gen.1.14.\" is italic in the text. Page number not printed; running head absent."
+  },
+  {
+   "n": 7,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "number": "11",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: habet"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "dicitur dierum 10747. 18. 59. &c. hoc est annorum Ægy-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "ptiorum 29. dierum 162. Julianorum 29. d. 155. Sic supe-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "riorum Planetarum, Saturni & Jovis, per 4 trigonos,",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "omnia Zodiaci signa complectentes, revolutio, octin-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "gentis fere annis absolvenda semel, pro temporum men-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "sura quadam adhiberi potest, ut factum videmus à Cl.",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "D. Megerl, in <i>tab. Math. hist.</i> Modò ne quæ cum octinge-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "nario quolibet coincidunt memorabilia rerum eventa,",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "ut <i>raptus Enochi, diluvium, exitus Israel ex Ægypto</i> &c. è cœli",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "schemate & astrorum influxu suspendantur, quæ damna-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "bilis <i>Astrologiæ judiciariæ</i> superstitio est, Judæis <i>Præcepto-</i>",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "<i>rum Negativ. domo 1. præc. 36.</i> interdicta. Hactenus ergo",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "tempus notat durationem integræ solis revolutioni diur-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "næ sive periodicæ; vel unius integræ tot vel tot parti-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "bus aliquotis, seu aliquantis; vel plurium revolutionum",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "ὁμοίως, respondentem. Ut qui quid diem durâsse dicit,",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "durationem uni solis revolutioni circa tellurem æqui-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "parandam significet. Cæterum tempori subsunt, <i>quæ existere contingit:</i> Ut proinde duratio Dei, quippe im-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "mensa, non minus absurdè tempus dici, quàm tempus",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "infinitum à redivivis Photinianis fingi queat.",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "Ὀξυμωρον est, quando Scriptura S. æternitatem indicat per com-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "binationem temporis cum re, quam tempus non fert;",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "aut cum negatione ejus, quod temporis ratio flagitat.",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "Sic Dan. 7. 9. יומין עתיק <i>permanens diebus,</i> cujus dies non",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "abeunt, ut nostri, sed manent. Psalm. 102. 28. <i>Tu idem es,</i>",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "<i>& anni tui non finiuntur.</i> Ita generatio filij jam pridem",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "viventis & unâi attribuitur <i>huic diei.</i> Psal. 2. 7. Nempe cui",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "potest omni tempore dici à Deo, <i>ego hodie genui te,</i> & qui-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "dem ita, ut nulli creaturæ simile quid dictum sit, ejus",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "æterna ex Deo generatio est, h. e. fine initio & fine vitam",
+     "heading": 0
+    }
+   ],
+   "catchword": "habet",
+   "notes": "Catchword \"habet\" printed at right foot; the text is set in a single column. Greek and Hebrew words are copied as best as legible; the Hebrew on the Daniel line and the Greek words are doubtful. \"unâi\" is uncertain (likely \"unctí\")."
+  },
+  {
+   "n": 8,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: matutina"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "habet in se propter Deum, qui vitam habet in se. Joh.",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "5.26. Hæc de tempore in genere dicta sufficiant.",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "Dies, ejusque distinctio & divisio.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "§.3. Motus solis unicus est, quippe unam duntaxat",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "conversione suî lineam describentis: nihilominùs di-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "stinctioris doctrinæ gratiâ ut duplex, <i>primus</i>, qui diur-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "nus, & <i>secundus</i>, qui annuus est, considerari solet. De",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "vero istius motùs subjecto intempestiva hic esset quæ-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "stio. Prout autem Solis orbita in partes variæ denomi-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "nationis dividi potest, sic varia etiam temporis dividendi",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "ratio est. Atque hinc prima omniumque maximè obser-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "vabilis, in Creationis historia primùm etiam notata, tem-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "poris pars <i>Dies</i> est: mora scil. æqualis illi, quam trahit",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "sol, dum motu primo semel revolvitur circa tellurem.",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "Distinctionis gratiâ vocatur <i>naturalis</i>. Ejus enim pars,",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "quæ moræ solis supra Horizontem debetur, <i>diei artifi-</i>",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "<i>cialis</i>; residua, sole infra Horiz. morante, <i>noctis</i> nomine",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "venire solet. To νυχθήμερον, <i>quod est spatium viginti qua-</i>",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "<i>tuor horarum</i>, Daniel eleganter vocat ערב בקר q. d. ὀ ἡμερήσιον, <i>tuor horarum, Daniel</i>",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "<i>eleganter vocat</i> initiô diei civilis sumptô Judaicè ab eo tempore, quod proxi-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "mè solem occasum sequitur. Scalig. <i>de Emend. temp. lib. 1.</i> Nec",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "tamen inde satis est causæ, cur hanc diei naturalis usita-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "tam appellationem Hebræis fuisse dicamus. Nec rectè",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "Abarbenel, qui in <i>Majene hajeschuah</i> sol. 56. 2. numerum",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "Danielis cap. 8. 14. nec de septimanis, nec de mensibus",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "intelligendum contendit, hinc כהכרח יש לנו לפרש המספר",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "הוה על השנים <i>necessariò de annis exponendum esse</i> con-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "cludit: non quidem de annis calamitatis ab Antiocho",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "illatæ, verùm illius, in qua jam versantur Judæi. Sed",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "fingit ipse Danielem dicere, quod non dicit. Nec enim",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "habet, à vespera ad manè esse 2300: sed vesperas &",
+     "heading": 0
+    }
+   ],
+   "catchword": "matutina",
+   "notes": "The Greek and Hebrew words are printed in a small type and may be misread; the Greek \"ὀ ἡμερήσιον\" and the Hebrew \"ערב בקר\" and \"כהכרח יש לנו לפרש המספר הוה על השנים\" are copied as seen. The line \"tuor horarum, Daniel eleganter vocat\" is set in italic and repeats the earlier \"quod est spatium\" line, so it is copied as printed. The final word \"matutina\" is the catchword."
+  },
+  {
+   "n": 9,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "matutina 2³00 fore, tum justificatum iri Sanctum. Po-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "nuntur adeo partes diei pro die, sed ænigmatica allu-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "sione, quâ forte jugis sacrificii, quod mane & vesperi of-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "ferebatur, ablatio innuitur. Alioqui □ⁿ dici pro more,",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "quod die & nocte constat, arguit Gen. 1. 5. & vocis usus.",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "§. 4. Idem dies quatenus certo partium (veluti 24.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "hor.) numero definitur, <i>naturalis</i> est. Quatenus aliud",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "atque aliud initium habet, <i>civilis</i> dicitur Scaligero; aliis",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "<i>civilem & artificialem</i> confundentibus. Initium autem",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "Diei ab Horizonte velut lucis tenebrarumque termino",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "arcessi naturæ quàm maximè congruum videtur: indi-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "dem etiam primitùs arcessitum probat historia Creatio-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "nis, atque hinc nata apud Judæos consuetudo. Secùs",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "tamen visum Astronomis in Sphæra obliqua, ob alterna",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "dierum noctiumque incrementa & decrem. intercisa",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "quasi lucis & tenebrarum vicissitudine à circulo meridia-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "no constantiori, atque adeo à meridie vel media nocte",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "diem inchoantibus. Qui populi quem morem hac",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "in parte sequantur, passim docent Authores. Macrobius",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "inter alia ex Varrone refert; <i>Athenienses à solis occasu ad</i>",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "<i>solem iterum occidentem, omne id medium tempus, unum diem</i>",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "<i>esse dicere. Babylonios porrò aliter: à sole enim exorto, ad</i>",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "<i>exortum ejusdem incipientem, id spatium unius diei nomine</i>",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "<i>vocare. Umbros verò unum & eundem diem esse dicere, à</i>",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "<i>meridie ad seq. meridiem. Populum autem Rom. dies singulos</i>",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "<i>annumerare à media nocte ad mediam proximam &c. Saturnal.</i>",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "<i>lib. 1. cap. 3.</i> Nobis certum est sectari præcipuè quæ Phi-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "lologiam S. propiùs spectant. Judæi diem auspicantur",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "ab occasu solis, h. e. ab hora sexta promerid. hinc si con-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "tingat novilunium ante 18. hor. diei, h. e. ante punctum",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "meridiei, luna dicitur prima eodem die, & figitur in eo",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "neomenia mensis. Sin conjunctio luminarium incidat post",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "Saturnal. lib. 1. cap. 3.",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "catchword": "post",
+   "notes": "The text at the top is partly cut and lightly faded; a stamp-like symbol \"□ⁿ\" in the text is a printed abbreviation sign and is transcribed as seen. Marginal numbers and the \"§. 4.\" paragraph marker are printed in the text. Some words are uncertain, e.g. \"2³00\" in the first line and \"Athenienses\". No margin notes are printed."
+  },
+  {
+   "n": 10,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "post 18. hor. diei, eo casu neomenia transfertur in seq.",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "diem. Tres enim primas quartas diei adscribunt lunæ",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "novæ: ultima quarta sola facit lunam veterem. Argu-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "mentum instituti sui petunt Magistri ex Gen.1.5. ubi",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "vespera matutino præmitti videtur; <i>Et factus est vesper,</i>",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "<i>& factum est mane</i>; <i>dies unus</i>. LXX μία ἡμέρα μία. (ut non",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "necesse sit לפי סדר לשון הפרשה <i>secundum usitatam dein-</i>",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "<i>ceps v.8.13.</i> &c. <i>loquendi rationem</i> cum R. Sal. pro אחד de-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "siderare vocem ראשון & illam pro hac positam fingere",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "ob rationem, quam ille sic satis futilem ex <i>Bereschit Rabba</i>",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "affert.) Verum verba Gen.1.5. hunc facilem admit-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "tunt sensum; <i>Et factus est vesper</i>, abeunte luce è loco, in",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "quo primitus extitit: <i>Et factum est mane</i>, redeunte ad",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "eundem locum luce; <i>dies unus</i>: nempe cum noctis in-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "tervenientis discrimine. Ut adeo initium diei fit ma-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "ne, & tempus à <i>mane</i> ad <i>mane</i> appelletur dies unus, pri-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "musque dies finiatur in <i>mane</i> secundi. Cur enim tene-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "bras, quas Deus noctem vocavit, luce prius extitisse di-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "ceremus? quandoquidem tenebrae fiunt abeunte luce.",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "Quòdsi per ערב intelligamus tenebras luce creatâ prio-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "res, quæ חשך dicuntur v.2, vox ערב v.8.13. &c. aliud",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "quàm vers.5. significabit, quod inconveniens est. Nec",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "movere nos potest illud Hesiodi in <i>Theogon.</i>",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "Ἐκ χάεος δ’ Ἐρεβός τε μελαινάτη νὺξ ἐγένοντο.",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "Νυκτὸς δ’ αὖτ’ Αἰθὴρ τε καὶ Ἡμέρη ἐξεγένοντο.",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "Ubi diem noctè factum, proindeque recentiorem sin-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 27,
+     "text": "xit, & <i>Erebum</i> ipsum ערב Mosis esse suspicantur Docti.",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "Nec curamus commentum Magistrorum; שהיה אור וכא לעתו והי ליל לישוב",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "והלך חסר להקריב הלילה על היום כמו שאמר וכו' <i>quod lux extiterit</i> (creata fuerit)",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "<i>& illico rursum occiderit facta nocte terra habitabili: Indeque</i>",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "<i>ordo obtinuerit, noctem præmittendi diei, sicut dicitur; &</i>",
+     "heading": 0
+    }
+   ],
+   "catchword": "factus",
+   "signature": "B",
+   "notes": "Hebrew and Greek passages are transcribed as far as legible; the Hebrew line on the \"לעתו\" row and the Hebrew mid-paragraph fragments are uncertain and may contain errors. The Hebrew phrase after \"Magistrorum\" is partly illegible."
+  },
+  {
+   "n": 11,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "factus est vesper, &c. Gen.1. 5. Cosri part. II. §. 20. No-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "biscum facit Beda; Moses autem proprium (diem) ita de-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "scribit; & factum est, inquiens, vespere & factum est mane,",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "dies unus. Quem Hebraei & Chaldaei & Persae sequentes,",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "juxta primae conditionis ordinem diei cursum à mane ad mane",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "deducunt: umbrarum videlicet tempus luci supponentes. Lib.",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "de rat. temp. cap. 2. & lib. de Rer. Nat. cap.5. Basilium pro",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "eadem sententia citatum, & nequicquam refutatum",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "vide apud Casman Astrolog. part. II. cap.2. Caeterum in",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "lege placitorum festa à vespera ad vesperam putantur:",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "Lev.23. v.32. à vespera ad vesperam agetis otium vestrum.",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "Nihilominus etiam sic ea vespera, à qua init festum,",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "censetur ejus diei, qui incepit à matutino praecedente.",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "Dies Kippurim est decimo septimi mensis v.27. sed cessatio",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "incipit vesperà diei noni v.32. sic Exod.12.18. Natura ergo",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "noctem praecedit dies, Lege contrà, propter mysterium,",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "quod significabat, Israelem sub umbris exspectâsse lu-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "cem, in qua festum agitaturus erat in veritate. Non",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "igitur demum in Evangelio totius diei tempus à vespere in-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "choari, & consummari sanxit (divina Authoritas) in vespe-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "ram, ut opinatus est Beda, ne sua forte sententia fidem",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "de triduo mortis Christi labefactare, vel ejus explican-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "di rationem intricare videri posset. Dictum Christi",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "Matth.12. v.40. non aliter, atque vulgò solent, nempe",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "Synechdochicè, initiò diei Judaicè sumptò, accipimus:",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "frustrà sensum Christianorum vellicantibus Judaeis,",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "quando suffragante Scholarum consensu & dialecto",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "gentis עונה כבולה מקצת pars νυχθημέρου est sicut totum, ut ex",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "utroque Talmude ostendit Lightfoot in Horis Hebr. ad",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "l.c. Accedit, quòd exemplum Jonae, quò typo utitur",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "Servator, hodieque Rabbini non dubitent adferre, etsi",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "allegoricè, tanquam typum resurrectionis mortuorum, &",
+     "heading": 0
+    }
+   ],
+   "notes": "Marginal notes are not legible as separate text; the Greek and Hebrew fragments are transcribed as far as legible. Line \"Gen.1. 5.\" reads as printed \"Gen.1. 5.\" (scan shows \"Gen.r. 5.\"). Some Greek (νυχθημέρου) and Hebrew (עונה כבולה מקצת) are uncertain: [?] applies to the Greek word and Hebrew phrase as read from the scan."
+  },
+  {
+   "n": 12,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "number": "(none printed)",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: Joh."
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "& quidem post biduum futurae, i.e. quae tertio die recu-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "tura sit : allegantes eo fine vaticinium Hosea cap.6. 2.",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "<i>vivificabit nos a duobus diebus: die tertio resuscitabit nos.</i> R.",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "Menasse Ben. Isr. <i>de Resurrect. mort. lib. 1. cap.5.</i>",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "§. 5. Porro quia usus postulat, ut quandoque duratio",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "integra solis revolutione minor sit aestimanda, nata est",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "diei & noctis in varias partes distributio. In lege",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "Hebr. sic divisa succedunt tempora <i>τὸ νυχθημερον; Vesper,</i>",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "<i>Nox, Mane, Meridies, Inter-duas-vesperas, Vesper.</i> Unde",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "intelligitur locus <i>Exod. 12. v. 6. Et mactabunt illum omnis</i>",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "<i>coetus Isr.</i> בין הערבים <i>inter duas vesperas.</i> Quae phra-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "sis non notat idem, quod <i>a vespera ad vesperam,</i> sed unius",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "nominis instar tribuitur parti diei, quae post meridiem",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "superest ad vesperam, & non aliud nomen habet, ut",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "caeterae alioquin partes diei nat. Sic interpretari licet",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "phrasin l. c. non invitis LXX, quibus est <i>πρὸς ἑσπέραν ad-</i>",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "<i>venante vespera:</i> nec Chaldaeis, Onkelo, qui בין",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "שמשין & Jonnath. pseuduz. qui ביני שמשתא <i>inter soles,</i> reddit,",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "phrasi Thalmudicis usitata: significando illud diei tem-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "pus, quod reliquum est inter solem clarum matutinum",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "& meridianum qui abiit, ac matutinum qui veniet. Sic",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "tempori a lege definito congruit tempus, quo Christus,",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "<i>Agnus Dei portans peccata mundi,</i> exspiravit. Matth. 27. 46.",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "Diem <i>artificialem</i> olim in tres partes divisum volunt Au-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "thores, <i>mane, meridiem & vesperam,</i> ex Psalm. 55. 18. Et",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "deinceps in partes seu horas 1 V. hoc est, totidem qua-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "drantes, quorum singuli trihorium complexi, etiam ho-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "rae dicerentur: primo diei quadrante ab hora prima (ve-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "lut nostra sexta) ad tertiam inclusi. se extendente &c. ar-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "gumento loci Matth. 20. 1. 2 3. &c. vide Leusd. <i>Philolog.</i>",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "<i>Hebr. mixt. differt. 33. §. 4. 6.</i> Atque hac ratione conciliari",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "Marc. 15. v. 25. <i>Erat hora tertia, & crucifixerunt eum,</i> Et",
+     "heading": 0
+    }
+   ],
+   "catchword": "Joh.",
+   "signature": "B 2",
+   "notes": "Greek and Hebrew words transcribed as best read; the Hebrew line \"בין הערבים\" and the Hebrew forms may contain minor errors. Stray marks at line ends are not printed text. Some words in the Greek phrases are uncertain."
+  },
+  {
+   "n": 13,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "Joh.19. v.14. <i>Erat autem parasceve paschatis; hora vero</i>",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "<i>quasi sexta.</i> Quanquam hic variantem lectionem è nonnullis",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "codicib. post Bezam & Camerarium notárint",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "Oxonienses in nupera N. T. Gr. editione. Et Nonnus Panop.",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "<i>in poetica suâ paraphrasi</i> habeat;",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "Ἐπτὴ δ᾽ ἦν συέπτεσι τεφροπίββατον, ἐπλετο ἠώς. Ἡν δὲ πτωνομένη τεττάρτη θανατηφόρος ὥρη.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "Quicquid verò sit de illa distinctione, ea recentior vi-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 8,
+     "text": "detur, & horarum usum jam introductum supponit.",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "Deinde horam, nostrô modô æstimandam, dici solidum",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "quadrantem, unde verò probatur? Horis Matth.",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "20. v. 1. 2. &c. memoratis diem quadripartitum videmus,",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "sed eædem nominibus numeralibus eo ordine,",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "quem duodenarius requirit, exprimuntur. Tertia autem,",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "sexta & nona, maximè observari consueverant:",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "sexta quidem, quia meridiana; tertia & nona",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "propter sacrificium mat. & vespertinum. Noctem antiquitus",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "distribuerunt in tres vigilias, Jud. 7.19. Gideon dicitur",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "venisse <i>ad extrema castrorum in principio vigiliæ media.</i> Ubi R. Sal. שכן דרך בני גיוסות להעמיד",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "שומריםּ אלו ישמרו שליש הלילה הראשון ואלו שליש השני וכו' <i>Sic militum in exercitu mos</i>",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "<i>est disponere excubias, quas alij primo noctis triente,</i>",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "<i>alij secundo &c. agant.</i> Sic D. Kimh. היו חולקים משמרות חלקים לשלש הלילה <i>Dist-</i>",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "<i>ribuebant vigilias noctis tripartito.</i> R. Eliefer קסבר",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "שלש משמרות הוי הלילה <i>existimat 3 esse vigilias noctis. Bab. Berachot cap.1.sol.3.1.</i> pag.",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "tamen seq. תנו רבנן וכו' <i>docuerunt Magistri 4 esse vigilias</i>",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "<i>noctis</i> &c. Non est cur in istis dissidiis componendis operam",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "perdamus. Pompeji & Rom. tempore apud Judæos",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "quatuor vigiliæ noctì tribuebantur: Unde <i>Marc. 13.35</i> notantur ὀψὲ, μεσονύκτιον,",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "ἀλεκτοροφωνία, πρωί, videantur etiam <i>Matth.14.25. Marc.6.48.</i>",
+     "heading": 0
+    }
+   ],
+   "catchword": "§.6.Diei",
+   "notes": "Greek and Hebrew lines transcribed as best read; Hebrew and some Greek words are doubtful. Page carries no printed page number or running head visible."
+  },
+  {
+   "n": 14,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "running_head": "Latitudine",
+   "lines": [
+    {
+     "n": 1,
+     "text": "§. 6. Diei in horas 24. divisio prisicis non fuit in usu·",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "Unde Scalig. <i>Nomen hoc</i> ‎ﬠ יו <i>quo hodie horam designant,</i>",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "<i>ne notum quidem illis erat: Atq; apud Danielem aliud signi-</i>",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "<i>ficat.</i> Et alibi; <i>Omnino etiam horarum appellatio nova est,</i>",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "<i>utpote à Græcis in nationes Orientales derivata. lib.1. & 7. de</i>",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "<i>Emend. temp.</i> Certè quidem vocabulum ‎יוש signifi-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "catu <i>horæ</i> usurpatum non legitur in Scriptura S. ante Da-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "nielis tempora, etsi haud dubiè Chaldæis jam usu rece-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "ptum fuerit. Sed sunt, qui locum Dan.4. v.16. vel 19.",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "<i>quasi horâ unâ, interpretantur, modico tempore</i>: quòd ‎יש",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "<i>Chaldæis qualemcunq; temporis partem significet.</i> ut Grotius",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "ad locum. Observat etiam Elias Lev. in suo <i>Lexico, Thisbi;</i> הרבי מלשון ערית",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "ורנע מתורגמין שע <i>sæpè vocabulum</i> שע <i>tempus, & ענ momentum, in Targum vertun-</i>",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "<i>tur</i> ‎יוש. Exempla vide apud Targumistas ad <i>Exod.</i>",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "<i>33. v.5. 2. Reg. 5.26. &c.</i> Objicis fortè quod de <i>gradibus</i>",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "<i>Achazi legitur 2.Reg.10.11. Reduxit umbram illam iisdem</i>",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "<i>gradibus, quibus descenderat in solario Achazi decem gradi-</i>",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "<i>bus.</i> Celeb. Spanhem. <i>Introduct. ad Chronolog. S.</i> de hisce",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "hæc pauca; <i>Antiquior longè horarum observatio apud He-</i>",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "<i>bræos, quin & Babylonios, Ægyptios, (puta, quàm apud</i>",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "<i>Latinos &c.) sive diei in horas duodecim distributio: nec</i>",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "<i>docent modò loca N. T. Matth. 20.3. Joh.11.9. Act.2.15. Sed</i>",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "<i>& Achazi tempore solaris index, & umbræ in horologio per</i>",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "<i>gradus vel lineas aut cæsuras distinctas, Esaj.38.8. 2.Reg.20.9.</i>",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "agnoscit tamen idem, incertum esse, <i>an gradus isti</i>",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "<i>מעלות horæ fuerint.</i> Junius in <i>notis Bibl. Gradus ἡμερώσεις, in-</i>",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "<i>quit, evincit denarij numeri duplicatio, qua Deus uti pro-</i>",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "<i>phetam voluit, quum Regi Hiskiæ optionem daret.</i> Con-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "sentit Piscator, in <i>glossis Bibl.</i> Horum sententia, siqui-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "dem eòdem die ex optione data alterutrum futurum",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "ponatur, inde firmari potest, quòd Hierosolymorum",
+     "heading": 0
+    }
+   ],
+   "signature": "B 3",
+   "notes": "Greek, Hebrew and Hebrew-letter passages are transcribed only approximately; the scan is faint and the Hebrew and Greek glyphs are uncertain in places (marked as best read). Text is set in italic in many places; the Hebrew and Greek words are rendered as seen."
+  },
+  {
+   "n": 15,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "Latitudine Boreali à Geographis assumptâ 31.Gr. 55.min.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "dies ibi longissimus præterpropter 14, brevissimus 10.",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "constat horis: Ex sententiâ AbenEsræ, cui רוחב מצרים פחות משלשים מעלות",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "ורוחב ירושלים שלשים ושלש <i>Ægypti latitudo infra 30. gr. Hierosolymorum verò 33.</i> ad",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "<i>Num.13.17.</i> dies longissimus summum habebit 14. horas",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "cum quadrante. Quo neutro casu fieri poterat, ut 10.",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "gradibus, h. e. horis progrederetur, vel retrocederet",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "umbra, etsi miraculum ipso meridie, & in solstitio æsti-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "vo factum credatur. Sunt & alia ejusdem textûs <i>2.Reg.</i>",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "<i>20.9.10.</i> quæ difficiliuscula videntur: Ut, 1. quòd in Hebr.",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "præteritum est הלך <i>ivit, processit,</i> mox sequente futuro",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "ישוב <i>revertetur.</i> Unde Jarchi מקרא קצר <i>elliptica verba</i> pu-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "tat, sic legenda & supplenda, <i>jam descendit umbra &c.</i>",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "<i>visne, in loco quem attigit, hæreat mora 10. graduum? &c.</i>",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "quasi miraculum vel mora umbræ, vel retroceßio ejus,",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "futurum fuerit. Sed insolens est ellipsis hæc, & לנטות",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "sic idem erit quod לעמוד <i>stare.</i> 2. <i>Esai.38. v.7.8.</i> Propheta",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "sua verba recitans signum reducendæ umbræ promit-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "tit, nulla optione data: & quod hic est הלך ibi vide-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "tur esse ירד <i>descendit.</i> 3. Difficile cogitatu est, quo-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "modo umbra 10. gradibus, haud dubiè non sine prodi-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "gio, quippe in signum fidei de promissa convalescentia",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "firmandæ, prolapsura, facile quid & leve futurum præ-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "sumpserit Hiskias, atque ideò umbram retroagi ma-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "luerit. Hinc ut se extricet R. L. B. Gerson, umbræ de-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "clinationem non soli, contra locum Esajæ, sed nubi-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "bus subtercurrentibus, & solis radiationem à loco suo",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "avertentibus deputandam fingit. Hisce ex difficulta-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "tibus facilè nos expediremus, si textum Hebr. quod",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "tamen non pertendo, sic interpretari liceret; <i>Hoc tibi</i>",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "<i>signum erit &c. ivit (processit) jam umbra 10. gradibus, quum</i>",
+     "heading": 0
+    }
+   ],
+   "notes": "Hebrew and Greek passages are printed in the scan; the Hebrew words are given as best read. The Hebrew line on the second line of the Hebrew block and the Greek word \"לנטות\" are uncertain [?]. Lowest line \"quum\" continues onto the next page."
+  },
+  {
+   "n": 16,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: antiquior."
+    },
+    {
+     "type": "doubtful",
+     "text": "\"...\" in the text: a passage was skipped or a remark written as print"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "quum (ךֹ֗ ✓ fi, quum, similiter usurpatur Num.16.30.) revertetur",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "decem gradibus. Dixit Hiskias, facile fuit um-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "brae, declinare 10. gradibus; non (itidem facile) ut verta-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "tur umbra retro 10. gr. Ut hac ratione Hiskias miraculi",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "in umbrae reductione futuri fidem ex oppositio dissim-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "ili, quod ordinario naturae cursui consentaneum est,",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "fortius afferat. Etsi vero huic versioni siderem, horis",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "quidem nostro sensu intelligendis locum fore, non ta-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "men necessario inde concludi posse viderem.",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "Nec etiam ad id, ut שֵׁשׁ horam veteribus usitatam fuisse",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "neges, ἡλιοτρόπια: quibus dies per lineas & intervalla um-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "brarum distinguebatur, posterorum inventum dicere cum",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "Scaligero necesse habes: quippe non necessario hora-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "rum nostratum Author statuendus est idem, qui helio-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "tropij inventor fuit. Hora voc. esse πολύσημον vulgò",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "constat, & tandem quamlibet diei partem significasse",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "videtur: Et sunt, qui Veterum solaria 22. lineis con-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "stisse produnt, quas σημεῖα, σοιχεῖα, σωίας, recentiores",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "demum horas, dixere. Sciotericorum inventor pri-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "mus celebratur Anaximander, de quo Diog. Laert.",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "lib.2. εὑρε ἡγνώμονα ὡρῶτ, ... Invenit Λακεδαίμονι — τεσσάρας τε ἡ",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "ἰσημερίας σημαίνοντα. Invenit etiam gnomonem primus, statuit, Lacedaemone in loco can-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "ptandae umbrae idoneo — solstitia & aequinoctia notantem.",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "Anaximander, ut ex Apollodoro Atheniensi idem re-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "fert, secundo anno Olymp. LVIII. annum egit aetatis",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "sexagesimum quartum, paulo post mortuus. Is annus est",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "Iphiti 230. Per. Jul. 4167. Atqui Hiskiae Regis annus 14,",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "quo legati Merodachi fil. BalAdan sciscitatum vene-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "rant de prodigio retrogradi solis, 2 Reg.18.13, 2.Chron.32.31.",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "confertur cum anno 2. Olymp. XVI. Iphiti 62. P. J. 3999.",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "Atque adeo solarii usus apud Hebraeos plus centum annis",
+     "heading": 0
+    }
+   ],
+   "catchword": "antiquior.",
+   "notes": "Passage is partly illegible in the scan (Greek and Hebrew letters, some blurred words); doubtful readings are approximate. The Greek on the \"lib. 2\" line is only roughly legible and is given in part. The left and right edges of the page show a fold; no notes in the margins."
+  },
+  {
+   "n": 17,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: uni"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "antiquior, quàm apud Græcos. Sciotheron quidem",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "Mosi ab Apione adscriptum legimus apud Joseph-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "i lib. 2. contra Apion. Αντὶ δὲ ὀβελῶν ἐγνσε νίονας (inquit",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "de Mose loquens) ὑφ' ὃς ἦν ἐκτύπωμα σιαφη, σαὶα δὲ ἀνδρὸς ἐπ' αὐτῶ δμεψωμένη, ὡς ὅτι",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "ἐν αἰθέρι τὸν ἀεὶ τὸν δρόμον ἡλίῳ συμβεβηκέναι. Scaphen sive hemisphærium intelli-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "git, quod Aristarcho Mathematico inventori tribui-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "tur, qui idem etiam Olymp. 124. a. 4. Samiis periodum",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "lunarem ad formam Calippicam præscripsisse fertur.",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "Sed verba Apionis ut intricata & mendosa videntur,",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "sic fabulam sapiunt. Unde Josephus; τοιαύτη μὲν τῆς θαυμαστῆς τῶν γεωμετρικῶν",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "φύσεως, τὸ δὲ ἐνσωμα λόγων ὁ διαμένον &c. Miscimus quæ alia de origine & antiquitate ho-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "rarum nostrarum quæri possunt, quippe incerta & pa-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "rum usui futura. Quod Chaldæus semel illud במעלות",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "2.Reg.20. reddit בצורת אבן שעיא <i>in figura lapidis horarum,</i>",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "i. e. in horologio solari: ut & illud שעות מספר שלאבן",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "<i>clavus scioterici, Misch. Edajot. cap.3. §.8.</i> ex sequiorum tem-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "porum praxi est.",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "§.7. Astronomis propria est divisio diei in sexage-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 19,
+     "text": "nas primas, secundas, tertias &c. Hac ratione uni horæ",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "vulgari debentur scrupula prima 2½, h. e. 2, 30. Usui",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "vero civili accommodatior est distributio diei in horas",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "24. æquales, quarum singulis in ipsa mensura, motu",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "nempe circulari solis, quindeni gradus respondent.",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "Horam deinde Artifices secant in 60, & harum quam-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "libet in 60, ut quatuor sexagenæ primæ horariæ unum",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "gradum æquant. Verùm quia revolutio solis cum illa",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "Æquatoris exactè non convenit, sole præter quotidia-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "nam revolutionem etiam motu proprio sub Ecliptica",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "paulatim progrediente, ad absolvendum diem naturalem",
+     "heading": 0
+    }
+   ],
+   "catchword": "uni",
+   "notes": "Greek and Hebrew transcribed as far as legible; the Hebrew and Greek lines are approximate and should be checked against the scan. The lower right corner word \"uni\" is a catchword-like line at the foot of the text and is kept in the text."
+  },
+  {
+   "n": 18,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: tadecima:"
+    },
+    {
+     "type": "merged_lines",
+     "text": "1 line(s) contain several printed lines merged together (longest 154 chars, median 44); line numbering is unreliable"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "uni revolutioni Æquatoris quotidiè pars aliqua proportionalis",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "addenda venit, quantam scil. Solis sub Ecliptica",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "progressio requirit. Has partes <i>additamenta</i> vocant,",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "eaque etsi apparenter saltem inæqualia calculo exæquant,",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "& media maxima inter & minima assumunt, addentes",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "quotidianæ revolutioni ⁵⁹, ⁸, &c. quibus ³, ⁵⁶, ³² horaria",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "respondent. Ut proinde dies naturalis æqualis constet",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "Æquatoris ³⁶⁰, ⁵⁹, ⁸, &c. & hora sit temporis spatium, quô",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "¹⁵, ², ²⁷, ⁵⁰ Æquatoris supra Horizontem ascendunt.",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "Sed usus civilis istas minutias non fert: unde iis neglectis",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "plerumque 15. gr. Æquatoris pro hora nume-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "rantur.",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "§. 8. Judæi, Samaritani &c. horam non in sexagesimas,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 14,
+     "text": "sed in 1080 helakim, <i>particulas</i>, respondentibus",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "18 particulis uni minuto horario, resolvunt. De",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "cujus inventi antiquitate & commoditate multùm glo-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "riantur Magistri, tametsi longè ipsorum opinione recentius",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "sit, & cuidam R. Samueli, quem ob Astronomiæ",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "peritiam ירחינאא, quasi <i>Lunaticum</i> dicas, appellant,",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "verisimiliter acceptum feratur. Author <i>libri Ebronot,</i>",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "<i>Intercalationum sol. 2. 1.</i> hæc de illo instituto refert;",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "תניא כשעלו ישׁשכר ברקיע קבע תתרף חלקים לשעה תקם חצי שעה שם שליש ער רביעית ריו חמישית קף ששית קלר שמינית קף תשיעית קח עשירית אחר מיב צ אחר מטו עב אחר מב נר",
+     "heading": 0,
+     "para": true,
+     "merged": true
+    },
+    {
+     "n": 23,
+     "text": "<i>Traditio est</i> (in Baraietha, extraneis, extra",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 24,
+     "text": "Hierosolyma scriptis R. Sam. Jarchinaah) <i>quòd cùm</i>",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "<i>Isafchar se in firmamentum extulisset, 1080 particulas horæ</i>",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "<i>definiverit: 540. horæ semissis est: 360. triens: 270. quadrans:</i>",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "<i>216. una quinta: 180. una sexta: 135. una octava: 120. una</i>",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "<i>nona: 108 una decima: 90. una duodecima: 72. una quin-</i>",
+     "heading": 0
+    }
+   ],
+   "catchword": "tadecima:",
+   "signature": "C",
+   "notes": "Hebrew and Greek-free text; the Hebrew lines are reproduced as best legible and may contain errors. Signature \"C\" at foot. Superscript fractional marks over numbers in the Equatoris passage are rendered as printed in small type and approximated."
+  },
+  {
+   "n": 19,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "number": "60",
+   "lines": [
+    {
+     "n": 1,
+     "text": "<i>tadecima : 54. una vigesima.</i> Traditioni authoritatem",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "quaerunt ex 1.Chron.12.32. Ubi inter filios Isaschar di-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "cuntur לעתים יורעי בינה <i>Intelligentes prudenter distin-</i>",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "<i>guendi ad tempora.</i> D. Kimh. רבותינו פירשו לעבר",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "שניים ולקבוע חדשים <i>Magistri nostri exponunt, quod sci-</i>",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "<i>verint intercalare annos & figere neomenias.</i> Eâ autem de",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "causâ sapientes hanc mensuram (nempe 1080. hel.) non",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "majorem, nec minorem, merito amplexos volunt, quòd",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "nullus sit numerus, qui illô plures admittat divisores, uti",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "ex traditione modò cit. patet. Horum porrò helakim",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "in sexagesimas vulgò usitatas, & vicissim sexagesima-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "rum in illa convertendarum ratio facilis hæc est. Du-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "cantur particulæ Judaicæ datæ in 60: factum divida-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "tur per 1080, prodibunt scrupula prima: facta divisione",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "residuum, si quod sit, denuò ducatur in 60, & dividatur,",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "ut hactenus, prodibunt scrupula secunda, & sic deinceps.",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "Ex. gr. Annus Lunaris communis secundùm Judæos col-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "ligit dies 354, hor.8, hel.876. quæ ducta in 60, & divisa",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "per 1080 dant 48, cum residuo 720: quod denuò in 60",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "ductum & per 1080 divisum dabit 40. Sic quantitas an-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "ni Lunaris com. erit d.354. h.8. 48, 40. ita differentia En-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "neadecaeteridis Julianæ & Lunaris, quæ deprehenditur",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "in æquatione anni solaris & lunaris juxta calculum R.",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "Samuelis est 1.hor. 485. helakim, id est, 1.26, 56, 40. Vice",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "versa restituuntur helakim, sexagenis ad infimam spe-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "ciem deductis, summâ per 1080 multiplicatâ, & pro-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "ducto per divisorem infimæ speciei cognominem di-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "visô, puta per 3600, si sexagenæ secundæ, per 216000, si",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "tertiæ fuerint &c. Sic horæ & particulæ Judaicæ redi-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "gunter ad scrupula diurna, ductis 1080 in 24: factum",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "dabit divisorem: deinceps horæ in particulas resolutæ",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "& cum adhærentibus particulis in summam collectæ per",
+     "heading": 0
+    }
+   ],
+   "notes": "Hebrew and Greek-free page; Hebrew words transcribed as shown in the scan, with the fraction and bracket symbols of the original approximated. Some superscript numerals (e.g. 48, 40, 26, 56) are small raised figures in the printed text. Page number \"60\" appears at lower right."
+  },
+  {
+   "n": 20,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: Christi"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "60, quoties fuerit opus, multiplicentur, & productum",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "per divisorem modò inventum dividatur. Ex. gr. Scal.",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "statuit Anni Gelalæi, vel Sultan. Persi quantitatem d.",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "365, h. 5, hel. 880. h. e. 365, 14, 31, 13, 20. Hæc ratio dividendi ho-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "ram Judæis quidem pro indagandis Neomeniis & Tku-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "phis illâ Astronomorum vulgatâ facilior est, quia in",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "calculo literis Alphabeti Hebr. utentes <i>multiplicare, nisi</i>",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "<i>repetitis additionibus, & dividere, nisi ingenioso quodam di-</i>",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "<i>scursu, nesciunt,</i> inquit Munsterus <i>Calend. Hebr. pag. 5.</i> unde",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "quò pauciores segmentorum species calculus habet, eò",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "facilius procedit. Longè tamen & hâc & illâ expedi-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "tior calculi ratio est per partes decimales, quibus uti fe-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "runtur Chatajæ Astronomi diem civilem in 10000. par-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "ticulas secantes, singulis scrupula horaria 0, 8, 38, 24. æquan-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "tibus, ut patet ducenti 24. in 60, & factum dividenti per",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "10000, residuò, quoties necesse fuerit, denuò per 60 mul-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "tiplicatò &c. Quæ ratio etiamsi vulgò apud Astrono-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "mos & Chronologos hactenus non obtineat, nihilomi-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "nus ut facilima Chronologiæ studioso commendari me-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "retur. Compendiosa sexagenas in decimales, & vicissim,",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "reducendi præcepta videantur apud Oughtredum <i>Clavi</i>",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "<i>Mathemat. cap. 6.</i>",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "§. 9. Porrò hora æqualis est vel inæqualis. Illa est vi-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 24,
+     "text": "gesima quarta pars diei naturalis, & ἰσημερινὸς atque æqui-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "noctialis dicitur, de qua suprà. Inæqualis est duodecima",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "pars diei artific. vel noctis, quacunq; anni tempestate: voca-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "tur ὡραι temporaria & Judaica, quippe Judæis, & aliis o-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "lim nationibus, si traditioni fides est, usitata. vid. Abarb. ad",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "Esa. 38. 8. Horæ autem inæquales dicuntur non ratione ejus-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "dem, sed diversorum dierum & noctium, quarum horæ re-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "vera inæquales existunt, longiorum longiores, breviorum",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "breviores pro solis accessu vel recessu. Quæ in sermone",
+     "heading": 0
+    }
+   ],
+   "catchword": "Christi",
+   "signature": "C 2",
+   "notes": "Greek words in the text (ἰσημερινὸς, ὡραι) are rendered as printed as far as legible; the Greek in \"ἰσημερινὸς\" and \"ὡραι\" is doubtful. Fractional superscripts (365/14,31,13,20; 0,8,38,24) are printed as small figures and may be mis-set. Page number not printed; running head absent."
+  },
+  {
+   "n": 21,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: imminente"
+    },
+    {
+     "type": "doubtful",
+     "text": "\"...\" in the text: a passage was skipped or a remark written as print"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "Christi Matt.20. v.3.5.6. commemorantur horæ Judaicæ,",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "nempe <i>tertia, sexta, nona, undecima</i>, non possunt accuratè",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "reduci ad nostræ numerationis horas, die anni non anno-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "tato: proinde hora Judaica tertia poterit fuisse nona no-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "stra, etiam octava, vel decima &c. puta, prout vel circa",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "solstitium æstivum vel hibernum, vel circa æquinoctia",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "dies ille sumitur: quamquam æstûs diurni mentione fa-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "cta v.12, verisimiliter dies circa solstitium æstivum actus",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "intelligatur. Quòd si de die anni constet, datâ horâ Ju-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "daica, quota ea sit juxta nostram numerandi rationem",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "facilè invenitur, si cognitis cûm longitudine diei dati in",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "horis nostris æqualibus, tum horâ ortûs solis ex Globo",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "vel Ephemeridibus, fiat secundùm regulam proportio-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "num, ut 12 ad datæ horæ Judaicæ numerum; Ita inventa",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "longitudo totius diei ad alium numerum, qui debit quæ-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "situm: Cui si adjiciatur hora ortûs, habebimus horam à",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "media nocte juxta nostram numerationem. Si numerus",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "harum horarum duodenario major fuerit, abjectis 12. re-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "siduum monstrabit horam à meridie putandam.",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "§.10. Aliud etiam est horarum genus in usu Eccle-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 21,
+     "text": "siastico, quæ dictæ inter Christianos <i>horæ canonicæ</i>, seu",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "tempora precibus destinata. Origine ab Hebræis ducta,",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "quibus horæ precum, quæ etiam <i>horæ templi</i>, tres fuere.",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "Prima hora precum est tertia Judaica: Secunda est hora",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "sexta: & tertia est hora nona. Praxeos vestigia vel exem-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "pla vide Dan.6.11. ubi זמנין תלת R. Sal. & Saadia Gaon exponunt שלש פעמים",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "ביום שחרית וערבית ומנח mane & sub vesperam vel noctu, & tempore Mincha i.e. obla-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "tionis, quæ vel statim à meridie fiebat, Mincha magna",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "dicta, vel ab hora nona, mincha parva vocata Judæis.",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "vid. Buxtorf. in Lexic. Hebraic. & Synag. Judaic. cap.10.",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "Act.3.1. ὥρα τῆς ἐνάτης ... ἡ ὥρα τῆς προσευχῆς τῶν ἑνάτῃ. hoc est,",
+     "heading": 0
+    }
+   ],
+   "catchword": "imminente",
+   "notes": "Greek and Hebrew passages transcribed approximately; the Greek in Act.3.1 is partly illegible in the scan and the middle words are marked by the ellipsis above only as a reading aid, not as printed text. Mark-up of the Greek line is uncertain."
+  },
+  {
+   "n": 22,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "number": "C 3",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: temporis"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "imminente hora. Dicitur hæc hora precum, quia eâ ho-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "râ offerebatur sacrificium juge vespertinum inter duas",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "vesperas. Huc etiam referunt Act.10. 9. Templo destru-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "cto atque adeo sacrificiorum usu sublato Pharisaica San-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "ctimonia preces iisdem horis fundendas subsitituisse non",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "contenta, novas quasdam, מוספין, quasi <i>auctaria & super-</i>",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "<i>erogationes</i> dicas, adinvenit, quibus eam temporis par-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "tem, quæ matutinum inter & meridiem intercurrit, die-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "bus festis tanquam ex superabundanti & opere superero-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "gatorio stulta meriti opinione tumentes etiamnum im-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "pendunt Judæi. Sic in <i>Seder Tephillot</i> syllogę precum in-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "ter alia legis מוסף לשבת <i>auctarium Sabbathi.</i> מוסף לראש",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "חדש <i>auctarium Neomeniæ.</i> מוסף ליום כפור <i>diei expiationis &c,</i>",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "Accessit תפלת נעילה <i>precatio obserationis,</i> quam die",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "jejunij precatione vespertina suo modo defuncti sole oc-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "ciduo, portis cœli ei quasi obseratis, recitant. Hinc verò",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "præpostera imitatione natæ <i>horæ canonicæ</i> Pontificiorum,",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "quatuor diurnæ, <i>prima, tertia, sexta, nona:</i> Et totidem",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "nocturnæ, quibus <i>officium</i> suum, cujus partes, <i>Psalmi,</i>",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "<i>Cantica, Hymni, Lectiones, Responsoria, Antiphonæ, Litania,</i>",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "<i>Capitula, Collectæ, Symbolum & Confessio,</i> peragunt. In qui-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "bus multiplex superstitio, vana proprii meriti præsum-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "ptio, cæca erga præsules Ecclesiæ obedientia, & ut com-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "pendio dicam, irrisio Dei, merito à nostris reprehendi-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "tur, nequicquam in contrarium contendente Bellarmi-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "no, qui de horis canonicis prolixè, ut mos est, <i>lib. 1. de</i>",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "<i>bonis operib. in partic. cap.10. & seq.</i>",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "Septimana.",
+     "heading": 1,
+     "para": true
+    },
+    {
+     "n": 29,
+     "text": "§. 11. Porrò cùm tempore identidem labente diei,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 30,
+     "text": "tanquam partis non adeò magnæ, continua repetitio non",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "ingrata modò, sed & molesta videretur futura, majores",
+     "heading": 0
+    }
+   ],
+   "catchword": "temporis",
+   "signature": "C 3"
+  },
+  {
+   "n": 23,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: obscura,"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "temporis partes constituendae, sicque dies in",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "<i>συσήματα</i> & <i>ὁμοιάδας</i> colligendi fuere, unde Periodi temporum",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "natae, <i>hebdomas, mensis, annus.</i> Hebdomas est systema",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "dierum septem civilium ab ipso Deo distinctum; quan-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "do, quoisque in usus, consulantur Theologi. Ejus in Chro-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "nologia usus insignis est, septenario numero motuum",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "coelestium rationibus sapienter accommodato, uti hujus",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "aliquid videre est apud Macrob. <i>in Somn. Scip. lib.1. cap.6.</i>",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "Ut vel hoc solo argumento patescat, quod quaerenti, cur",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "Deus septenis diebus in <i>ὁμοιάδας</i> collectis septimum quem-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "que feriatum esse jusserit, non satis sit respondisse, ali-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "quem saltem seligendum fuisse diem, qui periodum or-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "diretur vel finiret, & si secus fecisset, idem quaerendi oc-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "casionem fuisse futuram. Observatio septimanae apud",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "Chaldaeos, Arabes, aliosque Orientis populos dubio pro-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "cul antiquissima est: imo nusquam non receptum",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "septimi diei periodice recurrentis usum praedicare audet",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "Josephus; <i>Nulla omnino urbs est vel Graecorum, vel Barba-</i>",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "<i>rorum, nec ulla gens, οὐδὲ μὴ τὸ τῆς ἑβδομάδος, ἢν ἀρχαῖμεν</i>",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "<i>ἡμεῖς, τὸ ἑβδομον ἢ ἀμοιροφίνην</i> &c. <i>lib.2. contra Apion.</i> Idem",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "ex Philone, Clemente Alexandr. Luciano, nominibus",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "dierum apud Celticas Gentes, Philostrato, Dione Cassio",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "contendit Grotius in <i>annotatis ad lib. 1. de Verit. Relig.</i>",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "<i>Christ.</i> & post ipsum Huet. <i>Demonst. Evang. prop. IV. cap.11;</i>",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "de Graecis & Romanis id negant alij: quorum illi suas",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "<i>γδάδας</i>, hi <i>nundinas</i> quasi novendinas, nono quoque",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "die redeuntes, periodo dierum non litera G ut nunc fit,",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "sed H terminata, habuerint. De quibus inter alios vide",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "polyhistora Hospinianum <i>de Orig. festorum cap.5.</i> Ad fi-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "dem Josephi dictis liberandam, & authores caetera gra-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "vissimos hac in parte conciliandos forsan hoc notasse",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "sufficit; quod ritus Judaici minimum vestigia haud",
+     "heading": 0
+    }
+   ],
+   "catchword": "obscura,",
+   "notes": "Greek passages are only approximately transcribed; the Greek in the Josephus quotation and the Greek words after \"ἁμοιάδας\" are uncertain. Several words in the Greek lines are doubtful and should be checked against the scan. The page appears to be a continuation of a longer text; the final word \"obscura,\" is printed at the right margin."
+  },
+  {
+   "n": 24,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: dies"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "obscura, etsi non ipsam ubique praxin observare sit, id,",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "quod ostendunt quæ cùm ex Authoribus modò lauda-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "tis, cùm ex Homero, Hesiodo & aliis eum in finem",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "allegari solent. Quando verò Authores Septimanarum",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "observationem ante Theodosij tempora in Rom. Impe-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "rio receptam negant, imò Calendarium Rom. non nisi",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "Dionysij Exigui tempore, sub Justiniano, in eas distingui",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "coepisse docent, vid. Cl. Spanh. <i>Introd.</i> de usu vulgò obti-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "nente, & in civilibus etiā, intelligendum est. Alioqui Chri-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "stianos in Rom. quoque imperio hebdomadum periodos",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "inde ab ævo Apostolorum usq; in sacris obeundis servâsse",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "multa arguunt: Ut quòd tempus solemne & commune",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "conventuum Sacrorum ipsis fuit feria 1. dies Dominica. In",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "variis Orientis saltem partibus convenisse dicuntur etiam",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "fer. 7. ad imitationem Apostolorum, Judæos eâ die in-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "struentium Act. 13. 16. 17. 20. cap. Convenêre etiam feriâ",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "4 qua proditus Christus, & 6 seu in parasceve, qua cruci",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "affixus: qui iidem dies erant <i>stationum</i> seu <i>orationum &</i>",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "<i>semi--jejunij</i>, quod Tertull. vocat, nempe ad horam us-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "que nonam à solis ortu, i. e. tertiam pomerid. Constan-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "tinus M. Christum fide amplexus observationem & san-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "ctificationem primæ feriæ lege divulgata firmavit, addita",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "ratione, quòd ea die Christus è mortuis resurrexisset,",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "Sozom. <i>Hist. Eccl. Trip. cap. 8.</i>",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "§. 12. Alius insuper apud alios septimanæ dies sacer",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 26,
+     "text": "est, & diversa dierum nomenclatura. Hebræis septimus",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "feriatus est: Christianis primus; ἡ μία vel πρώτη τῶν",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "σαββάτων, & ἡ κυριακὴ Dominica, in N. Test. ἡμέρα ἀναστάσιμος",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "dies resurrectionis (sicut & πάσχα ἀνάστασιμον Dominica re-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "surrect. contradistincte ad πάσχα σταυρώσιμον quod German,",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "Karfreytag) item ἡμέρα φωτὸς dies lucis dictus authorib.",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "Ecclesiasticis: ob causas vulgò notas. Muhammedanis",
+     "heading": 0
+    }
+   ],
+   "catchword": "dies",
+   "notes": "The Greek and Hebrew-related words are transcribed as printed; the Greek in the sentence on Christian weekdays is set in italic Greek type and may contain small errors. Some words in the lower part are slightly blurred."
+  },
+  {
+   "n": 25,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: regnandi"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "dies Veneris sacer habetur, cùm ex antiqua superstitio-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "ne, quâ Arabes Venerem, <i>Chobar</i> dictam, venerabantur;",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "cùm quia fuga Impostoris illius Muhammedis in eam",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "diem incidit, quæ hinc <bl>יְמֵי</bl> [?] συναξις [?] dicta, ut Scalig.",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "<i>lib. 2. de Emend. Temp.</i> Etsi Scriptores rerum Orient.",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "fugam illam ex Mecca urbe in feriam quintam rejiciant,",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "eamque velint esse characterem annorum Arabic. & ini-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "tium Epochæ Hegiræ, ut Alfraganus Arabs <i>Elem. Chron.</i>",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "<i>& Astronom. cap. 1.</i> sexta tamen illis sacra est, propter pri-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "mam lunæ phasin tunc visam, unde gentes istæ suas in-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "eunt neomenias. Nomenclatura deinde dierum, quam",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "à planetis habent, antiquissima est, nec demum tempo-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "re Ptolemæi, qui sub Antonino Pio claruit, <i>dies</i>",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "<i>hebdomadæ per nomina planetarum distincti fuere,</i> ut censet Hosp.",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "<i>de Orig. fest. cap. 5.</i> Ut vel inde patet, quòd <i>1. Thoth Na-</i>",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "<i>bonasari,</i> i. e. prima dies primi mensis Ægyptiorum",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "priscorum cœpit feria 4, seu die Mercurii, consentienti-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "bus Chronologis: Thoth verò Ægyptiis dici Mercuri-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "um docet Cic. <i>Quinctus,</i> inquiens, <i>quem colunt Pheneatæ,</i>",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "<i>qui Argum dicitur interemisse, ob eamq; causam Ægypto præ-</i>",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "<i>fuisse, atq; Ægyptiis leges & litteras tradidisse. Hunc Ægyptii</i>",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "<i>Thoyth appellant: eodemq; nomine anni primus mensis apud</i>",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "<i>eos vocatur. lib. 3. de Nat. Deorum.</i> Idem probatur Oraculô",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "& versibus Orphei, quos citat Scaliger in <i>prolegom. ad</i>",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "<i>Emend. Temp.</i>",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "§. 13. Cur autem dies planetarum cognominēs non",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 27,
+     "text": "sequantur ordinem & situm eorundem, diem Saturni",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "non excipiente die Jovis, sed Solis &c. observatâ harmo-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "niâ <i>δι᾽ τεσσάρων,</i> nempe Gc : cf, &c. non eadem causa",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "redditur vel fingitur ab omnibus. Vulgare commentum",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "est, singulos planetas vicissim per horas regnare, unde",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "<i>horæ planetariæ</i> dictæ, ut spatio 24 horarum septem planetæ",
+     "heading": 0
+    }
+   ],
+   "catchword": "regnandi",
+   "notes": "The Hebrew word and the Greek word before \"dicta\" are uncertain; the Greek after the Hebrew is read as \"δι᾽ τεσσάρων\" with doubt. The Hebrew is marked [?] throughout. The printed \"cognominēs\" has a macron that is read as n. Lower-left and right edges show only paper and dark background, with no notes or stamps transcribed."
+  },
+  {
+   "n": 26,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "regnandi vices ter repetant, residuis 3. horis supernume-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "rariis, quæ faciunt, ut principió diei cujusque sequentis",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "regnet planeta, ab illo, qui pridie primâ regna verat horâ,",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "quartus.",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "Verùm Scaliger antiquiorem credens feria-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "rum appellationem à planetis, quàm ut ab horis, quæ",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "singulæ suum sibi planetam vindicant, nominatæ sint,",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "aliam appellationis causam proponit, quam schemate",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "heptagoni circulo inscripti & in septem triangula iso-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "scele resoluti, planetis suo ordine naturali ad singulos",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "peripheriæ angulos appictis, delineat, ita ut si à dextra",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "baseos incipias numerare, pergens ad verticem & inde",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "regrediens ad sinistram baseos, planetas eodem ordine,",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "quo in feriarum appellatione, digestos invenias, nempe",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "non per seriem suam, sed per intervalla laterum, quæ",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "veræ sint oppositiones. <i>Hanc veram harum appellationum</i>",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "<i>rationem esse</i> dictat incomparabilis & stupendæ peritiæ",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "vir, vellem & probâsset. Aliam affert Beda, quæ tantò",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "verisimilior, quò plus superstitionis præfert, quam vide",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "<i>lib. de nat. rer. cap.8.</i> Nec enim dubium, quin supersti-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "tioni Gentilium nomenclatura isthæc ortum debeat,",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "quam, ut multa veteris Idolomaniæ alia, nullo damno",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "ignoramus.",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "Judæi ab ultimo suo, eoque universali, exi-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 25,
+     "text": "lio, ut nulla ferè non commenta Philosoph. & Astrolo-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "giæ Græcorum in Theologiam suam Cabalisticam ad-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "optant, licèt absurdè ab Hebræis prisci ad Græcos fur-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "tim translata fingant; ita & hìc sanctæ simplicitatis Ve-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "terum vestigia deserunt, dum planetas cum totidem Zo-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "diaci signis & Angelis in septem hebdomadæ dies ero-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "gant.",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "Commentum Hebraicâ linguâ sine versione re-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 33,
+     "text": "fert Munsterus ad calcem Calendarij Hebr. quod latinè",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "versum sic habet; <i>Dies primus</i> [Hebrew: שמולו ארי ?] <i>cujus signum</i>",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "<i>(Zodiac.) est Leo, Angelus Raphael</i> [Hebrew: ומשרתו חמר ?] <i>& minister</i>",
+     "heading": 0
+    }
+   ],
+   "catchword": "Sol:",
+   "signature": "D",
+   "notes": "The Hebrew words in the last paragraph are set inline in a gap marked by a dash; their exact letters are uncertain, so the Hebrew is marked [?]. The page carries no printed page number and no running head."
+  },
+  {
+   "n": 27,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "<i>Sol: aurum. Dies fecundus ; cujus signum</i> סרטן <i>Canter, An-</i>",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "<i>gelus Gabriel, minister</i> לבנה <i>Luna: argentum. Dies tertius;</i>",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "<i>cujus signum</i> ועקרב טלה <i>Aries & Scorpius, Angelus Samael,</i>",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "<i>minister</i> מאדים <i>Mars. Dies quartus ; cujus signum</i> תאומים",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "ובתולה <i>Gemini & Virgo, Angelus Micael, minister</i> כוכב",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "<i>Mercurius. Dies quintus ; cujus signum</i> קשת ורגים [?] <i>Arcu-</i>",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "<i>arius & Pisces, Angelus Tzadkiel, minister</i> צדק <i>Jupiter.</i>",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "<i>Dies sextus ; cujus signum</i> שור ומאזנים <i>Taurus & Libra,</i>",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "<i>Angelus Anael, minister</i> נוגה <i>Venus : æs. Dies Sabbathi,</i>",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "<i>cujus signum</i> גדי ודלי <i>Capricornus & Aquarius, Angelus Ka-</i>",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "<i>phriel, minister</i> שבתאי <i>Saturnus.</i> Nomina quorundam",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "metallorum adjiciuntur, ex figmentis Alcumiftarum, qui",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "ista planetarum nomina iis indidere. Hæc sunt in-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "ter גלולים <i>stercora</i> domûs Israelis, tempore commiserationis",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "abjicienda. Nec omni prorsus superstitione",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "caret, quòd Schillerus in <i>Cœlo stellato Christiano</i>, abolitâ istâ",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "Gentili dierum nomenclaturâ, quam & nos etiamnum",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "ore ferimus, primô die, ut rectè, <i>Dominicô</i> appellatô,",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "pro die Lunæ, <i>Spiritûs S.</i> pro die Martis, <i>Beatorum</i>",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "<i>omnium</i>; pro die Mercurij, <i>Ecclesiæ Catholicæ</i>; pro die Jovis,",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "<i>Cœnæ & Corporis Domini</i>; pro die Veneris, <i>Crucis ac</i>",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "<i>Passionis Christi</i>; pro die Saturni, <i>Virginis Mariæ</i>, audiri",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "vellet.",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "§. 14. Israelitis olim singuli Hebdomadæ dies àSabbatho",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 25,
+     "text": "denominabantur: Ιt μία σαββάτων, <i>prima Sabbathorum</i>,",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "Matth.28.1. Luc.24.1. Joh.20.1. Et Pharisæus ille,",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "<i>jejuno</i>, inquit, <i>δἰς τῷ σαββάτῳ bis per septimanam</i>, Luc.18.12. Sic",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "in <i>Bab. Maccoth cap.1. sol.5.1. Dixit Rabba, venerunt duo,</i>",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "<i>testes, dicentes</i>; <i>Sora, tempore matutino</i> בחד בשבא <i>primô</i>",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "<i>Sabbathi</i> פלוני N N. <i>homicidium commisit. Venerunt duo,</i>",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "<i>dicentes</i>; בחד בשבא בפניא <i>vesperi primô Sabbathi nobiscum</i>",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "<i>fuistis Nahardea &c.</i> Ita deinceps אלא בתרי בשבא <i>sed</i>",
+     "heading": 0
+    }
+   ],
+   "notes": "Hebrew and Greek in the scan are small and partly hard to read; the Hebrew words in the planetary lines and the final lines are copied as best read. The \"קשת ורגים\" word and the Greek \"δἰς τῷ σαββάτῳ\" are doubtful. The text is cut off at the foot of the page, ending with the catchword-like \"sed\" set below the last Hebrew line, which is treated as running text."
+  },
+  {
+   "n": 28,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "number": "2",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: השבועי"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "sed secundo Sabbathi occidit ὁ Δεύα &c. Universæ istæ fe-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "riarum appellationes concurrunt in Targum <i>Esther. cap.</i>",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "2. 9. Ubi septem puellæ Estheræ ministerio addictæ,",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "suis quæque nominibus expressæ, functiones suas per",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "שבע ימי רשבת <i>septem hebdomadæ dies</i>, suo cuique die",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "assignato, obivisse memorantur. שבת igitur in hisce",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "loquendi formulis idem significat quod שבוע <i>septimana.</i>",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "<i>Ferias</i> dixere Latini Christiani, authore (ut Beda vult l.f.c.)",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "Sylvestro Papâ, à diebus hebdomadis Paschalis, à qua",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "veteris anni Ecclesiastici initium ducebatur. Quia enim",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "illius hebdomadis dies omnes, ut olim apud Judæos,",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "erant feriati; imò aliquamdiu utraque septimana, quæ",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "pascha præcessit, <i>Hebdomada magna dicta</i>, & quæ secuta,",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "<i>Septimana in Albis</i> vocata, solemnis & festiva fuit, inde",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "obtinuit, ut reliquarum hebdomadum dies etiam <i>feriæ</i>",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "vocarentur, præcipuô quôdam principis septimanæ pa-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "schalis auspiciô & omine.",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "§. 15. Duplex porrò septimana in usu Scripturæ S.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 19,
+     "text": "est, <i>ordinaria</i> seu <i>communis</i>, quæ etiam <i>diaria</i> dicitur,",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "septem dierum, de qua hactenus: <i>Extraordinaria</i>, quæ",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "<i>annalis</i> septem annorum, sumpto die pro anno, ut <i>Ezech.</i>",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "4. 6. de qua in lege Jubilæi Lev. 25. 8. & in Prophetia",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "Dan. 9. 24. interpretibus etiam Judæis. ibi enim Jo-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "seph Aben Jechija <i>Comment. in Dan.</i> שבעים שבעים",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "reddit; שמיטות שבעים 70. <i>anni intermissionis</i>",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "שהם ארבע qui conficiunt 490. <i>annos.</i>",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "שמט est omissio, Deut. 15. v. 1. 2. 9. septimô quôvis annô terra",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "omittebatur & mutuum: à שמט quod omittere, ferri-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "abire--labi sinere significat, unde intelligitur locus 2.",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "<i>Sam. 6.6.</i> Hinc usitata appellatio שנת השמטה <i>anni Sab-</i>",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "<i>bathici</i>, apud Chronologos. vid. Calvis. <i>Ifag. Chronolog.</i>",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "<i>cap. 26.</i> Consentit Abarbenel in <i>Maiene Hayeschuah</i> sol. 61 2.",
+     "heading": 0
+    }
+   ],
+   "catchword": "השבועי",
+   "signature": "D 2",
+   "notes": "Hebrew and Greek words are rendered approximately; the Hebrew catchword at the foot right (השבועי) is uncertain. Some Hebrew inline forms are doubtful and marked only in the notes."
+  },
+  {
+   "n": 29,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "השבועים האלה תם מן השנים העולים לתצ שנה [?]",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "והם בלי ספק מחורבן בית א עד חורבן בית שני <i>septima-næ illæ sunt annorum, colligentes 490. annos, haud</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "<i>dubiè à vastatione domus</i> (templi) <i>primæ, ad vastationem domus se-</i>",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "<i>cundæ putandos: fuerunt enim 70. anni exilij Babylonici, &</i>",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "<i>420. annis duravit domus secunda &c.</i> וכן פירשו חור",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "בסדר עולם <i>sic etiam exposuerunt eas sapientes nostri b. m.</i>",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "<i>in Chronico Mundi.</i> Annus autem comparatur diei: quem-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "admodum dies alter fit sole ad nos redeunte; itaquan-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "do sol tale tempus redorditur, positus in eodem Zo-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "diaci loco, novus quasi dies est, qui dicitur עיר חיה",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "<i>tempus recidivum vel reviviscens, Gen. 18. v. 10. 14.</i> Ubi",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "בעיר חיה Lutherus infeliciter vertit, So ich lebe;",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "quali verbo uti ne quidem in creatum angelum, nedum",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "in Filium Dei, tunc locutum, congruit. Simplicissimè",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "& benè Piscator; Wann es wider umb dise zeit seyn wird.",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "Expressissimè verò Arabs; פי מתר חרר אלוקתי מן",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "קאבר <i>in tempore huic simili ex opposito, i.e. sequenti an-</i>",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "<i>no.</i> Quod ἐν παρέδῳ pro more monemus, ut necessita-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "tem probandi & examinandi versiones Scripturæ S. ad",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "acquirendam, quoad ejus fieri potest, παλιγφοείαν, vi-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "deant, qui alioqui sive subsidiis humanis passim obviis",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "& parabilibus securè confisi, sive, quod pejus est, ex",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "contemptu profano, vel ignavia Philologiæ S. studia",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "neglectui habent.",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "§. 16. Mittimus, quæ multi multa de septenario pro-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 26,
+     "text": "didere ἀδηλα, frigida, putida; vel superstitioso Scriptu-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "ræ S. in qua numeri hujus non rara mentio vel allusio",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "est, abusu male collecta, qualia videri possunt v.g. de",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "septenario transgressionum, pœnarum in hoc mundo,",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "mansionum in gehenna &c. apud Men. B. Isr. in <i>Nischmat</i>",
+     "heading": 0
+    }
+   ],
+   "catchword": "mas",
+   "notes": "Hebrew, Greek and Arabic passages are transcribed approximately; the Hebrew lines at the top and the Arabic phrase are partly illegible in the scan. The final word \"mas\" is a catchword split from \"Nischmat\" and is uncertain."
+  },
+  {
+   "n": 30,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "running_head": "mat chaÿm part. I. cap. 12.",
+   "lines": [
+    {
+     "n": 1,
+     "text": "vel à Gentilibus plusquam du-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "biis & malè cohærentibus conjecturis conficta: qualia",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "sunt, quæ de Septenarii sterilitate, qui hinc virgo &",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "Minerva Pythagoreis dictus, commenti sunt. De <i>annis</i> item",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "<i>Climactericis</i>, septimo quovis & nono, quos periculosos",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "habent, periculosissimos vero, quos septenarius seipsum,",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "vel novenarium multiplicans producit. Sic nescio quam",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "efficaciam in statu habitúque hominis immutando ætati",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "per septenos annos distributæ vendicant inter alia <i>Gno-</i>",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "<i>mæ Solonis</i> inter fragmenta Poet.Græc.ex Philone & Clem.",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "Alex. restitutæ. Plurima de septenario vera, dubia, sal-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "sa, ridicula ex M. Varrone referunt <i>A. Gell. Noct. Att. lib.3.</i>",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "<i>cap.10. Macrob. lib.1. cap.6. in Somn.Scip.</i> Memorabilis verò",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "hîc cumprimis est <i>annus mysticus</i> Heinlini, ex Hebdomade",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "creationis tanquam radice exstructus, dierum 343. qui",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "cubus est septenarii: <i>Chronolog. Myst. §.1.</i> inventum, quod",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "in speciem tanto felicius videri possit, quò faciliora dif-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "ficultates Chronologicas, tantùm non insuperabiles",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "hactenus visas, expediendi media promittit.",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "De quo plura, ubi de mense",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 21,
+     "text": "& anno.",
+     "heading": 0
+    }
+   ],
+   "signature": "AP-",
+   "notes": "Printed running head and signature as read; the \"cont\" marker is set because the page continues a previous paragraph. Some words in the faint scan are uncertain (e.g., \"cubus\", \"Hebdomade\") but appear as printed. The page number is not printed."
+  },
+  {
+   "n": 31,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "merged_lines",
+     "text": "1 line(s) contain several printed lines merged together (longest 176 chars, median 51); line numbering is unreliable"
+    },
+    {
+     "type": "line_split",
+     "text": "only 49% of the letters found in the OCR layer: line breaks partly missing"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "APPENDIX RESPONDENTIS.",
+     "heading": 1,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "I. Vera est explicatio R. Levi, in Gen. 12. v. 40. quando",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "habet inter alia ופירוש הפסוק כן ומושב בני ישראל אשר ישבו במצרים ובשאר ארצות כלומר שהתחילו לגלות תר שנה ומשער שנאמר לו לאברהם כי גר יהיה זרעו התחיל עליו הצער ומשם התחלת החשבון.",
+     "heading": 0,
+     "merged": true
+    },
+    {
+     "n": 4,
+     "text": "II. Falsa est illa glossa,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "quam Abarbanel ad verba Esa.9. v.6.",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "כי ילד ילד לנו adducit. נאמר על חזקיהו וכאלו אמר הנר התשועה הגדולה הואת ממעלתו של סנחריב לא תהיר בזכור אחז המולך עתה כי אם בזכור חזקיהו בנו שימלוך אחריו.",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "III. Absurdè idem quoque nomina illa solo Christo",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 8,
+     "text": "digna ibidem loci גבור אבי עד de",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "Hiskia intelligi posse autumat: cùm sic ait אם תרצה לפרש כל השמות האלה על חזקיהו תוכך עשותו.",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "IV. Falsa etiam ejus est expositio, quâ cum Judæis divini-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 11,
+     "text": "tate nominum illorum impulsus ea subjecti de",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "Deo, non prædicati loco de puero haberi posse vult,",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "cùm inter alia sic habet, וכפי הדרך הזה גם שלום נוכל לפרש על השי שהוא אשר ואדון שלום ויהיה אומרו ויקרא שמו לא קריאה שם ממש.",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "V. Qua in re sanior Abenesfra, qui candidè fatetur,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 15,
+     "text": "videri sibi כי כל אלה שמות הילד omnia ista nomina",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "esse pueri.",
+     "heading": 0
+    }
+   ],
+   "catchword": "VI.Illud",
+   "notes": "The Hebrew lines are set in the printed block and are copied as well as the scan allows; individual Hebrew letters may be misread. The thesis numbers I to V are printed as Roman numerals. The text \"VI.Illud\" at the foot is the catchword for the next page."
+  },
+  {
+   "n": 32,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "VI. Illud Es.28. v.16. recte רשׁ׳ de Messia vertit",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "sic glos-sando inter alia והעמרתי מלך המשיח שיהי בציון לאבן בוחן:",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "VII. Ineptè verò id ipsum Abarbenel hâc paraphrasi utendo יקים להם מלך נאמן בלבבו שהוא",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "חזקיהו [illegible, ~3 letters] ועליו אמר הנני יסד &c. de Rege Hiskia intelligit.",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "VIII. Etsi Abarbaneli demus illud למן Esai. 53. 8.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "plurale esse, causæ Christianorum nihil decedit.",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "IX. Quamvis Abarbaneli Kimchium opponere",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 8,
+     "text": "posse-mus, qui habet in Grammat. sua; ויש מו כנוי היחיר הנסתר [illegible, ~1 letters] יש בו סימן רבים וסימן יחיד",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "FINIS.",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "notes": "The scan is cut off at the right and bottom, so the rest of the page is not part of this transcription. Several Hebrew words are printed with a box or blank where a letter should be (in VII and IX); these are marked as illegible. The Hebrew in VI and VII is read from a small scan and may contain letter errors marked nowhere else. The Greek-looking fragment in VI, \"רשׁ׳\", is Hebrew. The text \"mus,qui\" in IX shows a damaged or mis-set letter, kept as printed. The lower part of the page shows only a woodcut ornament (a grotesque mask with scrolls and foliage), which carries no text and is not transcribed."
+  },
+  {
+   "n": 33,
+   "type": "empty",
+   "model": "claude-haiku-5-5",
+   "notes": "The page is blank. The faint darker marks across the sheet are show-through and paper stains, not printed text. No running head, page number, catchword or signature is visible."
+  },
+  {
+   "n": 34,
+   "type": "empty",
+   "model": "claude-haiku-5-5"
+  },
+  {
+   "n": 35,
+   "type": "empty",
+   "model": "claude-haiku-5-5"
+  }
+ ]
+}
