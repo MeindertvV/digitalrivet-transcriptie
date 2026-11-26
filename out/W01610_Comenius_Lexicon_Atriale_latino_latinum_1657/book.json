@@ -22038,6 +22038,10 @@
    "running_head": "DI",
    "warnings": [
     {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: facere"
+    },
+    {
      "type": "line_split",
      "text": "no usable OCR layer: paragraphs could not be split into printed lines"
     }
@@ -22110,7 +22114,7 @@
     },
     {
      "n": 12,
-     "text": "<i>Divinare</i>] Augurari conjectura. Hariolari, <i>Cic.</i> Viam restaminstare. Rem acu tangere, <i>Plaut.</i> Addivinare. Omnia facere",
+     "text": "<i>Divinare</i>] Augurari conjectura. Hariolari, <i>Cic.</i> Viam restaminstare. Rem acu tangere, <i>Plaut.</i> Addivinare. Omnia",
      "heading": 0,
      "para": true
     }
@@ -22119,13 +22123,91 @@
   },
   {
    "n": 236,
-   "type": "missing",
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "number": "222",
+   "running_head": "DIDO",
    "warnings": [
     {
-     "type": "missing_page",
-     "text": "page 236 was not transcribed: invalid XML: not well-formed (invalid token): line 13, column 40"
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
     }
-   ]
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "facere, <i>Plinius.</i> Inaugurare, <i>Livius.</i> Ominari, <i>Bud.</i>",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "<i>Divinatio</i>] Ars divinationis. Auguratus scientia. Ars exstispicum, <i>Cic.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "<i>Divinator</i>] Dissector nodorum Gordiorum.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "<i>Divitiæ</i>] Res. Opulentitas. Bonæ res, <i>Plaut.</i> Opes. Copiæ, Fortuna, <i>Cic.</i> Opulentia, <i>Virg.</i> Midæ opes. Croesi opes. Arabum gazæ. Stimuli in corde. Sudes in oculis. Tantali opes. Tantali talenta. Census, <i>Iuv.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "<i>Divitiæ pariunt stultitiam</i>] Misera est magni custodia census.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "<i>Divortium</i>, Vid. <i>Repudium.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "<i>Dium</i>] Divum, <i>Hor.</i> Sub Jove frigido. Subdialis locus, <i>Plin.</i> Hypæthrum, <i>Vitr.</i> Aperta promptaque coeli, <i>Lucr.</i> Loca retecta, <i>Plin.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 8,
+     "text": "<i>Divulgare aliquid</i>] Publicare reticenda, <i>Iustin.</i> Vulgatum hoc vestrâ voce est. Pervulgare atque edere aliquid populo. Percelebrare. Dissipare famam, rumores, sermones. Spargere famam, disseminare. Edere in vulgus aliquid. Decantare aliquid, <i>Cic.</i> Vulgare famam per omnes. Rem vulgo ferre, <i>Liv.</i> Dare aliquid famæ. Rumoribus aliquid differre, <i>Tac.</i> Tradere famæ, <i>Curt.</i> Invulgare aliquid, <i>Gell.</i> In vulgum vulgas, quæ scis, <i>Enn.</i> Mittere aliquid in ora populi, <i>Quint.</i> Dispergere famam, <i>Plin.</i> Spargere aliquid in vulgus, <i>Virg.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 9,
+     "text": "<i>Docere</i>] Artem docendi tradere. Tradere scientiam alicui. Dare alicui præcepta. Et rationes dicendi. Instituere aliquem artem. Tradere vias artium. Erudire aliquid ad aliquam disciplinam. Perdocere aliquem aliquid, <i>Cic.</i> Instruere aliquem scientia, <i>Quint.</i> Imbuere ingenium artibus, <i>Plaut.</i> Formare studiis mentes, <i>Hor.</i> Instillare præcepta auriculis, <i>Id.</i> Formare juventutem, <i>Plin.</i> Præcipere artem, <i>Quint.</i> Peritum aliquem facere, <i>Propert.</i> Edocere. Addocere artes, <i>Salust.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 10,
+     "text": "<i>Docendum aut discendum semper</i>] Doce vel audi.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 11,
+     "text": "<i>Doctrina</i>] Ars doctior quàm natura. Disciplina juris. Ingenuarum artium scientia. Facultas oratoris, <i>Cic.</i> Ratio vivendi, <i>Id.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 12,
+     "text": "Doctr]",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "catchword": "Dolte]",
+   "notes": "Catchword \"Dolte]\" at lower right, read as Doctr]; the last word is partly cut off in the scan. Left edge damaged by stains."
   },
   {
    "n": 237,
