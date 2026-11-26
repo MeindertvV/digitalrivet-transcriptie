@@ -1,0 +1,3287 @@
+{
+ "source": "W08089_Wyss_Disputationis_physicae_de_motu_continuatio_quam_benigno_affl_1667.pdf",
+ "pages": [
+  {
+   "n": 1,
+   "type": "empty",
+   "model": "claude-haiku-5-5",
+   "notes": "Digitiser's cover sheet, not a printed page of the book: e-rara.ch logo, title \"Disputationis physicae de motu continuatio\" by Albinus, David, [Bernae], 1667, Universitätsbibliothek Bern, persistent link, usage terms in four languages, and Visual Library logo. Left out as digitiser material."
+  },
+  {
+   "n": 2,
+   "type": "title",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": null,
+     "text": "DISPUTATIONIS PHYSICÆ",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "De",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "M O T U",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "CONTINUATIO,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Quam",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Benigno aflante favoris divini Zephyro,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "PRÆSIDE",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Reverendo, Clarissimo atq; Doctissimo",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "DN. DAVIDE ALBINO,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "IN ATHÆNEO BERNENSI PHI-",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "losophiæ Professore Ordinario, Domino",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Præceptore suo omni observantiâ",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "colendo.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Publicæ ac placidæ disquisitioni subjicit,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "DANIEL de LOSEA, MBernensis,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Philosophiæ Studiosus.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Ad diem 24. Augusti, loco horisq; solito.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Excudebat ILLUSTRISSIMÆ REIPUBLICÆ",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "BERNENSIS TYPOGRAPHUS,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Georgius Sonnleitnerus.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "M DC LXVII.",
+     "heading": 0
+    }
+   ],
+   "notes": "Printer's ornament (two putti holding a laurel wreath) between the place/date line and the imprint; not transcribed as text. Show-through of the reverse page is faintly visible behind the title and is not transcribed. The handwritten \"6\" at top right is not printed and is omitted."
+  },
+  {
+   "n": 3,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "Venerabili consessui Ecclesiastico, Vigilantissimis Dom. Ministris & administris.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "Dn. Professoribus acutissimis. Dn. Gymnasiarchæ",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "dignissimo. Dn. Præceptoribus & Promotoribus suis",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "colendis, amandis, & speciatim",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "<i>Dn. ABRAHAMO de LOSEA, eloquiorum Dei apud</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "<i>Bernates dispensatori fidelissimo, Patruo suo ac Evergetæ nullis</i>",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "<i>obsequij generibus satis demerendo.</i>",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "<i>Dn. SAMUELI ROSSELET, Ecclesiæ Bernensis administro</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 9,
+     "text": "<i>solertissimo, Domino suo ac fautori benevolo.</i>",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "QUIN ETIAM",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 11,
+     "text": "<i>Nobilitatis, pietatis ac eruditionis claritate</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 12,
+     "text": "<i>splendidissimis,</i>",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "<i>Dn. JOH. RODOLPHO à DIESBACH, Præfecturâ Moratensi</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 14,
+     "text": "<i>& Lentzburgensi laudatissimè defuncto, viro Artis & Martis</i>",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "<i>laude conspicuo, Domino suo ac Patrono perpetim</i>",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "<i>honorando.</i>",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "<i>Dn. ANTHONIO à GRAFFENRIED, Comitatu Mildonensi</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 18,
+     "text": "<i>non ita pridem summâ cum laude defuncto, Hospiti suo</i>",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "<i>ad aras usq; evehendo.</i>",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "UT ET",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 21,
+     "text": "Dn. PETRO de LOSEA,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 22,
+     "text": "Dn. ISACO de LOSEA,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 23,
+     "text": "Dn. JOH. RODOLPHO de LOSEA,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 24,
+     "text": "Dn. JOH. JACOBO de LOSEA,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 25,
+     "text": "TANDEM",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 26,
+     "text": "<i>Dn. DANIELI HERRENSCHWAND, Tribunatu apud Moratenses non ita</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 27,
+     "text": "<i>pridem laudabiliter defuncto, nunc verò ibidem Xenodochij inspectori</i>",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "<i>meritissimo, suo è S. Baptismatis unda suscoptoti perpetim observando.</i>",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "<i>Dn. PETRO de LOSEA, Tribuno apud Moratenses prudentissimo, parenti</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 30,
+     "text": "<i>suo benignissimo, filiali amore & reverentia æternùm amplectendo.</i>",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "<i>Hasce studiorum suorum primitias dedicat & offert</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 32,
+     "text": "Daniel de Losea, Resp.",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "marginalia": [
+    {
+     "side": "right",
+     "at": "JACOBO de LOSEA,",
+     "line_from": 24,
+     "line_to": 24,
+     "text": "Illi gregem in Gigetz pascenti fidelissimè. Isti vineæ Dei, quæ colligitur apud Constantinenses, cultori laboriosissimo. Huic mysteriorum Dei in Bargen interpreti fidelissimo; cognatis suis plurimùm honorandis. Ultimo Sept. Classis Scholæ Bernensis moderatori fidelissimo, Patruo suo dilectissimo."
+    }
+   ],
+   "notes": "The right-hand bracketed block is a marginal annotation set in smaller type. The line \"Sept.\" and \"Gigetz\", \"Bargen\" are read from a small, worn print; \"Gigetz\" and \"Bargen\" are doubtful. Several lines of the top rule and the signature line are partly rubbed."
+  },
+  {
+   "n": 4,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "number": "2",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: quo"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "DISPUTATIONIS PHYSICÆ",
+     "heading": 1,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "DE MOTU",
+     "heading": 1
+    },
+    {
+     "n": 3,
+     "text": "CONTINUATIO.",
+     "heading": 1
+    },
+    {
+     "n": 4,
+     "text": "Thesis XXXVI.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "{Q}uanquàm motûs distinctio in commu-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "nem & proprium genuina sit, contin-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "gere tamen potest ut qui communis",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "transeat in proprium. Ita quamdiu",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "merces navigio vehuntur, motu mo-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "ventur communi; Naufragio verò na-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "vigium quandò dissilit in fragmenta",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "ut merces seorsim natent, tùnc moventur merces mo-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "tu proprio, cùm qui communis erat transierit in pro-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "prium. Motus sanè, quò merces natant, à communi,",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "quem antea habuerunt, ideò non est distinguendus quia",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "navigium dissiluit impetu vehementiori facto in scopu-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "lum, à quo motum merces accepisse dici non potest,",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "cùm quod quiescit motum dare nequeat; ut conclu-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "dam quòd motus, quò merces post naufragium natant,",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "sit ipse motus, quo ante naufragium vehebantur.",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "XXXVII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 22,
+     "text": "Opponis, Motûs distinctio in communem & proprium",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 23,
+     "text": "æq; relinquit incertum utrum quid moveatur an quie-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "scat ac vulgaris motus descriptio; Contingere enim potest",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "ut quod non movetur motu proprio & sic verè quiescit,",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "moveatur motu communi, quo casu eadem res ex æ-",
+     "heading": 0
+    }
+   ],
+   "catchword": "quo",
+   "signature": "A 2",
+   "notes": "The woodcut initial is a decorated Q, joined to \"uanquàm\" as \"Q\" plus the text; read as \"Quanquàm\" with the initial. Ornamental rule above the title is not transcribed. Words at the page edges are partly faint; the right margin is blank."
+  },
+  {
+   "n": 5,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: illum,"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "quo moveri & quiescere dicenda est, quia quod move-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "tur motu communi, non minus verè movetur quàm quod",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "movetur motu proprio. Ita qui sedet in navigio pariter",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "moveri ac quiescere dicendus est, verè enim quiescit ha-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "bito respectu ad corpora proximè ambientia, verè etiam",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "movetur si spectetur situs, quem sedens in navigio ha-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "bet inter littora. Resp. 1. Fateor quòd corpus, quod",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "motu movetur communi, verè moveatur; Id quod patet",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "tum ex eo, quia motus communis transire in proprium",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "potest: tum ex eo, quòd sedens in navi fieri in se muta-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "tionem sentit quando navis subitò sistitur. 2. Quan-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "quàm quod non movetur motu proprio verè quiescat,",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "& quod motu movetur communi verè moveatur; ut ea-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "dem res, docente nostrâ motûs distinctione in commu-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "nem & proprium, dici subinde possit verè quiescere &",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "verè moveri; incertum tamen distinctio non relinquit,",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "utrum quid moveatur per se nec ne? Motus duntaxat",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "proprius est motus, qui corpori absolutè convenit; Mo-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "tus verò communis convenit corpori propter aliud; Jam",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "verò incertum esse non potest ex distinctione nostra mo-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "tûs, utrum quid moveatur motu proprio nec ne? Quia",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "unum & idem corpus non potest uno respectu à corpo-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "ribus contiguis dici separari, alio verò respectu non se-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "parari, sed alterutrum duntaxat locum habet. Ex de-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "scriptione verò vulgari motûs incertum etiam relinqui-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "tur utrum corpus moveatur nec ne motu quô per se mo-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "vetur? Cùm loci designatio quælibet in descriptione mo-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "tûs vulgari æq; pertineat ad motum, quó corpus per se",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "movetur.",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "XXXVIII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 31,
+     "text": "Quanquàm etiam motus communis corpori non minùs",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 32,
+     "text": "verè quàm proprius conveniat, sufficit tamen Physico",
+     "heading": 0
+    }
+   ],
+   "catchword": "illum,",
+   "notes": "Printed text is slightly faded in places; no doubtful readings noted. Heading \"XXXVIII.\" is a numbered section, set as level 2."
+  },
+  {
+   "n": 6,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: puncto"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "illum, qui cuiq; corpori proprius est, considerasse. <i>Tum</i> quia",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "nulli corpori unus duntaxat convenit motus communis;",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "Multitudo autem rerum intricare mentem solet. <i>Tum</i>",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "quia omnes motus communes observari nunquam pos-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "sunt. <i>Tum</i> deniq; quia omnis motus communis est ali-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "cui corpori proprius; & tractari debet ut proprius non",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "verò ut communis, ne committatur <i>ταυτολογία</i> contra sapien-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "tiæ legem.",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "XXXIX.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 10,
+     "text": "Motus proprius multitudine quomodo communis non",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 11,
+     "text": "gaudet, quia uni corpori tantùm convenit unus. Interim",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "considerari proprius potest instar plurium; Ut cùm in",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "rotis currùum duos diversos distinguimus, unum scili-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "cet circularem circa ipsarum axem, alterum secundùm",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "longitudinem viæ per quam feruntur. Sed quòd ideo",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "tales motus non sint revera distincti, patet ex eo, quòd",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "unumquodq; punctum corporis, quod movetur, unam",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "tantùm lineam describit. Vel absidi à latere infigatur",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "baculus, & currus ab equis protrahatur ut circa axem",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "rota se circumvolvat, & patebit oculis quòd baculus u-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "nam duntaxat describit lineam, quæ arcuata erit.",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "XL.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 23,
+     "text": "Nec refert quòd linea sæpè sit valdè contorta, & ideò",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 24,
+     "text": "ex pluribus diversis motibus genita videatur, quia pos-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "sumus imaginari eodem modo quamcunq; lineam etiam",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "rectam, quæ omnium simplicissima est, ex indefinitis",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "diversis motibus ortam esse. Ut si linea",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "A.B. feratur versus C.D. & eodem tem-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "pore punctum A. feratur versus B. li-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "nea recta A.D. quam hoc punctum A. describet, non",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "minus pendet à duobus motibus rectis ab A. in B. &",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "ab A.B. in C.D. quàm linea curva, quæ à quovis rotæ",
+     "heading": 0
+    }
+   ],
+   "catchword": "puncto",
+   "signature": "A 3",
+   "notes": "Diagram beside \"Nec refert\" paragraph: letters A, B, C, D forming a bracket shape, with A. and C. at left and B., D. at right. Lower-right catchword \"puncto\" appears as the last word of the text, not a separate catchword. Page number not printed; the signature \"A 3\" sits at the foot."
+  },
+  {
+   "n": 7,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: deatur:"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "puncto describitur, pendet à motu recto & circulari. Talis",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "linea describitur à motu pilæ plumbeæ, quam multi viri",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "docti ferunt è summo malo in navem velocissimè provectam",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "ad mali pedem ad perpendiculum decidere. Ubi",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "quanquàm pilæ motus ex duobus, scil. ex progressivo &",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "descensorio videatur compositus, revera tamen unus",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "tantùm est & quidem rectus. Et oritur partim à vi gravitatis,",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "partim à determinatione motûs, quem cum na-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "vigio, antequàm inceperit decidere, communem habuit; ut qui",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "communis erat, nunc transierit in proprium.",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "Quanquàm & aër prorsùm agitatus motum progressivum",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "quoq; juvet. Itaq; quamvis ex illo præcepto methodi,",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "quò jubemur difficultates, quas examinaturi sumus, in tot",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "partes dividere, quot expedit ad illas commodiùs resolvendas,",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "perspæpè quidem utile sit, unum motum in",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "plures partes dictò modò distinguere ad faciliorem",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "ejus intelligentiam comparandam, absolutè tamen lo-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "quendo unus tantùm in unoquoq; corpore motus est, qui",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "ei proprius.",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "XLI.",
+     "heading": 1,
+     "caput": "41",
+     "para": true
+    },
+    {
+     "n": 21,
+     "text": "Hodiè tantundem est motùs quantum fuit ab initio.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 22,
+     "text": "Sol enim, siquidem moveatur, æq; celeriter hodiè currit",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "ac ab initio. Deinde cur pila, quæ murum impetit,",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "motum retinet nisi quia non communicavit? Unde con-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "cludendum quòd motus in corpore non pereat nisi com-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "municatione. Et nisi certi termini motui essent positi,",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "citra metam adaugeri vel minui posset; Unde fieret",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "ut vel in unam flammam vel in rigorem abirent omnia.",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "Deniq; rationi maximè est consentaneum, ut quantum",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "motùs Deus primitùs produxit, tantundem conservet; Cùm",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "id constantia & immutabilitas Dei requirere vi-",
+     "heading": 0
+    }
+   ],
+   "catchword": "deatur:",
+   "notes": "Printed page is a continuous text page with a heading XLI. The top line appears to be the continuation of a sentence from the previous page. Some words are uncertain in the scan, notably \"perspæpè\" and \"flammam\", which are copied as best read. Last line \"deatur:\" is a catchword-like continuation at the right, treated as the closing line of the text."
+  },
+  {
+   "n": 8,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "deatur: Quemadmodum enim constantia & immutabi-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "litas Dei causa est cur tantundem materiæ conservet",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "quantum initiò produxit; Ita eadem Dei constantia re-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "quirit, ut quantum motûs in rerum primordio produxit",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "tantundem quoq; conservet. Cujus comparationis ne-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "cessitas nititur consideratione, quâ & conservationem",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "continuatam esse creationem & motum non minus præ-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "cariò in materia quàm materiam in universo extare in-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "telligimus.",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "XLII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 11,
+     "text": "Adeò verum est quòd hodiè tantundem sit motûs",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 12,
+     "text": "quantum fuit initiò, ut ne Angeli novum condere mo-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "tum possint, quandò enim corpora movent utuntur mo-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "tu qui in rerum natura jam est, eò fere modò quò ani-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "ma suum movet corpus: Atqui anima suum corpus mo-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "vet non condendo novum motum, sed motum, qui in",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "corpore jam est, infleƈtendo; Quomodo auriga, qui cur-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "rui insidet, nec currui nec equis motum dat, sed motum,",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "qui & in curru & in equis jam est, pro arbitrio regit. Et",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "certè satis motûs in rerum natura Angeli inveniunt, quò",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "vel maxima corpora concutere & prosternere possint, ut",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "necesse non sit novum ab ipsis condi motum. <i>Quæris</i> quo-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "modò motum Angeli copulare & ad corpora permoven-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "da accommodare soleant? Resp. Motum Angeli diri-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "gunt quomodo anima nostra motum spirituum anima-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "lium; Anima nostra spiritus animales, qui in corpore no-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "stro sunt, huc illuc flecƈtit solâ voluntate; Sive enim ambu-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "lare sive stare sive sedere, &c. velim, illico spiritus anima-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "les corpus vel ad ambulandum propellunt vel ad standum",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "erigunt vel ad sessionem incurvant. Haud dubiè modus,",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "quo anima nostra corpora movet, non est nobilior modò",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "quò Angeli corpora movent, cùm Angeli præstantiores",
+     "heading": 0
+    }
+   ],
+   "notes": "Right-hand margin: no notes. Last word \"ires\" partly printed as \"ɛes\" at the lower right, read as \"res\" in the reading \"præstantiores\". The word \"ries\" at the foot is a catchword-like fragment, here treated as the end of the line; the reading is uncertain [?]."
+  },
+  {
+   "n": 9,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "number": "70",
+   "lines": [
+    {
+     "n": 1,
+     "text": "res sint creaturæ quàm sit anima nostra. Et si ex",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "unione, quâ anima corpori est unita, sequi videtur quòd",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "anima in suo corpore aliâ ratione operetur quàm Ange-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "li in corporibus quæ movent, sciendum est quòd anima",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "corpori suo ideò dicatur unita, quia illud solâ voluntate",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "movere potest; Ut Angeli corporibus quæ movent, etiam",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "uniti sint dicendi, quia ea solâ voluntate movent. Magna",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "interim est differentia inter unionē Angeli cum corpore",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "& unionem animæ nostræ cum corpore suo: Anima",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "enim non tantùm corpori est unita, sed etiam vice versâ",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "corpus unitum est animæ, dum corpus in animam vicissim",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "agere potest varios in ea excitando sensus; Angeli ve-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "ro corporibus uniri solent, non verò vicissim; Quam-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "quam enim corpora Angeli moveant, corpora tamen",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "in Angelos nunquam agunt.",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "XLIII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 17,
+     "text": "Objicis Primò: Motus est tantùm modus, proinde",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 18,
+     "text": "nulla est necessitas ut quantum motûs fuit ab initio et-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "iamnùm tantundem sit; Nisi simul dicere velimus,",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "quòd hodiè tantundem sit figuræ, sitûs, magnitudinis &",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "quietis, quantum fuit initiò: Quod posterius falsum est.",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "Resp. α. Hodiè omninò tantundem est quietis quantum",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "fuit initiò. β. Magna est differentia inter motum & re-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "liquos modos, motus enim in materia est gratuitò, re-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "liqui autem modi sunt motûs effecta.",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "XLIV.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 27,
+     "text": "Objicis Secundò: Contingere potest ut pila plumbea ex-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 28,
+     "text": "cussa tormento bellico impingat in clavos erectos & muro",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "firmiter infixos, quo casu pilæ motus peribit absq; con-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "cussione clavorum vel muri, proinde periit absq; commu-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "nicatione. Resp. Quia pila plumbea motum nec mu-",
+     "heading": 0
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: nam,"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "ro nec clavis communicat propter vehementiorem eo-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "rum resistentiam, motum pilæ recipit aër, qui inde ita",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "celeriter agitatur, ut vehemens edatur strepitus.",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "XLV.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "<i>Objicis Tertiò:</i> Nunquid novi motûs productionem",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "probat animalium antea quiescentium incessus, volatus,",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "reptatio, natatio? Resp. Motus spirituum in animali-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "bus, dum moventur, transit in alias eorum partes, ut spiri-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "tus, qui promiscuè antea movebantur, nunc in certa membra",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "motum determinatum habeant: Ut res se habeat",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "quomodo in aqua, quæ quamdiu stagnans est, quiescere",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "videtur, cùm particulæ ejus exiguæ moveantur motu",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "promiscuo, postea verò quando aqua fluere incipit, aquæ",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "particulæ motum promiscuum mutant determinatæ versus",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "unam regionem. Et quantum motûs in animalibus,",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "quæ movetur, accedit membris, tantum spiritibus animalibus",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "decedit. <i>Instas.</i> Quando mercenarius toto laborat die,",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "brachia tam frequenter movet, ut quantum motûs brachiis",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "accessit, tantundè spiritibus decessisse non videatur,",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "quin omnes omninò spiritus vesperi sint exhausti. Resp.",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "<i>a.</i> Spiritibus multum decessisse motûs ex labore testis est",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "lassitudo. <i>b.</i> Sciendum quòd spiritibus animalibus sum-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "ma motûs sit celeritas, ut in iis plurimum motûs resi-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "deat; Brachiorum verò mercenarij motûs tarditas ad-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "modùm est magna quandò comparatio fit cum motu",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "spirituum animalium: Ut mirum non sit, quòd spiritus",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "animales totâ die brachiis motum comunicare possunt.",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "XLVI.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 29,
+     "text": "<i>Objicis Quartò:</i> Alicujus motûs interitum arguit pila",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 30,
+     "text": "magnâ vi in arenæ cumulum conjecta, cujus motus cessante",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "arenæ tremore totus periisse videtur. Resp. Pilæ",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "in arenam conjectæ motus primò transfertur in ipsam are-",
+     "heading": 0
+    }
+   ],
+   "catchword": "nam,",
+   "notes": "Printed page signature \"B\" at foot; the upper running line is cut off at the top, the first paragraph is a continuation. Marginal faint show-through ignored. Some words in the top line are blurred."
+  },
+  {
+   "n": 11,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "nam, unde arenæ tremor; Ac deinde sic in aërem",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "transfertur ut oculis non magis cerni possit quàm ipse",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "aër: Nihil enim est quod motum facilius recipiat",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "quàm aër, idq; exinde est quòd aër divisus est in parti-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "culas admodùm exiguas, quæ singulæ motum jam habent.",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "XLVII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "<i>Objicis Quintò:</i> Fragor, qui excitatur quoties tor-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 8,
+     "text": "mentum bellicum exploditur, non nisi ad certum aliquod",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "spatium se diffundit, & non nisi per breve tempus sen-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "titur, cùm paulò post iterum cesset, ut videatur eviden-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "tissimè sequi illò saltem tempore, quò perstrepebat tor-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "mentum, fuisse plus motûs in mundo quàm fuerit antè.",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "Resp. Sensibus in hoc negotio non tantoperè est fiden-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "dum, cùm nos in re prorsus simili jam à pueris fefelle-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "rint; Dum enim luculentus instruitur ignis, qui priùs",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "non apparebat, existimamus novum aliquod corpus in or-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "be existere; Cùmque flamma extinguitur, putamus eam",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "desinere, quoniam ex oculis nostris abit; Quanquam",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "vacui maxima absurditas ignem non in nihilum abiisse",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "probet.",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "XLVIII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 22,
+     "text": "Etiam omnis motus est circularis, quia aliàs motus",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 23,
+     "text": "nullus fieret. Quemvis alium quàm circularem fieri",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "finge & repeires eum absq; corporum penetratione vel",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "vacui absurditate contingere non posse. Motus proin-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "de omnis est circularis, hoc est, dum corpus aliquod locò",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "movetur, illud eòdem temporis momentò pellit aliud,",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "hociterum impellit aliud & aliud, usq; ad ultimum: quod",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "cùm, ob omnium aliorum locorum plenitudinem, alium",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "locum non inveniat quàm illum, quem corpus primò",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "motum reliquit, hoc ultimum in primi locum necessario.",
+     "heading": 0
+    }
+   ],
+   "notes": "Printed page with faded show-through from the reverse side; \"sensibus\" and some words near the edges are uncertain. Page number and running head not printed. The final word \"necessario\" is partly cut at the line end and read as \"necessa-/rió\" in the scan."
+  },
+  {
+   "n": 12,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "number": "(none printed)",
+   "lines": [
+    {
+     "n": 1,
+     "text": "fiò venit. Ita si cubiculum fit clausum, ut tubus cami-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "ni, per quem fumus exit, à latere foramine hiet, sentie-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "tur continuò magnus ventus, qui per hoc foramen ad",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "focum tendit. Ita quantum ex dolio vini effluit, tantun-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "dem è vestigio aëris dolium ingreditur. Quid quòd",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "& Luna & Planetæ omnes motus circulares habent? Ut vel",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "eorum exemplo nos natura docere videatur, quòd omnis",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "motus sit circularis.",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "XLIX.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 10,
+     "text": "Nec putandum est quòd circulus motûs semper sit",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 11,
+     "text": "perfectus: Sufficit si motus desinat ibi, unde incepit.",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "L.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 13,
+     "text": "Nec etiam existimandum est quòd quicquid move-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 14,
+     "text": "tur, moveatur circulariter. Mensa enim, quæ à fene-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "stris movetur ad januam, non habet motum circularem,",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "cùm non redeat eòdem unde incepit moveri. Distingue",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "ergò phrases: <i>Omne corpus quod movetur, movetur circula-</i>",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "<i>riter. Nullus sit motus, quin integer motûs fiat circulus.</i> Prior",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "phrasis falsa est, ut id ex mensæ exemplo patet. Poste-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "rior verò vera est ubiquè. Ita quanquàm mensa, quando",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "à fenestris propellitur versùs januam, non circulariter",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "moveatur, circulus tamen motûs contingit, & quidem",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "singulis momentis, ita ut in mensæ motu innumeri con-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "tingant circuli; Nullò enim momento movetur mensa,",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "quin ei aliquid aëris & cedat & succedat.",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "LI.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 27,
+     "text": "Circulus etiam integer eòdem movetur momento,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 28,
+     "text": "ut eòdem temporis momento, quò unum corpus incipit",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "moveri, omnia reliqua corpora, quæ circulum compo-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "nunt, moveantur; Idq; verum est quantumvis evagetur",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "circulus. Nisi enim eòdem tempore integer movere-",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "tur circulus, daretur corporis penetratio vel vacuum. Ita",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "eòdem",
+     "heading": 0
+    }
+   ],
+   "catchword": "eodem",
+   "signature": "B 2",
+   "notes": "Page is heavily faded at top and bottom; the running text is copied as legible. Headings XLIX, L, LI are set as centred numerals and treated as level 2 divisions. Some words near the right edge of lines (e.g. \"circulus\", \"moveatur\") are partly obscured; the transcription follows the most likely reading."
+  },
+  {
+   "n": 13,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: homines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "eodem momento, quo vinum e dolio effluit, aeris ali-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "quid per foramen aliud dolium ingreditur.",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "LII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "Nec propterea circulus movebitur momento: <i>Aliud</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "<i>enim est motum esse momentaneum: Aliud vero motum trans-</i>",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "<i>mitti in momento.</i> Quanquam enim motus successive con-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "tingat, in momento tamen transmitti potest. Ita quan-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "do baculus movetur, ab una extremitate transfibit mo-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "tus in momento ad alteram, ut omnes baculi partes eo-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "dem moveantur momento, quanquam interim baculus",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "successive moveatur.",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "LIII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 13,
+     "text": "Proinde nihil incipit moveri, quin integrum circu-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 14,
+     "text": "lum movere possit; Ut etiam pulviculi singuli, quos in",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "sole volantes perspicimus, suos pellant circulos: Ut in-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "de quam fluxa & mobilis aeris materia videre fit. Nec",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "necesse est a corpore, unde circulus incipit, circulo in-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "tegrum impertiri motum; Quando enim circulus in flui-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "do contingere debet, vis quantumvis exigua sufficit ad",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "inchoandum & absolvendum circulum, fluidi enim par-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "ticulae jam habent motum, qui est quaquaversus, ut eas",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "quivis aliunde adveniens motus determinare possit.",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "LIV.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 24,
+     "text": "Adeo verum est quod omnis motus sit circularis, ut",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 25,
+     "text": "si circulus impediatur, nullus fiat motus; Ita ex dolio",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "nulla effluet guttula neq; ex ampulla inversa quamdiu",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "aer dolium vel ampullam ingredi non potest. Imo nec",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "Angeli impedire motum circularem possunt, quia niti-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "tur plenitudine corporum, ut nisi vel vacuum vel corpo-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "rum penetratio fiat, alius motus quam circularis fieri",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "nequeat: Atqui Angeli neutrum efficere possunt. Etiam",
+     "heading": 0
+    }
+   ],
+   "catchword": "homines",
+   "notes": "Printed page with faded show-through from the reverse side in places; the last line \"homines\" is set right-aligned. Headings LII, LIII, LIV are Roman numerals as printed."
+  },
+  {
+   "n": 14,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: certò"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "Homines aquis tutò inambularent, quandò circulus im-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "pediri posset.",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "LV.",
+     "heading": 1,
+     "caput": "55",
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "Præterea omnis omninò motus fit abimpulsu; Ut",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "& vim tractricem naturæ denegemus omnem & fugam",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "vacui, quò suam vulgò Physicam implent, & naturam,",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "ut pulsionem fictâ terrent larvâ, fugacem faciunt, der-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "iculo habeamus. Ita quando ex hydria per calamum",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "bibunt aquam, aqua ascendit impulsa; Venter enim bi-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "bentis sese primò distenditur inde aër propellatur, qui in-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "greditur hydriam aquamq; premit ut propellatur in ca-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "lamum & os bibentis ingrediatur: Quia aër alium locum,",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "in quem recedat, non invenit, ob resistentiam omnium",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "aliorum corporum: Itâ cucurbitulæ contrahunt cutem",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "impulsu, dum enim ignis aërem ex cucurbitula expellit,",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "condensatur aër extra cucurbitulam, qui æthere inter-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "currente conatur sese dilatare, quò conatu premit æquali-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "ter cutem, unde sanguis provocatur. Ita in thermometro",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "contingit ut quando aër externus majorem calorem est",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "adeptus, internum, qui thermometro est inclusus, dilatet;",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "quâ dilatatione superficies aquæ fortis premitur, ut pro-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "ratione dilatationis magis vel minus alte deprimatur.",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "Si verò contingat ut aër externus frigidior factus sit, aër,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 24,
+     "text": "qui thermometro est inclusus, inde quoq; refrigeratur;",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "Hinc aër externus gravior factus premit aquam fortem",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "in vasculo contentam ut ascendat, ascensus etiam juva-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "tur quòd aër, qui thermometro inclusus, refrigeratus ad",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "angustius spatium redigitur. Thermometri usus apprimè",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "facit ad tempestatis variationem observandam, caloris",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "scil. & frigoris mutatos gradus: Ut qui tempore hyemali",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "juvare plantarum germinationem volentes hypocausta",
+     "heading": 0
+    }
+   ],
+   "catchword": "certô",
+   "signature": "B 3"
+  },
+  {
+   "n": 15,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: Proinde"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "certò temperamentò calefaciunt, thermometri ope utilis-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "simè uti possint.",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "LVI.",
+     "heading": 1,
+     "caput": "56",
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "Ut verò circulus locum ubivis habeat oportet loco-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "rum inæqualitates compensari inæqualitate motûs, hoc",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "est, quò locus, quem circulus transit, spatiosior vel an-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "gustior, eò motus tardior vel celerior est. Ponamus E.",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "G. locos tres, quorum secundus duplo sit angustior pri-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "mô, & tertius quadruplo angustior eòdem primô, neces-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "sum erit ut materia eadem duplo celerius moveatur in",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "loco secundo & quadruplo celerius in loco tertio, quàm",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "in primo mota fuit. Hacq; ratione si celeritas motûs",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "angustiam loci ubiq; penset & æquet, eôdem tempore per",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "angustiorem locum non minus materiæ transit quàm per",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "laxiorem; Ita ut minimè necesse sit aut vacuum commi-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "nisci, aut condensationem materiæ admittere.",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "LVII.",
+     "heading": 1,
+     "caput": "57",
+     "para": true
+    },
+    {
+     "n": 18,
+     "text": "Hujusce compensationis quotidiana habemus exem-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 19,
+     "text": "pla; Ita videmus aquam fluvij per patentem alveum tar-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "do provehi motu, per angustias verò celerrimè abripi.",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "Sic aër ex folle, quamvis lente claudatur, valdè tamen",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "celeriter egreditur propter foraminis angustiam.",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "LVIII.",
+     "heading": 1,
+     "caput": "58",
+     "para": true
+    },
+    {
+     "n": 24,
+     "text": "Quæris, unde motûs celeritas in angustioribus locis",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 25,
+     "text": "& ejusdem motûs tarditas in patentioribus oriatur? Resp.",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "Fluidum quodvis habet promiscuum particularum sua-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "rum motum; Hic motus ex parte transire solet in flu-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "xum quando fluidum fluit; Ut nova sic fiat motûs deter-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "minatio. Et fluidum nunquàm tam celeriter fluit quin",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "in eo motûs promiscui multùm superfit; Quò celerior",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "verò est fluxus, eò debilior est motus promiscuus, & quò",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "fluxus tardior, eò motus quoq; promiscuus est celerior.",
+     "heading": 0
+    }
+   ],
+   "catchword": "Proinde"
+  },
+  {
+   "n": 16,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: cedere."
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "Proinde celeritas fluidi in angustioribus locis oritur ex",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "diminutione motûs promiscui; Tarditas verò fluxûs in",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "patentioribus locis oritur ex motûs promiscui incremen-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "to. Ita ut neq; in angustioribus neq; in patentioribus",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "locis novus fiat motus, sed nova duntaxat motûs deter-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "minatio.",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "LIX.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 8,
+     "text": "Ex eo, quòd in omni motu integer simul movetur",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 9,
+     "text": "circulus, sequitur materiam esse divisam in indefini-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "tum, hoc est, in tot partes, ut nullam cogitatione deter-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "minare possimus tam exiguam, quin intelligamus ipsam",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "in alias minores reipsa esse divisam. Finge enim mate-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "riam, quæ primò unum duntaxat implevit circuli spa-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "tium, deinde implere successive spatia ejusdem circuli",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "innumeris gradibus minora & minora & reperies id fie-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "ri non posse, quin materia, quæ primò majus circuli spa-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "tium implevit, divisa fit in indefinitum. <i>Primò</i> enim",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "materia circuli spatia innumeris gradibus minora & mino-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "ra transfire non potest, quin materiæ innumerâ varietate",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "minor minorq; fiat diminutio. <i>Secundò</i> tanta spatiorum",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "minorum minorumq; varietas innumerabili angulorum",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "diversitate est terminata, quos omnes eadem materia suc-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "cessive implere non potest, quinad innumerabiles eorum",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "mensuras innumerabiles accomodet figuras, ut quantula-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "cunq; angulorum spatiola aptè impleantur. Quod ut fiat",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "necesse est omnes imaginabiles materiæ particulas, quæ",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "sunt revera innumeræ, à se mutuò aliquantulum remo-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "veri; Eædem enim materiæ particulæ, quæ unius angu-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "li extrema spatiola impleverunt, non sunt aptæ ut pro-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "ximè subsequentis anguli extremitates impleant, unde",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "necesse est alias materiæ particulas ad occupandum ac-",
+     "heading": 0
+    }
+   ],
+   "catchword": "cedere,"
+  },
+  {
+   "n": 17,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "cedere, & quæ particulæ extremitates superioris angu-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "li occupárunt, nunc mediam particularum turbam sunt in-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "gressæ, quam etiam ingressæ non sunt, quin aliæ particulæ",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "earum figuræ se accomodaverint quàm antea; Hæcq; or-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "dinis inter materiæ particulas mutatio innumerâ varie-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "tate fieri debet, quia in circulo, de quo dictum, innume-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "ram angulorum varietatem occupare debent; Et talis",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "quantulacunq; innumerâ varietate particularum â se mu-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "tuò factaremotio vera est materiæin indefinitum divisio.",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "LX.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 11,
+     "text": "Interim notandum est nos non loqui de tota mate-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 12,
+     "text": "ria, sed tantùm de aliqua ejus parte. Fieri enim potest",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "in maximo circuli spatio duas aut tres esse materiæ par-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "tes tantæ latitudinis quantæ est angustissimum circuli spa-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "tium, quas circulariter per integrum circulum moveri",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "posse facilè intelligimus quanquàm in indefinitum non",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "sint divisæ & solam celeritatem motûs ad rationem",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "loci occupandi accomodent. Interim majores illæ ma-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "teriæ partes in circulo moveri non possent nisi aliæ mul-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "tòq; minores ipsis admistæ essent, quæ se quomodolibet",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "inflectant & figuras suas sic mutent, ut junctæ istis ma-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "joribus figuras suas non ita mutantibus sed solam cele-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "ritatem motûs ad rationem loci occupandi accommo-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "dantibus, omnes angulos, quos istæ majores non occu-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "pant, accuratè compleant.",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "LXI.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 27,
+     "text": "Et quamvis quomodo fiat indefinita materiæ divi-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 28,
+     "text": "sio cogitatione comprehendere nequeamus, non ideò",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "tamen dubitare debemus quin fiat; Quia clarè percipi-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "mus illam necessariò sequi ex natura materiæ nobis evi-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "dentissimè cognita, percipimusq; etiam eam esse de ge-",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "nere",
+     "heading": 0
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: statuen-"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "mere eorum, quæ â mente nostra, quia finita est, capi",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "non possunt. Finge enim particulam materiæ quatum-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "vis exiguam & reperies eam porrò dividi posse quia suis",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "constat portiunculis: Sume easdem portiunculas &",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "reperies eas porrò dividi posse, & ita deinceps. Ut tan-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "dem fatearis necesse sit divisionem materiæ nobis esse",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "incomprehensibilem, quia eam nobis incomprehensibi-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "lem esse clarè percipimus.",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "LXII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 10,
+     "text": "Et sanè Aristotelici fluidum ita considerant, ut, quan-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 11,
+     "text": "quàm materiam in indefinitum revera divisam esse non",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "dixerint, inde sequatur in indefinitum materiam revera",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "divisam esse. Considerarunt enim Aristotelici fluidum",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "ita ut dixerint de fluidis, quòd alienis terminis facilè se",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "accommodent; Id quod fieri non posse suprà demon-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "stravimus, quin materia in indefinitum sit divisa. Inte-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "rim observari volumus quòd materiæ divisio in indefi-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "nitum non cadat in quodvis fluidum, sed in eam dun-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "taxat materiæ partem, quæ à nobis materia primi",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "elementi vocatur.",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "LXIII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 22,
+     "text": "Nullus etiam motus tàm velox est quin intelligamus",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 23,
+     "text": "clarè & distinctè quòd velocior esse possit; Ita ut affirme-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "mus motum augeri in indefinitum posse. Ut argumentum",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "Copernicanorum, quô firmamenti raptum destruere vo-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "lunt, nullius sit conatis quando ita argumentantur; Si",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "firmamentum moveretur, singulæ stellæ fixæ motu ho-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "rario absolverent, secundùm computationem Tychonia-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "nam, milliaria 26277. Quæ motûs celeritas, inquiunt,",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "absurda est, quia eam nobis imaginari non possumus.",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "Argumentum nihili facimus quia clarè & distinctè intel-",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "ligimus quòd motus augeri in indefinitum possit, ita ut",
+     "heading": 0
+    }
+   ],
+   "catchword": "statuen-",
+   "signature": "C",
+   "notes": "Page number not printed. Running head absent. Catchword \"statuen-\" and signature \"C\" are at the foot. Left edge of the scan is partly obscured by stains; the first line is read from the scan as \"mere eorum\". Printed \"26277\" is copied as shown."
+  },
+  {
+   "n": 19,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: respe-"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "statuendum quòd motus innumeris gradibus velocior ef-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "se possit. In accurata veri inquisitione non attendendum",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "quid nobis imaginari, sed quid clarè & distinctè intelli-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "gere possimus. Chiliogonum etiam nobis imaginari non",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "possumus, an propterea negandum quòd constet mille",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "angulis? Satis est clarè & distinctè intelligi quòd mille",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "angulis constet.",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "LXIV.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 9,
+     "text": "Quàm sensus cæcutiant in subtiliore veri indagatio-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 10,
+     "text": "ne patet vel ex exemplo motûs. Fieri enim potest ut",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "quòd in velocissimo est motu id quiescere visus judicet;",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "Sic lapis molaris in gyrum vehementer circumactus quie-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "scere visui videtur. Ita in navigio sedentes, quanquàm",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "navigium velocissimè provehatur, facilè contingit judi-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "care navigium quiescere.",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "LXV.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 17,
+     "text": "Facilè etiam contingit ut quod quiescit id moveri",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 18,
+     "text": "sensus judicet; Ita littora, quæ præternavigamus, move-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "ri visus frequenter judicat. Ita de nocte contingit ut",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "intuentes lunam & nubes inter lunam & nos interpo-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "sitas putemus nubes quiescere & lunam moveri; Quan-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "quàm intellectu deprehendamus quòd lunæ motus assi-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "cere visum non possit.",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "LXVI.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 25,
+     "text": "Quæris unde fiat ut quod quiescit moveri & quod",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 26,
+     "text": "movetur quiescere aliquando videatur. Resp. Id vel",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "inde est quòd res metiri ex respectu assuevimus quem",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "erga nos habent; Hinc fit ut quod respectu nostri situm",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "mutat vel non mutat, id moveri vel quiescere putemus,",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "quanquàm velocissimè moveatur; Ita navigium, quò ve-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "himur, à nobis spectatur ut quiescens quia situm, quem",
+     "heading": 0
+    }
+   ],
+   "catchword": "respe",
+   "notes": "Printed page with no page number. Heading numerals LXIV, LXV, LXVI are set as centred headings; s long s transcribed as s. Lower right word \"respe\" is the catchword."
+  },
+  {
+   "n": 20,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "respectu nostri habet, non mutat; Vice versâ fi in",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "lectore staremus & idem navigium præterveheretur, littus",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "quiescere & navigium moveri sensus judicaret. Vel de-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "inde id oritur ex eo quòd alterutrum corpus pro arbi-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "trio spectamus ut quiescens ex consuetudine,quâ in omni",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "motu unum spectatur ut quiescens. Ita quando de no-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "cte contingit ut luna moveri videatur, id ex eo est quòd",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "nubem interpositam spectavimus ut quiescentem,fi verò",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "attentionem nostram, quâ nubem spectavimus ut quie-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "scentem, transferre volumus in lunam ut eam fpecte-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "mus ut quiescentem, tunc fiet ut nubes videatur mo-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "veri & luna quiescere.",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "COROLLARIA",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 14,
+     "text": "1. <i>In aqua stagnante non minus est motûs</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 15,
+     "text": "<i>quàm in aqua fluente.</i>",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "2. <i>Nec plus est motûs in homine currente</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 17,
+     "text": "<i>quàm in eodem quiescente.</i>",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "3. <i>In corpore tardè moto potest plus esse motûs</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 19,
+     "text": "<i>quàm in corpore celeriter moto.</i>",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "4. <i>In corpore moto eò est plus motûs quò plus</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 21,
+     "text": "<i>in eo est quietis.</i>",
+     "heading": 0
+    }
+   ],
+   "signature": "Or",
+   "notes": "Ornamental rule between the text and the heading is not transcribed. The signature mark \"Or\" at lower right is handwritten-looking or a catchword and may be unclear. Page number not printed."
+  },
+  {
+   "n": 21,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "Ornatissimo Dn. Respondenti.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "<i>S</i>CANDIT in excelsam populo spectante cathedram",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "DE LOSEA, sumos appetit atq; gradus.",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "Plaudite Sicelides, gratantia fundite vota,",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "Inq; caput flores spargite odoriferos.",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "Nunc vigilando tibi palmam laurumq; parasti,",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "Quæ magni semper signa laboris erunt.",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "Horrendum David membris animisq; Goliam,",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "Hostes, ut vicit, sic superare queas.",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "<i>Hæc paucula cognato suo perdilecto scripsit</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 11,
+     "text": "CORNELIUS SUTER.",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "FINIS",
+     "heading": 1,
+     "para": true
+    }
+   ],
+   "notes": "The initial S of the poem is a large decorative letter, joined to \"CANDIT\". The first word of the poem is set in small capitals. Ornamental woodcuts above and below the text are not transcribed. Doubtful readings: \"gratantia\" and \"Goliam\" are as printed. Verse lines are kept as printed, with long s replaced by s."
+  }
+ ]
+}
