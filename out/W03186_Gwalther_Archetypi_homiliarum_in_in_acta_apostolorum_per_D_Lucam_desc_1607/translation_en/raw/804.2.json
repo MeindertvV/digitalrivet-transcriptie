@@ -1,0 +1,47 @@
+{
+  "units": [
+    "804.2",
+    "804.3",
+    "804.4",
+    "804.5",
+    "804.6",
+    "804.7",
+    "804.8",
+    "805.2",
+    "805.3",
+    "805.4",
+    "805.5",
+    "806.2",
+    "806.3",
+    "807.2",
+    "807.3",
+    "807.4",
+    "808.2",
+    "808.3",
+    "808.4",
+    "808.5",
+    "809.2"
+  ],
+  "model": "claude-haiku-5-5",
+  "prompt_sha256": "de2e0de3f4c4208a",
+  "stop_reason": "end_turn",
+  "batch": true,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 1789,
+    "inference_geo": "global",
+    "input_tokens": 2989,
+    "output_tokens": 3536,
+    "output_tokens_details": {
+      "thinking_tokens": 1116
+    },
+    "server_tool_use": null,
+    "service_tier": "batch",
+    "speed": "standard"
+  },
+  "cost_usd": 0.00104
+}
