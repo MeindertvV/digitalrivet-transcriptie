@@ -1,0 +1,626 @@
+{
+ "work": "W03502_Hoornbeeck_De_independentismo_Epistola_1661",
+ "made": "2026-11-26T11:09:02",
+ "model": "claude-haiku-5-5",
+ "prompt": "655260ce46aa8978",
+ "candidates": 168,
+ "cost_usd": 0.01312,
+ "dropped": [],
+ "toc": [
+  {
+   "scan": 3,
+   "line": 1,
+   "lines": [
+    [
+     3,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Johannis Hoornbeeck epistola ad Joh. Duræum."
+  },
+  {
+   "scan": 46,
+   "line": 1,
+   "lines": [
+    [
+     46,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. III. Externa ecclesia quæ in sacris litteris ut spiritualis politia, & domus Dei describitur, illis limitibus jure"
+  },
+  {
+   "scan": 399,
+   "line": 1,
+   "lines": [
+    [
+     399,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Declaratio fidei, atque ordinis ecclesiarum congregationalium, in Anglia."
+  },
+  {
+   "scan": 399,
+   "line": 2,
+   "lines": [
+    [
+     399,
+     2
+    ],
+    [
+     399,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. I. De sacra Scriptura."
+  },
+  {
+   "scan": 402,
+   "line": 3,
+   "lines": [
+    [
+     402,
+     3
+    ],
+    [
+     402,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. II. De Deo & sancta Trinitate."
+  },
+  {
+   "scan": 403,
+   "line": 3,
+   "lines": [
+    [
+     403,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. III. De æterno Dei decreto."
+  },
+  {
+   "scan": 405,
+   "line": 2,
+   "lines": [
+    [
+     405,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. IV. De creatione."
+  },
+  {
+   "scan": 405,
+   "line": 5,
+   "lines": [
+    [
+     405,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. V. De providentia."
+  },
+  {
+   "scan": 407,
+   "line": 3,
+   "lines": [
+    [
+     407,
+     3
+    ],
+    [
+     407,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. VI. De hominis lapsu, peccato, atque ejus pœna."
+  },
+  {
+   "scan": 408,
+   "line": 2,
+   "lines": [
+    [
+     408,
+     2
+    ],
+    [
+     408,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. VII. De fœdere Dei cum homine."
+  },
+  {
+   "scan": 409,
+   "line": 2,
+   "lines": [
+    [
+     409,
+     2
+    ],
+    [
+     409,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. VIII. De Christo mediatore."
+  },
+  {
+   "scan": 411,
+   "line": 2,
+   "lines": [
+    [
+     411,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. IX. De libero arbitrio."
+  },
+  {
+   "scan": 412,
+   "line": 1,
+   "lines": [
+    [
+     412,
+     1
+    ],
+    [
+     412,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. X. De vocatione efficaci."
+  },
+  {
+   "scan": 413,
+   "line": 1,
+   "lines": [
+    [
+     413,
+     1
+    ],
+    [
+     413,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. XI. De iustificatione."
+  },
+  {
+   "scan": 414,
+   "line": 4,
+   "lines": [
+    [
+     414,
+     4
+    ],
+    [
+     414,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. XII. De adoptione."
+  },
+  {
+   "scan": 414,
+   "line": 7,
+   "lines": [
+    [
+     414,
+     7
+    ],
+    [
+     414,
+     8
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. XIII. De sanctificatione."
+  },
+  {
+   "scan": 415,
+   "line": 4,
+   "lines": [
+    [
+     415,
+     4
+    ],
+    [
+     415,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. XIV. De fide salvifica."
+  },
+  {
+   "scan": 416,
+   "line": 3,
+   "lines": [
+    [
+     416,
+     3
+    ],
+    [
+     416,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. XV. De resipiscentia ad vitam & salutem."
+  },
+  {
+   "scan": 417,
+   "line": 3,
+   "lines": [
+    [
+     417,
+     3
+    ],
+    [
+     417,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. XVI. De bonis operibus."
+  },
+  {
+   "scan": 418,
+   "line": 5,
+   "lines": [
+    [
+     418,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. XVII. De perseverantia sanctorum."
+  },
+  {
+   "scan": 419,
+   "line": 4,
+   "lines": [
+    [
+     419,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. XVIII. De certitudine gratiæ, ac salutis."
+  },
+  {
+   "scan": 420,
+   "line": 4,
+   "lines": [
+    [
+     420,
+     4
+    ],
+    [
+     420,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. XIX. De lege Dei."
+  },
+  {
+   "scan": 422,
+   "line": 3,
+   "lines": [
+    [
+     422,
+     3
+    ],
+    [
+     422,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. XX. De evangelio, & gratiæ ipsius extensione."
+  },
+  {
+   "scan": 423,
+   "line": 4,
+   "lines": [
+    [
+     423,
+     4
+    ],
+    [
+     423,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. XXI. De libertate christiana, & conscientia."
+  },
+  {
+   "scan": 424,
+   "line": 4,
+   "lines": [
+    [
+     424,
+     4
+    ],
+    [
+     424,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. XXII. De cultu religioso, & sabbato."
+  },
+  {
+   "scan": 426,
+   "line": 4,
+   "lines": [
+    [
+     426,
+     4
+    ],
+    [
+     426,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. XXIII. De legitimis juramentis & votis."
+  },
+  {
+   "scan": 427,
+   "line": 6,
+   "lines": [
+    [
+     427,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. XXIV. De magistratu civili."
+  },
+  {
+   "scan": 429,
+   "line": 1,
+   "lines": [
+    [
+     429,
+     1
+    ],
+    [
+     429,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. XXV. De matrimonio."
+  },
+  {
+   "scan": 429,
+   "line": 7,
+   "lines": [
+    [
+     429,
+     7
+    ],
+    [
+     429,
+     8
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. XXVI. De ecclesia."
+  },
+  {
+   "scan": 430,
+   "line": 5,
+   "lines": [
+    [
+     430,
+     5
+    ],
+    [
+     430,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. XXVII. De communione sanctorum."
+  },
+  {
+   "scan": 431,
+   "line": 3,
+   "lines": [
+    [
+     431,
+     3
+    ],
+    [
+     431,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. XXVIII. De sacramentis."
+  },
+  {
+   "scan": 432,
+   "line": 3,
+   "lines": [
+    [
+     432,
+     3
+    ],
+    [
+     432,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. XXIX. De baptismo."
+  },
+  {
+   "scan": 433,
+   "line": 3,
+   "lines": [
+    [
+     433,
+     3
+    ],
+    [
+     433,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. XXX. De cœna Domini."
+  },
+  {
+   "scan": 435,
+   "line": 2,
+   "lines": [
+    [
+     435,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. XXXI. De statu hominis post mortem, & resurrectione mortuorum."
+  },
+  {
+   "scan": 436,
+   "line": 1,
+   "lines": [
+    [
+     436,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. XXXII. De ultimo judicio."
+  },
+  {
+   "scan": 436,
+   "line": 5,
+   "lines": [
+    [
+     436,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "De institutione ecclesiarum, atque ordine in illis à Jesu Christo constituto."
+  },
+  {
+   "scan": 444,
+   "line": 1,
+   "lines": [
+    [
+     444,
+     1
+    ],
+    [
+     444,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Index rerum, & materiarum."
+  },
+  {
+   "scan": 451,
+   "line": 1,
+   "lines": [
+    [
+     451,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Dissertatio, de episcopatu."
+  },
+  {
+   "scan": 452,
+   "line": 3,
+   "lines": [
+    [
+     452,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "De conjungendo regimine episcopali, cum presbyteriali."
+  },
+  {
+   "scan": 461,
+   "line": 1,
+   "lines": [
+    [
+     461,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Notæ."
+  },
+  {
+   "scan": 469,
+   "line": 3,
+   "lines": [
+    [
+     469,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "De reductione episcopatus ad formam regiminis synodici, in antiquâ ecclesiâ recepti."
+  },
+  {
+   "scan": 469,
+   "line": 5,
+   "lines": [
+    [
+     469,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "De conjungendo regimine episcopali, cum presbyteriali."
+  }
+ ],
+ "book": "Two works in one volume: Johannes Hoornbeeck's Epistola ad Joh. Durœum de independentismo, with the appended Declaratio fidei of the Congregational churches in England and an index, then Jacobus Ussher's Dissertatio de episcopatu with Hoornbeeck's notes (Notæ).",
+ "series": [
+  {
+   "label": "Cap.",
+   "first": "I",
+   "last": "XXXII",
+   "count": 32,
+   "level": 2,
+   "found": 36
+  }
+ ],
+ "taste": 50,
+ "doubt": "353 of 562 scans without an entry",
+ "input": 19110,
+ "output": 19189
+}
