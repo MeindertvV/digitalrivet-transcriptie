@@ -1,0 +1,37 @@
+{
+  "units": [
+    "412.1",
+    "412.2",
+    "412.4",
+    "412.9",
+    "412.19",
+    "412.26",
+    "412.32",
+    "412.36",
+    "412.50",
+    "412.60",
+    "413.5"
+  ],
+  "model": "claude-haiku-5-5",
+  "prompt_sha256": "b7aaeff0ec41901a",
+  "stop_reason": "end_turn",
+  "batch": true,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 1795,
+    "inference_geo": "global",
+    "input_tokens": 3116,
+    "output_tokens": 2925,
+    "output_tokens_details": {
+      "thinking_tokens": 711
+    },
+    "server_tool_use": null,
+    "service_tier": "batch",
+    "speed": "standard"
+  },
+  "cost_usd": 0.0009
+}
