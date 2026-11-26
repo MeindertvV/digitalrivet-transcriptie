@@ -1,0 +1,746 @@
+{
+ "work": "W03396_Heidegger_seu_in_divi_Iohannis_theologi_Apocalypseos_prophetiam_de_Bab_1687",
+ "made": "2026-11-26T01:25:09",
+ "model": "claude-haiku-5-5",
+ "prompt": "655260ce46aa8978",
+ "candidates": 496,
+ "cost_usd": 0.0323,
+ "dropped": [
+  "title 'Sectio tertia. Qua Hierarchiam, seu Clerum Ecclesiae Romanae dominantem sibi, Imperii ecclesiastici & spiritualis titulo, summum & mere terrenum in Reges & populos terrae Imperium vendicare asseritur, tertiumque argumentum concluditur.' is not in 'DISSERTATIONIS VIII. SECTIO TERTIA, QUA Hierarchiam, seu Clerum Ecclesiæ Romanæ dominan-': to the scan",
+  "title 'Sectio posterior. Qua Papam Romanum, Hierarchiae Caput, sibi cultum Divinum religiosum vindicare, astruitur.' is not in 'DISSERTATIONIS DECIMÆ SECTIO POSTERIOR.': to the scan",
+  "no scans for 6 wanted"
+ ],
+ "toc": [
+  {
+   "scan": 3,
+   "line": 0,
+   "lines": [
+    [
+     3,
+     0
+    ],
+    [
+     3,
+     0
+    ],
+    [
+     3,
+     0
+    ],
+    [
+     3,
+     0
+    ],
+    [
+     3,
+     0
+    ]
+   ],
+   "level": 1,
+   "title": "Joh. Henrici Heideggeri seu In Divi Johannis Theologi Apocalypseos prophetiam de Babylone magna Diatribae. Tomus prior"
+  },
+  {
+   "scan": 7,
+   "line": 1,
+   "lines": [
+    [
+     7,
+     1
+    ],
+    [
+     7,
+     2
+    ],
+    [
+     7,
+     3
+    ],
+    [
+     7,
+     4
+    ],
+    [
+     7,
+     5
+    ],
+    [
+     7,
+     6
+    ],
+    [
+     7,
+     7
+    ],
+    [
+     7,
+     8
+    ],
+    [
+     7,
+     9
+    ],
+    [
+     7,
+     10
+    ],
+    [
+     7,
+     11
+    ],
+    [
+     7,
+     12
+    ],
+    [
+     7,
+     13
+    ],
+    [
+     7,
+     14
+    ],
+    [
+     7,
+     15
+    ],
+    [
+     7,
+     16
+    ]
+   ],
+   "level": 2,
+   "title": "Serenissimo et potentissimo principi, domino Friderico Wilhelmo, Marchioni Brandenburgico, Sacri Romani Imperii archicamerario et principi electori; Prussiae, Magdeburgi, Juliaci, Cliviae, Montium, Stetini, Pomeraniae, Cassubiorum Vandalorumque, nec non in Silesia Crosnae & Suibusfiae duci; Norinbergensi burggravio; Halberstadii, Mindae & Camini principi; Marcae, Hohenzolleræ, & Ravensbergi comiti; domino in Ravensperg, Lauenburg, & Bütau; domino meo clementissimo"
+  },
+  {
+   "scan": 10,
+   "line": 1,
+   "lines": [
+    [
+     10,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Dedicatio"
+  },
+  {
+   "scan": 27,
+   "line": 1,
+   "lines": [
+    [
+     27,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Prologus galeatus"
+  },
+  {
+   "scan": 43,
+   "line": 1,
+   "lines": [
+    [
+     43,
+     1
+    ],
+    [
+     43,
+     2
+    ],
+    [
+     43,
+     3
+    ],
+    [
+     43,
+     4
+    ],
+    [
+     43,
+     5
+    ],
+    [
+     43,
+     6
+    ],
+    [
+     43,
+     13
+    ],
+    [
+     43,
+     14
+    ],
+    [
+     43,
+     15
+    ],
+    [
+     43,
+     16
+    ],
+    [
+     43,
+     17
+    ],
+    [
+     43,
+     18
+    ]
+   ],
+   "level": 2,
+   "title": "Vaticinium Sancti Johannis Theologi de Babylone magna. Textus Apocalypseos"
+  },
+  {
+   "scan": 43,
+   "line": 7,
+   "lines": [
+    [
+     43,
+     7
+    ],
+    [
+     43,
+     19
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XVII"
+  },
+  {
+   "scan": 45,
+   "line": 7,
+   "lines": [
+    [
+     45,
+     7
+    ],
+    [
+     45,
+     31
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XVIII"
+  },
+  {
+   "scan": 49,
+   "line": 3,
+   "lines": [
+    [
+     49,
+     3
+    ],
+    [
+     49,
+     4
+    ],
+    [
+     49,
+     13
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XIX"
+  },
+  {
+   "scan": 51,
+   "line": 1,
+   "lines": [
+    [
+     51,
+     1
+    ],
+    [
+     51,
+     2
+    ],
+    [
+     51,
+     3
+    ],
+    [
+     51,
+     4
+    ],
+    [
+     51,
+     5
+    ],
+    [
+     51,
+     6
+    ],
+    [
+     51,
+     7
+    ],
+    [
+     51,
+     8
+    ]
+   ],
+   "level": 2,
+   "title": "Serenissimi et potentissimi principis Jacobi primi, Magnae Britanniae, Scotiae & Hyberniae Regis, In Vaticinium S. Johannis Theologi, de Babylone magna, Paraphrasis"
+  },
+  {
+   "scan": 51,
+   "line": 9,
+   "lines": [
+    [
+     51,
+     9
+    ],
+    [
+     51,
+     10
+    ],
+    [
+     51,
+     11
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XVII. Angelus Joanni manifestam facit, & perspicuam hanc Papae visionem: fuseque illum describit: tum auctores modumque exitii illius clarissime explicat"
+  },
+  {
+   "scan": 55,
+   "line": 2,
+   "lines": [
+    [
+     55,
+     2
+    ],
+    [
+     55,
+     3
+    ],
+    [
+     55,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XVIII. Luctus orbis in ruina Papatus: quae commoda hominibus huius mundi ex prosperis Papae rebus redundarint: ingentes illius Ecclesiae divitiae & opulentia: animarum nundinatio per indulgentias: caelites de ejus exitio interea temporis laetantur, dum mundus & mundani homines eapropter incedunt pullati"
+  },
+  {
+   "scan": 58,
+   "line": 1,
+   "lines": [
+    [
+     58,
+     1
+    ],
+    [
+     58,
+     2
+    ],
+    [
+     58,
+     3
+    ],
+    [
+     58,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XIX. Sancti Deum laudant ob Papae exitium: Gloria secundi adventus Christi fuse explicata. Papae ejusque Ecclesiae aeterna damnatio"
+  },
+  {
+   "scan": 60,
+   "line": 1,
+   "lines": [
+    [
+     60,
+     1
+    ],
+    [
+     60,
+     2
+    ],
+    [
+     60,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Elenchus dissertationum. Tomi prioris"
+  },
+  {
+   "scan": 62,
+   "line": 1,
+   "lines": [
+    [
+     62,
+     1
+    ],
+    [
+     62,
+     2
+    ],
+    [
+     62,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Dissertatio prima. Qua falsae de Babylone Apocalyptica interpretationes refelluntur."
+  },
+  {
+   "scan": 109,
+   "line": 15,
+   "lines": [
+    [
+     109,
+     15
+    ],
+    [
+     109,
+     16
+    ],
+    [
+     109,
+     17
+    ],
+    [
+     109,
+     18
+    ]
+   ],
+   "level": 2,
+   "title": "Dissertatio secunda. Qua falsae de Bestia, meretricem portante, interpretationes refelluntur."
+  },
+  {
+   "scan": 134,
+   "line": 20,
+   "lines": [
+    [
+     134,
+     20
+    ],
+    [
+     134,
+     21
+    ],
+    [
+     134,
+     22
+    ],
+    [
+     134,
+     23
+    ],
+    [
+     134,
+     24
+    ],
+    [
+     134,
+     25
+    ]
+   ],
+   "level": 2,
+   "title": "Dissertatio tertia. Qua verborum, quibus mysterium Babylonis meretricis et Bestiae circumscribitur, dubiorum inprimis, sensus indefinitus explicatur."
+  },
+  {
+   "scan": 165,
+   "line": 1,
+   "lines": [
+    [
+     165,
+     1
+    ],
+    [
+     165,
+     2
+    ],
+    [
+     165,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Dissertatio quarta. Qua Ecclesia Romana Christiana distinctis periodis, cui ejusdem parti & tempori Babylonis Magnae mysterium quadret, definitur, simulque totius controversiae status figitur."
+  },
+  {
+   "scan": 183,
+   "line": 4,
+   "lines": [
+    [
+     183,
+     4
+    ],
+    [
+     183,
+     5
+    ],
+    [
+     183,
+     6
+    ],
+    [
+     183,
+     7
+    ],
+    [
+     183,
+     8
+    ]
+   ],
+   "level": 2,
+   "title": "Dissertatio quinta. Qua Hierarchiam, seu Clerum Ecclesiae Romanae dominantem, Magnam Babylonem esse argumento generali demonstratur."
+  },
+  {
+   "scan": 190,
+   "line": 16,
+   "lines": [
+    [
+     190,
+     16
+    ],
+    [
+     190,
+     17
+    ],
+    [
+     190,
+     18
+    ]
+   ],
+   "level": 2,
+   "title": "Dissertatio sexta. Qua Hierarchiam seu Clerum Ecclesiae Romanae dominantem Babylonem M. esse probatur. Primo, quia cum Babylone Chaldaica veteri quadantenus convenit."
+  },
+  {
+   "scan": 212,
+   "line": 1,
+   "lines": [
+    [
+     212,
+     1
+    ],
+    [
+     212,
+     2
+    ],
+    [
+     212,
+     3
+    ],
+    [
+     212,
+     4
+    ],
+    [
+     212,
+     5
+    ],
+    [
+     212,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "Dissertatio septima. Qua Hierarchiam seu Clerum Ecclesiae Romanae dominantem Babylonem Magnam esse probatur secundo, quia mysterii praetextu dominatur."
+  },
+  {
+   "scan": 274,
+   "line": 1,
+   "lines": [
+    [
+     274,
+     1
+    ],
+    [
+     274,
+     2
+    ],
+    [
+     274,
+     3
+    ],
+    [
+     274,
+     12
+    ],
+    [
+     274,
+     13
+    ]
+   ],
+   "level": 2,
+   "title": "Dissertatio octava. Qua Hierarchiam, seu Clerum Ecclesiae Romanae dominantem Babylonem Magnam esse probatur tertio, quia in Civitate Magna, Religiosa, in populum Magnum, Christi nomen professum licet, Clero dominanti parentem, septem collibus, totidemque provinciis distinctum, multorumque Regum potentia suffultum, imperium obtinet. Sectionibus tribus distincta."
+  },
+  {
+   "scan": 274,
+   "line": 18,
+   "lines": [
+    [
+     274,
+     18
+    ],
+    [
+     274,
+     19
+    ],
+    [
+     274,
+     20
+    ]
+   ],
+   "level": 3,
+   "title": "Sectio prima. Qua Hierarchiam, seu Clerum Ecclesiae Romanae dominantis, esse Magnam illam Civitatem, Religiosam, Babylonicam asseritur."
+  },
+  {
+   "scan": 352,
+   "line": 1,
+   "lines": [
+    [
+     352,
+     1
+    ],
+    [
+     352,
+     2
+    ],
+    [
+     352,
+     3
+    ],
+    [
+     352,
+     4
+    ],
+    [
+     352,
+     5
+    ],
+    [
+     352,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "Sectio secunda. Qua Hierarchiae, seu Clero Romano dominanti subesse Populum Magnum, qui Bestiae nomine venit, demonstratur."
+  },
+  {
+   "scan": 491,
+   "line": 3,
+   "lines": [
+    [
+     491,
+     3
+    ],
+    [
+     491,
+     4
+    ],
+    [
+     491,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Dissertatio nona. Qua Hierarchiam, seu Clerum Ecclesiae Romanae dominantem Babylonem Magnam esse probatur quarto, quia Babylonis M. habitus externus praetumidus ei quadrat."
+  },
+  {
+   "scan": 510,
+   "line": 2,
+   "lines": [
+    [
+     510,
+     2
+    ],
+    [
+     510,
+     3
+    ],
+    [
+     510,
+     4
+    ],
+    [
+     510,
+     5
+    ],
+    [
+     510,
+     6
+    ],
+    [
+     510,
+     7
+    ],
+    [
+     510,
+     8
+    ]
+   ],
+   "level": 2,
+   "title": "Dissertatio decima. Qua Hierarchiam, seu Clerum Ecclesiae Romanae dominantem Babylonem Magnam esse probatur quinto, quia ejus Caput, Papa, se, ceu Numen Divinitatis particeps, religiose coli patitur."
+  },
+  {
+   "scan": 510,
+   "line": 9,
+   "lines": [
+    [
+     510,
+     9
+    ],
+    [
+     510,
+     10
+    ],
+    [
+     510,
+     11
+    ],
+    [
+     510,
+     12
+    ],
+    [
+     510,
+     13
+    ],
+    [
+     510,
+     14
+    ]
+   ],
+   "level": 3,
+   "title": "Sectio prior. Qua Papam Romanum, Hierarchiae Caput, Divinitatem affectare, tum ex nomine Dei, tum ex octo Divinis attributis, quae sibi vindicat, demonstratur."
+  }
+ ],
+ "book": "Johann Heinrich Heidegger's Latin commentary on the Babylon prophecy of Revelation (Diatribae, Leiden 1687), here Tomus Prior only: title and dedications, Prologus Galeatus, the Greek and Latin Vaticinium of Apocalypse 17-19, James I's paraphrase, the table of dissertations, then Dissertations I-X in sections; Tomus Posterior is not in the scan.",
+ "series": [
+  {
+   "label": "Tomus",
+   "first": "Prior",
+   "last": "Posterior",
+   "count": 2,
+   "level": 1,
+   "found": 1
+  },
+  {
+   "label": "Dissertatio",
+   "first": "I",
+   "last": "XI",
+   "count": 11,
+   "level": 2,
+   "found": 16
+  },
+  {
+   "label": "Caput",
+   "first": "XVII",
+   "last": "XIX",
+   "count": 6,
+   "level": 3,
+   "found": 9
+  }
+ ],
+ "taste": 50,
+ "doubt": "",
+ "input": 62423,
+ "output": 40223
+}
