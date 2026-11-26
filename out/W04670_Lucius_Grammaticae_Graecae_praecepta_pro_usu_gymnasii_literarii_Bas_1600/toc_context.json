@@ -1,0 +1,1382 @@
+{
+ "work": "W04670_Lucius_Grammaticae_Graecae_praecepta_pro_usu_gymnasii_literarii_Bas_1600",
+ "made": "2026-11-26T10:00:31",
+ "model": "claude-haiku-5-5",
+ "prompt": "655260ce46aa8978",
+ "candidates": 710,
+ "cost_usd": 0.02762,
+ "dropped": [],
+ "toc": [
+  {
+   "scan": 4,
+   "line": 1,
+   "lines": [
+    [
+     4,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Grammaticae graecae praecepta"
+  },
+  {
+   "scan": 4,
+   "line": 4,
+   "lines": [
+    [
+     4,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "De orthographia"
+  },
+  {
+   "scan": 4,
+   "line": 7,
+   "lines": [
+    [
+     4,
+     7
+    ]
+   ],
+   "level": 3,
+   "title": "De vocalibus"
+  },
+  {
+   "scan": 5,
+   "line": 7,
+   "lines": [
+    [
+     5,
+     7
+    ],
+    [
+     5,
+     8
+    ]
+   ],
+   "level": 4,
+   "title": "II. Vocalium aliae sunt mutabiles, aliae immutabiles."
+  },
+  {
+   "scan": 5,
+   "line": 15,
+   "lines": [
+    [
+     5,
+     15
+    ],
+    [
+     5,
+     16
+    ]
+   ],
+   "level": 4,
+   "title": "III. Vocalium aliae sunt praepositivae, aliae postpositivae."
+  },
+  {
+   "scan": 6,
+   "line": 4,
+   "lines": [
+    [
+     6,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "De consonantibus"
+  },
+  {
+   "scan": 7,
+   "line": 1,
+   "lines": [
+    [
+     7,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "De spiritibus"
+  },
+  {
+   "scan": 7,
+   "line": 19,
+   "lines": [
+    [
+     7,
+     19
+    ]
+   ],
+   "level": 3,
+   "title": "De apostropho"
+  },
+  {
+   "scan": 8,
+   "line": 18,
+   "lines": [
+    [
+     8,
+     18
+    ]
+   ],
+   "level": 2,
+   "title": "De prosodia"
+  },
+  {
+   "scan": 8,
+   "line": 20,
+   "lines": [
+    [
+     8,
+     20
+    ]
+   ],
+   "level": 3,
+   "title": "De quantitate syllabarum"
+  },
+  {
+   "scan": 10,
+   "line": 19,
+   "lines": [
+    [
+     10,
+     19
+    ]
+   ],
+   "level": 3,
+   "title": "De accentibus"
+  },
+  {
+   "scan": 11,
+   "line": 9,
+   "lines": [
+    [
+     11,
+     9
+    ]
+   ],
+   "level": 4,
+   "title": "De acuto"
+  },
+  {
+   "scan": 13,
+   "line": 21,
+   "lines": [
+    [
+     13,
+     21
+    ]
+   ],
+   "level": 4,
+   "title": "De gravi"
+  },
+  {
+   "scan": 14,
+   "line": 12,
+   "lines": [
+    [
+     14,
+     12
+    ]
+   ],
+   "level": 4,
+   "title": "De circumflexo"
+  },
+  {
+   "scan": 15,
+   "line": 3,
+   "lines": [
+    [
+     15,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "De enclíticis"
+  },
+  {
+   "scan": 17,
+   "line": 10,
+   "lines": [
+    [
+     17,
+     10
+    ]
+   ],
+   "level": 3,
+   "title": "De contractionibus"
+  },
+  {
+   "scan": 20,
+   "line": 6,
+   "lines": [
+    [
+     20,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "De etymologia"
+  },
+  {
+   "scan": 21,
+   "line": 23,
+   "lines": [
+    [
+     21,
+     23
+    ]
+   ],
+   "level": 3,
+   "title": "De articulo"
+  },
+  {
+   "scan": 25,
+   "line": 5,
+   "lines": [
+    [
+     25,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "De nomine"
+  },
+  {
+   "scan": 25,
+   "line": 6,
+   "lines": [
+    [
+     25,
+     6
+    ],
+    [
+     25,
+     7
+    ]
+   ],
+   "level": 4,
+   "title": "Et primò. De qualitate nominum"
+  },
+  {
+   "scan": 31,
+   "line": 12,
+   "lines": [
+    [
+     31,
+     12
+    ]
+   ],
+   "level": 4,
+   "title": "II. De specie nominum"
+  },
+  {
+   "scan": 35,
+   "line": 6,
+   "lines": [
+    [
+     35,
+     6
+    ]
+   ],
+   "level": 4,
+   "title": "III. De figura nominum"
+  },
+  {
+   "scan": 35,
+   "line": 8,
+   "lines": [
+    [
+     35,
+     8
+    ]
+   ],
+   "level": 4,
+   "title": "IV. De persona nominum"
+  },
+  {
+   "scan": 36,
+   "line": 2,
+   "lines": [
+    [
+     36,
+     2
+    ]
+   ],
+   "level": 4,
+   "title": "V. De numero nominum"
+  },
+  {
+   "scan": 37,
+   "line": 5,
+   "lines": [
+    [
+     37,
+     5
+    ],
+    [
+     37,
+     6
+    ]
+   ],
+   "level": 4,
+   "title": "VI. De genere nominum"
+  },
+  {
+   "scan": 40,
+   "line": 4,
+   "lines": [
+    [
+     40,
+     4
+    ]
+   ],
+   "level": 5,
+   "title": "De anomalis genere"
+  },
+  {
+   "scan": 40,
+   "line": 16,
+   "lines": [
+    [
+     40,
+     16
+    ]
+   ],
+   "level": 4,
+   "title": "VII. De casu nominum"
+  },
+  {
+   "scan": 40,
+   "line": 21,
+   "lines": [
+    [
+     40,
+     21
+    ]
+   ],
+   "level": 4,
+   "title": "VIII. De declinatione nominum"
+  },
+  {
+   "scan": 42,
+   "line": 3,
+   "lines": [
+    [
+     42,
+     3
+    ]
+   ],
+   "level": 5,
+   "title": "De prima declinatione simplici"
+  },
+  {
+   "scan": 43,
+   "line": 10,
+   "lines": [
+    [
+     43,
+     10
+    ]
+   ],
+   "level": 5,
+   "title": "De secunda declinatione simplici"
+  },
+  {
+   "scan": 44,
+   "line": 19,
+   "lines": [
+    [
+     44,
+     19
+    ]
+   ],
+   "level": 5,
+   "title": "De tertia declinatione simplici"
+  },
+  {
+   "scan": 46,
+   "line": 18,
+   "lines": [
+    [
+     46,
+     18
+    ]
+   ],
+   "level": 5,
+   "title": "De quarta declinatione simplici"
+  },
+  {
+   "scan": 48,
+   "line": 4,
+   "lines": [
+    [
+     48,
+     4
+    ]
+   ],
+   "level": 5,
+   "title": "De quinta declinatione simplici"
+  },
+  {
+   "scan": 54,
+   "line": 11,
+   "lines": [
+    [
+     54,
+     11
+    ]
+   ],
+   "level": 5,
+   "title": "De prima declinatione contracta"
+  },
+  {
+   "scan": 56,
+   "line": 6,
+   "lines": [
+    [
+     56,
+     6
+    ]
+   ],
+   "level": 5,
+   "title": "De secunda declinatione contracta"
+  },
+  {
+   "scan": 57,
+   "line": 20,
+   "lines": [
+    [
+     57,
+     20
+    ]
+   ],
+   "level": 5,
+   "title": "De tertia declinatione contracta"
+  },
+  {
+   "scan": 59,
+   "line": 3,
+   "lines": [
+    [
+     59,
+     3
+    ],
+    [
+     59,
+     4
+    ]
+   ],
+   "level": 5,
+   "title": "De quarta declinatione contracta"
+  },
+  {
+   "scan": 59,
+   "line": 21,
+   "lines": [
+    [
+     59,
+     21
+    ]
+   ],
+   "level": 5,
+   "title": "De quinta declinatione contracta"
+  },
+  {
+   "scan": 61,
+   "line": 2,
+   "lines": [
+    [
+     61,
+     2
+    ]
+   ],
+   "level": 5,
+   "title": "De heteroclitis"
+  },
+  {
+   "scan": 62,
+   "line": 1,
+   "lines": [
+    [
+     62,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "De pronomine"
+  },
+  {
+   "scan": 62,
+   "line": 3,
+   "lines": [
+    [
+     62,
+     3
+    ]
+   ],
+   "level": 4,
+   "title": "I. De qualitate pronominum"
+  },
+  {
+   "scan": 62,
+   "line": 19,
+   "lines": [
+    [
+     62,
+     19
+    ]
+   ],
+   "level": 4,
+   "title": "II. De specie pronominum"
+  },
+  {
+   "scan": 63,
+   "line": 2,
+   "lines": [
+    [
+     63,
+     2
+    ]
+   ],
+   "level": 4,
+   "title": "III. De figura pronominum"
+  },
+  {
+   "scan": 63,
+   "line": 5,
+   "lines": [
+    [
+     63,
+     5
+    ]
+   ],
+   "level": 4,
+   "title": "IV. De persona pronominum"
+  },
+  {
+   "scan": 63,
+   "line": 13,
+   "lines": [
+    [
+     63,
+     13
+    ]
+   ],
+   "level": 4,
+   "title": "V. De numero pronominum"
+  },
+  {
+   "scan": 63,
+   "line": 20,
+   "lines": [
+    [
+     63,
+     20
+    ]
+   ],
+   "level": 4,
+   "title": "VI. De genere pronominum"
+  },
+  {
+   "scan": 64,
+   "line": 5,
+   "lines": [
+    [
+     64,
+     5
+    ]
+   ],
+   "level": 4,
+   "title": "VII. De casu pronominum"
+  },
+  {
+   "scan": 64,
+   "line": 13,
+   "lines": [
+    [
+     64,
+     13
+    ]
+   ],
+   "level": 4,
+   "title": "VIII. De declinatione pronominum"
+  },
+  {
+   "scan": 65,
+   "line": 14,
+   "lines": [
+    [
+     65,
+     14
+    ]
+   ],
+   "level": 3,
+   "title": "De verbo"
+  },
+  {
+   "scan": 65,
+   "line": 15,
+   "lines": [
+    [
+     65,
+     15
+    ],
+    [
+     65,
+     16
+    ]
+   ],
+   "level": 4,
+   "title": "Et primò. De qualitate verborum"
+  },
+  {
+   "scan": 66,
+   "line": 19,
+   "lines": [
+    [
+     66,
+     19
+    ]
+   ],
+   "level": 4,
+   "title": "II. De specie verborum"
+  },
+  {
+   "scan": 69,
+   "line": 11,
+   "lines": [
+    [
+     69,
+     11
+    ]
+   ],
+   "level": 4,
+   "title": "III. De figura verborum"
+  },
+  {
+   "scan": 69,
+   "line": 17,
+   "lines": [
+    [
+     69,
+     17
+    ]
+   ],
+   "level": 4,
+   "title": "IV. De persona verborum"
+  },
+  {
+   "scan": 70,
+   "line": 2,
+   "lines": [
+    [
+     70,
+     2
+    ]
+   ],
+   "level": 4,
+   "title": "V. De numero verborum"
+  },
+  {
+   "scan": 70,
+   "line": 11,
+   "lines": [
+    [
+     70,
+     11
+    ]
+   ],
+   "level": 4,
+   "title": "VI. De tempore verborum"
+  },
+  {
+   "scan": 71,
+   "line": 8,
+   "lines": [
+    [
+     71,
+     8
+    ]
+   ],
+   "level": 4,
+   "title": "VII. De modo verborum"
+  },
+  {
+   "scan": 71,
+   "line": 15,
+   "lines": [
+    [
+     71,
+     15
+    ]
+   ],
+   "level": 4,
+   "title": "VIII. De conjugatione verborum"
+  },
+  {
+   "scan": 72,
+   "line": 5,
+   "lines": [
+    [
+     72,
+     5
+    ]
+   ],
+   "level": 5,
+   "title": "De conjugationibus barytonis"
+  },
+  {
+   "scan": 74,
+   "line": 14,
+   "lines": [
+    [
+     74,
+     14
+    ]
+   ],
+   "level": 5,
+   "title": "De conjugationibus circumflexis"
+  },
+  {
+   "scan": 119,
+   "line": 8,
+   "lines": [
+    [
+     119,
+     8
+    ],
+    [
+     119,
+     9
+    ],
+    [
+     119,
+     10
+    ]
+   ],
+   "level": 4,
+   "title": "De formatione temporum, per omnes conjugationes"
+  },
+  {
+   "scan": 119,
+   "line": 11,
+   "lines": [
+    [
+     119,
+     11
+    ],
+    [
+     119,
+     12
+    ]
+   ],
+   "level": 5,
+   "title": "Et primò. De formatione temporum activorum"
+  },
+  {
+   "scan": 141,
+   "line": 3,
+   "lines": [
+    [
+     141,
+     3
+    ],
+    [
+     141,
+     4
+    ]
+   ],
+   "level": 4,
+   "title": "De formatione temporum in verbis passivis"
+  },
+  {
+   "scan": 154,
+   "line": 1,
+   "lines": [
+    [
+     154,
+     1
+    ]
+   ],
+   "level": 4,
+   "title": "De formatione temporum in verbis mediis"
+  },
+  {
+   "scan": 159,
+   "line": 11,
+   "lines": [
+    [
+     159,
+     11
+    ],
+    [
+     159,
+     12
+    ]
+   ],
+   "level": 4,
+   "title": "De verbis anomalis & defectivis"
+  },
+  {
+   "scan": 180,
+   "line": 1,
+   "lines": [
+    [
+     180,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "De participio"
+  },
+  {
+   "scan": 180,
+   "line": 2,
+   "lines": [
+    [
+     180,
+     2
+    ],
+    [
+     180,
+     3
+    ]
+   ],
+   "level": 4,
+   "title": "Et primò. De qualitate participiorum"
+  },
+  {
+   "scan": 180,
+   "line": 11,
+   "lines": [
+    [
+     180,
+     11
+    ]
+   ],
+   "level": 4,
+   "title": "II. De specie participiorum"
+  },
+  {
+   "scan": 180,
+   "line": 15,
+   "lines": [
+    [
+     180,
+     15
+    ]
+   ],
+   "level": 4,
+   "title": "III. De figura participiorum"
+  },
+  {
+   "scan": 180,
+   "line": 18,
+   "lines": [
+    [
+     180,
+     18
+    ]
+   ],
+   "level": 4,
+   "title": "IV. De persona participiorum"
+  },
+  {
+   "scan": 181,
+   "line": 1,
+   "lines": [
+    [
+     181,
+     1
+    ]
+   ],
+   "level": 4,
+   "title": "V. De numero participiorum"
+  },
+  {
+   "scan": 181,
+   "line": 5,
+   "lines": [
+    [
+     181,
+     5
+    ]
+   ],
+   "level": 4,
+   "title": "VI. De tempore participiorum"
+  },
+  {
+   "scan": 184,
+   "line": 19,
+   "lines": [
+    [
+     184,
+     19
+    ]
+   ],
+   "level": 4,
+   "title": "VII. De genere participiorum"
+  },
+  {
+   "scan": 186,
+   "line": 4,
+   "lines": [
+    [
+     186,
+     4
+    ]
+   ],
+   "level": 4,
+   "title": "VIII. De casu participiorum"
+  },
+  {
+   "scan": 186,
+   "line": 7,
+   "lines": [
+    [
+     186,
+     7
+    ],
+    [
+     186,
+     8
+    ]
+   ],
+   "level": 4,
+   "title": "IX. De declinatione participiorum"
+  },
+  {
+   "scan": 186,
+   "line": 17,
+   "lines": [
+    [
+     186,
+     17
+    ]
+   ],
+   "level": 3,
+   "title": "De adverbio"
+  },
+  {
+   "scan": 186,
+   "line": 18,
+   "lines": [
+    [
+     186,
+     18
+    ],
+    [
+     186,
+     19
+    ]
+   ],
+   "level": 4,
+   "title": "Et primò. De qualitate adverbiorum"
+  },
+  {
+   "scan": 188,
+   "line": 19,
+   "lines": [
+    [
+     188,
+     19
+    ]
+   ],
+   "level": 4,
+   "title": "II. De specie adverbiorum"
+  },
+  {
+   "scan": 190,
+   "line": 1,
+   "lines": [
+    [
+     190,
+     1
+    ]
+   ],
+   "level": 4,
+   "title": "III. De figura adverbiorum"
+  },
+  {
+   "scan": 190,
+   "line": 5,
+   "lines": [
+    [
+     190,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "De praepositione"
+  },
+  {
+   "scan": 190,
+   "line": 6,
+   "lines": [
+    [
+     190,
+     6
+    ],
+    [
+     190,
+     7
+    ]
+   ],
+   "level": 4,
+   "title": "Et primò. De qualitate praepositionum"
+  },
+  {
+   "scan": 190,
+   "line": 17,
+   "lines": [
+    [
+     190,
+     17
+    ]
+   ],
+   "level": 4,
+   "title": "II. De specie praepositionum"
+  },
+  {
+   "scan": 190,
+   "line": 20,
+   "lines": [
+    [
+     190,
+     20
+    ]
+   ],
+   "level": 4,
+   "title": "III. De figura praepositionum"
+  },
+  {
+   "scan": 192,
+   "line": 2,
+   "lines": [
+    [
+     192,
+     2
+    ]
+   ],
+   "level": 4,
+   "title": "IV. De ordine praepositionum"
+  },
+  {
+   "scan": 192,
+   "line": 7,
+   "lines": [
+    [
+     192,
+     7
+    ]
+   ],
+   "level": 3,
+   "title": "De conjunctione"
+  },
+  {
+   "scan": 192,
+   "line": 9,
+   "lines": [
+    [
+     192,
+     9
+    ]
+   ],
+   "level": 4,
+   "title": "De qualitate conjunctionum"
+  },
+  {
+   "scan": 193,
+   "line": 7,
+   "lines": [
+    [
+     193,
+     7
+    ]
+   ],
+   "level": 4,
+   "title": "II. De specie conjunctionum"
+  },
+  {
+   "scan": 193,
+   "line": 10,
+   "lines": [
+    [
+     193,
+     10
+    ]
+   ],
+   "level": 4,
+   "title": "III. De figura conjunctionum"
+  },
+  {
+   "scan": 193,
+   "line": 13,
+   "lines": [
+    [
+     193,
+     13
+    ]
+   ],
+   "level": 4,
+   "title": "IV. De ordine conjunctionum"
+  },
+  {
+   "scan": 193,
+   "line": 17,
+   "lines": [
+    [
+     193,
+     17
+    ]
+   ],
+   "level": 3,
+   "title": "De interjectione"
+  },
+  {
+   "scan": 193,
+   "line": 19,
+   "lines": [
+    [
+     193,
+     19
+    ]
+   ],
+   "level": 4,
+   "title": "De qualitate interjectionum"
+  },
+  {
+   "scan": 194,
+   "line": 15,
+   "lines": [
+    [
+     194,
+     15
+    ]
+   ],
+   "level": 4,
+   "title": "II. De specie interjectionum"
+  },
+  {
+   "scan": 194,
+   "line": 17,
+   "lines": [
+    [
+     194,
+     17
+    ]
+   ],
+   "level": 4,
+   "title": "III. De figura interjectionum"
+  },
+  {
+   "scan": 194,
+   "line": 19,
+   "lines": [
+    [
+     194,
+     19
+    ]
+   ],
+   "level": 2,
+   "title": "De syntaxi"
+  },
+  {
+   "scan": 194,
+   "line": 21,
+   "lines": [
+    [
+     194,
+     21
+    ]
+   ],
+   "level": 3,
+   "title": "De syntaxi articulorum"
+  },
+  {
+   "scan": 200,
+   "line": 18,
+   "lines": [
+    [
+     200,
+     18
+    ]
+   ],
+   "level": 3,
+   "title": "De syntaxi nominum"
+  },
+  {
+   "scan": 210,
+   "line": 19,
+   "lines": [
+    [
+     210,
+     19
+    ],
+    [
+     210,
+     20
+    ]
+   ],
+   "level": 3,
+   "title": "De syntaxi pronominum"
+  },
+  {
+   "scan": 213,
+   "line": 17,
+   "lines": [
+    [
+     213,
+     17
+    ]
+   ],
+   "level": 3,
+   "title": "De syntaxi verborum"
+  },
+  {
+   "scan": 233,
+   "line": 18,
+   "lines": [
+    [
+     233,
+     18
+    ],
+    [
+     233,
+     19
+    ]
+   ],
+   "level": 3,
+   "title": "De syntaxi impersonalium"
+  },
+  {
+   "scan": 234,
+   "line": 10,
+   "lines": [
+    [
+     234,
+     10
+    ],
+    [
+     234,
+     11
+    ]
+   ],
+   "level": 3,
+   "title": "De syntaxi participiorum"
+  },
+  {
+   "scan": 237,
+   "line": 1,
+   "lines": [
+    [
+     237,
+     1
+    ],
+    [
+     237,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "De syntaxi adverbiorum"
+  },
+  {
+   "scan": 242,
+   "line": 12,
+   "lines": [
+    [
+     242,
+     12
+    ],
+    [
+     242,
+     13
+    ]
+   ],
+   "level": 3,
+   "title": "De syntaxi praepositionum"
+  },
+  {
+   "scan": 245,
+   "line": 10,
+   "lines": [
+    [
+     245,
+     10
+    ],
+    [
+     245,
+     11
+    ]
+   ],
+   "level": 3,
+   "title": "De syntaxi conjunctionum"
+  },
+  {
+   "scan": 248,
+   "line": 8,
+   "lines": [
+    [
+     248,
+     8
+    ]
+   ],
+   "level": 3,
+   "title": "De syntaxi interjectionum"
+  },
+  {
+   "scan": 250,
+   "line": 13,
+   "lines": [
+    [
+     250,
+     13
+    ]
+   ],
+   "level": 3,
+   "title": "De figuris syntacticis"
+  }
+ ],
+ "book": "Lucius, Grammaticae Graecae praecepta pro usu gymnasii literarii (Basel 1600): a single Latin grammar of Ancient Greek for schools, in four parts (orthography, prosody, etymology, syntax), each divided into chapters and numbered subsections.",
+ "series": [
+  {
+   "label": "",
+   "first": "De orthographia",
+   "last": "De syntaxi",
+   "count": 4,
+   "level": 2,
+   "found": 4
+  },
+  {
+   "label": "",
+   "first": "De articulo",
+   "last": "De interjectione",
+   "count": 20,
+   "level": 3,
+   "found": 28
+  },
+  {
+   "label": "",
+   "first": "I. De qualitate nominum",
+   "last": "VIII. De declinatione nominum",
+   "count": 33,
+   "level": 4,
+   "found": 56
+  },
+  {
+   "label": "",
+   "first": "De prima declinatione simplici",
+   "last": "De quinta declinatione contracta",
+   "count": 10,
+   "level": 5,
+   "found": 15
+  }
+ ],
+ "taste": 50,
+ "doubt": "",
+ "input": 81136,
+ "output": 23375
+}
