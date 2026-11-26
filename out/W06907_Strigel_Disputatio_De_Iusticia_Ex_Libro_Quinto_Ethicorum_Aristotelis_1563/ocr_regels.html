@@ -1,0 +1,376 @@
+<!doctype html><meta charset=utf-8><meta name=viewport content='width=device-width,initial-scale=1'><title>OCR per regel</title><style>
+:root{--bg:#fffdf8;--ink:#2a241c;--muted:#857a69;--rule:#e4dccc;--goed:#2f7d32;--redelijk:#a07000;
+--afwijkend:#b3261e;--geen:#7a5aa8;--mark:#f7d77a}
+@media (prefers-color-scheme:dark){:root{--bg:#1f1b15;--ink:#e9e1d2;--muted:#9a8f7d;--rule:#383126;
+--goed:#7cc47f;--redelijk:#e0b54a;--afwijkend:#f08a80;--geen:#b9a0e0;--mark:#6b5414}}
+body{font:15px/1.45 Georgia,serif;max-width:1300px;margin:2em auto;padding:0 16px;color:var(--ink);background:var(--bg)}
+h1{font-size:1.4em} h3{margin:1.6em 0 .3em;font-size:1.05em} a{color:inherit}
+table{border-collapse:collapse;width:100%} td,th{border-bottom:1px solid var(--rule);padding:3px 6px;vertical-align:top;text-align:left}
+th{font:600 12px system-ui;color:var(--muted)} td.n,td.s{font:12px system-ui;white-space:nowrap;color:var(--muted)}
+td.s{text-align:right;font-weight:600} td.o{font-family:ui-monospace,monospace;font-size:13px;color:var(--muted)}
+tr.goed td.s{color:var(--goed)} tr.redelijk td.s{color:var(--redelijk)} tr.afwijkend td.s{color:var(--afwijkend)}
+tr.geen td.s{color:var(--geen)} tr.alleen td.s{color:var(--afwijkend)} td.gap{color:var(--muted);font-style:italic}
+tr.afwijkend td:first-child,tr.geen td:first-child,tr.alleen td:first-child{box-shadow:inset 3px 0 var(--afwijkend)}
+mark{background:var(--mark);color:inherit;border-radius:2px} .sum span{margin-right:1.4em;font:13px system-ui}
+.bar{display:flex;height:8px;border-radius:4px;overflow:hidden;margin:.5em 0 1em;max-width:600px}
+.bar i{display:block} p.no{color:var(--muted);font-style:italic}
+label{font:13px system-ui;color:var(--muted)} body.weak tr.goed,body.weak tr.redelijk{display:none}
+body.weak section:not(:has(tr.afwijkend,tr.geen,tr.alleen)){display:none}
+</style>
+<h1>OCR per regel: W06907_Strigel_Disputatio_De_Iusticia_Ex_Libro_Quinto_Ethicorum_Aristotelis_1563</h1>
+<p>15 scans met tekst, 13 met bruikbare OCR, waarvan 0 waar de OCR de pagina slecht volgt. 296 regels vergeleken, gemiddelde overeenkomst 80%.</p>
+<div class=bar><i style='width:70.94594594594595%;background:var(--goed)' title='goed: 210'></i><i style='width:16.216216216216218%;background:var(--redelijk)' title='redelijk: 48'></i><i style='width:0.6756756756756757%;background:var(--afwijkend)' title='afwijkend: 2'></i><i style='width:12.162162162162161%;background:var(--geen)' title='geen: 36'></i></div>
+<p class=sum><span style='color:var(--goed)'>goed: 210</span><span style='color:var(--redelijk)'>redelijk: 48</span><span style='color:var(--afwijkend)'>afwijkend: 2</span><span style='color:var(--geen)'>geen: 36</span><span>OCR-regels zonder transcriptie: 0</span></p>
+<label><input type=checkbox onchange="document.body.classList.toggle('weak',this.checked)"> alleen afwijkende regels</label>
+<section><h3><a href='file:///tmp/pdfs/W06907_Strigel_Disputatio_De_Iusticia_Ex_Libro_Quinto_Ethicorum_Aristotelis_1563.pdf#page=1' target=_blank>scan 1</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=goed><td class=n>1</td><td>Disputatio</td><td class=o>Difputatio</td><td class=s>100%</td></tr>
+<tr class=geen><td class=n>2</td><td>DE IUSTI-</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=goed><td class=n>3</td><td>CIA EX <mark>LIBRO</mark></td><td class=o>CIA EX <mark>LIBR</mark></td><td class=s>95%</td></tr>
+<tr class=redelijk><td class=n>4</td><td><mark>QUINTO ETHICORUM</mark> ARI-</td><td class=o><mark>QPINTO STH1C0R7M</mark> .ARI·&#x27;</td><td class=s>79%</td></tr>
+<tr class=goed><td class=n>5</td><td><mark>stotelis</mark> ad <mark>Nicomachum,</mark></td><td class=o><mark>flotelif</mark> ad <mark>T^icomachum,</mark></td><td class=s>90%</td></tr>
+<tr class=goed><td class=n>6</td><td>proposita</td><td class=o>propofita</td><td class=s>100%</td></tr>
+<tr><td class=n>7</td><td>A</td><td class=o></td><td class=s></td></tr>
+<tr class=goed><td class=n>8</td><td>VICTORINO STRI-</td><td class=o>VICTORINO STRI&#x27;</td><td class=s>100%</td></tr>
+<tr class=geen><td class=n>9</td><td>GELIO, IN ACADEMIA LI-</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=redelijk><td class=n>10</td><td><mark>PSICA</mark> VIII. <mark>CALEND. MAII,</mark></td><td class=o><mark>fSlC^l</mark> VIII. <mark>C^iLEND. M 11,</mark></td><td class=s>69%</td></tr>
+<tr class=redelijk><td class=n>11</td><td>Anno <mark>CHRISTI</mark></td><td class=o>.Anno <mark>C h t^i s τι</mark></td><td class=s>73%</td></tr>
+<tr class=goed><td class=n>12</td><td>M. D. LXIII.</td><td class=o>M. D. LXIII.</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>13</td><td><mark>IN</mark> OFFICINA <mark>VOEGE-</mark></td><td class=o><mark>m</mark> OFFICINA <mark>VOECE·</mark></td><td class=s>83%</td></tr>
+<tr class=geen><td class=n>14</td><td>LIANA.</td><td class=o></td><td class=s>geen</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/pdfs/W06907_Strigel_Disputatio_De_Iusticia_Ex_Libro_Quinto_Ethicorum_Aristotelis_1563.pdf#page=2' target=_blank>scan 2</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=geen><td class=n>1</td><td>PROPOSITIO PRIMA. DE IUSTICIA.</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=geen><td class=n>2</td><td>Matrum, quae in hominum deformum difpi-tatione versantur, ut ait Cicero in primo de legibus, nihil est profecto probabilius, quam plane intelligi nos ad iustitiam esse natos, neque opinione, sed natura constitutum esse [?].</td><td class=o></td><td class=s>geen</td></tr>
+<tr><td class=n>3</td><td>II.</td><td class=o></td><td class=s></td></tr>
+<tr class=geen><td class=n>4</td><td>Ex hoc dicto Ciceronis perspicuum est, quanta gratia debeatur Aristoteli, qui in quinto libro Ethicorum eruditas definitiones et distinctiones in-stituit et iuris tradidit, cuius partim ex coniunctione tritiora, partim ex ipsis minimis [?] habuit.</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=geen><td class=n>5</td><td>III.</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=geen><td class=n>6</td><td>Alia ergo iustitia universalis, alia particularis. Sunt autem duae species iustitiae particularis: distributiva et commutativa, nec sunt plures.</td><td class=o></td><td class=s>geen</td></tr>
+<tr><td class=n>7</td><td>IV.</td><td class=o></td><td class=s></td></tr>
+<tr class=geen><td class=n>8</td><td>Ut autem triplex est dicendum de Deum, de quo Cicero pluribus ait: Primum est bonitas cum Deo coniuncta. Secundum ergo nos ipsos, in quo ratio est operae, ut mortui animi tantum pareant, ne aliud gerunt. Tertium [illegible, ~12 letters] iuris exultent, alios bonitates. Tres definitiones inter iustitiae tradit.</td><td class=o></td><td class=s>geen</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/pdfs/W06907_Strigel_Disputatio_De_Iusticia_Ex_Libro_Quinto_Ethicorum_Aristotelis_1563.pdf#page=3' target=_blank>scan 3</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=goed><td class=n>1</td><td><mark>Omnium, quæ in</mark> hominum <mark>doctorum dispu-</mark></td><td class=o><mark>Mnium,quain</mark> hominum <mark>dotiorum diffli­</mark></td><td class=s>86%</td></tr>
+<tr class=goed><td class=n>2</td><td>ta-tione <mark>versantur, ut</mark> ait Cicero in <mark>prim-</mark></td><td class=o>tatione <mark>verfiantur, Ύΐ</mark> ait Cicero in <mark>primo</mark></td><td class=s>91%</td></tr>
+<tr class=goed><td class=n>3</td><td><mark>o</mark> de <mark>legibus, nihil est profecto præstabilius,</mark> quam</td><td class=o>de <mark>legibus,nihil efl profieffopraflabilius ,</mark> quam</td><td class=s>87%</td></tr>
+<tr class=goed><td class=n>4</td><td>plane intelligi nos ad <mark>iusticiam esse</mark> natos, neque</td><td class=o>plane intelligi nos ad <mark>iufliciam ejfie</mark> natos <mark>,</mark> neque</td><td class=s>94%</td></tr>
+<tr class=goed><td class=n>5</td><td><mark>opinione, sed</mark> natura constitutum <mark>esse</mark> ius.</td><td class=o><mark>opinione,fied</mark> natura conftitutum <mark>efle</mark> ius.</td><td class=s>96%</td></tr>
+<tr><td class=n>6</td><td>II.</td><td class=o></td><td class=s></td></tr>
+<tr class=goed><td class=n>7</td><td><mark>Ex</mark> hoc <mark>dicto</mark> Ciceronis <mark>perspicuum est,</mark> quanta</td><td class=o><mark>Cx</mark> hoc <mark>ditio</mark> Ciceronis <mark>per/^icuum efl,</mark> quanta</td><td class=s>89%</td></tr>
+<tr class=goed><td class=n>8</td><td>gratia debeatur <mark>Aristoteli,</mark> qui in quinto libro</td><td class=o>gratia debeatur <mark>^irifloteli,</mark> qui in quinto libro</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>9</td><td><mark>Ethicorum</mark> eruditas definitiones &amp; divisiones iu-</td><td class=o><mark>£thicorum</mark> eruditas definitiones &amp; diuifiones iu­</td><td class=s>99%</td></tr>
+<tr class=goed><td class=n>10</td><td><mark>sticiæ</mark> &amp; iuris tradidit, <mark>easq;</mark> partim ex consuetu-</td><td class=o><mark>flicia</mark> &amp; iuris tradidit, <mark>eaficp,</mark> partim ex consuetu­</td><td class=s>92%</td></tr>
+<tr class=goed><td class=n>11</td><td>dine sermonis, partim ex <mark>ipsis naturæ</mark> fontibus</td><td class=o>dine fermonis <mark>,</mark> partim ex <mark>ipfits natura</mark> fontibus</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>12</td><td>hausit.</td><td class=o>haufit.</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>13</td><td>III.</td><td class=o>III.</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>14</td><td><mark>Alia, inquit, est iustitia universalis,</mark> alia par-</td><td class=o><mark>Jlia,inquit, efl iuflicia vniuerfialis,</mark> alia par­</td><td class=s>89%</td></tr>
+<tr class=goed><td class=n>15</td><td><mark>ticularis. Sunt</mark> autem <mark>duæ species iusticiæ</mark> particu-</td><td class=o><mark>ticularis.Sunt</mark> autem <mark>dua fiecies iuflicia</mark> particu­</td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>16</td><td>laris, <mark>distributiva</mark> &amp; commutativa, nec <mark>sunt</mark></td><td class=o>laris <mark>, diflributiua</mark> &amp; commutatiua, nec <mark>fiunt</mark></td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>17</td><td>plures.</td><td class=o>plures.</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>18</td><td>IIII.</td><td class=o>IIII.</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>19</td><td>Ut autem triplex <mark>est</mark> ordo <mark>hominis, primus</mark> er-</td><td class=o>Vt autem triplex <mark>efl</mark> ordo <mark>hominis}primus</mark> er­</td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>20</td><td>ga Deum, de quo Cicero <mark>grauissime</mark> dixit: <mark>Prima</mark></td><td class=o>ga Deum, de quo Cicero <mark>grauifiime</mark> dixit: <mark>Trima</mark></td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>21</td><td><mark>est</mark> homini cum Deo <mark>societas.</mark> Secundus erga nos</td><td class=o><mark>efl</mark> homini cum Deo <mark>fiocietas.</mark> Secundus erga nos</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>22</td><td><mark>ipsos, in</mark> quo danda <mark>est</mark> opera, ut motus animi ra-</td><td class=o><mark>ipfios,in</mark> quo danda <mark>efl</mark> opera, vt motus animi ra­</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>23</td><td>tioni pareant, ne <mark>velut incustoditi &amp; passim</mark> va-</td><td class=o>tioni pareant, ne <mark>velat incufloditi&amp;pafiim</mark> va­</td><td class=s>92%</td></tr>
+<tr class=goed><td class=n>24</td><td>gantes liberius exultent. Tertius erga alios ho-</td><td class=o>gantes liberius exultent. Tertius erga alios ho­</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>25</td><td>mines: <mark>Ita tres</mark> definitiones <mark>iusticiæ universalis</mark></td><td class=o>mines <mark>t Itatrcs</mark> definitiones <mark>iuflicia vniuerfialis</mark></td><td class=s>92%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/pdfs/W06907_Strigel_Disputatio_De_Iusticia_Ex_Libro_Quinto_Ethicorum_Aristotelis_1563.pdf#page=4' target=_blank>scan 4</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=goed><td class=n>1</td><td>tradi <mark>solent,</mark> una <mark>à</mark> vera Dei <mark>Ecclesia,</mark> Altera <mark>à</mark></td><td class=o>tradi <mark>filent,</mark> vna <mark>d</mark> vera Dei <mark>Scclefia ,</mark> altera <mark>d</mark></td><td class=s>89%</td></tr>
+<tr class=goed><td class=n>2</td><td>Platone, Tertia ab <mark>Aristotele.</mark></td><td class=o>Platone, Tertia, ab <mark>jirifiotele..</mark></td><td class=s>90%</td></tr>
+<tr><td class=n>3</td><td>K.</td><td class=o></td><td class=s></td></tr>
+<tr class=redelijk><td class=n>4</td><td><mark>Iustitia uniuersalis</mark> secundum <mark>Ecclesiæ doctri-</mark></td><td class=o><mark>lufiiciavniuerfalis</mark> fecundum <mark>Sccleft^dobri-</mark></td><td class=s>81%</td></tr>
+<tr class=goed><td class=n>5</td><td>nam <mark>est</mark> integra <mark>conformitas</mark> motuum <mark>cordis,</mark></td><td class=o>nam <mark>efi</mark> integra <mark>confirmitas</mark> motuum <mark>corfi^^r</mark></td><td class=s>89%</td></tr>
+<tr class=redelijk><td class=n>6</td><td><mark>&amp;</mark> omnium <mark>virium</mark> cum <mark>Deo seu</mark> cum <mark>lege Dei. Idem</mark></td><td class=o>omnium <mark>vinum</mark> cum <mark>Deofeu</mark> cum <mark>legeD^Adcm</mark></td><td class=s>84%</td></tr>
+<tr class=goed><td class=n>7</td><td><mark>est</mark> enim dicere, congruere cum Deo, <mark>&amp; congrue-</mark></td><td class=o><mark>efi</mark> enim dicere, congruere cum Deo, <mark>^coVigruc-</mark></td><td class=s>88%</td></tr>
+<tr class=redelijk><td class=n>8</td><td>re cum lege Dei, quia Deus <mark>talis est, sicut se in lege descripsit.</mark></td><td class=o>re cum lege Dei, quia Deus <mark>talia. fi- rr</mark></td><td class=s>68%</td></tr>
+<tr><td class=n>9</td><td>X.</td><td class=o></td><td class=s></td></tr>
+<tr><td class=n>10</td><td>K.I.</td><td class=o></td><td class=s></td></tr>
+<tr class=goed><td class=n>11</td><td>Plato <mark>iusticiam uniuersalem sic</mark> definit, <mark>ut sit</mark></td><td class=o>Plato <mark>iufiiciam vniuerfalemfic</mark> definit</td><td class=s>91%</td></tr>
+<tr class=goed><td class=n>12</td><td>obedientia omnium virium erga <mark>rectum</mark></td><td class=o>obedientia omnium virium erga <mark>reff^^</mark></td><td class=s>90%</td></tr>
+<tr class=redelijk><td class=n>13</td><td><mark>iudicium</mark> rationis, id <mark>est, conseruatio ordinis</mark></td><td class=o><mark>cium</mark> rationis <mark>,</mark> id <mark>efi, confiruatio ordimsfiiifi^e·</mark></td><td class=s>80%</td></tr>
+<tr class=redelijk><td class=n>14</td><td><mark>diuinitus instituti.</mark></td><td class=o><mark>twsinfiituti.</mark></td><td class=s>67%</td></tr>
+<tr class=geen><td class=n>15</td><td>K.II.</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=goed><td class=n>16</td><td>Eandem definit <mark>Aristoteles</mark> esse <mark>obedientiam</mark></td><td class=o>Eandem definit <mark>^irifioteles</mark> effe <mark>obedicntiam</mark></td><td class=s>92%</td></tr>
+<tr class=goed><td class=n>17</td><td>erga omnes leges <mark>honestas</mark> ad nos pertinentes, ut</td><td class=o>erga omnes leges <mark>bonefias</mark> ad nos pertinentes, vt</td><td class=s>95%</td></tr>
+<tr class=redelijk><td class=n>18</td><td><mark>Aristides</mark> nominatur <mark>iustus, quia non violat</mark></td><td class=o><mark>^Arifiides</mark> nominatur <mark>itfiuaur^iia -no^xviolat</mark></td><td class=s>80%</td></tr>
+<tr class=goed><td class=n>19</td><td>ullam legem <mark>honestæ societatis, in qua versatur.</mark></td><td class=o>vllam legem <mark>honeftit ficietatic sin quaverfiitiut:.</mark></td><td class=s>85%</td></tr>
+<tr class=geen><td class=n>20</td><td>K.III.</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=redelijk><td class=n>21</td><td><mark>Descriptio iusticiæ à</mark> Clemente <mark>Alexandrino</mark></td><td class=o><mark>Defciiptio iufliciied</mark> Clemente <mark>^exaftfa^</mark></td><td class=s>73%</td></tr>
+<tr class=geen><td class=n>22</td><td>tradita, Δικαιοσύνη ἐστὶ κοινωνία [illegible, ~12</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=redelijk><td class=n>23</td><td><mark>letters] μετὰ ἰσότητος, Iusticia est</mark> communicatio, <mark>qua</mark> Deus <mark>se nobis</mark></td><td class=o><mark>fticia efi</mark> communicatio <mark>i tpta</mark> Deus <mark>fet^^^’</mark></td><td class=s>61%</td></tr>
+<tr class=redelijk><td class=n>24</td><td><mark>communicat,</mark> &amp; <mark>est conseruatio ordinatæ æqualita-</mark></td><td class=o><mark>manicat s</mark> &amp; <mark>esi conferitatioordinaM ^ua^</mark></td><td class=s>72%</td></tr>
+<tr class=goed><td class=n>25</td><td>tis, <mark>complectitur uniuersalem &amp; particularem</mark></td><td class=o>tis <mark>, complebitur vniaerfalem&amp; particufirem</mark></td><td class=s>89%</td></tr>
+<tr class=goed><td class=n>26</td><td><mark>iusticiam. Ac prior quidem</mark> pars loquitur de pri-</td><td class=o><mark>iufiiciam. .Acprior quidtm</mark> pars loquitur de pri­</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>27</td><td>ma tabula, &amp; de <mark>actionibus</mark> diuinis in renatis.</td><td class=o>ma tabula <mark>,</mark> &amp; de <mark>atlionibus</mark> diuinis in renatis.</td><td class=s>97%</td></tr>
+<tr class=redelijk><td class=n>28</td><td><mark>Altera</mark> vero de <mark>actionibus ordinatis</mark></td><td class=o><mark>^Itera</mark> vero de <mark>a&amp;ionibtfs ordini</mark></td><td class=s>81%</td></tr>
+<tr class=geen><td class=n>29</td><td>erga proximum.</td><td class=o></td><td class=s>geen</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/pdfs/W06907_Strigel_Disputatio_De_Iusticia_Ex_Libro_Quinto_Ethicorum_Aristotelis_1563.pdf#page=5' target=_blank>scan 5</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr><td class=n>1</td><td>IX.[?]</td><td class=o></td><td class=s></td></tr>
+<tr class=goed><td class=n>2</td><td><mark>Etsi</mark> autem <mark>multæ sunt</mark> definitiones <mark>iustitiæ</mark></td><td class=o><mark>Etfii</mark> autem <mark>mult&amp; fiunt</mark> definitiones <mark>iuflicia</mark></td><td class=s>89%</td></tr>
+<tr class=goed><td class=n>3</td><td>particularis apud Platonem in primo &amp; secundo <mark>[illegible,</mark></td><td class=o>particularis apud &quot;Platonem in primo &amp; fecundo</td><td class=s>90%</td></tr>
+<tr class=goed><td class=n>4</td><td><mark>~8 letters] :</mark> tamen definitio Simonidis, quam <mark>Iu-</mark></td><td class=o>tamen definitio Simonidis ,quam <mark>lu-</mark></td><td class=s>86%</td></tr>
+<tr class=goed><td class=n>5</td><td><mark>risconsulti</mark> amplexi <mark>sunt,</mark> admodum concinna <mark>est,</mark></td><td class=o><mark>rifconjulti</mark> amplexi <mark>fiunt,</mark> admodum concinna <mark>efi,</mark></td><td class=s>94%</td></tr>
+<tr class=goed><td class=n>6</td><td><mark>dextre intellecta</mark> conuenit <mark>utriq; speciei, com-</mark></td><td class=o><mark>•&amp;t^e:Xtre intelletta</mark> conuenit <mark>vtriqi fyeciei,com~</mark></td><td class=s>89%</td></tr>
+<tr class=goed><td class=n>7</td><td><mark>mutatiuæ</mark> &amp; <mark>distributiuæ</mark> : <mark>Iustitia</mark> est <mark>constans</mark></td><td class=o><mark>mutatiuiC</mark> &amp; <mark>diflributiua</mark> : <mark>lufticia</mark> est <mark>conflans</mark></td><td class=s>85%</td></tr>
+<tr class=goed><td class=n>8</td><td>&amp; perpetua voluntas, <mark>suum</mark> cuiq; tribuens.</td><td class=o>&amp; perpetua voluntas, <mark>fiuum</mark> cuiq; tribuens. <mark>&gt;</mark></td><td class=s>99%</td></tr>
+<tr><td class=n>9</td><td>X.</td><td class=o></td><td class=s></td></tr>
+<tr class=goed><td class=n>10</td><td>Altera diuisio <mark>iustitiæ</mark> his verbis ab <mark>Aristo-</mark></td><td class=o>Altera diuifio <mark>iuflicice</mark> his verbis ab <mark>Ariflo-</mark></td><td class=s>90%</td></tr>
+<tr class=goed><td class=n>11</td><td><mark>tele</mark> recitatur <mark>: Iustitia particularis, aut est</mark> com-</td><td class=o><mark>fiele</mark> recitatur; <mark>lufliciaparticularis, autest</mark> com-</td><td class=s>89%</td></tr>
+<tr class=goed><td class=n>12</td><td>mutatiua, aut <mark>distributiua.</mark> Commutatiua est</td><td class=o>mutatiua, aut <mark>diflributiua.</mark> Commutatiua eft</td><td class=s>97%</td></tr>
+<tr class=redelijk><td class=n>13</td><td><mark>quæ seruat æqualitatem</mark> Arithmeticam in con-</td><td class=o><mark>tptee fierdat squalitatem</mark> Arithmeticam in con-</td><td class=s>84%</td></tr>
+<tr class=goed><td class=n>14</td><td><mark>tractibus</mark> &amp; pœnis <mark>sine discrimine personarum.</mark></td><td class=o><mark>trattibus</mark> &amp; poenis <mark>fime dificrimine perfionarum.</mark></td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>15</td><td><mark>Distributiua</mark> est, <mark>quæ recte</mark> ordinat <mark>personas ser-</mark></td><td class=o><mark>Diflributiua</mark> eft, <mark>qusrefte</mark> ordinat <mark>perfionas fier-</mark></td><td class=s>89%</td></tr>
+<tr class=goed><td class=n>16</td><td><mark>uata Geometrica æqualitate.</mark></td><td class=o><mark>Uat&#x27;aGeometrica squalitate.</mark></td><td class=s>94%</td></tr>
+<tr><td class=n>17</td><td>XI.</td><td class=o></td><td class=s></td></tr>
+<tr class=goed><td class=n>18</td><td>Huius <mark>diuisionis</mark> eruditissima ratio <mark>est: Iustitia</mark></td><td class=o><mark>JfcV</mark> Huius <mark>diuifitonis</mark> eruditiffima ratio <mark>efl: luflicia</mark></td><td class=s>86%</td></tr>
+<tr class=goed><td class=n>19</td><td>particularis gubernat omnes actiones in <mark>socie-</mark></td><td class=o>•particularis gubernat omnes actiones in <mark>fiocie-</mark></td><td class=s>99%</td></tr>
+<tr class=goed><td class=n>20</td><td>tate. Quicquid autem agimus cum <mark>aliis,</mark> est aut</td><td class=o>tate. Quicquid autem agimus cum <mark>alqs }</mark> eft aut</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>21</td><td>rerum communicatio, aut <mark>personarum</mark> ordina-</td><td class=o>rerum communicatio <mark>,</mark> aut <mark>perfionarum</mark> ordina-</td><td class=s>99%</td></tr>
+<tr class=goed><td class=n>22</td><td><mark>tio. Manifestum est</mark> igitur duas <mark>esse species</mark> iu-</td><td class=o><mark>tio.-Munifeflumeft</mark> igitur duas <mark>effie fipecies</mark> iu-</td><td class=s>92%</td></tr>
+<tr class=goed><td class=n>23</td><td><mark>stitiæ</mark> particularis, quarum altera <mark>personas</mark> ordi-</td><td class=o><mark>fticis</mark> particularis, quarum altera <mark>perfionas</mark> ordi­</td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>24</td><td><mark>nat,</mark> altera regit rerum communicationes, &amp;</td><td class=o><mark>netis</mark> altera regit rerum communicationes, &amp;</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>25</td><td><mark>constituit æqualitatem</mark> Arithmeticam.</td><td class=o><mark>conflituit &lt;equalitatem</mark> Arithmeticam.</td><td class=s>96%</td></tr>
+<tr class=geen><td class=n>26</td><td>XII.</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=goed><td class=n>27</td><td>Si quis autem requirit, unde <mark>sumserit Aristo-</mark></td><td class=o>Si quis autem requirit, vnde <mark>fiumfierit Ariflo-</mark></td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>28</td><td>teles hanc pulcerrimam collationem specierum</td><td class=o>teles hanc pulcerrimam collationem fpecierum</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>29</td><td><mark>iustitiæ</mark> ad Arithmeticam &amp; Geometricam pro-</td><td class=o><mark>iuflicice</mark> ad Arithmeticam &amp; Geometricam pro-</td><td class=s>92%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/pdfs/W06907_Strigel_Disputatio_De_Iusticia_Ex_Libro_Quinto_Ethicorum_Aristotelis_1563.pdf#page=6' target=_blank>scan 6</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=afwijkend><td class=n>1</td><td><mark>portionem, nihil est quod expedire tam facile pos-simus. Nam Plato, cuius discipulus [illegible, ~7</mark></td><td class=o><mark>fimus. Ty^am &quot;Plato,cuius difiipulus γ^ιάτατ®-</mark></td><td class=s>46%</td></tr>
+<tr class=goed><td class=n>2</td><td><mark>letters]</mark> fuit Aristoteles, in sexto de legibus, <mark>cum summa</mark></td><td class=o>fuit Ariftoteles, in fexto de legibus, <mark>cumfitmma</mark></td><td class=s>88%</td></tr>
+<tr class=goed><td class=n>3</td><td>venustate &amp; gravitate <mark>disputat, æqualitatem</mark></td><td class=o>■venuftate &amp; grauitate <mark>diffutat, aqualitatW</mark></td><td class=s>92%</td></tr>
+<tr class=goed><td class=n>4</td><td>Arithmeticam non <mark>solum</mark> in contractibus, <mark>sed</mark></td><td class=o>Arithmeticam non <mark>filum</mark> in contractibus <mark>, fid</mark></td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>5</td><td>etiam in omni compensatione rerum efficiendam</td><td class=o>etiam in omni compenfatione rerum efficiendam</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>6</td><td><mark>esse, Geometricam vero, quæ</mark> &amp; Tyrannidem &amp;</td><td class=o><mark>effie,Geometricam vero,qua</mark> &amp; Tyrannidem &amp;</td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>7</td><td>popularem licentiam prohibet, <mark>salutarem esse ci-</mark></td><td class=o>popularem licentiam prohibet <mark>jfalutaremeffici-</mark></td><td class=s>96%</td></tr>
+<tr class=redelijk><td class=n>8</td><td><mark>uitatibus.</mark></td><td class=o><mark>uitatibits.</mark></td><td class=s>84%</td></tr>
+<tr class=geen><td class=n>9</td><td>XIII.</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=goed><td class=n>10</td><td>Arithmetica Analogia <mark>est,</mark> in qua <mark>positis tri-</mark></td><td class=o>Arithmetica Analogia <mark>eCl,</mark> in qua <mark>pofitfi fifi</mark></td><td class=s>88%</td></tr>
+<tr class=goed><td class=n>11</td><td>bus aut pluribus numeris, omnes distant <mark>æqua-</mark></td><td class=o>bus aut pluribus numeris <mark>,</mark> omnes diftant <mark>aqua­</mark></td><td class=s>99%</td></tr>
+<tr class=goed><td class=n>12</td><td>libus differentijs. Hanc recte accommodat Ari-</td><td class=o>libus differentijs. Hanc reCte accommodat Ari-</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>13</td><td><mark>stoteles</mark> ad rerum communicationem, <mark>quæ</mark> vaga-</td><td class=o><mark>floteles</mark> ad rerum communicationem <mark>, quie</mark> vaga­</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>14</td><td>tur in infinitum. <mark>Non posset</mark> autem <mark>in infinitum</mark></td><td class=o>tur in infinitum, <mark>&quot;fipn poffit</mark> autem <mark>intnfiffitum</mark></td><td class=s>85%</td></tr>
+<tr class=goed><td class=n>15</td><td>procedere, nisi seruaretur Arithmetica <mark>æquali-</mark></td><td class=o>procedere <mark>,</mark> nifi feruaretur Arithmetica <mark>squali­</mark></td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>16</td><td>tas, quia vna pars generis humani <mark>exhauriretur</mark></td><td class=o>tas <mark>,</mark> quia vna pars generis humani <mark>exbaurfietur</mark></td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>17</td><td>&amp; <mark>periret.</mark></td><td class=o>&amp; <mark>pexiret»^.^</mark></td><td class=s>89%</td></tr>
+<tr class=geen><td class=n>18</td><td>XIIII.</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=goed><td class=n>19</td><td>Geometrica Analogia <mark>est,</mark> cum tribus aut plu-</td><td class=o>Geometrica Analogia <mark>eCl,</mark> cum tribus, aut plu</td><td class=s>94%</td></tr>
+<tr class=goed><td class=n>20</td><td>ribus terminis <mark>dispositis,</mark> non numerorum</td><td class=o>ribus terminis <mark>diffiofitis^</mark> non numerorum</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>21</td><td><mark>differentia</mark> consideratur, sed seruatur <mark>æqualitas pro-</mark></td><td class=o><mark>rentia</mark> confideratur} fed feruatur <mark>aqualitaspro*</mark></td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>22</td><td>portionum. Diuiditur autem Geometrica in <mark>con-</mark></td><td class=o>portionum. Diuiditur autem Geometrica in <mark>conA</mark></td><td class=s>99%</td></tr>
+<tr class=goed><td class=n>23</td><td>tinuam &amp; <mark>discretam. Continua est, quæ</mark> in tribus</td><td class=o>tinuam &amp; <mark>difcretam.Continua ed, qua</mark> in tribus</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>24</td><td>terminis <mark>consistit, Discreta nominatur,</mark> in qua</td><td class=o>terminis <mark>confiflit, Difireta. nominatur&#x27;s</mark> in qua</td><td class=s>94%</td></tr>
+<tr class=goed><td class=n>25</td><td>termini quatuor, sex aut plures inter <mark>se</mark></td><td class=o>termini quatuor <mark>&gt;</mark> fex aut plures inter <mark>fi.cpmpd^</mark></td><td class=s>90%</td></tr>
+<tr class=redelijk><td class=n>26</td><td><mark>comparantur.</mark></td><td class=o><mark>ranturc^fy)</mark></td><td class=s>60%</td></tr>
+<tr><td class=n>27</td><td>XV.</td><td class=o></td><td class=s></td></tr>
+<tr class=goed><td class=n>28</td><td><mark>Hoc discrimen ideo recitatur,</mark> vt facilius de-</td><td class=o><mark>Hocdifirimenideorecitatur »</mark> vt facilius de-</td><td class=s>97%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/pdfs/W06907_Strigel_Disputatio_De_Iusticia_Ex_Libro_Quinto_Ethicorum_Aristotelis_1563.pdf#page=7' target=_blank>scan 7</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=goed><td class=n>1</td><td>clarari <mark>possit, quæ species Geometricæ</mark> proportio-</td><td class=o>clarari <mark>pofiit, qua ffiecies Geometrica</mark> proportio·</td><td class=s>92%</td></tr>
+<tr class=goed><td class=n>2</td><td>nis ad iusticiam <mark>distributivam</mark> congruat. <mark>Nam</mark></td><td class=o>nis ad iufticiam <mark>dlflributiuam</mark> congruat. <mark>Tpam</mark></td><td class=s>91%</td></tr>
+<tr class=goed><td class=n>3</td><td>in distributiva iusticia non habet <mark>locum proportio</mark></td><td class=o>in diftributiua iufticia non habet <mark>locumproportio</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>4</td><td>continua. Sunt enim duo termini rerum, &amp; duo</td><td class=o>continua. Sunt enim duo termini rerum <mark>i</mark> &amp; duo</td><td class=s>99%</td></tr>
+<tr class=goed><td class=n>5</td><td>personarum <mark>constituendi,</mark> qui <mark>non pariunt</mark> conti-</td><td class=o>perfonarum <mark>conflituendi,</mark> qui <mark>nonpariunt</mark> conti­</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>6</td><td>nuam <mark>proportionem.</mark></td><td class=o>nuam <mark>proportioneml·^^^</mark></td><td class=s>97%</td></tr>
+<tr class=geen><td class=n>7</td><td>XVI.</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=redelijk><td class=n>8</td><td><mark>Et[?] quoniā</mark> in <mark>distributiva iusticia utendū est</mark> per</td><td class=o><mark>■•^Stquonia</mark> in <mark>diflributiiia iuflicia vtendiiefl</mark> per</td><td class=s>81%</td></tr>
+<tr class=goed><td class=n>9</td><td>mutata proportione, ex Euclide <mark>assumatur</mark> huius</td><td class=o>mutata proportione, ex Euclide <mark>aflumatur</mark> huius</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>10</td><td>argumentationis <mark>descriptio.</mark> Est ergo</td><td class=o>argumentationis <mark>defiriptio.</mark> Est ergo*&gt;»^^-</td><td class=s>97%</td></tr>
+<tr class=redelijk><td class=n>11</td><td><mark>ἐναλλὰξ[?] λό-γος, id est,</mark> permutata proportio <mark>seu</mark> ratio vicissi-</td><td class=o><mark>^^iid eil,</mark> permutata proportio <mark>[eu</mark> ratio viciffi-</td><td class=s>80%</td></tr>
+<tr class=goed><td class=n>12</td><td><mark>tudinis, sumtio</mark> antecedentis <mark>comparatæ ad</mark> ante-</td><td class=o><mark>tudinisffiumtio</mark> antecedentis <mark>comparata&#x27;ad</mark> ante­</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>13</td><td>cedentem, &amp; <mark>consequentis</mark> ad <mark>consequentem,</mark> ut</td><td class=o>cedentem, &amp; <mark>confiquentis</mark> ad <mark>confiquentem,</mark> vt</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>14</td><td><mark>sicut se</mark> habent <mark>8. ad 4. ita se habent 2.ad 1.</mark> Ergo</td><td class=o><mark>fi^fe&#x27;habent 8. dd^itafi</mark> habent <mark>i.ad i.</mark> Ergo</td><td class=s>86%</td></tr>
+<tr class=redelijk><td class=n>15</td><td><mark>ἐναλλάξ[?],</mark> Sicut <mark>se</mark> habent <mark>8.ad</mark> 2. Ita 4.ad 1.</td><td class=o>sicut <mark>fi</mark> habent <mark>&amp;ad 2</mark> . Ita ^.ad 1.</td><td class=s>78%</td></tr>
+<tr class=geen><td class=n>16</td><td>XVII.</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=goed><td class=n>17</td><td><mark>Nunc si</mark> placet <mark>hanc</mark> formam argumentandi</td><td class=o><mark>ά T^tincfi</mark> placet&#x27; <mark>hunc</mark> formam argumentandi</td><td class=s>89%</td></tr>
+<tr class=goed><td class=n>18</td><td><mark>ad iusticiam distributivam</mark> accommodemus. Si-</td><td class=o><mark>adiufliciam diflributiuam</mark> accommodemus. Si*·</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>19</td><td><mark>cut in</mark> Geometrica proportione discreta rationes</td><td class=o><mark>cutin</mark> Geometrica proportione difcreta rationes</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>20</td><td><mark>inter</mark> se comparantur: Ita in <mark>distributiva fit</mark> col-</td><td class=o><mark>inttr</mark> fe comparantur <mark>:</mark> Ita in <mark>diftributiuafit</mark> col-</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>21</td><td><mark>latio</mark> personarum &amp; officiorum, &amp; <mark>quæruntur</mark></td><td class=o><mark>laiid</mark> perfonarum &amp; officiorum <mark>,</mark> &amp; <mark>queruntur</mark></td><td class=s>94%</td></tr>
+<tr class=redelijk><td class=n>22</td><td><mark>personæ aptæ singulis</mark> generibus, <mark>ut sicut se</mark> ha-</td><td class=o><mark>perfotMaptie fmgidis</mark> generibus <mark>, vtfuutfe</mark> ha­</td><td class=s>78%</td></tr>
+<tr class=goed><td class=n>23</td><td>bent <mark>scientia</mark> rei militaris &amp; eloquentia, sic <mark>se</mark></td><td class=o>bent <mark>fiientia</mark> rei militaris &amp; eloquentia <mark>,</mark> fic <mark>fi</mark></td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>24</td><td>habent <mark>Cæsar</mark> &amp; Cicero. Ergo <mark>sicut Cæsari</mark> com-</td><td class=o>habent <mark>Cxfar</mark> &amp; Cicero. Ergo <mark>fuut Cafari</mark> com&gt;-</td><td class=s>91%</td></tr>
+<tr class=goed><td class=n>25</td><td>mittendus <mark>est</mark> exercitus, ita Ciceroni mandanda</td><td class=o>mittendus <mark>eil</mark> exercitus, ita Ciceroni mandanda</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>26</td><td><mark>est togata administratio. Hæc</mark> forma argu-</td><td class=o><mark>eft.togata adminiflratio. Hac</mark> forma argu­</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>27</td><td>mentandi vocatur argumentum ex permutata</td><td class=o>mentandi vocatur argumentum ex permutata</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>28</td><td>proportione.</td><td class=o>proportione.</td><td class=s>100%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/pdfs/W06907_Strigel_Disputatio_De_Iusticia_Ex_Libro_Quinto_Ethicorum_Aristotelis_1563.pdf#page=8' target=_blank>scan 8</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=goed><td class=n>1</td><td>Cum autem <mark>noticiæ sint gubernatrices actio-</mark></td><td class=o>Cum autem <mark>noticuefint gubernatricesaSiio-</mark></td><td class=s>91%</td></tr>
+<tr class=goed><td class=n>2</td><td>num, <mark>Aristoteles</mark> optimo ordine adiungit <mark>parti-</mark></td><td class=o>num, <mark>^Arfioteles</mark> optimo ordine adiungit&#x27; <mark>partii</mark></td><td class=s>95%</td></tr>
+<tr class=redelijk><td class=n>3</td><td><mark>tionibus iusticiæ sapientissimam distinctionem</mark></td><td class=o><mark>tlmbus iuflicia fapientifiimam diflinildmeni</mark></td><td class=s>73%</td></tr>
+<tr class=goed><td class=n>4</td><td>legum naturæ &amp; <mark>iuris</mark> positivi, quia <mark>iustitia</mark></td><td class=o>legum naturae &amp; <mark>ium</mark> pofitiui <mark>&gt;</mark> quia <mark>iuftidai^</mark></td><td class=s>89%</td></tr>
+<tr class=goed><td class=n>5</td><td><mark>in</mark> hominibus <mark>est</mark> velle &amp; imperare membris con-</td><td class=o>hominibus <mark>efl</mark> velle &amp; imperare membris con­</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>6</td><td>formia legi.</td><td class=o>formia legi.</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>7</td><td>XIX.</td><td class=o>XIX.</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>8</td><td>Ac leges quidem naturæ <mark>sunt</mark> noticiæ <mark>prin-</mark></td><td class=o>^Ac leges quidem naturae <mark>fiunt</mark> noticiae <mark>pri^</mark></td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>9</td><td><mark>cipiorum practicorum, &amp; conclusionum ex</mark></td><td class=o><mark>cipiorumpra^icorim, &amp;conclufionum ex\i^</mark></td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>10</td><td><mark>his extructarum</mark> de regendis <mark>moribus, congruentes</mark></td><td class=o><mark>extrusarum</mark> de regendis <mark>moribus,congruentes</mark></td><td class=s>92%</td></tr>
+<tr class=goed><td class=n>11</td><td>cum æterna &amp; immota norma <mark>mentis divinæ,</mark></td><td class=o>cum aeterna &amp; immota norma <mark>nuentis diuin^,</mark></td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>12</td><td>insitæ nobis divinitus, ut <mark>sint testimonia,</mark> quod</td><td class=o>infitae nobis diuinitus, vt <mark>finttefiimonia ,</mark> quod</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>13</td><td>sit <mark>Deus, &amp;</mark> qualis sit, <mark>&amp;</mark> regant <mark>nos, ut</mark> congruat</td><td class=o>fit <mark>Deus,&amp;</mark> qualis fit^ regant <mark>nos,vt</mark> congruat</td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>14</td><td>obedientia <mark>nostra</mark> cum voluntate Dei.</td><td class=o>obedientia <mark>noflra</mark> cum voluntate Dei.</td><td class=s>97%</td></tr>
+<tr><td class=n>15</td><td>XX.</td><td class=o></td><td class=s></td></tr>
+<tr class=goed><td class=n>16</td><td>Ius <mark>vero positivum est</mark> decretum <mark>legitimæ po-</mark></td><td class=o>Ius <mark>veropofitiuum e$t</mark> decretum <mark>legitirmepo-</mark></td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>17</td><td><mark>testatis, non</mark> pugnans <mark>cum iure</mark> naturæ, <mark>sed ad-</mark></td><td class=o><mark>te flatis,non</mark> pugnans <mark>cumiure</mark> naturae <mark>, fied axk</mark></td><td class=s>92%</td></tr>
+<tr class=goed><td class=n>18</td><td>dens ad ius naturæ <mark>circumstantiam</mark> aliquam pro-</td><td class=o>dens ad ius naturae <mark>circumflandam</mark> aliquam pro­</td><td class=s>94%</td></tr>
+<tr class=goed><td class=n>19</td><td>babili ratione, non <mark>necessario</mark> definitam.</td><td class=o>babili ratione, non <mark>neceflario</mark> definitam, <mark>j</mark></td><td class=s>96%</td></tr>
+<tr class=redelijk><td class=n>20</td><td><mark>XXI.</mark></td><td class=o><mark>XXL</mark></td><td class=s>67%</td></tr>
+<tr class=goed><td class=n>21</td><td>Sed inter ius naturæ, &amp; ius <mark>positivum</mark></td><td class=o>Sed inter ius naturae, &amp; ius <mark>pofitiuumb^</mark></td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>22</td><td><mark>hoc interest, quod</mark> cum ius naturæ loquatur de gener-</td><td class=o><mark>intereil,quod</mark> cum ius naturae loquatur de gener^</td><td class=s>92%</td></tr>
+<tr class=goed><td class=n>23</td><td><mark>e,</mark> &amp; habeat suas <mark>demonstrationes, &amp; ubique</mark></td><td class=o>&amp; habeat fuas <mark>demonflrationes , &amp;vbi^tefu;</mark></td><td class=s>89%</td></tr>
+<tr class=goed><td class=n>24</td><td><mark>sit</mark> idem, &amp; neq; tolli neq; abrogari possit, <mark>ius posi-</mark></td><td class=o>idem, &amp; neq; tolli neq- abrogari poffit, <mark>iuspofr*</mark></td><td class=s>94%</td></tr>
+<tr class=goed><td class=n>25</td><td>tivum loquitur de <mark>specie,</mark> &amp; ratum <mark>est partim</mark></td><td class=o>tiuum loquitur de <mark>ffecie ,</mark> &amp; ratum <mark>e^ipartim</mark></td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>26</td><td>propter autoritatem legislatoris, <mark>partim propter</mark></td><td class=o>propter autoritatem legiflatoris, <mark>partim^propter</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>27</td><td>probabilem rationem,</td><td class=o>probabilem rationem,</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>28</td><td><mark>nec ubiq; idem est, deniq;[?] mutari</mark> &amp; <mark>solet &amp; potest.</mark></td><td class=o><mark>/nutari</mark> &amp; <mark>filet ^potefl. W ry</mark></td><td class=s>55%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/pdfs/W06907_Strigel_Disputatio_De_Iusticia_Ex_Libro_Quinto_Ethicorum_Aristotelis_1563.pdf#page=9' target=_blank>scan 9</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=goed><td class=n>1</td><td>XXII.</td><td class=o>XXII.</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>2</td><td><mark>Discernatur</mark> etiam summum ius ab <mark>æquita-</mark></td><td class=o><mark>Bifcernatur</mark> etiam fummum ius ab <mark>cequita-</mark></td><td class=s>94%</td></tr>
+<tr class=goed><td class=n>3</td><td>te. <mark>Etsi</mark> enim genere <mark>congruunt, quia utroq;</mark> pro-</td><td class=o>te. <mark>· £ί/ΐ</mark> enim genere <mark>congruunt,quia ytroq;</mark> pro^</td><td class=s>89%</td></tr>
+<tr class=goed><td class=n>4</td><td><mark>bantur recta</mark> &amp; damnantur contraria, tamen</td><td class=o><mark>banturrehla</mark> &amp; damnantur contraria <mark>,</mark> tamen</td><td class=s>94%</td></tr>
+<tr class=goed><td class=n>5</td><td>gradibus differunt propter <mark>circumstantia-</mark></td><td class=o>■gradibus differunt propter <mark>circumflantia^.</mark></td><td class=s>97%</td></tr>
+<tr><td class=n>6</td><td>s.</td><td class=o></td><td class=s></td></tr>
+<tr class=goed><td class=n>7</td><td>XXIII.</td><td class=o>XXIII.</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>8</td><td><mark>Est</mark> igitur summum ius cum leges seuere sine</td><td class=o><mark>Sst</mark> igitur fummum ius cum leges feuere fine</td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>9</td><td>mitigatione retinentur, etiam cum propter cir-</td><td class=o>mitigatione retinentur <mark>,</mark> etiam cum propter cir-</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>10</td><td><mark>cumstantiam</mark> aliquam probabilis ratio erat mi-</td><td class=o><mark>cumflantiam</mark> aliquam probabilis ratio, erat mi-</td><td class=s>97%</td></tr>
+<tr class=redelijk><td class=n>11</td><td><mark>tigationis.</mark></td><td class=o><mark>tigationisi^o^^vsx·</mark></td><td class=s>80%</td></tr>
+<tr class=goed><td class=n>12</td><td>XXIIII.</td><td class=o>XXIIII.</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>13</td><td><mark>ἐπιεικεια[?] vero</mark> seu <mark>æquitas est probabilis</mark> mi-</td><td class=o><mark>^xswdnua-pero</mark> feu <mark>cequitas eflprobabilis</mark> mi-</td><td class=s>74%</td></tr>
+<tr class=goed><td class=n>14</td><td><mark>tigatio summi</mark> iuris in aliqua <mark>circumstantia, pr-</mark></td><td class=o><mark>tigatio.fummi</mark> iuris in aliqua <mark>circumflantia, prx-</mark></td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>15</td><td><mark>æsertim in casu,</mark> de quo non principaliter lex lo-</td><td class=o><mark>firtimincafu s</mark> de quo non principaliter lex lo­</td><td class=s>94%</td></tr>
+<tr class=redelijk><td class=n>16</td><td>quitur.</td><td class=o>quitur. <mark>jGsiihwk .</mark></td><td class=s>60%</td></tr>
+<tr class=redelijk><td class=n>17</td><td><mark>XXV.</mark></td><td class=o><mark>xxy.</mark></td><td class=s>67%</td></tr>
+<tr class=redelijk><td class=n>18</td><td><mark>Et quoniam ἐπιεικεια[?]</mark> aut publica <mark>est,</mark> aut <mark>priuata,</mark></td><td class=o><mark>i X£^quoniam&#x27;^‘dxM</mark> aut publica <mark>efl ,</mark> aut <mark>pri-</mark></td><td class=s>69%</td></tr>
+<tr class=redelijk><td class=n>19</td><td>publicam illam <mark>quæ</mark> in <mark>iudiciis versatur</mark></td><td class=o><mark>ihad&#x27;·^</mark> publicam illam <mark>qua</mark> in <mark>iudicqs yerjatur</mark></td><td class=s>83%</td></tr>
+<tr class=goed><td class=n>20</td><td><mark>Magistratibus</mark> &amp; <mark>Iurisconsultis</mark> relinquamus,</td><td class=o><mark>Magiflratibus</mark> &amp; <mark>lurifionfultis</mark> relinquamus,</td><td class=s>92%</td></tr>
+<tr class=goed><td class=n>21</td><td>qui <mark>sapientissime disputant, utrum iudicandum</mark></td><td class=o>qui <mark>fapientiflime diJputantfVtrum indicandum</mark></td><td class=s>91%</td></tr>
+<tr class=goed><td class=n>22</td><td>sit ex <mark>scripto</mark> iure, an <mark>æquitas</mark> extra scriptum</td><td class=o>fit ex <mark>firipto</mark> iure <mark>,</mark> an <mark>equitas</mark> extra fcriptum</td><td class=s>96%</td></tr>
+<tr class=afwijkend><td class=n>23</td><td><mark>quærenda sit, priuatam vero,</mark> cuius tres <mark>sunt</mark> gra-</td><td class=o>cuius tres <mark>Junt</mark> gra-</td><td class=s>54%</td></tr>
+<tr class=goed><td class=n>24</td><td><mark>dus, nisi exercebimus, nihil</mark> dilectioni erga pro-</td><td class=o><mark>das, ni fi exercebimus,nihil</mark> dilectioni erga pro-</td><td class=s>98%</td></tr>
+<tr class=redelijk><td class=n>25</td><td><mark>ximum relinquemus.</mark></td><td class=o><mark>xinmrnrelinquemus, vs . &gt;&gt;&gt; ..</mark></td><td class=s>80%</td></tr>
+<tr class=geen><td class=n>26</td><td>XXVI.</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=redelijk><td class=n>27</td><td><mark>Primus gradus est eleganter</mark> ferre commu-</td><td class=o><mark>a ‘Primus-gradus esi de^mtac.</mark> ferre commu-</td><td class=s>79%</td></tr>
+<tr class=redelijk><td class=n>28</td><td>nes <mark>hominum infirmitates, quæ non</mark> puniuntur <mark>legi[?]bus.</mark></td><td class=o>nes <mark>hommum infimitatesyqu&lt;ienen</mark> puniuntur <mark>ler</mark></td><td class=s>82%</td></tr>
+<tr class=redelijk><td class=n>29</td><td><mark>De hoc gradu</mark> Plinius <mark>dixit: Qui vitia odit,</mark></td><td class=o><mark>gh.J^iicacq^adu</mark> Plinius <mark>dixiti^nivieia-odit,</mark></td><td class=s>74%</td></tr>
+<tr class=redelijk><td class=n>30</td><td>homines odit. <mark>Nemo enim sine vitiis</mark> nascitur</td><td class=o>homines odit. <mark>ISlemcLenim^finejyicps</mark> nafcitur</td><td class=s>83%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/pdfs/W06907_Strigel_Disputatio_De_Iusticia_Ex_Libro_Quinto_Ethicorum_Aristotelis_1563.pdf#page=10' target=_blank>scan 10</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=goed><td class=n>1</td><td>Optimus ille <mark>est,</mark> qui minimis <mark>urgetur, ut</mark> ait <mark>Horatius.</mark></td><td class=o>Optimus ille <mark>esi,</mark> qui minimis <mark>vrgetur,vt</mark> ait</td><td class=s>88%</td></tr>
+<tr class=geen><td class=n>2</td><td>XXVII.</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=goed><td class=n>3</td><td>Secundus gradus <mark>est,</mark> ambigua <mark>facta</mark> non ca-</td><td class=o>Secundus gradus <mark>edi,</mark> ambigua <mark>falit a</mark> non ca-</td><td class=s>90%</td></tr>
+<tr class=goed><td class=n>4</td><td>lumniose in deteriorem partem <mark>flectere,</mark> non le-</td><td class=o>lumniofe in deteriorem partem <mark>fle flere,</mark> non le*</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>5</td><td>via errata odiose amplificare, nec arcana tradu-</td><td class=o>uia errata odiofe amplificare, nec arcana tradu­</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>6</td><td>cere, sed tegere &amp; sanare.</td><td class=o>cere, fed tegere &amp; fanare.</td><td class=s>100%</td></tr>
+<tr class=geen><td class=n>7</td><td>XXVIII.</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=goed><td class=n>8</td><td>Tertius gradus <mark>est,</mark> ante contumaciam can-</td><td class=o>Tertius gradus <mark>edi,</mark> ante contumaciam can­</td><td class=s>94%</td></tr>
+<tr class=goed><td class=n>9</td><td>dide &amp; amanter monere errantem &amp; <mark>peccan-</mark></td><td class=o>dide &amp; amanter monere errantem &amp; <mark>peccait-</mark></td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>10</td><td><mark>tem, &amp;</mark> hoc officio revocare eum in viam. Hi tres</td><td class=o><mark>tem,&amp;</mark> hoc officio reuocare eum in viam. Hi tres</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>11</td><td>gradus in vita <mark>latissime</mark> patent, &amp; <mark>nunquam</mark> di-</td><td class=o>gradus in vita <mark>latifiime</mark> patent, &amp; <mark>nunciam</mark> di-</td><td class=s>92%</td></tr>
+<tr class=redelijk><td class=n>12</td><td><mark>lectioni desunt occasiones</mark> in his <mark>declarandæ lenitatis &amp; æquitatis.</mark></td><td class=o><mark>leiiioni defient occaftones</mark> In his <mark>declaranda le-</mark></td><td class=s>72%</td></tr>
+<tr class=geen><td class=n>13</td><td>XXIX.</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=goed><td class=n>14</td><td>Sit autem doctrina de <mark>æquitate</mark> eo nobis gra-</td><td class=o>Sit autem doctrina de <mark>reputate</mark> eo nobis gra­</td><td class=s>93%</td></tr>
+<tr class=redelijk><td class=n>15</td><td>tior, quia <mark>Euangelium</mark> est dulcissima <mark>[illegible, ~9 letters]</mark> legis</td><td class=o>tior, quia <mark>Suangelium</mark> eSt dulciffima legis</td><td class=s>80%</td></tr>
+<tr class=geen><td class=n>16</td><td>divinæ.</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=redelijk><td class=n>17</td><td><mark>Nam</mark> Deus non <mark>solum dispensat</mark> de or-</td><td class=o><mark>diuime. Tfiam</mark> Deus non <mark>filum difienfat</mark> de or­</td><td class=s>78%</td></tr>
+<tr class=goed><td class=n>18</td><td>dine <mark>naturæ,</mark> sed etiam de sua lege, <mark>cuius ordo</mark></td><td class=o>dine <mark>natura,</mark> fed etiam de fua lege., <mark>cuiusotdo</mark></td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>19</td><td>firmior <mark>est, quam</mark> ordo in <mark>caussis physicis, ut</mark> osten-</td><td class=o>firmior <mark>eft,quam</mark> ordo in <mark>caufiis phy ficis,vt</mark> often-</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>20</td><td>dit <mark>historia</mark> primorum <mark>parentum.</mark> Etsi enim hic</td><td class=o>dit <mark>hifloria</mark> primorum <mark>pareiitum.</mark> Etfi enim hic</td><td class=s>94%</td></tr>
+<tr class=goed><td class=n>21</td><td>ordo sancitus erat, ut primi parentes <mark>propter</mark></td><td class=o>ordo fancitus erat <mark>,</mark> vt primi parentes <mark>prupter</mark></td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>22</td><td>peccatum <mark>extinguerentur: tamen</mark> Deus placatus</td><td class=o>peccatum <mark>extinguerentUntamen</mark> Deus placatus</td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>23</td><td>intercessione ac deprecatione <mark>filii</mark> pœnam <mark>æternam</mark></td><td class=o>interceffione ac deprecatione <mark>fili)</mark> poenam <mark>aternam</mark></td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>24</td><td>eis <mark>remisit, &amp; pœnas</mark> in hac vita inenarrabili bo-</td><td class=o>eis <mark>remlfit,&amp;pomas</mark> in hac vita inenarrabili bo­</td><td class=s>94%</td></tr>
+<tr class=goed><td class=n>25</td><td>nitate <mark>mitigavit. Ipsum</mark> vero Euangelium nullam</td><td class=o>nitate <mark>mitigauit.Ipfum</mark> vero Euangelium nullam</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>26</td><td>admittit <mark>dispensationem, sed</mark> manet immota re-</td><td class=o>admittit <mark>difienfationem , ffd</mark> manet immota re-</td><td class=s>95%</td></tr>
+<tr class=redelijk><td class=n>27</td><td><mark>gula: Qui credit</mark> in <mark>filium, habet vitam</mark></td><td class=o><mark>gula:-Quicvedif</mark> in <mark>filiumfiakeciytt^</mark></td><td class=s>74%</td></tr>
+<tr class=redelijk><td class=n>28</td><td><mark>æternam,</mark> Qui non credit in eum, jam <mark>judicatus est.</mark></td><td class=o>Qui non credit in eum, iam <mark>indicatus eid.</mark></td><td class=s>81%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/pdfs/W06907_Strigel_Disputatio_De_Iusticia_Ex_Libro_Quinto_Ethicorum_Aristotelis_1563.pdf#page=11' target=_blank>scan 11</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=geen><td class=n>1</td><td>XXX.</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=redelijk><td class=n>2</td><td><mark>Postremo</mark> recitat <mark>Aristoteles</mark> gradus <mark>deli-</mark></td><td class=o><mark>Toflremd</mark> recitat <mark>^Irifloteles&#x27;</mark> gradus <mark>dele</mark></td><td class=s>83%</td></tr>
+<tr class=goed><td class=n>3</td><td><mark>ctorum</mark> pugnantium cum <mark>iustitia</mark> &amp; iure. Alia</td><td class=o><mark>Siorum</mark> pugnantium cum <mark>iufiicia</mark> &amp; iure. .Alia1</td><td class=s>89%</td></tr>
+<tr class=goed><td class=n>4</td><td>inquit, <mark>delicta sunt</mark> voluntaria, <mark>alia inuolun-taria.</mark></td><td class=o>inquit <mark>, delicia fiunt</mark> voluntaria <mark>, aliainuolun</mark></td><td class=s>90%</td></tr>
+<tr class=goed><td class=n>5</td><td>XXXI.</td><td class=o>XXXI.</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>6</td><td>In <mark>doctrina,</mark> quam <mark>Iurisconsulti</mark> profitentur,</td><td class=o>In <mark>dottrina,</mark> quam <mark>lurificonfiulti</mark> profitentur,</td><td class=s>92%</td></tr>
+<tr class=goed><td class=n>7</td><td>tres gradus <mark>delictorum</mark> traduntur, <mark>dolo facta,</mark></td><td class=o>tres gradus <mark>deliciorum</mark> traduntur <mark>, dolofatia,</mark></td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>8</td><td>culpa, <mark>item casu facta. Et culpae</mark> gradus <mark>lata, leuis</mark></td><td class=o><mark>culpa,item cafiufada. St</mark> culpa gradus <mark>lata,leuis</mark></td><td class=s>91%</td></tr>
+<tr class=goed><td class=n>9</td><td><mark>&amp; leuissima.</mark></td><td class=o><mark>&amp;leuiffima. *</mark></td><td class=s>100%</td></tr>
+<tr class=geen><td class=n>10</td><td>XXXII.</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=goed><td class=n>11</td><td>Dolus proprie nominatur <mark>delictum,</mark> ad quod</td><td class=o>Dolus proprie nominatur <mark>deliitum ,·</mark> ad quod</td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>12</td><td>concurrunt mens <mark>sciens</mark> quid sit agendum, &amp; vo-</td><td class=o>concurrunt mens <mark>fidens</mark> quid fit agendum, &amp; vo-</td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>13</td><td>luntas libera <mark>contra rectum iudicium</mark> faciens.</td><td class=o>luntas libera <mark>coiitra retium indicium</mark> faciens.</td><td class=s>91%</td></tr>
+<tr class=goed><td class=n>14</td><td>Hic gradus plurimum habet turpitudinis, quia</td><td class=o>Hic gradus plurimum habet turpitudinis <mark>,</mark> quia</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>15</td><td>maior est contumacia voluntatis, <mark>quando mens videt quid agat.</mark></td><td class=o>maior est contumacia voluntatis <mark>, qutmdomens</mark></td><td class=s>81%</td></tr>
+<tr class=geen><td class=n>16</td><td>XXXIII.</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=goed><td class=n>17</td><td>Culpa lata <mark>est,</mark> cum quis <mark>crassa negligentia</mark></td><td class=o>Culpa lata <mark>eil,</mark> cum quis <mark>crafla ne^igentia</mark></td><td class=s>89%</td></tr>
+<tr class=goed><td class=n>18</td><td><mark>peccat, non</mark> tamen <mark>affectata,</mark> vt cum aliquis re-</td><td class=o><mark>peccat,non</mark> tamen <mark>affeiiata ,</mark> vt cum aliquis re»</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>19</td><td>bus <mark>suis salvis</mark> amittit depositum, quia hoc forte</td><td class=o>bus <mark>fiuis fialuis</mark> amittit depofitum <mark>,</mark> quia hoc forte</td><td class=s>98%</td></tr>
+<tr class=geen><td class=n>20</td><td>negligentius custodiuit.</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=geen><td class=n>21</td><td>XXXIIII.</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=goed><td class=n>22</td><td><mark>Etsi</mark> autem disputatur, <mark>An</mark> lata culpa sit do-</td><td class=o><mark>twEtfi</mark> autem difputatur <mark>, ^tn</mark> lata culpa fit do»</td><td class=s>94%</td></tr>
+<tr class=goed><td class=n>23</td><td>lus: <mark>tamen recte dicitur, toto</mark> genere <mark>distare</mark> do-</td><td class=o>lus <mark>: tamenrebie didtur^oto</mark> genere <mark>diflare</mark> do»</td><td class=s>87%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/pdfs/W06907_Strigel_Disputatio_De_Iusticia_Ex_Libro_Quinto_Ethicorum_Aristotelis_1563.pdf#page=12' target=_blank>scan 12</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=redelijk><td class=n>1</td><td><mark>lum</mark> &amp; culpam, <mark>id est, peccata ignorantiæ,</mark> &amp; <mark>omissionis</mark> non <mark>affectatæ,</mark> vt <mark>infinitum discri-</mark></td><td class=o><mark>Ium</mark> &amp; culpam <mark>,id^f , ρέάάία ignorantia,</mark> &amp; <mark>ormfiionis</mark> non <mark>affectata §</mark> vt <mark>mfinitumdificri-</mark></td><td class=s>82%</td></tr>
+<tr class=goed><td class=n>2</td><td>men <mark>est</mark> inter <mark>lapsum Euæ,</mark> &amp; <mark>negligentiam</mark></td><td class=o>men <mark>esi</mark> inter <mark>lapfium Eua ,</mark> &amp; <mark>negligentium</mark></td><td class=s>91%</td></tr>
+<tr class=goed><td class=n>3</td><td><mark>Mariæ</mark> amittentis filium, <mark>quem putabat esse</mark></td><td class=o><mark>Maria</mark> amittentis filium, <mark>quemputabate^ih</mark></td><td class=s>92%</td></tr>
+<tr class=goed><td class=n>4</td><td><mark>in</mark> comitatu amicorum.</td><td class=o>comitatu amicorum. <mark>■ * ■</mark></td><td class=s>94%</td></tr>
+<tr class=geen><td class=n>5</td><td>XXXV.</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=goed><td class=n>6</td><td><mark>Reliqui sunt</mark> gradus leuis culpa &amp; <mark>leuissima,</mark></td><td class=o><mark>Rgliqui fiunt</mark> gradus leuis culpa &amp; <mark>leitifiima,</mark></td><td class=s>90%</td></tr>
+<tr class=goed><td class=n>7</td><td><mark>quæ</mark> ignorantiam <mark>circumstantiarum</mark> aut negligen-</td><td class=o><mark>qua</mark> ignorantiam <mark>circumfiantiarum</mark> aut negligen-</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>8</td><td><mark>tiam leuiorem</mark> continent, <mark>vt si</mark> quis non tribuat</td><td class=o><mark>tiamlefforem</mark> continent, <mark>vtfi</mark> quis non tribuat</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>9</td><td>nomen <mark>consulis Magistratui</mark> in alio oppido, cuius</td><td class=o>nomen <mark>cOnfidis Ma^flratui</mark> in alio oppido, cuius</td><td class=s>90%</td></tr>
+<tr class=goed><td class=n>10</td><td><mark>ipse</mark> non <mark>est ciuis, ignorans</mark> eum esse <mark>consulem.</mark></td><td class=o><mark>ipfie</mark> non <mark>ejt&lt;siuis,ignorans</mark> eum effe <mark>confiulem.</mark></td><td class=s>92%</td></tr>
+<tr class=goed><td class=n>11</td><td>XXXVI.</td><td class=o>XXXVI.</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>12</td><td><mark>Hæc sunt præcipua</mark> capita, quantum ego exi-</td><td class=o><mark>Hac fiunt pracipua</mark> capita <mark>,</mark> quantum ego exi-</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>13</td><td><mark>stimare possum,</mark> de quibus disserit <mark>Aristoteles</mark> in</td><td class=o><mark>flimarepoffum ,</mark> de quibus differit <mark>Mriftoteles</mark> in</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>14</td><td>quinto <mark>Ethicorum,</mark> qui inter omnia <mark>Philosophica</mark></td><td class=o>quinto <mark>Ethicoriqn,</mark> qui inter omnia <mark>Thilofiophica</mark></td><td class=s>90%</td></tr>
+<tr class=goed><td class=n>15</td><td><mark>scripta</mark> de <mark>virtutibus</mark> velut gemma <mark>insignis</mark> emi-</td><td class=o><mark>ficripta</mark> de <mark>Viantibus</mark> velut gemma <mark>infiignis</mark> emi­</td><td class=s>91%</td></tr>
+<tr class=goed><td class=n>16</td><td>net. Utinam vero in <mark>scholis concionantem</mark> iusti-</td><td class=o>net. Vtinam vero in <mark>ficbolis condonantem</mark> iufti-</td><td class=s>92%</td></tr>
+<tr class=goed><td class=n>17</td><td><mark>tiam</mark> placide audiamus, eiq; iuste viuendo obtem-</td><td class=o><mark>ciam</mark> placide audiamus, eiq; iufte viuendo obtem­</td><td class=s>97%</td></tr>
+<tr class=redelijk><td class=n>18</td><td>peremus, cum <mark>hæc</mark> vna sit non <mark>ἀρχὴ disciplina</mark></td><td class=o>peremus <mark>,</mark> cum <mark>hac</mark> vna fit non</td><td class=s>75%</td></tr>
+<tr class=goed><td class=n>19</td><td>&amp; <mark>vera Philosophia, vt præclare &amp; sapienter</mark></td><td class=o><mark>&amp;veraThilofophia,vt praclare</mark> &amp; <mark>fiapienter</mark></td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>20</td><td><mark>à</mark> Platone in <mark>sexta epistola scriptum est.</mark></td><td class=o><mark>a</mark> &quot;Platone in <mark>fiexta epiflola ficriptum esi.</mark></td><td class=s>89%</td></tr>
+<tr class=redelijk><td class=n>21</td><td><mark>PROBLEMA DIALECTICVM.</mark></td><td class=o><mark>TROBLEMM. DIMLECTICVM.</mark></td><td class=s>84%</td></tr>
+<tr class=goed><td class=n>22</td><td><mark>An</mark> prima figura <mark>syllogismorum</mark> ideo sit per-</td><td class=o><mark>Mn</mark> prima figura <mark>fiyllogifinorum</mark> ideo fit per-</td><td class=s>92%</td></tr>
+<tr class=goed><td class=n>23</td><td><mark>fectissima, quia</mark> aliarum duarum figurarum <mark>syllo-</mark></td><td class=o><mark>fe£lifiima,quia</mark> aliarum duarum figurarum <mark>Jyllo</mark></td><td class=s>91%</td></tr>
+<tr class=goed><td class=n>24</td><td><mark>gismi</mark> ad hanc reduci possunt?</td><td class=o><mark>gifimi</mark> ad hanc reduci poffunt?</td><td class=s>98%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/pdfs/W06907_Strigel_Disputatio_De_Iusticia_Ex_Libro_Quinto_Ethicorum_Aristotelis_1563.pdf#page=13' target=_blank>scan 13</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=geen><td class=n>1</td><td>PHYSICVM</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=goed><td class=n>2</td><td>An doctrina <mark>Galeni de</mark> contrarijs <mark>saporibus</mark></td><td class=o>\An doctrina <mark>Gaknide</mark> contrarijs <mark>faporibtw</mark></td><td class=s>90%</td></tr>
+<tr class=redelijk><td class=n>3</td><td>pugnet cum <mark>Aristotelis sententia, cum ille</mark> con-</td><td class=o>pugnet cum <mark>jlriflotelwfententia , cimiUe</mark> con-</td><td class=s>83%</td></tr>
+<tr class=goed><td class=n>4</td><td><mark>trarios</mark> esse dicat acrem &amp; acerbum, hic <mark>vero</mark></td><td class=o><mark>ttdtioi.</mark> effe dicat acrem &amp; acerbum <mark>j</mark> hic <mark>yero</mark></td><td class=s>85%</td></tr>
+<tr class=redelijk><td class=n>5</td><td>dulcem &amp; amarum?</td><td class=o>dulcem &amp; amarum? <mark>^wm mWjwj</mark></td><td class=s>80%</td></tr>
+<tr class=redelijk><td class=n>6</td><td><mark>ETHICVM</mark></td><td class=o><mark>PTHICFM</mark></td><td class=s>71%</td></tr>
+<tr class=goed><td class=n>7</td><td><mark>An recte à</mark> Platone dictum sit, Philosophos</td><td class=o><mark>JLn re&amp;ed</mark> Platone dictum fit, Philofophos</td><td class=s>90%</td></tr>
+<tr class=goed><td class=n>8</td><td><mark>esse</mark> iustos, quod in <mark>veri inuestigatione versentur,</mark></td><td class=o><mark>ejfe</mark> iuftos, quod in <mark>yeri inucfiigatione yerfenturi</mark></td><td class=s>87%</td></tr>
+<tr class=goed><td class=n>9</td><td>cum nihil in <mark>vitæ</mark> societatem conferre</td><td class=o>cum nihil in <mark>yit&lt;e</mark> focietatem conferre</td><td class=s>95%</td></tr>
+<tr class=geen><td class=n>10</td><td>videantur?</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=geen><td class=n>11</td><td>FINIS</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=geen><td class=n>12</td><td>Hæc sunt præcipua capita, quantum ego exti-mare possim, de quibus disserit Aristoteles in quinto Ethicorum, qui inter omnia Philosophica scripta de virtutibus pulcherrima &amp; omnium insignis est. Vtrum vero Philosophi ... [?]</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=geen><td class=n>13</td><td>PROBLEMA DIJECTICVM.</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=geen><td class=n>14</td><td>An prima figura syllogismorum ideo sit per-fectissima, quia alias figuras ad eam reducunt, pollicet ad hanc reductio possunt.</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=geen><td class=n>15</td><td>Phy-</td><td class=o></td><td class=s>geen</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/pdfs/W06907_Strigel_Disputatio_De_Iusticia_Ex_Libro_Quinto_Ethicorum_Aristotelis_1563.pdf#page=14' target=_blank>scan 14</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
+<section><h3><a href='file:///tmp/pdfs/W06907_Strigel_Disputatio_De_Iusticia_Ex_Libro_Quinto_Ethicorum_Aristotelis_1563.pdf#page=15' target=_blank>scan 15</a></h3>
+<p class=no>geen bruikbare OCR op deze scan</p></section>
