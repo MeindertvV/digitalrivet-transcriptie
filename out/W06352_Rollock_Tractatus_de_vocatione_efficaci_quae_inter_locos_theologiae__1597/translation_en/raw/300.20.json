@@ -1,0 +1,45 @@
+{
+  "units": [
+    "300.20",
+    "300.22",
+    "300.23",
+    "301.6",
+    "301.25",
+    "301.28",
+    "302.18",
+    "303.1",
+    "303.12",
+    "303.23",
+    "304.1",
+    "304.4",
+    "304.5",
+    "304.6",
+    "304.21",
+    "305.11",
+    "305.20",
+    "306.7",
+    "306.25"
+  ],
+  "model": "claude-haiku-5-5",
+  "prompt_sha256": "47a562b89e9696e8",
+  "stop_reason": "end_turn",
+  "batch": true,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 1786,
+    "inference_geo": "global",
+    "input_tokens": 3771,
+    "output_tokens": 3305,
+    "output_tokens_details": {
+      "thinking_tokens": 691
+    },
+    "server_tool_use": null,
+    "service_tier": "batch",
+    "speed": "standard"
+  },
+  "cost_usd": 0.00102
+}
