@@ -1,0 +1,56 @@
+{
+  "units": [
+    "808.1",
+    "808.2",
+    "808.3",
+    "808.4",
+    "808.5",
+    "808.6",
+    "808.7",
+    "808.8",
+    "808.9",
+    "808.10",
+    "808.11",
+    "808.12",
+    "808.13",
+    "808.14",
+    "808.15",
+    "808.16",
+    "808.17",
+    "808.18",
+    "808.19",
+    "808.20",
+    "808.21",
+    "808.22",
+    "808.23",
+    "808.24",
+    "808.25",
+    "808.26",
+    "808.27",
+    "808.28",
+    "808.29",
+    "808.30"
+  ],
+  "model": "claude-haiku-5-5",
+  "prompt_sha256": "87b7a46d70054948",
+  "stop_reason": "end_turn",
+  "batch": true,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 1774,
+    "inference_geo": "global",
+    "input_tokens": 1077,
+    "output_tokens": 5019,
+    "output_tokens_details": {
+      "thinking_tokens": 3909
+    },
+    "server_tool_use": null,
+    "service_tier": "batch",
+    "speed": "standard"
+  },
+  "cost_usd": 0.00132
+}

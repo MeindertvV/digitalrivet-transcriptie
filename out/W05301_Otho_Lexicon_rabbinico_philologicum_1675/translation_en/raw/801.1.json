@@ -1,0 +1,60 @@
+{
+  "units": [
+    "801.1",
+    "801.2",
+    "801.3",
+    "801.4",
+    "801.5",
+    "801.6",
+    "801.7",
+    "801.8",
+    "801.9",
+    "801.10",
+    "801.11",
+    "801.12",
+    "801.13",
+    "801.14",
+    "801.15",
+    "801.16",
+    "801.17",
+    "801.18",
+    "801.19",
+    "801.20",
+    "801.21",
+    "801.22",
+    "801.23",
+    "801.24",
+    "801.25",
+    "801.26",
+    "801.27",
+    "801.28",
+    "801.29",
+    "801.30",
+    "801.31",
+    "801.32",
+    "801.33",
+    "801.34"
+  ],
+  "model": "claude-haiku-5-5",
+  "prompt_sha256": "87b7a46d70054948",
+  "stop_reason": "end_turn",
+  "batch": true,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 1774,
+    "inference_geo": "global",
+    "input_tokens": 1169,
+    "output_tokens": 7337,
+    "output_tokens_details": {
+      "thinking_tokens": 6320
+    },
+    "server_tool_use": null,
+    "service_tier": "batch",
+    "speed": "standard"
+  },
+  "cost_usd": 0.0019
+}
