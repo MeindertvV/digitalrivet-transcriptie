@@ -1,0 +1,41 @@
+{
+  "units": [
+    "69.21",
+    "69.25",
+    "69.29",
+    "69.35",
+    "69.44",
+    "70.3",
+    "70.4",
+    "70.13",
+    "70.14",
+    "70.18",
+    "70.24",
+    "70.25",
+    "70.34",
+    "70.38",
+    "70.49"
+  ],
+  "model": "claude-haiku-5-5",
+  "prompt_sha256": "d82a2f64c228c11e",
+  "stop_reason": "end_turn",
+  "batch": true,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 1788,
+    "inference_geo": "global",
+    "input_tokens": 3788,
+    "output_tokens": 6089,
+    "output_tokens_details": {
+      "thinking_tokens": 3507
+    },
+    "server_tool_use": null,
+    "service_tier": "batch",
+    "speed": "standard"
+  },
+  "cost_usd": 0.00172
+}

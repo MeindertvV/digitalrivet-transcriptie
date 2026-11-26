@@ -17606,13 +17606,365 @@
   },
   {
    "n": 37,
-   "type": "missing",
+   "type": "contents",
+   "model": "claude-haiku-5-5",
    "warnings": [
     {
-     "type": "missing_page",
-     "text": "page 37 was not transcribed: invalid XML: junk after document element: line 26, column 0"
+     "type": "incomplete",
+     "text": "only 31% as many letters as the OCR layer: a block may be missing"
+    },
+    {
+     "type": "incomplete",
+     "text": "3 lines hold only a marker: a block was given up"
+    },
+    {
+     "type": "doubtful",
+     "text": "\"...\" in the text: a passage was skipped or a remark written as print"
+    },
+    {
+     "type": "merged_lines",
+     "text": "2 line(s) contain several printed lines merged together (longest 289 chars, median 25); line numbering is unreliable"
+    },
+    {
+     "type": "line_split",
+     "text": "only 28% of the letters found in the OCR layer: line breaks partly missing"
+    },
+    {
+     "type": "merged_lines",
+     "text": "2 line(s) contain several printed lines merged together (longest 289 chars, median 26); line numbering is unreliable"
+    },
+    {
+     "type": "merged_lines",
+     "text": "2 line(s) contain several printed lines merged together (longest 289 chars, median 31); line numbering is unreliable"
     }
-   ]
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "INDEX.",
+     "heading": 1,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "[illegible, ~12 letters] 7.b",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "Sacrum facere, lt. Sacrum ... 7.b",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "Sacia pro sacrificiis 7.b. Exhibeo rum ... 16 ...",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "Sacerdotes sacrificiorum personæ principes 46.b. ... 117 b",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "Sacerdotum, munus sacerdotum 67",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "Sacramento ... 9.",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "Sacramentum ... 69",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "Sacrima, m. flum 72",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "Sacrificium 57.b",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "Sacramento ... 5.b",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "Sacra para præcepta ... 49",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "Sacrum Gentilium fines ... 46.2.b",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "[illegible, ~20 letters] 144",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "Sacerdos ... 46",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "[illegible, ~30 letters]",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "[illegible, ~30 letters]",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "Sacer Deus ... 23.b",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "Saturnus quasi annus Satur. 17",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "Saturnia ... 21.b",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "Saturni ... quater ... 16 a",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "[illegible, ~20 letters]",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "sacrificii to. s. s.",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "Sacrificium vers vel s. s. typus 10",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "Sacrificandi apud Hebr. eos ritus",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "varii & de vei si 144. b",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "Sacrificium, id quod sacrificare pertinet r b",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "Sacrificus r b",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "Sacr. heatis ibid.",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "Sapmin, hebræ genus 79. b",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "Sti divinum vir dictum 15. b. ami c trix lymb. ilum 97",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "Sal si nus itteq sers in sa ifficiis 17 l s tellitas quæ sb. facultas",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "salva- s tas. 1",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "Saltum v",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "Sal ea, Dea salii 2 b",
+     "heading": 0
+    },
+    {
+     "n": 36,
+     "text": "Saltamenta immolari soluta in Ly",
+     "heading": 0
+    },
+    {
+     "n": 37,
+     "text": "cia 47 b",
+     "heading": 0
+    },
+    {
+     "n": 38,
+     "text": "Salsamentus immolari so-",
+     "heading": 0
+    },
+    {
+     "n": 39,
+     "text": "luta in ser luis Phaselii r 98",
+     "heading": 0
+    },
+    {
+     "n": 40,
+     "text": "Salse signi s s ii s 98 b",
+     "heading": 0
+    },
+    {
+     "n": 41,
+     "text": "Salus huius s ii s 29. b",
+     "heading": 0
+    },
+    {
+     "n": 42,
+     "text": "Sa s c Deus pro s nerati 3 b",
+     "heading": 0
+    },
+    {
+     "n": 43,
+     "text": "Sa s s s a 7 b",
+     "heading": 0
+    },
+    {
+     "n": 44,
+     "text": "Sam s s s s s s Laribus 2 b",
+     "heading": 0
+    },
+    {
+     "n": 45,
+     "text": "Samo s s s s Diis s s s s bin 4 b",
+     "heading": 0
+    },
+    {
+     "n": 46,
+     "text": "Sanctus s s s s s s s s 36. b",
+     "heading": 0
+    },
+    {
+     "n": 47,
+     "text": "Sanctus s s s s s s s s s s 1 b",
+     "heading": 0
+    },
+    {
+     "n": 48,
+     "text": "Sanguinis s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s",
+     "heading": 0
+    },
+    {
+     "n": 49,
+     "text": "Sanctus s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s",
+     "heading": 0,
+     "merged": true
+    },
+    {
+     "n": 50,
+     "text": "Sanctus s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s",
+     "heading": 0,
+     "merged": true
+    },
+    {
+     "n": 51,
+     "text": "perfone[?] ... princi-",
+     "heading": 0
+    },
+    {
+     "n": 52,
+     "text": "petui[?] ... mmu-tean-",
+     "heading": 0
+    },
+    {
+     "n": 53,
+     "text": "res 66. ... ssio[?] ... c.",
+     "heading": 0
+    },
+    {
+     "n": 54,
+     "text": "incredibiliter[?] ... a j. obje-",
+     "heading": 0
+    },
+    {
+     "n": 55,
+     "text": "Sapientus, Martis administra 19 b",
+     "heading": 0
+    },
+    {
+     "n": 56,
+     "text": "Dea 28 b",
+     "heading": 0
+    },
+    {
+     "n": 57,
+     "text": "Seraph.Hebr. 101",
+     "heading": 0
+    },
+    {
+     "n": 58,
+     "text": "Sartitor, Deus Sartitionis 2j b",
+     "heading": 0
+    },
+    {
+     "n": 59,
+     "text": "cum veneratio ipsa est, cum",
+     "heading": 0
+    },
+    {
+     "n": 60,
+     "text": "res, quam venera mur 3 b",
+     "heading": 0
+    },
+    {
+     "n": 61,
+     "text": "3 b",
+     "heading": 0
+    },
+    {
+     "n": 62,
+     "text": "3 b",
+     "heading": 0
+    },
+    {
+     "n": 63,
+     "text": "3 b",
+     "heading": 0
+    },
+    {
+     "n": 64,
+     "text": "3 b",
+     "heading": 0
+    }
+   ],
+   "signature": "b 4",
+   "notes": "Much of the index is faded or blotted; the text is largely illegible. Only the most legible words and page numbers are given, and many entries are summarised with \"...\" in the transcription where the letters cannot be read reliably. Lines near the bottom of the left column are cut off by the scan edge. Lines are partly illegible in the scan; the entries shown are only the readable parts, and the sign s marks words I could not read. Several lines in the lower half are too faint to transcribe reliably. Most of this part is faded or obscured; the entries at the far left and in the middle are only partly legible and are given as far as they can be read. The right-hand column of the upper block continues the index of Hebrew and Greek words (Sabbath, Scarabaeus, Sceptrum, Schadad, Scepter, etc.), printed in small type with page numbers such as \"9 b\", \"15\", \"21 b\", \"102\". Those entries are index lines, not running text; the scan is too degraded to copy every letter reliably, so they are not fully transcribed here."
   },
   {
    "n": 38,
@@ -81675,13 +82027,333 @@
   },
   {
    "n": 260,
-   "type": "missing",
-   "warnings": [
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "running_head": "SACRORVM SACRIFICIORVMQVE",
+   "lines": [
     {
-     "type": "missing_page",
-     "text": "page 260 was not transcribed: hit max_tokens (raise --max-tokens)"
+     "n": 1,
+     "text": "dubie a Chaldaeo ꝛɔɛ, Estcha sive Estha (de quo paullo antea) derivatu fuit. Ovid. in Fasti:",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "Nec tu aliud Vestam, quàm vivam intellige flammam.",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "Numa igitur Pompilius, qui Romanarum superstitionum primarius fuit auctor, & quasi archi-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "tectus, præter innumeras alias superstitiones hanc quoq; ignis culturam in Romanam civitatem",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "invexit. Is enim, ut ait Plutarchus in Camillo, ad Græcorum, adde etiam aliarum gentium, stu-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "rationem, ignem perpetuum atq; perennem in æde rotunda posuit, a certis virginibus custodien-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "dum atq; colendum.",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "De hoc templo sic scribit Christophorus Landinus in illa Virgilii Aeneidos secundo, ubi He-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 9,
+     "text": "stor Aeneæ Vestæ sacra commendat: Templum, inquit, erat sane magnum: in cujus medio eraçal-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "tare, in quo ignis utreq; ex parte ardebat, cujus custodiæ binæ Vestales præerant. In templi cul-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "mine virgo erat effigiata, quæ ulnis infantem continebat, Jupiter enim a Vesta nutritus ferebatur.",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "Huic Dea Antiqui vestibula consecrabant: unde & nomen ea a Vesta habere Ovidius. existimat.",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "Hic sæpe comedere erant soliti, ad mensas suas Deos invitantes, quibus, tanquam altaribus ute-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "bantur, Diis videlicet penatibus consecratis. Cum autem nullum sacrificium absque igne fieret: ideo",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "focus ei erat dicatus, qui & Lar dicebatur. Nam & ibi Dii Lares colebantur. Templum porro",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "illud hodie adhuc forma circulari, rotundum in valle, quæ Palatino & Capitolino interjacet, vi-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "situr, nomine Sanctæ Mariæ de Gratia infignicum. Id interdiu ingredi vetabatur nemo: sub no- c-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "tem fæminis quidem, sed masculis non licebat eo accedere. Nec effigiem in eo aliquam, nec simu-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "lacrum collocabant.",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "Hunc autem ignem sacrum, tanquam arcanum & cæleste depositum per virgines Vestales,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 21,
+     "text": "Græcè Εςίαςδια dictas, conditum in penetralibus sacris & velut in sanctiore recessu templi Vestæ,",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "cum Palladio & Diis Penatibus, Trojā advectis, custodiebant: quo nulli hominum, nisi Vesta-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "libus & Pontificibus, ceu ἱερὸν ἀρχάς sædere fas erat.",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "De harum autem virginum Vestalium collegio, numero, electione, tælibatu, vestitu, munere &",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 25,
+     "text": "officio, disciplina, dignitate, pœnis atq; supplicus, quando vel ignis illarum neglectæ erat extin-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "ctus: veliplæ incęstus constitut atq; damnatæ fuerant, vide post vetestos scriptores Peucerum, in l-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "ibris de Divinatione, Gyraldum de Diis gentium, Florinium in libris Antiquitatum Romanarum.",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "Nec verò publicè tantum, publicus in locis atq; templis, verùm etiá privatim, privatus in ædi-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 29,
+     "text": "bus, ignis Romæ fuit cultus. Nam in omnibus ædibus culinæ erant quasi templa quædam, sic dictæ",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "a colendo, ut Nonius et Varrone dotet, qui ad ignem ibi colebant & sacrabant: foci erant quasi ara",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "sacra, in quibus ignis sovebatur (unde etiam foci a fovendo dicti, Ovidio teste:) Diu domestici",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "& patrii, quos veneratur, Penates & Lares fuerunt appellati.",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "Hujusce autem τυχαίας, idest, cultus ignis & publici & privati, caussa fuerunt ignis ipsius",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 34,
+     "text": "divina quædam vis atq; natura, & innumerabilis utilitates. Unde Cicero lib. 2. de Natura Deorum",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "rectè dixit: Quicquid magnam utilitatem generi affertre humano, id non sine divina bonitate erga",
+     "heading": 0
+    },
+    {
+     "n": 36,
+     "text": "homines fieri arbitrabantur. Itaq; tum illud, quod erat a Deo donatum, nomine ipsius Dei nuncu-",
+     "heading": 0
+    },
+    {
+     "n": 37,
+     "text": "pabant: ut cum fruges Cererem; vinum autem Liberum appellamus: um aute res ipse, in qua vis",
+     "heading": 0
+    },
+    {
+     "n": 38,
+     "text": "inest major aliqua sic appellatur, ut ea ipsa nominetur Deus, ut Fides, ut Mens, ut Virtus, ut",
+     "heading": 0
+    },
+    {
+     "n": 39,
+     "text": "Honor. Sic Ops, Salutis, Concordiæ, Libertatis, Victoriæ sunt templa consecrata. Quarum om-",
+     "heading": 0
+    },
+    {
+     "n": 40,
+     "text": "nium rerum quia vis erat tanta, ut sine Deo regi non posset, aspæres Deoi ii nomen obtinuit. Item:",
+     "heading": 0
+    },
+    {
+     "n": 41,
+     "text": "Vitium magnitudine constituit sunt ii Dii, qui utilitates quasi gignerant: atque hæ quidem i-",
+     "heading": 0
+    },
+    {
+     "n": 42,
+     "text": "psis nominibus, quæ vis sit in quoq; declaratur. Eodem ex genere Cupidinus, Voluptatis, Luben-",
+     "heading": 0
+    },
+    {
+     "n": 43,
+     "text": "tinæ Veneris vocabula consecrata sunt, vitiosarum rerum, neq; naturalium.",
+     "heading": 0
+    },
+    {
+     "n": 44,
+     "text": "Verum cultus quoque hujus non minima caussa videtur fuisse cum ignis ille apud Iudæos, qui",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 45,
+     "text": "perpetuum ardebat in altari, quem sacerdos, subjectis lignis, muñé per jugul. dies nutriebat, ut",
+     "heading": 0
+    },
+    {
+     "n": 46,
+     "text": "Levitici sexto scriptum est: tum divina illa miracula, quæ legimus in sacris literis de gne cæli-",
+     "heading": 0
+    },
+    {
+     "n": 47,
+     "text": "tus delapso in Patriarchas um illorum prisci seculi sacrificia, quo illa fuerunt consumta, atque ita",
+     "heading": 0
+    },
+    {
+     "n": 48,
+     "text": "ipsius Dei testimonio comprobata. Atq; hinc quidem videtur promanasse illa de Prometheo fa-",
+     "heading": 0
+    },
+    {
+     "n": 49,
+     "text": "bula, quem Poetæ finxerunt ignem, e cælis surreptum, in terras detulisse.",
+     "heading": 0
+    },
+    {
+     "n": 50,
+     "text": "Sed antequam ulterius progrediar; non videtur silentio prætereunda illa Ignicolarum quo-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 51,
+     "text": "rundam, qui Dugbin fuerunt appellati, in insula 6 benerag, biso: 14 sestione administrationes, di- gna,",
+     "heading": 0
     }
-   ]
+   ],
+   "marginalia": [
+    {
+     "side": "left",
+     "at": "Numa igitur Pompilius,",
+     "line_from": 3,
+     "line_to": 3,
+     "text": "Ignis cultum Numa instituit."
+    },
+    {
+     "side": "left",
+     "at": "De hoc templo",
+     "line_from": 8,
+     "line_to": 8,
+     "text": "Templum Vesta quale olim."
+    },
+    {
+     "side": "left",
+     "at": "Hunc autem ignem",
+     "line_from": 20,
+     "line_to": 20,
+     "text": "Ignis facer a virginibus custodiebatur."
+    },
+    {
+     "side": "left",
+     "at": "De harum autem",
+     "line_from": 24,
+     "line_to": 24,
+     "text": "Ignis cultus etiam privatim."
+    },
+    {
+     "side": "left",
+     "at": "Nec verò publicè",
+     "line_from": 28,
+     "line_to": 28,
+     "text": "Ignis cultus etiam privatus."
+    },
+    {
+     "side": "left",
+     "at": "Hujusce autem τυχαίας,",
+     "line_from": 33,
+     "line_to": 33,
+     "text": "Causa, cur ignis cultus."
+    },
+    {
+     "side": "left",
+     "at": "Verum cultus quoque",
+     "line_from": 44,
+     "line_to": 44,
+     "text": "Ignis cultus etiam ex γραΦίλια."
+    },
+    {
+     "side": "left",
+     "at": "Sed antequam ulterius",
+     "line_from": 50,
+     "line_to": 50,
+     "text": "Ignis cultus ab incolis in se Chaeneg."
+    }
+   ],
+   "notes": "Scan is a page from a 17th-century Latin text; the left margin notes are transcribed as printed. Several words in the Greek and in the margin notes are doubtful and may contain errors; the lower margin notes are cut and partly illegible. Marginal notes on the lower left were only partly read."
   },
   {
    "n": 261,
