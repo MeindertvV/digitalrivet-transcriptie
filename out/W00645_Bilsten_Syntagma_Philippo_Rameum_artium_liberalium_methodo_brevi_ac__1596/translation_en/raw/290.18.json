@@ -1,0 +1,50 @@
+{
+  "units": [
+    "290.18",
+    "290.19",
+    "290.26",
+    "290.27",
+    "290.33",
+    "290.34",
+    "291.3",
+    "291.4",
+    "291.7",
+    "291.8",
+    "291.11",
+    "291.12",
+    "291.15",
+    "291.16",
+    "291.22",
+    "291.23",
+    "291.25",
+    "291.26",
+    "291.29",
+    "291.30",
+    "291.32",
+    "291.33",
+    "292.1",
+    "292.4"
+  ],
+  "model": "claude-haiku-5-5",
+  "prompt_sha256": "931d141af88f892d",
+  "stop_reason": "end_turn",
+  "batch": true,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 1790,
+    "inference_geo": "global",
+    "input_tokens": 1506,
+    "output_tokens": 1561,
+    "output_tokens_details": {
+      "thinking_tokens": 573
+    },
+    "server_tool_use": null,
+    "service_tier": "batch",
+    "speed": "standard"
+  },
+  "cost_usd": 0.00047
+}
