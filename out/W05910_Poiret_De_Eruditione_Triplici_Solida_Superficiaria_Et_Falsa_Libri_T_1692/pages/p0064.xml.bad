@@ -1,0 +1,27 @@
+<page type="text">
+  <layout>One page of text, centred in the upper-middle area: a four-line verse epigram in italic, followed by a right-aligned initials line "G. B." in bold. No margin notes. Top has a dark decorative rule (not text). Bottom-right has a digitiser's watermark (not transcribed).</layout>
+  <page_number></page_number>
+  <running_head></running_head>
+  <bottom_margin>
+  </bottom_margin>
+  <main_text>
+    <p><i>Occulta cui Mentis mala <i>Secreta</i></i></p>
+    <p></p>
+  </main_text>
+  <notes>Page has a small decorative/ornament mark at the left of the first verse line; not text. The verse lines are partly damaged at the left edge, so the first letters of lines 2 and 3 are uncertain. Transcription below is the corrected reading of the printed lines.</notes>
+</page>
+
+Correction: the transcription above is malformed. The correct output is:
+
+<page type="text">
+  <layout>One page of text: a four-line italic verse epigram set centred in the upper-middle area, followed by the initials "G. B." in bold, set right of centre. No margin notes. A dark decorative rule runs across the top edge (not text).</layout>
+  <page_number></page_number>
+  <running_head></running_head>
+  <bottom_margin>
+  </bottom_margin>
+  <main_text>
+    <p><i>Occulta cui Mentis mala</i><br/><i>Secreta rodunt pectora,</i><br/><i>Huic est molesta Veritas</i><br/><i>Quae cor revelat turbidum.</i></p>
+    <p><b>G. B.</b></p>
+  </main_text>
+  <notes>The first letters of the verse lines are partly obscured at the left edge; "Secreta" and "Huic" are read with some uncertainty ("Secreta" appears as "ecreta" with a damaged initial, "Huic" as "Iuic"). The "e" in "est" is printed as a long-s form "eſt" in the original; rendered here as plain s. Page number and catchword absent.</notes>
+</page>
