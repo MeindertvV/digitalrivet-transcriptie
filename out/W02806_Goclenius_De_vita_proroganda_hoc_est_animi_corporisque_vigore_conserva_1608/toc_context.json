@@ -1,0 +1,562 @@
+{
+ "work": "W02806_Goclenius_De_vita_proroganda_hoc_est_animi_corporisque_vigore_conserva_1608",
+ "made": "2026-11-25T00:35:17",
+ "model": "claude-haiku-5-5",
+ "prompt": "655260ce46aa8978",
+ "candidates": 295,
+ "cost_usd": 0.02095,
+ "dropped": [],
+ "toc": [
+  {
+   "scan": 5,
+   "line": 1,
+   "lines": [
+    [
+     5,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Illustrissimis, reverendissimis, heroicae virtutis ... Friderico junior Comiti Palatino Rheni ... dedicatio"
+  },
+  {
+   "scan": 6,
+   "line": 0,
+   "lines": [
+    [
+     6,
+     0
+    ],
+    [
+     7,
+     0
+    ]
+   ],
+   "level": 1,
+   "title": "Epistola dedicatoria"
+  },
+  {
+   "scan": 10,
+   "line": 1,
+   "lines": [
+    [
+     10,
+     1
+    ],
+    [
+     10,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Epistola"
+  },
+  {
+   "scan": 13,
+   "line": 1,
+   "lines": [
+    [
+     13,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Dedicatoria"
+  },
+  {
+   "scan": 19,
+   "line": 1,
+   "lines": [
+    [
+     19,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "De vita prorogada tractatus"
+  },
+  {
+   "scan": 20,
+   "line": 1,
+   "lines": [
+    [
+     20,
+     1
+    ],
+    [
+     20,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Quaestio I. Circa operis hujus titulum"
+  },
+  {
+   "scan": 24,
+   "line": 2,
+   "lines": [
+    [
+     24,
+     2
+    ],
+    [
+     24,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Quaestio II. An subiectum morbi & sanitatis sit ipsius partis essentia, hoc est, an febris consistat in partium cordis constitutione"
+  },
+  {
+   "scan": 26,
+   "line": 1,
+   "lines": [
+    [
+     26,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Quaestio III. An humores sint subiectum morbi & sanitatis?"
+  },
+  {
+   "scan": 27,
+   "line": 3,
+   "lines": [
+    [
+     27,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Caput I. De aere eiusque conditionibus, essentia, qualitate, regionum, populorum & locorum varietate, deque utendi modo"
+  },
+  {
+   "scan": 47,
+   "line": 1,
+   "lines": [
+    [
+     47,
+     1
+    ],
+    [
+     47,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Caput II. Sanitatis studio omnes teneri non posse, ut navigantes, peregrinantes & castra sequentes, ostendunt contagiosi gravissim"
+  },
+  {
+   "scan": 58,
+   "line": 4,
+   "lines": [
+    [
+     58,
+     4
+    ],
+    [
+     58,
+     5
+    ]
+   ],
+   "level": 1,
+   "title": "Caput III. De cibo, & potu, secundum locum inter Sanitatis prorogandae praecepta & capita obtinentibus."
+  },
+  {
+   "scan": 92,
+   "line": 2,
+   "lines": [
+    [
+     92,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Quaestio I. An largius fit coenandum quam prandendum?"
+  },
+  {
+   "scan": 100,
+   "line": 5,
+   "lines": [
+    [
+     100,
+     5
+    ],
+    [
+     100,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "Quaestio II. Vtrum magis sit noxium, potando an vorando excedere modum?"
+  },
+  {
+   "scan": 107,
+   "line": 2,
+   "lines": [
+    [
+     107,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Quaestio III. An à potu omninò sit abstinendum intermedio prandii & cœnæ tempore?"
+  },
+  {
+   "scan": 109,
+   "line": 3,
+   "lines": [
+    [
+     109,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Quaestio IV. An hieme plus edere conueniat quam æstate, propterea quòd ventres sint tempore hiberno calidiores"
+  },
+  {
+   "scan": 121,
+   "line": 1,
+   "lines": [
+    [
+     121,
+     1
+    ],
+    [
+     121,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Quaestio V. An alimentum sit tantum dicendum quod nutrit?"
+  },
+  {
+   "scan": 123,
+   "line": 1,
+   "lines": [
+    [
+     123,
+     1
+    ],
+    [
+     123,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Quaestio VI. An nutritio fit assimilatio?"
+  },
+  {
+   "scan": 127,
+   "line": 3,
+   "lines": [
+    [
+     127,
+     3
+    ],
+    [
+     127,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Quaestio VII. An morbi communes etiam oriantur ex malorum ciborum copia & culpa?"
+  },
+  {
+   "scan": 129,
+   "line": 2,
+   "lines": [
+    [
+     129,
+     2
+    ],
+    [
+     129,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Quaestio VIII. An ciborum natura & potestas ad varia gentium ingenia moresque aliquid conferat?"
+  },
+  {
+   "scan": 140,
+   "line": 3,
+   "lines": [
+    [
+     140,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Quaestio IX. Morbi quòd quibusdam gentibus peculiariter accidant, an victus ratio incausa sit?"
+  },
+  {
+   "scan": 148,
+   "line": 2,
+   "lines": [
+    [
+     148,
+     2
+    ],
+    [
+     148,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Caput IV. De primo, & vario mirabiliq; diuersissimarum gentium victu."
+  },
+  {
+   "scan": 163,
+   "line": 3,
+   "lines": [
+    [
+     163,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Caput V. De alimentorum diuisione, generibus, & differentiis generatim, decq; mirâ terrarum quarundam fertilitate."
+  },
+  {
+   "scan": 176,
+   "line": 2,
+   "lines": [
+    [
+     176,
+     2
+    ],
+    [
+     176,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Caput VI. De alimentis quæ veniunt à vegetabilibus & plantis."
+  },
+  {
+   "scan": 224,
+   "line": 2,
+   "lines": [
+    [
+     224,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Caput VII. De pane, placentis, pultibus, variisq; eduliis."
+  },
+  {
+   "scan": 252,
+   "line": 2,
+   "lines": [
+    [
+     252,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Caput VIII. De Leguminibus."
+  },
+  {
+   "scan": 267,
+   "line": 2,
+   "lines": [
+    [
+     267,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Caput IX. De alimentis, quæ sumuntur ex radicibus."
+  },
+  {
+   "scan": 283,
+   "line": 1,
+   "lines": [
+    [
+     283,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Caput X. De alimentis, quæ sumuntur ex plantarum foliis."
+  },
+  {
+   "scan": 294,
+   "line": 1,
+   "lines": [
+    [
+     294,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Caput XI. De alimentis quæ sumuntur ex fructibus."
+  },
+  {
+   "scan": 341,
+   "line": 2,
+   "lines": [
+    [
+     341,
+     2
+    ],
+    [
+     341,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Caput XII. De alimentis quæ veniunt ex floribus, ubi commodè de acetariis rité præparandis."
+  },
+  {
+   "scan": 352,
+   "line": 4,
+   "lines": [
+    [
+     352,
+     4
+    ]
+   ],
+   "level": 1,
+   "title": "Caput XIII. De alimentis quæ veniunt ab animalibus."
+  },
+  {
+   "scan": 434,
+   "line": 1,
+   "lines": [
+    [
+     434,
+     1
+    ],
+    [
+     434,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Caput XIV. De alimentis, quæ veniunt ab animalibus humi gradientibus."
+  },
+  {
+   "scan": 495,
+   "line": 2,
+   "lines": [
+    [
+     495,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Caput XV. De serpentina & viperina."
+  },
+  {
+   "scan": 497,
+   "line": 3,
+   "lines": [
+    [
+     497,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Caput XVI."
+  },
+  {
+   "scan": 544,
+   "line": 1,
+   "lines": [
+    [
+     544,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Caput XVII. De ranis memorabilia & scitu digna."
+  },
+  {
+   "scan": 548,
+   "line": 3,
+   "lines": [
+    [
+     548,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Caput XVIII."
+  },
+  {
+   "scan": 563,
+   "line": 3,
+   "lines": [
+    [
+     563,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Caput XIX."
+  },
+  {
+   "scan": 584,
+   "line": 2,
+   "lines": [
+    [
+     584,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Caput XX. De Lacte memorabilia."
+  },
+  {
+   "scan": 609,
+   "line": 4,
+   "lines": [
+    [
+     609,
+     4
+    ]
+   ],
+   "level": 1,
+   "title": "Caput XXI. De Condimentis."
+  },
+  {
+   "scan": 647,
+   "line": 1,
+   "lines": [
+    [
+     647,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Index huius libri"
+  }
+ ],
+ "book": "Rodolphus Goclenius, De vita proroganda (Frankfurt/Mainz 1608): a single Latin treatise on preserving health and prolonging life, preceded by title pages, dedications, prefatory letters and commendatory verses, then 21 numbered chapters with some numbered quaestiones inside them, followed by an index.",
+ "series": [
+  {
+   "label": "Caput",
+   "first": "I",
+   "last": "XXI",
+   "count": 21,
+   "level": 1,
+   "found": 27
+  },
+  {
+   "label": "Quaestio",
+   "first": "I",
+   "last": "III",
+   "count": 12,
+   "level": 2,
+   "found": 12
+  }
+ ],
+ "taste": 50,
+ "doubt": "",
+ "input": 52056,
+ "output": 21669
+}
