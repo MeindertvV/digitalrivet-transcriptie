@@ -1,0 +1,873 @@
+<?xml version='1.0' encoding='utf-8'?>
+<book source="W08077_Wyss_Disputatio_physica_de_motu_quam_publicae_ac_placidae_syzetes_1667.pdf">
+  <page type="empty" n="1" model="claude-haiku-5-5">
+    <layout>One page: digitiser's cover sheet of e-rara.ch (logo at top right, title block centred, a boxed note block with multilingual terms of use below, Visual Library logo at bottom right). No printed text of the book.</layout>
+    <notes>Digitiser's cover sheet, not part of the printed book. Its title block gives: "Disputatio physica de motu", Albinus, David, [Bernae], 1667, Universitätsbibliothek Bern. Logo, persistent link, terms-of-use notices and Visual Library mark left out as digitiser's material.</notes>
+  </page>
+  <page type="title" n="2" model="claude-haiku-5-5">
+    <layout>One printed page, title page, centred lines throughout; faint show-through of the reverse page (advertisement list) in the background on the right, not transcribed. Handwritten page number "5" top right and pencil shelf mark bottom left are not printed text.</layout>
+    <main_text>
+      <l>DISPUTATIO PHYSICA</l>
+      <l>De</l>
+      <l>MOTU.</l>
+      <l>Quam</l>
+      <l>Σὺν θεῷ,</l>
+      <l>Publicæ ac placidæ Συζητήσει,</l>
+      <l>SUB PRÆSIDIO</l>
+      <l>Reverendi, Clarissimi Doctissimiq; Viri,</l>
+      <l>DN. DAVIDIS ALBINI,</l>
+      <l>IN INCLYTO BERNENSIUM</l>
+      <l>Athenæo, Philosophiæ Professoris Ordinarij, Domini Præceptoris sui omni observantiâ colendi.</l>
+      <l>Subjicit ac pro viribus tuendam suscipit,</l>
+      <l>JOH. RODOLPHUS SALCHLINUS, Zoph. Philosophiæ Studiosus.</l>
+      <l>Ad diem 10. Augusti, loco horisq; solitis.</l>
+      <l>Excudebat ILLUSTRISSIMÆ REIPUBLICÆ BERNENSIS TYPOGRAPHUS, Georgius Sonnleitnerus.</l>
+      <l>M DC LXVII.</l>
+    </main_text>
+    <notes>Printer's ornament (woodcut fleuron) between the Ad diem line and the imprint, not transcribed. The Greek "Σὺν θεῷ" and "Συζητήσει" are as printed; the second Greek word is set in a italic form and may differ slightly from standard spelling. The "Ad diem 10." line has the long-s and italic ligature forms modernised to plain s only where a long s appeared.</notes>
+  </page>
+  <page type="text" lines="ocr" n="3" model="claude-haiku-5-5">
+    <layout>One page of text, single column, centred dedication list; no margin notes; ornamental rule at head above the text; closing signature line at foot.</layout>
+    <page_number />
+    <running_head />
+    <bottom_margin>
+      <catchword />
+      <signature />
+    </bottom_margin>
+    <main_text>
+      <l n="1" type="heading" level="1" para="true">Reverendis, Clarißimis, Pietate Omnigena ac multijuga</l>
+      <l n="2" type="heading" level="1">Eruditione Conspicuis Viris,</l>
+      <l n="3" para="true">
+        <i>Dn.</i> ABRAHAMO de LOSEA, Ecclesiæ Bernensis Pastor</l>
+      <l n="4">indefesso, Agnato suo ac Patrono ad aras usq; colendo.</l>
+      <l n="5" para="true">
+        <i>Dn.</i> DAVIDI ALBINO, Philosophiæ Professori solidissimæ</l>
+      <l n="6">Acutissimo, Collegij in Pædagogio Inspectori fidelissimo, stu-</l>
+      <l n="7">diorum suorum Promotori indesinenter observando.</l>
+      <l n="8" para="true">
+        <i>Dn.</i> SAMUELI HENZIO, Linguæ Græcæ ac Philosophiæ</l>
+      <l n="9">Practicæ Professori sagacissimo, Agnato suo itidem debitæ ob-</l>
+      <l n="10">servantiæ cultu jugiter prosequendo.</l>
+      <l n="11" type="heading" level="1" para="true">Nec Non</l>
+      <l n="12" type="heading" level="2" para="true">Gravitate, Prudentiâ ac multarum rerum peritiâ</l>
+      <l n="13" type="heading" level="2">Spectatissimis Viris,</l>
+      <l n="14" para="true">
+        <i>Dn.</i> GUILIELMO BERSETH, apud Rhætos inalpinos</l>
+      <l n="15">Chiliarchiâ olim, ac duplici nuper Præfectura in Erlach ac</l>
+      <l n="16">Oberhofen strenuè defuncto, Mecœnati suo summô</l>
+      <l n="17">Obsequiô colendo.</l>
+      <l n="18" para="true">
+        <i>Dn.</i> JOH. RODOLPHO ZEENDERO, Oeconomiâ</l>
+      <l n="19">Zophingensi laudatissimè defuncto, Patrono suo æviternùm</l>
+      <l n="20">Venerando.</l>
+      <l n="21" para="true">
+        <i>Dn.</i> GEORGIO STEINEGGERO, Consuli Zophin-</l>
+      <l n="22">gensi prudentissimo, Fautori suo Benevolentissimo, debitè</l>
+      <l n="23">observando.</l>
+      <l n="24" type="heading" level="1" para="true">Quin Etiam</l>
+      <l n="25" para="true">
+        <i>Dn.</i> CHRISTIANO CHAMBRINO, Pastori Zophin-</l>
+      <l n="26">gensium pervigili, Fautori suo ac Promotori omni observan-</l>
+      <l n="27">tiæ genere devenerando.</l>
+      <l n="28" para="true">
+        <i>Dn.</i> PETRO HUBERO, Illustris Bernatum Metropolis</l>
+      <l n="29">Civi Meritissimo, Hospiti suo perpetim amando, colendo.</l>
+      <l n="30" para="true">
+        <i>Dn.</i> ADAMO SALCHLINO, Hypodidascalo Scholæ Ca-</l>
+      <l n="31">strovillanæ cordato, fratri suo Germano in seculorum myria-</l>
+      <l n="32">des suspiciendo ac fraterno amore prosequendo.</l>
+      <l n="33" para="true">
+        <i>Hasce studiorum suorum primitias in debitæ Observ. testeram</i>
+      </l>
+      <l n="34">
+        <i>quâ par est Humanitate, decerpit, dicat ac consecrat,</i>
+      </l>
+      <l n="35" para="true">J-</l>
+      <l n="36">oh. Rodolphus Salchlinus, Resp.</l>
+    </main_text>
+    <notes>Small show-through of the reverse page is visible in the middle and at right; ignored. Some letters in the dedication lines are faint at the right edge (e.g. "Obsequiô", "Venerando") and were read with care; ornamental rule at head is not text. The ligature-like "Dn." abbreviations are rendered in italics as a best reading of their small-capital form.</notes>
+  </page>
+  <page type="text" lines="ocr" n="4" model="claude-haiku-5-5">
+    <warning type="catchword_in_text">catchword taken out of the main text: gra-</warning>
+    <layout>One printed page, single text column with a large woodcut initial at the start of the thesis; running title and heading at full width above; signature and catchword line at foot. No marginal notes.</layout>
+    <running_head />
+    <bottom_margin>
+      <catchword>gra-</catchword>
+      <signature>A 3</signature>
+    </bottom_margin>
+    <main_text>
+      <l n="1" type="heading" level="1" caput="1" para="true">DISPUTATIO PHYSICA</l>
+      <l n="2" type="heading" level="1" caput="1">De MOTU.</l>
+      <l n="3" type="heading" level="2" para="true">THESIS I.</l>
+      <l n="4" para="true">
+        <i>S</i>Umme necessaria physico est motus</l>
+      <l n="5">cognitio; Quicquid enim nascitur</l>
+      <l n="6">rerum physicarum vel denascitur, id</l>
+      <l n="7">motu fieri putandum est: ut &amp; quies</l>
+      <l n="8">&amp; motus generetur motu.</l>
+      <l n="9" para="true">II.</l>
+      <l n="10" para="true">Difficilimum vero est invenire</l>
+      <l n="11">quid sit motus; Ut quanquam Cartesius Philosophus</l>
+      <l n="12">Summus in nulla re physica tantam quantam in motu in-</l>
+      <l n="13">vestigationis diligentiam exhibuerit, plurimum tamen</l>
+      <l n="14">laboris rem clare &amp; distincte intelligere cupienti etiam-</l>
+      <l n="15">num supersit; Quâ de causa Dominus de Raei cuivis,</l>
+      <l n="16">qui Cartesij praeceptis usus motum rite intelligit, magi-</l>
+      <l n="17">sterij gradum se daturum promittit.</l>
+      <l n="18" para="true">III.</l>
+      <l n="19" para="true">Cum vulgo Philosophi motum explicare volunt</l>
+      <l n="20">
+        <i>actione, quâ corpus aliquod ex uno loco in alium migrat.</i> Quam</l>
+      <l n="21">motus descriptionem ad examen revocaturi sumus.</l>
+      <l n="22" para="true">IV.</l>
+      <l n="23" para="true">Proinde motui loco generis apponunt actionem,</l>
+      <l n="24">hoc est, corporibus, quae moveri dicuntur, vim inesse</l>
+      <l n="25">quandam statuunt, cujus operatio sit ipse motus, exempli</l>
+    </main_text>
+    <notes>The woodcut initial S is joined to "Umme" as printed; the text reads "Ummè" with the initial U. Heading "DISPUTATIO PHYSICA De MOTU." set in capitals with "De" in a decorative form. Roman numerals II, III, IV are set on their own lines and kept as paragraphs. Page number and running head are not printed.</notes>
+  </page>
+  <page type="text" lines="ocr" n="5" model="claude-haiku-5-5">
+    <warning type="catchword_in_text">catchword taken out of the main text: VII. Opi-</warning>
+    <layout>One block of running text in a single column, with section numerals V. and VI. set as small centred subheads; catchword "VII. Opi-" at the lower right, below the last line.</layout>
+    <page_number />
+    <running_head />
+    <bottom_margin>
+      <catchword>VII. Opi-</catchword>
+    </bottom_margin>
+    <main_text>
+      <l n="1">gratiâ in lapide, qui deorsùm ruit, putant inesse aliquam</l>
+      <l n="2">virtutem, cujus actio sit lapidis descensus.</l>
+      <l n="3" type="heading" level="2" para="true">V.</l>
+      <l n="4" para="true">Quandò contingit ut nulla motûs externa causa sit</l>
+      <l n="5">sensibus obvia, recurrunt ad corporis, quod movetur,</l>
+      <l n="6">formam substantialem. Sic ignem sursùm, magnetem</l>
+      <l n="7">ad mundi polos, lapidem deorsum, cœlum &amp; stellas in</l>
+      <l n="8">Orbem à forma substantiali putant verti. Nec motum à</l>
+      <l n="9">forma sine medio promanare cogitant, sed ab ea facul-</l>
+      <l n="10">tatem quandam motricem primùm proficisci affirmant,</l>
+      <l n="11">quæ deindè proxima motûs sit causa. Nobis verò forma-</l>
+      <l n="12">rum inventio substantialium inanior est comentis, cùm</l>
+      <l n="13">earû nulla plane idea in intelle ꝯ‑tu nostro occurrat. Dein-</l>
+      <l n="14">de facultas hujusmodi motrix cognoscitur à Philosophis</l>
+      <l n="15">adinstar substantiæ, cùm cognoscatur præciso omni alio;</l>
+      <l n="16">Substantiam autem à forma substantiali progigni est ab-</l>
+      <l n="17">surdissimum. Ne dicam quòd emanatio, quâ facultatem</l>
+      <l n="18">motricem à forma dependere volunt, confundit Crea-</l>
+      <l n="19">toris conceptum cum conceptu Creaturæ.</l>
+      <l n="20" type="heading" level="2" para="true">VI.</l>
+      <l n="21" para="true">Quando verò contingit ut aliqua motûs externa cau-</l>
+      <l n="22">sa sit sensibus patens; Tunc internam motûs causam vo-</l>
+      <l n="23">lunt esse qùalitatem duntaxàt aliquam corpori mobili à</l>
+      <l n="24">movente impressam, excludentes formam substantialem.</l>
+      <l n="25">Ita quando pila à manu propellitur, volût à manu pilæ qua-</l>
+      <l n="26">litatem imprimi aliquam, quæ pilæ motum producat etiâ</l>
+      <l n="27">postquàm à manu pila separata est. Verùm enimverò</l>
+      <l n="28">de illa qualitate, quæ modò in manu modò sit in pila, ina-</l>
+      <l n="29">nis duntaxàt superest sonus. Deinde quomodò è manu</l>
+      <l n="30">transire in pilam illa qualitas possit nemo hominum in-</l>
+      <l n="31">telligit.</l>
+    </main_text>
+    <notes>Scan shows one printed page only. Faint show-through from the reverse side is ignored. The word "ctu" in "intelle ꝯtu" is written as printed and uncertain: possibly "stu" or "&amp;tu" in the original; marked as printed. "VII. Opi-" is a catchword and is also given as a foot line; the foot element may be a duplicate of the catchword and could be removed.</notes>
+  </page>
+  <page type="text" lines="ocr" n="6" model="claude-haiku-5-5">
+    <layout>One printed page, single column of text, no margin notes. Running text from top to bottom, with centred section numbers (VII., VIII., IX., X.) as headings. Signature at the foot left and catchword at the foot right.</layout>
+    <running_head />
+    <bottom_margin>
+      <catchword>quid</catchword>
+      <signature>A 3</signature>
+    </bottom_margin>
+    <main_text>
+      <l n="1" type="heading" level="2" para="true">VII.</l>
+      <l n="2" para="true">Opinio quòd motus fit actio nititur consideratione</l>
+      <l n="3">motûs, qui in corpore nostro contingit; Quando enim</l>
+      <l n="4">membra nostra movemus, vel illorum ope alia cor-</l>
+      <l n="5">pora permovemus, conscij fimus conatûs qui in no-</l>
+      <l n="6">bis contingit; Cujusmodi conatum deinde in aliis quo-</l>
+      <l n="7">que rebus, quæ moventur, inesse fingimus; Nobis enim</l>
+      <l n="8">nihil est frequentius quàm nostrâ ulnâ rerum aliarum me-</l>
+      <l n="9">tiri rationem, quod intra errorum fontes merito refertur.</l>
+      <l n="10" type="heading" level="2" para="true">VIII.</l>
+      <l n="11" para="true">Hujusmodi opinio verè est præjudicium, cùm nullâ</l>
+      <l n="12">nitatur clarâ perceptione; Quanquàm enim motus mem-</l>
+      <l n="13">brorum nostrorum actiones sint, quatenùs conatu nostro</l>
+      <l n="14">fiunt; Inconsequens tamen est quòd motus aliorum cor-</l>
+      <l n="15">porum quoq; sint actiones; Conatus enim, quô mem-</l>
+      <l n="16">bra nostra movemus, est ipsa volendi actio, cujus cõfcij su-</l>
+      <l n="17">mus quia velle est cogitare; Ut de Corporibus quibus-</l>
+      <l n="18">vis, quæ moventur, eadem plane ratione, quomodo de</l>
+      <l n="19">Corpore nostro, philosophari non possimus quin in qui-</l>
+      <l n="20">busvis corporibus motis mentem, quæ possit velle, ad-</l>
+      <l n="21">mittere debeamus.</l>
+      <l n="22" type="heading" level="2" para="true">IX.</l>
+      <l n="23" para="true">Sanè quidem virtutem movendi, quæ fit in ipso</l>
+      <l n="24">mobili, admittere non possumus, quin mobile confun-</l>
+      <l n="25">damus cum movente, &amp; corpus unam cum spiritu sub-</l>
+      <l n="26">stantiam esse putemus; Hoc enim nomine spiritus à cor-</l>
+      <l n="27">pore maximè differt, quòd spiritus ex fe actus &amp; imma-</l>
+      <l n="28">nentes &amp; transeuntes edere potest, corpus verò in gene-</l>
+      <l n="29">re agentis pura est potentia.</l>
+      <l n="30" type="heading" level="2" para="true">X.</l>
+      <l n="31" para="true">Quæris ergò quæ fit movendi virtus? Respondeo</l>
+      <l n="32">ipse motus, ut motus omnis producatur motû, &amp; quicquid</l>
+    </main_text>
+    <notes />
+  </page>
+  <page type="text" lines="ocr" n="7" model="claude-haiku-5-5">
+    <warning type="catchword_in_text">catchword taken out of the main text: XII. Ob.</warning>
+    <layout>One block of text in a single column, with a centred section heading "XI." inside it; below the text at the right a catchword "XII. Ob." is printed. No margin notes. Faint show-through from the reverse page is not transcribed.</layout>
+    <running_head />
+    <bottom_margin>
+      <catchword>XII. Ob.</catchword>
+    </bottom_margin>
+    <main_text>
+      <l n="1">quid movetur, moveatur proximè ab eo quod jam in</l>
+      <l n="2">motu est; Ita lapis suo loco pelli à nulla causa potest ni-</l>
+      <l n="3">si ea prius mota fuerit. Et sanè notio est menti inscul-</l>
+      <l n="4">pta quòd corpus moveri non possit à corpore, nisi id priùs</l>
+      <l n="5">in motu fuerit; Id quod Philosophi diffiteri non audent;</l>
+      <l n="6">Ut proinde mirandum sit quòd Philosophi qualitatem</l>
+      <l n="7">à movente corpori mobili imprimi volunt quoties corpus</l>
+      <l n="8">pellit corpus; Cùm enim qualitatem illam à motu distin-</l>
+      <l n="9">guunt, necessè habent fateri quòd motus producere motū</l>
+      <l n="10">non possit nisi interveniat id quod motus non est; Id quod</l>
+      <l n="11">alienum est à ratione. Quid quòd vel visus probat quòd</l>
+      <l n="12">motus de corpore transeat in corpus? Cur enim motui</l>
+      <l n="13">lapidis, qui alterum suo loco pepulit, multùm detrahitur</l>
+      <l n="14">nisi quòd ex eo aliquid motûs in alterum transijt? Cur</l>
+      <l n="15">motui pilæ nihil detrahitur quando impulsa fuerit in mu-</l>
+      <l n="16">rum nisi quia motum suum muro cômunicare non valens</l>
+      <l n="17">eum retinuit? Ut pila in velum impulsa ideo non resi-</l>
+      <l n="18">liat, quia motum velo communicat.</l>
+      <l n="19" type="heading" level="2" para="true">XI.</l>
+      <l n="20" para="true">Obducì potest pro virtute motrice à motu distin-</l>
+      <l n="21">guenda tale argumentum. Quod sensu percipitur in cor-</l>
+      <l n="22">poribus quiescentibus, id ab ipso motu differt. Atqui vir-</l>
+      <l n="23">tus motrix sensu percipitur in corporibus quiescentibus.</l>
+      <l n="24">Ergò virtus motrix ab ipso differt motu. Assumptio pro-</l>
+      <l n="25">batur exèmplo baculi, quem paribus viribus duo homines</l>
+      <l n="26">huc illuc premunt. Uterq; enim homo vim motricem ba-</l>
+      <l n="27">culi, qui quiescit, sentit. Respond. Vis illa motrix distin-</l>
+      <l n="28">guenda non est ab ipso motu, spiritus enim animales in</l>
+      <l n="29">brachio utriusq; hominis sunt contrariò modò determi-</l>
+      <l n="30">nati &amp; utrobiq;, æquè fortiter, ita ut sibi mutuò æq; for-</l>
+      <l n="31">siter resistant; Et hanc parem resistendi vim uterq; ho- mo sentit.</l>
+    </main_text>
+    <notes>Catchword "XII. Ob." at the lower right; the printed page ends with "mo sentit." on the last line. Some words in the scan are blurred (e.g. "insculpta" and "Assumptio" readings are uncertain). Show-through from the reverse side is ignored.</notes>
+  </page>
+  <page type="text" lines="ocr" n="8" model="claude-haiku-5-5">
+    <warning type="catchword_in_text">catchword taken out of the main text: mole</warning>
+    <layout>One printed page, single text column of running Latin with two centred section headings (XII. and XIII.). No marginal notes printed; a red manuscript mark "N3" sits in the right margin and is not transcribed. Catchword/signature none visible.</layout>
+    <running_head />
+    <main_text>
+      <l n="1" type="heading" level="2" para="true">XII.</l>
+      <l n="2" para="true">Obduci porrò potest. Quæcunq; in orbem agun-</l>
+      <l n="3">tur ea continuò conantur pergere secundùm lineam re-</l>
+      <l n="4">ctam, ut hoc Cartesius experimento fundæ, quæ circum-</l>
+      <l n="5">agit lapidem, satis clarè ostendit. Atqui ille conatus</l>
+      <l n="6">pergendi secundùm lineam rectam non est ipse motus,</l>
+      <l n="7">cùm motus circularis excludat motum rectum ; Ergò</l>
+      <l n="8">gò vis quædam motrix in lapide est, quem funda circum-</l>
+      <l n="9">agit, â motu distinguenda. Resp. Causa cur quæ in cir-</l>
+      <l n="10">culum abripiuntur continuò conantur pergere secun-</l>
+      <l n="11">dùm lineam rectam, non est vis vel qualitas quædam mo-</l>
+      <l n="12">trix, quæ in lapide resideat; Sed est vis legis naturæ, quâ</l>
+      <l n="13">omnis motus ex seipso est rectus; Et notandum quòd le-</l>
+      <l n="14">ges naturæ sint ipsa methodus, qua Deus conservat mun-</l>
+      <l n="15">dum. Ut conatus in lapide pergendi secundùm lineam</l>
+      <l n="16">rectam, qui in motu orbiculari est conspicuus, sit Dei</l>
+      <l n="17">immediata operatio; Id quod probatur vel inde quia co-</l>
+      <l n="18">natus ille nullâ creatâ vi interimi potest, cùm conspi-</l>
+      <l n="19">cuus sit etiam in ipsis planetis.</l>
+      <l n="20" type="heading" level="2" para="true">XIII.</l>
+      <l n="21" para="true">Instas denuò; Corpora, quæ gravant corpora quie-</l>
+      <l n="22">scentia quibus incumbunt, vim habent motricem, quæ</l>
+      <l n="23">omninò â motu est distincta, cùm eo casu quiescant. Resp.</l>
+      <l n="24">Corpora quiescentia, quæ corporibus quiescentibus im-</l>
+      <l n="25">morantur, nullatenus ea gravant; Quia quieti quies non</l>
+      <l n="26">est adversa: Ita quamlibet magna librorum moles men-</l>
+      <l n="27">sam, cui incumbit, neutiquam gravat, corpus enim quie-</l>
+      <l n="28">scens cum corpore quiescente, cui innititur, veluti unum</l>
+      <l n="29">corpus esse censendum est; Partes autem unius corporis,</l>
+      <l n="30">exempli gratiâ montis, se mutuò non premunt. Et quan-</l>
+      <l n="31">quàm tanta librorum moles imponi mensæ possit ut men-</l>
+      <l n="32">sæ tandem pedes confringantur, mensa tamen librorum</l>
+    </main_text>
+    <notes>The red manuscript mark in the right margin and the faint show-through of the neighbouring page are not transcribed. The heading level for XII. and XIII. is set as level 2 (section numbers within a larger work); the last word "mole" is printed at the right of the final line and may be continued on the next page.</notes>
+    <bottom_margin>
+      <catchword>mole</catchword>
+    </bottom_margin>
+  </page>
+  <page type="text" lines="ocr" n="9" model="claude-haiku-5-5">
+    <layout>One block of running text in a single column, full width; a centred chapter heading "XIV." with a heading line below it, then the last line of the page. No margin notes, no page number, no running head.</layout>
+    <main_text>
+      <l n="1">mole gravata non fuit; Sed mensa cum librorum mole</l>
+      <l n="2">conjunctim sumpta gravata fuit a materia coelesti, quae</l>
+      <l n="3">gravat motu, quo corpora obvia versus terram premit;</l>
+      <l n="4">Haec pressio eo est vehementior, quo plus corporum ma-</l>
+      <l n="5">teria coelestis deorsum premere nititur; Ita vehementius</l>
+      <l n="6">materia coelestis premit molem, quae ex mensa &amp; libro-</l>
+      <l n="7">rum mensae impositorum cumulo constat, quam men-</l>
+      <l n="8">sam libris nudam; Hocq; inde est quod eo major ma-</l>
+      <l n="9">teriae coelestis copia in molem terrestrem impingit quo</l>
+      <l n="10">major ipsa moles est. Quamdiu vero materia coelestis</l>
+      <l n="11">corpora terrestria deorsum tantum premit nec ea deor-</l>
+      <l n="12">sum movere potest, id ex eo est quod materiae terrestris,</l>
+      <l n="13">quae impetitur, vis resistendi major est quam sit vis in ma-</l>
+      <l n="14">teria coelesti ad premendum, ita ut inde materia coele-</l>
+      <l n="15">stis repellatur. Si vero contingat ut vis resistendi sit</l>
+      <l n="16">minor quam vis in materia coelesti ad premendum, fit ut</l>
+      <l n="17">quod resistit cedere cogatur, ita mensa cum integra mo-</l>
+      <l n="18">le librorum deorsum ruit fractis mensae pedibus, quo-</l>
+      <l n="19">niam moles materiae coelesti debilius resistebat quam ab</l>
+      <l n="20">ea premebatur; Quanquam enim terra substrata vim,</l>
+      <l n="21">quam mensa habet ad resistendum, juvet, tamen frange-</l>
+      <l n="22">bantur pedes, quia adjumentum non erat majus quam</l>
+      <l n="23">pedes recipere potuerint; Atqui in pedibus tanta vis ad</l>
+      <l n="24">resistendum colligi no potuit quanta fuit in pressione, qua</l>
+      <l n="25">mensa cum superimposita librorum mole pressa fuit, pe-</l>
+      <l n="26">des enim resistebant sua quiete, quietis autem tantum in pe-</l>
+      <l n="27">dibus esse non potuit quantum motus est in ea materiae</l>
+      <l n="28">coelestis copia, quae mensam cum superimposita mole pro</l>
+      <l n="29">stravit. Ex quibus videre facile est quod vis gravitatis</l>
+      <l n="30">non sit vis aliqua motrix distincta ab ipso motu.</l>
+      <l n="31" type="heading" level="1" caput="14" para="true">XIV.</l>
+      <l n="32" type="heading" level="2" para="true">Opinio, qua quiescentem a requiescente premi pu-</l>
+      <l n="33" type="heading" level="2">tant,</l>
+    </main_text>
+    <notes>The last line is printed partly at the foot of the page and is cut off; the heading line "Opinio, qua quiescentem a requiescente premi putant," is printed in larger type. Some letters in the scan are faint, notably in the sixth and seventh lines of the first paragraph; the transcription follows the most likely reading.</notes>
+  </page>
+  <page type="text" lines="ocr" n="10" model="claude-haiku-5-5">
+    <warning type="catchword_in_text">catchword taken out of the main text: in</warning>
+    <layout>One page of text, single column; a centred heading "XV." in the body; no margin notes; signature "B" at the foot; catchword "in" at the lower right.</layout>
+    <bottom_margin>
+      <catchword>in</catchword>
+      <signature>B</signature>
+    </bottom_margin>
+    <main_text>
+      <l n="1">tant, orta est ex eo quòd vim gravitatis onerum, quæ</l>
+      <l n="2">humeris nostris sunt imposita, sentire videmur, &amp; hume-</l>
+      <l n="3">ros ut rem quiescentem considerare assueti sumus. Ve-</l>
+      <l n="4">rùm sciendum quòd corpus nostrum magis constet ex</l>
+      <l n="5">fluida quàm ex materia stabili; Et si contingat ut hu-</l>
+      <l n="6">meris nostris imponatur onus, materiæ fluidæ motus in-</l>
+      <l n="7">de plurimùm mutatur, cùm non tantùm sanguis ex hu-</l>
+      <l n="8">meris exprimatur, qui deinde sanguinem reliquum in</l>
+      <l n="9">venis perturbat, sed etiam spiritus animales in musculos</l>
+      <l n="10">humerorum magnâ copiâ affluunt ut pressioni materiæ</l>
+      <l n="11">cœlestis, quâ onus premitur, resistant contrarjo motu;</l>
+      <l n="12">Ut, quamdiu homo humeris onus fert, mutua fit oppu-</l>
+      <l n="13">gnatio inter motum materiæ cœlestis &amp; motum spiri-</l>
+      <l n="14">t_uum animalium; Ita ut vis gravitatis non fit quædam</l>
+      <l n="15">qualitas motrix in ipso onere residens, sed est motus ipse.</l>
+      <l n="16">Deinde onus accessu suo nervos, musculos, venas, arte-</l>
+      <l n="17">rias, membranas in humeris mutat vel etiam è suo loco</l>
+      <l n="18">movet, quæ mutatio, cùm corpori fit incommoda, sen-</l>
+      <l n="19">sum animæ molestum excitat; Et quamdiu hæc muta-</l>
+      <l n="20">tio durat, durat similiter idem sensus, at hæc mutatio</l>
+      <l n="21">durat quamdiu onus non est sepositum; Unde fit ut onus</l>
+      <l n="22">in sua mansione idem agere persuasi simus quod suo ac-</l>
+      <l n="23">cessu egit, accessus autem erat motus; Hujusmodi verò</l>
+      <l n="24">persuasio est falsa.</l>
+      <l n="25" type="heading" level="2" para="true">XV.</l>
+      <l n="26" para="true">Tandem opponis; Si ut in corpore motus fiat re-</l>
+      <l n="27">quiritur causa quæ motum producat; Ergò requiritur</l>
+      <l n="28">etiam causa quæ motum continuet, qui in corpore es-</l>
+      <l n="29">se incepit; Motus enim fiendo perdurat. Resp. <i>Primò.</i>
+      </l>
+      <l n="30">Requiritur omninò causa quæ motum in corpore quie-</l>
+      <l n="31">scente producat, illa verò alia non est quàm corpus quod</l>
+      <l n="32">alteri suum motum communicat. <i>Secundò.</i> Postquàm </l>
+    </main_text>
+    <notes />
+  </page>
+  <page type="text" lines="ocr" n="11" model="claude-haiku-5-5">
+    <warning type="catchword_in_text">catchword taken out of the main text: dens</warning>
+    <layout>One column of running text, centred on the page; headings XVI and XVII centred within the column; no margin notes; no page number, running head or catchword printed.</layout>
+    <main_text>
+      <l n="1">in corpore motus esse incepit, deinceps causam dari, quae</l>
+      <l n="2">motum in corpore continuo producat, necessarium non</l>
+      <l n="3">est; Lex enim naturae est; Unaquaeq; res, quantum in se,</l>
+      <l n="4">semper in eodem statu perseverat; Ut quod semel mo-</l>
+      <l n="5">vetur semper moveri pergat. <i>Tertio.</i> Quod de corporibus</l>
+      <l n="6">verum est quòd causâ non egeant ut perdurare possint</l>
+      <l n="7">in statu, in quo semel à suis causis sunt collocata; Idem</l>
+      <l n="8">de motûs continuata generatione intelligi debet, quod</l>
+      <l n="9">enim aliorum modorum corporis est perduratio, idem</l>
+      <l n="10">in motu est generationis continuatio. <i>Quarto.</i> Causa</l>
+      <l n="11">requiritur quae motum producat quando motus in cor-</l>
+      <l n="12">pore esse incipere debet, quia corpus è statu quietis est</l>
+      <l n="13">expellendum; Postquàm verò motus jam esse incepit,</l>
+      <l n="14">pristinus status corporis, qui expellendus sit, amplius lo-</l>
+      <l n="15">cum non habet; Ut sic motûs duramentum causâ non</l>
+      <l n="16">egeat.</l>
+      <l n="17" type="heading" level="2" para="true">XVI.</l>
+      <l n="18" para="true">Certè si in mobili vis aliqua lateret quae in eo mo-</l>
+      <l n="19">tum producat, eam procul dubio sentiremus in navigio</l>
+      <l n="20">sedentes, quippe motu cum navigio communi vehimur;</l>
+      <l n="21">Atqui illam vim non sentimus, maximè quando æqua-</l>
+      <l n="22">biliter navis provehitur. Quid quòd in navi etiam ce-</l>
+      <l n="23">lerrimè provecta ambulare adversus puppim absq; reni-</l>
+      <l n="24">tentia possumus? At verò vis quae navim de loco in lo-</l>
+      <l n="25">cum propellit haud dubiè tanta est, ut si ea in nobis quo-</l>
+      <l n="26">que ageret, contra eam absq; renisu agere non possemus.</l>
+      <l n="27" type="heading" level="2" para="true">XVII.</l>
+      <l n="28" para="true">Sed inquis; Motus est in movente; Ergò motus</l>
+      <l n="29">est actio. Probatur antecedens exemplo manûs, in qua,</l>
+      <l n="30">dùm pennam movet, motus est; Imò nullum est movens</l>
+      <l n="31">in quo non sit motus. Respondeo. <i>Primò,</i> ad antece-</l>
+    </main_text>
+    <notes />
+    <bottom_margin>
+      <catchword>dens</catchword>
+    </bottom_margin>
+  </page>
+  <page type="text" lines="ocr" n="12" model="claude-haiku-5-5">
+    <layout>One printed page, single column of running text; a centred heading "XVIII." in the middle; signature "B 2" at the foot centre; catchword "XIX. Quæ-" at the foot right is the heading-line of the next division, printed as catchword.</layout>
+    <page_number>2</page_number>
+    <running_head />
+    <bottom_margin>
+      <catchword>XIX. Quæ-</catchword>
+      <signature>B 2</signature>
+    </bottom_margin>
+    <main_text>
+      <l n="1">dens quòd motus fit in movente quolibet, non quà mo-</l>
+      <l n="2">vens sed quà mobile. Hæ enim phrases probè sunt di-</l>
+      <l n="3">stinguendæ; Habere motum, accipere motum, dare mo-</l>
+      <l n="4">tum; Moventis enim, quà movens, non est habere mo-</l>
+      <l n="5">tum, nec accipere motum, sed dare motum. Interim nul-</l>
+      <l n="6">lum est movens quod motum non habeat, non quà mo-</l>
+      <l n="7">vens, sed quà mobile est. <i>Secundò.</i> Negatur consequen-</l>
+      <l n="8">tia, quia actio non est in agente sed ab agente, ita actio</l>
+      <l n="9">manûs scribentis non est ipse manûs motus, quia eò ma-</l>
+      <l n="10">nus non est movens sed est mobile; Sed motus pennæ est manûs scribentis actio, quatenus manus ejus esse</l>
+      <l n="11">datrix censetur.</l>
+      <l n="12" type="heading" level="2" para="true">XVIII.</l>
+      <l n="13" para="true">Interim non nego quin motus certo sensu actio di-</l>
+      <l n="14">ci possit, non quando interna motûs natura est expri-</l>
+      <l n="15">menda, sed ex connotatione tantùm actio dici potest.</l>
+      <l n="16">Notandum enim quòd motus consíderari possit vel in</l>
+      <l n="17">primordio vel in progressu. Primordium deinde motûs</l>
+      <l n="18">consideratur vel ex intima ratione vel ex connotatione</l>
+      <l n="19">datoris; Motus in progressu nulla ratione actio est. In</l>
+      <l n="20">primordio verò actio est non ex intima ratione sed ex</l>
+      <l n="21">connotatione duntaxat motoris. Ita ut motus in suo ini-</l>
+      <l n="22">tio consideratus actio fit denominatione externa; Et</l>
+      <l n="23">omnis sanè actio est denominatio duntaxat externa, quia</l>
+      <l n="24">qui ex non agente fit agens mutationem nullam patitur</l>
+      <l n="25">&amp; ex non dante fit dans, ita quando lapis lapidem suo lo-</l>
+      <l n="26">co pepulit factus est ex non agente agens sed absq; sui</l>
+      <l n="27">mutatione; Quanquam enim in eo, qui pepulit, fiat</l>
+      <l n="28">motûs mutatio, ea mutatio in eo non quà agens sed quà</l>
+      <l n="29">patiens contigit. Et id in alterum agere dicitur, quod</l>
+      <l n="30">in eo effectum quemcunq; producit; Cùm omnis actio</l>
+      <l n="31">physica unius in alterum fundetur in victoria &amp; excessu</l>
+      <l n="32">agentis.</l>
+    </main_text>
+    <notes />
+  </page>
+  <page type="text" lines="ocr" n="13" model="claude-haiku-5-5">
+    <layout>One page of text, single column; faint show-through from the reverse side at top and right (not transcribed). No margin notes. Heading XIX at top centre, then paragraph, then heading XX, then paragraph ending with catchword-like "do" at right.</layout>
+    <running_head />
+    <bottom_margin>
+  </bottom_margin>
+    <main_text>
+      <l n="1" type="heading" level="1" caput="19" para="true">XIX.</l>
+      <l n="2" para="true">
+        <i>Quæris</i> ergò quid motus sit? Respondeo. Si ejus</l>
+      <l n="3">intimam naturam rufpari &amp; exprimere volumus modus</l>
+      <l n="4">est, quemadmodum figura, magnitudo, quies &amp; situs mo-</l>
+      <l n="5">di sunt: Quod ut intelligatur sciendum, quòd motus con-</l>
+      <l n="6">sideretur vel relatè ad alia vel absolutè &amp; in fe. Relatè</l>
+      <l n="7">motus perpendi potest eum referendo vel ad Datorem, &amp;</l>
+      <l n="8">ita motus est actio; Vel ad Receptorem, ita motus est</l>
+      <l n="9">passio. Quando denique motus in fe &amp; absolutè confide-</l>
+      <l n="10">retur (quomodo considerari debet, quando genuinam</l>
+      <l n="11">ejus naturam intelligere volumus) tunc motus neque est</l>
+      <l n="12">actio neque passio sed modus tantum. Ita motus pennæ</l>
+      <l n="13">actio est fi referatur ad scribentem, qui motum pennæ</l>
+      <l n="14">dat; Passio deinde est idem motus fi referatur ad ipsam</l>
+      <l n="15">pennam quæ eum recipit. Quando verò motus pennæ</l>
+      <l n="16">absolutè consideretur &amp; in fe, modus est qui facit ut pen-</l>
+      <l n="17">na certa ratione fe habeat; Quemadmodum figuræ pen-</l>
+      <l n="18">næ facit ut penna certa ratione fe habeat. Motus autem</l>
+      <l n="19">tunc absolutè &amp; in fe consideratur quando consideratur</l>
+      <l n="20">subjectivè, quomodo omnes modi, quando rite intelli-</l>
+      <l n="21">gi debent, considerandi sunt.</l>
+      <l n="22" type="heading" level="1" caput="20" para="true">XX.</l>
+      <l n="23" para="true">Quemadmodum ergò de modis inquirere non li-</l>
+      <l n="24">cet, quare perdurent postquàm inceperunt esse; Ita post-</l>
+      <l n="25">quàm motus in corpore esse incipit inquirendum non</l>
+      <l n="26">est quare perduret; Unaquæque enim res, quantum in fe</l>
+      <l n="27">est, semper in eodem statu perseverat. Potiùs inquiren-</l>
+      <l n="28">dum est quare motus cesset postquàm esse incepit. Fru-</l>
+      <l n="29">strà profectò inquiritur cur culter figuram suam retineat</l>
+      <l n="30">quam aliquando accepit, cùm potiùs inquirendum fit,</l>
+      <l n="31">quæ causa amissæ figuræ, quando eam amisit? Ita quando</l>
+    </main_text>
+    <notes>Faint show-through text from the reverse page is visible at top and right and was omitted. Line-end "do" at lower right is a partial word (quando) at the page foot, treated as catchword-like fragment and left in the text. Page number not printed.</notes>
+  </page>
+  <page type="text" lines="ocr" n="14" model="claude-haiku-5-5">
+    <layout>One column of running text, full width. A centred section heading "XXI." in the middle of the page. At the foot, a signature "B 3" at left and the catchword "XXII. Post-" at right. No margin notes. No page number or running head printed.</layout>
+    <page_number />
+    <running_head />
+    <bottom_margin>
+      <catchword>XXII. Post-</catchword>
+      <signature>B 3</signature>
+    </bottom_margin>
+    <main_text>
+      <l n="1">do lapis projectus moveri pergit etiam a movente sejun-</l>
+      <l n="2">ctus, inquirendum non est quare moveri pergat? Po-</l>
+      <l n="3">tius inquirendum quare moveri desinat postquam mo-</l>
+      <l n="4">veri incepit? Ita in fumum abeunt omnia illa com-</l>
+      <l n="5">menta circa intelligentias motrices orbium coelestium,</l>
+      <l n="6">formas substantiales quae gravitatis, levitatis &amp; aliorum</l>
+      <l n="7">motuum sint productrices, vires itidem insitas aut im-</l>
+      <l n="8">pressas, a motu quas distinguunt.</l>
+      <l n="9" type="heading" level="2" para="true">XXI.</l>
+      <l n="10" para="true">Hactenus actionem, quam loco generis motui vulg-</l>
+      <l n="11">aris definitio apponit, examinavimus. Sequitur consi-</l>
+      <l n="12">deratio differentiae specificae motus, quam his verbis con-</l>
+      <l n="13">stare volunt; <i>Quâ corpus aliquod ex uno loco in alium mi-</i>
+      </l>
+      <l n="14">
+        <i>grat.</i> Ubi sua ambiguitate vocabulum loci descriptio-</l>
+      <l n="15">nem motus ita ambiguam reddit, ut incertum saepius</l>
+      <l n="16">relinquatur utrum quid moveri an quiescere dicendum</l>
+      <l n="17">sit; Hoc ut constet, notandum est, quòd loci nomen</l>
+      <l n="18">nihil aliud designet quàm magnitudinem, figuram &amp; si-</l>
+      <l n="19">tum inter corpora alia; Qui situs ut determinetur, respi-</l>
+      <l n="20">cere nos oportet ad alia aliqua corpora quae considera-</l>
+      <l n="21">mus veluti immota: Et prout ad diversa respicimus (uti</l>
+      <l n="22">solemus nunc haec nunc illa pro lubitu respicere) dicere</l>
+      <l n="23">possumus unam eandemque rem eodem tempore lo-</l>
+      <l n="24">cum mutare &amp; non mutare seu moveri &amp; non moveri.</l>
+      <l n="25">Exempli gratia, qui sedet in navi, dum ea solvit e por-</l>
+      <l n="26">tu, putat quidem se moveri si respicit ad littora eaq; ut</l>
+      <l n="27">immota consideret, non autem si ad ipsam navim, inter</l>
+      <l n="28">cujus partes eundem retinet situm; Si contingat ut e-</l>
+      <l n="29">tiam respiciens ad navigij latera se moveri putet, id fit vel</l>
+      <l n="30">quia respectum, quem navis ad litora habet, in memo-</l>
+      <l n="31">riam revocat, vel quia ita putare consuevit, omissa con-</l>
+      <l n="32">sideratione unde consuetudo ita putandi fuerit oborta.</l>
+    </main_text>
+    <notes>The scan shows a single printed page; the top line is partly cut at the edge. The catchword and signature are at the foot. Some letters in the body are faded, notably "fumum" and "Quâ" in the italic phrase, but read as printed. The section heading "XXI." is set as a level 2 heading. The "XXII. Post-" line is treated as the catchword.</notes>
+  </page>
+  <page type="text" lines="ocr" n="15" model="claude-haiku-5-5">
+    <warning type="catchword_in_text">catchword taken out of the main text: sunt.</warning>
+    <layout>One column of running text, full width; headings XXII, XXIII and XXIV centred above their paragraphs. No margin notes, no running head, no page number, no catchword.</layout>
+    <main_text>
+      <l n="1" type="heading" level="2" para="true">XXII.</l>
+      <l n="2" para="true">Postquàm vidimus quàm malè à Philosophis motus</l>
+      <l n="3">fuerit descriptus; Operæ pretium nunc est expendere ge-</l>
+      <l n="4">nuinam motùs naturam, quam acu Cartefius tetigisse me-</l>
+      <l n="5">rito judicatur, definiendo motum <i>quòd fit translatio unius</i>
+      </l>
+      <l n="6">
+        <i>partis materiæ, sive unius corporis, ex vicinia eorum corpo-</i>
+      </l>
+      <l n="7">
+        <i>rum, quæ illud immediatè contingunt &amp; tanquam quiescentia</i>
+      </l>
+      <l n="8">
+        <i>spectantur, in viciniam aliorum.</i>
+      </l>
+      <l n="9" type="heading" level="2" para="true">XXIII.</l>
+      <l n="10" para="true">Ubi vox <i>Translatio</i> duo nos docet. Unum, quòd</l>
+      <l n="11">motus sit modus non verò substantia, quanquàm substan-</l>
+      <l n="12">tiæ conceptu motum hucusq; intelligere Philosophi vo-</l>
+      <l n="13">luerint, eum seorsim à corpore comprehendere conan-</l>
+      <l n="14">tes. Alterum, quòd motus non sit actio, quando transla-</l>
+      <l n="15">tio in definitione memoratur cum actionis, quæ transfert,</l>
+      <l n="16">omissione; Ut translatio non verbalem (quomodo sub-</l>
+      <l n="17">stantiva, quæ in io desinunt, vel actionem vel passionem</l>
+      <l n="18">ferè denotant) sed nominalem significationem conti-</l>
+      <l n="19">neat; Ita eruditio <bl>die Gelehrtheit</bl> quanquàm in io defi-</l>
+      <l n="20">nat, nominalem sensum tamen habet.</l>
+      <l n="21" type="heading" level="2" para="true">XXIV.</l>
+      <l n="22" para="true">Deinde Cartefiana motùs descriptio nos docet quòd</l>
+      <l n="23">motus sit corporis; Ut nihil moveatur nisi quod cor-</l>
+      <l n="24">pus est. Per <i>unum corpus</i> intelligimus id omne quod si-</l>
+      <l n="25">mul transfertur, atq; ita velut indivisum spectatur; Ita</l>
+      <l n="26">navigium, quod provehitur, &amp; merces in eo contentas</l>
+      <l n="27">uno simul transferri motu censendum est, quamdiu ve-</l>
+      <l n="28">lut unum &amp; indivisum quid spectantur. Ut per <i>unum cor-</i>
+      </l>
+      <l n="29">
+        <i>pus</i> non tantùm corpus, quod verè unū est, intelligamus,</l>
+      <l n="30">sed etiam quod spectatur ut unum, quanquàm ex multis</l>
+      <l n="31">interim corporibus constet; Corpora autem, quæ plura</l>
+    </main_text>
+    <notes>Heading numbers are printed as XXII., XXIII., XXIV. Possible misprint: "in io definunt" and "in io definat" appear as printed. The German phrase "die Gelehrtheit" is in black letter. Some words in the scan are faint (e.g. "motùs ... corporis"), transcribed as read.</notes>
+    <bottom_margin>
+      <catchword>sunt.</catchword>
+    </bottom_margin>
+  </page>
+  <page type="text" lines="ocr" n="16" model="claude-haiku-5-5">
+    <warning type="catchword_in_text">catchword taken out of the main text: in ea</warning>
+    <layout>One page of text, single column; a small marginal mark at the left margin beside the line "in viciniam aliorum" (no printed note text). Headings XXV. and XXVI. centred. Catchword "in ea" at lower right.</layout>
+    <running_head />
+    <bottom_margin>
+      <catchword>in ea</catchword>
+    </bottom_margin>
+    <main_text>
+      <l n="1">sunt, spectari solent ut unum, quando spectantur ut unā</l>
+      <l n="2">communi superficie comprehensa.</l>
+      <l n="3" type="heading" level="2" para="true">XXV.</l>
+      <l n="4" para="true">Additum praeterea in definitione est, translationem,</l>
+      <l n="5">quae motus est, fieri ex vicinia corporum contiguorum,</l>
+      <l n="6">in viciniam aliorum, non autem ex uno loco in alium;</l>
+      <l n="7">Quia, ut suprà notatum est, loci designatio varia est, ac</l>
+      <l n="8">pendet à nostro arbitrio; Ita ut non tantùm incertum</l>
+      <l n="9">saepius relinquatur, utrùm quid moveri an quiescere di-</l>
+      <l n="10">cendum sit, sed etiam corpori eodem tempore plu-</l>
+      <l n="11">res proprij tribui motus possent. Cùm verò per mo-</l>
+      <l n="12">tum intelligimus eam translationem, quae fit ex vicinia</l>
+      <l n="13">corporum contiguorum, utraq; incommoditas vitatur,</l>
+      <l n="14">quoniam una tantùm corpora eodem temporis momen-</l>
+      <l n="15">to uni corpori contigua esse possunt. Certè illa tantùm</l>
+      <l n="16">translatio motus est, quae moventis est actio; Atqui</l>
+      <l n="17">translatio corporis ex vicinia corporum proximè ambien-</l>
+      <l n="18">tium, non verò translatio ex situ, quem corpus inter re-</l>
+      <l n="19">motiora habet corpora est, actio moventis; Ergò. Pro-</l>
+      <l n="20">batur assumptio quia actio elucet ex victoria, victoria ex</l>
+      <l n="21">superata resistentia; At verò corpora, quae corpori mo-</l>
+      <l n="22">vendo contigua sunt, motui resistunt, non verò quae re-</l>
+      <l n="23">motiùs sunt. Ergò. Proinde non à nostro arbitrio desi-</l>
+      <l n="24">gnatio corporum pendet, quorum respectu corpus mo-</l>
+      <l n="25">veri vel quiescere dicendum sit.</l>
+      <l n="26" type="heading" level="2" para="true">XXVI.</l>
+      <l n="27" para="true">Deniq; motui addidit descriptio translationem, quae</l>
+      <l n="28">fiat ex vicinia, non quorumlibet corporum contiguo-</l>
+      <l n="29">rum, sed eorum duntaxat quae tanquàm quiescentia spe-</l>
+      <l n="30">ctantur. Non requiritur ut reipsa quiescant, sed ut spe-</l>
+      <l n="31">ctentur veluti quiescentia; Navis enim ratione hominis</l>
+    </main_text>
+    <notes>Printed page has no page number or running head. The small mark before "in viciniam" is a printed reference mark, not a note. The text ends mid-sentence with the catchword "in ea".</notes>
+  </page>
+  <page type="text" lines="ocr" n="17" model="claude-haiku-5-5">
+    <warning type="catchword_in_text">catchword taken out of the main text: XXIX. Qui</warning>
+    <layout>One page of text, single column; no margin notes; no running head or page number printed.</layout>
+    <main_text>
+      <l n="1">in ea ambulantis consideratur ut quiescens, licet interim</l>
+      <l n="2">celerrime à vento pellatur.</l>
+      <l n="3" type="heading" level="2" para="true">XXVII.</l>
+      <l n="4" para="true">Imò corpora, quæ in motu tanquàm quiescentia</l>
+      <l n="5">spectantur, nunquàm verè quiescunt, omnis enim trans-</l>
+      <l n="6">latio, propter quam corpus moveri dicitur, est recipro-</l>
+      <l n="7">ca; Cùm intelligi non possit corpus A. B. transferri</l>
+      <l n="8">ex vicinia corporis contigui C. D. quin simul intelli-</l>
+      <l n="9">gatur corpus C. D. transferri ex vicinia corporis A.</l>
+      <l n="10">B. quid quòd eadem vis &amp; actio requiritur ex una par-</l>
+      <l n="11">te atq; ex altera? Exempli gratiâ, sunto duo homines,</l>
+      <l n="12">quorum unus pannum manu ita fortiter tenet ut unam</l>
+      <l n="13">retineat partem, alteram altero avellente; Ubi qui reti-</l>
+      <l n="14">nuit non minus virium adhibuit quàm qui avulsit. Ut</l>
+      <l n="15">si omninò propriam &amp; non ad aliud relatam naturam</l>
+      <l n="16">motui tribuere vellemus, cùm duorum corporum con-</l>
+      <l n="17">tiguorum unum in unam, alterum in alteram partem</l>
+      <l n="18">transfertur, sicq; utrumq; à se mutuò seperatur, tantun-</l>
+      <l n="19">dem motûs in uno quàm in altero esse diceremus. Sed</l>
+      <l n="20">hoc à communi loquendi usu plurimùm abhorret; Un-</l>
+      <l n="21">de quanquàm translationem omnem reciprocam esse</l>
+      <l n="22">profiteamur, motum tamen appellari reciprocum nolu-</l>
+      <l n="23">mus; Sed interim recordemur id omne quod reale est</l>
+      <l n="24">ac positivum, propter quod moveri corpora dicuntur,</l>
+      <l n="25">reperiri etiam in contiguis, quæ ut quiescentia spectantur.</l>
+      <l n="26" type="heading" level="2" para="true">XXVIII.</l>
+      <l n="27" para="true">Obducis, sic retinetur &amp; error &amp; pravus loquendi</l>
+      <l n="28">usus. Respondeo. Hic modus &amp; cogitandi &amp; loquen-</l>
+      <l n="29">di à tempore immemoriali in populis ita invaluit, ut qui</l>
+      <l n="30">usum emendare velit non tantùm incassum laboret, sed</l>
+      <l n="31">etiam vocabulum motus repudiare &amp; de motu cogitare</l>
+      <l n="32">cessare debeat.</l>
+    </main_text>
+    <notes>Headings XXVII and XXVIII are set as section numbers; the final line "XXIX. Qui" is the start of the next section, its Q enlarged.</notes>
+    <bottom_margin>
+      <catchword>XXIX. Qui</catchword>
+    </bottom_margin>
+  </page>
+  <page type="text" lines="ocr" n="18" model="claude-haiku-5-5">
+    <layout>One page of text, single column; section headings XXIX, XXX, XXXI centred in the column; catchword "C" and "quàm" at the foot; faint show-through from the reverse side in the background, not transcribed; a small mark "u" in the right margin beside the line "congrstere", not a readable note.</layout>
+    <page_number />
+    <running_head />
+    <bottom_margin>
+      <catchword>quàm</catchword>
+      <signature>C</signature>
+    </bottom_margin>
+    <main_text>
+      <l n="1" type="heading" level="1" caput="29" para="true">XXIX.</l>
+      <l n="2" para="true">Qui fit ut in motu unum spectetur ut quiescens,</l>
+      <l n="3">cùm id habeat propter quod corpus moveri dicitur?</l>
+      <l n="4">Respondeo. Causæ sunt duæ; Una &amp; præcipua est, quia</l>
+      <l n="5">motus intelligitur esse totius corporis; Atqui sæpè con-</l>
+      <l n="6">tingit, ut corpus transferatur ab aliquibus tantùm cor-</l>
+      <l n="7">poris contigui partibus; Quò casu corpus à cujus aliqui-</l>
+      <l n="8">bus tantùm partibus aliud transfertur, spectatur ut quie-</l>
+      <l n="9">scens, quoniam plures ejusmodi translationes sibi mu-</l>
+      <l n="10">tuò contrariæ in ipso contingere possunt; Ne proin-</l>
+      <l n="11">de unum &amp; idem corpus in adversas regiones eodem</l>
+      <l n="12">tempore transferri dicendum fit, spectatur potiùs ut quie-</l>
+      <l n="13">scens. Verbi gratiâ si ego in terra versus Orientem</l>
+      <l n="14">ambulem, tu interim versus Occidentem iter facias, si-</l>
+      <l n="15">quidem absolutè motus naturæ verba nostra congrstere</l>
+      <l n="16">vellemus, terra simul versus Occidentem &amp; Orientem</l>
+      <l n="17">ferri dicenda foret, quæ nimis intricata &amp; sibiipsi re-</l>
+      <l n="18">pugnans loquendi ratio esset.</l>
+      <l n="19" type="heading" level="1" caput="30" para="true">XXX.</l>
+      <l n="20" para="true">Altera causa est, quòd attenditur situs immutatus,</l>
+      <l n="21">quem corpus, quod ut quiescens spectatur inter remotio-</l>
+      <l n="22">ra corpora habet. Ita quando nubem venti circumquaq;</l>
+      <l n="23">fricarent, ut quantum translationis in ventis tantundem</l>
+      <l n="24">esset in nube; Nubes tamen spectaretur à nobis ut quie-</l>
+      <l n="25">scens, quia eundem situm inter corpora remotiora ab</l>
+      <l n="26">ea retineri observamus.</l>
+      <l n="27" type="heading" level="1" caput="31" para="true">XXXI.</l>
+      <l n="28" para="true">Et hæc est genuina motùs descriptio, quæ priùs di-</l>
+      <l n="29">ligenter est meditanda quam censenda; Difficilis enim</l>
+      <l n="30">est &amp; inventu &amp; intellectu; Diligenti tamen medita-</l>
+      <l n="31">tioni difficultas cedit. Difficultatem auxerunt Philoso-</l>
+      <l n="32">phi ea in motu comminiscendo, quæ ad motum neuti-</l>
+      <l n="33">quam</l>
+    </main_text>
+    <notes>Show-through from the reverse page is visible faintly in the background; the mark "u" at the right margin near "congrstere" is not a printed note. Catchword "quàm" and signature "C" read at the foot; the text "XXXV. Quan..." faintly below is show-through and omitted.</notes>
+  </page>
+  <page type="text" lines="ocr" n="19" model="claude-haiku-5-5">
+    <warning type="catchword_in_text">catchword taken out of the main text: XXXV. Quan-</warning>
+    <layout>One page of text, one column, with faint show-through from the reverse side in the background. No margin notes. No running head or page number visible.</layout>
+    <main_text>
+      <l n="1">quàm pertinent, exempli gratiâ motum ideâ substantiæ</l>
+      <l n="2">comprehendere voluerunt quanquàm motus non fit sub-</l>
+      <l n="3">stantia sed modus. Insuper motum discerpebant in va-</l>
+      <l n="4">ria genera, cùm non est nisi unus. Deinde motum et-</l>
+      <l n="5">iàm tribuebant spiritibus, qui corpora sibi contigua non</l>
+      <l n="6">habent, ex quorum vicinia transferri possint. Etiam</l>
+      <l n="7">motum localem putabant esse actionem cùm tantùm</l>
+      <l n="8">est modus. Deniq; rei difficultatem non parùm auxit</l>
+      <l n="9">duplex error, unus, quò extensio spatij, quam corpora</l>
+      <l n="10">suo motu percurrunt, ab extensione corporum internè</l>
+      <l n="11">distincta esse censetur. Alter,quò in motu corpora con-</l>
+      <l n="12">tigua veluti quiescentia sunt spectanda.</l>
+      <l n="13" type="heading" level="2" para="true">XXXII.</l>
+      <l n="14" para="true">Motus distingui potest in proprium &amp; comunem;</l>
+      <l n="15">Ille est quem hactenus enucleavimus; Hic verò est, qui</l>
+      <l n="16">corpori cõvenit, quatenùs pars est totius alicujus corporis</l>
+      <l n="17">quod movetur, ejusq; motum participat. E. G. Si quis</l>
+      <l n="18">ambulans in navi gestat horologium in pera, ejus horolo-</l>
+      <l n="19">gij rotulæ motu moventur proprio, quo horas indicant:</l>
+      <l n="20">Sed participant etiam alium, quatenùs adjunctæ homini</l>
+      <l n="21">ambulanti unum cum illo corpus conficere censentur.</l>
+      <l n="22" type="heading" level="2" para="true">XXXIII.</l>
+      <l n="23" para="true">Bene motum distingui proprium à comuni patet ex</l>
+      <l n="24">exemplo hominis qui scribit in navi provectâ. E. G. li-</l>
+      <l n="25">teram O. Dùm enim homo scribit literam O. navis pro-</l>
+      <l n="26">gredi potestper duos aut tres passus; Ut nisi agitatio Cala-</l>
+      <l n="27">mi alius esset motus quàm Navigij, litera O. deberet duo-</l>
+      <l n="28">rum vel trium passuum esse magnitudine.</l>
+      <l n="29" type="heading" level="2" para="true">XXXIV.</l>
+      <l n="30" para="true">Nec repugnantia est,quandò plures eidem corpori</l>
+      <l n="31">motus tribui posse affirmamus; Cùm proprium non ex-</l>
+      <l n="32">cludat commune, nec commune excludat proprium.</l>
+    </main_text>
+    <notes>Show-through from the reverse page is visible faintly in the background and is not transcribed. The word "substantia" in the first line is printed as "substantiæ" on the first line and "substantia" at the line start; transcribed as printed. "Sed participant" in the XXXIII paragraph appears printed as "Sed par ticipant etiam alium"; the word "proprio" is followed by a colon-like mark. The heading numerals XXXII, XXXIII, XXXIV are set in spaced capitals and treated as level 2 headings. Final line "XXXV. Quan-" is a catchword-like line ending with a hyphen, kept as text.</notes>
+    <bottom_margin>
+      <catchword>XXXV. Quan-</catchword>
+    </bottom_margin>
+  </page>
+  <page type="text" lines="ocr" n="20" model="claude-haiku-5-5">
+    <warning type="catchword_in_text">catchword taken out of the main text: collocare</warning>
+    <layout>One column of text, full width, with a centred ornament and a centred heading "COROLLARIA" followed by numbered theses set in italic below; no margin notes; catchword at the foot right.</layout>
+    <running_head />
+    <bottom_margin>
+      <catchword>collocare</catchword>
+    </bottom_margin>
+    <main_text>
+      <l n="1" type="heading" level="1" caput="35" para="true">XXXV.</l>
+      <l n="2" para="true">Quanquàm uni corpori non possit tribui nisi unus</l>
+      <l n="3">proprius motus, communes tamen ei convenire eodem</l>
+      <l n="4">tempore possunt plurimi. Ita rotulæ horologij, quod in pe-</l>
+      <l n="5">ră gestat homo in navi ambulans, moventur motu ho-</l>
+      <l n="6">minis, quatenùs homini ambulanti adjunctæ unum cum</l>
+      <l n="7">eo corpus cõponunt; Moventur rotulæ etiam motu na-</l>
+      <l n="8">vigij in mari fluctuantis quatenùs adjunctæ sunt navigio;</l>
+      <l n="9">Insuper movetur motu maris quatenùs adjunctæ sunt ma-</l>
+      <l n="10">ri; moventur deindè motu Terræ, quatenùs adjunctæ sunt</l>
+      <l n="11">Terræ, siquidem tota Terra moveatur; Moventur deniq;</l>
+      <l n="12">motu vorticis Terræ, quatenùs ei quoq; adjunctæ sunt, &amp;c.</l>
+      <l n="13" para="true">COROLLARIA</l>
+      <l n="14" type="heading" level="2" para="true">I.</l>
+      <l n="15" para="true">
+        <i>Philosophia, quæ Cartesiana non est, ne unam de</i>
+      </l>
+      <l n="16">
+        <i>unâ re demonstrationem facere potest.</i>
+      </l>
+      <l n="17" type="heading" level="2" para="true">II.</l>
+      <l n="18" para="true">
+        <i>Absque cognitione motus nulla est naturæ scientia.</i>
+      </l>
+      <l n="19" type="heading" level="2" para="true">III.</l>
+      <l n="20" para="true">
+        <i>Ante Cartesium scivit nemo quid esset motus.</i>
+      </l>
+      <l n="21" type="heading" level="2" para="true">IV.</l>
+      <l n="22" para="true">
+        <i>Pulvisculus in aëre volans gravior est totâ</i>
+      </l>
+      <l n="23">
+        <i>Terrâ.</i>
+      </l>
+      <l n="24" type="heading" level="2" para="true">V.</l>
+      <l n="25" para="true">
+        <i>Si homo unum pedem extra Terram firmiter</i>
+      </l>
+    </main_text>
+    <notes>The ornamental divider between the paragraph and COROLLARIA is a printer's fleuron, not transcribed. Heading "XXXV." is a section number. The catchword "collocare" is at the lower right.</notes>
+  </page>
+  <page type="text" lines="ocr" n="21" model="claude-haiku-5-5">
+    <layout>One printed page, full width text block; below the text a verse dedication and signature; faint show-through of text from the reverse side in the background (not transcribed).</layout>
+    <main_text>
+      <l n="1">collocare posset, pede altero Terram suo</l>
+      <l n="2">dimovere loco posset.</l>
+      <l n="3" type="heading" level="2" para="true">VI.</l>
+      <l n="4" para="true">
+        <i>Rei quiescenti aque est vis agendi, ac rei</i>
+      </l>
+      <l n="5">
+        <i>moventi.</i>
+      </l>
+      <l n="6" type="heading" level="2" para="true">VII.</l>
+      <l n="7" para="true">
+        <i>Hodie tantundem est in mundo motus ac</i>
+      </l>
+      <l n="8">
+        <i>fuit ab initio.</i>
+      </l>
+      <l n="9" type="foot" para="true">[ornamental fleuron rule]</l>
+      <l n="10" type="heading" level="2" para="true">
+        <i>Ad Ornatissimum &amp; Doctissimum</i>
+      </l>
+      <l n="11" type="heading" level="2">
+        <i>Dominum Respondentem,</i>
+      </l>
+      <l n="12" para="true">Cum videt intrepidus miles spolia ampla referre,</l>
+      <l n="13">Qui strenuè certant, ictus cunctosq; repellunt,</l>
+      <l n="14">Non cessat donec quaedam quoq; bella reportet.</l>
+      <l n="15">Hoc quoq; te impellit jam jam mi chare Rodolph</l>
+      <l n="16">Ut, postquam nuper fuerunt tibi tela cruenta</l>
+      <l n="17">Missa, nolis multum quasi persistere laesus;</l>
+      <l n="18">Certamen praesens durum certare volebas,</l>
+      <l n="19">Quo tu perpetuo tollaris in astra suprema,</l>
+      <l n="20">Unde boni Largitorem vehementer adoro,</l>
+      <l n="21">Ut tibi sicque tuis studiis dignetur adesse.</l>
+      <l n="22" para="true">
+        <i>Hac paucula in singulare amicitia</i>
+      </l>
+      <l n="23">
+        <i>sua symbolum adjecit</i>
+      </l>
+      <l n="24" para="true">NICOLAUS A DIESBACH. HB.</l>
+      <l n="25" para="true">FINIS.</l>
+    </main_text>
+    <notes>The initial C of "Cum" is a large woodcut-style initial, joined to the word. "Rodolphus" line ends with a printed small-capitals style. Background show-through from the reverse page is ignored. The fleuron rule is a decorative ornament, not text.</notes>
+  </page>
+</book>
