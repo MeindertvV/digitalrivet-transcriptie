@@ -1,0 +1,753 @@
+{
+ "work": "W07551_Voet_De_statutis_eorumque_concursu_liber_singularis_1661",
+ "made": "2026-11-26T00:58:45",
+ "model": "claude-haiku-5-5",
+ "prompt": "655260ce46aa8978",
+ "candidates": 321,
+ "cost_usd": 0.02006,
+ "dropped": [
+  "title 'Caput III. Quid sit stylus curiae?' kept on the number of 'SECT. III. CAP. III.'",
+  "title 'Caput IV. Aequitas commendatur.' kept on the number of 'SECT. III. CAP. IV.'",
+  "title 'Caput II. Quot generum sint statuta?' kept on the number of 'SECT. IV. CAP. II.'",
+  "title 'Caput III. Veniae impetratio ad testandum spectat solemnia.' kept on the number of 'SECT. IV. CAP. III.'",
+  "title 'Caput II. Num valeat statutum, ne cum peregrino matrimonium contrahatur?' kept on the number of 'SECT. V. CAP. II.'",
+  "title 'Caput II. Quaenam spectanda, si de vero sensu statuti difficultas?' kept on the number of 'SECT. VII. CAP. II.'",
+  "title 'Caput III. Qualem statutum admittat interpretationem, quod vel alterutrum oculum eruendum esse, vel alterutram manum amputandam, statuit?' kept on the number of 'SECT. VII. CAP. III.'",
+  "title 'Caput II. Utrum statuta laicorum, uti loquuntur, personas ligent ecclesiasticas?' kept on the number of 'SECT. VIII. CAP. II.'",
+  "title 'Caput II. Quid si quis testetur in loco domicilii, adhibitis solemnibus loci, ubi res sita?' kept on the number of 'SECT. IX. CAP. II.'",
+  "title 'Caput II. Non praesumenda est mutatio statutorum, sed probanda?' kept on the number of 'SECT. XII. CAP. II.'"
+ ],
+ "toc": [
+  {
+   "scan": 5,
+   "line": 1,
+   "lines": [
+    [
+     5,
+     1
+    ],
+    [
+     5,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Ad lectorem. Praefatio."
+  },
+  {
+   "scan": 7,
+   "line": 1,
+   "lines": [
+    [
+     7,
+     1
+    ],
+    [
+     7,
+     2
+    ],
+    [
+     7,
+     3
+    ],
+    [
+     7,
+     4
+    ],
+    [
+     7,
+     5
+    ],
+    [
+     7,
+     6
+    ],
+    [
+     7,
+     7
+    ],
+    [
+     7,
+     8
+    ],
+    [
+     7,
+     9
+    ],
+    [
+     7,
+     10
+    ]
+   ],
+   "level": 1,
+   "title": "Clarissimo, Consultissimo viro, Paulo Voet, Juris in illustri Academia Ultrajectina Professori ordinario, & Camerae Vianensis Senatori, Cùm erudite statutorum jura illustraset."
+  },
+  {
+   "scan": 9,
+   "line": 1,
+   "lines": [
+    [
+     9,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Sectio I. De jure & concursu statutorum."
+  },
+  {
+   "scan": 9,
+   "line": 2,
+   "lines": [
+    [
+     9,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput I."
+  },
+  {
+   "scan": 28,
+   "line": 22,
+   "lines": [
+    [
+     28,
+     22
+    ],
+    [
+     28,
+     23
+    ],
+    [
+     28,
+     24
+    ]
+   ],
+   "level": 2,
+   "title": "Caput II. Differentia inter jus gentium & naturae traditur."
+  },
+  {
+   "scan": 37,
+   "line": 13,
+   "lines": [
+    [
+     37,
+     13
+    ],
+    [
+     37,
+     14
+    ],
+    [
+     37,
+     15
+    ]
+   ],
+   "level": 2,
+   "title": "Caput III. Quid sit jus civile in genere, describitur."
+  },
+  {
+   "scan": 41,
+   "line": 18,
+   "lines": [
+    [
+     41,
+     18
+    ],
+    [
+     41,
+     19
+    ],
+    [
+     41,
+     20
+    ]
+   ],
+   "level": 2,
+   "title": "Caput IV. Jus civile, secundum excellentiam, quid signet?"
+  },
+  {
+   "scan": 47,
+   "line": 22,
+   "lines": [
+    [
+     47,
+     22
+    ]
+   ],
+   "level": 1,
+   "title": "Sectio II."
+  },
+  {
+   "scan": 47,
+   "line": 23,
+   "lines": [
+    [
+     47,
+     23
+    ],
+    [
+     47,
+     24
+    ],
+    [
+     47,
+     25
+    ]
+   ],
+   "level": 2,
+   "title": "Caput I. In statu monarchico tantum Princeps jus facit."
+  },
+  {
+   "scan": 64,
+   "line": 8,
+   "lines": [
+    [
+     64,
+     8
+    ],
+    [
+     64,
+     9
+    ],
+    [
+     64,
+     10
+    ]
+   ],
+   "level": 2,
+   "title": "Caput II. Quae sint majestatica?"
+  },
+  {
+   "scan": 92,
+   "line": 11,
+   "lines": [
+    [
+     92,
+     11
+    ],
+    [
+     92,
+     12
+    ],
+    [
+     92,
+     13
+    ]
+   ],
+   "level": 2,
+   "title": "Caput III. Quid sit jus singulare?"
+  },
+  {
+   "scan": 106,
+   "line": 1,
+   "lines": [
+    [
+     106,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Sectio III."
+  },
+  {
+   "scan": 106,
+   "line": 2,
+   "lines": [
+    [
+     106,
+     2
+    ],
+    [
+     106,
+     3
+    ],
+    [
+     106,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Caput I. Quotuplex jus non scriptum?"
+  },
+  {
+   "scan": 118,
+   "line": 19,
+   "lines": [
+    [
+     118,
+     19
+    ],
+    [
+     118,
+     20
+    ],
+    [
+     118,
+     21
+    ]
+   ],
+   "level": 2,
+   "title": "Caput II. Consuetudo non minores habet vires, quam lex."
+  },
+  {
+   "scan": 122,
+   "line": 7,
+   "lines": [
+    [
+     122,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "Caput III. Quid sit stylus curiae?"
+  },
+  {
+   "scan": 124,
+   "line": 14,
+   "lines": [
+    [
+     124,
+     14
+    ]
+   ],
+   "level": 2,
+   "title": "Caput IV. Aequitas commendatur."
+  },
+  {
+   "scan": 131,
+   "line": 5,
+   "lines": [
+    [
+     131,
+     5
+    ]
+   ],
+   "level": 1,
+   "title": "Sectio IV."
+  },
+  {
+   "scan": 131,
+   "line": 6,
+   "lines": [
+    [
+     131,
+     6
+    ],
+    [
+     131,
+     7
+    ],
+    [
+     131,
+     8
+    ]
+   ],
+   "level": 2,
+   "title": "Caput I. De voce statuti agitur."
+  },
+  {
+   "scan": 136,
+   "line": 1,
+   "lines": [
+    [
+     136,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Caput II. Quot generum sint statuta?"
+  },
+  {
+   "scan": 151,
+   "line": 22,
+   "lines": [
+    [
+     151,
+     22
+    ]
+   ],
+   "level": 2,
+   "title": "Caput III. Veniae impetratio ad testandum spectat solemnia."
+  },
+  {
+   "scan": 169,
+   "line": 4,
+   "lines": [
+    [
+     169,
+     4
+    ]
+   ],
+   "level": 1,
+   "title": "Sectio V."
+  },
+  {
+   "scan": 169,
+   "line": 5,
+   "lines": [
+    [
+     169,
+     5
+    ],
+    [
+     169,
+     6
+    ],
+    [
+     169,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "Caput I. Utrum Princeps statuta condat super iis quae jure divino sunt introducta?"
+  },
+  {
+   "scan": 184,
+   "line": 8,
+   "lines": [
+    [
+     184,
+     8
+    ]
+   ],
+   "level": 2,
+   "title": "Caput II. Num valeat statutum, ne cum peregrino matrimonium contrahatur?"
+  },
+  {
+   "scan": 216,
+   "line": 13,
+   "lines": [
+    [
+     216,
+     13
+    ]
+   ],
+   "level": 1,
+   "title": "Sectio VI."
+  },
+  {
+   "scan": 216,
+   "line": 14,
+   "lines": [
+    [
+     216,
+     14
+    ],
+    [
+     216,
+     15
+    ],
+    [
+     216,
+     16
+    ]
+   ],
+   "level": 2,
+   "title": "Caput unicum. Conficiendorum statutorum olim restrictior, quam moribus erat potestas."
+  },
+  {
+   "scan": 240,
+   "line": 17,
+   "lines": [
+    [
+     240,
+     17
+    ]
+   ],
+   "level": 1,
+   "title": "Sectio VII."
+  },
+  {
+   "scan": 240,
+   "line": 18,
+   "lines": [
+    [
+     240,
+     18
+    ],
+    [
+     240,
+     19
+    ],
+    [
+     240,
+     20
+    ]
+   ],
+   "level": 2,
+   "title": "Caput I. Necessaria est statutorum interpretatio."
+  },
+  {
+   "scan": 252,
+   "line": 1,
+   "lines": [
+    [
+     252,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Caput II. Quaenam spectanda, si de vero sensu statuti difficultas?"
+  },
+  {
+   "scan": 275,
+   "line": 1,
+   "lines": [
+    [
+     275,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Caput III. Qualem statutum admittat interpretationem, quod vel alterutrum oculum eruendum esse, vel alterutram manum amputandam, statuit?"
+  },
+  {
+   "scan": 294,
+   "line": 14,
+   "lines": [
+    [
+     294,
+     14
+    ]
+   ],
+   "level": 1,
+   "title": "Sectio VIII."
+  },
+  {
+   "scan": 294,
+   "line": 15,
+   "lines": [
+    [
+     294,
+     15
+    ],
+    [
+     294,
+     16
+    ],
+    [
+     294,
+     17
+    ]
+   ],
+   "level": 2,
+   "title": "Caput I. Quae statutorum requisita, ut ullarum sint virium?"
+  },
+  {
+   "scan": 303,
+   "line": 3,
+   "lines": [
+    [
+     303,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput II. Utrum statuta laicorum, uti loquuntur, personas ligent ecclesiasticas?"
+  },
+  {
+   "scan": 311,
+   "line": 14,
+   "lines": [
+    [
+     311,
+     14
+    ]
+   ],
+   "level": 1,
+   "title": "Sectio IX."
+  },
+  {
+   "scan": 311,
+   "line": 15,
+   "lines": [
+    [
+     311,
+     15
+    ],
+    [
+     311,
+     16
+    ],
+    [
+     311,
+     17
+    ]
+   ],
+   "level": 2,
+   "title": "Caput I. Quis ordo servandus in effectibus statutorum comparatis?"
+  },
+  {
+   "scan": 323,
+   "line": 2,
+   "lines": [
+    [
+     323,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput II. Quid si quis testetur in loco domicilii, adhibitis solemnibus loci, ubi res sita?"
+  },
+  {
+   "scan": 346,
+   "line": 15,
+   "lines": [
+    [
+     346,
+     15
+    ]
+   ],
+   "level": 1,
+   "title": "Sectio X."
+  },
+  {
+   "scan": 346,
+   "line": 16,
+   "lines": [
+    [
+     346,
+     16
+    ],
+    [
+     346,
+     17
+    ],
+    [
+     346,
+     18
+    ]
+   ],
+   "level": 2,
+   "title": "Caput unicum. Si statuta varient circa actionum terminos, quae spectanda?"
+  },
+  {
+   "scan": 359,
+   "line": 23,
+   "lines": [
+    [
+     359,
+     23
+    ]
+   ],
+   "level": 1,
+   "title": "Sectio XI."
+  },
+  {
+   "scan": 359,
+   "line": 24,
+   "lines": [
+    [
+     359,
+     24
+    ],
+    [
+     359,
+     25
+    ]
+   ],
+   "level": 2,
+   "title": "Caput I. An qui crimen commisit extra locum domicilii, secundum locum delicti, ubi deprehenditur, sit puniendus?"
+  },
+  {
+   "scan": 369,
+   "line": 19,
+   "lines": [
+    [
+     369,
+     19
+    ]
+   ],
+   "level": 2,
+   "title": "Caput II. Quale tempus spectandum, an delicti, an sententiae, dum agitur de poena infligenda?"
+  },
+  {
+   "scan": 376,
+   "line": 5,
+   "lines": [
+    [
+     376,
+     5
+    ]
+   ],
+   "level": 1,
+   "title": "Sectio XII."
+  },
+  {
+   "scan": 376,
+   "line": 6,
+   "lines": [
+    [
+     376,
+     6
+    ],
+    [
+     376,
+     7
+    ],
+    [
+     376,
+     8
+    ]
+   ],
+   "level": 2,
+   "title": "Caput I. Jura non facile immutanda."
+  },
+  {
+   "scan": 382,
+   "line": 10,
+   "lines": [
+    [
+     382,
+     10
+    ]
+   ],
+   "level": 2,
+   "title": "Caput II. Non praesumenda est mutatio statutorum, sed probanda?"
+  },
+  {
+   "scan": 390,
+   "line": 1,
+   "lines": [
+    [
+     390,
+     1
+    ],
+    [
+     390,
+     2
+    ],
+    [
+     390,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Index sectionum et capitum."
+  }
+ ],
+ "book": "Paulus Voet's De statutis eorumque concursu liber singularis (Amsterdam, 1661): a single legal treatise in twelve numbered sections, each divided into chapters, preceded by a dedicatory poem, an address to the reader with preface, and followed by an index of sections and chapters.",
+ "series": [
+  {
+   "label": "Sectio",
+   "first": "I",
+   "last": "XII",
+   "count": 12,
+   "level": 1,
+   "found": 15
+  },
+  {
+   "label": "Caput",
+   "first": "I",
+   "last": "IV",
+   "count": 29,
+   "level": 2,
+   "found": 29
+  }
+ ],
+ "taste": 50,
+ "doubt": "",
+ "input": 40744,
+ "output": 24415
+}
