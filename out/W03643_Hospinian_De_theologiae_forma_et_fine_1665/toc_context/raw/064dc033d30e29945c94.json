@@ -1,0 +1,88 @@
+{
+ "answer": {
+  "book": "Single disputation (Disputatio nona, Gymnasii theologici, Zurich 1665) by Rodolphus Hospinianus, with a dedication, then one chapter (I) divided into lettered sections A to E.",
+  "series": [
+   {
+    "label": "Disputatio",
+    "first": "nona",
+    "last": "nona",
+    "count": 1,
+    "level": 1
+   },
+   {
+    "label": "",
+    "first": "I",
+    "last": "I",
+    "count": 1,
+    "level": 2
+   },
+   {
+    "label": "",
+    "first": "A",
+    "last": "E",
+    "count": 5,
+    "level": 3
+   }
+  ],
+  "entries": [
+   {
+    "ids": [
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "level": 1,
+    "title": "Disputatio nona. De theologiæ forma, et fine"
+   },
+   {
+    "ids": [
+     9
+    ],
+    "level": 2,
+    "title": "Viris nobilissimis, amplissimis, prudentissimis, Dn. Joh. Henrico Hirzelio, tribuno-plebis prudentissimo"
+   },
+   {
+    "ids": [
+     11
+    ],
+    "level": 2,
+    "title": "I."
+   },
+   {
+    "ids": [
+     12
+    ],
+    "level": 3,
+    "title": "C. In systematica methodo pro diversitate subjecti, objecti, & finis, vel authoritative procedendum, vel ratiocinative"
+   }
+  ],
+  "missing": [
+   {
+    "title": "A.",
+    "after": 11,
+    "level": 3
+   },
+   {
+    "title": "B.",
+    "after": 11,
+    "level": 3
+   },
+   {
+    "title": "D.",
+    "after": 12,
+    "level": 3
+   },
+   {
+    "title": "E.",
+    "after": 12,
+    "level": 3
+   }
+  ]
+ },
+ "cost": 0.0037975200000000004,
+ "input": 3783,
+ "output": 6672,
+ "seconds": 31
+}
