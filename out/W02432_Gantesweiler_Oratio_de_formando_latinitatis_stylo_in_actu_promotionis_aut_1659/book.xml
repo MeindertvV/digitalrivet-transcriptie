@@ -1,0 +1,800 @@
+<?xml version='1.0' encoding='utf-8'?>
+<book source="W02432_Gantesweiler_Oratio_de_formando_latinitatis_stylo_in_actu_promotionis_aut_1659.pdf">
+  <page type="title" n="1" model="claude-haiku-5-5">
+    <layout>One printed page: the e-rara digitiser's cover sheet with logo, title block, rules and licence notices. No body text of the book.</layout>
+    <bottom_margin>
+      <catchword />
+    </bottom_margin>
+    <main_text>
+      <l>www.e-rara.ch</l>
+      <l>Oratio de formando latinitatis stylo</l>
+      <l>Gantesweiler, Johann Jacob</l>
+      <l>Basileae, anno M D CLIX</l>
+      <l>Universitätsbibliothek Basel</l>
+      <l>Persistent Link: https://doi.org/10.3931/e-rara-68065</l>
+    </main_text>
+    <notes>The page is the digitiser's cover sheet, not printed book text. Its e-rara logo, Visual Library logo, rules, and the multilingual usage notices (German, English, French, Italian) are the digitiser's own matter and are not transcribed. Only the title block (title, author, place and date of printing, holding library, persistent link) is given above, as a title page transcription. The book's own title page is not on this scan.</notes>
+  </page>
+  <page type="title" n="2" model="claude-haiku-5-5">
+    <layout>One printed title page, one block of centred lines; no margin text. Library stamps, shelf marks and a university seal are not transcribed.</layout>
+    <main_text>
+      <l>ORATIO</l>
+      <l>De</l>
+      <l>FORMANDO</l>
+      <l>LATINITATIS</l>
+      <l>STYLO,</l>
+      <l>in</l>
+      <l>actu promotionis Autumnali, more</l>
+      <l>Majorum, dicta</l>
+      <l>HERBORNAE,</l>
+      <l>Anno</l>
+      <l>cIↄ Iↄ CLVIII. 13. Octobris,</l>
+      <l>à</l>
+      <l>JOH. JACOBO GANTESVILERO,</l>
+      <l>L. A. M.</l>
+      <l>in</l>
+      <l>illustri Schola Academica Herbornensi</l>
+      <l>Professore, &amp; Pædagogearchâ,</l>
+      <l>Et</l>
+      <l>amicorum, rogatu ; hortatu fautorum,</l>
+      <l>typis mandata</l>
+      <l>BASILEAE, apud JACOBUM WERENFELSIUM,</l>
+      <l>anno clIↄ Iↄ CLIX.</l>
+    </main_text>
+    <notes>The Roman numerals in the date are printed with reversed C forms (cIↄ, Iↄ); rendered here as printed, with the date otherwise as MDCLVIII and MDCLIX in the imprint. The imprint year is partly covered by a seal and may be read as "anno clIↄ Iↄ CLIX" (MDCLIX) with some uncertainty. Faint show-through of text from the reverse page is ignored.</notes>
+  </page>
+  <page type="text" lines="ocr" n="3" model="claude-haiku-5-5">
+    <layout>One printed page, one text block centred on the page, no margin notes, no running head, no page number, no catchword or signature visible.</layout>
+    <main_text>
+      <l n="1" type="heading" level="1" para="true">Venerandæ Rauracorum Theolo-</l>
+      <l n="2" type="heading" level="1">gorum trigæ,</l>
+      <l n="3" type="heading" level="1">VIRIS</l>
+      <l n="4" type="heading" level="1">Plurimùm Reverendis, Excellentissimis</l>
+      <l n="5" type="heading" level="1">&amp; Celeberrimis</l>
+      <l n="6" type="heading" level="1">DN. LUCÆ GERNLERO, S.S. Theolo-</l>
+      <l n="7" type="heading" level="1">giæ Doctori, Ecclesiarum Basileensium Antistiti, Ca-</l>
+      <l n="8" type="heading" level="1">thedralis Pastori, &amp; Locorum communium atque</l>
+      <l n="9" type="heading" level="1">Controversiarum Theologicarum Professori, &amp; p.t.</l>
+      <l n="10" type="heading" level="1">Universitatis Rectori Magnifico; Cognato, Com-</l>
+      <l n="11" type="heading" level="1">patri &amp; Fautori suo.</l>
+      <l n="12" type="heading" level="1" para="true">DN. JOHANNI RUDOLPHO WET-</l>
+      <l n="13" type="heading" level="1">STENIO, S.S. Theologiæ Doctori; Novi Testa-</l>
+      <l n="14" type="heading" level="1">menti Professori &amp; venerandæ Facultatis Theolo-</l>
+      <l n="15" type="heading" level="1">gicæ p.t. Decano, Promotori suo.</l>
+      <l n="16" type="heading" level="1" para="true">DN. JOHANNI BUXTORFIO, S.S.</l>
+      <l n="17" type="heading" level="1">Theologiæ Doctori, Veteris Testamenti &amp; Linguæ</l>
+      <l n="18" type="heading" level="1">Hebraicæ Professori, Collegij Theologici Seniori,</l>
+      <l n="19" type="heading" level="1">Benefactori suo.</l>
+      <l n="20" type="heading" level="2" para="true">PATRIÆ</l>
+      <l n="21" type="heading" level="2">LUMINIBUS;</l>
+      <l n="22" type="heading" level="2">ORTHODOXIÆ</l>
+      <l n="23" type="heading" level="2">COLUMINIBUS</l>
+      <l n="24" type="heading" level="2">Præceptoribus, &amp; Fautoribus suis, perpetuo ho-</l>
+      <l n="25" type="heading" level="2">noris cultu prosequendis;</l>
+      <l n="26" para="true">
+        <i>Has agelli sui primitias, pluribus, nec parvis ipsorum</i>
+      </l>
+      <l n="27">
+        <i>meritis obstrictus,</i>
+      </l>
+      <l n="28" para="true">Testandæ gratiæ, quam debet, non re-</l>
+      <l n="29">ferendæ, quantam debet, dat, dicat,</l>
+      <l n="30">consecrat</l>
+      <l n="31" para="true">M. JOH. JACOBUS GANTESVILERUS,</l>
+      <l n="32">illustris Herbornæi Professor, Gymna-</l>
+      <l n="33">siarcha, &amp; V.D.M.</l>
+    </main_text>
+    <notes>The title page-like dedication is set in mixed roman and italic type; the names DN. and Greek-free. Ink stain at upper right and show-through from the reverse are not transcribed. Some letters in the top lines are faint.</notes>
+  </page>
+  <page type="text" lines="ocr" n="4" model="claude-haiku-5-5">
+    <layout>One printed page, one text block in a single column; no marginal notes. Top: page number ornament (I.) above the title block. Then headings, then the opening paragraph with a signature line "A Athenis" at its foot.</layout>
+    <page_number>(I.)</page_number>
+    <running_head />
+    <bottom_margin>
+      <catchword />
+      <signature />
+    </bottom_margin>
+    <main_text>
+      <l n="1" type="heading" level="1" caput="1" para="true">ORATIO,</l>
+      <l n="2" type="heading" level="1" caput="1">DE FORMANDO LA-</l>
+      <l n="3" type="heading" level="1" caput="1">TINITATIS STYLO.</l>
+      <l n="4" para="true">
+        <i>In actu promotionis autumnali, 13. Octobris</i>
+      </l>
+      <l n="5">
+        <i>Anno 1658. habita.</i>
+      </l>
+      <l n="6" para="true">
+        <i>CELSISSIME PRINCEPS, Domine</i>
+      </l>
+      <l n="7">
+        <i>clementissime. Magnifice Domine Pro-</i>
+      </l>
+      <l n="8">
+        <i>Rector: Patres Academici admodum reveren-</i>
+      </l>
+      <l n="9">
+        <i>di, consultissimi, clarissimi, acutissimi; Collegæ</i>
+      </l>
+      <l n="10">
+        <i>honorandi: Verbi divini Præcones reverendi:</i>
+      </l>
+      <l n="11">
+        <i>Classium Præceptores præstantissimi: Archi-</i>
+      </l>
+      <l n="12">
+        <i>grammateæ spectatissime: Consules &amp; Scabini</i>
+      </l>
+      <l n="13">
+        <i>prudentissimi: Hospites, quotquot in hunc</i>
+      </l>
+      <l n="14">
+        <i>campum Parnassium spectatores confluxistis,</i>
+      </l>
+      <l n="15">
+        <i>humanissimi &amp; gravissimi: Studiosi nobilissimi</i>
+      </l>
+      <l n="16">
+        <i>literis &amp; virtutibus ornatissimi: Tuq; Palladia</i>
+      </l>
+      <l n="17">
+        <i>juventus, unica deliciæ nostræ; magna et-</i>
+      </l>
+      <l n="18">
+        <i>iam nostra, &amp; parentum spes!</i>
+      </l>
+      <l n="19" para="true">
+        <i>A</i>
+      </l>
+    </main_text>
+    <marginalia>
+      <note side="right" at="A" line_from="19" line_to="19">Athenis</note>
+    </marginalia>
+    <notes>The page-number ornament reads "(I.)" as printed. The title block is set in roman capitals with an italic dateline. The "A" and "Athenis" line is the closing signature of the opening address, set beside each other at the foot of the paragraph. Ornamental rules above and below the heading are not text.</notes>
+  </page>
+  <page type="text" lines="ocr" n="5" model="claude-haiku-5-5">
+    <warning type="catchword_in_text">catchword taken out of the main text: ria</warning>
+    <layout>One block of running text in a single column, with a large woodcut initial A at the upper left; page number centred at the head. No margin notes, no running head, no catchword.</layout>
+    <page_number>2</page_number>
+    <main_text>
+      <l n="1" para="true">A Thenis, celeberrimæ cui civitati</l>
+      <l n="2">ac Reipublicæ omnium artium</l>
+      <l n="3">ac disciplinarum, natales &amp; incu-</l>
+      <l n="4">nabula debentur, moris fuisse ex</l>
+      <l n="5">antiquitate constat, ut, qui ma-</l>
+      <l n="6">gnis vellet imbui mysteriis, quod aliquandiu ne-</l>
+      <l n="7">mini licebat, parvis ante imbueretur. Cujus qui-</l>
+      <l n="8">dem instituti, nisi hallucinor, hæc est ratio, quod</l>
+      <l n="9">paulatim ad majora veniendum judicarent,</l>
+      <l n="10">&amp;, in sacris quoque divinisque rebus, ordinem na-</l>
+      <l n="11">turæ comprobarent: sive quòd indignum ali-</l>
+      <l n="12">quem putarent, qui ad absoluta aut majora grad-</l>
+      <l n="13">uaretur sacra, nisi in minori præparatum rectè</l>
+      <l n="14">prius animum haberet. Utrisq; vero initiatum</l>
+      <l n="15">rebus omnibus florentem ac ornatum, ad extre-</l>
+      <l n="16">mam usq; senectutem, ac post hanc vitam, con-</l>
+      <l n="17">sortio Deorum, piarumque animarum insitum</l>
+      <l n="18">fore autumabant. Quod in sacris Athenienses</l>
+      <l n="19">faciendum judicabant, id in artibus &amp; discipli-</l>
+      <l n="20">nis, quibus omnis nostra vita constat, omnis</l>
+      <l n="21">nostræ ratio felicitatis continetur, quas myste-</l>
+    </main_text>
+    <notes>The woodcut initial "A" is decorative and joined to "Thenis". Line "graf-saretur" reads as printed "graf- saretur" (likely graduaretur/ graffaretur); the word at the line end "graf-" with following "saretur" is transcribed as printed in the scan and may be misread: "graf[?]". Text continues on the next page ("ria" at the bottom right is the catchword-like fragment of the word "mysteria" split across pages; it is printed as a line-end word).</notes>
+    <bottom_margin>
+      <catchword>ria</catchword>
+    </bottom_margin>
+  </page>
+  <page type="text" lines="ocr" n="6" model="claude-haiku-5-5">
+    <layout>One page of text, one column; page number at head centre; signature at foot left; catchword at foot right.</layout>
+    <page_number>3</page_number>
+    <running_head />
+    <bottom_margin>
+      <catchword>que</catchword>
+      <signature>A 2</signature>
+    </bottom_margin>
+    <main_text>
+      <l n="1">ria ceremonias ac sacra recte dixeris, etiam ser-</l>
+      <l n="2">vandum esse, mihi semper fuit visum. Ut nimi-</l>
+      <l n="3">rum postquam semel iis studiis, iisq; disciplinis,</l>
+      <l n="4">ad quas natus est, humanus se mancipavit ani-</l>
+      <l n="5">mus, sine ulla protinus difficultate ac mora, vi-</l>
+      <l n="6">am inoffensam teneat, ac finem destinatum ex</l>
+      <l n="7">voto consequatur. Non aliam viam in solenni-</l>
+      <l n="8">tatibus quoque scholasticis insistendum duxi,</l>
+      <l n="9">&amp; cum pedem anno superiore in triste hoc pul-</l>
+      <l n="10">pitum primum hoc nomine conferrem, ordien-</l>
+      <l n="11">dum a principiis iis, quæ in præclara illa artium</l>
+      <l n="12">&amp; scientiarum substructione fundamenta sunt,</l>
+      <l n="13">ne corruant derepente, semelque fideliter jacta,</l>
+      <l n="14">lumen cæteris inferunt, ut cæcæ non aberrent.</l>
+      <l n="15">Hinc non de rebus Ægyptiorum antiquissimis,</l>
+      <l n="16">aut Persarum, quæ opulentissimæ; aut Roma-</l>
+      <l n="17">norum, quæ merito habentur maximæ, disserui:</l>
+      <l n="18">sed de Grammatica, principem in patentissimo</l>
+      <l n="19">disciplinarum campo facile locum tenente, ver-</l>
+      <l n="20">ba feci, ejusq; tantam in Republica literaria ne-</l>
+      <l n="21">cessitatem, dignitatemque ostendi, ut ad pe-</l>
+      <l n="22">des ejus cæteræ artes palmam deponere, sceptru-</l>
+      <l n="23">mque</l>
+    </main_text>
+    <notes />
+  </page>
+  <page type="text" lines="ocr" n="7" model="claude-haiku-5-5">
+    <warning type="catchword_in_text">catchword taken out of the main text: &amp;loco</warning>
+    <layout>One block of running text in a single column; page number centred above the text; a catchword-like side mark "&amp;loc" at the lower right under the last line, set as a marginal/running cue (treated as catchword). No margin notes.</layout>
+    <page_number>4</page_number>
+    <main_text>
+      <l n="1">què concedere teneantur. In actu promotionis</l>
+      <l n="2">verno materiæ scholasticæ calamum parare</l>
+      <l n="3">mens destinârat, cui jam stylum consecro;, &amp;</l>
+      <l n="4">docere, ad quorumnam similitudinem opti-</l>
+      <l n="5">mus ac præstantissimus ille, teste Crasso, dicen-</l>
+      <l n="6">di effector ac magister stylus sit confirmandus?</l>
+      <l n="7" para="true">Mutare tamen sententiam sum monitus, &amp;</l>
+      <l n="8">non levi causâ, quam audivistis, inducţus, ut re-</l>
+      <l n="9">lictâ materiâ scholasticâ, in Politicorum arcana</l>
+      <l n="10">penetrarem, de Legato, eiusque dotibus diffe-</l>
+      <l n="11">rens, ac virum talem adumbrans, qui ore facun-</l>
+      <l n="12">do, pectore fœcundo agere in terris Mercurium,</l>
+      <l n="13">ac Principem repræsentare possit. Ita enim sem-</l>
+      <l n="14">per statui nunquam omissâ hyperâ pede m inse-</l>
+      <l n="15">quendum, &amp; operosè illos ineptire, qui in foro</l>
+      <l n="16">Lapytharum pugnas recitant, aut in castris Dia-</l>
+      <l n="17">lecticum torquent Enthymema, qui in sacris re-</l>
+      <l n="18">gnorum, imperiorumque momenta exagge-</l>
+      <l n="19">rant, in mensis super Hecubæ aut Androma-</l>
+      <l n="20">chés fato singultiunt, &amp; in scholis iis exercita-</l>
+      <l n="21">tionibus pueros fatigant, de quibus ad senatum</l>
+      <l n="22">referri expediat. Ideoque nihil me a tempore</l>
+    </main_text>
+    <notes>Catchword "&amp;loco" at lower right, transcribed as printed in the foot of the page; the "&amp;" and "loc" are partly worn. Some letters in the text are blurred (consecro, stylus); "consecro" followed by a superscript mark, possibly a printed comma or reference mark. Long s rendered as plain s throughout.</notes>
+    <bottom_margin>
+      <catchword>&amp;loco</catchword>
+    </bottom_margin>
+  </page>
+  <page type="text" lines="ocr" n="8" model="claude-haiku-5-5">
+    <layout>One page of text, single column, centred; page number 5 at the head; signature "A 3" at the foot left, catchword "quâ" at the foot right. No margin notes.</layout>
+    <page_number>5</page_number>
+    <running_head />
+    <bottom_margin>
+      <catchword>quâ</catchword>
+      <signature>A 3</signature>
+    </bottom_margin>
+    <main_text>
+      <l n="1">&amp; loco alieni facturum putavi, si in actu schola-</l>
+      <l n="2">stico de materia scholastica disseruero, nostris-</l>
+      <l n="3">que scholasticis (cum profectioribus nihil hic</l>
+      <l n="4">mihi negotii intercedit) quem sibi e venerandæ</l>
+      <l n="5">vetustatis patribus proponere debeant, ad cuius</l>
+      <l n="6">imitationem stylum conformént Latinum, ca-</l>
+      <l n="7">ftum &amp; perspicuum, ostendero. Gravis est &amp;</l>
+      <l n="8">ardua, quam in me suscipio, provincia! Sed il-</l>
+      <l n="9">lud me non parum exstimulat, Auditores hu-</l>
+      <l n="10">maniffimi, quòd benevolentia haud vulgari ex</l>
+      <l n="11">hoc loco dicentes complecti soleatis, quâ nunc</l>
+      <l n="12">&amp; me complecti dignemini, quâ par est, animi</l>
+      <l n="13">demissione, contendo:</l>
+      <l n="14" para="true">Quanta fit styli necessitas, non tantùm apud</l>
+      <l n="15">scientiarum Antistites, qui fugienti tempori ve-</l>
+      <l n="16">lut manus injiciendo, ætatem suam in postero-</l>
+      <l n="17">rum annos felici quodam ingenii partu diffude-</l>
+      <l n="18">runt, in aprico est: sed nec obscurum inter illos,</l>
+      <l n="19">quorum animos gloriæ fervor jam primùm ad</l>
+      <l n="20">Apollinis aras, &amp; Musarum delubra trahit. Et-</l>
+      <l n="21">enim si famam virtutis præconem consulamus;</l>
+      <l n="22">ac in sempiternam gloriæ recordationem, in quâ</l>
+    </main_text>
+    <notes>Printed text is clear throughout. Ligature/long-s forms normalised to plain s; "conformént" and "posterorum" transcribed as printed. The catchword "quâ" appears at the right foot. Doubtful: "conformént" may be "conformem" (a faint accent); marked for checking.</notes>
+  </page>
+  <page type="text" lines="ocr" n="9" model="claude-haiku-5-5">
+    <layout>One text column, full width, with the page number above it. Below the last line, at the right, the catchword "varitiâ".</layout>
+    <page_number>6</page_number>
+    <bottom_margin>
+      <catchword>varitiâ</catchword>
+    </bottom_margin>
+    <main_text>
+      <l n="1">qua hodie innumeri vivunt authores, animum</l>
+      <l n="2">excitemus, fatebitur omnino nullum esse au-</l>
+      <l n="3">thorem, nullam orationem, nullum prorsus do-</l>
+      <l n="4">ctrinae genus, quod a stylo non accipiat com-</l>
+      <l n="5">mendationem. Quid juvat praeclaras Apellis</l>
+      <l n="6">formas inspexisse, si penicillo manus instructa,</l>
+      <l n="7">nullam imaginem valeat adumbrare? Quid ju-</l>
+      <l n="8">vat ingentes auri massas circumferre, si nullam</l>
+      <l n="9">in eo formam artificis manus elaboraverit! Ita</l>
+      <l n="10">non satis est assidua lectione, &amp; auscultatione</l>
+      <l n="11">longa, rerum &amp; sapientiae ipsius supellectilem</l>
+      <l n="12">comparavisse! Non satis est latissimos Rhetori-</l>
+      <l n="13">cae campos Philosophorum fontibus irrigavisse!</l>
+      <l n="14">Scriptionis adornatae illuminatio, stylique ma-</l>
+      <l n="15">jestas nitorem adferre, dignitatem conciliare</l>
+      <l n="16">debet. Quis autem in tanta tot excellentissimo-</l>
+      <l n="17">rum authorum multitudine, tanta quoque stylí</l>
+      <l n="18">varietate, praecellentiorem deprehendat; quis</l>
+      <l n="19">puriorem stylí castitatem ostendat? Quidam</l>
+      <l n="20">ingenii ac sermonis ubertate flumina quaedam</l>
+      <l n="21">orationis profundunt, &amp;, dum sibi videntur o-</l>
+      <l n="22">pulenti, aliis redundant. Nonnulli sermonis a-</l>
+    </main_text>
+    <notes>The catchword "varitiâ" sits alone at the right below the last line; it repeats the start of the next page's word "varitiâ". The "s" long s is rendered as s throughout. The ligature in "supellectilem" and the "st" forms are normalised to plain letters. The circumflex on "â" is kept as printed.</notes>
+  </page>
+  <page type="text" lines="ocr" n="10" model="claude-haiku-5-5">
+    <layout>One page of text, one column; a marginal word "moles" in the right margin beside the last line, set below the text block as a side note; page number at the head centred.</layout>
+    <page_number>7</page_number>
+    <main_text>
+      <l n="1">varitiâ duci videntur, &amp;c, dum verborum affluê-</l>
+      <l n="2">tiam oderunt, Laconicis limitibus sermonem</l>
+      <l n="3">includunt, tantaque brevitate utuntur, ut absol-</l>
+      <l n="4">verint citiùs, quàm potuerint audiri. Alii indi-</l>
+      <l n="5">gnantes penè se nostrâ ætate natos, quâ lingua</l>
+      <l n="6">proavorum exolevit, vetustissimos veteris ævi</l>
+      <l n="7">patres è cineribus revocant, cumque iis durio-</l>
+      <l n="8">res sermonis dapes, quàm mella cum Tullio gu-</l>
+      <l n="9">stare malùt: nec secùs loquuntur, quàm si à Car-</l>
+      <l n="10">mentâ Evandri matre essent edocti. Invenias,</l>
+      <l n="11">quibus ut auræ novitas grata est, ita gaudent ver-</l>
+      <l n="12">bis uti novis, &amp; illa tantum adorant. Non pau-</l>
+      <l n="13">ci, cùm diserti sibi videntur, verbosi sunt nimis</l>
+      <l n="14">&amp; remissi: dum acumina affectant, res magnas</l>
+      <l n="15">minutissimis &amp; rancidis sententiis frangunt, nec</l>
+      <l n="16">nisi fumos dant ex antiquitatis luce. Scio multos</l>
+      <l n="17">esse, quibus solùm suum pulchrum, &amp; naturæ</l>
+      <l n="18">suæ duntaxat inclinatione librantur. Sed alii</l>
+      <l n="19">sunt quoque, qui unum è numero suspiciant</l>
+      <l n="20">&amp; exosculentur: nec pauci, qui in eâdem semitâ</l>
+      <l n="21">plurium vestigia premunt. Nos verò quid hîc</l>
+      <l n="22">dicemus? Gravis est omnino difficultatis hujus</l>
+    </main_text>
+    <marginalia>
+      <note side="right" at="Gravis est omnino" line_from="22" line_to="22">moles</note>
+    </marginalia>
+    <notes>The marginal word "moles" is printed in the right margin beside the last line; it is a catchword-like side note, transcribed at its place. Some letters in the scan (e.g. "sibi") are slightly blurred; the reading is probable but not certain.</notes>
+  </page>
+  <page type="text" lines="ocr" n="11" model="claude-haiku-5-5">
+    <warning type="catchword_in_text">catchword taken out of the main text: lycletus,</warning>
+    <layout>One page of text, single column; page number centred above the text; a catchword-like word "lycletus," at the lower right, set in smaller type under the last line, treated as the end of the running text. No margin notes, no running head.</layout>
+    <page_number>8</page_number>
+    <main_text>
+      <l n="1">moles &amp; quæ Atlantis humeros requirat ! Re-</l>
+      <l n="2">formidanda propemodum arena, in qua Paulus</l>
+      <l n="3">Cortesius cum Angelo Politiano conflixit:</l>
+      <l n="4">Bembus cum Pico decertavit : Scaliger cum</l>
+      <l n="5">Erasmo digladiatus est: in quâ multi alii ita sudâ-</l>
+      <l n="6">runt, ut victoriam reportâsse judicari possint !</l>
+      <l n="7">A quorum tamen opinione, si mea sententia re-</l>
+      <l n="8">cesserit, credite Auditores, nullius me tanti viri</l>
+      <l n="9">dignitatem violâsse, vel debitum cuiquam ho-</l>
+      <l n="10">norem detraxisse.</l>
+      <l n="11" para="true">Sui sunt cuique impressi motus, quorum vi</l>
+      <l n="12">mens humana rei alicujus effingendæ studio po-</l>
+      <l n="13">tissimum flagrat, &amp; pro suo quisque genio cer-</l>
+      <l n="14">tam styli formam eligere potest. Sed ad primam</l>
+      <l n="15">scribentis ruditatem expugnandam, unius ac</l>
+      <l n="16">certi authoris imitationem necessariam esse, as-</l>
+      <l n="17">serere nō vereor. Infans non nisi uno nutritur la-</l>
+      <l n="18">cte, sed puer deinde vario cibo alitur, donec in</l>
+      <l n="19">virum adolescat. Phidias Minervæ simulacrum</l>
+      <l n="20">adumbraturus, propositâ pulchritudinis eximiæ</l>
+      <l n="21">idea, in eaq; solâ defixus, ad illius similitudinem</l>
+      <l n="22">penicillum &amp; manus dirigebat. Apelles &amp; Po-</l>
+    </main_text>
+    <notes>Text is set in a roman face; the word "lycletus," at the lower right is the end of the word "Polycletus" split across the line, shown as printed beside the last line. Long s rendered as s throughout. Printed "Auditores" and "Cortesius" as printed.</notes>
+    <bottom_margin>
+      <catchword>lycletus,</catchword>
+    </bottom_margin>
+  </page>
+  <page type="text" lines="ocr" n="12" model="claude-haiku-5-5">
+    <layout>One text block of running text, one column, full width. Below the text: signature "B" at left centre and catchword "sed" at right. A small mark stands above the first line at top centre.</layout>
+    <page_number>9 [?]</page_number>
+    <main_text>
+      <l n="1">lycletus, tàm admirabilem venustatis gratiam</l>
+      <l n="2">imaginibus suis non aspersissent, omniumque in</l>
+      <l n="3">se oculos artis ipsius miraculo nunquam conver-</l>
+      <l n="4">tissent: nisi uterque unius, hîc Ageladis, illè</l>
+      <l n="5">Pamphili lineamenta &amp; monochromata fuisset</l>
+      <l n="6">secutus. Et si in barbariem ætatis vitio, &amp; quasi</l>
+      <l n="7">abortientis naturæ injuriâ dejecti sumus: Si dun-</l>
+      <l n="8">taxat à mutis libris Eloquentiæ laudem vindica-</l>
+      <l n="9">re debemus: Si quædam recti sermonis inopia</l>
+      <l n="10">&amp; optimorum Rhetorum egestas, nunquid omni-</l>
+      <l n="11">no necessarium est, ut ad præstantissimum unum</l>
+      <l n="12">authorem aliquem refugiamus, cujus ope ino-</l>
+      <l n="13">piæ succurramus, &amp; à quo dignitatem ac splen-</l>
+      <l n="14">dorem recipiat, gloriosa illa civitatum guberna-</l>
+      <l n="15">trix, &amp; benè constitutæ Reipublicæ alumna,</l>
+      <l n="16">Eloquentia? Considerate, si lubet, eos, qui sine</l>
+      <l n="17">imitatione ingenii sui præsidiis nituntur, quàm</l>
+      <l n="18">nihil roboris &amp; virium in scribendo præ se fe-</l>
+      <l n="19">rant! Modò sordidi &amp; inculti, modò splendidi</l>
+      <l n="20">&amp; florentes apparent! Sed quis præstantissimus</l>
+      <l n="21">ille unus, quem imitandum proponimus? Nolo</l>
+      <l n="22">jejunum, aridum; sed copiosum: nolo sterilem,</l>
+    </main_text>
+    <bottom_margin>
+      <catchword>sed</catchword>
+      <signature>B</signature>
+    </bottom_margin>
+    <notes>The small mark above the first line is uncertain; it may be a page number "9" or a printer's mark. The long s is transcribed as plain s throughout. Hyphens are printed at line ends and kept.</notes>
+  </page>
+  <page type="text" lines="ocr" n="13" model="claude-haiku-5-5">
+    <warning type="catchword_in_text">catchword taken out of the main text: tum</warning>
+    <layout>One column of running text, centred right of the gutter; page number above the column at head; catchword "tum" at lower right below the last line. No margin notes.</layout>
+    <page_number>101</page_number>
+    <running_head />
+    <bottom_margin>
+      <catchword>tum</catchword>
+    </bottom_margin>
+    <main_text>
+      <l n="1">sed foecundum: nolo sine sanguine, sine carne,</l>
+      <l n="2">sed nervosum. Verbo dicam: Ciceronem vo-</l>
+      <l n="3">lo: qui (ut Quintilianus ait) dono quodam</l>
+      <l n="4">providentiae genitus est, in quo totas vires</l>
+      <l n="5">suas Eloquentia experiretur, clarus, suavis, ju-</l>
+      <l n="6">cundus, gravis: qui divina ingenii felicitate, quic-</l>
+      <l n="7">quid in omnibus aliis admirabile, politum, inge-</l>
+      <l n="8">niosum, eximium, id suis in operibus totum ef-</l>
+      <l n="9">finxit. Ille est cui Italia similem non vidit, in quo</l>
+      <l n="10">perfecta prae caeteris, atque numeris omnibus</l>
+      <l n="11">absoluta dicendi ratio elucescit: in quo De-</l>
+      <l n="12">mosthenis vis, copia Platonis, jucunditas Isocra-</l>
+      <l n="13">tis universa continetur. Subtilis in probando,</l>
+      <l n="14">temperatus in delectando, vehemens in flecten-</l>
+      <l n="15">do: gravis, copiosus, ornatus! Jam si miraculum</l>
+      <l n="16">quoddam naturae est Cicero, in quem Eloquen-</l>
+      <l n="17">tia vim suam transtulit universam, &amp; qui omnes</l>
+      <l n="18">omnium virtutes est consecutus (ut de se ipso lo-</l>
+      <l n="19">quitur in Oratore perfecto) cur ad ejus similitu-</l>
+      <l n="20">dinem stylus non esset conformandus? Deside-</l>
+      <l n="21">ratisne certo aliquo in genere dicendi excellere?</l>
+      <l n="22">Nullum est genus tam abstrusum, tam recondi-</l>
+    </main_text>
+    <notes>Catchword "tum" printed at lower right. Page number "10" printed small, rendered as 101 from the scan; the printed form is "10" with superscript "1" as shown.</notes>
+  </page>
+  <page type="text" lines="ocr" n="14" model="claude-haiku-5-5">
+    <layout>One page of text in a single column; page number at the head centred; signature "B 2" and catchword "jus" at the foot. No margin notes.</layout>
+    <page_number>11</page_number>
+    <running_head />
+    <bottom_margin>
+      <catchword>jus</catchword>
+      <signature>B 2</signature>
+    </bottom_margin>
+    <main_text>
+      <l n="1">tum, tam novum, cujus non aliqua sint in ipso</l>
+      <l n="2">vestigia, non sane leviter expressa. Thesauri sunt</l>
+      <l n="3">scientiarum eius libri: &amp; ut amplius dicam, nul-</l>
+      <l n="4">lum incidere potest thema, cuius non exemplum,</l>
+      <l n="5">apud summum illum civilium controversiarum</l>
+      <l n="6">disceptatorem, reperiatur.</l>
+      <l n="7" para="true">Verum enim vero ipse Cicero, non unum si-</l>
+      <l n="8">bi ad informandum Orationis stylum propo-</l>
+      <l n="9">suit, sed (ut dictum) vim Demosthenis, copiam</l>
+      <l n="10">Platonis, jucunditatem Isocratis, rara ingenii fe-</l>
+      <l n="11">licitate consecutus fuit. Unde futurum huius</l>
+      <l n="12">temporis oratorem ad unius imitationem, quae</l>
+      <l n="13">infelix &amp; abiecta servitus esset, non esse adstrin-</l>
+      <l n="14">gendum, vel suo ipsius exemplo suadet. Nimi-</l>
+      <l n="15">rum excitandum est, ad ingenii libertatem, in-</l>
+      <l n="16">genium: sequenda voluntas, quo rapit, non co-</l>
+      <l n="17">genda, &amp; dum multę ardent faces, non ab una</l>
+      <l n="18">teda mendicanda est lux: Hic una natura dux</l>
+      <l n="19">esto, comites post se trahens unum atque alte-</l>
+      <l n="20">rum ex prisci s veteris aevi scriptoribus. Genium</l>
+      <l n="21">mens uniuscujusque est sortita, ut instinctum</l>
+      <l n="22">eius sequatur. Sua cuique idea est impressa, cu-</l>
+    </main_text>
+    <notes />
+  </page>
+  <page type="text" lines="ocr" n="15" model="claude-haiku-5-5">
+    <layout>One page of text in a single column; the catchword-like word "ficos" sits at the lower right below the last line, as a continuation of the line. Page number at the head centre. No margin notes.</layout>
+    <page_number>12</page_number>
+    <running_head />
+    <bottom_margin>
+      <catchword>ficos</catchword>
+    </bottom_margin>
+    <main_text>
+      <l n="1">jus celeribus motibus ad aliud voluntate feratur,</l>
+      <l n="2">ab alio vero abducatur. Unde Lipsius in episto-</l>
+      <l n="3">lis <i>stuporem</i> propemodum ait, <i>nos ad unus imi-</i>
+      </l>
+      <l n="4">
+        <i>tationem vocari, quod nemo veterum aut prio-</i>
+      </l>
+      <l n="5">
+        <i>rum somniavit.</i> Hoc igitur suadae Ciceronia-</l>
+      <l n="6">nae lacte educatus &amp; adultior factus formaturus</l>
+      <l n="7">stylum, cibos solidiores adhibebit, alios cultio-</l>
+      <l n="8">ris aevi authores evoluturus, atque in succum &amp;</l>
+      <l n="9">sanguinem permutaturus, ut stylus perfectionem</l>
+      <l n="10">suam consequatur, majestatisque pondus acci-</l>
+      <l n="11">piat. Atqui si vetus aevum evolvamus, quae au-</l>
+      <l n="12">thorum in eo turba nos non turbabit: quorum</l>
+      <l n="13">quisque suam habet styli virtutem, moderatio-</l>
+      <l n="14">nem ac Phrasin, quae asperiora palato non vide-</l>
+      <l n="15">antur. Julius Caesar, vehementi dictionis acu-</l>
+      <l n="16">mine &amp; concitatione, causas forenses impulit.</l>
+      <l n="17">Petulans Caelius, ardens in accusationibus, sed</l>
+      <l n="18">tamen non inurbanus. Trachalus sublimis est</l>
+      <l n="19">&amp; apertus. Delectationi natus Vibius Crispus.</l>
+      <l n="20">Cornelius Celsus, in brevitate celsus. Tanta</l>
+      <l n="21">ingeniorum est dissimilitudo: Taceo caeteros</l>
+      <l n="22">veteranae illius militiae antesignanos, quos classicos</l>
+    </main_text>
+    <notes>Printed text runs from the top of the page to the last line; the word "ficos" at the lower right is printed as the catchword continuing the final line. The page is a single text column with no marginal notes. Some letters are worn and a few words (e.g. "ficos") are read from a small line at the foot; the reading of "unus" in the italic phrase may be a printing variant and is left as printed.</notes>
+  </page>
+  <page type="text" lines="ocr" n="16" model="claude-haiku-5-5">
+    <warning type="catchword_in_text">catchword taken out of the main text: disse-</warning>
+    <layout>One block of running text in a single column, full width; no margin notes. Below the text: signature mark "B 3" at left-centre and catchword "disse-" at right.</layout>
+    <page_number>53</page_number>
+    <running_head />
+    <bottom_margin>
+      <catchword>disse-</catchword>
+      <signature>B 3</signature>
+    </bottom_margin>
+    <main_text>
+      <l n="1">ficos vocant, Classicorum etiam manibus vulgò</l>
+      <l n="2">teri solitos! Quàm immensi moles laboris esset,</l>
+      <l n="3">tantâ contentione, magno etiam valetudinis</l>
+      <l n="4">periculo, noctypnâ hos omnes versare manu,</l>
+      <l n="5">versare diurnâ? Aut an forsan omnes hi non</l>
+      <l n="6">perlustrandi, an unius atque alterius delectus fa-</l>
+      <l n="7">ciendus! Verùm quis unus ille, qui omnibus per</l>
+      <l n="8">omnia placeat! Tametsi Demosthenes, magnus</l>
+      <l n="9">ille &amp; admirabilis totius Græciæ Orator, palmâ</l>
+      <l n="10">omnibus præripuisse judicetur, satisfacere ta-</l>
+      <l n="11">men non potuit Ciceroni, qui nervis omnibus</l>
+      <l n="12">ad illum effingendum se referebat. Nolo vos</l>
+      <l n="13">longius abducere auditores! Dicam quod</l>
+      <l n="14">sentio: Cui res est angusta domi, &amp; pedem ad alia</l>
+      <l n="15">accelerat, ad quæ vel ætas vocat, vel patria, vel</l>
+      <l n="16">parentum vota, altæ gravitatis Senecam adhi-</l>
+      <l n="17">bendum suadeo. Qui nervosâ suâ brevitate,</l>
+      <l n="18">quicquid plus nimio luxuriat, depascet, &amp; acrio-</l>
+      <l n="19">ris judicii limâ deteret. Præclaras habent &amp; alii</l>
+      <l n="20">dotes, quas non contemno, sed non eodem ro-</l>
+      <l n="21">bore aut nervis. Spirat iste, nescio quem calo-</l>
+      <l n="22">rem, qui lectorem nimium quantum afficit, ut</l>
+    </main_text>
+    <notes>Printed page number "53" at top centre, shown as a decorative numeral. Some words are uncertain in the scan, notably "noctypnâ" (rendered as printed, Latin letters, possibly "nocturnâ") and "Tametsi". The running head is absent.</notes>
+  </page>
+  <page type="text" lines="ocr" n="17" model="claude-haiku-5-5">
+    <layout>One printed page with one text column. Printed page number 14 at the head. Catchword "ria" at the lower right, below the last line. No running head and no margin notes.</layout>
+    <page_number>14</page_number>
+    <bottom_margin>
+      <catchword>ria</catchword>
+    </bottom_margin>
+    <main_text>
+      <l n="1">differere ille magis de virtute &amp; civili pruden-</l>
+      <l n="2">tia non videatur, quàm inculcare eandem &amp; in-</l>
+      <l n="3">ferere. Huic à latere adjungatur Horatius, au-</l>
+      <l n="4">thor supra ingenii humani conditionem difer-</l>
+      <l n="5">tus, &amp; sententiarum sublimitate nulli secundus;</l>
+      <l n="6">qui suo lepore &amp; vernantium sententiarum</l>
+      <l n="7">ubertate loquacitatem Ciceronianam non mi-</l>
+      <l n="8">nus temperabit, quàm condiet sterilem illam &amp;</l>
+      <l n="9">Laconicam Senecæ severitatem. Non agam</l>
+      <l n="10">hic ratione, quam clarissimam videtis. Quem-</l>
+      <l n="11">admodum enim in conviviis non parum inter-</l>
+      <l n="12">est, quà epulæ &amp; dapes ratione condiantur : sic</l>
+      <l n="13">in scriptis, ingeniique monumentis plurimum</l>
+      <l n="14">refert, quibus unumquodque verbis efferatur,</l>
+      <l n="15">&amp; quà sententiarum elegantia stylus condiatur.</l>
+      <l n="16">Plures non addo. Facessat varia ista &amp; desulto-</l>
+      <l n="17">ria authorum lectio, quæ animum distrahit &amp;</l>
+      <l n="18">fastidientis stomachi, cujus multa est degustare,</l>
+      <l n="19">signum est atq; indicium! <i>Certis ingeniis,</i> inquit</l>
+      <l n="20">ille peffimi Imperatoris optimus Præceptor,</l>
+      <l n="21">
+        <i>immorari oportet &amp; innutriri, si velis aliquid</i>
+      </l>
+      <l n="22">
+        <i>trahere, quod in animo fideliter sedeat.</i> Qua[?] va-</l>
+    </main_text>
+    <notes>The page is a single paragraph running over from the previous page. The "Qua" abbreviation has a stroke over "ua" that I could not read with certainty. A stray diagonal mark sits between "inculcare" and "eandem"; it is not text. The catchword "ria" is small italic at the lower right.</notes>
+  </page>
+  <page type="text" lines="ocr" n="18" model="claude-haiku-5-5">
+    <warning type="catchword_in_text">catchword taken out of the main text: post</warning>
+    <layout>One printed page (right-hand page of the opening). One text column, full width, with page number at the head centre. Catchword "post" at the lower right below the last line. Show-through from the facing page is faint and not transcribed. Left edge shows fragments of the neighbouring page and is ignored.</layout>
+    <page_number>15</page_number>
+    <running_head />
+    <bottom_margin>
+      <catchword>post</catchword>
+    </bottom_margin>
+    <main_text>
+      <l n="1">
+        <i>ria sunt &amp; diversa, inquinant, non alunt: nec</i>
+      </l>
+      <l n="2">
+        <i>prodest cibus, qui statim sumtus emittitur. Qui</i>
+      </l>
+      <l n="3">
+        <i>quò destinavit pervenire vult, unam sequatur</i>
+      </l>
+      <l n="4">
+        <i>viam, non per multas vagetur, non ire istud,</i>
+      </l>
+      <l n="5">
+        <i>sed errare est.</i>
+      </l>
+      <l n="6" para="true">Expectatis, Auditores, eorum dictata, quo-</l>
+      <l n="7">rum candidatę mentes ad altiora sapientiæ tem-</l>
+      <l n="8">pla grassari, &amp; in gloriæ theatrum pedem attol-</l>
+      <l n="9">lere, gestiunt. Non perfunctoria his stylum o-</l>
+      <l n="10">perâ, sed succisiva, &amp; Thunni more excolendū,</l>
+      <l n="11">censeo, ac sudandum in hâc palæstrâ, dum res</l>
+      <l n="12">&amp; ætas, &amp; sororum fila trium patiuntur atra. Nul-</l>
+      <l n="13">lis autem ambagibus utendum, aut per flexus</l>
+      <l n="14">&amp; mœandros errandum, sed recto incedendum</l>
+      <l n="15">calle &amp; planities eligenda, ne inter prærupta</l>
+      <l n="16">forsan &amp; fragosa hæreant. Nimirum optimam</l>
+      <l n="17">dicendi virtutem ex eâ temporum antiquitate</l>
+      <l n="18">petere debent, quâ, expulsis verborum salebris,</l>
+      <l n="19">emendata est Romani sermonis structura, &amp; tot</l>
+      <l n="20">præclara ingenia omnem dicendi vim exserue-</l>
+      <l n="21">runt. Quod quidem aureum seculum, quemad-</l>
+      <l n="22">modum sub Augusto consummatum est, ita</l>
+    </main_text>
+    <notes>Faint ink smudge over "pur" in "aut per" and a stain near "per"; the word "per" is legible. The catchword "post" is printed at the lower right, and the text ends with "ita" on the last full line. Mirrored show-through from the facing page appears throughout and is omitted. The left-margin fragments belong to the neighbouring page and are omitted.</notes>
+  </page>
+  <page type="text" lines="ocr" n="19" model="claude-haiku-5-5">
+    <warning type="catchword_in_text">catchword taken out of the main text: da, &amp;</warning>
+    <layout>One printed page of running text in a single column, with a page number at the top centre; no running head, no margin notes, a catchword-like fragment "da, &amp;" at the lower right beneath the last line.</layout>
+    <page_number>16</page_number>
+    <main_text>
+      <l n="1">post optimum Principem, Trajanum, defecit.</l>
+      <l n="2">Atque hos primùm Plauti facetiæ &amp; ingenio-</l>
+      <l n="3">sissima responsa, verusque puræ latinitatis flos,</l>
+      <l n="4">ad sui amorem crebramque lectionem invitant.</l>
+      <l n="5">Latinissimus est hic Comicus, &amp; lepidissimus!</l>
+      <l n="6">Cuius tamen lepores &amp; elegantias nemo, nisi</l>
+      <l n="7">emunctioris sit naris, capit; aut carpit, nisi plum-</l>
+      <l n="8">beis præcordiis, &amp; qui, cuius coloris prisca sit &amp;</l>
+      <l n="9">germana Latinitas, ne quidem in somnio vidit.</l>
+      <l n="10">Adeo ut Musas ipsas Latine loquuturas non a-</l>
+      <l n="11">lio, quàm Plautino usuras fuisse sermone, non-</l>
+      <l n="12">nemo scribere non dubitaverit! Verùm hic For-</l>
+      <l n="13">matorum lynceum requiro, &amp; filium, non simi-</l>
+      <l n="14">am, deformitatum imitatorem, ut in lucem re-</l>
+      <l n="15">vocet obsoleta illa, &amp; squalida, quæ desuetudine</l>
+      <l n="16">&amp; oblivione jam dudum sunt sepulta. In quâ hæ-</l>
+      <l n="17">resi versantur nonnulli, qui in antiquatis istis vo-</l>
+      <l n="18">cibus Elegantiæ laudem statuunt &amp; palmam,</l>
+      <l n="19">nec antea sibi feliciter Plautissare videtur, quàm</l>
+      <l n="20">dura illa &amp; aspera scriptis suis futiliter inspergant,</l>
+      <l n="21">Sibyllinis foliis obscuriora, verbaque cinctutis</l>
+      <l n="22">vix exaudita Cethegis. Cautio hic est adhiben-</l>
+    </main_text>
+    <notes>Page number "16" printed at top centre, in old-style figures. The "da, &amp;" at lower right is a catchword. Faint show-through from the reverse side is ignored. Doubtful: "Plautissare" and "Matorum" with a blotch over the m, read as "matorum".</notes>
+    <bottom_margin>
+      <catchword>da, &amp;</catchword>
+    </bottom_margin>
+  </page>
+  <page type="text" lines="ocr" n="20" model="claude-haiku-5-5">
+    <layout>One page of text, one column; a catchword at the foot right; a signature mark "C" centred below the text. No margin notes.</layout>
+    <page_number>17</page_number>
+    <running_head />
+    <bottom_margin>
+      <catchword>firmita-</catchword>
+      <signature>C</signature>
+    </bottom_margin>
+    <main_text>
+      <l n="1">da, &amp; antiquitas ex antiquitatis judicio distin-</l>
+      <l n="2">guenda! Quemadmodum apes non quidvis ex</l>
+      <l n="3">omnibus colligunt: ita non omnia sunt ex uno</l>
+      <l n="4">corradenda ; sed ex unoquoque sumendum,</l>
+      <l n="5">quod habet utilissimum!</l>
+      <l n="6" para="true">Plautus collegam &amp; socium sibi adsciscit</l>
+      <l n="7">summum illum fandi artificem, Publium Teren-</l>
+      <l n="8">tium, vel penes se legendum, vel in sui absentis</l>
+      <l n="9">locum sufficiendum. Hunc styli formandi cu-</l>
+      <l n="10">riosus assidua terat manu, tum ut mores veteris</l>
+      <l n="11">ævi civiles domesticosque addiscat, tum ut pu-</l>
+      <l n="12">rissimi cupediis ævi &amp; delicatioribus dicendi</l>
+      <l n="13">floisculis sese adsuescat. Hunc strenuus ille lite-</l>
+      <l n="14">rarum intermorientium restaurator, Erasmus,</l>
+      <l n="15">tanti fecit, ut, postquam nihil ignoraret, nihil ta-</l>
+      <l n="16">men magis quàm lepores, &amp; ineffabilem penè</l>
+      <l n="17">Terentiani sermonis puritatem, admiratus sit!</l>
+      <l n="18">Hunc Scaliger senex, omnium penè scientia-</l>
+      <l n="19">rum perlustratis adytis, semper in manibus ge-</l>
+      <l n="20">stavit, nec unquam lectione ejus divinum illud</l>
+      <l n="21">pectus expleri potuit.</l>
+      <l n="22" para="true">Verùm hoc Comicorum circo inclusis, styli</l>
+    </main_text>
+    <notes>The catchword "firmita-" and the signature "C" are at the foot. The running head is absent. Text is printed in roman with some italic-like letter forms; no italics were clearly identifiable. The page number 17 is printed at the top centre.</notes>
+  </page>
+  <page type="text" lines="ocr" n="21" model="claude-haiku-5-5">
+    <layout>One block of running text in a single column, with no margin notes. Below the last line, at the right, the catchword "rum".</layout>
+    <page_number>18</page_number>
+    <bottom_margin>
+      <catchword>rum</catchword>
+    </bottom_margin>
+    <main_text>
+      <l n="1">firmitatem affectantibus, lectionem historia-</l>
+      <l n="2">rum prætera commendarem Justini, qui ma-</l>
+      <l n="3">gnum scriptorem, Trogum Pompejum compi-</l>
+      <l n="4">lavit, &amp; res Græcas Latino sermone compen-</l>
+      <l n="5">diosè perstrinxit : Flori, in quo dictio elegans</l>
+      <l n="6">&amp; florida, ac nullibiferè non Poëtam arguens,</l>
+      <l n="7">apparet. Agmen claudat Crispus Sallustius, qui</l>
+      <l n="8">magis elaboratis verbis, &amp; sententiis ad argu-</l>
+      <l n="9">menti majestatem compositis res magnas effa-</l>
+      <l n="10">tur ! Vel cui acrius est judicium, Cornelius Ta-</l>
+      <l n="11">citus, maximi nominis historicus, &amp; nunquam</l>
+      <l n="12">sine maxima cura legendus. Quamvis ipse Prin-</l>
+      <l n="13">cipum artes &amp; arcana tam alte indagaverit, ut</l>
+      <l n="14">non tantum priorum facundiam, sed &amp; poste-</l>
+      <l n="15">rorum omnium imitationem, sit supergressus.</l>
+      <l n="16" para="true">Præstant &amp; alia, non infima historiæ lumina,</l>
+      <l n="17">sermonis flumina. Novi Livium magnæ molis</l>
+      <l n="18">historicorum principem: Novi Cæsarem, sim-</l>
+      <l n="19">plicissimæ elegantiæ Imperatorem: Novi alios</l>
+      <l n="20">absque suspensa hædera, vel solo nomine vendi-</l>
+      <l n="21">biles. Sed compendium commonstro, &amp; ani-</l>
+      <l n="22">mum ad edita facultatum sacraria iter ingressu-</l>
+    </main_text>
+    <notes>The page number "18" at the head is set with a small decorative mark and is read as 18 with some doubt. The word "Præstant" is set with a small blot over the "n" of "non infima", which is read as "infima". Faint show-through from the reverse side appears in the left half of the page and is left out.</notes>
+  </page>
+  <page type="text" lines="ocr" n="22" model="claude-haiku-5-5">
+    <warning type="catchword_in_text">catchword taken out of the main text: autho-</warning>
+    <layout>One printed page: one text column, no margin notes, no running head. Page number centred at the head.</layout>
+    <page_number>19</page_number>
+    <main_text>
+      <l n="1">rum politioris Latinitatis viatico instruo! Nihil</l>
+      <l n="2">hîc mihi cum metrico Poëtarum choro! Solutæ</l>
+      <l n="3">Orationis stylum adorno! Nihil cum antiquis-</l>
+      <l n="4">simis Græcæ sapientiæ Antistitibus : Latinitatem</l>
+      <l n="5">instillo : Litaturos promitto desiderio ad lautæ</l>
+      <l n="6">orationis supellectilem adspirantis, quos in acie</l>
+      <l n="7">produxi, modò cum grano salis apprehendatur,</l>
+      <l n="8">&amp;<bl>[?]</bl> ἀμεθοδία, felicium ingeniorum fœdissima profli-</l>
+      <l n="9">gatrix, vitetur: nec temere nunc in hunc, nunc</l>
+      <l n="10">in illum animus rapiatur: Qui, cum dividitur ad</l>
+      <l n="11">multa, fit minor ad singula. Ad unum se accin-</l>
+      <l n="12">gat, eumque ante non relinquat, quàm ad cal-</l>
+      <l n="13">cem perduxerit, stellulis &amp; calamo subinde no-</l>
+      <l n="14">tatis, quæ observatione digna videbuntur. Ini-</l>
+      <l n="15">tium autem omninò à magno illo &amp; divite elo-</l>
+      <l n="16">quentiæ penu, Cicerone, faciendum. Quæ ex</l>
+      <l n="17">crebrâ ejus lectione contrahitur stylí copia, eam</l>
+      <l n="18">minuet facilè ac detrahet crescentis per ætatem</l>
+      <l n="19">judicii lima, accedente Senecæ, Salustii, Taciti</l>
+      <l n="20">nervosæ brevitatis temperamento. Hanc viam</l>
+      <l n="21">qui insistit, dulcissimos sibi ex mellitissimis ipsis</l>
+    </main_text>
+    <notes>The Greek word after "&amp;" (apparently ἀμεθοδία, printed small and partly blurred) is uncertain; the letters are copied as far as legible. The "&amp;" before it is the printed ampersand. A stray mark after "no-" at the line end is not text. Print is faint in places (e.g. "relinquat", "cum"), but the readings are as legible on the scan.</notes>
+    <bottom_margin>
+      <catchword>autho-</catchword>
+    </bottom_margin>
+  </page>
+  <page type="text" lines="ocr" n="23" model="claude-haiku-5-5">
+    <layout>One block of text in the centre-right of the page, with a printed page number above its first line; below the text, a closing word DIXI in spaced capitals, then a woodcut ornament (no text). No margin notes.</layout>
+    <page_number>20</page_number>
+    <running_head />
+    <bottom_margin>
+  </bottom_margin>
+    <main_text>
+      <l n="1">authoribus construet styli favos, quibus edulari</l>
+      <l n="2">solent, &amp; condiri, aspera illa sublimioris doctri-</l>
+      <l n="3">næ monita, &amp; abstrusa rarioris sapientiæ arcana</l>
+      <l n="4">ô sapientem, qui hîc sapit! qui ad hanc segetem</l>
+      <l n="5">venit, manipulos frugum colligit, &amp; in usum</l>
+      <l n="6">suum recondit ! Ut in Pandoram illam Poëti-</l>
+      <l n="7">cam omnia munera Deorum collata fuisse fe-</l>
+      <l n="8">runt: ita in hunc conspirâsse dicetis omnium</l>
+      <l n="9">Musarum Veneres, omnium authorum elegan-</l>
+      <l n="10">tias, omnem Suadæ venustatem nunquam peri-</l>
+      <l n="11">turam, quamdiu literis Romanis honos</l>
+      <l n="12">erit, aut vita !</l>
+      <l n="13" para="true">DIXI.</l>
+    </main_text>
+    <notes>The page number "20" is printed small and raised above the first line. "DIXI." is set in spaced capitals and is treated as a closing word. The woodcut ornament below the text is not transcribed. Some words in the line "ita in hunc conspirâsse" and "Pandoram" are as printed; the word "fuiffe" is printed with long s forms rendered as plain s. The first word of the page is a fragment continuing from the previous page.</notes>
+  </page>
+  <page type="empty" n="24" model="claude-haiku-5-5">
+    <layout>One printed page, blank. Only the edge of the facing page shows at the left.</layout>
+    <notes>Blank leaf. The fragments of letters at the far left edge belong to the neighbouring page (gutter edge, hyphenated line ends) and are not transcribed. No running head, page number, catchword or signature is printed.</notes>
+  </page>
+  <page type="empty" n="25" model="claude-haiku-5-5">
+    <layout>One blank page: the image shows only the back cover of the binding, a plain brown-purple boards surface with stains and wear. No printed text. Digitiser's background and grey page-edge strip at the right are not printed matter.</layout>
+    <notes>Back board of the binding, not a printed page. Stains, rubbing and a pale edge strip only; no text, no marginal notes, no page number, no running head, no signature.</notes>
+  </page>
+</book>
