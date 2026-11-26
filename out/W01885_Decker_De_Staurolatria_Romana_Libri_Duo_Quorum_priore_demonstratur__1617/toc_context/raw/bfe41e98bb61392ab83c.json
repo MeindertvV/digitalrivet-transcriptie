@@ -1,0 +1,160 @@
+{
+ "answer": {
+  "book": "A single work in two books (Liber I and Liber II) printed in 1617, with a dedicatory letter and dedication at the front, five chapters in each book, and a subject index and errata at the back.",
+  "series": [
+   {
+    "label": "Liber",
+    "first": "I",
+    "last": "II",
+    "count": 2,
+    "level": 1
+   },
+   {
+    "label": "Caput",
+    "first": "I",
+    "last": "V",
+    "count": 5,
+    "level": 2
+   },
+   {
+    "label": "Caput",
+    "first": "I",
+    "last": "V",
+    "count": 5,
+    "level": 2
+   }
+  ],
+  "entries": [
+   {
+    "ids": [
+     12,
+     13,
+     14,
+     15,
+     16,
+     17
+    ],
+    "level": 1,
+    "title": "Epistola. Reverendis, pietate & doctrina praestantissimis, prudentissimis, honestissimisque viris, Ecclesiae, quae est Eluerfeldia"
+   },
+   {
+    "ids": [
+     19
+    ],
+    "level": 1,
+    "title": "Dedicatoria."
+   },
+   {
+    "ids": [
+     26
+    ],
+    "level": 1,
+    "title": "Liber I."
+   },
+   {
+    "ids": [
+     25
+    ],
+    "level": 2,
+    "title": "Caput I. In quo staurolatria & staurolatra definitur."
+   },
+   {
+    "ids": [
+     27,
+     28
+    ],
+    "level": 2,
+    "title": "Caput II. In quo demonstratur, omnes staurolatræ esse idololatras."
+   },
+   {
+    "ids": [
+     34,
+     35
+    ],
+    "level": 2,
+    "title": "Caput III. In quo probatur Pontificios esse staurolatras."
+   },
+   {
+    "ids": [
+     40,
+     41
+    ],
+    "level": 2,
+    "title": "Caput IV. In quo Bellarmini exceptionibus occurritur."
+   },
+   {
+    "ids": [
+     44,
+     45
+    ],
+    "level": 2,
+    "title": "Caput V. In quo conclusio colligitur & defenditur, Pontificios esse idololatras."
+   },
+   {
+    "ids": [
+     47,
+     49
+    ],
+    "level": 1,
+    "title": "Liber II."
+   },
+   {
+    "ids": [
+     50
+    ],
+    "level": 2,
+    "title": "Caput I. In quo scopus huius examinis declaratur, & caput 26. de adoratione crucis examinatur & castigatur."
+   },
+   {
+    "ids": [
+     57,
+     58
+    ],
+    "level": 2,
+    "title": "Caput II. In quo caput 26. Bellarmini de vera cruce Domini examinatur & castigatur."
+   },
+   {
+    "ids": [
+     83,
+     84
+    ],
+    "level": 2,
+    "title": "Caput III. In quo 28. caput, Bellar. de Imagine crucis examinatur & castigatur."
+   },
+   {
+    "ids": [
+     104
+    ],
+    "level": 2,
+    "title": "Caput IV. In quo Caput 29. Bellarmini de signo crucis examinatur & castigatur."
+   },
+   {
+    "ids": [
+     113,
+     114
+    ],
+    "level": 2,
+    "title": "Caput V. In quo nostra argumenta proponuntur ac defenduntur, itaut simul c. 30. Bellarmini examinetur & castigetur."
+   },
+   {
+    "ids": [
+     128
+    ],
+    "level": 1,
+    "title": "Index rerum."
+   },
+   {
+    "ids": [
+     154
+    ],
+    "level": 1,
+    "title": "Errata sic corrigenda."
+   }
+  ],
+  "missing": []
+ },
+ "cost": 0.01335502,
+ "input": 24938,
+ "output": 17325,
+ "seconds": 73
+}
