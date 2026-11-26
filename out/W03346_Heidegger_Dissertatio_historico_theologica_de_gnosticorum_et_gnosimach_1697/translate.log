@@ -1,0 +1,44 @@
+Translating 16 group(s) into English with claude-haiku-5-5, effort medium, batch
+Submitted batch msgbatch_015n9h8shB41MwQGVUUzYzYL with 16 group(s)
+Batch msgbatch_015n9h8shB41MwQGVUUzYzYL: 16 processing, 0 done, 0 errored
+Batch msgbatch_015n9h8shB41MwQGVUUzYzYL: 16 processing, 0 done, 0 errored
+Batch msgbatch_015n9h8shB41MwQGVUUzYzYL: 16 processing, 0 done, 0 errored
+Batch msgbatch_015n9h8shB41MwQGVUUzYzYL: 16 processing, 0 done, 0 errored
+Batch msgbatch_015n9h8shB41MwQGVUUzYzYL: 16 processing, 0 done, 0 errored
+Batch msgbatch_015n9h8shB41MwQGVUUzYzYL: 16 processing, 0 done, 0 errored
+Batch msgbatch_015n9h8shB41MwQGVUUzYzYL: 16 processing, 0 done, 0 errored
+Batch msgbatch_015n9h8shB41MwQGVUUzYzYL: 16 processing, 0 done, 0 errored
+  13.30: ok  [6 units, 7090 out (4468 thinking), $0.0020, total $0.00]
+    note: unit(s) [5] without the italics of the Latin
+  30.10: ok  [7 units, 5904 out (3327 thinking), $0.0017, total $0.00]
+  9.6: ok  [6 units, 6522 out (3880 thinking), $0.0018, total $0.01]
+    note: unit(s) [5] without the italics of the Latin
+  27.19: ok  [8 units, 4181 out (1157 thinking), $0.0012, total $0.01]
+  24.3: ok  [4 units, 5314 out (1913 thinking), $0.0016, total $0.01]
+  18.14: 3 of 5 units ok, unit(s) ['18.14'] missing; unit(s) ['18.15'] next to a unit that failed  [5 units, 3120 out (1195 thinking), $0.0009, total $0.01]
+    note: unit(s) [5] without the italics of the Latin
+  20.38: ok  [6 units, 4708 out (1514 thinking), $0.0014, total $0.01]
+  32.20: ok  [3 units, 2871 out (1039 thinking), $0.0009, total $0.01]
+  20.1: ok  [2 units, 1437 out (974 thinking), $0.0004, total $0.01]
+  2.1: ok  [28 units, 8256 out (4590 thinking), $0.0024, total $0.01]
+  36.22: ok  [4 units, 1597 out (1117 thinking), $0.0005, total $0.01]
+  11.18: ok  [5 units, 4750 out (2221 thinking), $0.0014, total $0.02]
+    note: unit(s) [4] without the italics of the Latin
+  7.10: ok  [4 units, 5234 out (2908 thinking), $0.0015, total $0.02]
+  20.18: ok  [2 units, 1813 out (1295 thinking), $0.0005, total $0.02]
+  34.13: ok  [7 units, 3460 out (1383 thinking), $0.0010, total $0.02]
+    note: unit(s) [2, 4] without the italics of the Latin
+  16.12: FAILED: unit(s) ['16.12'] much longer than the Latin; unit(s) ['16.13', '17.5'] next to a unit that failed; unit(s) ['17.26'] much shorter than the Latin  [4 units, 3440 out (1439 thinking), $0.0011, total $0.02]
+Retrying 2 group(s) with units left directly
+  18.14~2: ok  [2 units, 1591 out (829 thinking), $0.0011, total $0.02]
+  16.12~2: 2 of 4 units ok, unit(s) ['16.12'] much longer than the Latin; unit(s) ['16.13'] next to a unit that failed  [4 units, 3486 out (1540 thinking), $0.0022, total $0.02]
+  16.12~3: FAILED: unit(s) ['16.12'] much longer than the Latin; unit(s) ['16.13'] next to a unit that failed  [2 units, 1790 out (964 thinking), $0.0011, total $0.02]
+  16.12~4: FAILED: unit(s) ['16.12'] much longer than the Latin; unit(s) ['16.13'] next to a unit that failed  [2 units, 2968 out (2071 thinking), $0.0017, total $0.03]
+  16.12: translating its 2 remaining units one by one
+  16.12~5: FAILED: unit(s) ['16.12'] much longer than the Latin  [1 units, 706 out (638 thinking), $0.0004, total $0.03]
+  16.12~6: FAILED: unit(s) ['16.12'] much longer than the Latin  [1 units, 757 out (650 thinking), $0.0004, total $0.03]
+  16.12~7: FAILED: unit(s) ['16.12'] much longer than the Latin  [1 units, 521 out (441 thinking), $0.0003, total $0.03]
+  16.13: ok  [1 units, 872 out, $0.0006, total $0.03]
+1 group(s) failed, listed in /home/user/digitalrivet-transcriptie/out/W03346_Heidegger_Dissertatio_historico_theologica_de_gnosticorum_et_gnosimach_1697/translation_en/failed.txt
+Spent this run: $0.028
+100 of 101 units translated -> /home/user/digitalrivet-transcriptie/out/W03346_Heidegger_Dissertatio_historico_theologica_de_gnosticorum_et_gnosimach_1697/translation_en.json
