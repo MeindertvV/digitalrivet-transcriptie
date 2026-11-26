@@ -1,0 +1,1485 @@
+{
+ "work": "W05547_Parker_De_politeia_ecclesiastica_libri_duo_1638",
+ "made": "2026-11-26T00:36:11",
+ "model": "claude-haiku-5-5",
+ "prompt": "655260ce46aa8978",
+ "candidates": 409,
+ "cost_usd": 0.03889,
+ "dropped": [
+  "order: {'ids': [217], 'level': 2, 'title': 'Caput XIII. Erratum Hierarchicorum secundum quod patres fictitios reformatis obtrudunt.'}",
+  "no scans for 3 wanted"
+ ],
+ "toc": [
+  {
+   "scan": 13,
+   "line": 1,
+   "lines": [
+    [
+     13,
+     1
+    ],
+    [
+     13,
+     2
+    ],
+    [
+     13,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Religioso lectori salutem."
+  },
+  {
+   "scan": 19,
+   "line": 1,
+   "lines": [
+    [
+     19,
+     1
+    ],
+    [
+     19,
+     2
+    ],
+    [
+     19,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "De politeia ecclesiastica. Liber primus."
+  },
+  {
+   "scan": 19,
+   "line": 5,
+   "lines": [
+    [
+     19,
+     5
+    ],
+    [
+     19,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "Caput I. De ejus definitione."
+  },
+  {
+   "scan": 21,
+   "line": 4,
+   "lines": [
+    [
+     21,
+     4
+    ],
+    [
+     21,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Caput II. Politeia ecclesiastica est pars regni Christi."
+  },
+  {
+   "scan": 24,
+   "line": 28,
+   "lines": [
+    [
+     24,
+     28
+    ]
+   ],
+   "level": 2,
+   "title": "Caput III. In quo sententia adversariorum ventilatur. Et primo eorum fucus detergitur."
+  },
+  {
+   "scan": 26,
+   "line": 32,
+   "lines": [
+    [
+     26,
+     32
+    ]
+   ],
+   "level": 2,
+   "title": "Caput IV. Adversariorum arcana denudantur."
+  },
+  {
+   "scan": 31,
+   "line": 1,
+   "lines": [
+    [
+     31,
+     1
+    ],
+    [
+     31,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput V. Adversariorum sophistice refellitur, et primo tria Bancrofti argumenta."
+  },
+  {
+   "scan": 34,
+   "line": 18,
+   "lines": [
+    [
+     34,
+     18
+    ]
+   ],
+   "level": 2,
+   "title": "Caput VI. Duo argumenta Bilsoni solvuntur."
+  },
+  {
+   "scan": 37,
+   "line": 1,
+   "lines": [
+    [
+     37,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Caput VII. Argumenta nostra proponuntur."
+  },
+  {
+   "scan": 41,
+   "line": 32,
+   "lines": [
+    [
+     41,
+     32
+    ],
+    [
+     41,
+     33
+    ]
+   ],
+   "level": 2,
+   "title": "Caput VIII. De disciplina ecclesiastica utilitate."
+  },
+  {
+   "scan": 46,
+   "line": 16,
+   "lines": [
+    [
+     46,
+     16
+    ],
+    [
+     46,
+     17
+    ]
+   ],
+   "level": 2,
+   "title": "Caput IX. De necessitate disciplinae Eccles. Thesis prima, eam non esse rem indifferentem."
+  },
+  {
+   "scan": 49,
+   "line": 17,
+   "lines": [
+    [
+     49,
+     17
+    ]
+   ],
+   "level": 2,
+   "title": "Caput X. Thesis secunda, quod disciplina praecipitur in verbo."
+  },
+  {
+   "scan": 50,
+   "line": 26,
+   "lines": [
+    [
+     50,
+     26
+    ],
+    [
+     50,
+     27
+    ],
+    [
+     50,
+     28
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XI. Argumenta adversariorum ab absurdo contra thesim secund. primum, quod tum disciplina esset de fide, et pars Evangelij."
+  },
+  {
+   "scan": 52,
+   "line": 36,
+   "lines": [
+    [
+     52,
+     36
+    ],
+    [
+     52,
+     37
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XII. Absurdum secundum, quod tum damnantur qui eam non recipiant."
+  },
+  {
+   "scan": 58,
+   "line": 1,
+   "lines": [
+    [
+     58,
+     1
+    ],
+    [
+     58,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XIV. Argumentum quartum, quod tum esset separandum ab ecclesijs eis quae excommunicationem non recipiunt."
+  },
+  {
+   "scan": 62,
+   "line": 8,
+   "lines": [
+    [
+     62,
+     8
+    ],
+    [
+     62,
+     9
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XV. Thesis tertia, quod disciplina est in substantialibus immutabilis."
+  },
+  {
+   "scan": 67,
+   "line": 14,
+   "lines": [
+    [
+     67,
+     14
+    ],
+    [
+     67,
+     15
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XVI. Thesis quarta, quod disciplina sit necessaria necessitate finis, quae triplex est."
+  },
+  {
+   "scan": 71,
+   "line": 13,
+   "lines": [
+    [
+     71,
+     13
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XVIII. De finis necessitate tertia, disciplinam necessariam esse ad ecclesiae salutem."
+  },
+  {
+   "scan": 73,
+   "line": 27,
+   "lines": [
+    [
+     73,
+     27
+    ],
+    [
+     73,
+     28
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XIX. Visus praedictorum, quod cujusque ecclesiae sit exactam reformationem instituere."
+  },
+  {
+   "scan": 76,
+   "line": 1,
+   "lines": [
+    [
+     76,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XX. Remora secunda, disciplinam non convenire his temporibus."
+  },
+  {
+   "scan": 77,
+   "line": 13,
+   "lines": [
+    [
+     77,
+     13
+    ],
+    [
+     77,
+     14
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXI. Remora tertia, disciplinam jam in Anglia perfectam esse, removetur: primo morbum ejus ostendendo."
+  },
+  {
+   "scan": 78,
+   "line": 23,
+   "lines": [
+    [
+     78,
+     23
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXII. Secundo, ad normam primitivae ecclesiae revocando."
+  },
+  {
+   "scan": 80,
+   "line": 16,
+   "lines": [
+    [
+     80,
+     16
+    ],
+    [
+     80,
+     17
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXIII. Adversarij Montanismi arguuntur: & disciplinam ad normam primitivae ecclesiae formandam esse probatur."
+  },
+  {
+   "scan": 82,
+   "line": 15,
+   "lines": [
+    [
+     82,
+     15
+    ],
+    [
+     82,
+     16
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXIV. Idem confirmatur testimoniis veteribus."
+  },
+  {
+   "scan": 85,
+   "line": 10,
+   "lines": [
+    [
+     85,
+     10
+    ],
+    [
+     85,
+     11
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXV. Tertius in Anglia defectus est quod fermentum Romanum omne non expurgaverit."
+  },
+  {
+   "scan": 89,
+   "line": 1,
+   "lines": [
+    [
+     89,
+     1
+    ],
+    [
+     89,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXVI. Quartus defectus quod Anglia vitiat disciplinam, eam ad politeiam civilem conformando."
+  },
+  {
+   "scan": 95,
+   "line": 27,
+   "lines": [
+    [
+     95,
+     27
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXVII. Defectus in Anglia quintus, quod non adhibuit adhuc malorum fonti remedium."
+  },
+  {
+   "scan": 99,
+   "line": 1,
+   "lines": [
+    [
+     99,
+     1
+    ],
+    [
+     99,
+     2
+    ],
+    [
+     99,
+     3
+    ],
+    [
+     99,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXVIII. Defectus in Anglia sextus & ultimus, quod Hierarchici disciplinam reformatarum ecclesiarum insectentur."
+  },
+  {
+   "scan": 107,
+   "line": 29,
+   "lines": [
+    [
+     107,
+     29
+    ],
+    [
+     107,
+     30
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXIX. Exceptio adversariorum secunda, quod Anglia non tenetur ecclesias reformatas imitari."
+  },
+  {
+   "scan": 111,
+   "line": 3,
+   "lines": [
+    [
+     111,
+     3
+    ],
+    [
+     111,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXX. Exceptio tertia, quod perverso modo disciplina introducta sit in ecclesias reformatas."
+  },
+  {
+   "scan": 112,
+   "line": 33,
+   "lines": [
+    [
+     112,
+     33
+    ],
+    [
+     112,
+     34
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXXI. Reformatio Genevensis a calumnijs vindicatur."
+  },
+  {
+   "scan": 115,
+   "line": 13,
+   "lines": [
+    [
+     115,
+     13
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXXII. Ecclesiae reliquae reformatae a calumnia vafritiei & κακοζηλίας vindicantur."
+  },
+  {
+   "scan": 118,
+   "line": 20,
+   "lines": [
+    [
+     118,
+     20
+    ],
+    [
+     118,
+     21
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXXIII. Quarta calumnia adversariorum, disciplinam esse malorum fontem, diluitur."
+  },
+  {
+   "scan": 128,
+   "line": 23,
+   "lines": [
+    [
+     128,
+     23
+    ],
+    [
+     128,
+     24
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXXIV. Ex praemissis infert, primo magistratuum esse disciplinam restituere."
+  },
+  {
+   "scan": 131,
+   "line": 9,
+   "lines": [
+    [
+     131,
+     9
+    ],
+    [
+     131,
+     10
+    ],
+    [
+     131,
+     11
+    ],
+    [
+     131,
+     12
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXXV. Porisma secundum, episcopis non sola possessione certandum esse, ne pertinaces, impatientes, superbos, perniciosos & persequutores se probent."
+  },
+  {
+   "scan": 135,
+   "line": 33,
+   "lines": [
+    [
+     135,
+     33
+    ],
+    [
+     135,
+     34
+    ],
+    [
+     135,
+     35
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXXVI. Porisma tertium; episcopis de possessione cedendum esse."
+  },
+  {
+   "scan": 139,
+   "line": 1,
+   "lines": [
+    [
+     139,
+     1
+    ],
+    [
+     139,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXXVII. Porisma quartum; episcopis non puritanis dissidium Anglicanum imputandum esse."
+  },
+  {
+   "scan": 147,
+   "line": 30,
+   "lines": [
+    [
+     147,
+     30
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXXVIII. Macula generales diluuntur."
+  },
+  {
+   "scan": 149,
+   "line": 25,
+   "lines": [
+    [
+     149,
+     25
+    ],
+    [
+     149,
+     26
+    ],
+    [
+     149,
+     27
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXXIX. Porisma quintum, fratribus non esse silendum in causa disciplinae, etsi episcopi ea conditione conniverent."
+  },
+  {
+   "scan": 158,
+   "line": 26,
+   "lines": [
+    [
+     158,
+     26
+    ],
+    [
+     158,
+     27
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XL. Rationes sponsentium silentium tolluntur."
+  },
+  {
+   "scan": 161,
+   "line": 24,
+   "lines": [
+    [
+     161,
+     24
+    ],
+    [
+     161,
+     25
+    ],
+    [
+     161,
+     26
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XLI. Porisma sextum, notitia disciplinae est populo necessaria."
+  },
+  {
+   "scan": 165,
+   "line": 23,
+   "lines": [
+    [
+     165,
+     23
+    ],
+    [
+     165,
+     24
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XLII. Porisma septimum."
+  },
+  {
+   "scan": 168,
+   "line": 1,
+   "lines": [
+    [
+     168,
+     1
+    ],
+    [
+     168,
+     2
+    ],
+    [
+     168,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "De politeia ecclesiastica. Liber secundus."
+  },
+  {
+   "scan": 168,
+   "line": 5,
+   "lines": [
+    [
+     168,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Caput I. De ejus judice."
+  },
+  {
+   "scan": 171,
+   "line": 1,
+   "lines": [
+    [
+     171,
+     1
+    ],
+    [
+     171,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput II. Thesis ix. quibus confirmatur scripturam solam esse judicem."
+  },
+  {
+   "scan": 181,
+   "line": 23,
+   "lines": [
+    [
+     181,
+     23
+    ]
+   ],
+   "level": 2,
+   "title": "Caput III. Adversariorum argumenta, et primo ab antiquitate."
+  },
+  {
+   "scan": 186,
+   "line": 16,
+   "lines": [
+    [
+     186,
+     16
+    ],
+    [
+     186,
+     17
+    ]
+   ],
+   "level": 2,
+   "title": "Caput IV. Argumentum secundum adversariorum a visibili perduratione."
+  },
+  {
+   "scan": 189,
+   "line": 7,
+   "lines": [
+    [
+     189,
+     7
+    ],
+    [
+     189,
+     8
+    ],
+    [
+     189,
+     9
+    ]
+   ],
+   "level": 2,
+   "title": "Caput V. Firmamentum tertium a perpetua successione episcoporum refutatur."
+  },
+  {
+   "scan": 195,
+   "line": 1,
+   "lines": [
+    [
+     195,
+     1
+    ],
+    [
+     195,
+     2
+    ],
+    [
+     195,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput VI. Firmamentum quartum ab unanimi consensu refutatur."
+  },
+  {
+   "scan": 197,
+   "line": 2,
+   "lines": [
+    [
+     197,
+     2
+    ],
+    [
+     197,
+     3
+    ],
+    [
+     197,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Caput VII. Argumentum quintum ab ecclesiae universae praxi solvitur."
+  },
+  {
+   "scan": 218,
+   "line": 6,
+   "lines": [
+    [
+     218,
+     6
+    ],
+    [
+     218,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "Caput VIII. Argumentum sextum a praxi in prima post apostolos periodo solvitur."
+  },
+  {
+   "scan": 224,
+   "line": 12,
+   "lines": [
+    [
+     224,
+     12
+    ],
+    [
+     224,
+     13
+    ]
+   ],
+   "level": 2,
+   "title": "Caput IX. Argumentum septimum de ecclesiastica praxi in secunda periodo solvitur."
+  },
+  {
+   "scan": 231,
+   "line": 1,
+   "lines": [
+    [
+     231,
+     1
+    ],
+    [
+     231,
+     2
+    ],
+    [
+     231,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput X. Argumentum VIII a praxi ecclesiastica in tertia periodo solvitur."
+  },
+  {
+   "scan": 244,
+   "line": 1,
+   "lines": [
+    [
+     244,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XI. Firmamentum Hierarchicorum VI. a patrum authoritate solvitur."
+  },
+  {
+   "scan": 266,
+   "line": 6,
+   "lines": [
+    [
+     266,
+     6
+    ],
+    [
+     266,
+     7
+    ],
+    [
+     266,
+     8
+    ],
+    [
+     266,
+     9
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XII. Quod Hierarchici patres cum pro sua causa non faciunt, reijciant, utcunque eos simpliciter reformatis obtrudant."
+  },
+  {
+   "scan": 296,
+   "line": 10,
+   "lines": [
+    [
+     296,
+     10
+    ],
+    [
+     296,
+     11
+    ],
+    [
+     296,
+     12
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XIV. Erratum tertium Hierarchicorum quod patres antiquos tam longe neotericis anteponant ex scripturis corripitur."
+  },
+  {
+   "scan": 301,
+   "line": 26,
+   "lines": [
+    [
+     301,
+     26
+    ],
+    [
+     301,
+     27
+    ],
+    [
+     301,
+     28
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XV. Hierarchicum erratum II. perstringitur a divina dispensationis modo."
+  },
+  {
+   "scan": 304,
+   "line": 1,
+   "lines": [
+    [
+     304,
+     1
+    ],
+    [
+     304,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XVI. Hierarchicum erratum III. efficitur a praesentis temporis conditione."
+  },
+  {
+   "scan": 307,
+   "line": 1,
+   "lines": [
+    [
+     307,
+     1
+    ],
+    [
+     307,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XVIII. Hierarchicorum erratum arguitur quadrifariam, id est a recentiorum adiumentis, diligentia, modis, et mediis patrum melior."
+  },
+  {
+   "scan": 313,
+   "line": 1,
+   "lines": [
+    [
+     313,
+     1
+    ],
+    [
+     313,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XIX. Argumentum nonum a patrum incompetentia."
+  },
+  {
+   "scan": 316,
+   "line": 14,
+   "lines": [
+    [
+     316,
+     14
+    ],
+    [
+     316,
+     15
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XX. Obiectio a patrum sanctitate desumpta, tollitur."
+  },
+  {
+   "scan": 321,
+   "line": 14,
+   "lines": [
+    [
+     321,
+     14
+    ],
+    [
+     321,
+     15
+    ],
+    [
+     321,
+     16
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXI. Argumentum septimum Hierarchicorum a conciliorum authoritate dissolvitur."
+  },
+  {
+   "scan": 326,
+   "line": 34,
+   "lines": [
+    [
+     326,
+     34
+    ],
+    [
+     326,
+     35
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXII. Octavum Hierarchicum fundamentum, nempe fides historiae ecclesiasticae tollitur."
+  },
+  {
+   "scan": 327,
+   "line": 36,
+   "lines": [
+    [
+     327,
+     36
+    ],
+    [
+     327,
+     37
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXIII. Argumentum nostrum primum a sola scripturae authentica authoritate."
+  },
+  {
+   "scan": 330,
+   "line": 1,
+   "lines": [
+    [
+     330,
+     1
+    ],
+    [
+     330,
+     2
+    ],
+    [
+     330,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXIV. Secundum nostrum argumentum a frivolis & incredibilibus historicorum additamentis."
+  },
+  {
+   "scan": 341,
+   "line": 9,
+   "lines": [
+    [
+     341,
+     9
+    ],
+    [
+     341,
+     10
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXV. Argumentum III. a fidei natura."
+  },
+  {
+   "scan": 342,
+   "line": 21,
+   "lines": [
+    [
+     342,
+     21
+    ],
+    [
+     342,
+     22
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXVI. Argumentum IV, a rerum priscarum obscuritate."
+  },
+  {
+   "scan": 343,
+   "line": 31,
+   "lines": [
+    [
+     343,
+     31
+    ],
+    [
+     343,
+     32
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXVII. Argumentum nostrum quintum, ab exilii principio narrationum historicarum."
+  },
+  {
+   "scan": 346,
+   "line": 1,
+   "lines": [
+    [
+     346,
+     1
+    ],
+    [
+     346,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXVII. Argumentum VI. ab incertitudine historiae ecclesiasticae."
+  },
+  {
+   "scan": 348,
+   "line": 1,
+   "lines": [
+    [
+     348,
+     1
+    ],
+    [
+     348,
+     2
+    ],
+    [
+     348,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXVIII. Argumentum VII. ab historicorum in his rebus inscitia."
+  },
+  {
+   "scan": 349,
+   "line": 17,
+   "lines": [
+    [
+     349,
+     17
+    ],
+    [
+     349,
+     18
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXIX. Argumentum VIII. ab incerto medio historicorum ecclesiasticorum."
+  },
+  {
+   "scan": 351,
+   "line": 1,
+   "lines": [
+    [
+     351,
+     1
+    ],
+    [
+     351,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXX. Argumentum nostrum nonum ab historicorum more loquendi."
+  },
+  {
+   "scan": 354,
+   "line": 1,
+   "lines": [
+    [
+     354,
+     1
+    ],
+    [
+     354,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXXI. Argumentum Hierarchicorum nonum a iure canonico."
+  },
+  {
+   "scan": 355,
+   "line": 1,
+   "lines": [
+    [
+     355,
+     1
+    ],
+    [
+     355,
+     2
+    ],
+    [
+     355,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXXII. Probatur sex argumentis indignum esse ecclesiam Christi lege Antichristi regi."
+  },
+  {
+   "scan": 364,
+   "line": 1,
+   "lines": [
+    [
+     364,
+     1
+    ],
+    [
+     364,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXXIII. Argumenta Hierarchica pro iure canonico refutantur."
+  },
+  {
+   "scan": 367,
+   "line": 1,
+   "lines": [
+    [
+     367,
+     1
+    ],
+    [
+     367,
+     2
+    ],
+    [
+     367,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXXIV. Argumentum X. Hierarchicum, a scholastica theologia."
+  },
+  {
+   "scan": 371,
+   "line": 36,
+   "lines": [
+    [
+     371,
+     36
+    ],
+    [
+     371,
+     37
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXXV. Argumentum XI. Hierarchicum a multitudine."
+  },
+  {
+   "scan": 374,
+   "line": 26,
+   "lines": [
+    [
+     374,
+     26
+    ],
+    [
+     374,
+     27
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXXVI. Argumentum Hierarchicum XII. ab unitate."
+  },
+  {
+   "scan": 385,
+   "line": 22,
+   "lines": [
+    [
+     385,
+     22
+    ],
+    [
+     385,
+     23
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXXVII. Obiectiones Hierarchicorum retorquentur."
+  },
+  {
+   "scan": 392,
+   "line": 8,
+   "lines": [
+    [
+     392,
+     8
+    ],
+    [
+     392,
+     9
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXXVIII. Argumentum Hierarchicum XIII. ab externa prosperitate."
+  },
+  {
+   "scan": 393,
+   "line": 4,
+   "lines": [
+    [
+     393,
+     4
+    ],
+    [
+     393,
+     5
+    ],
+    [
+     393,
+     6
+    ],
+    [
+     393,
+     7
+    ],
+    [
+     393,
+     8
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXXIX. De falsorum principiorum fundamento Hierarchicorum, formam disciplinae in verbo non contineri: ac primo de eorum vitiis in statu quaestionis explicando, quatuor diremtionibus, sc. excessibus, calumnijs & contradictionibus."
+  },
+  {
+   "scan": 398,
+   "line": 24,
+   "lines": [
+    [
+     398,
+     24
+    ],
+    [
+     398,
+     25
+    ],
+    [
+     398,
+     26
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XL. Contrarium nostrum fundamentum, certam scilicet disciplinae formam in verbo praescribi undecim argumentis probatur."
+  },
+  {
+   "scan": 413,
+   "line": 33,
+   "lines": [
+    [
+     413,
+     33
+    ],
+    [
+     413,
+     34
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XLI. Argumenta Hierarchica dissolvuntur."
+  },
+  {
+   "scan": 417,
+   "line": 1,
+   "lines": [
+    [
+     417,
+     1
+    ],
+    [
+     417,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XLII. Politeia ecclesiastica quoad substantiam immutabilis est, quod exemplis demonstratur."
+  },
+  {
+   "scan": 445,
+   "line": 20,
+   "lines": [
+    [
+     445,
+     20
+    ],
+    [
+     445,
+     21
+    ],
+    [
+     445,
+     22
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XLIII. Disciplinae immutabilitas a doctrina Apostolorum probatur: et primo refutantur duae Hierarchicorum exceptiones sibi invicem contrariae."
+  },
+  {
+   "scan": 456,
+   "line": 1,
+   "lines": [
+    [
+     456,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XLIV. Argumenta nostra pro disciplina immutabilitate a doctrina Apostolorum."
+  },
+  {
+   "scan": 483,
+   "line": 37,
+   "lines": [
+    [
+     483,
+     37
+    ],
+    [
+     483,
+     38
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XLV. Non licet addere essentialibus disciplinae."
+  }
+ ],
+ "book": "Robert Parker's Latin treatise De politeia ecclesiastica libri duo (1638) in two books (Liber primus, Liber secundus), preceded by an address to the reader; each book is divided into numbered chapters.",
+ "series": [
+  {
+   "label": "Liber",
+   "first": "I",
+   "last": "II",
+   "count": 2,
+   "level": 1,
+   "found": 3
+  },
+  {
+   "label": "Caput",
+   "first": "I",
+   "last": "XLII",
+   "count": 87,
+   "level": 2,
+   "found": 84
+  }
+ ],
+ "taste": 50,
+ "doubt": "",
+ "input": 64104,
+ "output": 52733
+}
