@@ -1,0 +1,675 @@
+<!doctype html><meta charset=utf-8><meta name=viewport content='width=device-width,initial-scale=1'><title>OCR per regel</title><style>
+:root{--bg:#fffdf8;--ink:#2a241c;--muted:#857a69;--rule:#e4dccc;--goed:#2f7d32;--redelijk:#a07000;
+--afwijkend:#b3261e;--geen:#7a5aa8;--mark:#f7d77a}
+@media (prefers-color-scheme:dark){:root{--bg:#1f1b15;--ink:#e9e1d2;--muted:#9a8f7d;--rule:#383126;
+--goed:#7cc47f;--redelijk:#e0b54a;--afwijkend:#f08a80;--geen:#b9a0e0;--mark:#6b5414}}
+body{font:15px/1.45 Georgia,serif;max-width:1300px;margin:2em auto;padding:0 16px;color:var(--ink);background:var(--bg)}
+h1{font-size:1.4em} h3{margin:1.6em 0 .3em;font-size:1.05em} a{color:inherit}
+table{border-collapse:collapse;width:100%} td,th{border-bottom:1px solid var(--rule);padding:3px 6px;vertical-align:top;text-align:left}
+th{font:600 12px system-ui;color:var(--muted)} td.n,td.s{font:12px system-ui;white-space:nowrap;color:var(--muted)}
+td.s{text-align:right;font-weight:600} td.o{font-family:ui-monospace,monospace;font-size:13px;color:var(--muted)}
+tr.goed td.s{color:var(--goed)} tr.redelijk td.s{color:var(--redelijk)} tr.afwijkend td.s{color:var(--afwijkend)}
+tr.geen td.s{color:var(--geen)} tr.alleen td.s{color:var(--afwijkend)} td.gap{color:var(--muted);font-style:italic}
+tr.afwijkend td:first-child,tr.geen td:first-child,tr.alleen td:first-child{box-shadow:inset 3px 0 var(--afwijkend)}
+mark{background:var(--mark);color:inherit;border-radius:2px} .sum span{margin-right:1.4em;font:13px system-ui}
+.bar{display:flex;height:8px;border-radius:4px;overflow:hidden;margin:.5em 0 1em;max-width:600px}
+.bar i{display:block} p.no{color:var(--muted);font-style:italic}
+label{font:13px system-ui;color:var(--muted)} body.weak tr.goed,body.weak tr.redelijk{display:none}
+body.weak section:not(:has(tr.afwijkend,tr.geen,tr.alleen)){display:none}
+</style>
+<h1>OCR per regel: W05238_Nicolaus_Disputatio_theologica_textualis_ex_Ioh_3_v_5_de_regeneration_1674</h1>
+<p>20 scans met tekst, 20 met bruikbare OCR, waarvan 0 waar de OCR de pagina slecht volgt. 570 regels vergeleken, gemiddelde overeenkomst 87%.</p>
+<div class=bar><i style='width:71.05263157894737%;background:var(--goed)' title='goed: 405'></i><i style='width:25.43859649122807%;background:var(--redelijk)' title='redelijk: 145'></i><i style='width:0.8771929824561403%;background:var(--afwijkend)' title='afwijkend: 5'></i><i style='width:2.6315789473684212%;background:var(--geen)' title='geen: 15'></i></div>
+<p class=sum><span style='color:var(--goed)'>goed: 405</span><span style='color:var(--redelijk)'>redelijk: 145</span><span style='color:var(--afwijkend)'>afwijkend: 5</span><span style='color:var(--geen)'>geen: 15</span><span>OCR-regels zonder transcriptie: 9</span></p>
+<label><input type=checkbox onchange="document.body.classList.toggle('weak',this.checked)"> alleen afwijkende regels</label>
+<section><h3><a href='file:///tmp/pdfs/W05238_Nicolaus_Disputatio_theologica_textualis_ex_Ioh_3_v_5_de_regeneration_1674.pdf#page=2' target=_blank>scan 2</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=redelijk><td class=n>1</td><td>DISPUTATIO <mark>THEOLOGICA</mark></td><td class=o>DISPUTATIO</td><td class=s>67%</td></tr>
+<tr class=geen><td class=n>2</td><td>TEXTUALIS</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=redelijk><td class=n>3</td><td>Ex <mark>JOH. 3.</mark> v. <mark>5.</mark></td><td class=o>Ex <mark>J O H. z.</mark> v. <mark>ji</mark></td><td class=s>80%</td></tr>
+<tr><td class=n>4</td><td>De</td><td class=o></td><td class=s></td></tr>
+<tr class=goed><td class=n>5</td><td>REGENERATIONE.</td><td class=o>REGENERATIONE</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>6</td><td><mark>Quam</mark></td><td class=o><mark>Quarru</mark></td><td class=s>60%</td></tr>
+<tr class=geen><td class=n>7</td><td>Σὺν Θεῷ.</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=redelijk><td class=n>8</td><td><mark>SUB PRÆSIDIO</mark></td><td class=o><mark>Pr &amp; sidio</mark></td><td class=s>76%</td></tr>
+<tr class=goed><td class=n>9</td><td><mark>Viri</mark> admodum Reverendi, Clarissimi, <mark>atq; Doctissimi,</mark></td><td class=o>admodum Reverendi <mark>,</mark> Clarißimi, <mark>at^ DoSlißimi,</mark></td><td class=s>89%</td></tr>
+<tr class=goed><td class=n>10</td><td><mark>D.</mark> JOHANNIS NICOLAI,</td><td class=o>JOHANNIS NICOLAI</td><td class=s>97%</td></tr>
+<tr class=afwijkend><td class=n>11</td><td><mark>IN</mark> GYMNASIO <mark>BERNENSI S.S. THEOL.</mark></td><td class=o>GYMNASIO</td><td class=s>48%</td></tr>
+<tr class=goed><td class=n>12</td><td><mark>Professoris</mark> ordinarij p. t. Rectoris Magnifici, Domini</td><td class=o>ordinarij p <mark>.</mark> t <mark>.</mark> Rectoris Magnifici, Domini</td><td class=s>86%</td></tr>
+<tr class=goed><td class=n>13</td><td><mark>Hospitis,</mark> Fautoris atq; Promotoris sui omni</td><td class=o>Fautoris atq <mark>;</mark> Promotoris fui omni</td><td class=s>88%</td></tr>
+<tr class=goed><td class=n>14</td><td><mark>observantiâ</mark> honorandi.</td><td class=o><mark>observantia</mark> honorandi <mark>.</mark></td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>15</td><td><mark>Publicè discutiendam</mark> proponit, &amp; pro <mark>ingenij</mark> modulo</td><td class=o><mark>difiutiendam</mark> proponit, &amp; pro <mark>ingentj</mark> modulo</td><td class=s>87%</td></tr>
+<tr class=goed><td class=n>16</td><td><mark>propugnare studebit</mark></td><td class=o><mark>propugnarefladebit</mark></td><td class=s>89%</td></tr>
+<tr class=redelijk><td class=n>17</td><td><mark>JOH. JACOBUS HALLERUS,</mark> HBernas,</td><td class=o><mark>HALLER &#x27;US ,</mark> HBernas,</td><td class=s>75%</td></tr>
+<tr class=goed><td class=n>18</td><td><mark>S.S.</mark> Theol. Stud. Auth. &amp; <mark>Resp.</mark></td><td class=o>Theol. Stud <mark>.</mark> Auth. &amp; <mark>Res]).</mark></td><td class=s>92%</td></tr>
+<tr class=goed><td class=n>19</td><td><mark>Ad</mark> diem 12. <mark>Martij.</mark></td><td class=o><mark>K_Ad</mark> diem <mark>iz</mark> \ <mark>CMartij.</mark></td><td class=s>86%</td></tr>
+<tr class=redelijk><td class=n>20</td><td><mark>Excudebat</mark> ILLUSTRISSIMÆ <mark>REIPUBLICÆ</mark></td><td class=o>ILLUSTRISSIMAE <mark>REIPUBLICjE</mark></td><td class=s>81%</td></tr>
+<tr class=redelijk><td class=n>21</td><td><mark>BERNENSIS</mark> TYPOGRAPHUS,</td><td class=o>Typographus</td><td class=s>71%</td></tr>
+<tr class=goed><td class=n>22</td><td>Georgius <mark>Sonnleitnerus.</mark></td><td class=o>Georgius <mark>Sonnleirnerus.</mark></td><td class=s>95%</td></tr>
+<tr class=redelijk><td class=n>23</td><td><mark>MDCLXXIV.</mark></td><td class=o><mark>LXXIV</mark></td><td class=s>77%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/pdfs/W05238_Nicolaus_Disputatio_theologica_textualis_ex_Ioh_3_v_5_de_regeneration_1674.pdf#page=3' target=_blank>scan 3</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=goed><td class=n>1</td><td><mark>Magnificentissimo,</mark> Prudentissimo &amp; Con-</td><td class=o><mark>nJXCagmficentißimo,</mark> Prudentißimo &amp; Con~</td><td class=s>89%</td></tr>
+<tr class=goed><td class=n>2</td><td><mark>sultissimo</mark> Viro, Domino</td><td class=o><mark>Jttltißimo</mark> Viro, Domino</td><td class=s>88%</td></tr>
+<tr class=redelijk><td class=n>3</td><td><mark>DN. SAMUELI FRISCHINGIO,</mark></td><td class=o><mark>! FRISCHING</mark></td><td class=s>62%</td></tr>
+<tr class=goed><td class=n>4</td><td><mark>Illustris-Reipubl.</mark> Bernensis Consuli gravis-</td><td class=o><mark>IlIustris-ReipubL</mark> Bernensis Consuli gravis¬</td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>5</td><td>simo, <mark>Patriæ</mark> Patri optimo, Mœcenati suo</td><td class=o>simo <mark>, Patrise</mark> Patri optimo <mark>.,</mark> Moecenati suo</td><td class=s>97%</td></tr>
+<tr class=redelijk><td class=n>6</td><td><mark>clementissimo,</mark> ac susceptori <mark>è</mark> Sacro Ba-</td><td class=o><mark>,</mark> ac susceptori <mark>e</mark> Sacro Ba¬</td><td class=s>72%</td></tr>
+<tr class=goed><td class=n>7</td><td>ptismatis fonte in æternum colendo.</td><td class=o>ptismatis fonte in aeternum colendo <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>8</td><td>Reverendis item, Clarissimis, Doctissimisque <mark>VIRIS,</mark></td><td class=o>Reverendis item <mark>,</mark> Clarissimis, <mark>,</mark> Doctissimisque <mark>Vi ris ,</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>9</td><td>D. D. Antistiti, Pastoribus, Diaconis, <mark>Professoribus</mark></td><td class=o>D <mark>.</mark> D, Antistiti <mark>,</mark> Pastoribus <mark>,</mark> Diaconis <mark>, Profeflbribus</mark></td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>10</td><td><mark>Gymnasiarchæ,</mark> vigilantissimis, acutissimis, solertis-</td><td class=o><mark>Gymnasiarche ,</mark> vigilantissimis <mark>,</mark> acutissimis, solertis-</td><td class=s>99%</td></tr>
+<tr class=goed><td class=n>11</td><td>simis, <mark>Ecclesiæ Scholæque</mark> Bernensis luminaribus,</td><td class=o>simis <mark>, Ecclesia? Scholeque</mark> Bernensis luminaribus <mark>,</mark></td><td class=s>98%</td></tr>
+<tr class=redelijk><td class=n>12</td><td>fautoribus, promotoribus <mark>&amp; post DEUM patribus</mark></td><td class=o>fautoribus <mark>,</mark> promotoribus</td><td class=s>71%</td></tr>
+<tr class=goed><td class=n>13</td><td>venerandis, <mark>suspiciendis.</mark></td><td class=o>venerandis <mark>, lufpiciendis ».</mark></td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>14</td><td><mark>Hasce studiorum suorum</mark> Theologicorum <mark>primitias</mark></td><td class=o><mark>Hasce.ßudiorum :fatorum</mark> Theologicorum <mark>primitut</mark></td><td class=s>88%</td></tr>
+<tr class=redelijk><td class=n>15</td><td><mark>sacras</mark> merito <mark>esse vult</mark></td><td class=o><mark>sacrat</mark> merito <mark>efje mit</mark></td><td class=s>77%</td></tr>
+<tr class=geen><td class=n>16</td><td>JOH. JACOBUS HALLERUS.</td><td class=o></td><td class=s>geen</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/pdfs/W05238_Nicolaus_Disputatio_theologica_textualis_ex_Ioh_3_v_5_de_regeneration_1674.pdf#page=4' target=_blank>scan 4</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=redelijk><td class=n>1</td><td>DISPUTATIO <mark>TEXTUALIS.</mark></td><td class=o>DISPUTATIO</td><td class=s>69%</td></tr>
+<tr class=redelijk><td class=n>2</td><td>Theologica <mark>ex Joh. 3. v. 5.</mark></td><td class=o>Theologica</td><td class=s>77%</td></tr>
+<tr class=goed><td class=n>3</td><td><mark>De</mark> REGENERATIONE.</td><td class=o>REGENERATIONE</td><td class=s>93%</td></tr>
+<tr class=alleen><td class=n></td><td class=gap>ontbreekt in de transcriptie?</td><td class=o><mark>u Jtivajaf littXSlfc</mark></td><td class=s>alleen OCR</td></tr>
+<tr class=geen><td class=n>4</td><td>Ἐὰν μὴ τις γεννηθῇ ἐξ ὕδατος καὶ πνεύματος, οὐ δύναται εἰσελθεῖν εἰς τὴν βασιλείαν τοῦ θεοῦ.</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=goed><td class=n>5</td><td>THESIS <mark>I.</mark></td><td class=o>Thesis</td><td class=s>92%</td></tr>
+<tr class=geen><td class=n>6</td><td>ΕΝΟΣ δὲ χρεία[?]: sic respondit olim Christus Jesus</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=redelijk><td class=n>7</td><td>Servator noster <mark>Marthæ, Luc.</mark> 10. v. 41. <mark>quæ suprà</mark></td><td class=o>Servator noster <mark>(JUartha</mark> , <mark>Lua io.</mark> v. 41. <mark>qua; supra</mark></td><td class=s>84%</td></tr>
+<tr class=goed><td class=n>8</td><td>modum sollicita erat, &amp; de multis satagebat, taci-</td><td class=o>modum sollicita erat, &amp; de multis satagebat <mark>,</mark> taci¬</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>9</td><td><mark>tè</mark> eam arguens <mark>τῆς πολυπραγμοσύνης[?], dùm</mark> ipsi non multa,</td><td class=o><mark>te</mark> eam arguens <mark>mg mAv&lt;zzpayngovvt\gy dum</mark> ipsi non multa*</td><td class=s>56%</td></tr>
+<tr class=goed><td class=n>10</td><td>sed unum ostendit, de quo debeat <mark>esse sollicita, nempè</mark> re-</td><td class=o>sed unum ostendit <mark>,</mark> de quo debeat <mark>essesollicitaniempe</mark> re¬</td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>11</td><td>gnum cœlorum, unum <mark>necessarium,</mark> quo qui <mark>fruitur, omnia</mark></td><td class=o>gnum coelorum <mark>,</mark> unum <mark>neceslarium ,</mark> quo qui <mark>fruitur,omnia</mark></td><td class=s>98%</td></tr>
+<tr class=redelijk><td class=n>12</td><td><mark>possidet, qui verò</mark> caret, omnibus caret: <mark>&amp; quemadmo-</mark></td><td class=o><mark>possidet,qui vero</mark> caret, omnibus caret</td><td class=s>84%</td></tr>
+<tr class=goed><td class=n>13</td><td>dum regnum <mark>cælorum</mark> unum illud est, ad quod assequen-</td><td class=o>dum regnum <mark>castorum</mark> unum illud est. ad quod assequen¬</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>14</td><td>dum tendere debemus, ita unum est medium <mark>eò</mark> nos du-</td><td class=o>dum tendere debemus <mark>,</mark> ita unum est medium <mark>eo</mark> nos du¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>15</td><td>cens, <mark>nempè</mark> Christus <mark>Jesus</mark> cum suis <mark>beneficiis, ex</mark> quorum</td><td class=o>cens, <mark>nemp &amp;</mark> Christus <mark>Jefiu</mark> cum suis <mark>beneficiis,ex</mark> quorum</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>16</td><td><mark>primis</mark> est Regeneratio, de cujus necessitate ad regnum Dei</td><td class=o><mark>prunis</mark> est Regeneratio, de cujus necessitate ad regnum Dei</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>17</td><td>consequendum Christus ipse Nicodemo <mark>concionatur, tùm</mark></td><td class=o>consequendum Christus ipse Nicodemo <mark>condonatur</mark></td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>18</td><td>in toto contextu, <mark>tùm</mark> in hoc ipso textu; cujus considerabi-</td><td class=o>in toto contextu, <mark>tum</mark> in hoc ipso textu <mark>;</mark> cujus considerabi¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>19</td><td>mus occasionem, <mark>scopum</mark> &amp; argumentum.</td><td class=o>mus occasionem <mark>-,siopum</mark> &amp; argumentum</td><td class=s>97%</td></tr>
+<tr><td class=n>20</td><td>II.</td><td class=o></td><td class=s></td></tr>
+<tr class=goed><td class=n>21</td><td>Occasio erat Nicodemus, qui Christum noctu conve-</td><td class=o>Occasio erat Nicodemus <mark>,</mark> qui Christum noctu conve <mark>-</mark></td><td class=s>100%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/pdfs/W05238_Nicolaus_Disputatio_theologica_textualis_ex_Ioh_3_v_5_de_regeneration_1674.pdf#page=5' target=_blank>scan 5</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=goed><td class=n>1</td><td><mark>niebat,</mark> &amp; ab illo doctrinam de regno coelorum seu salu-</td><td class=o><mark>ruebar ,</mark> &amp; ab illo doctrinam de regno coelorum seu salu¬</td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>2</td><td>te obtinenda <mark>tanquam Prophetâ</mark> audire desiderabat, etsi</td><td class=o>te &#x27;obtinenda <mark>tanquäm Propheta</mark> ,audire desiderabat, etsi</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>3</td><td>enim quæstionem non expresse proponat, eam tamen</td><td class=o>enim quaestionem non expresse proponat <mark>,</mark> eam tamen</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>4</td><td>fuisse illius mentem Christi responsio duplex ostendit;</td><td class=o>fuisse illius mentem Christi responsio duplex ostendit <mark>;</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>5</td><td>Nicodemus enim, cum <mark>responsionem</mark> primam <mark>à</mark> Christo</td><td class=o>Nicodemus enim, cum <mark>relponsionem</mark> primam <mark>ä</mark> Christo</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>6</td><td>datam male intelligeret ob metaphoricum <mark>sermonem,</mark></td><td class=o>datam male intelligeret ob metaphoricum <mark>lermonem ,</mark></td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>7</td><td>de modi potentia quæsivit, quam proinde Christus his</td><td class=o>de modi potentia quaesivit <mark>-</mark> quam proinde Christus his</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>8</td><td>verbis clarius exponit: Scopus itaq; est; Nicodemum eru-</td><td class=o>verbis clarius exponit <mark>:</mark> Scopus itaq; est <mark>;</mark> Nicodemum eru¬</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>9</td><td><mark>dire de necessitate</mark> &amp; modo Regenerationis <mark>nostræ.</mark></td><td class=o><mark>&#x27;e</mark> &amp; modo Regenerationis <mark>noflra .</mark></td><td class=s>73%</td></tr>
+<tr class=geen><td class=n>10</td><td>III.</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=redelijk><td class=n>11</td><td><mark>Argumentum</mark> ergo loci clarum est; partes <mark>duæ, ex-</mark></td><td class=o>ergo loci clarum <mark>dute , ex¬</mark> est <mark>;</mark> partes</td><td class=s>68%</td></tr>
+<tr class=goed><td class=n>12</td><td>trema &amp; eorundem <mark>necessaria</mark> connexio; Extremorum</td><td class=o>trema &amp; eorundem connexio <mark>; ti¬</mark> Extremorum</td><td class=s>85%</td></tr>
+<tr class=goed><td class=n>13</td><td><mark>unum</mark> continet <mark>medium, alterum vero finem.</mark></td><td class=o><mark>num</mark> continet <mark>medium,,alterum veroßnem.. -</mark></td><td class=s>96%</td></tr>
+<tr><td class=n>14</td><td>IV.</td><td class=o></td><td class=s></td></tr>
+<tr class=redelijk><td class=n>15</td><td><mark>Medium</mark> tum repetitur <mark>ex v. 3. γεννηθῇ [?], tum declara-</mark></td><td class=o><mark>&lt;JMedium</mark> tum repetitur</td><td class=s>63%</td></tr>
+<tr class=goed><td class=n>16</td><td>tur <mark>à</mark> causa efficiente, simul includente modum generatio-</td><td class=o>tur <mark>ä</mark> causa efficiente. simul includente modum generatio¬</td><td class=s>98%</td></tr>
+<tr class=redelijk><td class=n>17</td><td>nis <mark>illius, appositè ad interrogationem Nicodemi, ἐξ ὕδατος [?] καὶ πνεύματος.</mark></td><td class=o>nis <mark>illius,appositeadinterrogationem Nuodemi,</mark></td><td class=s>76%</td></tr>
+<tr><td class=n>18</td><td>V.</td><td class=o></td><td class=s></td></tr>
+<tr class=redelijk><td class=n>19</td><td>Generatio ergo hic <mark>nō</mark> intelligitur <mark>carnalis sive natura-</mark></td><td class=o>Generatio ergo hic <mark>no</mark> intelligitur <mark>Christus</mark></td><td class=s>81%</td></tr>
+<tr class=redelijk><td class=n>20</td><td>lis, quomodo <mark>Christus</mark> genitus dicitur <mark>ex Maria</mark> Virgine,</td><td class=o>lis, quomodo <mark>ex Maria</mark> genitus dicitur Virgine <mark>,</mark></td><td class=s>79%</td></tr>
+<tr class=redelijk><td class=n>21</td><td><mark>Matth. 1. v. 16. Luc. 1. v. 35. &amp;</mark> qualem <mark>Nicodemus</mark> sibi imagi-</td><td class=o><mark>&amp;c</mark> qualem <mark>Nicodemm</mark> sibi imagi¬</td><td class=s>77%</td></tr>
+<tr class=goed><td class=n>22</td><td>natus esse videtur; <mark>sed spiritualis, de</mark> qua, 1. Pet. 2. v. 2. <mark>quæ</mark></td><td class=o>natus esse videtur <mark>; sedspiritualis ,</mark> qua, /. Pet. 2. v. 2. <mark>quL</mark></td><td class=s>94%</td></tr>
+<tr class=goed><td class=n>23</td><td>alias vocatur <mark>circumcisio</mark> cordis non manu facta, creatio, re-</td><td class=o>alias vocatur <mark>circumciso</mark> cordis non manu facta, creatio <mark>,</mark> re¬</td><td class=s>99%</td></tr>
+<tr class=redelijk><td class=n>24</td><td>novatio Spiritus S. <mark>γέννησις ἄνωθεν,</mark> regeneratio.</td><td class=o>novatio Spiritus S. <mark>yewneng dvubw,</mark> regeneratio <mark>..</mark></td><td class=s>68%</td></tr>
+<tr><td class=n>25</td><td>VI.</td><td class=o></td><td class=s></td></tr>
+<tr class=goed><td class=n>26</td><td>Hinc hoc modo geniti dicuntur regeniti non <mark>ex semi-</mark></td><td class=o>Hinc &#x27;hoc modo geniti dicuntur regeniti non <mark>exfemi¬</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>27</td><td>ne corruptibili, <mark>sed incorruptibili,</mark> id <mark>est,</mark> per <mark>sermonem</mark> Dei</td><td class=o>ne corruptibili <mark>, fidincorruptibili ,</mark> id <mark>esi ,</mark> per <mark>firmonem</mark> Dei</td><td class=s>94%</td></tr>
+<tr class=redelijk><td class=n>28</td><td>vivi &amp; manentis in <mark>æternum,</mark> 1. <mark>Pet.</mark> 1. v. <mark>23. geniti in Christo Ie-</mark></td><td class=o>vivi &amp; manentis in <mark>aternum</mark> , <mark>1. Pei .</mark> 1. v. <mark>23.genitsin</mark></td><td class=s>82%</td></tr>
+<tr class=goed><td class=n>29</td><td><mark>su</mark> per <mark>Evangelium,</mark> 1. Joh. 5. v. 1. geniti <mark>vel nati</mark> ex Deo. Joh. 1. <mark>v. 13.</mark></td><td class=o><mark>fit</mark> per <mark>Evangeliu , i</mark> . Joh . <mark>S-</mark> v. 1. geniti <mark>velnati</mark> ex Deo. joh <mark>.i</mark> . <mark>v-i3-</mark></td><td class=s>91%</td></tr>
+<tr class=goed><td class=n>30</td><td>VII.</td><td class=o>VII <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>31</td><td>Efficiens Regenerationis est spiritus, qui hic per hendya-</td><td class=o>Efficiens Regenerationis est spiritus &gt;qui hic per hendya <mark>-</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>32</td><td>dyn vocatur aqua <mark>&amp; spiritus,</mark> nec enim diversas Regene-</td><td class=o>dyn vocatur aqua <mark>&amp;Jfiiritus -</mark> nec enim diversas Regene-</td><td class=s>97%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/pdfs/W05238_Nicolaus_Disputatio_theologica_textualis_ex_Ioh_3_v_5_de_regeneration_1674.pdf#page=6' target=_blank>scan 6</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=redelijk><td class=n>1</td><td><mark>rationis causas hic</mark> significari <mark>autumamus; principalem nem-</mark></td><td class=o><mark>tatimis causashic</mark> significari <mark>autumärnüsj</mark></td><td class=s>72%</td></tr>
+<tr class=redelijk><td class=n>2</td><td><mark>pe τὸ πνεῦμα, &amp;</mark> instrumentalem <mark>τὸ ὕδωρ</mark> aquam, quam pro-</td><td class=o><mark>&amp;c</mark> instrumentalem <mark>fo vJhp</mark> aquam, quam pro¬</td><td class=s>71%</td></tr>
+<tr class=redelijk><td class=n>3</td><td><mark>prie dictam &amp; κατ&#x27; ἐξοχὴν</mark> illam <mark>baptismi</mark> quidam intelli-</td><td class=o><mark>t %ofiv</mark> illam <mark>baptisim</mark> quidam intelli <mark>-</mark></td><td class=s>67%</td></tr>
+<tr class=goed><td class=n>4</td><td><mark>gi volunt. 1.</mark> quia interpretatio per <mark>hendyadyn</mark> analoga est</td><td class=o><mark>i.</mark> quia interpretatio per <mark>hendqadyn</mark> analoga est</td><td class=s>90%</td></tr>
+<tr class=goed><td class=n>5</td><td>tum contextui, qui agit de conditione sive medio absolute</td><td class=o>tum contextui <mark>,</mark> qui agit de conditione sive medio absolute</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>6</td><td>necessario <mark>consequendæ</mark> salutis, qualis non est baptismus;</td><td class=o>necessario <mark>consequenda ;</mark> salutis, qualis non est baptismus <mark>;</mark></td><td class=s>99%</td></tr>
+<tr class=redelijk><td class=n>7</td><td><mark>&amp; verò</mark> v. <mark>6.</mark> 8. solius <mark>Spiritus meminit;</mark> tum S. <mark>Scripturæ, quæ</mark></td><td class=o>v. <mark>o.</mark> 8. solius <mark>Spiritusmeminit ;</mark> tum S. <mark>Scriptura,opxie</mark></td><td class=s>83%</td></tr>
+<tr class=redelijk><td class=n>8</td><td>alibi etiam aquam <mark>&amp; spiritum pro eodem sumit. Esai. 44.</mark></td><td class=o>alibi etiam aquam <mark>Scstiritum proeodem</mark></td><td class=s>80%</td></tr>
+<tr class=geen><td class=n>9</td><td>v. 3. Ezech. 36. v. 25. 26. 27.</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=goed><td class=n>10</td><td>VIII.</td><td class=o>VIII <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>11</td><td>2. <mark>Aqua hæc certò Regenerat, &amp;</mark> aptum hominem</td><td class=o><mark>t^ iqua hax certd Regenerat</mark> , <mark>&amp;c</mark> aptum hominem</td><td class=s>88%</td></tr>
+<tr class=goed><td class=n>12</td><td>reddit ad subeundum regnum cœlorum, ut patet ex textu;</td><td class=o>reddit ad subeundum regnum coelorum <mark>,</mark> ut patet ex textu <mark>;</mark></td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>13</td><td>non item aqua <mark>baptismi,</mark> ut patet exemplo <mark>Simonis Magi,</mark></td><td class=o>non item aqua <mark>baptifini ,</mark> ut patet exemplo</td><td class=s>82%</td></tr>
+<tr class=geen><td class=n>14</td><td>Act. 8. v. 13.</td><td class=o></td><td class=s>geen</td></tr>
+<tr><td class=n>15</td><td>IX.</td><td class=o></td><td class=s></td></tr>
+<tr class=goed><td class=n>16</td><td>Genitum igitur <mark>esse</mark> ex aqua &amp; Spiritu est <mark>à</mark> Spiritu S.</td><td class=o>Genitum igitur <mark>este</mark> ex aqua &amp; Spiritu est <mark>a</mark> Spiritu S:</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>17</td><td>vim <mark>aquæ</mark> exerente purgatum, mundatum &amp; renovatum</td><td class=o>vim <mark>aqua</mark> exerente purgatum <mark>,</mark> mundatum &amp; renovatum</td><td class=s>99%</td></tr>
+<tr class=goed><td class=n>18</td><td><mark>esse: præstat</mark> enim in Regeneratione <mark>animæ</mark> Spiritus San-</td><td class=o><mark>este : prtestat</mark> enim in Regeneratione <mark>anima &#x27;</mark> Spiritus San^</td><td class=s>95%</td></tr>
+<tr class=redelijk><td class=n>19</td><td><mark>ctus,</mark> quod aqua corpori in lotione: <mark>non ex operibus justis,</mark></td><td class=o><mark>Eius,</mark> quod aqua corpori in lotione</td><td class=s>69%</td></tr>
+<tr class=goed><td class=n>20</td><td><mark>quæ</mark> fecerimus <mark>nos; sed</mark> ex <mark>sua misericordia servavit nos per</mark> la-</td><td class=o><mark>qua</mark> fecerimus <mark>nos,fied</mark> ex <mark>fita mijericordiaservavit nosper</mark> la <mark>*</mark></td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>21</td><td><mark>vacrum</mark> Regenerationis, Renovationis <mark>Spiritus Sancti,</mark> Tit. 3. <mark>v.</mark></td><td class=o><mark>vaerum</mark> Regenerationis <mark>,</mark> Renovationis <mark>SpiritusSancti,</mark> Tit. 3. <mark>y.</mark></td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>22</td><td><mark>5.</mark> Similis loquendi forma occurrit, Matth. <mark>3.</mark> v. <mark>10, 11. is bapti-</mark></td><td class=o>Similis loquendi forma occurrit <mark>,</mark> Matth .3,v. <mark>io,uisbapti</mark></td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>23</td><td><mark>zabit</mark> vos Spiritu Sancto &amp; igne.</td><td class=o><mark>Habit</mark> vos Spiritu Sancto &amp; igne.-</td><td class=s>96%</td></tr>
+<tr><td class=n>24</td><td>X.</td><td class=o></td><td class=s></td></tr>
+<tr class=afwijkend><td class=n>25</td><td>Finis est <mark>possessio</mark> regni cœlorum, <mark>εἰσελθεῖν εἰς τὴν βασιλείαν τοῦ Θεοῦ, &amp; ἰδεῖν τὴν</mark></td><td class=o>Finis est <mark>posteslio</mark> regni coelorum <mark>, imXZmiv s/? r ßci-</mark></td><td class=s>49%</td></tr>
+<tr class=redelijk><td class=n>26</td><td><mark>βασιλείαν τοῦ Θεοῦ, v.</mark> 3. <mark>nihil aliud est, quàm</mark> habere vitam <mark>æternam,</mark> v. 15. 16. <mark>possidere hæredi-</mark></td><td class=o><mark>est</mark> , <mark>quam</mark> habere vitam <mark>aternam ,</mark> v. <mark>if</mark> . 16. <mark>pofiidere haredi-</mark></td><td class=s>69%</td></tr>
+<tr class=goed><td class=n>27</td><td><mark>tario jure</mark> regnum paratum <mark>à jacto mundi</mark> fundamento, Matth.</td><td class=o><mark>t&#x27;ariojure</mark> regnum paratum <mark>ajacto mnndi</mark> fundamento, Matth.</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>28</td><td><mark>25.</mark> v. 34. quamvis sint qui existiment Christum plus dice-</td><td class=o><mark>2f.</mark> v. 34. quamvis sint qui existiment Christum plus dice¬</td><td class=s>99%</td></tr>
+<tr class=goed><td class=n>29</td><td>re in textu, <mark>quàm</mark> in v. 3. quum plus sit introire regnum</td><td class=o>re in textu <mark>, quam</mark> in v. 3. quum plus sit introire regnum</td><td class=s>98%</td></tr>
+<tr class=redelijk><td class=n>30</td><td>cœlorum, <mark>quàm</mark> illud <mark>tantùm videre; cùm ergò</mark> Christus</td><td class=o>coelorum <mark>, quam</mark> illud <mark>tantum vzWrre ; cum ergo</mark> Christus</td><td class=s>84%</td></tr>
+<tr class=goed><td class=n>31</td><td>dicat, non <mark>potest</mark> videre regnum Dei, notari Regenerationis</td><td class=o>dicat <mark>,</mark> non <mark>poteit-</mark> videre regnum Dei <mark>,</mark> notari Regenerationis</td><td class=s>98%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/pdfs/W05238_Nicolaus_Disputatio_theologica_textualis_ex_Ioh_3_v_5_de_regeneration_1674.pdf#page=7' target=_blank>scan 7</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=redelijk><td class=n>1</td><td><mark>necessitatem tantam, ut</mark> sine illa <mark>necquidem possimus videre</mark></td><td class=o><mark>&#x27;M.tantanfr , uc</mark> fine illa <mark>necquidcmpossimus</mark></td><td class=s>71%</td></tr>
+<tr class=redelijk><td class=n>2</td><td>regnum coelorum, nedum possidere. <mark>Quando autem in</mark></td><td class=o>regnum coelorum, nedum poßidere.</td><td class=s>81%</td></tr>
+<tr class=goed><td class=n>3</td><td>textu dicat non posse introire, notari Regenerationis maxi-</td><td class=o>textu dicat non posse introire <mark>,</mark> notari Regenerationis maxi¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>4</td><td>mum privilegium, <mark>quòd regeniti</mark> non <mark>tantùm</mark> regnum Dei</td><td class=o>mum privilegium, <mark>quod regenid</mark> non <mark>tantum</mark> regnum Dei</td><td class=s>92%</td></tr>
+<tr class=goed><td class=n>5</td><td>videant, sed etiam possideant.</td><td class=o>.videant, sed etiam poffideant.</td><td class=s>100%</td></tr>
+<tr><td class=n>6</td><td>XI.</td><td class=o></td><td class=s></td></tr>
+<tr class=goed><td class=n>7</td><td>Per regnum <mark>Dei hic</mark> non <mark>intelligitur illud potentia,</mark> de</td><td class=o>Per regnum <mark>Deihlc</mark> non <mark>inteSiigitur illudpotentia,</mark> de</td><td class=s>93%</td></tr>
+<tr class=redelijk><td class=n>8</td><td><mark>quo 1. Chron. 29. v.11[?].</mark> Tuum Jehovah <mark>est</mark> regnum, quod etiam</td><td class=o>Tuum Jehovah <mark>efi</mark> regnum ,quod etiam</td><td class=s>84%</td></tr>
+<tr class=redelijk><td class=n>9</td><td><mark>universale &amp; οἰκουμενικὸν, itemque essentiale</mark> dicitur; nec regnum</td><td class=o><mark>a itemestentiale</mark> dicitur <mark>;</mark> nec regnum</td><td class=s>68%</td></tr>
+<tr class=goed><td class=n>10</td><td><mark>gratiae,</mark> licet enim Regeneratio sit introitus in hoc regnum,</td><td class=o><mark>gratia ,</mark> licet enim Regeneratio fit introitus in hoc regnum <mark>,</mark></td><td class=s>99%</td></tr>
+<tr class=goed><td class=n>11</td><td>de eo tamen hic non <mark>quaeritur,</mark> ut patet ex circumstantiis,</td><td class=o>de eo tamen hic non <mark>queritur ,</mark> ut patet ex circumstantiis,</td><td class=s>99%</td></tr>
+<tr class=goed><td class=n>12</td><td>verum regnum <mark>Gloriae,</mark> quod etiam regnum <mark>coelorum</mark> hinc</td><td class=o>verum regnum <mark>Gloria ,</mark> quod etiam regnum <mark>ccelorum</mark> hinc</td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>13</td><td>inde <mark>in Sacra</mark> Scriptura dicitur.</td><td class=o>&#x27;inde <mark>inSacra</mark> Scriptura dicitur.</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>14</td><td>XII.</td><td class=o>XII <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>15</td><td>Connexio extremorum notatur particulis <mark>ἐὰν μή, ἢ</mark></td><td class=o>Connexio extremorum notatur particulis <mark>^</mark></td><td class=s>92%</td></tr>
+<tr class=goed><td class=n>16</td><td><mark>δύνα-ται,</mark> quibus <mark>necessarius</mark> inter eadem nexus significatur; ut</td><td class=o><mark>reu,</mark> quibus <mark>neceslarius</mark> inter eade.m nexus significatur <mark>;</mark> ut</td><td class=s>88%</td></tr>
+<tr class=goed><td class=n>17</td><td>nulli detur introitus <mark>in regnum coelorum, nisi</mark> genito ex</td><td class=o>nulli detur introitus <mark>inTegnum cadorum , ni fi</mark> genito ex</td><td class=s>92%</td></tr>
+<tr class=redelijk><td class=n>18</td><td><mark>aqua &amp; Spiritu: ut</mark> sic Regeneratio ad consequendum <mark>regnum</mark></td><td class=o><mark>-, uc</mark> fic Regeneratio ad consequendum</td><td class=s>73%</td></tr>
+<tr class=goed><td class=n>19</td><td>Dei se habeat <mark>ut</mark> necessarium medium <mark>&amp; requisitum ad</mark> fi-</td><td class=o>Dei .se habeat <mark>uc</mark> necessarium medium <mark>&amp;s. requisitumad</mark> fi¬</td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>20</td><td>nem <mark>hominis.</mark></td><td class=o>nem <mark>horninis.</mark></td><td class=s>86%</td></tr>
+<tr class=redelijk><td class=n>21</td><td><mark>XIII.</mark></td><td class=o><mark>XII l</mark></td><td class=s>75%</td></tr>
+<tr class=redelijk><td class=n>22</td><td><mark>Doctrina, quae</mark> ex hoc textu efflorescit, <mark>haec</mark> est, <mark>quòd</mark></td><td class=o><mark>’</mark> ex hoc textu efflorescit <mark>, heee</mark> est, <mark>quod</mark></td><td class=s>76%</td></tr>
+<tr class=goed><td class=n>23</td><td><mark>unicuiq;</mark> in Adamo mortuo <mark>Regeneratio ex</mark> aqua <mark>&amp;</mark> Spiritu <mark>tàm</mark></td><td class=o><mark>imieuiq</mark> in Adamo mortuo <mark>Regeneratioex</mark> aqua <mark>sp</mark> Spiritu <mark>tam.</mark></td><td class=s>88%</td></tr>
+<tr class=goed><td class=n>24</td><td>sit <mark>necessaria, ut</mark> sine ea regnum Dei introire nequeat: quam ut</td><td class=o>fit <mark>necesaria,ut</mark> fine ea regnum Dei introire nequeat: quam ut</td><td class=s>99%</td></tr>
+<tr class=goed><td class=n>25</td><td><mark>eò</mark> felicius elaboremus <mark>consideraraimus[?]</mark> 1. Ipsam Regene-</td><td class=o><mark>eo</mark> felicius elaboremus <mark>considerabimus i</mark> . ipsam Regene¬</td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>26</td><td>rationis naturam. 2. Ejus necessitatem.</td><td class=o>rationis naturam, <mark>z</mark> . Eius neceßitatem.</td><td class=s>98%</td></tr>
+<tr class=geen><td class=n>27</td><td>XIV.</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=goed><td class=n>28</td><td>Natura Regenerationis ex descriptione ejus innotescit,</td><td class=o><mark>.</mark> Natura &#x27;Regenerationis ex descriptione ejus innotescit,</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>29</td><td><mark>quae</mark> talis est: Regeneratio <mark>est</mark> beneficium Dei ex multa <mark>Patris</mark></td><td class=o><mark>qut£</mark> talis est <mark>:</mark> Regeneratio <mark>efi</mark> beneficium Dei ex multa <mark>Patrii,</mark></td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>30</td><td>misericordia in <mark>Christo</mark> nobis collatum, quo homini in <mark>Adamo</mark></td><td class=o>misericordia in <mark>Chrißo</mark> nobis collatum, quo homini in</td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>31</td><td><mark>spiritualiter</mark> mortuo, attamen electo <mark>&amp;</mark> per <mark>Christum</mark> redempto <mark>vita</mark></td><td class=o><mark>(pirituahter</mark> mortuo, attamen electo <mark>$</mark> per <mark>jChristum</mark> redempto</td><td class=s>90%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/pdfs/W05238_Nicolaus_Disputatio_theologica_textualis_ex_Ioh_3_v_5_de_regeneration_1674.pdf#page=8' target=_blank>scan 8</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=goed><td class=n>1</td><td><mark>vita spiritualis</mark> de novo inditur, ad <mark>gloriosæ</mark> Dei <mark>misericordiæ</mark></td><td class=o><mark>visaspiritualis</mark> de novo inditur <mark>,</mark> ad <mark>gloriosa</mark> Dei <mark>mißricordia</mark></td><td class=s>94%</td></tr>
+<tr class=goed><td class=n>2</td><td><mark>demonstrationem &amp; hominis salutem.</mark></td><td class=o><mark>demonßrationemes hominissalutem .</mark></td><td class=s>94%</td></tr>
+<tr><td class=n>3</td><td>XV.</td><td class=o></td><td class=s></td></tr>
+<tr class=redelijk><td class=n>4</td><td><mark>Regenerationem Paulus</mark> nominat <mark>παλιγγενεσίαν [?], Tit.3.v.5.</mark></td><td class=o><mark>RegenerationemPaulus</mark> nominat</td><td class=s>76%</td></tr>
+<tr class=goed><td class=n>5</td><td><mark>Præpositio insepatabilis</mark> re videtur notare aliquam itera-</td><td class=o><mark>Prtepositio inseparabilis</mark> re videtur notare aliquam itera¬</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>6</td><td>tam generationem, ita ut Regeneratio vi <mark>Etymologiæ</mark> sit quasi</td><td class=o>tam generationem, ita ut Regeneratio vi <mark>Etymologia</mark> fit quasi</td><td class=s>99%</td></tr>
+<tr class=redelijk><td class=n>7</td><td>altera <mark>vel secunda</mark> generatio; <mark>quæ ita dicitur, non quòd ali-</mark></td><td class=o>altera <mark>veifecunda</mark> generatio</td><td class=s>65%</td></tr>
+<tr class=goed><td class=n>8</td><td>qua similis generatio præcesserit, <mark>quæ</mark> ceu imperfecta se-</td><td class=o>qua similis generatio praecesserit, <mark>qua?</mark> ceu imperfecta fe¬</td><td class=s>99%</td></tr>
+<tr class=goed><td class=n>9</td><td><mark>cundâ aliquâ generatione perficienda</mark> sit, <mark>sed respectu</mark> gene-</td><td class=o><mark>cunda aliqua generationeperficienda</mark> sit- <mark>sedrespectu</mark> gene¬</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>10</td><td>rationis <mark>carnalis sive</mark> naturalis; <mark>à</mark> qua quidem tota specie dif-</td><td class=o>rationis <mark>carnalissive</mark> naturalis) <mark>a</mark> qua quidem tota specie dif¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>11</td><td><mark>fert,</mark> interim tamen propter analogiam quæ inter utram-</td><td class=o><mark>fero</mark> interim tamen propter analogiam quae inter utram¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>12</td><td>que est, ita dicitur..</td><td class=o>que est, ita dicitur <mark>.•</mark></td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>13</td><td><mark>XVI.</mark></td><td class=o><mark>XVT .</mark></td><td class=s>67%</td></tr>
+<tr class=goed><td class=n>14</td><td>Analogia illa in multis ostendi potest; in <mark>termino à</mark></td><td class=o>Analogia illa in multis ostendi potest <mark>;</mark> in <mark>termina d ’</mark></td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>15</td><td>quo: Generatio <mark>naturalis est à</mark> non <mark>esse</mark> ad esse; ita &amp; Regene-</td><td class=o>quo: Generatio <mark>naturalisx .^t a</mark> non <mark>este</mark> ad esse; ita &amp; Regene¬</td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>16</td><td>ra-tio: in causa <mark>efficiente; generatio</mark> naturalis perficitur <mark>à</mark> Pa-</td><td class=o>ratio: in causa <mark>essetente^generatio</mark> naturalis perficitur <mark>a</mark> Pa¬</td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>17</td><td>tre &amp; matre, sic Regeneratio est <mark>à</mark> Patre <mark>1.Pet.1,v.3.</mark> &amp; <mark>à</mark> vel in</td><td class=o>tre &amp; matre <mark>,</mark> sic Regeneratio est <mark>a</mark> Patre <mark>/ ./V/./u\j .</mark> &amp; <mark>a</mark> vel in</td><td class=s>88%</td></tr>
+<tr class=goed><td class=n>18</td><td>Matre Ecclesia: <mark>Illa est è</mark> semine carnali; Joh. 1: 13. <mark>hæc</mark> est</td><td class=o>Matre Ecclesia <mark>: llla efi e</mark> semine carnali <mark>;</mark> Joh . <mark>i:</mark> 13. <mark>hac</mark> est</td><td class=s>91%</td></tr>
+<tr class=alleen><td class=n></td><td class=gap>ontbreekt in de transcriptie?</td><td class=o><mark>e semine apSuprcoPeti</mark></td><td class=s>alleen OCR</td></tr>
+<tr class=redelijk><td class=n>19</td><td><mark>è semine ἀφθάρτῳ [?] 1, Pet. 1: 23.</mark> Illius terminus ad quem est</td><td class=o>Illius -terminus ad quem est</td><td class=s>73%</td></tr>
+<tr class=goed><td class=n>20</td><td>homo naturalis; hujus <mark>verò</mark> novus suis constans membris:</td><td class=o>homo naturalis <mark>-,</mark> hujus <mark>vero</mark> novus suis constans membris <mark>:</mark></td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>21</td><td>Illa est ad vitam naturalem; <mark>hæc ad spiritualem: Illâ</mark> con-</td><td class=o>Illa est ad vitam naturalem <mark>; lute adJpiritualem : Illa</mark> con¬</td><td class=s>89%</td></tr>
+<tr class=goed><td class=n>22</td><td>servatur species humana; <mark>hâc verò</mark> Ecclesia: Illa fit <mark>semel</mark></td><td class=o>servatur species humana <mark>; hae verb</mark> Ecclesia: Illa fit <mark>semefi</mark></td><td class=s>91%</td></tr>
+<tr class=goed><td class=n>23</td><td><mark>tantùm;</mark> ita <mark>&amp; hæc.</mark></td><td class=o><mark>tantum ;</mark> ita <mark>&amp;t hac&lt;.</mark></td><td class=s>87%</td></tr>
+<tr class=geen><td class=n>24</td><td>XVII.</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=goed><td class=n>25</td><td><mark>Regenerationis vox vulgò</mark> sumitur <mark>duplici modo vel</mark></td><td class=o><mark>Regenerationisvox Vulgo</mark> sumitur <mark>duplicimodo</mark></td><td class=s>94%</td></tr>
+<tr class=goed><td class=n>26</td><td>pro illo <mark>instanti,</mark> quo per incorruptibile semen verbi divini</td><td class=o>pro illo <mark>infanti ,</mark> quo per incorruptibile femen verbi divini <mark>’</mark></td><td class=s>99%</td></tr>
+<tr class=goed><td class=n>27</td><td>renascimur ex Dei spiritu, &amp; simus nova Creatura; vel pro</td><td class=o>renascimur ex Dei spiritu <mark>,</mark> &amp; fimus nova Creatura; vel pro</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>28</td><td><mark>successivo</mark> illo, quo per Spiritum Regenerationis, <mark>quicquid</mark> est</td><td class=o><mark>fitecestvo</mark> illo, quo per Spiritum Regenerationis <mark>, qüicquid</mark> est</td><td class=s>91%</td></tr>
+<tr class=redelijk><td class=n>29</td><td>carnis in nobis paulatim atteritur: <mark>ut deposito quoad pristi-</mark></td><td class=o>carnis in nobis paulatim atteritur</td><td class=s>74%</td></tr>
+<tr class=goed><td class=n>30</td><td>nam conversationem attinet veteri illo <mark>homine,</mark> qui <mark>de seductri-</mark></td><td class=o>nam conversationem attinet veteri illo <mark>homsne ,</mark> qui <mark>desedu£lri -</mark></td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>31</td><td>cibus cupiditatibus <mark>sese</mark> corrumpit, renovemur <mark>spiritu mentis</mark></td><td class=o>cibus cupiditatibus <mark>fieße</mark> corrumpit <mark>,</mark> renovemur <mark>sititu</mark></td><td class=s>89%</td></tr>
+<tr class=goed><td class=n>32</td><td><mark>nostræ, &amp;</mark> induamus novum illum <mark>hominem qui secundùm</mark> Deum</td><td class=o><mark>noftr&amp;&gt;&amp;</mark> induamus novum illum <mark>hominemquisecundum</mark> Deum <mark>1</mark></td><td class=s>96%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/pdfs/W05238_Nicolaus_Disputatio_theologica_textualis_ex_Ioh_3_v_5_de_regeneration_1674.pdf#page=9' target=_blank>scan 9</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=goed><td class=n>1</td><td><mark>conditus est ad justitiam</mark> &amp; sanctimoniam veram <mark>Eph.4.v.22.23.</mark></td><td class=o><mark>sonditm efi adjufiitiam</mark> &amp; sanctimoniam veram <mark>Eph.4x1.22:2$.</mark></td><td class=s>88%</td></tr>
+<tr class=goed><td class=n>2</td><td>Priori modo si sumatur, Regeneratio coincidit <mark>cum dona-</mark></td><td class=o>Priori modo si sumatur <mark>,</mark> Regeneratio coincidit</td><td class=s>92%</td></tr>
+<tr class=goed><td class=n>3</td><td>tione fidei &amp; <mark>resipiscentiae,</mark> seu prima conversione, quo-</td><td class=o>tione fidei &amp; <mark>resipiscentia ; ,</mark> seu prima conversione <mark>,</mark> quo¬</td><td class=s>99%</td></tr>
+<tr class=redelijk><td class=n>4</td><td>modo <mark>à</mark> sanctificatione distinguitur: <mark>si vero posteriori modo</mark></td><td class=o>modo <mark>ä</mark> sanctificatione distinguitur</td><td class=s>74%</td></tr>
+<tr class=goed><td class=n>5</td><td>sumatur pro ea nempe Regeneratione, ubi quis incipit se-</td><td class=o>sumatur pro ea nempe Regeneratione <mark>,</mark> ubi quis incipit fe¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>6</td><td><mark>cundum</mark> Regenerationem suam vivere, ita ut habitus inci-</td><td class=o>Regenerationem suam vivere <mark>,</mark> ita ut habitus inci¬</td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>7</td><td>piat crescere ipso exercitio pietatis, ab <mark>ipsa sanctificatione</mark></td><td class=o>piat crescere ipso exercitio pietatis <mark>,</mark> ab <mark>ipsasanctificatione</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>8</td><td>non alia <mark>est.</mark></td><td class=o>non alia <mark>esi.</mark></td><td class=s>90%</td></tr>
+<tr class=goed><td class=n>9</td><td>XVIII.</td><td class=o>XVIII</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>10</td><td>Quando generis loco in definitione ponimus <mark>benefi-</mark></td><td class=o>Quando generis loco in definitione ponimus</td><td class=s>92%</td></tr>
+<tr class=afwijkend><td class=n>11</td><td><mark>cium, loquimur cum Apostolo</mark> 1. <mark>Pet.1. v.3. Benedictus Deus</mark></td><td class=o>/ <mark>. Pet.i . v.j . Benedicius Dem</mark></td><td class=s>50%</td></tr>
+<tr class=goed><td class=n>12</td><td>&amp; <mark>Pater Domini</mark> nostri Jesu <mark>Christi</mark> qui ex multa <mark>sua</mark> miseri-</td><td class=o>&amp; <mark>Pater.Domini</mark> noftri Jesu <mark>Chrßii</mark> qui ex multa <mark>fita</mark> miseri¬</td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>13</td><td><mark>cordia</mark> regenuit <mark>nos in spem</mark> vivam.</td><td class=o><mark>or dia</mark> regenuit <mark>nosin fern</mark> vivam,</td><td class=s>91%</td></tr>
+<tr class=goed><td class=n>14</td><td>XIX.</td><td class=o>XIX <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>15</td><td>Causa efficiens principalis <mark>Regenerationis est Deus,</mark> qui</td><td class=o><mark>. ...</mark> Causa efficiens principalis <mark>Dei ,</mark> qui <mark>non ex san¬</mark></td><td class=s>68%</td></tr>
+<tr class=redelijk><td class=n>16</td><td><mark>nos regenerat,</mark> &amp; hinc dicimur <mark>filij Dei, qui non ex san-</mark></td><td class=o><mark>-</mark> &amp; hinc dicimur <mark>flij</mark></td><td class=s>56%</td></tr>
+<tr class=goed><td class=n>17</td><td>guine, <mark>neq;</mark> ex libidine carnis, <mark>neq;</mark> ex libidine viri, sed ex Deo</td><td class=o>guine <mark>, nefi</mark> ex libidine carnis <mark>, nefi</mark> ex libidine viri <mark>,</mark> sed ex Deo</td><td class=s>94%</td></tr>
+<tr class=goed><td class=n>18</td><td><mark>geniti sunt.</mark> Regeneratio, quia est opus Dei ad extra, pro-</td><td class=o>Regeneratio, quia est opus Dei ad extra <mark>,</mark> pro¬</td><td class=s>88%</td></tr>
+<tr class=goed><td class=n>19</td><td><mark>pterea</mark> unicuique in Sacro Sancta Trinitate <mark>adscribitur,</mark></td><td class=o><mark>prer.ea</mark> unicuique in Sacro Sancta Trinitate</td><td class=s>85%</td></tr>
+<tr class=goed><td class=n>20</td><td>Sed <mark>abluti estis, sed sanctificati estis, sed justificati estis</mark> in nomi-</td><td class=o><mark>Sedabluti efiissfidsanctificati eflis,</mark> sed <mark>juflificati efiis</mark> in nomi¬</td><td class=s>91%</td></tr>
+<tr class=goed><td class=n>21</td><td>ne Domini Jesu <mark>&amp; per Spiritum Dei nostri, 1.Cor.6.v.11.</mark> Quem-</td><td class=o>ne Domini Jesu <mark>&amp;per SpiritumDei noflri, i .Cor. G.v.u .</mark> Quem¬</td><td class=s>94%</td></tr>
+<tr class=goed><td class=n>22</td><td><mark>admodum</mark> enim in Divinitate unica saltem est <mark>essentia,</mark> &amp;</td><td class=o>enim in Divinitate unica saltem est <mark>esentia,</mark> &amp;</td><td class=s>91%</td></tr>
+<tr class=goed><td class=n>23</td><td>tamen unius ejusdemque <mark>essentiae</mark> tres <mark>distinctae personae,</mark> sic</td><td class=o>tamen unius ejusdemque <mark>esentia</mark> tres <mark>distincta ’ persona ,</mark> sic</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>24</td><td>quoque in operibus Dei externis omnes tres <mark>personae</mark> ad</td><td class=o>quoque in operibus Dei externis omnes tres <mark>persona ;</mark> ad</td><td class=s>99%</td></tr>
+<tr class=redelijk><td class=n>25</td><td>unum idemque opus concurrunt <mark>&amp; cooperantur, verum</mark></td><td class=o>unum idemque opus concurrunt</td><td class=s>74%</td></tr>
+<tr class=goed><td class=n>26</td><td>non uno eodemq; modo, exempli gratia; opera creationis,</td><td class=o>non uno .eodemq <mark>;</mark> modo <mark>,</mark> exempli gratia <mark>;</mark> opera creationis&gt;</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>27</td><td><mark>redemptionis &amp; sanctificationis sunt</mark> opera communia <mark>Patri,</mark></td><td class=o><mark>redemptionisdsc sanElificationissuat</mark> opera communia</td><td class=s>84%</td></tr>
+<tr class=goed><td class=n>28</td><td>Filio <mark>&amp;</mark> Spiritui Sancto, &amp; <mark>quodlibet</mark> horum operum omni-</td><td class=o>Filio <mark>&amp;c</mark> Spiritui Sancto, &amp; <mark>quodhbet</mark> horum operum omni¬</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>29</td><td>bus tribus commune ipsis in specie <mark>adscribitur.</mark> Ergo rege-</td><td class=o>bus tribus commune ipsis in specie <mark>adseribitur .</mark> Ergo rege-;</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>30</td><td>neratio-nis causa est tota <mark>S.S.</mark> Trinitas, singulariter autem Spi-</td><td class=o>ner.ationis causa est tota <mark>S .S .</mark> Trinitas ,fingulariter autem Spi¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>31</td><td>ritus Sanctus, &amp; eo respicit Christus in textu: Nisi <mark>quis geni-</mark></td><td class=o>ritus Sanctus, &amp; eo respicit Christus in textu <mark>:</mark> Nifi <mark>quisgeni-</mark></td><td class=s>100%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/pdfs/W05238_Nicolaus_Disputatio_theologica_textualis_ex_Ioh_3_v_5_de_regeneration_1674.pdf#page=10' target=_blank>scan 10</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=redelijk><td class=n>1</td><td>tus sit ex aqua &amp; Spiritu: <mark>ideò ab hoc potissimum effectu</mark></td><td class=o>tus fit ex aqua &amp; Spiritu <mark>: ideo</mark></td><td class=s>69%</td></tr>
+<tr class=goed><td class=n>2</td><td>Spiritus Dei <mark>Sanctus</mark> &amp; Sanctificationis <mark>sæpe</mark> dicitur.</td><td class=o>Spiritus Dei <mark>SanStus</mark> &amp; Sanctificationis <mark>stepe</mark> dicitur <mark>.</mark></td><td class=s>96%</td></tr>
+<tr><td class=n>3</td><td>XX.</td><td class=o></td><td class=s></td></tr>
+<tr class=goed><td class=n>4</td><td>Errant igitur Sociniani, qui Spiritum Sanctum non</td><td class=o>Errant igitur Sociniani <mark>,</mark> qui Spiritum Sanctum non</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>5</td><td><mark>nisi regenitis &amp;</mark> jam sanctificatis dari nugantur, nam hoc</td><td class=o><mark>Sc</mark> jam sanctificatis dari nugantur <mark>,</mark> nam hoc</td><td class=s>82%</td></tr>
+<tr class=goed><td class=n>6</td><td>modo authorem <mark>Regenerationis eum</mark> esse negant: <mark>cùm</mark> Re-</td><td class=o>modo authorem <mark>Regenerationistum</mark> esse negant <mark>: ciim</mark> Re¬</td><td class=s>94%</td></tr>
+<tr class=goed><td class=n>7</td><td>generationis opus vel eo nomine <mark>rectè</mark> ei <mark>tribuatur, quòd à</mark></td><td class=o>generationis opus vel eo nomine <mark>recte</mark> ei <mark>tribuatur,quod ä</mark></td><td class=s>94%</td></tr>
+<tr class=goed><td class=n>8</td><td>Patre <mark>&amp;</mark> Filio procedat per spirationem, cujus proinde est</td><td class=o>Patre <mark>Sc</mark> Filio procedat per spirationem <mark>,</mark> cujus proinde est</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>9</td><td>suo <mark>flatu</mark> nos purgare &amp; purificare, quod est ipsum opus</td><td class=o>suo <mark>statu</mark> nos purgare &amp; purificare <mark>,</mark> quod est ipsum opus</td><td class=s>98%</td></tr>
+<tr class=redelijk><td class=n>10</td><td>Regenerationis sive <mark>Sanctificationis.</mark></td><td class=o>Regenerationis sive</td><td class=s>69%</td></tr>
+<tr class=alleen><td class=n></td><td class=gap>ontbreekt in de transcriptie?</td><td class=o><mark>SanSlficationis .</mark></td><td class=s>alleen OCR</td></tr>
+<tr class=redelijk><td class=n>11</td><td><mark>XXI.</mark></td><td class=o><mark>XXL</mark></td><td class=s>67%</td></tr>
+<tr class=redelijk><td class=n>12</td><td><mark>Spiritus Sanctus, cùm</mark> sit causa Regenerationis, <mark>regenerat</mark></td><td class=o>sit causa Regenerationis <mark>^rege ne rat</mark></td><td class=s>78%</td></tr>
+<tr class=goed><td class=n>13</td><td>nos efficaci sua <mark>præsentia &amp; potentia, nam</mark> ut quotquot <mark>Spi-</mark></td><td class=o>nos efficaci sua <mark>prassentia Sc potentia,nam</mark> ut quotquot <mark>Spü</mark></td><td class=s>92%</td></tr>
+<tr class=goed><td class=n>14</td><td>ritu Dei aguntur, ij sunt filij Dei, Rom. 8. <mark>v.14.</mark> Ita eo agi con-</td><td class=o>ritu Dei aguntur <mark>,</mark> ij sunt filij Dei <mark>,</mark> Rom, <mark>S. v.14</mark> . Ita eo agi con¬</td><td class=s>99%</td></tr>
+<tr class=goed><td class=n>15</td><td>venit, quotquot filii Dei revera sunt; uti Patris amorem</td><td class=o>venit, quotquot filii Dei revera sunt <mark>;</mark> uti Patris amorem</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>16</td><td>non nisi per filium consequimur, ita filij beneficiorum</td><td class=o>non nisi per filium consequimur <mark>,</mark> ita filij beneficiorum</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>17</td><td>per solum <mark>Spiritum sanctificationis</mark> fimus participes; <mark>imò</mark> per</td><td class=o>per solum <mark>Spiritumsanctificationis</mark> fimus participes <mark>; ES</mark> per</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>18</td><td>hoc cognoscimus nos in eo habitare <mark>&amp;</mark> ipsum in nobis, quod de</td><td class=o>hoc cognoscimus nos in eo habitare <mark>(fi</mark> ipsum in nobis, quod de</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>19</td><td>Spiritu suo dedit nobis, 1. Joh. 4. v. 13.</td><td class=o>Spiritu suo dedit nobis, 1. Joh . <mark>4 .</mark> v. 13.</td><td class=s>100%</td></tr>
+<tr class=geen><td class=n>20</td><td>XXII.</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=redelijk><td class=n>21</td><td>Sunt <mark>autè</mark> certa <mark>τεκμήρια ex Verbo</mark> Dei <mark>desumpta, per quæ</mark></td><td class=o>Sunt <mark>aute</mark> certa <mark>nzfipia exVerbo</mark> Dei <mark>desumpta,per qua;</mark></td><td class=s>80%</td></tr>
+<tr class=goed><td class=n>22</td><td>quivis fideles <mark>certò</mark> possunt scire, <mark>quòd</mark> in ipsis sit, impri-</td><td class=o>quivis fideles <mark>certo</mark> possunt scire, <mark>quod</mark> in ipsis sit <mark>,</mark> impri¬</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>23</td><td>mis quando cum Verbo Dei convenientes motus <mark>&amp;</mark> ope-</td><td class=o>mis quando cum Verbo Dei convenientes motus <mark>5c</mark> ope¬</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>24</td><td>rationes in se sentiunt, <mark>certò</mark> concludere licet, se habere</td><td class=o>rationes in se sentiunt <mark>, certo</mark> concludere licet <mark>,</mark> se habere</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>25</td><td><mark>Spiritum</mark> Sanctum; qui itaque ex <mark>Pontificijs</mark> nos judicant <mark>su-</mark></td><td class=o><mark>Spmtum</mark> Sanctum <mark>;</mark> qui itaque ex <mark>Rontficijs</mark> nos judicant</td><td class=s>91%</td></tr>
+<tr class=goed><td class=n>26</td><td>perbos vel melancholicos, <mark>quòd</mark> de <mark>præsentia</mark> &amp; efficacia</td><td class=o>perbos vel melancholicos <mark>, quod</mark> de <mark>prassentia</mark> &amp; efficacia</td><td class=s>96%</td></tr>
+<tr class=redelijk><td class=n>27</td><td>Spiritus Sancti in cordibus <mark>nostris gloriemur, illi nesciunt,</mark></td><td class=o>Spiritus Sancti in cordibus</td><td class=s>63%</td></tr>
+<tr class=goed><td class=n>28</td><td>quid sit <mark>esse Filium</mark> Dei &amp; Christianum.</td><td class=o>quid sit <mark>esseFilium</mark> Dei &amp; Christianum <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>29</td><td>XXIII.</td><td class=o>XXIII</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>30</td><td>Est autem illa potentia, <mark>quâ</mark> Spiritus Sanctus utitur in</td><td class=o>Est autem illa potentia <mark>, qua</mark> Spiritus Sanctus utitur in</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>31</td><td>natura hominis restauranda &amp; reparanda <mark>tantæ</mark> virtutis,</td><td class=o>natura hominis restauranda &amp; reparanda <mark>tanta ;</mark> virtutis <mark>,</mark></td><td class=s>99%</td></tr>
+<tr class=goed><td class=n>32</td><td>ut insuperabiliter rem det <mark>effectam, quod</mark> probat Spiritus</td><td class=o>ut insuperabiliter rem det <mark>effectam,quod</mark> probat Spiritus</td><td class=s>100%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/pdfs/W05238_Nicolaus_Disputatio_theologica_textualis_ex_Ioh_3_v_5_de_regeneration_1674.pdf#page=11' target=_blank>scan 11</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=goed><td class=n>1</td><td><mark>Sanctus</mark> locis, <mark>Ezech.</mark> 36.v.26.27. Et dabo vobis <mark>cor novum</mark> &amp; Spi-</td><td class=o><mark>5 anctus</mark> locis- <mark>E&#x27;fiech.</mark> }$.v,2() <mark>.2j.</mark> Et dabo vobis <mark>cornovum</mark> &amp; Spi¬</td><td class=s>94%</td></tr>
+<tr class=goed><td class=n>2</td><td>ritum <mark>novum ponam</mark> in medio <mark>vestri,</mark> &amp; <mark>auferam</mark> cor lapideum</td><td class=o>ritum <mark>novum^ponam</mark> in medio <mark>veflrt&gt;</mark> &amp; <mark>amovens</mark> cor lapideum</td><td class=s>88%</td></tr>
+<tr class=goed><td class=n>3</td><td><mark>è</mark> carne vestra, indam vobis cor carneum: <mark>&amp; spiritum</mark> meum po-</td><td class=o><mark>e</mark> carne vestra, indam vobis cor carneum <mark>: (j &#x27;fiuritum</mark> meum po¬</td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>4</td><td>nam in medio <mark>vestri; quo faciam</mark> ut in Statutis meis ambuletis,</td><td class=o>nam in medio <mark>veßri ; quofaciam</mark> ut in Statutis meis ambuletis,</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>5</td><td><mark>&amp; jura</mark> mea <mark>observetis, facientes</mark> ea. Jerem.32. <mark>v.39.</mark> Indam enim</td><td class=o>mea <mark>obfirvetisfacientes</mark> ea. Jerem <mark>.32 . v.jß -</mark> Indam enim</td><td class=s>87%</td></tr>
+<tr class=goed><td class=n>6</td><td>illis cor unum &amp; viam unam, ad reverendum me omnibus die-</td><td class=o>illis cor unum &amp; viam unam <mark>,</mark> ad reverendum me omnibus die¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>7</td><td>bus, ad bonum ipsorum &amp; filiorum <mark>ipsorum</mark> post ipsos. Phil.2:13.</td><td class=o>bus, ad bonum ipsorum &amp; filiorum <mark>ipfirum</mark> post ipsos. Phil <mark>.2:i$.</mark></td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>8</td><td>Deus enim is <mark>est,</mark> qui in <mark>vobis efficit &amp;</mark> ipsum velle &amp; ipsum agere</td><td class=o>Deus enim is <mark>efi,</mark> qui in <mark>vobisefficit&amp;</mark> ipfum velle &amp; ipsum agere</td><td class=s>98%</td></tr>
+<tr class=redelijk><td class=n>9</td><td><mark>pro gratuita</mark> benevolentia.</td><td class=o>benevolentia.</td><td class=s>69%</td></tr>
+<tr class=goed><td class=n>10</td><td>XXIV.</td><td class=o>XXIV</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>11</td><td>Huc &amp; illud spectat, quod <mark>Apostolus hujus [?]ἐνεργείας</mark></td><td class=o>Huc &amp; illud spectat <mark>,</mark> quod</td><td class=s>65%</td></tr>
+<tr class=redelijk><td class=n>12</td><td><mark>virtutem tàm magnificè</mark> effert, ut sibi satisfacere quasi ne-</td><td class=o>effert <mark>,</mark> ut sibi satisfacere quasi ne¬</td><td class=s>75%</td></tr>
+<tr class=redelijk><td class=n>13</td><td>queat: Vocat enim eam non <mark>modò δύναμιν, sed &amp; μεγέθος</mark></td><td class=o>queat <mark>:</mark> Vocat enim eam non <mark>modo</mark></td><td class=s>69%</td></tr>
+<tr class=alleen><td class=n></td><td class=gap>ontbreekt in de transcriptie?</td><td class=o><mark>JbvcimcoQ t5 xgjrx</mark></td><td class=s>alleen OCR</td></tr>
+<tr class=geen><td class=n>14</td><td>δυνάμεως, neque id solùm, sed &amp; ὑπερβάλλον μέγεθος τῆς δυνάμεως τῆς [?]κράτους τῆς</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=redelijk><td class=n>15</td><td><mark>ἰσχύος αὐτῆς, Eph.1.v.19. Quæ nemo,</mark> cui non periit frons, negare potest, significare vim, po-</td><td class=o>cui non periit frons <mark>,</mark> negare potest <mark>,</mark> significare vim <mark>,</mark> po¬</td><td class=s>80%</td></tr>
+<tr class=goed><td class=n>16</td><td><mark>tentiam</mark> &amp; efficaciam, qua frangitur &amp; prosternitur vo-</td><td class=o>&amp; efficaciam <mark>,</mark> qua frangitur &amp; prosternitur vo¬</td><td class=s>92%</td></tr>
+<tr class=goed><td class=n>17</td><td>luntatis <mark>humanæ</mark> superbia &amp; contumacia <mark>naturæ adversùs</mark></td><td class=o>luntatis <mark>humante</mark> superbia &amp;: contumacia <mark>natura; adversus</mark></td><td class=s>95%</td></tr>
+<tr class=redelijk><td class=n>18</td><td><mark>Deum in ordinem cogitur: quæ verò</mark> adversarii non unius</td><td class=o><mark>: qua; vero</mark> adversarii non unius</td><td class=s>68%</td></tr>
+<tr class=goed><td class=n>19</td><td>generis objiciunt ex Sacra Scriptura, ea videbimus in ipso</td><td class=o>generis objiciunt ex Sacra Scriptura <mark>^</mark> ea videbimus in ipso</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>20</td><td>disputationis <mark>actu.</mark></td><td class=o>disputationis</td><td class=s>87%</td></tr>
+<tr class=goed><td class=n>21</td><td>XXV.</td><td class=o>XXV</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>22</td><td>Cur autem Spiritus Sanctus Regenerationis donum qui-</td><td class=o>Cur autem Spiritus Sanctus Regenerationis donum qui¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>23</td><td>busdam conferat, quibusdam <mark>verò</mark> non, &amp; quid Spiritum</td><td class=o>busdam conferat <mark>,</mark> quibusdam <mark>vero</mark> non <mark>,</mark> &amp; quid Spiritum</td><td class=s>98%</td></tr>
+<tr class=redelijk><td class=n>24</td><td><mark>Sanctum ad</mark> hunc vel illum regenerandum <mark>moveat, præ-</mark></td><td class=o><mark>Santtum zA</mark> hunc vel illum regenerandum</td><td class=s>82%</td></tr>
+<tr class=redelijk><td class=n>25</td><td><mark>ter [?]εὐδοκίαν Dei in hominibus</mark> nullam videmus causam: nec</td><td class=o>nullam videmus causam: nec</td><td class=s>64%</td></tr>
+<tr class=alleen><td class=n></td><td class=gap>ontbreekt in de transcriptie?</td><td class=o><mark>ter tvJbMM! Dei in hominibus</mark></td><td class=s>alleen OCR</td></tr>
+<tr class=goed><td class=n>26</td><td>enim causa <mark>esse</mark> possunt <mark>dispositiones previæ</mark> aut <mark>præparatio</mark></td><td class=o>enim causa <mark>este</mark> poffunt <mark>dijposttiones pravia</mark> aut <mark>praparatio</mark></td><td class=s>91%</td></tr>
+<tr class=goed><td class=n>27</td><td>per quandam docilitatem <mark>&amp;</mark> animi probitatem, aut melior no-</td><td class=o>per quandam docilitatem <mark>fr</mark> animi probitatem <mark>,</mark> aut melior no¬</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>28</td><td>stri naturalis arbitrij <mark>usus</mark> ante actualem conversionem; uti</td><td class=o>stri naturalis arbitrij <mark>ufiis</mark> ante actualem conversionem <mark>;</mark> uti</td><td class=s>97%</td></tr>
+<tr class=redelijk><td class=n>29</td><td><mark>adversarij perperam sentiunt;</mark> nam <mark>postquàm</mark> benignitas</td><td class=o><mark>;</mark> nam <mark>postquitm</mark> benignitas</td><td class=s>58%</td></tr>
+<tr class=goed><td class=n>30</td><td>&amp; erga homines amor apparuit Servatoris nostri Dei,non <mark>ex ope-</mark></td><td class=o>&amp; erga homines amor apparuit Servatoris nostri Dei,non <mark>exope¬</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>31</td><td>ribus justis, <mark>quæ</mark> fecerimus nos, sed <mark>ex sua</mark> misericordia servavit</td><td class=o>ribus justis <mark>, qua</mark> fecerimus nos ,sed <mark>exsua</mark> misericordia servavit</td><td class=s>99%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/pdfs/W05238_Nicolaus_Disputatio_theologica_textualis_ex_Ioh_3_v_5_de_regeneration_1674.pdf#page=12' target=_blank>scan 12</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=goed><td class=n>1</td><td><mark>nos per</mark> lavacrum Regenerationis, renovationis Spiritus <mark>Sancti,</mark></td><td class=o><mark>nosper</mark> lavacrum Regenerationis <mark>,</mark> renovationis Spiritus <mark>Sancit ,</mark></td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>2</td><td>quem <mark>effudit super</mark> nos <mark>copiosè per Jesum Christum Servatorem no-</mark></td><td class=o>■quem <mark>effuditsuper</mark> nos <mark>copioseper Jefitm Chriflum Servatoreno-</mark></td><td class=s>93%</td></tr>
+<tr class=redelijk><td class=n>3</td><td><mark>strum, Tit.3.</mark> v.4. s.6. praeter <mark>εὐδοκίαν[?]</mark> Dei causa <mark>[illegible,</mark></td><td class=o><mark>flrum , Tit.j .</mark> v.4 <mark>.</mark> s <mark>.cs.</mark> praeter <mark>ivJbxiav</mark> Dei causa</td><td class=s>62%</td></tr>
+<tr class=goed><td class=n>4</td><td><mark>~12 letters]</mark> sive meritoria extra nos est meritum Jesu Christi, propter</td><td class=o>sive meritoria extra nos est: meritum Jesu Christi <mark>,</mark> propter</td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>5</td><td>quod Deus donat nos Spiritu <mark>Sancto &amp;</mark> restituit in nobis</td><td class=o>quod Deus donat nos Spiritu <mark>Sancio Lc</mark> restituit in nobis</td><td class=s>94%</td></tr>
+<tr class=goed><td class=n>6</td><td>imaginem suam.</td><td class=o>imaginem suam.</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>7</td><td>XXVI.</td><td class=o>XXVI</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>8</td><td>Qui enim adulti <mark>primùm</mark> regenerantur, in iis qui-</td><td class=o>Qui enim adulti <mark>primum</mark> regenerantur <mark>,</mark> in iis qui¬</td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>9</td><td>dem accedere, <mark>imò</mark> &amp; praecedere solet verbum externum,</td><td class=o>dem accedere <mark>, imo</mark> &amp; praecedere solet verbum externum,</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>10</td><td><mark>tanquàm</mark> causa <mark>instrumentalis</mark> moralis; cujus tamen salu-</td><td class=o><mark>tanquäm</mark> causa <mark>infirumentalis</mark> moralis <mark>■,</mark> cujus tamen salu¬</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>11</td><td>taris efficacia pendet ab interna reali operatione <mark>Sp.Sancti, sed</mark></td><td class=o>taris efficacia pendet ab interna reali operatione <mark>Sp.Sancti,fed</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>12</td><td>infantium electorum &amp; in foedere natorum communiter</td><td class=o>infantium electorum &amp; in foedere natorum communiter</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>13</td><td>alia est ratio; ubi res verbi <mark>à</mark> parentibus fide <mark>recepti, quan-</mark></td><td class=o>alia est ratio <mark>;</mark> ubi res verbi <mark>ä</mark> parentibus fide <mark>recepti,quan¬</mark></td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>14</td><td>tum ad principium intus menti inditur per Spiritum re-</td><td class=o>tum ad principium intus menti inditur per Spiritum re¬</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>15</td><td>generantem; unde <mark>ea postmodùm, accedente etiam ver-</mark></td><td class=o>generantem <mark>;</mark> unde <mark>eapostmodum</mark></td><td class=s>72%</td></tr>
+<tr class=redelijk><td class=n>16</td><td>bo externo ad <mark>actus secundos</mark> promovetur: <mark>In adultis rege-</mark></td><td class=o>bo externo ad <mark>acht*secundos</mark> promovetur</td><td class=s>80%</td></tr>
+<tr class=goed><td class=n>17</td><td>nerandis verbum est <mark>tùm</mark> Legis <mark>tùm Evangelij;</mark> illud se ha-</td><td class=o>nerandis verbum est <mark>tum</mark> Legis <mark>tum Evangetij ;</mark> illud se ha¬</td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>18</td><td>bet instar mallei, <mark>quò</mark> cor lapideum confringitur; <mark>instar</mark></td><td class=o>bet instar mallei, <mark>quo</mark> cor lapideum confringitur</td><td class=s>91%</td></tr>
+<tr class=redelijk><td class=n>19</td><td>ignis, <mark>quò</mark> cor induratum <mark>fit molle &amp; colliquescit; instar</mark></td><td class=o>ignis, <mark>quo</mark> cor induratum</td><td class=s>56%</td></tr>
+<tr class=afwijkend><td class=n>20</td><td><mark>gladij, qui penetrat &amp; pertingit usq;</mark> ad divisionem <mark>animae</mark></td><td class=o><mark>usfc</mark> ad divisionem <mark>anima</mark></td><td class=s>54%</td></tr>
+<tr class=redelijk><td class=n>21</td><td><mark>simul ac spiritus, compagumq;</mark> &amp; medullarum, &amp; dijudicat co-</td><td class=o><mark>, compagums</mark> &amp; medullarum <mark>,</mark> &amp; dijudicat co¬</td><td class=s>80%</td></tr>
+<tr class=goed><td class=n>22</td><td>gitationes &amp; <mark>conceptus cordis,</mark> Heb.4. v.12. Hoc autem se ha-</td><td class=o>gitationes &amp; <mark>conceptm cotdis,</mark> Heb.4 <mark>.</mark> v.12. Hoc autem se ha¬</td><td class=s>94%</td></tr>
+<tr class=goed><td class=n>23</td><td>bet instar olei, <mark>quò</mark> cor fractum, liquefactum <mark>&amp; vulnera-</mark></td><td class=o>bet instar olei, <mark>quo</mark> cor fractum <mark>,</mark> liquefactum</td><td class=s>87%</td></tr>
+<tr class=goed><td class=n>24</td><td>tum emollitur &amp; vulnera cordis sanantur, <mark>&amp; cor infirmum</mark></td><td class=o>tum emollitur &amp; vulnera cordis fanantur <mark>, Sccorinfirmu</mark></td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>25</td><td>&amp; trepidum confortatur &amp; restituitur promissionibus Dei</td><td class=o>&amp; trepidum confortatur &amp; restituitur promissionibus Dei</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>26</td><td>in Christo propositis. Per legem <mark>tàm naturae</mark> inscriptam,</td><td class=o>in Christo propositis <mark>.</mark> Per legem <mark>tam natura ;</mark> inscriptam <mark>,</mark></td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>27</td><td>Rom.1. <mark>quàm</mark> lapideis tabulis renovatam, <mark>1.Cor.3. homo ad</mark></td><td class=o>Rom. <mark>1. quam</mark> lapideis tabulis renovatam</td><td class=s>85%</td></tr>
+<tr class=redelijk><td class=n>28</td><td>veram <mark>miseriae suae</mark> agnitionem <mark>perducitur: Per Evange-</mark></td><td class=o>veram <mark>miseria; sute</mark> agnitionem</td><td class=s>69%</td></tr>
+<tr class=redelijk><td class=n>29</td><td><mark>lium verò &amp; promissiones</mark> ejus, <mark>dolor secundum</mark> Deum con-</td><td class=o>ejus <mark>, dolorfecundum</mark> Deum con¬</td><td class=s>69%</td></tr>
+<tr class=alleen><td class=n></td><td class=gap>ontbreekt in de transcriptie?</td><td class=o><mark>lium vero &amp; promisilones</mark></td><td class=s>alleen OCR</td></tr>
+<tr class=goed><td class=n>30</td><td>cipitur, conscientia afflicta <mark>in</mark> spem <mark>veniae</mark> erigitur, Chri-</td><td class=o>cipitur <mark>,</mark> conscientia afflicta <mark>111</mark> spem <mark>venia;</mark> erigitur <mark>,</mark> Chri¬</td><td class=s>97%</td></tr>
+<tr class=alleen><td class=n></td><td class=gap>ontbreekt in de transcriptie?</td><td class=o><mark>, non tantum m remrßiomm</mark></td><td class=s>alleen OCR</td></tr>
+<tr class=redelijk><td class=n>31</td><td>stus denique apprehenditur, <mark>non tantùm in remissionem</mark></td><td class=o>stus denique apprehenditur</td><td class=s>69%</td></tr>
+<tr class=goed><td class=n>32</td><td>peccatorum, sed abolitionem quoque Veteris &amp; <mark>resuscitatio-</mark></td><td class=o>peccatorum <mark>,</mark> sed abolitionem quoque Veteris &amp; <mark>rejitfiitatio-</mark></td><td class=s>93%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/pdfs/W05238_Nicolaus_Disputatio_theologica_textualis_ex_Ioh_3_v_5_de_regeneration_1674.pdf#page=13' target=_blank>scan 13</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=redelijk><td class=n>1</td><td><mark>nem novi hominis; Unde &amp; Evangelium</mark> ministerium Spiri-</td><td class=o><mark>Sc Exangellum</mark> ministerium Spiri¬</td><td class=s>65%</td></tr>
+<tr class=goed><td class=n>2</td><td><mark>tus &amp; vitæ</mark> appellatur, <mark>2. Cor. 3.</mark></td><td class=o><mark>tus&amp; vita</mark> appellatur,</td><td class=s>90%</td></tr>
+<tr class=goed><td class=n>3</td><td>XXVII.</td><td class=o>XXVII</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>4</td><td><mark>Materia in</mark> qua <mark>vel subjectum,</mark> &amp; materia circa quam</td><td class=o><mark>cMateria:in</mark> qua <mark>velsubjectum ,</mark> &amp; materia circa quam</td><td class=s>99%</td></tr>
+<tr class=goed><td class=n>5</td><td><mark>sive objectum</mark> Regenerationis, non <mark>est</mark> Angelus: neque bonus,</td><td class=o><mark>stveobjectum</mark> Regenerationis, non <mark>cft.</mark> Angelus: neque bonus,</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>6</td><td>quia Regeneratione non eget; neque malus, quia istius <mark>gratiæ</mark></td><td class=o>quia Regeneratione non eget <mark>;</mark> neque malus^ quia istius <mark>gra¬</mark></td><td class=s>96%</td></tr>
+<tr class=redelijk><td class=n>7</td><td><mark>non potest fieri</mark> particeps; neque irrationalis creatura,</td><td class=o>particeps <mark>;</mark> neque irrationalis creatura,</td><td class=s>83%</td></tr>
+<tr class=goed><td class=n>8</td><td>aut substantia <mark>merè</mark> materialis, quia ejus non est capax; sed</td><td class=o>aut substantia <mark>mere</mark> materialis, quia ejus non est. capax <mark>;</mark> sed</td><td class=s>98%</td></tr>
+<tr class=redelijk><td class=n>9</td><td><mark>est homo, &amp; spiritualiter</mark> quidem <mark>mortuus in Adamo,</mark> aliena-</td><td class=o>quidem <mark>mortum in.Adamo,</mark> aliena¬</td><td class=s>66%</td></tr>
+<tr class=goed><td class=n>10</td><td>tus <mark>à vitâ Dei, Eph.</mark> 2. <mark>v.</mark> 1. <mark>s.</mark> &amp; 4. 18. atque <mark>adeò</mark> ea egens, ut</td><td class=o>tus <mark>a vita Dei,Eph</mark> . 2. <mark>v.i.s .</mark> &amp; 4 .18. atque <mark>adeo</mark> ea egens <mark>,</mark> ut</td><td class=s>90%</td></tr>
+<tr class=goed><td class=n>11</td><td>salvetur, <mark>&amp;</mark> gratia Dei salutifera in ipso efficaciter demon-</td><td class=o>salvetur <mark>, Sc</mark> gratia Dei salutifera in ipso efficaciter demon¬</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>12</td><td><mark>stretur:</mark> Sed electus in Christo: Deus enim omnia operatur</td><td class=o><mark>: .</mark> Sed electus in Christo <mark>:</mark> Deus enim omnia operatur</td><td class=s>92%</td></tr>
+<tr class=goed><td class=n>13</td><td>secundum consilium <mark>voluntatis suæ,</mark> Eph. 1. <mark>imò</mark> &amp; redemptus</td><td class=o>fecundum consilium <mark>voluntatisßa ,</mark> Eph. 1. <mark>imo</mark> &amp; redemptus</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>14</td><td>per <mark>Christū,Christus</mark> enim electis suis istam vitam impetra-</td><td class=o>per <mark>Christu,Christus</mark> enim electis suis istam vitam impetra¬</td><td class=s>98%</td></tr>
+<tr class=redelijk><td class=n>15</td><td>vit, &amp; juxta impetrationem <mark>ea producitur.</mark></td><td class=o>vit, &amp; juxta impetrationem</td><td class=s>79%</td></tr>
+<tr class=goed><td class=n>16</td><td>XXVIII.</td><td class=o>XXVIII</td><td class=s>100%</td></tr>
+<tr class=afwijkend><td class=n>17</td><td><mark>[?]liquè non tantùm adulti, sed etiam infantes,</mark> qui si-</td><td class=o><mark>.instantes,</mark> qui si¬</td><td class=s>47%</td></tr>
+<tr class=goed><td class=n>18</td><td><mark>cut servantur,</mark> ita etiam regenerari &amp; sanctificari necesse</td><td class=o>,ita etiam regenerari &amp; sanctificari necesse</td><td class=s>87%</td></tr>
+<tr class=goed><td class=n>19</td><td>est I. Quia nemo <mark>electorum</mark> ad vitam <mark>æternam è præsen-</mark></td><td class=o>est I <mark>.</mark> Quia nemo <mark>.elegiorum</mark> ad&#x27; vitam <mark>axernam e praten¬</mark></td><td class=s>86%</td></tr>
+<tr class=goed><td class=n>20</td><td>ti vita evocatur, qui non prius regeneretur <mark>&amp; sanctifice-</mark></td><td class=o>ti vita evocatur <mark>,</mark> qui non prius regeneretur</td><td class=s>86%</td></tr>
+<tr class=goed><td class=n>21</td><td>tur Dei spiritu: nam caro &amp; sanguis regnum Dei <mark>possidere</mark></td><td class=o>tur Dei spiritu <mark>:</mark> nam caro &amp; sanguis regnum Dei <mark>postiden</mark></td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>22</td><td><mark>non potest:</mark> in regnum Dei nihil ingreditur pollutum aut coin-</td><td class=o><mark>-,</mark> in regnum Dei nihil ingreditur pollutum aut coin¬</td><td class=s>90%</td></tr>
+<tr class=goed><td class=n>23</td><td>quinatum: nullis patet in vitam <mark>cœlestem ingressus nisi</mark> rena-</td><td class=o>quinatum <mark>:</mark> nullis patet in vitam <mark>ccelestem ingrefus nist</mark> rena¬</td><td class=s>95%</td></tr>
+<tr class=redelijk><td class=n>24</td><td><mark>tis, Joh.</mark> 3. <mark>v.</mark> 3. <mark>II. Quia ideò à primâ infantiâ sanctifica-</mark></td><td class=o>11. <mark>Quia ideo a prima infantia sanctifica</mark> -</td><td class=s>77%</td></tr>
+<tr class=goed><td class=n>25</td><td>tus fuit Christus, ut ex <mark>ætate</mark> qualibet sine discrimine</td><td class=o>tus fuit Christus <mark>,</mark> ut ex <mark>retate</mark> qualibet sine discrimine</td><td class=s>98%</td></tr>
+<tr class=redelijk><td class=n>26</td><td><mark>electos</mark> suos in seipso sanctificaret. <mark>III. Quia Jeremias Pro-</mark></td><td class=o><mark>Itos</mark> suos in seipso sanctificaret <mark>.</mark></td><td class=s>71%</td></tr>
+<tr class=goed><td class=n>27</td><td>pheta &amp; Johannes Baptista in materno utero <mark>sanctificati</mark></td><td class=o>pheta &amp; Johannes Baptista in materno utero <mark>sanctificari</mark></td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>28</td><td>dicuntur; Jerem. 1. v. <mark>5.</mark> ait Deus ad Jeremiam: <mark>quùm non-</mark></td><td class=o>dicuntur <mark>;</mark> Jerem . <mark>i .</mark> v. <mark>s.</mark> ait Deus ad Jeremiam <mark>: quum nen¬</mark></td><td class=s>92%</td></tr>
+<tr class=goed><td class=n>29</td><td>dum <mark>prodiisses</mark> ex <mark>vulva, sanctificavi</mark> te Luc. 1. v. 17. ait <mark>Angelus</mark></td><td class=o>dum <mark>prodiifjes</mark> ex <mark>vulvasanci isteavi</mark> te Luc. <mark>i</mark> . v. 17. ait <mark>Jtngelm</mark></td><td class=s>85%</td></tr>
+<tr class=goed><td class=n>30</td><td>de Johanne Baptista: <mark>Spiritu Sancto</mark> implebitur <mark>etiam à</mark> ven-</td><td class=o>de Johanne Baptista <mark>: : SpirituSancto</mark> implebitur <mark>etiama</mark> ven¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>31</td><td>tre <mark>matris suæ: In</mark> his infantibus documentum <mark>Deus præ-</mark></td><td class=o>tre <mark>matrissua : ln</mark> his infantibus documentum</td><td class=s>87%</td></tr>
+<tr class=goed><td class=n>32</td><td>buit,</td><td class=o>buit,</td><td class=s>100%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/pdfs/W05238_Nicolaus_Disputatio_theologica_textualis_ex_Ioh_3_v_5_de_regeneration_1674.pdf#page=14' target=_blank>scan 14</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=goed><td class=n>1</td><td><mark>buïr,</mark> quid in reliquis <mark>possit, imò</mark> quid in reliquis revera</td><td class=o><mark>buir ,</mark> quid in reliquis <mark>postit , imo</mark> quid in reliquis revera</td><td class=s>94%</td></tr>
+<tr class=goed><td class=n>2</td><td>etiam <mark>præstet,</mark> etsi <mark>à</mark> nobis non ita observetur <mark>semper.</mark></td><td class=o>etiam <mark>praffiet,</mark> etsi <mark>ä</mark> nobis non ita observetur <mark>iemper .</mark></td><td class=s>91%</td></tr>
+<tr class=goed><td class=n>3</td><td>XXIX.</td><td class=o>XXIX <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>4</td><td>Sicut autem principale peccati subjectum est anima</td><td class=o>Sicut autem principale peccati subjectum est anima</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>5</td><td>hominis, omnibus suis naturalibus facultatibus instructa,</td><td class=o>hominis <mark>,</mark> omnibus suis naturalibus facultatibus instructa,</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>6</td><td>corpus <mark>verò</mark> minus principale, <mark>tanquàm animæ</mark> sedes <mark>&amp;</mark></td><td class=o>corpus <mark>vero</mark> minus principale <mark>, tanquäm anima</mark> sedes <mark>Se</mark></td><td class=s>92%</td></tr>
+<tr class=goed><td class=n>7</td><td>instrumentum; ita &amp; Regenerationis propria sedes &amp; sub-</td><td class=o>instrumentum <mark>;</mark> ita &amp; Regenerationis propria sedes &amp; fub-</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>8</td><td><mark>jectum principale</mark> eadem anima <mark>secundùm omnes faculta-</mark></td><td class=o><mark>jeclumprincipale</mark> eadem anima <mark>fecundum</mark></td><td class=s>80%</td></tr>
+<tr class=redelijk><td class=n>9</td><td><mark>tes suas, intellectum,</mark> voluntatem <mark>&amp;</mark> affectus: Intellectus</td><td class=o><mark>,</mark> voluntatem <mark>Se</mark> affectus <mark>:</mark> Intellectus</td><td class=s>75%</td></tr>
+<tr class=goed><td class=n>10</td><td>ante Regenerationem est obtenebratus, veraque <mark>&amp;</mark> salutari</td><td class=o>ante Regenerationem est obtenebratus, veraque <mark>Se</mark> salutari</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>11</td><td>Dei notitia orbatus, 1. Cor. 2. v. 14. per Regenerationem ir-</td><td class=o>Dei notitia orbatus <mark>, /</mark> . Cor. 2. v. 14. per Regenerationem ir¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>12</td><td>radiatur <mark>&amp;</mark> illuminatur: Hinc David petit, Psal. 119. men-</td><td class=o>radiatur <mark>Se</mark> illuminatur <mark>:</mark> Hinc David petit, Pfal. <mark>up</mark> . men¬</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>13</td><td>tis oculos sibi aperiri ad videnda mirabilia legis <mark>divinæ.</mark> Volun-</td><td class=o>tis oculos fibi aperiri ad videnda mirabilia legis <mark>divina .</mark> Volun¬</td><td class=s>99%</td></tr>
+<tr class=redelijk><td class=n>14</td><td><mark>tas hominis</mark> ante <mark>Regenerationè dislorta &amp;</mark> ab obsequio Dei</td><td class=o>ante <mark>Regenerationedistorta Se</mark> ab obsequio Dei</td><td class=s>82%</td></tr>
+<tr class=goed><td class=n>15</td><td>aliena, <mark>Jerem.</mark> 13. v. 23. An mutare potest <mark>Æthiops cutem suam,</mark></td><td class=o>aliena <mark>, Jcrem.</mark> /3. v. 23. An mutare potest <mark>Mthiops cutemfitam^</mark></td><td class=s>91%</td></tr>
+<tr class=goed><td class=n>16</td><td>aut pardus liventes <mark>maculas suas? etiam</mark> vos <mark>possetis benefacere,</mark></td><td class=o>aut pardus liventes, <mark>maculasfuasiet ;am</mark> vos <mark>postis</mark></td><td class=s>85%</td></tr>
+<tr class=goed><td class=n>17</td><td><mark>edocti</mark> malefacere, <mark>Rom.</mark> 3. <mark>v. 12. Non est</mark> qui faciat <mark>bonum, non est</mark></td><td class=o><mark>edoBt</mark> malefacere, <mark>Pom</mark> .3. <mark>v.12.Non esi</mark> qui faciat <mark>bonum,non esi</mark></td><td class=s>90%</td></tr>
+<tr class=goed><td class=n>18</td><td><mark>usquè</mark> ad unum; per Regenerationem emollitur <mark>&amp; ad obse-</mark></td><td class=o><mark>usque</mark> ad unum <mark>;</mark> per Regenerationem emollitur</td><td class=s>88%</td></tr>
+<tr class=goed><td class=n>19</td><td>quium flectitur, Jerem. 32. v. <mark>8.</mark> Reverentiam mei indam ani-</td><td class=o>quium flectitur, Jerem . <mark>32.</mark> v: <mark>S.</mark> Reverentiam mei indam ani¬</td><td class=s>99%</td></tr>
+<tr class=goed><td class=n>20</td><td>mo illorum, ut non recedant <mark>à</mark> me, <mark>Ezech.</mark> 11. v. 20. Quod ob-</td><td class=o>mo illorum, ut non recedant <mark>a</mark> me <mark>, Ffcch . n</mark> . v. 20. Quod ob¬</td><td class=s>88%</td></tr>
+<tr class=goed><td class=n>21</td><td>servatum volumus contra <mark>Socinianos,</mark> qui voluntatem Re-</td><td class=o>servatum volumus contra <mark>Sccinianos,</mark> qui voluntatem Re¬</td><td class=s>98%</td></tr>
+<tr class=redelijk><td class=n>22</td><td><mark>generationis inhærente</mark> gratia affici negare audent. <mark>Asse-</mark></td><td class=o>gratia affici negare audent <mark>.</mark></td><td class=s>65%</td></tr>
+<tr class=goed><td class=n>23</td><td>ctus hominis, quales sunt amor, ira, <mark>æmulatio,</mark> desiderium,</td><td class=o>ctus hominis <mark>,</mark> quales sunt amor, ira, <mark>amulatio -,</mark> desiderium <mark>,</mark></td><td class=s>99%</td></tr>
+<tr class=alleen><td class=n></td><td class=gap>ontbreekt in de transcriptie?</td><td class=o><mark>odium , latitia , trtflttia</mark></td><td class=s>alleen OCR</td></tr>
+<tr class=redelijk><td class=n>24</td><td><mark>odium, lætitia, tristitia &amp;c.</mark> ante Regenerationem sunt ef-</td><td class=o>ante Regenerationem sunt ef-</td><td class=s>66%</td></tr>
+<tr class=goed><td class=n>25</td><td><mark>frænati;</mark> per Regenerationem intemperies paulatim sana-</td><td class=o><mark>franati ;</mark> per Regenerationem intemperies paulatim fana¬</td><td class=s>99%</td></tr>
+<tr class=goed><td class=n>26</td><td>tur, ut in rectæ <mark>&amp;</mark> per Spiritum <mark>renovatæ</mark> rationis gy-</td><td class=o>tur <mark>,</mark> ut&#x27; in rectae <mark>Se</mark> per Spiritum <mark>renovata -</mark> rationis gy¬</td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>27</td><td>rum se contrahi patiantur: Huc pertinet illud Pauli, <mark>Gal.</mark></td><td class=o>rum se contrahi patiantur <mark>:</mark> Huc pertinet illud Pauli <mark>, Cal.</mark></td><td class=s>98%</td></tr>
+<tr class=redelijk><td class=n>28</td><td><mark>5.</mark> v. 24. <mark>qui suam carnem crucifixerunt</mark> cum <mark>affectibus &amp;</mark> cu-</td><td class=o><mark>s.</mark> v. 24. <mark>quisuam carrum crucisxerunt</mark> cum <mark>ajft&amp;ilus fr</mark> cu¬</td><td class=s>73%</td></tr>
+<tr class=goed><td class=n>29</td><td>piditatibus.</td><td class=o>piditatibus. <mark>-</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>30</td><td>XXX.</td><td class=o>xxx <mark>;</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>31</td><td>Forma Regenerationis consistit in reali mutatione <mark>ho-</mark></td><td class=o>Forma Regenerationis consistit in reali mutatione</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>32</td><td>minis, per <mark>impressionem</mark> sive inditionem <mark>novæ vitæ,</mark> qua ho-</td><td class=o>minis <mark>,</mark> per <mark>imprefiomm</mark> sive inditionem <mark>nova? vita?,</mark> qua ho¬</td><td class=s>94%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/pdfs/W05238_Nicolaus_Disputatio_theologica_textualis_ex_Ioh_3_v_5_de_regeneration_1674.pdf#page=15' target=_blank>scan 15</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=goed><td class=n>1</td><td><mark>mo</mark> fit nova creatura; <mark>quæ</mark> inde vivificatio novi hominis di-</td><td class=o><mark>imo</mark> fit nova creatura <mark>, qua?</mark> inde vivificatio novi hominis di-</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>2</td><td><mark>citur.</mark> Sicut autem <mark>unius generatio</mark> est alterius corruptio; ita</td><td class=o><mark>.cicur .</mark> Sicut autem <mark>uniusgeneratio</mark> eft alterius corruptio <mark>;</mark> ita</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>3</td><td>hic vivificationem novi hominis sequitur mortificatio Veteris;</td><td class=o>hic vivificationem novi hominis sequitur mortificatio Veteris;</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>4</td><td><mark>quæ in corruptionis</mark> &amp; pravitatis <mark>nostræ nativæ</mark> abolitio-</td><td class=o>&amp; pravitatis <mark>nostra ? nativa ?</mark> abolitio¬</td><td class=s>76%</td></tr>
+<tr class=goed><td class=n>5</td><td>ne, suis gradibus constante, de quibus <mark>Catechismus,</mark> con-</td><td class=o>ne <mark>»</mark> suis gradibus constante <mark>,</mark> de quibus <mark>Catechisinus ,</mark> con¬</td><td class=s>97%</td></tr>
+<tr class=redelijk><td class=n>6</td><td><mark>sistit.</mark></td><td class=o><mark>iistit.</mark></td><td class=s>83%</td></tr>
+<tr class=goed><td class=n>7</td><td>XXXI.</td><td class=o>XXXI</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>8</td><td>Non <mark>itaq;</mark> consistit Regeneratio in actionum tantum</td><td class=o>Non <mark>icaq ;</mark> consistit Regeneratio in actionum tantum</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>9</td><td><mark>&amp; vitæ anteactæ</mark> mutatione, verum in ipsius <mark>naturæ</mark> interna</td><td class=o><mark>6c vita? anteacta ?</mark> mutatione <mark>,</mark> verum in ipsius <mark>natura</mark> interna</td><td class=s>94%</td></tr>
+<tr class=redelijk><td class=n>10</td><td><mark>reali &amp;</mark> hyperphysica mutatione; <mark>qua Veteris hominis na-</mark></td><td class=o><mark>Sc</mark> hyperphyfica mutatione</td><td class=s>60%</td></tr>
+<tr class=redelijk><td class=n>11</td><td>tura non tantum <mark>reprimitur, moresq; mutantur, sed etiam</mark></td><td class=o>tura non tantum <mark>reprimitur,moresq</mark></td><td class=s>78%</td></tr>
+<tr class=goed><td class=n>12</td><td>aboletur, &amp; vera sanctitas ac justitia ejus loco substituitur,</td><td class=o>aboletur, &amp; vera sanctitas ac justitia ejus loco substituitur <mark>,</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>13</td><td>quod observandum est contra Socinianos, qui eam tantum</td><td class=o>quod observandum est contra Socinianos, qui eam tantum</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>14</td><td>in <mark>anteactæ vitæ</mark> mutatione, atq; ad Christi legem confor-</td><td class=o>in <mark>anteacta ? vita ?</mark> mutatione <mark>,</mark> atq <mark>,</mark> ad Christi legem confor¬</td><td class=s>98%</td></tr>
+<tr class=redelijk><td class=n>15</td><td><mark>matione ponunt:</mark> quia videlicet corruptionem <mark>naturæ non</mark></td><td class=o><mark>:</mark> quia videlicet corruptionem</td><td class=s>68%</td></tr>
+<tr class=redelijk><td class=n>16</td><td>agnoscunt, unde etiam adultis solum <mark>Regenerationem</mark></td><td class=o>agnoscunt <mark>,</mark> unde etiam adultis solum</td><td class=s>81%</td></tr>
+<tr class=redelijk><td class=n>17</td><td><mark>competere existimant,</mark> contra <mark>Scripturæ</mark> Authoritatem,</td><td class=o><mark>,</mark> contra <mark>Scriptura</mark> Authoritatem <mark>,</mark></td><td class=s>73%</td></tr>
+<tr class=goed><td class=n>18</td><td><mark>quæ</mark> prout <mark>naturæ nostræ</mark> scaturiginem vitiatam, ac son-</td><td class=o><mark>’</mark> prout <mark>natura ; nostra ?</mark> scaturiginem vitiatam <mark>,</mark> ac fon¬</td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>19</td><td>tem ipsum insincerum <mark>esse</mark> docet, ita universum <mark>hominem,</mark></td><td class=o>tem ipsum insincerum <mark>este</mark> docet <mark>,</mark> ita universum <mark>homine ,</mark></td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>20</td><td>mentem, voluntatem, affectus, corpus ac membra deniq;</td><td class=o>-mentem <mark>,</mark> voluntatem <mark>,</mark> affectus, corpus ac membra deniq <mark>;</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>21</td><td>omnia regenerari debere docet; nec adultos solum, sed</td><td class=o>omnia regenerari debere docet <mark>;</mark> nec adultos solum <mark>,</mark> sed</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>22</td><td>ipsos quoq; infantes beneficij istius participes <mark>facit. 1.Thes-</mark></td><td class=o>■ipsos quoq <mark>;</mark> infantes benesicij istius participes <mark>facit,i .Thefi</mark></td><td class=s>98%</td></tr>
+<tr class=redelijk><td class=n>23</td><td><mark>sal. 5: 23. Ipse</mark> vero <mark>Deus</mark> pacis sanctificet vos <mark>[?]ὁλοτελεῖς,</mark> integros,</td><td class=o><mark>Ipfi</mark> vero <mark>Dem</mark> pacis sanctificet vos <mark>ogimAoc,</mark> integros,</td><td class=s>75%</td></tr>
+<tr class=goed><td class=n>24</td><td><mark>Eph. 4: 23.</mark> Renovari autem <mark>spiritu</mark> mentis <mark>vestræ. Gen. 8. v. 21.</mark></td><td class=o>Renovari autem <mark>Jpiritu</mark> mentis <mark>veftra.</mark></td><td class=s>86%</td></tr>
+<tr class=goed><td class=n>25</td><td>Eo <mark>quod figmentum</mark> cordis <mark>hominis sit</mark> malum <mark>à pueritia ipsius.</mark></td><td class=o>Eo <mark>quodfigmentum</mark> cordis <mark>hominisfit</mark> malum <mark>iipueritia</mark></td><td class=s>91%</td></tr>
+<tr class=goed><td class=n>26</td><td>Rom. 7. v. 14. &amp; 6. v. 12. <mark>19.</mark> Luc. 1. v. 15. &amp; v. 80.</td><td class=o>Rom <mark>.j</mark> . v. <mark>14</mark> . &amp; 6. V.12 . <mark>ip.</mark> Luc. 1. v, <mark>is</mark> . &amp; v. 80,</td><td class=s>85%</td></tr>
+<tr class=goed><td class=n>27</td><td><mark>XXXII.</mark></td><td class=o><mark>XXXI</mark></td><td class=s>89%</td></tr>
+<tr class=goed><td class=n>28</td><td>Respectu horum actuum formalium idea &amp; exem-</td><td class=o>Respectu horum actuum formalium idea &amp; exem¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>29</td><td>plar <mark>perfectissimum</mark> est Christus crucifixus, mortuus, &amp; <mark>è</mark></td><td class=o>plar <mark>perfectislimum</mark> est Christus crucifixus <mark>,</mark> mortuus <mark>,</mark> &amp; <mark>e</mark></td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>30</td><td>mortuis suscitatus, cum quo nos <mark>unà</mark> crucifigi &amp; resurgere</td><td class=o>mortuis suscitatus, cum quo nos <mark>una</mark> crucifigi &amp; resurgere</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>31</td><td>decet, Matth. 11. v. <mark>29.</mark> Huic coalescimus <mark>assimilatione</mark> mor-</td><td class=o>decet <mark>,</mark> Matth. 11. v. <mark>2p.</mark> Huic coalescimus <mark>astimilatione</mark> mor¬</td><td class=s>96%</td></tr>
+<tr class=redelijk><td class=n>32</td><td><mark>tis, atq; etiam resurrectionis</mark> ipsius Rom. 6. v. 4. <mark>s.</mark> Christus</td><td class=o>ipsius Rom . <mark>&lt;&gt;,</mark> v, <mark>p</mark> . <mark>/ .</mark> Christus</td><td class=s>57%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/pdfs/W05238_Nicolaus_Disputatio_theologica_textualis_ex_Ioh_3_v_5_de_regeneration_1674.pdf#page=16' target=_blank>scan 16</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=goed><td class=n>1</td><td>enim <mark>morte</mark> sua beneficium istud nobis <mark>acquisivit: atque</mark> ut</td><td class=o><mark>-</mark> enim <mark>moste</mark> sua beneficium istud nobis <mark>acquisiyk : atq ;</mark> ut</td><td class=s>91%</td></tr>
+<tr class=goed><td class=n>2</td><td>moriens, mortificationis illius, sic <mark>resurgens</mark> vivificationis</td><td class=o>moriens <mark>,</mark> mortificationis illius <mark>,</mark> sic <mark>resiirgens</mark> vivificationis</td><td class=s>97%</td></tr>
+<tr class=redelijk><td class=n>3</td><td><mark>quodammodo</mark> causa exemplaris, &amp; simul <mark>virtualiter</mark> causa</td><td class=o>causa exemplaris <mark>,</mark> &amp; simul <mark>vircualicer-</mark> causa</td><td class=s>84%</td></tr>
+<tr class=goed><td class=n>4</td><td>efficiens principalis existit.</td><td class=o>efficiens principalis existit <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>5</td><td>XXXIII.</td><td class=o>XXXIII</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>6</td><td><mark>Modus</mark> Regenerationis, quo Spiritus Sanctus utitur in</td><td class=o><mark>t-Modm</mark> Regenerationis <mark>,</mark> quo Spiritus Sanctus utitur in</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>7</td><td>regenerandis hominibus, pro diversis subjectis diversi-</td><td class=o>regenerandis hominibus <mark>,</mark> pro diversis subjectis diversi¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>8</td><td><mark>modè</mark> se habet, aliter se habet in adultis, qui plerunque</td><td class=o><mark>mode</mark> se habet <mark>,</mark> aliter se habet in adultis <mark>,</mark> qui plerunque</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>9</td><td><mark>valdè</mark> est sensibilis, dum nova ista luce perculsus animus</td><td class=o><mark>valde</mark> est sensibilis <mark>,</mark> dum nova ista luce perculsus animus</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>10</td><td><mark>stupet, ac</mark> ad proprias sordes horret <mark>&amp; æstuat,</mark> nec <mark>sine</mark> mo-</td><td class=o><mark>stupet,ac</mark> ad proprias sordes horret <mark>Sctestuat,</mark> nec <mark>line</mark> mo¬</td><td class=s>94%</td></tr>
+<tr class=goed><td class=n>11</td><td>tu Spiritus Sancti opus suum peragit. <mark>Hoc audito compuncti</mark></td><td class=o>tu Spiritus Sancti opus suum peragit <mark>. Hocaudito compuncli</mark></td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>12</td><td><mark>sunt corde, Act.</mark> 2. v. 37. Aliter in infantibus in Ecclesia natis,</td><td class=o><mark>fiunt corde,Aci. 2</mark> . v. 37. Aliter in infantibus in Ecclesia natis <mark>,</mark></td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>13</td><td><mark>interque</mark> faustas sanctorum preces in sinu ejus educatis se</td><td class=o><mark>incerq ;</mark> faustas sanctorum preces in sinu ejus educatis se</td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>14</td><td>res habet. A teneris Deo dedicati magis regenitos <mark>sese[?] esse</mark></td><td class=o>res habet <mark>.</mark> A teneris Deo dedicati magis regenitos <mark>lese eile</mark></td><td class=s>94%</td></tr>
+<tr class=goed><td class=n>15</td><td>deprehendunt, <mark>quàm</mark> regenerari senserunt, fere ut in na-</td><td class=o>deprehendunt <mark>, quam</mark> regenerari senserunt <mark>,</mark> fere ut in na¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>16</td><td>turali generatione videmus.</td><td class=o>turali generatione videmus <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>17</td><td>XXXIV.</td><td class=o>XXXIV</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>18</td><td>Patet hinc hominem in primo momento <mark>novæ</mark> hujus</td><td class=o>Patet hinc hominem in primo momento <mark>nova</mark> hujus</td><td class=s>99%</td></tr>
+<tr class=redelijk><td class=n>19</td><td><mark>generationis se habere</mark> mere <mark>passive, quando</mark> in se spirituali-</td><td class=o>mere <mark>pafiive,quando</mark> in se spirituali <mark>-</mark></td><td class=s>73%</td></tr>
+<tr class=redelijk><td class=n>20</td><td><mark>ter mortuus primùm</mark> recipit efficaciam Spiritus <mark>vivifi-</mark></td><td class=o><mark>-primum</mark> recipit efficaciam Spiritus</td><td class=s>77%</td></tr>
+<tr class=goed><td class=n>21</td><td>cantis, eiq; inditur principium <mark>vitæ</mark> spiritualis, ex <mark>quo sta-</mark></td><td class=o>cantis, eiq <mark>;</mark> inditur principium <mark>vita;</mark> spiritualis <mark>,</mark> ex <mark>quosta -</mark></td><td class=s>99%</td></tr>
+<tr class=goed><td class=n>22</td><td>tim agere incipit: ante Regenerationem <mark>ergò</mark> homo non po-</td><td class=o>tim agere incipit <mark>:</mark> ante Regenerationem <mark>ergo</mark> homo non po¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>23</td><td>test <mark>v. g.</mark> salutariter audire <mark>verbum Dei, totali</mark> enim impoten-</td><td class=o>test <mark>v.g .</mark> salutariter audire <mark>verbi ! Dei,totali</mark> enim impoten¬</td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>24</td><td>tia laborat in ordine ad bona <mark>spiritualia</mark> salutaria. <mark>Hinc</mark></td><td class=o>tia laborat in ordine ad bona <mark>(jAritualia</mark> salutaria <mark>.</mark></td><td class=s>92%</td></tr>
+<tr class=goed><td class=n>25</td><td><mark>Rom. 8. v. 7. Quod sapit</mark> caro, inimicitia <mark>est adversus</mark> Deum: Le-</td><td class=o><mark>Quodsapit</mark> caro, inimicitia <mark>eftadversus</mark> Deum <mark>:</mark> Le¬</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>26</td><td>gi enim Dei non <mark>subjicitur, nec potest</mark> quidem, <mark>1. Cor. 2. v. 24. Ani-</mark></td><td class=o>gi enim Dei non <mark>Jubipcitur, ne potefl</mark> quidem <mark>-,r.Cor.2.v.24. Arti-</mark></td><td class=s>88%</td></tr>
+<tr class=goed><td class=n>27</td><td>malis homo non <mark>est</mark> capax eorum, <mark>quæ</mark> sunt spiritus Dei; <mark>sunt</mark></td><td class=o>malis homo non <mark>cft</mark> capax eorum <mark>, qua</mark> sunt spiritus Dei <mark>; fiunt</mark></td><td class=s>96%</td></tr>
+<tr class=goed><td class=n>28</td><td><mark>enim ei stultitia, nec potest</mark> ea <mark>cognoscere,</mark> quia <mark>spiritualiter di-</mark></td><td class=o><mark>emm eiftultitia , necpotefl</mark> ea <mark>cognoflere,</mark> quia <mark>fipirituahter</mark></td><td class=s>88%</td></tr>
+<tr class=geen><td class=n>29</td><td>judicantur.</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=goed><td class=n>30</td><td>XXXV.</td><td class=o>XXXV</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>31</td><td><mark>Finis subalternus</mark> Regenerationis est, <mark>quo homo re-</mark></td><td class=o>Regenerationis est <mark>,</mark></td><td class=s>58%</td></tr>
+<tr class=redelijk><td class=n>32</td><td>generatur <mark>in spem</mark> vivam, hoc <mark>est, hæreditatem, quæ nec perire</mark></td><td class=o>generatur <mark>infliem</mark> vivam <mark>,</mark> hoc <mark>efl, hareditatem</mark></td><td class=s>79%</td></tr>
+<tr class=redelijk><td class=n>33</td><td><mark>potest,</mark> nec <mark>contaminari, nec marcescere, quæ</mark> in <mark>cœlis</mark> servatur: 1. <mark>Pet.</mark></td><td class=o><mark>■&gt;</mark> nec <mark>marcefiere , qua</mark> in <mark>cadis</mark> fervatur :</td><td class=s>64%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/pdfs/W05238_Nicolaus_Disputatio_theologica_textualis_ex_Ioh_3_v_5_de_regeneration_1674.pdf#page=17' target=_blank>scan 17</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=redelijk><td class=n>1</td><td><mark>1.Pet.</mark> 1. <mark>v.3. 4. Summus, gloriosæ misericordiæ</mark> Dei demon-</td><td class=o><mark>misericordia</mark> ; Dei demon¬</td><td class=s>67%</td></tr>
+<tr class=goed><td class=n>2</td><td>stratio. Rom. 6. v. 4. <mark>Ut sicut suscitatus est Christus ad</mark> gloriam</td><td class=o>stratio <mark>.</mark> Rom. 6. v. 4 <mark>. UtJicutfiaficitatus efl Christusad</mark> gloriam</td><td class=s>92%</td></tr>
+<tr class=goed><td class=n>3</td><td>Dei Patris, ita <mark>&amp;</mark> nos <mark>novâ vitâ</mark> ambulemus, nimirum ad glo-</td><td class=o>Dei Patris, ita <mark>(jr</mark> nos <mark>nova vita</mark> ambulemus <mark>,</mark> nimirum ad glo¬</td><td class=s>91%</td></tr>
+<tr class=goed><td class=n>4</td><td>riam Dei, 1.Cor. 6. v.10. Glorificate Deum in <mark>corpore vestro,</mark> &amp;</td><td class=o>riam Dei. <mark>/ •</mark> Cor. 4. v <mark>.io.</mark> Glorificate Deum in <mark>corporevefiro,</mark> &amp;</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>5</td><td>in Spiritu <mark>vestro, quæ sunt</mark> Dei.</td><td class=o>in Spiritu <mark>vefiro, quafimt</mark> Dei,</td><td class=s>86%</td></tr>
+<tr class=goed><td class=n>6</td><td>XXXVI.</td><td class=o>XXXVI</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>7</td><td><mark>Effecta</mark> Regenerationis <mark>sunt</mark> vires, quas nancisci-mur</td><td class=o>Regenerationis <mark>sime</mark> vires <mark>,</mark> quas nanciscimur</td><td class=s>84%</td></tr>
+<tr class=redelijk><td class=n>8</td><td><mark>per eam,quibus tum Deum,tum</mark> fratres nostros diligimus,</td><td class=o>fratres nostros diligimus <mark>,</mark></td><td class=s>68%</td></tr>
+<tr class=redelijk><td class=n>9</td><td>1. <mark>Joh.4.v.7.&amp;</mark> 5.v.6. <mark>1.Pet.1.v.22.23. Quibus vincimus mundum,</mark></td><td class=o><mark>j, Job -a .v.y.fir s,v.</mark> 4. <mark>i .Pet.i</mark> .v.22,23. <mark>fipuihusvincimusmundum,</mark></td><td class=s>73%</td></tr>
+<tr class=goed><td class=n>10</td><td>hoc est, quicquid mandatis Dei reluctatur <mark>1.</mark> Joh. 5. v.4. Et</td><td class=o>hoc est, quicquid mandatis Dei reluctatur <mark>i.</mark> Joh . <mark>f.</mark> v.4. Et</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>11</td><td>quibus <mark>resistimus peccato,</mark> ne illud nobis dominetur, <mark>1.Joh3.</mark></td><td class=o>quibus <mark>rcfiftimuspeccato ,</mark> ne illud nobis dominetur <mark>, i.Joh,3.</mark></td><td class=s>97%</td></tr>
+<tr class=geen><td class=n>12</td><td>v.9. &amp; 5. v. 18.</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=redelijk><td class=n>13</td><td><mark>XXXVII.</mark></td><td class=o><mark>XXXV11</mark></td><td class=s>80%</td></tr>
+<tr class=goed><td class=n>14</td><td><mark>Adjunctorum,quæ</mark> sequuntur, <mark>Regenerationis primum</mark></td><td class=o><mark>&#x27;unciorum ,qua;</mark> sequuntur <mark>, Regenerationisprimum</mark></td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>15</td><td>est tempus, quod variat pro <mark>sapientissimo</mark> Dei regeneran-</td><td class=o>est tempus, quod variat pro <mark>sapientistimo</mark> Dei regeneran¬</td><td class=s>98%</td></tr>
+<tr class=redelijk><td class=n>16</td><td><mark>tis consilio &amp; voluntate</mark> ; alios enim ante baptismum,</td><td class=o>; alios enim ante baptismum <mark>,</mark></td><td class=s>67%</td></tr>
+<tr class=goed><td class=n>17</td><td>alios in baptismo,alios post baptismum; Alios <mark>manè,alios,</mark></td><td class=o>alios in baptismo,alios post baptismum <mark>;</mark> Alios <mark>mane,alios ,</mark></td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>18</td><td>hora tertia, alios sexta, alios nona, quosdam etiam un-</td><td class=o>hora tertia <mark>,</mark> alios sexta <mark>,</mark> alios nona <mark>,</mark> quosdam etiam un¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>19</td><td>decima demum hora regenerat, secundum parabolam</td><td class=o>decima demum hora regenerat <mark>,</mark> secundum parabolam</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>20</td><td><mark>Matth. 20. v. 1. seqq.</mark> Non <mark>ergò</mark> infantes fœderatorum an-</td><td class=o>Non <mark>ergo</mark> infantes foederatorum an¬</td><td class=s>82%</td></tr>
+<tr class=goed><td class=n>21</td><td>te baptismum discedentes hoc beneficio privandi &amp; <mark>cœ-</mark></td><td class=o>te baptismum discedentes hoc beneficio privandi &amp; <mark>cce-</mark></td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>22</td><td>lo excludendi sunt, potest enim Deus ipsis rem Sacra-</td><td class=o>lo excludendi sunt <mark>,</mark> potest enim Deus ipsis rem Sacra¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>23</td><td>menti conferre absq; Sacramento, licet modus ille, quo</td><td class=o>menti conferre absq <mark>;</mark> Sacramento <mark>,</mark> licet modus ille, quo</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>24</td><td>hoc fit, nobis non ita sit notus.</td><td class=o>hoc fit, nobis non ita sit notus <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>25</td><td><mark>XXXVIII.</mark></td><td class=o><mark>XXXV111</mark></td><td class=s>73%</td></tr>
+<tr class=goed><td class=n>26</td><td><mark>Alterum Regenerationis adjunctum</mark> est Certitudo, qua</td><td class=o><mark>Regenerationisadjunctum</mark> est Certitudo, qua</td><td class=s>92%</td></tr>
+<tr class=goed><td class=n>27</td><td>quis de sui Regeneratione certus esse potest; fieri potest au-</td><td class=o>quis de fui Regeneratione certus esse potest <mark>;</mark> fieri potest au¬</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>28</td><td>tem hoc tribus <mark>potissimum</mark> indiciis. 1. <mark>Firmo propo-</mark></td><td class=o>tem hoc tribus <mark>potistimum</mark> indiciis .</td><td class=s>83%</td></tr>
+<tr class=redelijk><td class=n>29</td><td><mark>sito permanendi</mark> in gratia salutari per Christum, <mark>Act.</mark> 11.</td><td class=o>in gratia salutari per Christum , <mark>Aci. //.</mark></td><td class=s>78%</td></tr>
+<tr class=goed><td class=n>30</td><td>v. 17. 18. Hinc Apostoli interrogati, an &amp; ipsi vellent <mark>à</mark> Chri-</td><td class=o>v. /7. 18. Hinc Apostoli interrogati <mark>,</mark> an &amp; ipsi vellent <mark>a</mark> Chri¬</td><td class=s>98%</td></tr>
+<tr class=redelijk><td class=n>31</td><td><mark>sto abire? Respondent;</mark> Domine ad quem abibimus? ver-</td><td class=o><mark>;</mark> Domine ad quem abibimus? ver¬</td><td class=s>72%</td></tr>
+<tr class=redelijk><td class=n>32</td><td><mark>ba vitæ æternæ habes. II.</mark> Serio &amp; actuali studio confer-</td><td class=o><mark>sto abire_a ? Respondent</mark> Serio &amp; actuali studio conser¬</td><td class=s>71%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/pdfs/W05238_Nicolaus_Disputatio_theologica_textualis_ex_Ioh_3_v_5_de_regeneration_1674.pdf#page=18' target=_blank>scan 18</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=goed><td class=n>1</td><td>vandi &amp; confirmandi gratiam Christi, resistendi dubi-</td><td class=o>vandi &amp; confirmandi gratiam Christi <mark>,</mark> resistendi dubi¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>2</td><td>tationibus,cavendi <mark>lapsus,&amp;</mark> imprimis peccata contra con-</td><td class=o>tationibus,cavendi <mark>lapsus,Sc</mark> imprimis peccata contra con¬</td><td class=s>96%</td></tr>
+<tr class=redelijk><td class=n>3</td><td>scientiam. Heb. 6. v.11. 1. <mark>Joh.3.v.30. III. Vera &amp; seria</mark></td><td class=o>scientiam <mark>.</mark> Heb <mark>. es. v. ii . i. Job</mark> .3. v. 30.</td><td class=s>64%</td></tr>
+<tr class=goed><td class=n>4</td><td>resipiscentia post lapsum, qua propositum &amp; studium per-</td><td class=o>resipiscentia post lapsum <mark>,</mark> qua propositum &amp; studium per¬</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>5</td><td>severandi quasi instauratur <mark>in fidelibus &amp; renatis. Je-</mark></td><td class=o>severandi quasi instauratur</td><td class=s>69%</td></tr>
+<tr class=redelijk><td class=n>6</td><td><mark>rem.31. v.18.19.</mark> Pertinet huc Psalm.32. &amp; <mark>51. Patet hinc</mark></td><td class=o>Pertinet huc Psalm. <mark>32.</mark> &amp; <mark>5r.</mark></td><td class=s>72%</td></tr>
+<tr class=goed><td class=n>7</td><td>errare eos, qui absq; <mark>speciali</mark> &amp; extraordinaria <mark>revelatione</mark></td><td class=o>errare eos, qui absq <mark>;feciali</mark> &amp; extraordinaria <mark>revelatione.L,’</mark></td><td class=s>98%</td></tr>
+<tr class=redelijk><td class=n>8</td><td><mark>certitudinem suæ</mark> Regenerationis haberi <mark>posse</mark> negant.</td><td class=o><mark>siiX</mark> Regenerationis haberi <mark>poste</mark> negant <mark>.</mark></td><td class=s>78%</td></tr>
+<tr class=goed><td class=n>9</td><td>XXXIX.</td><td class=o>XXXIX</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>10</td><td>Tertium: gradus Regenerationis <mark>primæ</mark> nulli dantur,quia</td><td class=o>Tertium :gradus Regenerationis <mark>prima</mark> nulli dantur,quia</td><td class=s>99%</td></tr>
+<tr class=redelijk><td class=n>11</td><td><mark>hæc unico momento</mark> absolvitur, <mark>cùm vita spiritualis par-</mark></td><td class=o>absolvitur <mark>, cum vitafiritualis</mark></td><td class=s>70%</td></tr>
+<tr class=goed><td class=n>12</td><td>tes non admittat, non magis <mark>quàm</mark> naturalis generatio vel</td><td class=o>tes non admittat <mark>,</mark> non magis <mark>quam</mark> naturalis generatio vel</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>13</td><td><mark>mortuorum</mark> vivificatio; Distinguendus enim ab ea est præ-</td><td class=o>vivificatio <mark>\</mark> Distinguendus enim ab ea est prae¬</td><td class=s>90%</td></tr>
+<tr class=goed><td class=n>14</td><td>vius ille apparatus &amp; longa Spiritus molimina, quibus ad</td><td class=o>vius ille apparatus &amp; longa Spiritus molimina <mark>,</mark> quibus ad</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>15</td><td><mark>conversionem persæpè viam</mark> facit: <mark>quæ</mark> &amp; in mortuorum</td><td class=o>facit <mark>: qua;</mark> &amp; in mortuorum</td><td class=s>63%</td></tr>
+<tr class=alleen><td class=n></td><td class=gap>ontbreekt in de transcriptie?</td><td class=o><mark>conversionem persicpe viam</mark></td><td class=s>alleen OCR</td></tr>
+<tr class=goed><td class=n>16</td><td>suscitatione adhibita legimus,2. Reg.4. v.34.36. <mark>Quæ</mark> moram</td><td class=o>suscitatione adhibita legimus <mark>,2.</mark> Reg.4 <mark>.</mark> v.34 <mark>. 30. Qua;</mark> moram</td><td class=s>99%</td></tr>
+<tr class=goed><td class=n>17</td><td>aliquam plerumq; admittunt, sed in iis formalis <mark>Regenera-</mark></td><td class=o>aliquam plerumq <mark>;</mark> admittunt <mark>,</mark> sed in iis formalis <mark>Regenerar</mark></td><td class=s>99%</td></tr>
+<tr class=redelijk><td class=n>18</td><td><mark>tionis ratio non consistit:</mark> si <mark>verò</mark> perfectionem &amp; incremen-</td><td class=o><mark>:</mark> si <mark>vero</mark> perfectionem &amp; incremen¬</td><td class=s>68%</td></tr>
+<tr class=goed><td class=n>19</td><td>tum spectes, non simul &amp; semel absolvitur, sed per gra-</td><td class=o>tum spectes, non simul &amp; semel absolvitur <mark>,</mark> sed per gra¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>20</td><td><mark>dus,unde</mark> etiam quidam regeniti pueris, quidam <mark>verò</mark> vi-</td><td class=o><mark>dus, unde</mark> etiam quidam regeniti pueris <mark>,</mark> quidam <mark>vero</mark> vi¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>21</td><td>ris adultis &amp; perfectis <mark>comparantur,Hebr.5.&amp;</mark> Eph.4. Quem-</td><td class=o>ris adultis &amp; perfectis <mark>comparantur ,Hebr.s.fir</mark> Eph .4.Quem¬</td><td class=s>93%</td></tr>
+<tr class=goed><td class=n>22</td><td>admodum <mark>verò</mark> pueri, etsi imperfectius eam exserunt,in-</td><td class=o>admodum <mark>vero</mark> pueri <mark>,</mark> etsi imperfectius eam exserunt,in¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>23</td><td>tegram tamen hominis formam, omnibus suis partibus</td><td class=o>tegram tamen hominis formam <mark>,</mark> omnibus suis partibus</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>24</td><td>constantem habent, sic neminem <mark>verè</mark> resipiscentem aut</td><td class=o>constantem habent <mark>,</mark> sic neminem <mark>vere</mark> resipiscentem aut</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>25</td><td>regenitum agnoscimus, nisi qui formam integram ratio-</td><td class=o>regenitum agnoscimus <mark>,</mark> nisi qui formam integram ratio¬</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>26</td><td><mark>ne partium</mark> Regenerationis <mark>possidet,</mark> etsi quotidie ei sit pro-</td><td class=o><mark>nepartium</mark> Regenerationis <mark>postidet ,</mark> etsi quotidie ei sit pro¬</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>27</td><td>ficiendum in perfectione graduum.</td><td class=o>ficiendum in perfectione graduum <mark>.</mark></td><td class=s>100%</td></tr>
+<tr><td class=n>28</td><td>XL.</td><td class=o></td><td class=s></td></tr>
+<tr class=goed><td class=n>29</td><td><mark>Quartum;</mark> Signa Regenerationis <mark>&amp; sanctificationis</mark> in-</td><td class=o><mark>fipuartum ;</mark> Signa Regenerationis <mark>&amp;sanctificationis</mark> in-</td><td class=s>96%</td></tr>
+<tr class=redelijk><td class=n>30</td><td><mark>stauratæq;</mark> imaginis <mark>Dei</mark> in nobis sunt. 1. <mark>Fides in Do-</mark></td><td class=o><mark>stauratteq ;</mark> imaginis <mark>Z&gt;ei</mark> in nobis sunt .</td><td class=s>82%</td></tr>
+<tr class=goed><td class=n>31</td><td>minum Jesum, <mark>1. Joh.5. v.1. Quisquis credit Jesum esse Chri-</mark></td><td class=o>minum <mark>]Esum , i. Joh &#x27;f,v .i. Quisquiscredit</mark> Jesum <mark>eseChri-</mark></td><td class=s>94%</td></tr>
+<tr class=redelijk><td class=n>32</td><td><mark>stum</mark> illum, ex <mark>Deo genitus</mark> est. <mark>II. Charitas erga Deum &amp;</mark></td><td class=o><mark>flum</mark> illum, ex <mark>Deogenitus</mark> eft.</td><td class=s>68%</td></tr>
+<tr class=goed><td class=n>33</td><td>proxi-</td><td class=o>proxi <mark>-</mark></td><td class=s>100%</td></tr>
+<tr><td class=n>34</td><td>C</td><td class=o></td><td class=s></td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/pdfs/W05238_Nicolaus_Disputatio_theologica_textualis_ex_Ioh_3_v_5_de_regeneration_1674.pdf#page=19' target=_blank>scan 19</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=goed><td class=n>1</td><td><mark>proximum,</mark> 1. Joh. <mark>5. v.1.</mark> Et quisquis diligit eum, qui genuit,</td><td class=o><mark>. /</mark> . Joh <mark>.S. v.t.</mark> Et quisquis diligit eum <mark>,</mark> qui genuit,</td><td class=s>87%</td></tr>
+<tr class=redelijk><td class=n>2</td><td><mark>diligit</mark> etiam eum, qui ex eo genitus <mark>est. III. Fuga peccatorum</mark></td><td class=o><mark>ili . Fuga peccato¬</mark> etiam eum, qui ex eo genitus <mark>eß.</mark></td><td class=s>68%</td></tr>
+<tr class=redelijk><td class=n>3</td><td>&amp; <mark>occasionum</mark> peccandi, <mark>1. Joh. 5. v. 18. Quisquis natus</mark></td><td class=o>&amp; <mark>occafion um</mark> peccandi,/</td><td class=s>70%</td></tr>
+<tr class=goed><td class=n>4</td><td><mark>est ex</mark> Deo non peccat: sed qui genitus <mark>est</mark> ex Deo, <mark>conservat se-</mark></td><td class=o>Deo non peccat :sed qui genitus <mark>eß</mark> ex Deo <mark>■, conservatfi ^</mark></td><td class=s>90%</td></tr>
+<tr class=goed><td class=n>5</td><td>ipsum, &amp; malus ille non tangit eum.</td><td class=o>ipsum, &amp; malus ille non tangit eum.</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>6</td><td><mark>XLI.</mark></td><td class=o><mark>XLL</mark></td><td class=s>67%</td></tr>
+<tr class=goed><td class=n>7</td><td>Superest alterum <mark>doctrinæ suprà propositæ membrum</mark></td><td class=o>Superest alterum <mark>doctrina ? supra proposita ? mem¬</mark></td><td class=s>91%</td></tr>
+<tr class=redelijk><td class=n>8</td><td><mark>nempè necessitas</mark> Regenerationis <mark>quæ inter adjuncta</mark></td><td class=o><mark>nempe nccesitas</mark> Regenerationis <mark>qua</mark></td><td class=s>75%</td></tr>
+<tr class=goed><td class=n>9</td><td>posset esse quintum, <mark>&amp; inde</mark> probatur, 1. Quia Christus</td><td class=o>posset esse quintum, <mark>Scinde</mark> probatur <mark>, I</mark> . Quia Christus</td><td class=s>94%</td></tr>
+<tr class=goed><td class=n>10</td><td><mark>hanc gravissima asseveratione adstruit, Joh.3.v.3. Matt.18.v.3.</mark></td><td class=o><mark>hancgravistimaasseverationeadstruit</mark></td><td class=s>86%</td></tr>
+<tr class=redelijk><td class=n>11</td><td><mark>II.</mark> Quia sine ea nemo potest <mark>videre regnum Dei &amp; in illud</mark></td><td class=o>Quia sine ea nemo potest</td><td class=s>61%</td></tr>
+<tr class=redelijk><td class=n>12</td><td>ingredi, Matth. 18. <mark>v.3. III.</mark> Quia <mark>sine</mark> ea nemo <mark>amicus</mark></td><td class=o>ingredi, Matth . <mark>iS. v.j .</mark> Quia <mark>absq ;</mark> ea nemo <mark>IV .</mark></td><td class=s>79%</td></tr>
+<tr class=redelijk><td class=n>13</td><td><mark>Dei</mark> fieri potest, Rom. 8. v. 7. <mark>IV. Quia absq; ea nemo</mark></td><td class=o>sieri potest <mark>,</mark> Rom <mark>.</mark> 8. v. / <mark>. nobis</mark></td><td class=s>63%</td></tr>
+<tr class=redelijk><td class=n>14</td><td>Deo placere potest, <mark>Rom.</mark> 8. <mark>v. 8. Deus enim nobis</mark></td><td class=o>Deo placere potest ,</td><td class=s>65%</td></tr>
+<tr class=goed><td class=n>15</td><td>remittit peccata, ut in posterum desinamus eum <mark>offendere</mark></td><td class=o>remittit peccata <mark>,</mark> ut in posterum desinamus eum <mark>offen¬</mark></td><td class=s>96%</td></tr>
+<tr class=redelijk><td class=n>16</td><td><mark>peccatis nostris.</mark> Non possumus autem <mark>à</mark> peccatis</td><td class=o><mark>,</mark> Non possumus autem <mark>ä</mark> peccatis</td><td class=s>74%</td></tr>
+<tr class=goed><td class=n>17</td><td>desistere, nisi natura nostra per Spiritum Sanctum instau-</td><td class=o>desistere <mark>,</mark> nisi natura nostra per Spiritum Sanctum instau¬</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>18</td><td><mark>retur:</mark> Sed manum <mark>de tabula; ipse Deus pacis san-</mark></td><td class=o><mark>pacis san¬ de rabula ; ipse Deus</mark> Sed manum</td><td class=s>61%</td></tr>
+<tr class=goed><td class=n>19</td><td>ctificet nos totos: <mark>&amp;</mark> integer noster spiritus, <mark>&amp;</mark> anima &amp;</td><td class=o>ctificet nos totos <mark>: St</mark> integer noster spiritus <mark>, St</mark> anima &amp;</td><td class=s>96%</td></tr>
+<tr class=redelijk><td class=n>20</td><td>corpus <mark>inculpatè,</mark> in adventum <mark>Domini nostri Jesu</mark></td><td class=o>corpus <mark>inculpate ,</mark> in adventum</td><td class=s>73%</td></tr>
+<tr class=redelijk><td class=n>21</td><td><mark>Christi conservemur;</mark> fidelis est; qui vocavit nos,</td><td class=o><mark>,</mark> fidelis est, qui vocavit nos, <mark>,</mark></td><td class=s>72%</td></tr>
+<tr class=goed><td class=n>22</td><td>qui etiam id efficiet, cui sit laus in</td><td class=o>qui etiam id efficiet <mark>,</mark> cui sit laus in <mark>.</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>23</td><td>secula <mark>A M E N!</mark></td><td class=o>fecula <mark>Amen</mark></td><td class=s>100%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/pdfs/W05238_Nicolaus_Disputatio_theologica_textualis_ex_Ioh_3_v_5_de_regeneration_1674.pdf#page=20' target=_blank>scan 20</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=goed><td class=n>1</td><td><mark>Præstantissimo</mark> Domino</td><td class=o><mark>Pr &amp;fiantißimo</mark> Domino</td><td class=s>90%</td></tr>
+<tr class=redelijk><td class=n>2</td><td><mark>Authori,</mark> Contubernali <mark>Lectissimo.</mark></td><td class=o>Contubernali <mark>Leciißimo,</mark></td><td class=s>82%</td></tr>
+<tr class=goed><td class=n>3</td><td><mark>Numquid</mark> JACOBE ludimur,</td><td class=o><mark>Umquid</mark> JACOBE ludimur,</td><td class=s>97%</td></tr>
+<tr class=goed><td class=n>4</td><td><mark>Fortunæ</mark> volucri ludimur</td><td class=o><mark>Fortuna ;</mark> volucri ludimur</td><td class=s>98%</td></tr>
+<tr class=redelijk><td class=n>5</td><td><mark>impetu! Æternum</mark> nihil est sacro</td><td class=o>nihil est sacro</td><td class=s>65%</td></tr>
+<tr class=goed><td class=n>6</td><td>Quicquid lenta tulit materies</td><td class=o>Quicquid lenta tulit materies</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>7</td><td><mark>sinu.</mark> Statur casibus. <mark>Occidet</mark></td><td class=o>Statur casibus <mark>.</mark></td><td class=s>70%</td></tr>
+<tr class=redelijk><td class=n>8</td><td>Quod surgit, sed adhuc surget <mark>&amp; occidet,</mark></td><td class=o>Quod surgit <mark>,</mark> sed adhuc surget</td><td class=s>84%</td></tr>
+<tr class=redelijk><td class=n>9</td><td><mark>Ritu præcipitis pilæ,</mark></td><td class=o><mark>pra;cipitis pila ; ,</mark></td><td class=s>82%</td></tr>
+<tr class=goed><td class=n>10</td><td><mark>Quæ</mark> cum pulsa cava rejicitur <mark>manu,</mark></td><td class=o><mark>Qute</mark> cum pulsa cava rejicitur</td><td class=s>89%</td></tr>
+<tr class=goed><td class=n>11</td><td>Nunc leves <mark>secat</mark> Africos,</td><td class=o>Nunc leves <mark>lecat</mark> Africos <mark>,</mark></td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>12</td><td>Nunc <mark>terræ</mark> refugis absilit ictibus:</td><td class=o>Nunc <mark>terra ;</mark> refugis absilit ictibus</td><td class=s>98%</td></tr>
+<tr class=goed><td class=n>13</td><td>Vesper vespere truditur,</td><td class=o>Vesper vespere truditur <mark>,</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>14</td><td>Sed nunc deterior, nunc melior</td><td class=o>Sed nunc deterior <mark>,</mark> nunc melior</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>15</td><td><mark>subit:</mark> Magnas Fors rapit interim</td><td class=o>Magnas Fors rapit interim</td><td class=s>90%</td></tr>
+<tr class=redelijk><td class=n>16</td><td>Urbesq; &amp; populos <mark>&amp; miserabili</mark></td><td class=o>Urbesq <mark>;</mark> &amp; populos</td><td class=s>71%</td></tr>
+<tr class=goed><td class=n>17</td><td>Reges subruit impetu:</td><td class=o>Reges subruit impetu <mark>:</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>18</td><td>Et sceptri decus, &amp; regna cadentium</td><td class=o>Et sceptri decus, &amp; regna cadentium</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>19</td><td>Permiscet cineri Ducum;</td><td class=o>Permiscet cineri Ducum <mark>;</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>20</td><td>Auratasq; trabes &amp; penetralia</td><td class=o>Auratasq <mark>;</mark> trabes &amp; penetralia</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>21</td><td><mark>Et</mark> cives simul &amp; super</td><td class=o>cives simul &amp; super</td><td class=s>94%</td></tr>
+<tr class=goed><td class=n>22</td><td>Eversis sepelit turribus oppida.</td><td class=o>Eversis sepelit turribus oppida</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>23</td><td><mark>Sic</mark> quod prodit in Orbem</td><td class=o>quod prodit in Orbem</td><td class=s>92%</td></tr>
+<tr class=goed><td class=n>24</td><td>Jam jam <mark>magnificè, cras miserè</mark></td><td class=o>Jam jam <mark>magnisice,cras misere</mark></td><td class=s>92%</td></tr>
+<tr class=goed><td class=n>25</td><td><mark>perit;</mark> Florens hic hodie occidit,</td><td class=o>Florens hic hodie occidit <mark>,</mark></td><td class=s>90%</td></tr>
+<tr class=goed><td class=n>26</td><td>Surgit mox alius natus ad aspera.</td><td class=o>Surgit mox alius natus ad aspera.</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>27</td><td>Eheu JACOBE <mark>ludimur,</mark></td><td class=o>Eheu JACOBE</td><td class=s>74%</td></tr>
+<tr class=goed><td class=n>28</td><td>Fatorum <mark>rapidâ</mark> ludimur <mark>orbitâ!</mark></td><td class=o>Fatorum <mark>rapida</mark> ludimur <mark>orbita</mark></td><td class=s>92%</td></tr>
+</table></section>
+<section><h3><a href='file:///tmp/pdfs/W05238_Nicolaus_Disputatio_theologica_textualis_ex_Ioh_3_v_5_de_regeneration_1674.pdf#page=21' target=_blank>scan 21</a></h3>
+<table><tr><th>regel</th><th>transcriptie</th><th>OCR</th><th>overeenkomst</th></tr>
+<tr class=goed><td class=n>1</td><td><mark>Quid!</mark> nil perpetuum <mark>cedò,</mark></td><td class=o><mark>J</mark> nil perpetuum <mark>cedo ,</mark></td><td class=s>86%</td></tr>
+<tr class=goed><td class=n>2</td><td>Quicquid tellus habet singula lubrica?</td><td class=o>Quicquid tellus habet singula lubrica?</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>3</td><td><mark>Est,</mark> semper quod, ais, manet,</td><td class=o>semper quod, ais, manet»</td><td class=s>92%</td></tr>
+<tr class=goed><td class=n>4</td><td>Est <mark>quid, quod</mark> faciem non variat suam;</td><td class=o>Est <mark>quid»quod</mark> faciem non variat suam</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>5</td><td><mark>Est, quæ</mark> permanet, altera</td><td class=o><mark>qu£</mark> permanet <mark>,</mark> altera</td><td class=s>86%</td></tr>
+<tr class=goed><td class=n>6</td><td>Constans ac stabilis, vera, creatio,</td><td class=o>Constans ac stabilis, vera, creatio,</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>7</td><td><mark>Quâ</mark> Sol <mark>Justitiæ</mark> Sacer</td><td class=o>Sol <mark>Justitiar</mark> Sacer</td><td class=s>86%</td></tr>
+<tr class=goed><td class=n>8</td><td>Vult signare suos, quos amat ac fovet,</td><td class=o>Vult signare suos, quos amat ac fovet,</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>9</td><td><mark>Per</mark> Flamen radians suum,</td><td class=o>Flamen radians suum <mark>,</mark></td><td class=s>92%</td></tr>
+<tr class=goed><td class=n>10</td><td>Mortem ne videant insuper horridam,</td><td class=o>Mortem ne videant insuper horridam</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>11</td><td>Quos divellere non queunt</td><td class=o>Quos divellere non queunt</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>12</td><td>A&#x27; Christo Domino nec bona nec mala.</td><td class=o>A&#x27; Christo Domino nec bona nec mala.</td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>13</td><td><mark>Hæc</mark> non vertit imaginem,</td><td class=o>non vertit imaginem <mark>,</mark></td><td class=s>89%</td></tr>
+<tr class=goed><td class=n>14</td><td><mark>Quæ</mark> cras,est hodie, cuncta ruant licet,</td><td class=o><mark>QuX</mark> cras,est hodie, cuncta ruant licet,</td><td class=s>95%</td></tr>
+<tr class=goed><td class=n>15</td><td><mark>Nunquàm</mark> non eadem stat <mark>hæc;</mark></td><td class=o><mark>Nunquam</mark> non eadem stat <mark>htec ;</mark></td><td class=s>91%</td></tr>
+<tr class=goed><td class=n>16</td><td>Fiet terra polus, nix prius atra erit,</td><td class=o>Fiet terra polus <mark>,</mark> nix prius atra erit <mark>,</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>17</td><td>Ante agnus comedet lupum,</td><td class=o>Ante agnus comedet lupum <mark>,</mark></td><td class=s>100%</td></tr>
+<tr class=goed><td class=n>18</td><td>Ullis viribus <mark>hæc quàm</mark> detur irrita.</td><td class=o>Ullis viribus <mark>ha;c quam</mark> detur irrita.</td><td class=s>95%</td></tr>
+<tr class=redelijk><td class=n>19</td><td><mark>Hem!</mark> quis doctus hic <mark>HALLER est?</mark></td><td class=o><mark>Flem !</mark> quis doctus hic</td><td class=s>71%</td></tr>
+<tr class=goed><td class=n>20</td><td>Dignus qui reliquas exeat ad Scholas.</td><td class=o>Dignus qui reliquas exeat ad Scholas.</td><td class=s>100%</td></tr>
+<tr class=redelijk><td class=n>21</td><td>Hoc <mark>amicitiæ</mark> non intermoritura <mark>πυμήνειον[?]</mark></td><td class=o>Hoc <mark>amicitia</mark> non intermoritura</td><td class=s>84%</td></tr>
+<tr class=goed><td class=n>22</td><td><mark>annectere</mark> voluit, cujus</td><td class=o><mark>anneciere</mark> voluit, cujus</td><td class=s>95%</td></tr>
+<tr class=geen><td class=n>23</td><td>Ἰησοῦς Τὸ Νῖκος.</td><td class=o></td><td class=s>geen</td></tr>
+<tr class=goed><td class=n>24</td><td>FINIS</td><td class=o>FINIS</td><td class=s>100%</td></tr>
+</table></section>
