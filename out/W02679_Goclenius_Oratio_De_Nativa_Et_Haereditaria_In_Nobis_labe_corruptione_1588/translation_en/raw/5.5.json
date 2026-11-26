@@ -1,0 +1,40 @@
+{
+  "units": [
+    "5.5",
+    "5.6",
+    "5.7",
+    "5.11",
+    "5.12",
+    "5.13",
+    "6.9",
+    "6.10",
+    "6.11",
+    "6.12",
+    "6.13",
+    "6.14",
+    "6.15",
+    "6.16"
+  ],
+  "model": "claude-haiku-5-5",
+  "prompt_sha256": "c444cb42a1fdd7af",
+  "stop_reason": "end_turn",
+  "batch": false,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 1790
+    },
+    "cache_creation_input_tokens": 1790,
+    "cache_read_input_tokens": 0,
+    "inference_geo": "global",
+    "input_tokens": 427,
+    "output_tokens": 1630,
+    "output_tokens_details": {
+      "thinking_tokens": 1369
+    },
+    "server_tool_use": null,
+    "service_tier": "standard",
+    "speed": "standard"
+  },
+  "cost_usd": 0.00108
+}

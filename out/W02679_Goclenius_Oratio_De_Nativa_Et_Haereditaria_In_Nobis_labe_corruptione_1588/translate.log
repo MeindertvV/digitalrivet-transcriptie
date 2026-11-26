@@ -1,0 +1,41 @@
+Translating 15 group(s) into English with claude-haiku-5-5, effort medium, batch
+Submitted batch msgbatch_01REXcvkSJQwj6Tiw3BMrbuq with 15 group(s)
+Batch msgbatch_01REXcvkSJQwj6Tiw3BMrbuq: 15 processing, 0 done, 0 errored
+Batch msgbatch_01REXcvkSJQwj6Tiw3BMrbuq: 15 processing, 0 done, 0 errored
+Batch msgbatch_01REXcvkSJQwj6Tiw3BMrbuq: 15 processing, 0 done, 0 errored
+Batch msgbatch_01REXcvkSJQwj6Tiw3BMrbuq: 15 processing, 0 done, 0 errored
+Batch msgbatch_01REXcvkSJQwj6Tiw3BMrbuq: 15 processing, 0 done, 0 errored
+Batch msgbatch_01REXcvkSJQwj6Tiw3BMrbuq: 15 processing, 0 done, 0 errored
+  13.1: ok  [5 units, 3718 out (1032 thinking), $0.0011, total $0.00]
+    note: unit(s) [1, 2, 3] without the italics of the Latin
+  32.2: ok  [6 units, 3767 out (762 thinking), $0.0012, total $0.00]
+  25.3: ok  [1 units, 6117 out (1876 thinking), $0.0018, total $0.00]
+  24.1: ok  [4 units, 3095 out (1765 thinking), $0.0009, total $0.01]
+  42.1: ok  [11 units, 1770 out (978 thinking), $0.0005, total $0.01]
+  43.2: ok  [6 units, 1501 out (1087 thinking), $0.0004, total $0.01]
+  7.1: ok  [3 units, 1258 out (627 thinking), $0.0004, total $0.01]
+  44.1: FAILED: unit(s) ['44.1'] next to a unit that failed; unit(s) ['44.2'] much shorter than the Latin  [2 units, 53 out, $0.0000, total $0.01]
+  5.1: 23 of 37 units ok, unit(s) ['5.5', '5.7', '5.11', '5.13', '6.9'] next to a unit that failed; unit(s) ['5.6', '5.12'] much longer than the Latin; unit(s) ['6.10', '6.11', '6.12', '6.13', '6.14', '6.15', '6.16'] missing  [37 units, 1331 out (709 thinking), $0.0005, total $0.01]
+  7.4: ok  [2 units, 4997 out (1214 thinking), $0.0015, total $0.01]
+    note: unit(s) [9] without the italics of the Latin
+  36.2: ok  [9 units, 3703 out (2080 thinking), $0.0011, total $0.01]
+  44.3: FAILED: unit(s) ['44.3', '44.5'] next to a unit that failed; unit(s) ['44.4'] much shorter than the Latin  [3 units, 94 out, $0.0000, total $0.01]
+  20.1: ok  [1 units, 4098 out (1143 thinking), $0.0012, total $0.01]
+  38.2: ok  [36 units, 5865 out (3707 thinking), $0.0016, total $0.01]
+  17.2: ok  [1 units, 4496 out (2461 thinking), $0.0013, total $0.01]
+Retrying 3 group(s) with units left directly
+  44.3~2: FAILED: unit(s) ['44.3', '44.5'] next to a unit that failed; unit(s) ['44.4'] much shorter than the Latin  [3 units, 74 out, $0.0003, total $0.01]
+  44.1~2: 1 of 2 units ok, unit(s) ['44.2'] left in Latin  [2 units, 122 out, $0.0003, total $0.01]
+  44.3~3: FAILED: unit(s) ['44.3', '44.5'] next to a unit that failed; unit(s) ['44.4'] much shorter than the Latin  [3 units, 298 out (220 thinking), $0.0002, total $0.01]
+  44.2: FAILED: unit(s) ['44.2'] much shorter than the Latin  [1 units, 30 out, $0.0001, total $0.01]
+  44.2~2: FAILED: unit(s) ['44.2'] left in Latin  [1 units, 104 out, $0.0001, total $0.01]
+  44.3~4: FAILED: unit(s) ['44.3', '44.5'] next to a unit that failed; unit(s) ['44.4'] much shorter than the Latin  [3 units, 309 out (243 thinking), $0.0002, total $0.01]
+  44.3: translating its 3 remaining units one by one
+  44.3~5: ok  [1 units, 33 out, $0.0001, total $0.01]
+  44.4: ok  [1 units, 36 out, $0.0001, total $0.01]
+  44.5: ok  [1 units, 223 out (199 thinking), $0.0001, total $0.02]
+  5.5: ok  [14 units, 1630 out (1369 thinking), $0.0011, total $0.02]
+Translated 9 of 9 running head(s)  [$0.0005]
+1 group(s) failed, listed in /home/user/digitalrivet-transcriptie/out/W02679_Goclenius_Oratio_De_Nativa_Et_Haereditaria_In_Nobis_labe_corruptione_1588/translation_en/failed.txt
+Spent this run: $0.016
+126 of 127 units translated -> /home/user/digitalrivet-transcriptie/out/W02679_Goclenius_Oratio_De_Nativa_Et_Haereditaria_In_Nobis_labe_corruptione_1588/translation_en.json
