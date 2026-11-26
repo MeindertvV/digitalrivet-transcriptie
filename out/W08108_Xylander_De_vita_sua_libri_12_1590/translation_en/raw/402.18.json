@@ -1,0 +1,43 @@
+{
+  "units": [
+    "402.18",
+    "402.19",
+    "402.20",
+    "402.21",
+    "402.22",
+    "402.23",
+    "402.24",
+    "402.25",
+    "402.26",
+    "402.27",
+    "402.28",
+    "402.29",
+    "402.30",
+    "402.31",
+    "402.32",
+    "402.33",
+    "402.34"
+  ],
+  "model": "claude-haiku-5-5",
+  "prompt_sha256": "9a9e7885ef9e25e9",
+  "stop_reason": "end_turn",
+  "batch": true,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 1771,
+    "inference_geo": "global",
+    "input_tokens": 285,
+    "output_tokens": 967,
+    "output_tokens_details": {
+      "thinking_tokens": 758
+    },
+    "server_tool_use": null,
+    "service_tier": "batch",
+    "speed": "standard"
+  },
+  "cost_usd": 0.00026
+}
