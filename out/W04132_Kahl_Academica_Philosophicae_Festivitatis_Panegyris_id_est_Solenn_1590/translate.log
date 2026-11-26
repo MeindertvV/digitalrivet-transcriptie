@@ -2,3 +2,32 @@ Translating 9 group(s) into English with claude-haiku-5-5, effort medium, batch
 Submitted batch msgbatch_01M4aBRMiAXE6efmSU9LUXSi with 9 group(s)
 Batch msgbatch_01M4aBRMiAXE6efmSU9LUXSi: 9 processing, 0 done, 0 errored
 Batch msgbatch_01M4aBRMiAXE6efmSU9LUXSi: 9 processing, 0 done, 0 errored
+Translating 9 group(s) into English with claude-haiku-5-5, effort medium, batch
+Batch msgbatch_01M4aBRMiAXE6efmSU9LUXSi: 9 processing, 0 done, 0 errored
+Batch msgbatch_01M4aBRMiAXE6efmSU9LUXSi: 9 processing, 0 done, 0 errored
+Batch msgbatch_01M4aBRMiAXE6efmSU9LUXSi: 9 processing, 0 done, 0 errored
+Batch msgbatch_01M4aBRMiAXE6efmSU9LUXSi: 9 processing, 0 done, 0 errored
+Batch msgbatch_01M4aBRMiAXE6efmSU9LUXSi: 9 processing, 0 done, 0 errored
+  5.1: ok  [11 units, 2566 out (1317 thinking), $0.0007, total $0.00]
+  17.2: ok  [5 units, 3929 out (867 thinking), $0.0012, total $0.00]
+  13.2: ok  [10 units, 2996 out, $0.0010, total $0.00]
+  31.2: 41 of 46 units ok, unit(s) ['31.2', '32.3'] next to a unit that failed; unit(s) ['32.2'] much longer than the Latin; unit(s) ['34.2', '34.3'] left in Latin  [46 units, 3858 out (730 thinking), $0.0012, total $0.00]
+  26.3: ok  [6 units, 3634 out (568 thinking), $0.0011, total $0.01]
+  38.8: ok  [21 units, 1406 out (1017 thinking), $0.0004, total $0.01]
+  22.2: ok  [3 units, 3491 out (425 thinking), $0.0011, total $0.01]
+  9.1: ok  [8 units, 3029 out (389 thinking), $0.0010, total $0.01]
+    note: unit(s) [15, 16, 17] without the italics of the Latin
+  3.1: 29 of 42 units ok, unit(s) ['3.11', '3.13', '3.15', '4.10'] next to a unit that failed; unit(s) ['3.12', '3.14'] much longer than the Latin; unit(s) ['4.11', '4.12', '4.13', '4.14', '4.15', '4.16', '4.17'] missing  [42 units, 1320 out (668 thinking), $0.0005, total $0.01]
+Retrying 2 group(s) with units left directly
+  3.11: ok  [13 units, 1004 out (815 thinking), $0.0008, total $0.01]
+  31.2~2: 3 of 5 units ok, unit(s) ['34.2'] next to a unit that failed; unit(s) ['34.3'] much shorter than the Latin  [5 units, 2008 out (676 thinking), $0.0014, total $0.01]
+  34.2: FAILED: unit(s) ['34.2'] next to a unit that failed; unit(s) ['34.3'] much shorter than the Latin  [2 units, 216 out (173 thinking), $0.0002, total $0.01]
+  34.2~2: FAILED: unit(s) ['34.2'] next to a unit that failed; unit(s) ['34.3'] much shorter than the Latin  [2 units, 188 out (129 thinking), $0.0002, total $0.01]
+  31.2: translating its 2 remaining units one by one
+  34.2~3: ok  [1 units, 116 out (89 thinking), $0.0001, total $0.01]
+  34.3: FAILED: unit(s) ['34.3'] much shorter than the Latin  [1 units, 125 out (111 thinking), $0.0001, total $0.01]
+  34.3~2: FAILED: unit(s) ['34.3'] left in Latin  [1 units, 263 out (162 thinking), $0.0002, total $0.01]
+  34.3~3: FAILED: unit(s) ['34.3'] much shorter than the Latin  [1 units, 178 out (164 thinking), $0.0001, total $0.01]
+1 group(s) failed, listed in /home/user/digitalrivet-transcriptie/out/W04132_Kahl_Academica_Philosophicae_Festivitatis_Panegyris_id_est_Solenn_1590/translation_en/failed.txt
+Spent this run: $0.011
+151 of 152 units translated -> /home/user/digitalrivet-transcriptie/out/W04132_Kahl_Academica_Philosophicae_Festivitatis_Panegyris_id_est_Solenn_1590/translation_en.json
