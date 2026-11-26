@@ -1,0 +1,33 @@
+{
+  "units": [
+    "299.12",
+    "300.18",
+    "301.16",
+    "301.33",
+    "302.9",
+    "302.26",
+    "303.5"
+  ],
+  "model": "claude-haiku-5-5",
+  "prompt_sha256": "6ec95f8e15d9cffc",
+  "stop_reason": "end_turn",
+  "batch": true,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 1779,
+    "inference_geo": "global",
+    "input_tokens": 4317,
+    "output_tokens": 3524,
+    "output_tokens_details": {
+      "thinking_tokens": 542
+    },
+    "server_tool_use": null,
+    "service_tier": "batch",
+    "speed": "standard"
+  },
+  "cost_usd": 0.00111
+}
