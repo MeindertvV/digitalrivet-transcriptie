@@ -1,0 +1,664 @@
+<?xml version='1.0' encoding='utf-8'?>
+<book source="W07369_Ulrich_Diatribe_de_sacramentis_in_genere_et_specie_qua_capita_confe_1629.pdf">
+  <page type="empty" n="1" model="claude-haiku-5-5">
+    <layout>One printed page on the scan: digitiser's cover sheet with e-rara logo, title block, and multilingual licence text. No printed text of the book itself. Everything here is the digitiser's cover and is left out.</layout>
+    <notes>Digitiser's cover sheet, not part of the printed book: e-rara.ch logo, Visual Library logo, and the usage notes in German, English, French and Italian are omitted. The bibliographic data on the cover (title, author, place and year, library shelf mark and persistent link) is not transcribed because it is the digitiser's catalogue information, not the printed page of the 1629 book. The scan shows no printed page number, running head, catchword or signature.</notes>
+  </page>
+  <page type="title" n="2" model="claude-haiku-5-5">
+    <layout>One printed page (title page), centred lines only; a handwritten number at upper right is not printed text and is left out.</layout>
+    <main_text>
+      <l>DIATRIBE</l>
+      <l>DE</l>
+      <l>SACRAMENTIS</l>
+      <l>IN GENERE ET</l>
+      <l>SPECIE,</l>
+      <l>Qua capita Confessionis</l>
+      <l>Helveticæ XIX. XX. &amp; XXI.</l>
+      <l>circa quæstiones controversas, certis aphorismis</l>
+      <l>eorundemq; exegesibus comprehensa, Exetasei publicæ, postridie Synodi, VI. Maii</l>
+      <l>subiiicietur:</l>
+      <l>DE QVA</l>
+      <l>Præside</l>
+      <l>IOH. IACOBO HVLDRICO,</l>
+      <l>sacrarum Literarum in Schola Tigurina Professore ordinario,</l>
+      <l>disputabit</l>
+      <l>SALOMON GESSNERVS,</l>
+      <l>Ecclesiæ Vallis-villanæ ad lacum Tigurinum, pastor,</l>
+      <l>Respondente</l>
+      <l>IOH. HENRICO ZELLERO</l>
+      <l>S. Theolog. studioso.</l>
+      <l>TIGVRI</l>
+      <l>Typis Ioh. Iacobi Bodmeri, Anno M.DC.XXIX.</l>
+    </main_text>
+    <notes>Handwritten pencil/ink number "26" at upper right is not printed and is omitted. Faint show-through from the reverse page is omitted. Title page has no running head or page number.</notes>
+  </page>
+  <page type="text" lines="none" n="3" model="claude-haiku-5-5">
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One page of text, single column, with a dedication heading block at top, a large initial paragraph and a closing signature block below. No margin notes. A pencilled shelf mark at top left is not transcribed.</layout>
+    <running_head />
+    <bottom_margin>
+      <catchword />
+      <signature />
+    </bottom_margin>
+    <main_text>
+      <l n="1" type="heading" level="1" para="true">MAGNIFICO ET AMPLISSIMO VIRO, DN. SALOMONI HIRTZELIO, Reipublicæ Tigurinæ Quæstori prudentissimo, PATRI: NEC NON PIETATE, GENERE, ERUDITIONE præstantissimo &amp; spectatissimo viro, DN. SALOMONI HIRTZELIO, Reipub. eiusdem Ducentûm - viro, FILIO: Utrique Synedrÿ Ecclesiastici Assessori, DN. DN. Cognatis summoperé observandis, Salutem.</l>
+      <l n="2" para="true">RELLIGIO divina micat tûm dogmate Verbi Salvifici ; gemino tûm conspicienda sigillo Fœderis æterni ; sacro quæ flumine tingit ; Quæque salutifero pascit potuq; ciboq; Progeniem, CHRISTI pretioso sanguine partam. Hæc rata iustitiæ fidei sunt symbola, cordis Fulcimenta piî titubantis ; tessera cœtus Christicolûm, edocti sincerâ linquere mente Fictitios meriti ritus spuriósque profani.</l>
+      <l n="3" para="true">Ista sub auspiciis Vestris emittitur arrha, Nominis observans vestri, trutinata, PATRONI: Gloriæ &amp; esse cliens vestræ desiderat ; almo hunc Accipite amplexu vestro fœtumq; fovere.</l>
+      <l n="4" para="true">MAGNIF. &amp; SPECTABIL. V. V. Observantiss. cognatus, Salomon Gessnerus, Ecclesiæ Vallis - villanæ ad lacum Tigurinum Pastor, de Consilio DN. Præsidis.</l>
+    </main_text>
+    <notes>Dedication page; the heading block is set in mixed roman and italic type, with a large woodcut initial R. Some ink smudging at top right. Printed text in the upper right corner is show-through and was not transcribed.</notes>
+  </page>
+  <page type="text" lines="none" n="4" model="claude-haiku-5-5">
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One page of text, single column; catchword-style signature "A 2" and catchword "appel-" at the foot right; no margin notes.</layout>
+    <running_head />
+    <bottom_margin>
+      <catchword>appel-</catchword>
+      <signature>A 2</signature>
+    </bottom_margin>
+    <main_text>
+      <l n="1" type="heading" level="1" caput="19" para="true">DE SACRAMENTIS IN GENERE. Iuxta declarationem Capitis XIX. Confessionis Helveticæ.</l>
+      <l n="2" type="heading" level="2" para="true">THESIS PRIMA.</l>
+      <l n="3" para="true">INomni vero, genuino &amp; ordinario Sacramento, conditiones quaternæ observandæ sunt: quarum unâ vel pluribus deficientibus, Sacramentum tale appellari nō potest.</l>
+      <l n="4" para="true">PRIMA est, ut ab ipso Deo diserté sit institutum: ab eo enim tota Sacramentorum, promissionis divinæ signaculorum, vis &amp; efficacia dependet. <i>Sicut enim solius Dei proprium est, gratiam promittere &amp; fœdus cum genere humano sancire: ita solius Dei promissoris proprium est sigilla fœderis &amp; gratiæ cœlestis sancire; &amp; sigilla ista non nisi ex voluntate &amp; pacto instituentis efficacia sunt in animis credentium. Ecclesia verò non habet potestatem instituendi Sacramentum, vel substantiale quid in Sacramento divinitus sancito mutandi. Deut. 4. 2. Non addetis, nec diminuetis quicquam ab eo, quod præcepi vobis. Deut. 12. v. 8. 32. Non facietis singuli, quod rectum vobis videtur in oculis vestris, sed custodietis præcepta Iehovæ Dei vestri. Iesa. 29. 13. Matth. 15. v. 8. 9. Col. 2. 23. ἐθελοθρησκεία humana in cultu divino repudiatur.</i>
+      </l>
+      <l n="5" type="heading" level="2" para="true">THESIS II.</l>
+      <l n="6" para="true">SECVNDA est, ut verum Sacramentum habeat signum aliquod elementare, in sensus incurrens, quo mediante res cœlestes ac spirituales, cognoscere &amp; comprehendere possimus. <i>Unde Augustinus Sacramentum Verbum visibile appel-</i>
+      </l>
+    </main_text>
+    <notes>Printed "A 2" signature and catchword "appel-" at foot. The Greek word "ἐθελοθρησκεία" is as printed. Page number not printed.</notes>
+  </page>
+  <page type="text" lines="none" n="5" model="claude-haiku-5-5">
+    <warning type="catchword_in_text">catchword taken out of the main text: natum</warning>
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One block of running text in a single column, filling the page; no margin notes; no running head or page number printed at top or foot.</layout>
+    <main_text>
+      <l n="1">
+        <i>appellavit. In simplici prædicatione Verbi, Deus gratiam suam nobis offert &amp; spondet audibiliter: per usum verò Sacramentorum agit nobiscum visibiliter, ut gratiæ cœlestis sigilla, quasi oculis intueri &amp; manibus contrectare queamus. Ad symbolum corporale refertur etiam ceremonia sacramentalis seu ritus externus, qui consistit partim in actione ministri vicem Dei agentis, signum à communi usu separantis, &amp; rei mysticæ significandæ &amp; obsignandæ consecrantis &amp; administrantis, partim in fidelium participatione visibili.</i>
+      </l>
+      <l n="2" type="heading" level="2" para="true">THESIS III.</l>
+      <l n="3" para="true">
+        <bl>TERTIA</bl> est, ut genuinum Sacramentum habeat promissionem Dei de salute æterna, signo visibili annexam, non quamvis generalem, verùm speciali analogiâ ornatâ. Hæc promissio est nucleus &amp; succus &amp; veluti anima veri Sacramenti. Unde πολυθρύλλητον illud Augustini: Accedat Verbum ad elementum, &amp; fit Sacramentum. <i>Verbi institutionis divinæ est partim mandatum, quo Sacramenti administratio &amp; participatio præcipitur: partim verò est promissio authoris, unde Sacramenti usus, efficacia &amp; effectus dependet. Sicut fides requiritur ad efficacem &amp; salutarem Sacramenti usum; &amp; fides nititur fundamento Verbi divini: ita absque præmissa institutionis vel lectione vel explicatione in cœtu Ecclesiastico, Sacramentū administrari non debet. Mat. 26. &amp; 28, Act. 2. &amp; 8. &amp; 10. 1. Cor. 10. &amp; 11. Et qualis est ratio sigillorum, quæ nullius sunt momenti, nisi quatenus diplomatibus annectuntur: talis quoque est ratio Verbi &amp; Sacramentorum. Ioh. 15. 3. Puri estis propter sermonem, Ephes. 5. purgavit nos per lavacrum aquæ in Verbo promissum. Et absque Verbo prædicato præmissō, Sacramenta nec promittunt nec obsignant salutem.</i>
+      </l>
+      <l n="4" type="heading" level="2" para="true">THESIS IIII.</l>
+      <l n="5" para="true">QVARTA est, ut Sacramentum toti Ecclesiæ destinatum</l>
+    </main_text>
+    <notes>Lower part of page is faint; the last line reads "QVARTA est, ut Sacramentum toti Ecclesiæ destinatum" with "natum" set on the following line at the right. Faint show-through of text from the reverse side is ignored. Greek words transcribed as printed: πολυθρύλλητον.</notes>
+    <bottom_margin>
+      <catchword>natum</catchword>
+    </bottom_margin>
+  </page>
+  <page type="text" lines="none" n="6" model="claude-haiku-5-5">
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One page of text, single column, centred; no margin notes; below the text a signature mark "A 3" at left and catchword "THE." at right.</layout>
+    <running_head />
+    <bottom_margin>
+      <catchword>THE.</catchword>
+      <signature>A 3</signature>
+    </bottom_margin>
+    <main_text>
+      <l n="1">natum sit in perpetuum usum, quandiu videlicet externa Ecclesiæ forma est duratura. Mutatâ enim cultus divini formâ externâ, mutatur quoque Sacramentorum usus. Sic Vet. Test. Sacramenta non habent locum in Novo; in hoc enim externa religionis forma est mutata. Circumcisio data fuit respectu durationis toti Ecclesiæ Vet. Test. quia non tantùm sub Abrahamo &amp; Patriarchis, verùm etiam sub Mose, &amp; posteris ejus, durante œconomia Legali, usque ad tempus correctionis usurpari debuit. Baptismus &amp; S. Cœna toti Ecclesiæ Novi Test. data sunt, duratura usque ad finem mundi. Quæ verò actiones sacræ primordijs tantùm Ecclesiæ Christi in universum mundum propagandæ servierunt, in Sacramentis Novi Testamenti ordinarijs numerari non debent.</l>
+      <l n="2" type="heading" level="2" para="true">THESIS V.</l>
+      <l n="3" para="true">Sacramentorum affectiones propriæ sunt binæ: tum VNIO; tum etiam MVTATIO.</l>
+      <l n="4" para="true">VNIO est, quâ signum &amp; res signata coniunguntur relatione mutuâ &amp; analogicâ, &amp; quodam modo unum fiunt, ita ut signo sensibus exhibito, res signata simul fideli cordi demonstretur, obsignetur &amp; exhibeatur. Quam Vnionem Apostolus appellat κοινωνίαν panis &amp; corporis Christi, 1.Cor.10. v.16. Fictitia verò est adversariorum unio, quâ signum essentialiter cum re signata sit coexistens in eodem loco &amp; subjecto, vel quasi res signata in signo sit inclusa, ceu medicamentum in sua pyxide; contentum in suo continente. Hæc unio non est tantùm Verbalis, quæ in nuda similitudine &amp; comparatione unius ad alterum consistat; sed est vera, viva, efficax, dependens ab operatione Spiritus Sancti. Is enim efficit, ut Iesus Christus, etiamsi in cœlis resideat, totus tamen cum omnibus suis beneficijs, nobis in his terris viventibus &amp; credentibus fruendus, non minùs veré &amp; efficaciter donetur &amp; conferatur, quàm signa ipsa in nostros sensus incurrant.</l>
+    </main_text>
+    <notes>Vertical rule and faint show-through of the facing page visible in the background, not transcribed. Greek word in the Pauline citation is transcribed as printed; its accents may be imperfect. No page number printed.</notes>
+  </page>
+  <page type="text" lines="none" n="7" model="claude-haiku-5-5">
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One page of text, one column, centred; no margin notes; catchword "enim" at the lower right below the last line.</layout>
+    <page_number />
+    <running_head />
+    <bottom_margin>
+      <catchword>enim</catchword>
+    </bottom_margin>
+    <main_text>
+      <l n="1" type="heading" level="1" caput="6" para="true">THESIS VI.</l>
+      <l n="2" para="true">MVTATIO est, quâ signa Sacramentalia, Verbo Dei &amp; precibus publicis consecrata, ab officio &amp; usu externo, communi, prophano &amp; terrestri recedunt, atque ita ordinatione divinâ mutantur, hoc est, ad finem &amp; usum sacrum coelestem convertuntur atque sanctificantur. <i>In Sacramento nulla fit mutatio substantiæ &amp; propriorum essentialium, quæ efficiatur miraculosâ quâdam vi verborum institutionis, quæ vulgò Transsubstantiatio dicitur; quâ aqua elementaris in Baptismo mutetur in substantiam sanguinis Christi; vel panis &amp; vinum Eucharisticũ in carnis &amp; sanguinis Christi substantiam. Nec etiam fit συνουσία, quâ IN, CUM, SVB signo Sacramentali, revera coexistat res signata, coelestis: videlicet quód in aquâ Baptismi simul existat ipse sanguis Christi, cum efficacia Spiritus Sancti. Qualis vero est modus unionis Sacramentalis, talis quoque est modus mutationis. At ille est totus Spiritualis: Ergo &amp; hic. Spiritualis inquam, tum quia efficitur operatione Spiritus Sancti: tum quia apprehenditur Spirituali organo fidei. Qualis itemunio &amp; mutatio fuit in Sacramentis Vet. Testam. talis quoque est in Sacramentis N. T. quia omnium Sacramentorum est una communis essentia. Atqui illic fuit tantúm relativa, ratione finis &amp; officij. Ergo &amp; hic.</i>
+      </l>
+      <l n="3" type="heading" level="1" caput="7" para="true">THESIS VII.</l>
+      <l n="4" para="true">Ex gemina illa affectione Sacramentali, emergūt phrases Sacramentales metonymicæ, quibus signo tribuitur nomen rei signatæ; &amp; vicissim. <i>Quó spectat luculentum illud Augustini: Si Sacramenta similitudinem quandam earum rerum non haberent, quarum Sacramenta sunt, Sacramenta omnino non essent. Ex hac autem similitudine ipsarum rerum nomina accipiunt. Item: Solet res, quæ significat, ejus rei nomine, quam significat, nuncupari. Hinc est quod dictum est, Petra erat Christus. Non enim</i>
+      </l>
+    </main_text>
+    <notes>Printed text is in English-style italic and roman mix; the faint show-through from the facing page (ghosted lines at top and middle) is ignored. Doubtful: "itemunio" as printed; "Eucharisticũ" as printed.</notes>
+  </page>
+  <page type="text" lines="none" n="8" model="claude-haiku-5-5">
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One page of text, single column; no margin notes; catchword "THE-" at the lower right below the last line.</layout>
+    <running_head />
+    <bottom_margin>
+      <catchword>THE-</catchword>
+    </bottom_margin>
+    <main_text>
+      <l n="1">enim dixit: Petra significabat Christum; sed tanquam hoc ipsum esset, quod utique per substantiam non erat, sed per significationem. Item: Hæc enim Sacramenta sunt, in quibus non quid sint, sed quid ostendant, semper attenditur: quoniam signa sunt rerum, aliud existentia &amp; aliud significantia. Epist. 23. ad Bonifat. Et lib. 3. in Levitic. quæst. 57.</l>
+      <l n="2" para="true">Metonymia Sacramentalis est duplex, alia Subjecti, alia Adjuncti. Subjecti est, quando vel nomen vel etiam propria adjuncta &amp; effecta signi, tribuuntur rei significatæ: Circumcisio est fœdus: Agnus paschalis est transitus: Panis est corpus, Vinum est sanguis Christi: Baptismus est ablutio peccatorum. Adjuncti, quando vox rei significatæ pro signo suo ponitur: Christus est Pascha: Christus est agnus ab origine mundi mactatus; Corpus Christi in Cœna videtur, frangitur, in terram decidit: Labia sanguine Christi rubescunt; Sanguis Christi in Cœna funditur.</l>
+      <l n="3" type="heading" level="1" caput="8" para="true">THESIS VIII.</l>
+      <l n="4" para="true">Sacramenta convenienter dicuntur Sigilla promissionis divinæ, quia ex ordinatione &amp; pacto Dei instituentis efficaciter obsignant &amp; exhibent nobis veritatem bonorum spiritualium promissorum. Unde Apostolus Rom. 4. Circumcisionem Abrahamo credenti fuisse sigillum iustitiæ fidei testatur.</l>
+      <l n="5" para="true">Etsi enim Verbum Dei, respectu suæ naturæ prius &amp; notius sit Sacramentis: cum verbum Dei, cujuslibet Sacramenti sit anima; Nobis tamen notiora sunt Sacramenta quam Verbum, quia promissionem gratiæ ex Verbo prædicatam &amp; auditam, oculis nostris intuendam proponunt, clariùs illustrant, efficaciùs confirmant &amp; obsignant. Atque ita sæpius fit, ut causa quæ naturâ prior est, arguat &amp; illustret suum effectum &amp; adjuncta: vicissim vero effecta &amp; adjucta causam cognitioni nostræ evidentius exponant. Sic authoritas, natura &amp; forma essentialis Verbi divini &amp; Ecclesiæ, se invicem reciprocè arguunt &amp; illustrant.</l>
+    </main_text>
+    <notes>Catchword "THE-" printed at the lower right. Marginal references "Epist. 23." and "lib. 3." are in the text line. Long s rendered as s; s read as s throughout.</notes>
+  </page>
+  <page type="text" lines="none" n="9" model="claude-haiku-5-5">
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One column of text, centred on the page; no margin notes; no running head or page number printed on this scan.</layout>
+    <main_text>
+      <l n="1" type="heading" level="1" caput="9" para="true">THESIS IX.</l>
+      <l n="2" para="true">
+        <i>Hinc duo προρίσματα resultant. Primum</i>: Nulla ceremonia vel actio habet rationem Sacramenti, extra legitimum usum; quando videlicet praeter &amp; extra Dei Verbum instituitur; vel non iuxta Christi institutionem nec ad finem ab authore propositum administratur.</l>
+      <l n="3" para="true">
+        <i>Sacramenta ergo non prosunt nec conferunt salutem ex opere operato, ut Pontificij afferunt, hoc est, externa ceremoniae administratione, sine fide, sine bono motu animi communicantis &amp; recipientis. Si Dei Verbum, quod est anima Sacramenti, sine fide perceptum nihil prodest, Hebr. 4.2. &amp; gratia salutifera per Evangelium annunciata, non alio instrumento quam fide applicatur, Rom. 4.16. ideo ex fide, ut promissio Dei sit firma: Quanto minus Sacramenta, quae sunt appendices &amp; sigilla promissionis divinae, salutem homini fide destituto conferre possunt? Rom.2.25. Externa carnis circumcisio, hominii infideli, legis divinae transgressori contumaci fit praeputium, ad salutem inefficax, Rom.2.25.</i> Quicquid non ex fide fit, peccatum est. Rom. 14.23. Hebr. 11. v. 6. <i>Impossibile sine fide placere Deo.</i> Plerique eorum, qui ministerio Moysis baptizati fuerant, mari &amp; nube, non placuerunt Deo, 1. Cor. 10. v. 5. <i>Indigne manducantes &amp; bibentes, sibi ipsis judicium edunt &amp; bibunt; rei fiunt corporis &amp; sanguinis Christi. 1. Cor. 11. v. 29. 1. Joh. 5. v. 10.</i> Qui non credit Deo, mendacem eum fecit, quia non credidit testimonio, quod testificatus est Deus de Filio suo.</l>
+      <l n="4" type="heading" level="1" caput="10" para="true">THESIS X.</l>
+      <l n="5" para="true">
+        <i>Alterum est</i>: Cum Sacramenta sint sigilla gratiae salutiferae, eorum ergo usus ad salutem necessarius est, non absolute, sed limitate. Semper enim distinguendum est inter substantiam foederis gratuiti, a quo velut a causa procreante salus nostra simpliciter dependet: &amp; inter foederis eiusdem sigilla externa, quibus ius vitae aeternae proprie non est alliga-</l>
+    </main_text>
+    <notes>Marginal and bottom areas are blank apart from show-through. Greek words in the first thesis are transcribed as best read; "προρίσματα" is uncertain. Some words in the italic passage are doubtful due to ink bleed.</notes>
+  </page>
+  <page type="text" lines="none" n="10" model="claude-haiku-5-5">
+    <warning type="merged_lines">1 line(s) contain several printed lines merged together (longest 458 chars, median 11); line numbering is unreliable</warning>
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One block of text in a single column, with headings centred inside it; a signature mark "B" and a catchword "autho=" at the foot right. No marginal notes.</layout>
+    <running_head />
+    <bottom_margin>
+      <catchword>autho=</catchword>
+      <signature>B</signature>
+    </bottom_margin>
+    <main_text>
+      <l n="1">alligatum. <i>Quicunq; enim electi in fœdere illo comprehenduntur, ij vigore promissionis divinæ τῆς ἀμεταμελήτου, ab æterna salute arceri nõ possunt. Multi verò electi, vel infantes præmaturâ morte hinc divinitus evocati; vel adulti impedimento inevitabili, Sacramentorum participatione orbati, nulla ordinationis divinæ violatione &amp; contemptu intercedente, (quod in persecutionibus sub Turca &amp; Antichristo multoties accidit) interna Dei operatione sanctificantur, hoc est, effusi sanguinis IEsu Christi merito à peccatis abluuntur; Spiritus sancti efficacia ad regnum Dei regenerantur, atque ita spiritualiter per fidem in Filium Dei mortuum &amp; resuscitatum, animabus suis nutriuntur ad vitam æternam.</i>
+      </l>
+      <l n="2" type="heading" level="1" caput="11" para="true">THESIS XI.</l>
+      <l n="3" para="true" merged="true">Sacramenta utriúsque Testamenti differunt ratione accidentis, hoc est, respectu tum signorum, quæ illic cruenta &amp; operosa fuerunt; hic verò incruenta &amp; faciliora sunt; tum modi circa repræsentationem &amp; obsignationem; illa enim Christum venturum eminus &amp; obscurius obsignârunt; hæc verò Christum iam exhibitum comminus &amp; clarius: illa solos Israelitas obligârunt usque ad tempus correctionis; hæc verò omnes gentes obligant duratura usque ad Christi reditum. <i>Fœdus quidem Dei perpetuum &amp; æternum requirere videbatur sigillum perpetuum; verùm non unum &amp; idem numero, licet specie. Externâ enim religionis divinæ formâ in No. Testam. mutatâ, Circumcisio fuit abrogata, juxta Prophetarum oracula, Ierem. 3. v. 16. Ierem. 31. v. 32. Dan. 9. 27. Actor. 15. v. 10. Gal. 5. v. 2. Pascha cum sacrificijs hostiâ Christi in ara crucis consummatum est. Iohan. 19. 30. 1 Cor. 5. v. 7. Atque his abrogatis Baptismus &amp; S. Cœna ordinatione divinâ successerunt.</i>
+      </l>
+      <l n="4" type="heading" level="1" caput="12" para="true">THESIS XII.</l>
+      <l n="5" para="true">Sacramenta verò utrobique conveniunt, tùm ratione autho=</l>
+    </main_text>
+    <notes />
+  </page>
+  <page type="text" lines="none" n="11" model="claude-haiku-5-5">
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One column of running text, centred; a centred heading between two paragraphs. No margin notes, no running head, no page number visible. Ghosted show-through from the facing page appears in the middle and should be ignored.</layout>
+    <main_text>
+      <l n="1">authoris, unius &amp; eiusdem Dei, in uno Mediatore: tum substantiae seu materiae internae, spiritualis, obsignatae, quae utrinque est <i>CHRISTVS</i>: tum denique respectu finis, fiduciam in Christum Servatorem confirmantis &amp; obsignantis; participantes ad gratitudinem &amp; obedientiam erga Deum obstringentis; Ecclesiam Dei a coetibus impiorum discernentis. <i>Promissionis Verbum, quo dona spiritualia credentibus divinitus oblata sunt, etiamsi quoad phrasin differre videatur: ubique tamen Evangelij summa de Semine benedicto inculcatur, Gen. 17. v. 7. Matth. 28. 19. Act. 2. 39. Conveniunt etiam utriusque Testamenti Sacramenta, uno &amp; eodem applicationis instrumento, quod est Sola fides. Quicquid enim ab origine mundi electis a Deo promissum fuit, vel Verbo vel Sacramentis; illud ipsum non alio medio quam Fide sibi applicaverunt. 2. Cor. 4. 13. Habemus eundem Spiritum fidei. Rom. 4 v. 3. 24. Credidit Abraham Deo, &amp; imputatum est ei ad justitiam: Quod scriptum est propter nos, quibus quoque imputabitur, si crediderimus in eum. Ephes. 3. 17. Per fidem Christus habitat in cordibus nostris.</i>
+      </l>
+      <l n="2" type="heading" level="1" caput="13" para="true">THESIS XIII.</l>
+      <l n="3" para="true">Testamenti igitur Veteris Sacramenta non fuerunt nudi Typi, figurae &amp; signa tantum venturi Christi: verum etiam sigilla efficacia, quibus redemptio nostra per Christum praestanda, credentibus non modo vere obsignata, verum etiam in legitimo usu realiter exhibita &amp; communicata fuit. <i>Absurdissima est adversariorum sententia: Fideles Vet. Testam. habuisse in Sacramentis suis tantum putamina vacua: Novi vero Testam. fideles habere nucleum, Christum ipsum. Qui enim fideles per Christum consecuti sunt remissionem peccatorum &amp; justitiam aeternam: qui Spiritu Christi regenerati &amp; sanctificati fuerunt ad regnum Dei: illi ipsi quoque corporis &amp; sanguinis Christi participes facti sunt: quia nemo beneficia meriti Christi parti-</i>
+      </l>
+    </main_text>
+    <notes>Marginal ornament at the top left is a stain, not text. Ghosted show-through of the facing page lies across the middle of the text and is not transcribed. The last word "parti-" is a line-end hyphenation at the foot of the page. A small catchword-like fragment "-cibus" appears faintly at the lower left; it is too faint to read with confidence and is left out.</notes>
+  </page>
+  <page type="text" lines="none" n="12" model="claude-haiku-5-5">
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One page of text, single column, full width; below the text on the right a signature "B 2" at the foot and a catchword "THE-" at the right.</layout>
+    <page_number>2</page_number>
+    <running_head />
+    <bottom_margin>
+      <catchword>THE-</catchword>
+      <signature>B 2</signature>
+    </bottom_margin>
+    <main_text>
+      <l n="1">participare potest, nisi cum CHRISTO capite in unitate corporis fuerit conjunctus. Ioh. 8. v. 56, Abraham vidit diem meum &amp; gavisus est. Act. 4. 12, Nō aliud nomē sub cælo, &amp;c. Actor. 10. 43, Omnes Prophetæ testimonium perhibēt Christo, &amp;c. Actor. 15. 11, Credimus nos servatum iri, sicut &amp; patres nostri. Psal. 31. 1. Rom. 4. 7. Beati, quorum remissæ iniquitates. Exemplo Abrahami, Davidis &amp; aliorū, per fidē in Christū justificatorū probatur. 1. Cor. 10. v. 3. omnes eandem escam spiritualem edisse, omnes eundem potum spiritualem bibisse: bibebant enim ex sequente spirituali Petra: Petra verò erat Christus. Hebr. 11. v. 1, fides appellatur ὑπόστασις τῶν ἐλπιζομένων, quia Spiritus Sancti virtute efficitur, ut illa quoque bona credenti menti subsistant, quæ tamen adhuc futura sperantur. Apoc. 13. v. 8. Christus appellatur agnus, mactatus inde à jactis mundi fundamentis.</l>
+      <l n="2" para="true">Sacramenta quidem &amp; sacrificia Vet. Testamenti dicuntur elementa egena, inutilia, Col. 2. v. 8. 22. quatenus in se considerata non poterant peccata populi expiare, vel conscientiam ab operibus mortuis purificare: quatenus verò relativè considerantur, ut sigilla promissionum de Christo venturo, eatenus fuerunt organa Sp. Sancti efficacia ad salutem omni credenti. Pari sensu Lex illa Vet. Test. ceremonialis obtinuit umbram futurorum bonorum, Col. 2. v. 17. Hebr. 10. v. 1. αὐτὴν τὴν εἰκόνα τῶν πραγμάτων: in N. Testamento habent fideles τὸ σῶμα τῆς χριστῆς, metaphorā sumptā à pictoribus, qui primò rudem &amp; umbratilem imaginis formādæ delineationem præmittunt, &amp; postea corpus ipsum vivis imaginibus delineatum, oculis conspiciendum exhibent; quo exhibito, prior illa umbratilis delineatio evanescit: ita Christo jam exhibito, mortuo, resuscitato, in cælos evecto, Lex illa ceremonialis, ut prima delineatio corporis Christi, id est, verae redemptionis per Christum consummandæ, successivè cessavit &amp; denique evanuit. Sacramenta tamen Vet. Test. non fuerunt in legitimo fidelium usu, umbrae inanes, sed sigilla pariter promissionis de κοινωνία corporis Christi efficacissima.</l>
+    </main_text>
+    <notes>Marginal notes: none visible. Printed Greek words reproduced as legible; the Greek in "ὑπόστασις" and "κοινωνία" is read from a small scan and may contain errors. Catchword "THE-" and signature "B 2" are at the foot of the page. Running head absent.</notes>
+  </page>
+  <page type="text" lines="none" n="13" model="claude-haiku-5-5">
+    <warning type="merged_lines">1 line(s) contain several printed lines merged together (longest 467 chars, median 3); line numbering is unreliable</warning>
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One page of text, single column, centred; no margin notes; running head faint show-through at top is not printed text. Reading order: heading, then paragraphs top to bottom.</layout>
+    <running_head />
+    <bottom_margin>
+  </bottom_margin>
+    <main_text>
+      <l n="1" type="heading" level="1" caput="14" para="true">THESIS XIV.</l>
+      <l n="2" para="true" merged="true">Pontificij igitur Sacramentis Novi Testamenti efficacia salutis falsò affingunt, quippe docent, per hæc tanquã per causas veras &amp; immediatas, ex opere operato, iustitiam &amp; salutem æternam conferri: Seu, esse organa per se ἐνεργητικὰ, effectiva, quæ gratiam iustificantem in seipsis habeant, &amp; vi suâ in homine ea percipiente (si non ipso actu plane impius sit, &amp; peccati mortalis obicem ponat) salutem operentur. Quæ sententia pluribus absurdissimis erroribus scatet.</l>
+      <l n="3" para="true">1. <i>Quia gloriam Dei imminuunt quicunque causæ creatæ corporali tribuunt vim penetrandi, sanctificandi, salvãdi animam, &amp; dona spiritualia conferendi; hæc enim ἐνέργεια solius Dei propria est. Psal. 51. v. 6. 9. 12. Tibi soli peccavi: Tu me purifica &amp; lavabor: Tu ô Deus cor mũdum crea in me. Isa 43. v. 25. Ego ego sum, qui deleo iniquitates tuas. Joh. 3. v. 3. Nisi quis e supernis renatus fuerit. Joh. 13. 8. Nisi Ego te lavero. 1 Joh. 1. 7. Sanguis Filij Dei nos purgat.</i>
+      </l>
+      <l n="4" para="true">2. <i>Quia ista sententia pugnat cum proprietate essentiali omnium Sacramentorum in utroque Testam. quibus non alius effectus à Deo est insitus, nisi gratiam vel jam ante collatam vel postea conferendam, tantùm significandi, obsignandi &amp; applicandi; itaut quoties actioni externæ Sacramentali tribuitur vis spiritualis lavandi, regenerandi, salvandi, toties phrasi metonymicâ id, quod externi signi proprium est, rei signatæ tribuatur. Et licet Sacramenta agant, ut causæ organicæ Spiritus Sancti, per quas non minus quàm per Verbum, beneficia Christi nobis donantur, obsignantur, applicantur: non tamen sunt vasa &amp; vehicula gratiæ justificantis, quæ per se &amp; suâ vi, absque fide &amp; bono motu utentis, salvare quenquam possint.</i>
+      </l>
+      <l n="5" para="true">3. <i>Quia electorum multi in utroque Testamento, fidei &amp; pœnitentiæ gratiâ à Deo donati fuerunt, antequam vel Circumcisionis vel Ba-</i>
+      </l>
+    </main_text>
+    <notes>Catchword absent; text ends mid-word "Ba-" continuing on next page. Faint show-through of the reverse page visible at top and in the middle; not transcribed. Marginal lines at top right are show-through.</notes>
+  </page>
+  <page type="text" lines="none" n="14" model="claude-haiku-5-5">
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One page of text, single column, with a heading "THESIS XV." in the middle; no margin notes; catchword/signature line at the foot right ("Idem" catchword, "B 3" signature).</layout>
+    <running_head />
+    <bottom_margin>
+      <catchword>Idem</catchword>
+      <signature>B 3</signature>
+    </bottom_margin>
+    <main_text>
+      <l n="1">vel Baptismi Sacramento Ecclesiæ insiti &amp; initiati fuissent. Abraham in præputio adhuc existens, credidit &amp; fide justificatus est, Gen. 15. v.6. Rom.4. v.10.11. Et Circumcisionem accepit, in sigillum justitiæ fidei, quam habuit in præputio. Cives Hierosolymitani, Act. 2, Eunuchus Dynastes, Act. 8, Paulus è cælis illuminatus, Act. 9, Cornelius Centurio, Act. 10, ante Baptismum fidei &amp; conversionis gratiam divinitus acceperunt.</l>
+      <l n="2" para="true">4. Quia denique Scriptura diserté testatur, tum Verbi divini auditum; tum Sacramentorum usum, infidelibus &amp; impœnitentibus, in exitium æternum cedere. Mar. 16. v.16. Qui non crediderit, damnabitur. Ioh.3. v.18. 36. Qui non credit, jam condemnatus est; &amp; ira Dei manet super ipsum. 1. Cor.11. v.27. Indigné edentes &amp; bibentes rei tenentur corporis &amp; sanguinis Domini. 2. Cor. 2. v.16. Fidelibus Evangelium Christi est odor vitæ ad vitam: aliis verò odor mortis ad mortem.</l>
+      <l n="3" type="heading" level="1" caput="15" para="true">THESIS XV.</l>
+      <l n="4" para="true">Sacramenta Novi Testamenti genuina sunt, quorum institutio expresso Dei Verbo nititur; quæ constant tum signo externo, elementari, sensibili, cum ritibus in sensus quoque incurrentibus: tum annexa promissione non corporalis alicuius boni, sed spiritualis, de redemptione per Christum præstita: quorum institutio &amp; usurpatio non communis est cum Veteri, sed Novi Testamenti propria; ad seculi usque consummationem duratura. <i>Ecclesiæ primitivæ Scriptores Orthodoxi vocabulum Sacramenti usurpârunt aliquando significatione latiore, pro quovis instituto sancto, in Dei Verbo fundato. Cyprianus existimavit, ablutionem pedum, die illo quo cœna celebratur, in Ecclesia usurpandam esse instar Sacramenti: Fractionem panis à Christo factam, coram discipulis Emaunta profectis, Augustinus appellavit Sacramentum, id est, Symbolum, quo Christus suam resurrectionem discipulis testatam reddiderit,</i>
+      </l>
+    </main_text>
+    <notes />
+  </page>
+  <page type="text" lines="none" n="15" model="claude-haiku-5-5">
+    <warning type="merged_lines">1 line(s) contain several printed lines merged together (longest 457 chars, median 12); line numbering is unreliable</warning>
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One printed page, one text column in the centre; a marginal note at the right edge (small "cam," line and a mark "β" at the right margin near the bottom are running text of the column, not notes). No page number, no running head visible.</layout>
+    <running_head />
+    <bottom_margin>
+      <catchword />
+      <signature />
+    </bottom_margin>
+    <main_text>
+      <l n="1">
+        <i>Idem Impositionem manuum, quâ ministri Ecclesiæ in suum munus initiantur: similiter Catechisationem, Psalmorum decantationem, aliquando Sacramentum appellavit, significatione admodum latâ &amp; Catachrestica. Sensu autem accuratiore &amp; magis proprio ea demum pro genuinis &amp; veris Sacramentis Ecclesiæ Christianæ agnoverunt, quæ ab ipso Christo, tum signo visibili analogico, tum annexâ promissione cœlestis &amp; æterni alicujus boni, diserté instituta sunt, ut in Ecclesia peragerentur usque ad seculi consummationem, qualia sunt Baptismus &amp; Sacra Domini Cœna.</i>
+      </l>
+      <l n="2" type="heading" level="2" para="true">THESIS XVI.</l>
+      <l n="3" para="true" merged="true">Huiusmodi proprietates Sacramentales non aliis nisi Baptismo &amp; Cœnæ Dominicæ conveniunt. Repudiamus ergo Canonem 1. Sessionis VII. Synodi Tridentinæ: Si quis Sacramenta Novæ Legis, non fuisse omnia à Christo instituta, aut vel plura vel pauciora quàm septem dixerit, videlicet Baptismum, Confirmationem, Eucharistiam, Poenitentiam, Extremam Unctionem, Ordinem, Matrimonium: aut etiam aliquod horum septem, non esse vere &amp; proprie Sacramentum, anathema sit. <i>De duobus genuinis, Matth. 28. v. 19. cap. 26. v. 26. 1. Cor. 11. v. 28. Per unum Spiritum omnes in unum corpus baptizati sumus: &amp; omnes una potione potati sumus in unum Spiritum, 1. Cor. 12. v. 13. De cæteris conceditur, quædam illorum fuisse actiones sacras, fidelibus in utroque Testam. usitatas: cujusmodi fuit institutio parvulorum circumcisorum: Poenitentiæ exercitium: Ordinatio Sacerdotum cum certis ceremoniis conjuncta: Matrimonij usus pius &amp; verecundus. Istiusmodi tamen actionibus non conveniunt Sacramentorum Novi Testam. proprietates, suprà enumeratæ.</i>
+      </l>
+      <l n="4" type="heading" level="2" para="true">THESIS XVII.</l>
+      <l n="5" type="heading" level="2" para="true">CONFIRMATIONEM baptizatorum Papisticam,</l>
+    </main_text>
+    <notes />
+  </page>
+  <page type="text" lines="none" n="16" model="claude-haiku-5-5">
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One block of running text in a single column, filling the page; no marginal notes, no running head, no page number printed.</layout>
+    <main_text>
+      <l n="1">cam e numero gentuinorum Sacramentorum excludimus: 1. tum quia materia &amp; forma eius nec mandatum nec promissionem à Christo habet: 2. tum quia contumeliosa est in Baptismum à Christo institutum; 3. tum quia coniuncta est cum consecratione chrismatis magica &amp; exorcisatione Cacodaemonis; tum 4. denique quia ritum Catechizandi Apostolicum in ceremoniam superstitiosam inungendi convertit. <i>Materia ejus est Chrisma ex oleo &amp; balsamo confectum. Forma ejus est frontis inunctio, addito signo crucis, in nomine S. Trinitatis, cum alapâ maxillae leniter impactâ, ut admoneatur futurae militiae adversus Satanam. Administratio hujus ritus fit manu Episcopi, &amp; applicatur baptizato non infra septimum aetatis annum, plerunque circa festum Pentecostes. Effectus Baptismi proprios, imò ijs feré majores Confirmationi tribuunt. In Baptismo ajunt hominem ablui à peccatis &amp; regenerari ad regnum Dei. In Confirmatione verò hominem baptizatum porrò corroborari, septiformi gratiâ Spiritus S. ad militiam pro Christi gloria obeundam. Certissima verò media, per quae charismata Spiritus S. electis conferuntur, in ijsdem augentur, confirmantur, conservantur, Scriptura sancta tribuit meditationi Verbi divini, S. Eucharistiae, Fidei in Christum, Precationi ardenti, Ephes. 6. v. 13. 14. exercitio serio donorum in mente acceptorum: quae Pontificij inunctioni Chrismatis &amp; crucifactioni falsò tribuunt. Impium est dicere: Oleum &amp; balsamum, antequam ab Episcopo certis verbis consecrentur, in nomine S. Trinit. à Cacodaemone obsessa &amp; occupata esse. Gen. 131. 1. Tim. 4. v. 4. De donis Baptismo obsignatis luculentae extant promissiones, Ioh. 3. v. 9. Rom. 6. v. 3. 4. 5. 1. Cor. 12. v. 13. Gal. 3. v. 27. Ephes. 5. 26. Tit. 3. v. 5. De Confirmationis Chrismate, nullae prorsus.</i>
+      </l>
+      <l n="2" para="true">Confirmatio autem vera baptizatorum, cùm ad annos discretionis pervenerint, consistit in institutione circa primordia doctrinae caelestis de accepto Baptismo; de foedere gratiae; de abrenunciatione Satanae; de stipulatione debitae gratitudinis &amp; obedientiae. <i>Ad quam</i>
+      </l>
+    </main_text>
+    <notes>Lower margin: the last words "Ad quam" are printed at the right, as a catchword-like line; "quam" is treated as the catchword below the text. Some words in the faint lines are uncertain (for example "nec", "Cacodaemonis"); no marginal notes are visible.</notes>
+  </page>
+  <page type="text" lines="none" n="17" model="claude-haiku-5-5">
+    <warning type="merged_lines">2 line(s) contain several printed lines merged together (longest 827 chars, median 152); line numbering is unreliable</warning>
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One printed page, single column of running text with a heading; a faint show-through of the facing page's text lies behind the column and is not transcribed. A catchword "pro" sits at the lower right below the last line. No margin notes are printed.</layout>
+    <page_number />
+    <running_head />
+    <bottom_margin>
+      <catchword>pro</catchword>
+      <signature />
+    </bottom_margin>
+    <main_text>
+      <l n="1">quam profeßionem adhiberi quoque potest impositio manuum, ut testimonium diuinæ promissionis de dono confirmationis &amp; perseue-rantiæ, Act. 8. v. 17. 18.</l>
+      <l n="2" type="heading" level="2" para="true">THESIS XVIII.</l>
+      <l n="3" para="true" merged="true">POENITENTIA, quam Pontificij distinguunt in Contritionem cordis, in Confessionem oris, &amp; in Satisfa-ctionem operis, non est genuinum Novi Testam. Sacra-mentum: tum quia communis est fidelibus in utroque Te-stamento; tum quia destituta est elemento seu signo visibili, diuinitus instituto ad fidem confirmandam: tum quia cor-dis contritio ex consideratione Legis diuinæ orta, nisi con-iuncta fuerit cum fiducia misericordiæ diuinæ in Christo, conscientiam consolari non potest: tum quia confessionem Deo debitam, in clandestinam &amp; auricularem coram Sa-cerdote, peccati admissi cum circumstantijs secretissimis enumerationem, velut in conscientiæ carnificinam, conver-terunt: tum denique quia satisfactionem expiatoriam pro peccatis, ex propriis operibus, in Christi Redemp-toris perfectissimum λύτρον contumeliosam exstruxerunt.</l>
+      <l n="4" para="true" merged="true">1. Qui in Ecclesia primitiva, grassantibus persecutionibus, vel apostasiâ &amp; abnegatione fidei, vel alio scandalo gravi, animos fi-delium offendissent, ij in Ecclesiam non recipiebantur, nisi priús ter-nos illos pænitentiæ publicæ actus obijssent, delictum deplorando corde humili &amp; contrito, publicè confitendo &amp; deprecando; pœnas á Presbyterio sibi impositas luendo; non ut earum persolutione Deo pro peccatis satisfacerent, sed ut ejusmodi castigatione carnis fe-rocia domaretur, cæteri quoque ab ejusmodi lapsibus sibi cavere di-scerent, atque hac ratione apud Ecclesiam extaret publicum seriæ pænitentiæ exemplum.</l>
+      <l n="5" para="true">2. Perperam verò hinc exstruuntur terni quoque gradus priva-tæ singulorum hominum pænitentiæ, quasi erga Deum meritoriæ,</l>
+    </main_text>
+    <notes>The catchword "pro" is printed at the lower right. Show-through of the facing page is visible in faint type behind the upper text and was left out. The Greek word λύτρον is copied as printed. Some long s and s forms in the text were normalised to s; the printed "ꝙ" was not present.</notes>
+  </page>
+  <page type="text" lines="none" n="18" model="claude-haiku-5-5">
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One page of text in a single column; below the text, at the centre, a catchword-like mark "C" and at the right a Greek fragment "δίκα" (signature-style marks at the foot of the column). No running head, no page number, no margin notes.</layout>
+    <page_number />
+    <running_head />
+    <bottom_margin>
+      <catchword>δίκα</catchword>
+    </bottom_margin>
+    <main_text>
+      <l n="1">pro peccatis satisfactoriæ. Unde distinctio inter peccatum veniale &amp; mortale; Indulgentiæ item &amp; reliquiarum in igne purgatorio defæcatio, inter Pontificios profluxerunt.</l>
+      <l n="2" para="true">3. Verbum Dei non aliam pænitentiam requirit, quám quæ co-sistit in seria cordis contritione &amp; dolore, conjuncto cum fiducia fi-liali, quæ acquiescit in Christi satisfactione perfecta; in confessione erga Deum, non quidem speciali illa singulorum delictorum &amp; circumstantiarum, sed in universali omnium prudenter &amp; imprudenter commissorum enumeratione, juxta exemplum Davidis. Psal. 19. v. 13. Delicta quis intelligit? ab occultis me munda. Psa. 51. v. 6. Prævaricationes meas agnosco: Tibi, tibi soli peccavi. Filij prodigi: pater peccavi in cœlum &amp; coram te. Luc. 15. v. 21. Publicani, Luc. 18. v. 13. Deus propitius esto mihi peccatori. Actor. 2. v. 37. Civium Hierosolym. 1. Ioh. 1. v. 9. Si confiteamur peccata nostra, fidelis est, &amp;c.</l>
+      <l n="3" para="true">4. Specialem verò illam Confessionem non repudiamus, si quis peculiaris alicujus criminis sensu itapungitur, ut illud Pastori suo exponat, quó solidam consolationem &amp; conscientiæ tranquillitatem, adversus tentationes Satanæ, obtinere possit: cujusmodi confessio cuilibet fideli libera est.</l>
+      <l n="4" para="true">5. Satisfactio per certas multas præstanda, pænitenti pro redimendis peccatis á Sacerdote imposita, in Christi meritum contumeliosa est: quia unica ejus satisfactio est ἱλασμὸς &amp; expiandis peccatis nostris. Ies. 53. v. 4. 5. Ipse languores nostros verè tulit; ipse vulneratus est propter prævaricationes nostras. Rom. 3. v. 25. Quem Deus proposuit in propitiatorium per fidem in sanguine ejus. 1. Ioh. 2. v. 2. Ipse est propitiatio pro peccatis nostris. 1. Pet. 1. v. 19. Redempti pretioso sanguine Agni. Culpâ á Deo gratis remissâ, pœna quoque satisfactoria tollitur: nec justitia Dei duplicem solutionem poscit, unam á Christo præstitam, alteram á nobis præstandam.</l>
+      <l n="5" para="true">6. Afflictiones, quibus credentes &amp; pœnitentes á Deo castigantur, non sunt pœnæ, quibus eorum peccata expiantur, sed vel πυ-δίκα</l>
+    </main_text>
+    <notes>The Greek words and the foot marks are approximate. Several words in the italic body are uncertain; the Greek in §5 (ἱλασμὸς) and the final line were hard to read and are marked by the nearest reading. The page appears to be a single column with no notes in the margins.</notes>
+  </page>
+  <page type="text" lines="none" n="19" model="claude-haiku-5-5">
+    <warning type="merged_lines">1 line(s) contain several printed lines merged together (longest 616 chars, median 7); line numbering is unreliable</warning>
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One page of text, single column. Above the text, a line of italic Greek and Latin (a catchline-like running line at the top of the text block). Below it, a centred heading. No margin notes, no page number, no catchword visible.</layout>
+    <page_number />
+    <running_head />
+    <bottom_margin>
+  </bottom_margin>
+    <main_text>
+      <l n="1">
+        <i>Θεία paterna; vel Δοχιμαστία fidei, patientiæ, constantiæ, ut in Iosepho, Iobo, Davide, Paulo, &amp;c. videre est.</i>
+      </l>
+      <l n="2" type="heading" level="1" caput="19" para="true">THESIS XIX.</l>
+      <l n="3" para="true" merged="true">EXTREMA VNCTIO non est in ordinariis Sacramentis Novi Testamenti numeranda, tum quia eius materia, forma, actio &amp; efficacia Sacramentalis, nullo mandato nec promissione verbi divini præscripta est; tum quia ritus ille illinendi &amp; inungendi ægrotos, non fuit universæ Ecclesiæ in perpetuum usum destinatus; sed extra ordinem communem &amp; ad certum tempus, nec necessario, sed liberé à fidelibus usurpatus; non ut antidoton, peccati reliquias abstergens, &amp; animam adversus terrorem mortis &amp; inferni confortans, sed sanitatis corporalis restitutioni serviens: tum denique quia ritus iste ungendi, ex Iudaismo &amp; Paganismo <bl>κακοζηλία</bl> quâdam in Ecclesiam traductus &amp; cum blasphemâ dæmonum ex oleo &amp; balsamo exorcisatione coniunctus est.</l>
+      <l n="4" para="true">1. <i>Falsum est, quod Pontificij asserunt, hoc Sacramentum esse à Christo insinuatum apud Marcum 6. cap. v. 13. Per Iacobum postea fidelibus promulgatum &amp; commendatum, tanquam firmissimum præsidium sub finem vitæ adversus hostem salutis. Marci 6. cap. recensetur, quid Apostoli in prima sua emissione intra fines Iudææ præstiterint, ut infirmos sanârint, adhibito externo symbolo unctionis olei; quæ actio conjuncta fuit cum dono miraculorum ad tempus duraturo. 1. Cor. 12. absque ullo mandato idem perpetuó faciendi, &amp; absque promissione efficaciæ aduniversam Ecclesiam spectate. In altera generali legatione, Apostoli sanaturi ægrotos, non semper symbolum olei adhibuerunt: verum plurimos ægrotos sanaverunt, aliquando solo verbo; aliquando impositione manuum; aliq. contactu &amp; procubitu corporis, sudarijs, umbrâ: Et olei unctio tempore Apostolorum non fuit præceptum generale &amp; necessa-</i>
+      </l>
+      <l n="5" type="foot" para="true">ria.</l>
+    </main_text>
+    <notes>Printed line at the top is partly italic Greek, transcribed as printed; the Greek words are uncertain in places. The word "necessaria" is continued in the margin on the bottom right with the hyphen; the last word is shown as "necessa-" and "ria" is the continuation. Show-through from the reverse page is visible faintly and omitted.</notes>
+  </page>
+  <page type="text" lines="none" n="20" model="claude-haiku-5-5">
+    <warning type="catchword_in_text">catchword taken out of the main text: debet</warning>
+    <warning type="merged_lines">1 line(s) contain several printed lines merged together (longest 199 chars, median 7); line numbering is unreliable</warning>
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One page of text, one column, full width. Below the text block: a centred heading "THESIS XX." then a paragraph in roman capitals and roman type. Catchword-like signature "C 2" and "debet" at the foot right. No margin notes.</layout>
+    <running_head />
+    <bottom_margin>
+      <catchword>debet</catchword>
+      <signature>C 2</signature>
+    </bottom_margin>
+    <main_text>
+      <l n="1">
+        <i>necessarium. Et ne γρὺ quidem extat de olei illius consecratione atque exorcisatione, certis verbis ab Apostolis concepta.</i>
+      </l>
+      <l n="2" para="true">2. <i>Idem sensus est Verborum Iacobi, de oleo communi, non superstitiose in nomine S. S. Trinitatis consecrato &amp; exorcisato: non animae refrigerio adversus terrorem mortis, sed corporis sanitati recuperandae serviente, cujus olei usus in regionibus orientalibus frequentissimus ad sanationes fuit. Sanationes miraculosae multis obtigerunt quoad corpus, qui tamen internae &amp; spiritualis sanationis non facti participes: e contrario gratia Dei in Evangelio promissa, in multorum animis efficax fuit, licet eorum corporibus nullum signum exhibitum fuerit.</i>
+      </l>
+      <l n="3" para="true">3. <i>Locum denique Iacobi, pie &amp; salutariter accommodamus ad usum medicamentorum in morbis Christianorum: qui prius admonendi de causa morbi, ut agnoscant peccata, vera cordis fiducia se ad Deum convertant, restitutionem sanitatis ipsius voluntati assiduis precibus commendent, atque ita medicamentis suis pie utantur.</i>
+      </l>
+      <l n="4" para="true">4. <i>Optimum vero ἀντίδοτον contra mortem &amp; infernum demonstramus in fideli recordatione promissionum Salvatoris, qui Medicus fidissimus est animae &amp; corporis. Ioh. 5. 24. talem non in judicium venturum, sed ex morte transiturum in vitam. Ioh. 11. 25. Ego sum resurrectio &amp; vita. Rom. 8. 1. Nulla condemnatio! Quis accusabit? Quis nos separabit a charitate Dei? Rom. 14. 8. Sive vivimus, Domino vivimus: sive morimur. Et arma illa spiritualia in Deo valida. Ephes. 6. v. 13. &amp;c. 1 Thess. 4. v. 14. 1 Thess. 5. v. 8. 9.</i>
+      </l>
+      <l n="5" type="heading" level="1" caput="20" para="true">THESIS XX.</l>
+      <l n="6" para="true" merged="true">ORDINATIO personarum ad sacram Leiturgiam, septem gradibus distincta, 1. Ostiariorum, 2. Lectorum, 3. Exorcistarum, 4. Acoluthorum, 5. Subdiaconorum, 6. Diaconorum, 7. Sacerdotum; non accenseri</l>
+    </main_text>
+    <notes />
+  </page>
+  <page type="text" lines="none" n="21" model="claude-haiku-5-5">
+    <warning type="merged_lines">1 line(s) contain several printed lines merged together (longest 591 chars, median 7); line numbering is unreliable</warning>
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One page of text, single column, with a catchword at the foot right. No margin notes. No page number printed.</layout>
+    <page_number />
+    <running_head />
+    <bottom_margin>
+      <catchword>4. Ri-</catchword>
+    </bottom_margin>
+    <main_text>
+      <l n="1" merged="true">debet genuinis Sacramentis Novi Testamenti; tum quia gradus istinullum habent fundamentum &amp; exemplum in Ecclesia Apostolica; tum quia Pastorum ordinatio legitima ad functionem Ecclesiasticam, Veteri Testamento etiam communis fuit cum Novo: tum vero quia ordo iste nō toti Ecclesiæ communis est. (cuiusmodi verum &amp; genuinum Sacramentum esse debet) sed ad certum ordinem clericorum alligatus, exclusis laicis, qui tamen pars Ecclesiæ non postrema sunt: tum denique quia destituta est promissione divinâ, de peccatorum remissione, personæ ordinatæ certo visibili signo, applicanda &amp; obsignanda.</l>
+      <l n="2" para="true">
+        <i>1. Ordinationem Sacramentalem Pontificij eam esse asserunt, quâ personæ sacræ non modo ad munus prædicandi Evangelium &amp; Sacramenta administrandi, verùm etiam ad celebrandas Missas &amp; ad offerendum pro vivis &amp; mortuis, per certos gradus constituantur: quorum postremum non modo mandato divino caret, verùm etiam cum dignitate victimæ Christi semel in cruce pro credentium sanctificatione consummatæ, pugnat.</i>
+      </l>
+      <l n="3" para="true">
+        <i>2. In descriptione ordinationis Presbyterorum, Pastorum, Episcoporum, juxta Canonem Apostolicum in Epistolis ad Timotheum &amp; Titum expressum, nulla fit mentio istorum graduum, nec chrismatis, nec olei, nec characteris indelebilis: verùm recensentur necessariæ illæ dotes &amp; virtutes, quibus Ecclesiæ doctores suo gregi prælucere debeant; annexis præceptis salutaribus, quibus in universa sui muneris œconomia, obedire debeant.</i>
+      </l>
+      <l n="4" para="true">
+        <i>3. Inter alias superstitionum &amp; idololatriæ species, quæ in ista ordinatione concurrunt, exercetur horribilis Exorcismus, quo Cacodæmonas ex aqua, sale, oleo, invocato sacrosanctæ Trinitatis nomine exorcizant, ejurant &amp; expellunt. Christus equidem dedit Apostolis potestatem ejiciendi dæmonia ex hominibus corporaliter obsessis, idque virtute miraculosâ. Marci 6. &amp; 16. non autem per demurmurationes magicas, imprecationes, adjurationes, incantationes, quales Pontificijs in usu sunt.</i>
+      </l>
+    </main_text>
+    <notes>Catchword "4. Ri-" is handwritten-looking but printed at the foot right; included as catchword. Lower-right corner reads as a catchword; no running head or page number printed. Some words in the first paragraph are faint and transcribed as printed.</notes>
+  </page>
+  <page type="text" lines="none" n="22" model="claude-haiku-5-5">
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One printed page, single text column; a numbered note paragraph at the top (full width of the column), a centred heading, then the running text ending with a catchword-like line "bene-" at the foot right; signature "C 3" at the bottom centre-right.</layout>
+    <page_number>C 3</page_number>
+    <running_head />
+    <bottom_margin>
+      <catchword>bene-</catchword>
+      <signature>C 3</signature>
+    </bottom_margin>
+    <main_text>
+      <l n="1" para="true">4. Ritus impositionis manuum descendit ab actionibus Patriarcharum benedicentium suis filijs &amp; nepotibus, Gen. 48. v. 14. Num. 27. v.18. Moses electurus jussu Dei Iosuam in Ducem populi, imposuit manum suam super eum: &amp; peculiari ritu Sacerdos manum capiti victimae Deo offerendae imponere debuit. <i>In N. Testam.</i> ritus ille liberè fuit usurpatus: ubi charismata illa Spiritus Sancti non tribuuntur actioni impositionis manuum, sed adjunctae precationi &amp; benedictioni, quae quatenus suffulta est promissione divinâ, nequaquam redditur irrita. Hinc ritus ille in Ecclesijs Reformatis, in solenni Pastoris inauguratione asservatur, tum ut is qui ad sacrum ministerium ordinatur, hac ceremoniâ admoneatur, se destinari, consecrari &amp; devoveri muneri sacro, cujus author, protector &amp; conservator sit Deus omni benedictione in aeternum locuples: tum verò ut auditores &amp; spectatores Pastorem legitimè vocatum, debito honoris, amoris &amp; obedientiae officio promptius prosequantur.</l>
+      <l n="2" type="heading" level="1" caput="21" para="true">THESIS XXI.</l>
+      <l n="3" para="true">Denique MATRIMONIUM Sacramentis Novi Testamenti perperam accensetur, partim: quia commune est, tum Novo cum Veteri Testamento, tum etiam Ecclesiae Dei cum gentibus incredulis: partim quia destitutum est signo elementari divinitus sancito, &amp; promissione applicādi &amp; participandi iustitiam &amp; salutem æternam: (vera enim pietas &amp; sanctitas hominis non consistit in certo vitæ statu, sed in agnitione, fide &amp; timore veri Dei:) partim denique quia Pontificiorum doctrina de Matrimonio, aperta contradictione involuta est; dum illud modó pro mysterio magno extollunt; modó verò ut vitam carnalem Deo exosam, repudiant, &amp; eiusdem usu ordini Ecclesiastico temerarie interdicunt.</l>
+      <l n="4" para="true">Fidelibus in matrimonio viventibus facta est promissio divina bene-</l>
+    </main_text>
+    <notes>The heading "THESIS XXI." is set in capitals and centred. The word "temerarie" has a final letter that is hard to read and may be "e" or a variant form. The top paragraph is in italic type with a fragment of show-through from the reverse page visible behind the text; it is not transcribed.</notes>
+  </page>
+  <page type="text" lines="none" n="23" model="claude-haiku-5-5">
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One page of text, single column, with a centred heading block in the middle and a running text below; no margin notes. Catchword "Cor." at lower right is set below the last line.</layout>
+    <page_number />
+    <running_head />
+    <bottom_margin>
+      <catchword>Cor.</catchword>
+    </bottom_margin>
+    <main_text>
+      <l n="1">benedictionis &amp; corporalis &amp; spiritualis ; attamen non propter externam vitam conjugalem, sed propter pietatem cum conjugio cō-junctam, hoc est, quatenus permanent in fide Christi, in charitate &amp; sanctificatione. 1. Tim. 2. v. 15. Cumque Sacramenta instituta sint post lapsum, ut sigilla promissionis divinae de redemptione generis humani per Christum: matrimonium vero ante lapsum, inter homines in statu integritatis viventes, sancitum sit; ergo Sacramentis proprie dictis accenseri non debet. Apostolus quidem Ephes. 5. v. 25. Matrimonium appellat μυστήριον μέγα, non propter carnalem conjunctionem maris &amp; faeminae, sed propter mysticam illam, spiritualem &amp; longe arctissimam copulam, quae Christo cum Ecclesia intercedit.</l>
+      <l n="2" type="heading" level="1" para="true">CONFESSIO HELVETICAE CAPUT XX. DE SANCTO BAPTISMO.</l>
+      <l n="3" type="heading" level="2" para="true">THESIS XXII.</l>
+      <l n="4" para="true">DOcemus cum Apostolo : Baptismum esse lavacrum aquae in Verbo, quo Christus mundat Ecclesiam, regenerans eam per Spiritum Sanctum. Ephes. 5. cap. v. 26. Tit. 3. v. 5. Hoc est esse Sacramentum a Christo institutum, quo aqua baptizatis in nomine Patris, Filii &amp; Spiritus Sancti, Deus testificatur, se eos recipere in foedus gratiae propter Christum, &amp; sanguine eius ac Spiritu Sancto a peccatis mundare, eosque renovare ad vitam aeternam.</l>
+      <l n="5" para="true">Matth. 28. v. 19. Docete omnes gentes, baptizantes eos in nomine P. F. &amp; Sp. Sancti. Marci 16. v. 16. Qui crediderit &amp; baptizatus fuerit, salvus erit. Ezech. 36. v. 25. efficacia illa donorum Spiritus Sancti describitur metaphora aquae mundae, &amp;c. 1.</l>
+    </main_text>
+    <notes>The initial D is a large woodcut letter joined to "Ocemus" as "Docemus". Several words in the top paragraph are in italic type. The first line of the heading block is set in capitals with "SANCTO" and "BAPTISMO" in italic capitals; the full heading reads as printed. Scan shows faint show-through from the reverse side, not transcribed.</notes>
+  </page>
+  <page type="text" lines="none" n="24" model="claude-haiku-5-5">
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One printed page, single column of running text; references in the text set as inline citations; no margin notes; no running head or page number visible; catchword "lus" at lower right below last line.</layout>
+    <main_text>
+      <l n="1">Cor. 6. v. 11. Et haec eratis quidam, sed abluti estis, sed sanctificati estis, sed justificati estis, &amp;c. Ephes. 5. v. 25. 26. Christus dilexit Ecclesiam, &amp; semetipsum exposuit pro ea, ut eam sanctificaret, purgans lavacro aquae per Verbum. 1. Pet. 1. v. 2. Electos sanctificari per ῥαντισμὸν τῆς αἵματος χριστοῦ. 1. Joh. 1. v. 7. Sanguis Filij Dei purgat nos ab omni peccato. Hebr. 9. v. 14. Quanto magis sanguis Christi, qui per Spiritum aeternum, seipsum obtulit inculpatum Deo, purgabit conscientiam nostram a mortuis operibus, ad serviendum Deo vivo. Apoc. 1. v. 5. Christus dilexit nos &amp; lavit nos a peccatis nostris, per sanguinem suum.</l>
+      <l n="2" type="heading" level="1" caput="23" para="true">THESIS XXIII.</l>
+      <l n="3" para="true">In legitimo Baptismi usu, interna actio Spiritus Sancti, per externam ministri non modo significatur &amp; obsignatur, verum etiam exhibetur. Hinc Baptismus recte dicitur peccata abluere, hominem regenerare, salvum facere. Actor. 22. v. 16. Tit 3. v 5. 1. Pet 3. v. 21. Non vi latente vel aquae annexa, qua gratia Spiritualis homini baptizato conferatur ex opere operato: Sed metonymia Sacramentis familiari, qua signo repraesentanti, testificanti, obsignanti &amp; exhibenti, tribuitur id, quod Spiritus Sancti proprium est.</l>
+      <l n="4" para="true">Actor. 2. v. 38. Petrus ad incolas Hierosolymae, eadem Filij Dei corde contrito lamentates, perspicue locutus est: Poenitentiam agite, &amp; baptizetur unus quisque in remissionem peccatorum. Act. 22. v. 16. Ananias ad Paulum phrasi tropica: Baptizator, ablue peccata tua. Quotquot in Christum baptizati estis, Christum induistis. Gal. 3. 27. Quotquot in Christum baptizati sumus, in mortem ejus baptizati sumus: &amp; sepulti una cum eo per Baptismum in mortem, ut resurrectionis conformatione cum eo quoq; plantati coalescamus. Rom. 6. 4. Tit. 3. v. 5. Deus pro sua misericordia salvavit nos per lavacrum regenerationis &amp; per regenerationem Spiritus Sancti. In his, quod rei signatae, id est, Christi, proprium est, qui solus</l>
+    </main_text>
+    <bottom_margin>
+      <catchword>lus</catchword>
+    </bottom_margin>
+    <notes>Printed Latin with some Greek; the Greek in the Cor./Eph. passage is partly uncertain. Page number not printed. Ink show-through from the reverse page is present and omitted.</notes>
+  </page>
+  <page type="text" lines="none" n="25" model="claude-haiku-5-5">
+    <warning type="merged_lines">2 line(s) contain several printed lines merged together (longest 327 chars, median 12); line numbering is unreliable</warning>
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One page of text in a single column; no margin notes; no running head or page number printed.</layout>
+    <page_number />
+    <running_head />
+    <bottom_margin>
+      <catchword>poeni-</catchword>
+      <signature />
+    </bottom_margin>
+    <main_text>
+      <l n="1">
+        <i>Ius suo sanguine nos à peccatis purgat &amp; Spiritu suo corda regenerat, tribuitur sacramentali symbolo &amp; sigillo, propter perpetuam analogiam inter signum &amp; signatum. In Baptismo peccata credentibus remittuntur, non ut corruptio naturæ seu prava concupiscentia, quæ peccati materia &amp; fomentum est, prorsus tollatur, verùm ue ijs imputetur ad condemnationem. Rom. 8. v. 1. Sic regeneratio in Baptismo obsignata, non fit simul &amp; semel, sed successivé, de die in diem; &amp; actus ejus continuus durat ad extremum usque diem.</i>
+      </l>
+      <l n="2" type="heading" level="1" para="true">THESIS XXIV.</l>
+      <l n="3" para="true" merged="true">Baptismus totaliter consideratus, unus est, Ephes. 4. v. 5. Si verò inter externam personæ administrantis, &amp; inter internam Spiritus Sancti actionem distinguatur, asserimus: unum illum Baptismum geminâ ablutione constare: tum externâ aquæ in sensus incurrente; tum internâ sanguinis ac Spiritus Christi, in Evangelio promissâ. <i>Sic enim Baptismus aquæ á Iohanne administratus, differebat ab interna actione Christi, Spiritu Sancto baptizantis, Ioh. 1. v. 33 Act. 1. v. 5. aquæ Baptismus quo sordes abjiciuntur, distinguitur á stipulatione bonæ conscientiæ, 1. Pet. 3. v. 21. Circumcisio literæ &amp; carnis, á circumcisione Spiritus &amp; cordis differre dicitur. Rom. 2. v. 28. Sic in usu legitimo S. Eucharistiæ, alius est esus &amp; potus externus, qui ab homine fideli fit ore corporeo: alius internus, qui fit ore animæ spirituali, id est verâ fide Ioh. 6. v. 35. Ego sum panis ille vitæ: qui venit ad me, nequaquam esuriet; &amp; qui credit in me, non sitiet unquam.</i>
+      </l>
+      <l n="4" type="heading" level="1" para="true">THESIS XXV.</l>
+      <l n="5" para="true" merged="true">Et quemadmodum Baptismus numero unus á Christo institutus, novi fœderis Sacramentum est initiatorium, circumcisioni substitutum, ita semel tantum administrari &amp; nunquam iterari debet. Baptismus enim semel acceptus, poeni-</l>
+    </main_text>
+    <notes />
+  </page>
+  <page type="text" lines="none" n="26" model="claude-haiku-5-5">
+    <warning type="catchword_in_text">catchword taken out of the main text: Et</warning>
+    <warning type="merged_lines">2 line(s) contain several printed lines merged together (longest 736 chars, median 12); line numbering is unreliable</warning>
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One block of text in a single column, centred heading below the first passage; at the foot a catchword-like signature "D" and "Et" at right below the last line (catchword). No margin notes. No page number printed.</layout>
+    <main_text>
+      <l n="1" merged="true">poenitentibus semper manet sigillum gratiae divinae ratum &amp; efficax: sicut ipsius foederis promissio, non tantum universae Ecclesiae respectu, verum etiam singulorum credentium &amp; poenitentium ratione, perpetuam efficaciam obtinet. <i>Etiamsi homo foedus Dei gratuitum peccatis gravibus saepius violaverit, non tamen foederis illius sigillum idcirco est iterandum, vel Baptismus novus homini poenitenti est accersendus, sed efficacia Baptismi semel accepti, per fidem &amp; poenitentiam restaurari debet. Quid tum enim, si quidam eorum fuerint infideles, num incredulitas eorum fidem Dei enervabit? Absit. Rom. 3. v. 3. Si infidi sumus, ille tamen fidus manet, &amp; seipsum negare non potest.</i> 2. Tim. 2, v. 13.</l>
+      <l n="2" type="heading" level="1" caput="26" para="true">THESIS XXVI.</l>
+      <l n="3" para="true" merged="true">Obiectum Baptismi est duplex: primum sunt adulti; deinde infantes ex parentibus Christum professis geniti, vel cum parentibus in Ecclesiam transeuntes. Adulti, qui ex Iudaeis &amp; Gentibus, extra Ecclesiae communionem geniti &amp; ad fidem Christi conversi sunt, antequam per Baptismum Ecclesiae inserantur, doctrinae Evangelicae capita solide intelligere &amp; ore profiteri, &amp; ab Ecclesia Baptismum petere debent. Infantes vero, licet fidem actualem &amp; poenitentiam nondum profiteri possint, attamen quia ex foederatis Dei, ex fidei domesticis nati sunt, &amp; iuxta regulam charitatis, in membris Ecclesiae a Christo redemptae &amp; sanctificatae numerantur, non minus igitur, quam pueruli Israelitarum in V. Testam. circumcisi fuerunt, baptizandi sunt.</l>
+      <l n="4" para="true">
+        <i>De adultis intelligenda sunt: Qui crediderit &amp; baptizatus fuerit, salvus erit. Mar. 16. v. 16. Agite poenitentiam, &amp; baptizetur quisque. Act. 2. v. 38. Si credis ex toto corde, nihil prohibet te baptizari: cui resp. credo Iesum esse Filium Dei. Act. 8. v. 36, 37. Corde creditur ad iustitiam, ore fit confessio ad salutem. Rom. 10. v. 10.</i>
+      </l>
+      <l n="5" type="foot" para="true">D</l>
+    </main_text>
+    <notes>Catchwords "D" and "Et" at the foot right, taken as catchword. Some faint show-through from the reverse page is ignored. The printed marks "1 6" in the Mar. reference read as "16".</notes>
+    <bottom_margin>
+      <catchword>Et</catchword>
+    </bottom_margin>
+  </page>
+  <page type="text" lines="none" n="27" model="claude-haiku-5-5">
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One page of text, single column, full width; no margin notes; a centred heading "THESIS XXVII." in the middle of the page; running text below it. Show-through from the reverse page is visible faintly and is not transcribed.</layout>
+    <running_head />
+    <bottom_margin>
+      <catchword>trices</catchword>
+      <signature>D 4</signature>
+    </bottom_margin>
+    <main_text>
+      <l n="1" para="true">
+        <i>Et quemadmodum Dei Circumcisionis initium sumpsit ab adultis, ab Abrahamo jam nonagenario, &amp; porrò ab ejus vernis, maribus domesticis: Tale quoque initium Baptismi in No. Test. fuit ab adultis, qui ex Iudæis &amp; Gentibus colligebantur: progressu verò temporis ipsorum quoque liberi, per Baptismum inter concives Ecclesiæ cooptati fuerant.</i>
+      </l>
+      <l n="2" para="true">
+        <i>Infantium ergo Baptismus rectè asseritur promissione fœderis, quæ se ad infantes quoque extendit. Gen. 17. v. 7. Actor. 2. v. 39. Angeli eorum intuentur faciem Dei. Sinite pueruios, &amp; ne prohibete eos ad me venire, talium enim est regnum Dei: quos Dominus præterea in ulnas accepit, &amp; manibus impositis eis benedixit. Mat. 28 v. 10. &amp; cap. 19. v. 14. 15. Unde Apostoli integras quoque familias, quarum membra sunt infantes, baptizârunt. Actor. 16. 33. 34. 1. Cor. 1. v. 16.</i>
+      </l>
+      <l n="3" para="true">
+        <i>Deinde probatur Sacramento Circumcisionis, cui quoad substantiam, remotis ceremoniis &amp; accidentibus, Baptismus in No. Test. successit. Col. 2. v. 11. 12: ita ut in utroque Testam. eadem sit fœderis promissio: Ero Deus tuus: &amp; Baptizo te in nomine P. F. Sp. S. Sicut ergo in Isaaco puerulo præcessit Circumcisio, sigillum justitiæ: postea verò crescente ætate, &amp; ipso in pietate instituto, fides actualis &amp; conversio vitæ secuta fuit: eadem est ratio Baptismi parvulorum. Licet enim infantes per ætatem non capaces sint fidei actualis, pœnitentiæ &amp; regenerationis: Baptismi tamen efficacia non ad primum illum vel diem vel annum adstricta est: sed semen illud Spiritus S. in cordibus electorum, tempore definito adolescet &amp; fructificabit. Unde infantes quâ electi, rectè dicuntur habere semen fidei &amp; sanctificationis, per gratiosam illam &amp; extraordinariam operationem Spi. S. Psal. 22. v. 10. 11.</i>
+      </l>
+      <l n="4" type="heading" level="1" para="true">THESIS XXVII.</l>
+      <l n="5" para="true">Denique Baptismus, cûm sit pars ministerij Ecclesiastici, Matth. 28. v. 19. Mar. 16. v. 16, non ergo per aniculas, obstetrices</l>
+    </main_text>
+    <notes />
+  </page>
+  <page type="text" lines="none" n="28" model="claude-haiku-5-5">
+    <warning type="merged_lines">1 line(s) contain several printed lines merged together (longest 948 chars, median 201); line numbering is unreliable</warning>
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One page of text, single column, full width; signature and catchword line at the foot. No marginal notes.</layout>
+    <page_number>D 2</page_number>
+    <running_head />
+    <bottom_margin>
+      <catchword />
+      <signature>D 2</signature>
+    </bottom_margin>
+    <main_text>
+      <l n="1">trices, nec per alias personas ad Leiturgiam Ecclesiasticam non vocatas, sed per ministros ordinarios administrari debet, ut omnia in Ecclesia Dei peragantur ἐυτάχτως κ) ἐυφχη-μόνως. 1. Cor. 14. v. 40.</l>
+      <l n="2" para="true" merged="true">1. Necessitatis casus circa obstetricum baptismum est fictitius. Cum enim salus hominis dependeat à fœdere Dei per Christum Mediatorem sancito: Sacramenta vero tantum sint appendices &amp; sigilla fœderis: Quicunque ergo vel mortis necessitate divinitus impositâ, vel gravi aliquâ persecutione grassante, externo Baptismate per Pastorem idoneum administrando destituuntur, illi tamen, quâ electi sunt filij Dei, per sanguinem Christi à peccatis abluuntur &amp; per Spiritum Sanctum ad regnum Dei regenerantur, extraordinarie. 2. Et licet hoc officium commune omnibus Christianis, cujuscunque sint sexus &amp; ordinis, incumbat, ut sese mutuò ex Dei Verbo instituant, corrigant &amp; consolentur, juxta legem charitatis Christianæ: Attamen cum administratio Sacramentorum sit pars legationis Ecclesiasticæ, quæ solis ad munus hoc sacrum legitimè vocatis convenit; ergo non nisi ijs, qui nomine Christi legatione funguntur, competit. 2. Cor. 5. v. 20. Hebr. 5. v. 4.</l>
+      <l n="3" type="heading" level="1" caput="21" para="true">CAPUT CONFESSIONIS HELVETICAE XXI.</l>
+      <l n="4" type="heading" level="2" para="true">De Sacra Cœna Domini.</l>
+      <l n="5" type="heading" level="1" para="true">THESIS XXVIII.</l>
+      <l n="6" para="true">Eucharistia est alterum Sacramentum Novi Testa-mentum, quo Dominus nobis panem ac vinum benedictum, cum fideli mortis suæ recordatione sumentibus, testificatur &amp; obsignat, se corpore suo pro nobis tradito &amp; sanguine effuso, animas nostras ita pascere &amp; vivificare, ut cum ipso capite nostro &amp; inter nos, in unum corpus coalescamus;</l>
+    </main_text>
+    <notes>Printed header "CAPUT CONFESSIONIS HELVETICAE XXI" split over lines; the Greek words in line one are transcribed as best read. Faint show-through from the reverse page is ignored. The "E" opening is a large woodcut-style initial joined to "Eucharistia".</notes>
+  </page>
+  <page type="text" lines="none" n="29" model="claude-haiku-5-5">
+    <warning type="catchword_in_text">catchword taken out of the main text: sanguis.</warning>
+    <warning type="merged_lines">2 line(s) contain several printed lines merged together (longest 530 chars, median 90); line numbering is unreliable</warning>
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One block of running text in a single column, full width; no margin notes; no page number printed; a faint show-through from the facing page is ignored.</layout>
+    <main_text>
+      <l n="1">fcamus; atque fœdus in Baptismo cum Deo initum, ita per-petuò ratum inter nos conservetur.</l>
+      <l n="2" type="heading" level="1" para="true">THESIS XXIX.</l>
+      <l n="3" para="true" merged="true">Esus &amp; potus carnis &amp; sanguinis Christi, de quo Iohan. 6. agitur, convenit quoad substantiam cum illo, quem cæ-teri Evangelistæ, in S. Cœnæ institutione Dominica descri-bunt; quia utrobique eadem caro &amp; idem sanguis Christi, in nutritionem animæ ad vitam æternam, fidelibus promit-titur &amp; exhibetur. Differunt autem ratione accidentis: quia ille purè spiritualis, usu Symbolico destitutus, etiam extra S. Cœnam, ex promissionis Evangelicæ auditu &amp; consi-deratione fideli participatur: Hic vero ritu Sacramentali vestitus, maioris <i>ἀσφαλείας</i> causâ sanctus est. <i>Orthodoxi pa-tres judicaverunt, S. Iohannem ideò nullam institutionis S. Cœnæ mentionem fecisse, sicut cæteri Evangelistæ: quia cap. 6. plenius de fructu istius esus &amp; potus, disseruerit. Ioh 6. cap. Christus nullâ mentionem fecit panis materialis, calicis, gratiarum actionis, fracti-onis, distributionis, commemorationis, Testamenti, quæ omnia ad esu &amp; potu symbolicu spectat. Panis, de quo Dominus locutus est Ioh. 6. ca. non est panis S. Cœnæ, sed est ipsius Domini Christi caro, quæ panis appellatur metaphoricè, &amp; quæ extra usum S. Cœnæ spiritua-liter per fidè participatur. Hujusmodi esus &amp; potus apprimè salutaris est ijs, qui in persecutionibus ministerio Ecclesiastico prorsus or-bati sunt, promissioni tamen Evangelicæ de Christo mortuo &amp; resu-scitato, ita ex corde credunt, ut anima ipsorum per Salvatoris sui meritum efficaciter ad vitam æternam nutriatur.</i>
+      </l>
+      <l n="4" type="heading" level="1" para="true">THESIS XXX.</l>
+      <l n="5" para="true" merged="true">Obiectum, in quo corporis &amp; sanguinis Christi mandu-catio &amp; potio spiritualis determinatur, non est tantùm Spi-ritus Christi vivificus vel eius Divinitas; nedum imagina-rius aliquis cibus &amp; potus; nec efficacia tantum, seu me-rita &amp; effecta passionis &amp; mortis Christi: sed ipsius verum corpus pro peccatis mundi immolatum; &amp; verus ipsius</l>
+    </main_text>
+    <notes>Page number and running head absent. The Greek word ἀσφαλείας is transcribed as printed. Line "sanguis" carries a printed reference mark at its end, not reproduced. Italic passages in the Thesis XXIX paragraph are marked with &lt;i&gt; across the whole paragraph as printed.</notes>
+    <bottom_margin>
+      <catchword>sanguis.</catchword>
+    </bottom_margin>
+  </page>
+  <page type="text" lines="none" n="30" model="claude-haiku-5-5">
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One printed page, one text column at full width; a heading centred in the middle; no marginal notes. Signature mark at the foot left.</layout>
+    <bottom_margin>
+      <signature>D 3</signature>
+    </bottom_margin>
+    <main_text>
+      <l n="1">sanguis, in λύτρον redemptionis nostræ in cruce effusus. De eodem &amp; eodem objecto Dominus utrobique locutus est. Matth. 26. Accipite, comedite, hoc est corpus meum, quod pro vobis traditur: sanguis qui pro vobis effunditur. Ioh. 6. v. 51. Ego sum panis ille vitæ, qui de cœlo descendi: Panis quem ego dabo, caro mea est. Caro mea est veré cibus; &amp; sanguis meus veré est potus. Obiectum saluti�feri esus &amp; potus appellatur Spirituale, non ratione substantiæ, quasi caro &amp; sanguis Christi sint substantia incorporea, spiritualis, invisibilis: sed quia ista participatio fit operatione Spiritus San-ctí, instrumento spirituali, quod est fides: &amp; respectu sui finis &amp; usus, qui ad vitam spiritualem, cœlestem &amp; æternam spectat.</l>
+      <l n="2" type="heading" level="1" para="true">THESIS XXXI.</l>
+      <l n="3" para="true">Orthodoxiæ igitur absona est istorum sententia, qui meri-ta &amp; effecta mortis Christi, ab ipsius corpore &amp; sanguine, in victimam expiatoriam oblato, separant &amp; divellunt. Nemo enim beneficiorum Christi, remissionis peccatorum, ustitiæ sempiternæ, regenerationis item per Spiritum San-ctum, &amp; glorificationis ad vitam æternam, particeps fieri poterit, nisi priùs quoque cum Christo capite, in unitate corporis, spiritualiter coniunctus fuerit. Sicuti enim palmi-tes non possunt á radice vitis, succum vitalem attrahere, nedum florescere &amp; fructum proferre, sed necessario exarescunt, nisi ipsi trunco vitis fuerint insiti: Eadem est ratio membrorum corporis Christi. Iohan. 15. Errant igitur Adversarij, qui statuunt homines fidei &amp; pœnitentiæ gratiâ destitutos, participare Sacramentali &amp; spirituali quodam modo, verum Christi corpus &amp; sanguinem: mo-do autem mystico &amp; veré Spirituali eos non participes fieri benefi-ciorum, quæ Christus corpore &amp; sanguine suo nobis acquisiverit: ubicunque enim corpus Christi est, ibi vivificum est: &amp; vivificam virtutem suam nunquam amittit. Ioh. 6. 53. Nisi ederitis carnem filij hominis &amp; biberitis ejus sanguinem non habebitis vitam in vobis.</l>
+    </main_text>
+    <notes>The first lines are a fragment continued from the previous page. Printed text in the faded show-through is not transcribed. The Greek word λύτρον is copied as printed. Printed text is in italic in the first paragraph and in the thesis paragraph after "Sicuti enim palmites". The printed word "vobis" at the foot right is a catchword.</notes>
+  </page>
+  <page type="text" lines="none" n="31" model="claude-haiku-5-5">
+    <warning type="merged_lines">2 line(s) contain several printed lines merged together (longest 469 chars, median 14); line numbering is unreliable</warning>
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One page of text, single column; running head at top; no margin notes; catchword-like fragment "pis si-" at the foot right is a line-end hyphenated word, transcribed in the text.</layout>
+    <page_number />
+    <running_head>vobis. vers. 56.</running_head>
+    <bottom_margin>
+  </bottom_margin>
+    <main_text>
+      <l n="1" type="heading" level="1" caput="32" para="true">THESIS XXXII.</l>
+      <l n="2" para="true" merged="true">Cúm verò corpus &amp; sanguis Christi, cibus &amp; potus sint non ventris, sed animæ ad vitam æternam: ergo non nisi organo spirituali, quod animæ conveniens est, participatur. Hoc organon est sola fides, peculiari efficacia Spiritus Sancti excitata, quæ metaphoricè Os &amp; Manus &amp; Oculus animæ appellatur.</l>
+      <l n="3" para="true">
+        <i>Ioh. 6. v. 35. 51. 56. 57. Ego sum panis ille vitæ, qui venit ad me, non esuriet unquam; &amp; qui crediderit in me, is non sitiet in æternum. Et, Qui ederit me, is vivet propter me, &amp; manebit in me, &amp; ego in ipso. Ephes. 3. 17. Per fidem habitat Christus in cordibus nostris.</i>
+      </l>
+      <l n="4" para="true">
+        <i>Quemadmodum interna &amp; spiritualis substantia cujuslibet Sacramenti, á solo Deo offertur &amp; exhibetur, non á ministro Ecclesiæ: Et offertur non sensibus &amp; organis corporis, sed fidei tantùm: Ita quoque non nisi fide percipitur. Ioh. 6. v. 32. Non Moses dedit vobis panem illum de cælis: verùm Pater meus dat vobis panem illum ἀληθινὸν de cælo. Nullum spirituale bonum á Deo promissum, sive in Verbo sive in Sacramentis, absque fide percipi potest: Promissio absque fide non est firma. Rom. 4. v. 16.</i>
+      </l>
+      <l n="5" type="heading" level="1" caput="33" para="true">THESIS XXXIII.</l>
+      <l n="6" para="true" merged="true">Propterea soli fideles &amp; pœnitentes, corpus &amp; sanguinem Christi participant. Eius modi enim pretiosa &amp; salutaria dona, hisce solis hæredibus in Testamento Christi legata sunt. Cæteri verò qui hoc applicationis instrumento sunt destituti, etiamsi signa externa participent, non possunt tamen ipsius substantiæ Christi participes reddi. Indignè quidem manducates &amp; bibentes fiunt rei corporis &amp; sanguinis Christi, nō tamen quód illa ore suo percipiāt, sed quia turpis si-</l>
+    </main_text>
+    <notes>Printed text is partly faint through show-through from the reverse page; the marginal ghost text is not transcribed. Some words are uncertain in the show-through areas.</notes>
+  </page>
+  <page type="text" lines="none" n="32" model="claude-haiku-5-5">
+    <warning type="merged_lines">1 line(s) contain several printed lines merged together (longest 733 chars, median 219); line numbering is unreliable</warning>
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One page of text, one column; no margin notes; a centred heading "THESIS XXXIV." with its thesis paragraph below. No page number, no running head visible.</layout>
+    <main_text>
+      <l n="1">pis sigillorum Testamenti abusus &amp; contemptus redundat in ipsum quoque Testatorem Christum; non minús quám diplomatum publicorum violatores,non tantúm in violati signi sacri ,verúm etiam in ipsius Maiestatis læsæ crimen incurrunt.</l>
+      <l n="2" para="true">
+        <i>Ioh.3. v.18.36. Qui non credit, jam condemnatus est, &amp; ira Dei manet super ipsum. 1. Cor.11. v.27. 29. Qui indignè edunt &amp; bibunt, rei fiunt corporis &amp; sanguinis Christi; damnationem sibiipsis edunt &amp; bibunt, non discernentes corpus Domini. Item, Evangelium de Christo est odor mortis ad mortem ijs qui pereunt : alijs verò qui servantur, odor vitæ ad vitam. 2. Cor.2. v.15.16. Hebr.10. v.29. Quantò acerbiore supplicio dignus censebitur, qui Filium Dei conculcârit, &amp; sanguinem fœderis, per quem fuerat sanctificatus, profanum duxerit, &amp; Spiritum gratiæ contumeliâ affecerit?</i>
+      </l>
+      <l n="3" para="true" merged="true">Licet fides non ingrediatur substantiæ Sacramentalis constitutionem; attamen ad salutarem efficaciam, usum &amp; perfruitionem ejus, necessariò requiritur. Nullius Sacramenti legitimus usus sine fide participantis consistere potest. Sacramenta enim non propter infideles, sed propter fideles instituta sunt, ut hi Christum cum omnibus ejus benefactis, efficaciùs sibi applicarent, arctiúsque cum eo coalescerent. Sententia Pauli Rom.3. v.3. Fides Dei non enervatur per hominum incredulitatem; non patrocinatur ijs qui circa usum Sacramentorum, nullâ fidei &amp; pœnitentiæ gratiâ præditi sunt: verúm intelligi debet de fœderis divini constantia erga electos, quorum graves lapsus efficere nequeant, quó minús Deus sua promissa ipsis præstet.</l>
+      <l n="4" type="heading" level="1" para="true">THESIS XXXIV.</l>
+      <l n="5" para="true">Asserimus Patres Veteris Testam, quotquot ab origine mundi vixerunt, corpore &amp; sanguine Christi, spiritualiter nobiscum nutritos fuisse ad vitam æternam. Etsi enim natura Christi humana tum nondum fueritin rerum natura-</l>
+    </main_text>
+    <notes>Catchword "ratra-" at the foot is the start of the next word, shown as printed "ratra-". Faint show-through of text from the reverse side is ignored. Printed signature "pis ij" faint at left is not transcribed as it is marginal and unclear.</notes>
+  </page>
+  <page type="text" lines="none" n="33" model="claude-haiku-5-5">
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One page of text, single column; a running line at the top above the text; no margin notes; catchword "THE-" at the lower right of the text block.</layout>
+    <running_head />
+    <bottom_margin>
+      <catchword>THE-</catchword>
+    </bottom_margin>
+    <main_text>
+      <l n="1">ra : ratione tamen promissionis divinæ &amp; typorum Sacramentalium Verbo annexorum, credentibus præsens fuit. Hæc enim est veræ fidei natura, vis &amp; proprietas, ut Deum ipsum in verbo promissionis intueatur, itaut licet nondum in rerum natura existat id, quod animæ fideli à Deo promissum est, vel intervallis locorum &amp; temporum procul adhuc sit positum, tamen virtute Dei sit ipsi præsentissimum. Fides enim est ὑπόστασις τῶν ἐλπιζομένων, ἔλεγχος τῶν μὴ βλεπομένων. Promissiones divinæ, quibus fides innititur, sunt Gen. 3. Gen. 12. v. 3. Gal 3. v. 16. Iohan. 8. v. 56. Actor. 10. 43. Actor. 15. 11. 1. Cor. 10. v. 4. Hebr. 13. v. 8. Apoc. 13. v. 8. agnus ab origine mundi mactatus. Vide exegesin Theseos 13.</l>
+      <l n="2" type="heading" level="1" para="true">THESIS XXXV.</l>
+      <l n="3" para="true">Oralem verò manducationem carnis suæ, Christus in Evangelio nusquam promisit, nedum sacramento Cœnæ eam sancivit, verùm expresis argumentis reiecit Iohan. 6. Corpus igitur &amp; sanguinem suum, non in pane vel in specie panis, sed Verbo promissionis fide manducandum &amp; bibendum exhibet. <i>Ioh. 6. v. 27. Operemini cibum, non illum qui perit, sed cibum illum qui permanet ad vitam æternam, quem Filius hominis dabit vobis. Ioh. 6. v. 62. 63. Quid si spectaveritis Filium hominis ascendentem eo ubi prius erat? Spiritus est qui vivificat: caro non prodest quicquam: verba quæ loquor vobis, Spiritus sunt &amp; vita sunt.</i> Adversarij manducationem Oralem &amp; Sacramentalem, pro eadem accipiunt perperam. Sacramentalis enim distingui debet, pro diverso suo objecto. In legitimo ejus usu, pij percipiunt ore corporis signa Sacramentalia, fide autem rem quoque significatam. Impij fide destituti, participant symbola tantùm: Oralem vel corporalem manducationem fingunt adversarij, quâ omnes communicantes promiscuè participent ipsum verum corpus &amp; sanguinem Christi, quod absurdum, cùm nullus corporalis esus &amp; potus nutrire possit Spiritum hominis ad vitam æternam.</l>
+    </main_text>
+    <notes>The running head at the top is damaged and not legible; no page number is printed. Show-through from the facing page is present and omitted. Catchword "THE-" is taken from the foot of the text block. The Greek in the first paragraph is transcribed as best read and may contain small errors.</notes>
+  </page>
+  <page type="text" lines="none" n="34" model="claude-haiku-5-5">
+    <warning type="merged_lines">2 line(s) contain several printed lines merged together (longest 434 chars, median 14); line numbering is unreliable</warning>
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One page of text, single column; catchword-like letter "E" below the last line at centre; a signature-like mark "na;" at lower right of the text block (catchword). No margin notes.</layout>
+    <running_head />
+    <bottom_margin>
+      <catchword>Cœna;</catchword>
+      <signature>E</signature>
+    </bottom_margin>
+    <main_text>
+      <l n="1" type="heading" level="1" caput="36" para="true">THESIS XXXVI.</l>
+      <l n="2" para="true" merged="true">Ex spirituali corporis &amp; sanguinis Christi participatione, de eiusdem in sacra Eucharistia præsentiâ iudicari potest. Cum enim Christi caro &amp; sanguis á credentibus veré manducetur &amp; bibatur, veré præsens adsit necesse est: non quidem pani &amp; vino, sed hominibus credentibus &amp; Sacramento legitimé utentibus, præsens. Cumque applicatio Christi non fiat ore, sed fide; præsentia ergo non corporalis, sed spiritualis, necessariò sequitur. <i>Christus corpore &amp; sanguine suo realiter præsens est, non respectu existentiæ localis, nec corporaliter, sed spiritualiter: Hæc vera &amp; realis præsentia nititur fundamento promissionis divinæ, quâ Dominus in S. Cœnæ institutione, esum &amp; potum sui corporis &amp; sanguinis, fidelibus promisit; &amp; promissionem illam certissimé præstabit. Unde etiam emergit talis UNIO Sacramentalis, de qua supra dictum, quâ Signum &amp; res Signata, per institutionem, promissionem &amp; efficaciam divinam, in legitimo usu conjuncta sunt.</i> Corporalis verò Christi præsentia pugnat cum institutione Cœnæ, in qua non corporalis sed spiritualis cibus nobis promissus; cum veritate corporis Christi, quod nostro est consubstantiale. Luc. 24. Heb. 2; Cum natura omnium Sacramentorum, in quibus res signata non aliter est præsens, quám spiritualiter per fidem.</l>
+      <l n="3" type="heading" level="1" caput="37" para="true">THESIS XXXVII.</l>
+      <l n="4" para="true" merged="true">Denique præsentiam Christi in sacra Cœna credimus, non solius Deitatis respectu; verùm etiam corporis &amp; sanguinis eiusdem ratione: præsentiam tamen &amp; communionem spiritualem, cuius gratiâ universa Verbi &amp; Sacramentorum Oeconomia instituta est.</l>
+      <l n="5" para="true">
+        <i>Quæcunque præsentia &amp; communicatio promittitur Verbo, eadem quoq; obsignatur Sacramentis: &amp; é contrario; item qualis est præsentia &amp; communio in S. Baptismo; talis quoque est in S. Cœna;</i>
+      </l>
+    </main_text>
+    <notes>Catchword "na;" and letter signature "E" read from the foot of the page; the signature is possibly "E" with the catchword "Cœna;". Some words in the italic passages are uncertain due to show-through from the reverse side.</notes>
+  </page>
+  <page type="text" lines="none" n="35" model="claude-haiku-5-5">
+    <warning type="catchword_in_text">catchword taken out of the main text: per clau-</warning>
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One block of running text in a single column, filling the page; no marginal notes; no running head, page number or catchword printed.</layout>
+    <main_text>
+      <l n="1">na; &amp; vicissim: At in Baptismo tantum est spiritualis. 1. Cor. 12. v. 13. Per unum Spiritum in unum corpus baptizati sumus. Quae praesentia pugnat cum articulis fidei, de incarnatione Filij Dei; de circūscripta veritate assumpti corporis humani; de unione personali naturae humanae cum ὑποστάσει τῷ λόγῳ; de adscensione Christi in caelos; de Sessione ejus ad dextram Patris in caelis, &amp;c. ea est falsa.</l>
+      <l n="2" para="true">Et haec Totius Christi τῷ Διαυθρώπῳ praesentia spiritualis, non est imaginaria &amp; phantastica, ut adversarij calumniantur; quasi nihil verum &amp; reale sit, nisi quod carnale, terrenum, &amp; ipsis impijs quoque commune; sed vera est atque per Spiritum Sanctum efficax, quae consistit in caelesti &amp; mystica nostri ceu membrorum cum capite communione, ad quam nullo de caelis descensu nec visibili nec invisibili opus est: Sicut &amp; nobis, qui ejus membra sumus mystica, non opus est adscensu Physico in caelos, ut cum ipso capite nostro arctius conjungamur. Praesentior enim est is, qui se ipse animis nostris inserit, quam qui oculis praesens exhibetur, quia plus est mente connecti, quam corpore copulari: plus est Christum intus habere in CORDE, quam in ORE. In promptu sunt promissiones illae luculentae: Ioh. 6. v. 35. Qui venit ad me, &amp; qui credit in me, non sitiet &amp; esuriet unquam. v. 56. 57. Is in me manet, &amp; ego in eo: &amp; ipse quoque vivet per me. Ioh. 14. v. 23. Pater meus &amp; ego veniemus ad eum &amp; apud eum manebimus. Eph. 3. 17. Per fidem inhabitat Christus in cordibus vestris. 1. Ioh. 3. v. 24. Per hoc novimus, eum habitare in nobis, nempe ex Spiritu, quem dedit nobis.</l>
+      <l n="3" para="true">Plane ἄτοπον est, quod Vbiquetarij Corpori Christi tribuunt res alicubi essendi modos. Primum circumscriptivum seu corporalem, secundum trinam corporis dimensionem, localem, visibilem, juxta quem modum DN. Christus in statu exinanitionis versatus, corpore suo Hierosolymae, Bethaniae, &amp;c. certis in locis fuerit praesens. Alterum modum definitivum, qui Angelis &amp; Spiritibus proprie competit, secundum quem Christus maxime in statu exaltationis, corpore invisibili &amp; per dimensiones penetrabili, spiritualles proprietates obtinente, pluribus in locis simul esse potuerit; quo</l>
+    </main_text>
+    <notes>Page is a single column of text; the lower-right fragment "per clau-" continues onto the next page. Some Greek words (ὑποστάσει, Διαυθρώπῳ, ἄτοπον) are printed in Greek and transcribed as seen; the Greek in "Διαυθρώπῳ" is uncertain: "Ἀνθρώπῳ" may be intended. Passages with doubtful letters due to faint print: "spiritualles" (possibly "spirituales") left as printed.</notes>
+    <bottom_margin>
+      <catchword>per clau-</catchword>
+    </bottom_margin>
+  </page>
+  <page type="text" lines="none" n="36" model="claude-haiku-5-5">
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One page of text, one column, full width; below the text line a signature mark "E 2" at centre and a catchword "sum" at right. No margin notes.</layout>
+    <page_number />
+    <running_head />
+    <bottom_margin>
+      <catchword>summa</catchword>
+      <signature>E 2</signature>
+    </bottom_margin>
+    <main_text>
+      <l n="1">per clausum sepulchrum exiverit ; per clausas januas ad discipulos ingressus sit ; é conspectu discipulorum Emaunte evanuerit, &amp;c. Tertium modum appellant repletivum, divinum, cœlestem, majestaticum, á gloria dexteræ Dei dependentem ; secundúm quem corpus Christi ad dextram Patris exaltati sit omnipraesens, juxta illud: Matth. 18. 20. Vbi duo aut tres: Matth. 28. 20. Ecce ego vobiscum sum omnibus diebus usque ad seculi consummationem. Eph. 4. 10. Adscendit super omnes cœlos, ut impleret omnia. In quo triplici præsentiæ modo plurima confusa, ἀσίσκατα, contra dicta toria, in voluta sunt.</l>
+      <l n="2" para="true">Captiosæ sunt eorundem rationes, ab unione personali desumptæ: quód λόγος totus sit in carne assumpta, &amp; extra carnem nulli libi; quód duæ naturæ in Christo indistanter unitæ sint. Quæ sophismata cum Verbo Dei &amp; Symbolis orthodoxarum Synodorum diserté pugnant. Vnio enim personæ τῶ λόγῳ assumentis &amp; humanæ naturæ assumptæ, facta est ratione proprietatum essentialium utriúsque naturæ, ἀσυγχύτως ἡ ἀτρέπτως, inconfusé &amp; immutabiliter: ἀδιαιρέτως ἡ ἀχωρίστως, indivisé &amp; inseparabiliter. Et qualis est unio utriúsque naturæ, mediante personâ, talis quoque est communio proprietatum in persona τῶ λόγῳ, videl. omniscientiæ, omnipræsentiæ, omnipotentiæ, &amp;c. non quod unius naturæ idiomata transfundantur in alteram, sed potiús utriusque naturæ proprietates de persona, ex duabus naturis constante prædicentur. Vnde absurdissimæ consequentiæ eliciuntur, quando idiomata unius naturæ non tribuuntur Personæ, voce concreta, ab altera natura denominatæ (Filius Dei est ex Maria natus, passus, mortuus: Filius hominis est prior Abrahamo. Ioh. 8. Filius hominis loquens in terris, fuit in cœlo. Ioh. 3.) sed prædicantur de altera natura, voce abstracta; Deitas τῶ λόγῳ est passa, mortua: caro Christi est omnipræsens, &amp;c.</l>
+      <l n="3" para="true">DENIQUE inanes sunt prætextus rationum, quas depromunt ab Omnipotentia Dei, ubi de ejus voluntate ex Verbo revelato non priús constat, præsertim in ejusmodi assertionibus, quæ sum.</l>
+    </main_text>
+    <notes />
+  </page>
+  <page type="text" lines="none" n="37" model="claude-haiku-5-5">
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One printed page, single text block. Top: continuation italic paragraph (5 lines plus 2 lines). Centred heading CORONIS. Then a list of lines (contents of the coronis). Below: italic centred closing lines, then centred FINIS. No margin notes, no page number, no running head.</layout>
+    <main_text>
+      <l n="1">
+        <i>cum veritate, justitia &amp; potentia Dei pugnant. A miraculoso item Dei opere, quod cum Sacramento Eucharistiae perpetuo sit conjunctum. Christum ajunt adesse miraculose, non obstantibus articulis: de proprietate corporis humani a Christo personaliter assumpti: de adscensione Christi visibili, &amp;c. atque ita Sacramentum familiare in miraculum Consubstantiationis &amp; Transsubstantiationis falso convertunt.</i>
+      </l>
+      <l n="2" type="heading" level="1" para="true">CORONIS.</l>
+      <l n="3">An &amp; quo sensu Eucharistia sit Sacrificium?</l>
+      <l n="4">De Transsubstantiatione;</l>
+      <l n="5">De Sacrificio Missae expiatorio, pro peccatis viventium</l>
+      <l n="6">&amp; mortuorum;</l>
+      <l n="7">De Canone Missae.</l>
+      <l n="8">De communione sub utraque specie.</l>
+      <l n="9">De adoratione hostiae.</l>
+      <l n="10">De reservatione hostiae consecratae.</l>
+      <l n="11">De Leiturgiis Veterum.</l>
+      <l n="12">De Altaribus, &amp;c.</l>
+      <l n="13" para="true">
+        <i>Peculiaris Diatribe proxime, Deo votis nostris aspirante, instituetur.</i>
+      </l>
+      <l n="14" type="heading" level="1" para="true">FINIS.</l>
+    </main_text>
+    <notes>Faint show-through text from the reverse side is visible in the lower half and was not transcribed. The long s is rendered as s; the line-ending hyphen-free forms follow the print.</notes>
+  </page>
+</book>
