@@ -1,0 +1,6422 @@
+{
+ "source": "W03344_Heidegger_Dissertatio_de_theologia_scholastica_quam_propitia_Spiritus__1671.pdf",
+ "pages": [
+  {
+   "n": 1,
+   "type": "empty",
+   "model": "claude-haiku-5-5",
+   "notes": "Digitiser's cover sheet, not part of the printed book. Its content is omitted: e-rara.ch banner and logo, the title block (www.e-rara.ch; \"Dissertatio de theologia scholastica\"; Heidegger, Johann Heinrich; Tiguri, 1671; Zentralbibliothek Zürich; Persistent Link https://doi.org/10.3931/e-rara-13687), the multilingual usage notices (Nutzungsbedingungen, Terms of Use, Conditions d'utilisation, Condizioni di utilizzo) and the Visual Library logo. The bibliographic data is given here only for reference."
+  },
+  {
+   "n": 2,
+   "type": "title",
+   "model": "claude-haiku-5-5",
+   "number": "21",
+   "lines": [
+    {
+     "n": null,
+     "text": "DISSERTATIO",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "DE THEOLOGIA",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "SCHOLASTICA.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Quam",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Propitiâ Spiritus S. gratiâ,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Ventilandam publicè proponit",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "J. HENRICUS HEIDEGGERUS,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "SS. Theol. D. & P.P. ac p.t. Scholarcha.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Respondente",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "JOH. CASPARO BRUNNERO,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "V. D. M.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Assumente",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "GUILIELMO HOFFMEISTERO,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "SS. Theol. Studioso.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Postridie Synod. Galli L. H. Q. S.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "TIGURI",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Typis DAVIDIS GESSNERI, M DC LXXI.",
+     "heading": 0
+    }
+   ],
+   "notes": "The page number \"21.\" is in a manuscript hand at the top right and is recorded here only as a number. The ornament between the title and the imprint is a woodcut and is not transcribed. The title words in the first part are set in spaced capitals; \"Quam\" and \"Assumente\" are in italic script; \"Respondente\" and \"Postridie\" are in italic."
+  },
+  {
+   "n": 3,
+   "type": "empty",
+   "model": "claude-haiku-5-5",
+   "notes": "No printed text on this page. The visible lettering (mirrored display capitals reading \"DISSERTATIO ... DE ... \" and the lines below, plus the mirrored foot line) is show-through from the other side of the leaf and is left out. The top-left mark is not clearly printed and is left out."
+  },
+  {
+   "n": 4,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "number": "A 2",
+   "lines": [
+    {
+     "n": 1,
+     "text": "I.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "GRavissima est & perpetua recordatione digna",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "illa Gentium Doctoris ad Timotheum γνῶσιν",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "suum, quæ extat, 1. Tim. VI. 20. 21. profpho-nesis: ὦ Τιμόθεε, τὴν παραθήκην φύλαξον, ἐκτρεπόμενος τὰς βεβήλους",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "κενοφωνίας, καὶ ἀντιθέσεις τῆς ψευδωνύμου γνώσεως. Ἥν τινες ἐπαγγελλόμενοι, περὶ τὴν πίστιν ἠστόχησαν. O Timothee, depositum",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "custodi, fugiens profanas vocum inanitates, & op-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "positiones falsò nominatæ cognitionis, quam qui-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "dam profitentes circa fidem non collineârunt. Quibus verbis simul com-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "mendat fidelem custodiam τῆς παραθήκης depositi, verbi nimirum",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "scripti, quod Deus apud Ecclesiam depositum tanquam κειμήλιον quod-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "dam, quod nec vitiaret & collutularet ipsa, necab aliis corrumpi ulla",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "ratione pateretur: simul detestatur tum κενοφωνίας, hoc est, voces va-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "nas, inanes & futiles, ad docendum & sensum Spiritus S. demon-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "strandum prorsus ineptas & inhabiles, & genuinum scripturæ sensum",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "enervantes ac exinanientes, quas vocat βεβήλους profanas, quia vide-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "licet non habent authoritatem λόγων Θεοπνεύστων, καὶ παιδαγωγίαν",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "διδάκτων, adeóque recedunt à sanis sermonibus Domini nostri Jesu Chri-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "sti; tum ἀντιθέσεις ψευδωνύμου γνώσεως, oppositiones falsò nominatæ cogni-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "tionis, hoc est, non illius duntaxat cognitionis, cujus typho inflati olim",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "Gnostici, hæreticorum genus sceleratissimum, à jactata illa γνῶσις ita",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "dictum, sibi quidvis permiserunt, de quibus verba interpretatus est",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "Chrysostomus, & ex eo Hugo Grotius; sed humanarum inprimis ra-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "tiocinationum & conjecturarum, quæ cùm manifestam veritatem",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "nec ex conscientiæ, nec ex revelationis lumine insitam habeant, illi",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "tamen, quæ secundum pietatem est, doctrinæ temerario plane ausu",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "opponuntur. Atque eos, qui profanas ejusmodi κενοφωνίας, & cogni-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "tionis falsò nuncupatæ ἀντιθέσεις sectarentur, scopum fidei & cœlestis",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "doctrinæ propositum haudquaquam ferire, sed περὶ τὴν πίστιν",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "ἀστοχῆσαι, pronuntiat Apostolus.",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "II. Extra dubitationis equidem aleam constitutum est, extitisse",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 31,
+     "text": "etiam Apostoli tempore homines hac nota insignes, qui & futilibus",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "verbis cœlestis doctrinæ sinceritatem polluerent, & falsò nuncupatæ",
+     "heading": 0
+    }
+   ],
+   "catchword": "co-",
+   "signature": "A 2"
+  },
+  {
+   "n": 5,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "number": "(none printed)",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: pie-"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "cognitionis ἀνλθεσις, suas videlicet opiniones, suspiciones, phantas-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "mata, palam tuerentur, adeoque circa fidem infeliciter jacularentur.",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "Sane idem Apostolus Phil. 1. 16. queritur, quosdam Christum ἐχ",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "ἀγνῶς haud sanctè praedicare. Et cap.III. 18. cum lachrymis accusat quos-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "dam ambulantes ἐχθρῶς τῆς σταυρῶς τῆς Χριστοῦ, hostes crucis Christi. Quin",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "ipse Apollos, Act.XVIII. 26. opus habuit, ut ipsi ἀκριβέστερον exquisitius",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "exponeretur via Dei. Neque tamen quidquam obstat, quo minus",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "Apostolicum hocce celeusima accommodetur etiam ad eos, qui pro-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "cedente tempore ejusdem culpae se alligaturi erant, quos adeo Apo-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "stolus in primis illis προεγραφέντες praedescripsit. Huc proinde referendi",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "sunt, quotquot post Apostolorum decessum ab hypotyposi sanorum",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "sermonum, & doctrina semel tradita, ad figmenta & pigmenta ingenii",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "sui tum in verbis, tum in rebus deflexerunt, & hodieque deflectunt.",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "Neque quisquam sanus temeritatis notam mihi impingere ausit, si",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "Apostolum ad Scholasticam etiam Theologiam, Pontificiorum He-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "lenam, digitum intendere afferaveram. Id vero ut manifestius fa-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "ciam, constitui de Scholastica Theologia pauxillum differere, hoc cum-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "primis tempore, quo nonnemo ἐξ ἐναντίας edito spisso volumine, non",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "tam decretoriis verbi Divini, quàm praepostersis Theologiae, seu po-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "tius matæologiae illius & sophisticae suae meretriculae armis, denuo",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "sibi certamen mecum cernendum duxit. Quod quidem instirutum",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "ejus singulare & insolens merito videri debet. Nam reliquos quidem",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "adversarios, calamum adversus nos stringentes, hactenus fere puduit",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "Scholasticae Theologiae, cujus arcanis non utuntur nisi apud suos.",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "Contra nostros vero utuntur continuis & prolixis declamationibus,",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "convitia evomunt, flammas anhelant. At hic beatior illis videlicet,",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "plus sibi in me, quàm sibi reliqui erga alios, juris permisit. Nam &",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "Scholasticae Theologiae cornua obvertit, & a declamationibus, con-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "vitiis, innumerisque fraudibus minime quoque temperavit. Cùm igi-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "tur quàm venenata & sublaesta sint ejus, quibus utitur, arma, paucis",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "ostendero, non parum bonis cordatisque in antecessum contra ipsum",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "profecisse videbor.",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "III. Scholasticae Theologiae a Scholasticis, & his a Schola no-",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 34,
+     "text": "men est.",
+     "heading": 2
+    },
+    {
+     "n": 35,
+     "text": "Scholas autem dictas ait Festus, non ab otio ac vacatione ani-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 36,
+     "text": "mi, sed quod caeteris rebus omissis, liberalibus studiis homines illis in locis",
+     "heading": 0
+    },
+    {
+     "n": 37,
+     "text": "vacarent. Ac primis quidem temporibus verbum Dei & privatim &",
+     "heading": 0
+    },
+    {
+     "n": 38,
+     "text": "publice a Pastoribus & Doctoribus doceri solitum est, adeo ut ipsa-",
+     "heading": 0
+    },
+    {
+     "n": 39,
+     "text": "e etiam Ecclesiae & singulorum fidelium domus Schola quodammodo",
+     "heading": 0
+    }
+   ],
+   "catchword": "pie-",
+   "notes": "Some words in the Greek passages are uncertain; the Greek is printed in a mixed and partly damaged state and has been copied as closely as the scan allows. Show-through from the reverse side is present but was not transcribed. Page has no printed page number or running head."
+  },
+  {
+   "n": 6,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: nuisset:"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "pietatis & Christianæ doctrinæ dici potuerint. Paulatim vero etiam",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "munera Episcoporum & Doctorum distingui coeperunt, Episcopis",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "videlicet hoc sibi negotij dantibus, ut vel mores hominum cen-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "soria sua virgula corrigerent, vel opibus Ecclesiæ colligendis & cor-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "rogandis vacarent. Sic igitur ab Episcoporum tanquam eminen-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "tiore dignitate munus docendi seperari, aliisque delegari coepit.",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "Tandem vero Episcopis pascendi gregis Christi curam deserentibus",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "tantumque non ejurantibus, atque somno, desidia & inscitia sepultis,",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "& invalescentibus jam erroribus, docendi munus vacuum & fere ne-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "glectum invaserunt mendicantes Monachi, qui receptas erroneas",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "opiniones defendere ac propagare sategerunt, & Cœlestis Evange-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "lij doctrinam suis disputationibus & <i>τῇ διαλεκτικῇ</i> suffocârunt. Hi igi-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "tur <i>Scholastici</i> dicti sunt, quòd eam doctrinam tenerent, quæ in <i>Scholis</i>",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "publicè, methodo & phraseologia scholastica, obscura, difficillima,",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "& plane diversa ab ea, quæ apud populum in usu fuit, traelebatur. Ac",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "veré quidem ei Theologiæ accommodari potest, quod Julius Pollux",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "scribit: <i>τὸ διδασκαλικὸν εἶδος αὐχμηρὸν ἐστι, καὶ τραχύ. Scholasti-</i>",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "<i>cum dicendi genus asperum est & fastidiosum.</i> quanquam non medio-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "crem ex eo voluptatem ejus sectatores capiunt, ut quod de <i>Scholasti-</i>",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "<i>ca</i> vita Chrysippus prædicat, <i>nihil eam à voluptuaria differre,</i> huic me-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "ritissimè applicetur.",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "IV. Fatemur equidem, circa annum Domini 150. Alexandriæ",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 23,
+     "text": "institutam fuisse celebrem scholam, in qua Christianæ fidei mysteria",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "docebantur. Ei teste Eusebio <i>Histor. Eccles. lib. V. 6.</i> præfuit Pante-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "nus, cui successit Clemens Presbyter Alexandrinus, qui <i>Pædagogi</i> duos",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "libros scripsit: Clementi Origenes Adamantius: Origini Dionysius,",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "atque sic ordine alij. At diverli plane generis fuerunt hi, de quibus",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "nos agimus. Nam nec doctrinam, nec docendi methodum eandem",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "quam illi, sequuntur. Quamobrem etiam natales eorum remotioris",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "longè sunt origins. In seculum enim undecimum eorum principia",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "incidunt, tempus nimirum Lanfranci Papiensis, qui Berengarij anta-",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "gonista fuit. Cùm enim ante Lanfranci ætatem unius fere Augustini",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "secundum verbum Dei scriptum doctrina, data im primo ab Egyppio,",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "Fulgentio, & Primasio Afris Theologis, postea ab Isidoro Hispalensi",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "Episcopo, Maximo Taurinensi, Prospero Gallo, Beda, ejusque discipu-",
+     "heading": 0
+    },
+    {
+     "n": 36,
+     "text": "lis Alcuino, Claudio, Rabano Mauro aliisque, Conciliis etiam integris,",
+     "heading": 0
+    },
+    {
+     "n": 37,
+     "text": "veluti Araufiaco & Constantinopolitano sexto tradita, & perpetua",
+     "heading": 0
+    },
+    {
+     "n": 38,
+     "text": "successione propagata, apud doctissimos & optimos quoque obti-",
+     "heading": 0
+    }
+   ],
+   "catchword": "nuisset:",
+   "signature": "A 3",
+   "notes": "Catchword \"nuissēt:\" read from the final line; Greek passages transcribed approximately and marked as doubtful. Long s rendered as s throughout. Text in the scan is slightly faded; some words in the Greek and in the lines near the foot are uncertain."
+  },
+  {
+   "n": 7,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "nuisset: coeptum est paulatim ab Augustini sententia,cum in aliis,tum",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "præcipuè in articulo de Eucharistia discedi,gliscentibus jam variis in",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "Ecclesia Dei erroribus,& mysterio iniquitatis ac apostasiæ per Roma-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "nos Pontifices multum proficiente, & immanem transsubstantiatio-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "nis errorem, fœtam plurimorum errorum matrem parturiente.Huic",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "verò saniori doctrinæ inflictæ labi cùm occurrere conatus esset Be-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "rengarius,Andegavensis in Gallia Archidiaconus, qui veterem Augu-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "stini labascentem sententiam pro viribus sustentare laboravit,ei se op-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "posuit Lanfrancus Italus,qui Papiæ Theologiam profitebatur, opem",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "illi ferente Guitmundo Archiepiscopo, aliisque hominibus Italis, qui",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "in Vercellensi Concilio pro ipso palam contra Berengarium pronun-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "ciârunt. Ex eo tempore doctrina Lanfrancianæ similima cusa, quæ-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "stiones inutiles & ἀπαράδεκτοι extra Dei verbum agitatæ, philosophia",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "spinosa paulatim in proscenium Ecclesiæ inducta, Theologicæ senten-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "tiæ ac definitiones, ad ritus jam usitatos & recepta ὑφέστωτα ac Ponti-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "ficum decreta revocatæ & exactæ, denique de his rebus regulæ, ve-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "luti κυρίως δόξαι & divina oracula, traditæ, & in vulgus missæ sunt.",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "V. Notabilis autem plane est Synchronismus nati videlicet",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 19,
+     "text": "etiam juris Canonici circa illud ipsum tempus, quo Scholastica Theo-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "logia caput protulit. Occasio erat ejusmodi. Henrico V. Imperato-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "re Romani imperij clavum tenente in Italia Irnerius, maximæ digna-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "tionis & existimationis vir, gubernavit eas partes, quæ snibi Romani",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "Imperij erant. Is Jus Romanum, quo ante adventum Longobardo-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "rum usa erat Italia, collapsum fere proferri denuo & instaurari cura-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "vit, usus ad id authoritate Imperatoria Lotharij Saxonis Imperatoris.",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "Fertur autem ipse etiam Romæ & Bononiæ docuisse, & primus ex",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "Italis textibus glossemata addidisse. Contigit id circa annum Domini",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "1030. Irnerium autem secuti sunt ejus discipuli Johannes Bulgarus,",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "Azo, Placentinus, alij. Fervebat igitur Romanarum legum per Ger-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "maniam & Italiam singulare studium. Id verò quia Imperatorum Ma-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "jestatem muniebat, videbatur non exiguum recenti necdum satis",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "confirmatæ Pontificum tyrannidi periculum minitari. Ad quod aver-",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "runcandum Pontificis Gnathones extollere authoritatem canonum",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "Ecclesiasticorum, nec non Papalium decretorum, quibus non parum",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "Romanis legibus Imperatorum derogabatur. Æmulatione Irnerij",
+     "heading": 0
+    },
+    {
+     "n": 36,
+     "text": "circa annum Christi 1140. prodiit Gratianus,patria Clufinus, profes-",
+     "heading": 0
+    },
+    {
+     "n": 37,
+     "text": "sione Monachus Benedictinus, tum & ipse Bononiæ degens, qui Ca-",
+     "heading": 0
+    },
+    {
+     "n": 38,
+     "text": "nones Conciliorum & Decreta Pontificum in unum volumen conge-ssit,",
+     "heading": 0
+    }
+   ],
+   "catchword": "gessit,"
+  },
+  {
+   "n": 8,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: idem"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "gessit, ac titulo <i>Decreti</i> publicavit. Quod opus quia gratissimum erat",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "Pontificibus, novis etiam subinde legibus a Gregorio IX. Bonifacio",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "VIII. Clemente V. aliisque amplificatum & locupletatum est. Sicut",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "igitur verbo Dei & saniori ex eo Theologiæ, quam Augustinus alii-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "queSanctiPatres tenebant, ScholasticaTheologia:ita circa eadem fer-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "mè tempora Imperatorum Legibus & Decretis Jus Pontificium seu",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "Canonicum oppositum est. Utrumque eodem aurigabatur, ad depri-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "mendum videlicet Regnum Christi, & ad Pontificum Romanorum",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "Regnum, vel potius <bl>παπᾶσαν</bl>stabiliendam. Illud Divino, hoc hu-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "mano supereminenti Juri ex adverso positum est. Utraque & Schola-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "sticorum & Canonistarum Theologia, liceat uti verbis Raynoldi ad-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "versus Hartum, <i>duæ illæ columnæ sunt, quibus Papismus, ut olim Dago-</i>",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "<i>nis domus, sustentatur.</i> Facit huc, quòd Petrum Lombardum, qui Scho-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "lasticam Theologiam, Gratianum, qui jus Canonicum primi in ordi-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "ne n redegerunt, & Comestorem, qui historiam utriusque Test. Ec-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "clesiasticam glossis illius ætatis salsissimis & infulsissimis refertam con-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "sarcinavit, fratres fuisse nonnulli tradunt. quanquam repugnantibus",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "aliis, qui tamen ad conciliandam historiam eos vel fratres nothos ex",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "moniali natos, vel spirituales fuisse pertendunt. De quo Genebrar-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "dum, Baronium, Nauclerum aliósque videre est.",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "VI. Operæ pretium verò etiam fuerit, Theologiæ Scholasticæ di-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 22,
+     "text": "versas ætates distinguere, quas jam olim viri doctiLambertusDaneus,",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "Hospinianus, alij tres constituerunt, veterem, mediam, & novam; plane",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "sicut olim Academici, quibus similimi sunt Scholastici, utpote <bl>ἀμφιζήτημον</bl>",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "hominum de omnibus rebus ambigue disceptantium genus, se-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "ctæ suas ætates distinxerunt. <i>Veterem</i> alij à Lanfranco, alij à Lombar-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "do, utpote qui primus eam literis consignavit, rectiùsaufpicantur, & ad",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "tempora usque Alberti M. hoc est, ad annum usq; Christi 1220. exten-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "dunt. Princeps igitur hujus ætatis fuit Petrus Lombardus Parisiensis",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "Episcopus, qui Damasceni exemplo & æmulatione Theologiam in",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "novam methodum redegit, & Religionis Romanæ fundamenta qua-",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "tuor libris <i>Sententiarum</i>, quæ postea totius Scholasticæ doctrinæ basis & <bl>κυρίαν</bl>",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "<bl>δόξαν</bl> fuerunt, complexus est. Unde choragus hic (quem ta-",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "men maledicus etiam in suos Jesuita Genebrardus plagij accusat, eò",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "quòd sententias suas à Guilielmo Abbate Bondino dicto, cujus tamen",
+     "heading": 0
+    },
+    {
+     "n": 36,
+     "text": "Trithemius ne quidem meminit, suffuratus fit) <i>Magister sententiarum</i>",
+     "heading": 0
+    },
+    {
+     "n": 37,
+     "text": "(hoc est, <bl>בעל חידות</bl> quod ad Danielis <bl>מבין חידות</bl> <i>intelligens sophismata</i>,",
+     "heading": 0
+    },
+    {
+     "n": 38,
+     "text": "quod Antichristo tribuitur cap. VIII, 23. proximè accedit, si non",
+     "heading": 0
+    }
+   ],
+   "catchword": "idem",
+   "notes": "Hebrew and Greek words are transcribed as best read; the Hebrew line and Greek words are only approximate. Page is a single text column with no marginal notes. Some words in the first line are partly obscured by fold/shadow."
+  },
+  {
+   "n": 9,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "idem est) postea in Scholis nuncupari consuevit, tantáque authorita-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "te polluit, ut a iverfus ipsum ne hiscere qui lem integrum cuiquam",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "fuerit. Quod compertum est exemplo Joachimi Florenfi Cænobij",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "Abbatis, qui cum post annum 1190. Lombardi sententiam sugillare",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "non dubitaffet, statim ab Innocentio III.in Lateranenfi Concilio dam-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "natus, stigmatias factus est. Neque aliam ob causam Cyrilli Mona-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "chi Carmelitæ Æternum Evangelium ex vetusto Origenis errore",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "cusum, cujus vel ipsum Sathanam pudere debuisset, à Monachis plu-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "ribus probatum erat, quàm quia Scholasticæ huic Helenæ lenocinaba-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "tur. Quid quòd ad calcem libri 4. Sentent. reperire est blasphema ver-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "ba,ea, quæ in libris Lombardi continentur, ex pedibus sedentis super",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "folium excelsum, hoc est, Dei ipsius commemorata & dictata esse, qua-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "si videlicet aliud ex capite, aliud ex pedibus Dei dictetur, vel verus",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "ille & æternus Jehova similis fit profano Jovi, qui ex capite Miner-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "vam,ex pedibus & fœmore Herculem edidisse fingitur; vel denique",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "liber ille perinde ac Canonici à Deo ipso dictatus profectusque fuerit.",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "Claruerunt autem hac ætate Rupertus,Leo Thufcus,Petrus Clericus,",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "Guilielmus Antifiodorenfis, Petrus Cluniacensis, Bernhardus Com-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "poftellanus, Hugo Bononienfis, Vincentius Gallus, Alexander Alen-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "fis, qui primus in quatuor Lombardi libros commentatus est, Gual-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "therus Pictavienfis,aliíque. Et hæc qui lem ætas Patres antiquiores",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "Prophetis & Apostolis, & illorum sententias adulterinas, truncatas",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "& obtorto collo raptas, genuinis scripturarum divinarum testimoniis",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "exæquavit: Philosophiam ac rationes humanas parcè admodum ad-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "hibuit (quippe apud Lombardum ne nomen quidem Ariftotelis repe-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "rire est) in definiendo cæteris modeftior cautiórque fuit, & ea intri-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "cati & horridi sermonis barbarie, in qua moderni sibi placent, usa",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "haud est. Memoratu dignissimum etiam est, quod annotant Chrono-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "logi, nempe in tempora exorientis hujus doctrinæ horrendam ecli-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "pfin & terræ motum terribilem incidisse, præsagum utrumque muta-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "tionis doctrinæ. Cum qua eclipsi & terræ motu multi sigillum sex-",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "tum Apocalypticum comparant.",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "VII. Media ætas ducem præsultorémque habuit Albertum M.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 34,
+     "text": "Ratisbonensem Episcopum, qui circa annum D. 1220. floruit, quo",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "tempore etiam Parisiis Sorbona, Scholasticorum Theologorum col-",
+     "heading": 0
+    },
+    {
+     "n": 36,
+     "text": "legium & lustrum, conflructa est. Duravit usque ad Durandum Por-",
+     "heading": 0
+    },
+    {
+     "n": 37,
+     "text": "tianum, qui anno D. 1330. docuit, adeóque annos centum & decem.",
+     "heading": 0
+    },
+    {
+     "n": 38,
+     "text": "Scriptores habuit Albertum M. Thomam Aquinatem, Petrum de Ta-",
+     "heading": 0
+    },
+    {
+     "n": 39,
+     "text": "rentasiam",
+     "heading": 0
+    }
+   ],
+   "notes": "Catchword \"ren-\" at lower right of the last line, reproduced as a fragment of the final word; the head line is set in roman type and is given as a paragraph-level heading. Some words are blurred by show-through and are read with doubt: \"Ratisbonensem\" and \"Tarentasiam\" are uncertain. The line \"Scriptores habuit ... Ta-\" carries a hyphen continuing to \"ren-\" at the foot."
+  },
+  {
+   "n": 10,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "rentasia, Guilielmum Episcopum Parisiensem, Richardum de media",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "villa, Durandum, Johannem Scotum nomine Duns, perpetuum Tho-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "mæ Aquinatis antagonistam, Nicolaum de Lyra, Augustinum de An-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "cona, Bonaventuram, Guilielmum Occamum. Sectæ quoque integræ",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "ea ætate glisceba nt, nempe Realium, Albertistarum, Thomistarum,",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "Scotistarum. Hæc porro ætas Philosophiam ac inprimis Metaphysi-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "cam Aristotelicam, antehac in limen Theologiæ introductam, in ipsa",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "sacrarij Christi adyta invexit, & in iis principem ipsi locum assignavit.",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "Quod enim Lombardo Augustinus, Augustino Paulus, id illi ætati",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "Aristoteles fuit, idem nempe, quod Rabbinis מרעה hoc est, משה רבינו",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "עליו השלום <i>Moses Magister noster, super quo sit pax.</i> Sæpissime",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "namque in illius ætatis scriptoribus reperias nomen ipsum <i>Aristo-</i>",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "<i>telis aut Philosophi</i> primore loco positum, atque ita quidem, ut scri-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "pta ejus demonstratione niti, at Verbi Dei doctrinam opinatione vel",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "credulitate teneri, cum alij, tum Occamus in Centilogio frequentissime",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "dicat & respondeat; perinde ac si Aristotelicæ quidem rationes <i>apo-</i>",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "<i>dicticæ</i>, at scripturæ rationes <i>dialecticæ</i> duntaxat censeri debeant. At-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "que ita quidem scripturam Dei per transennam, at scripturam Ari-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "stotelis tanquam proprium professionis suæ <i>ὑπονοούμενον</i> pertractabant.",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "Curiositati quoque & vanitati non parum ea ætas indulsit, & à mode-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "stia prædecessorum paulo longius recessit.",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "VIII. <i>Ultima</i> & novissima, eáque maximè fœculenta & fœdis-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 23,
+     "text": "sima omnium post Durandum de Portiano Anno 1320. initium sum-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "psit ab Hereno de Bojo Carmelita, & ad Gabrielis Biel Spirensis, vel",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "potius beatæ Reformationis tempora usque decurrit. Floruere in eo",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "intervallo Johannes de Regno, Henricus de Urimaria, Capreolus,",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "Petrus de Aliaco, Bernhardinus Senensis, Gabriel Biel, Holcot, Tricot",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "& Bicot, aliíque, quorum in tenebris suis micantium nomina vix di-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "gna sunt, quæ recenseantur. Ex horum tamen & superiorum officinis",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "(loqui liceat verbis Graferi Plag. Reg. pag. 233.) <i>prodierunt illumina-</i>",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "<i>tissimi, scientifici, profundi, irrefragabiles, universales, acutissimi, & valde</i>",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "<i>resolutivi Doctores & Magistri, Magistri nostri & nostrandi, Baccalau-</i>",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "<i>rei formati & formandi; Luces præterea mundi, & tota illa coronata et</i>",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "<i>Lirippiata locustarum cohors &c.</i> Alludit vir doctus ad sesquipedales ti-",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "tulos. Notum enim Thomam passim vocari Doctorem <i>Angelicum</i>, Bo-",
+     "heading": 0
+    },
+    {
+     "n": 36,
+     "text": "naventuram <i>Seraphicum</i>, Alexandrum Ales <i>irrefragabilem</i>, Scotum",
+     "heading": 0
+    },
+    {
+     "n": 37,
+     "text": "<i>subtilem</i>, Henricum de Gandavo <i>solennem</i>, Ægidium Romanum",
+     "heading": 0
+    },
+    {
+     "n": 38,
+     "text": "<i>fundatissimum</i>, Franciscum Mayronis <i>illuminatum</i>, Johannem de Baccone",
+     "heading": 0
+    }
+   ],
+   "marginalia": [
+    {
+     "side": "right",
+     "at": "Notum enim Thomam",
+     "line_from": 35,
+     "line_to": 35,
+     "text": "resolu-"
+    }
+   ],
+   "notes": "Printed in Latin with Greek and Hebrew passages; Hebrew and Greek transcribed as best legible. Marginal-like catchword \"resolu-\" and signature \"B\" at foot. Some words near the right edge are uncertain, including \"Biel\", \"Floruere\", and the Greek phrase. The Hebrew line is partly illegible."
+  },
+  {
+   "n": 11,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "<i>resolutum</i>, &c. Principia quidem postrema haec aetas retinuit eadem, ex",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "philosophia nimirum Aristotelica deprompta. At curiositate inqui-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "rendi omnia quantumvis etiam abstrusissima mysteria, profligatâ au-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "daciâ determinandi, pronuntiandi, de quibus antehac liberè differenti-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "re licuit, φυσικὴ θεωρία sua certissima quæque convellendi, incer-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "taa struendi, denique monstrosa & Scythica terminorum, phrasium,",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "& distinctionum novitate & barbarie præ cæteris prioribus plurimum",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "excelluit. Factum hinc nullo negotio, ut in ceremonias Ecclesiæ",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "superstitio, in cultum idolomania, in dogmata falsitas, in gubernatio-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "nem tyrannis palam invaderent, verum lumen per hos homines, ve-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "luti noctumos grassatores excuteretur, & Verbum Dei supprimere-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "tur, ejusque sacra sementis laciniosis & spinosis Seraphicorum illorum",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "Doctorum commentationibus & interpretamentis velut in herba",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "strangularetur. Fidem rei facit, quod testatur candidissimus Melanch-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "ton, diebus Dominicis variis locis pro thematibus Dominicalibus, in-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "de à Caroli M. ætate, opera P. Guarenfridi seculo octavo in cathe-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "dras Ecclesiasticas introductis, Ethica Aristotelis publicè populo prae-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "lecta, & à Tubingæ audita esse. Quin & Tigurii in patria hac civitate,",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "alibique passim, conciones ex Thoma & Scoto habitæ sunt. Et jacta-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "tum à multis est, tametsi sacræ literæ intercidissent, ex Platonis, Ari-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "stotelis, aliorumque ejusmodi scriptis viam ad salutem satis superque",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "erui posse. Horrendum quid etiam narrant Status Imperij Protestan-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "tes, in opere vernaculo <i>de causis recusati Tridentini Concilij</i>, pag. 17,",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "nimirum ante 30. annos studiosos Theologiæ graviter & publicè",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "quæstos esse, se toto, quo Theologicas lectiones frequentarunt, tem-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "pore, hoc est 5. vel 6. annorum spatio (hoc enim tempus Theologiæ",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "cuius definitum erat) à Præceptoribus suis nomen Jesu vel Christi",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "citari nunquam audivisse. Adeò omnia nominibus Lombardi, Alber-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "ti M. Scoti, Alexandri Alensis, Thomæ &c. perstrepuisse, ut Christi",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "& Apostolorum mentio penitus omissa fuerit. Quin & Bafileæ, teste",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "Hedione in Epistola ad Zwinglium anno 1520. exarata, & à Cl. Hot-",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "tingero τῷ μαχαρίτῃ Historiæ Ecclef. tomo 8 pag. 381. 382. &c in-",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "ferta, Monachus quidam de Minoritarum familia ἀνθρώπου σοφία, pro con-",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "cione blasphemare non erubuit, <i>Scotum plus profuisse rei Christianæ,</i>",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "<i>quàm Paulum: quicquid usquam eruditum excudatur, desumptum esse &</i>",
+     "heading": 0
+    },
+    {
+     "n": 36,
+     "text": "<i>furatum ex Scoto, nisi quod gloriæ avidi immisceant Græcas & Hebræas</i>",
+     "heading": 0
+    },
+    {
+     "n": 37,
+     "text": "<i>voculas, rem eo obscuriorem effecturi.</i> Sed tandem divinâ virgulâ obtige-",
+     "heading": 0
+    },
+    {
+     "n": 38,
+     "text": "runt Ecclesiæ heroes, qui illud scholasticæ Theologiæ idolum fortiter de-",
+     "heading": 0
+    }
+   ],
+   "catchword": "de-",
+   "notes": "Marginal reference marks: none visible. Greek words rendered as printed; some Greek fragments are approximate due to print blur."
+  },
+  {
+   "n": 12,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "number": "(none printed)",
+   "lines": [
+    {
+     "n": 1,
+     "text": "debellárunt. Die haben dem Faß den Boden gar außgestossen / uti non-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "nemo vir doctus merito applausit. Absque quibus fuisset, & liceat",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "Esajæ verba usurpare, nisi Dominus aliquot nobis reliquias reliquas",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "fecisset, nullam jam profecto Ecclesiam haberemus. Certe Romana",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "Ecclesia, quæ hujus adhuc Theologiæ traditæ à varijs, nominatim Ca-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "jetano, Dominico à Soto, Ferrariensi, Bannes, Medina, Valentia, Cor-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "duba, Molina, Vasquez, Suarez, Ledefma, Ægidio de Coninck, aliif-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "que, qui post Reformationem ei incubuerunt, præsidio nititur, ex",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "eo etiam tempore adeo depravata & corrupta est, ut dum Ecclesiam",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "in Ecclesia quærimus, cogamur solos Ecclesiæ cineres non sine luctu",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "& lachrymis intueri.",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "IX. Causas porro si quis desideret corruptæ adeo à Schola-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 13,
+     "text": "sticis Theologiæ, eæ variæ reddi possunt. <i>Primo</i> enim certum est,",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "scripturæ lectionem & meditationem etiam apud eos, qui doĉti vide-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "ri voluere, pene in desuetudinem ivisse. Id non uno documento",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "compertum est. Nam ipsi Doctores, & qui 50. jam annos vivendo",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "excesserant, sacras scripturas nunquam se legisse, sed ex Hieronymo",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "aut jure Canonico duntaxat citasse, professi sunt, uti videre est in Apo-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "logia Rob. Stephani ad Parisienses. Et Carolstadius fassus est, se jam se-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "p- tem integros annos Theologiæ Doctorem demum scripturas le-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "gere cœpisse, qui tamen, uti actis Wirtenbergensis Academiæ anno",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "1510. insertum fuit, cum Doctoratus insignia acciperet, <i>sufficientis-</i>",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "<i>mus</i> habitus fuit. Erafmus Roterdamus <i>de Ratione Theologiæ veræ</i> pag.",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "87. non paucos se olim Lutetiæ vidisse, quibus si quid depromendum",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "fuisset ex Paulo, visi sibi fuerint prorsus alium in mundum translati,",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "testatur. Plura supinæ hujus negligentiæ exempla videsis apud",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "Cl. Hottingerum <i>Analeft. parte 1. pag. 17. 18. &c.</i> Unde profana tan-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "dem & cum triumpho quasi grassans incessit opinio, salutem Eccle-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "siæ in Biblijs sacris minime verti. Nota est impia Johannis Fabri Vi-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "carij Constantiensis vox, quam in Tigurina cum Zwinglio disputa-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "tione emisit: <i>Amice simul & pacifice vivi posset, et si Evangelium nul-</i>",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "<i>lum extaret</i>, Oper. Zwinglij tom. 11. pag. 622. <i>Secundo</i> sacrarum lin-",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "guarum, Hebraicæ inprimis & Græcæ, quibus scriptura exarata est,",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "adeoque etiam phraseologiæ sacræ passiva ignorantia non parum",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "contulit. Testis est Canus <i>Loc. Comm. pag. 59.</i> authores scholasticos",
+     "heading": 0
+    },
+    {
+     "n": 36,
+     "text": "quadringentis integris annis solam editionem Latinam retinuisse, ne-",
+     "heading": 0
+    },
+    {
+     "n": 37,
+     "text": "que ullam linguæ Græcæ & Hebraicæ peritiam habuisse. Claudius",
+     "heading": 0
+    },
+    {
+     "n": 38,
+     "text": "quoque Espencæus, quem Genebrardus hoc exornat elogio, <i>quod</i>",
+     "heading": 0
+    }
+   ],
+   "catchword": "ab",
+   "signature": "B 2",
+   "notes": "Black letter (Fraktur) words in the first line: \"debellárunt\", \"Die haben dem Faß den Boden gar außgestossen\" (German, rendered as printed). The last line of the page is partly reduced in clarity; \"quod\" continues on the next page. Some letters uncertain in the signature region."
+  },
+  {
+   "n": 13,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "repaired_xml",
+     "text": "missing or unbalanced tag(s) repaired by the script; the words are unchanged"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "<i>ab hæreticorum furijs alienissimus fuerit</i>, Comment.in 1. Tim. cap.3.fa-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "tetur,eam inter Clericos grassatam fuisse linguarum originalium ig-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "norantiam & barbariem,<i>vt in Latinis authoribus Græce nôsse suspectum</i>",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "<i>fuerit</i>,<i>Hebraicè prope hereticum</i>.Sanè etiam Zwinglio nostro Hebrai-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "cæ, Collino Græcæ linguæ notitia tantùm non data crimini fuit.",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "<i>Tertiò</i> artium quoque bonarum, & sobriæ Philosophiæ neglectus",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "viam ad barbariem hanc munivère. Johannis Dullardi decantatum",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "axioma fuit : <i>Quantò melior Grammaticus,tantò pejor Theologus erit.</i>",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "Grammaticam suam hauserunt ex Alexandro, Huguotto, Mammo-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "trecto,Catholico,Gemma Gemmarum, & similibus superioris ætatis",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "vibicibus. Philosophiam cognatasque artes circumscripserunt sum-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "mula dialecticæ Petri Hispani. Taceo Tartaretos,Perversores, Copu-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "latos Bursæ Montis, Exercitia Taurina & Canina,omnésque Holcot,",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "Bicot & Tricot. Ad partes quasdam Logicæ,Physicæ, Metaphysicæ,",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "Ethicæ Aristotelis quæstiones dictatæ sunt,quarum farrago,nomine",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "<i>Cursus Philosophici</i> venit.His jam linguis & artibus instructi sat pran-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "si paratique fuerunt ad Lombardi sacrarium intrandum. <i>Quartò</i>",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "praxis & exercitatio pietatis,curæque Ecclesiasticæ penitus exoleve-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "rat.Doctores enim pure speculativi,& umbratici ejus nullam vel ex-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "iguam curam habuerunt. <i>Quintò</i> doctrina crucis ex Dei Verbo vix",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "ita tractari à Theologis poterat,quin multoties in capitis Papalis tri-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "fidam tiaram,& in contrariam Ecclesiæ dispositionem ac praxin im-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "pingerent & incurrerent.Ad evitandam igitur hanc charybdin, mate-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "rias suas scholasticas scholasticè & Aristotelicè tractari placuit. Ita",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "nullum imminebat ab hæreticæ pravitatis inquisitoribus periculum.",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "<i>Sexto</i> multùm conferebat,quòd Philosophia Peripatetica per aliquot",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "secula inculta,per Arabes Muhammedanos resuscitata & exculta Chri-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "stianum orbem invasit.Ita Theologiæ permissa paulatim fœtum hunc",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "exclusit.Hæc aliáque ejusmodi Theologiæ hujus faciem genuerunt,",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "aluerunt, & ad <i>ἀκμὴν</i> suam perduxerunt.",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "X. Sed nunc ad examen paulò accuratius hujus Theologiæ",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 32,
+     "text": "nos convertimus.Et primò quidem de principe Scholasticorum,Lom-",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "bardo <i>Magistro nostro</i>,pauca dicemus.Etenim ubi ei,qui sequentibus",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "omnibus melior & castigatior fuit,authoritatem nullam in Ecclesia",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "constare debere demonstraverimus, quo in pretio deteriores esse",
+     "heading": 0
+    },
+    {
+     "n": 36,
+     "text": "debeant,facilè prudentes judicabunt. Atqui <i>primò</i> gravissimos erro-",
+     "heading": 0
+    },
+    {
+     "n": 37,
+     "text": "res in Lombardo ipsi ejus discipuli non animadverterunt duntaxat,",
+     "heading": 0
+    },
+    {
+     "n": 38,
+     "text": "sed etiam perstrinxerunt. Unde sæpius in margine occurrit nigrum ejus-",
+     "heading": 0
+    }
+   ],
+   "catchword": "ejus-",
+   "notes": "Page has no page number, running head or signature; the photograph is cropped at the edges. Some Greek words (ἀκμὴν) and the abbreviated line \"Magistro\" are doubtful readings. Show-through from the reverse is not transcribed."
+  },
+  {
+   "n": 14,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: tur"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "ejusmodi theta: <i>Hic non tenetur Magister sententiarum</i>, quod fidem",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "& authoritatem ipsi manifestè derogar. Ne dicam, ipsum Papam Ale-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "xandrum, Joachimum Abbatem Florensem, Johannem Cornubien-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "sem ipsum palam hæreseos postulâsse, & <i>syllabum</i> prostare <i>opinionum</i>,",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "quas in eo partim Parisiensis, partim Oxoniensis Schola condemna-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "vit. <i>Secundo</i> nititur Theologia ejus Patrum testimonijs, & plerisque",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "quidem ijs mala fide adductis interpolatísque. Profitetur equidem",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "in prologo, se volumen suum multo labore ac sudore compegisse",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "<i>ex testimonijs veritatis in æternum fundatis</i>. Utinam verò id præstitis-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "set. Nam inspicienti liquet, Patrum voces utramque paginam facere,",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "& scripturæ testimonia παρέργως tractari, ac in secundis consistere.",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "Unde subjicit statim, <i>se brevi volumine complicare Patrum sententias</i>,",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "Et lib. 1. Dist. 25: 12. in difficillima quæstione ait: <i>Ex authoritatibus</i>",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "<i>Sanctorum ostendi oportet, ne conjecturis nostris aliquid ausi dicere vi-</i>",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "<i>deamur</i>. Unde etiam in vita ejus Trithemius Abbas Spanheimensis",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "ait, <i>scripsisse ipsum sagaci studio ex dictis Sanctorum Patrum commen-</i>",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "<i>dabile opus</i>. Sed veniam facilius adhuc mereretur, si Patrum, ac inpri-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "mis Augustini, quem identidem appellitat, sententias bonâ fide citâs-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "set. Nunc falsati testimonij reus cum aliis, tum inprimis à Lamber-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "to Danæo ex professo id agente, coram toto orbe peractus est, in",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "Elencho primi libri Sententiarum, ubi innumera pœne addita, detra-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "cta, omissa, commutata & peregrinum in sensum detorta producit,",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "& ad oculum demonstrat. Quòd si Legibus Romanis qui privatum",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "testamentum immutat, falsi crimine & lege Cornelia tenetur, quid",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "de illo sentiendum, qui publica Scripturæ & vetustorum Ecclesiæ",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "Patrum monumenta scripta mutat, radit, interpungit, castrat. <i>Ter-</i>",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "<i>tiò</i> perniciosus est hic author in eo, quòd salutaria mysteria, à Spiritu",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "S. ædificandarum conscientiarum gratiâ dictata, ac inter ea inprimis,",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "augustum illud de S. S. Trinitate, in mataeologiam & curiositatem",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "inanem convertit. Etenim cum finis eorum, quæ in Scripturis reve-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "lantur, sit, ut perfectus reddatur Dei homo, & ad omne bonum opus",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "instructus, utque charitatem ex puro corde, conscientia bona & fide",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "minimè simulata colat: qui igitur ab hoc fine recedit, & pro con-",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "scientiarum pace perturbationem offert, pro charitate pugnas & ri-",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "xas ferit, pro fidei luce intricatas & inexplicabiles quæstiones, deni-",
+     "heading": 0
+    },
+    {
+     "n": 36,
+     "text": "que pro vero cognitionis Dei ulu curiosas <i>& ἀεροβατῶσας ἐνοίας</i> substi-",
+     "heading": 0
+    },
+    {
+     "n": 37,
+     "text": "tuit, annon is tanquam perniciosus scriptor <i>& ἀνλλιψέμενος ψευδώνυμον</i>",
+     "heading": 0
+    },
+    {
+     "n": 38,
+     "text": "<i>γνῶσιν</i> rejici simpliciter damnarique mereatur? Nunc verò inspician-",
+     "heading": 0
+    }
+   ],
+   "catchword": "tur",
+   "signature": "B 3",
+   "notes": "Greek words in the text are transcribed as legible; the Greek phrases near the end are doubtful and should be checked against the scan. The catchword line \"tur\" appears at the bottom right and is kept as printed text."
+  },
+  {
+   "n": 15,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: perna-"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "tur Distinctiones, ac in iis maximè ea, quæ de S. S. Trinitate ἀπὸ",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "γεα- φῶν ex humanis ratiocinijs & speculationibus, commentatus est, inde",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "à Dist. 2. usque ad Dist. 34. Quadrat huc Johannis Aventini de Lom-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "bardo judicium: <i>Ea tempestate</i>, inquit <i>Petrus Lombardus Lutetiæ</i>",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "<i>creatur Pontifex. Is Theologumenon quatuor libros scripsit, sed sacro-</i>",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "<i>sanctæ philosophiæ veritatem fontemque purissimum, sicuti plus millies à</i>",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "<i>Jacobo Fabro, Jodoco Chichtoveo Præceptoribus meis audivi, cæno quæstio-</i>",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "<i>num opinionumque rivulis conturbavit. Id quod & usus rerum magis (nisi</i>",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "<i>cæcissimus) satis superque docet</i>, Anal.lib.6. Quartò frivola multa, inepta",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "ludicra in sententiis his occurrunt. Nihil de Latinæ Linguæ inelegan-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "tia, stylii ineptiis, soloecismis & barbarismis dicam. Hoc amplius, quòd",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "subinde disceptat <i>difficultates vocales</i>, hoc est, de syllabis & vocibus,",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "<i>non reales</i>, hoc est, de nulla re, uti Occamus ejus commentator anno-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "tat: quòd ex falsis præmissis subinde veram conclusionem elicit, uti",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "idem Occamus sæpius etiam observat: denique quòd gravissimo-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "rum dogmatum Theologicorum probationes subinde ineptas affert,",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "quod ipsum Thomas Aquinas ait, <i>derogare fidei Christianæ, & cedere</i>",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "<i>in irrisionem infidelium</i>. Taceo jam, quòd falsa & erronea dogmata",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "passim affruit, vera & salutaria ac inprimis illud, quod est conse-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "ssionis nostræ apex & archetelcs, de justificatione hominis pecca-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "toris per fidem, & promissionibus Evangelij in succum & sanguinem",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "nostrum convertendis, penitus vel omittit, vel corrumpit & adulte-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "rat.",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "XI. Universæ porro Theologiæ Scholasticæ præcipuos nunc",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 25,
+     "text": "etiam errores, ex quibus appareat, Scholasticos in Theologicis dispu-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "tationibus non parum à vera & Theologica differendi ratione abER-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "RÂSSE, perstringamus.",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "Ac <i>primùm</i> quidem & sonticus error est, quòd",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 29,
+     "text": "posthabitâ ferè scripturâ, vel negligenter certè ad ferendum judi-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "cium citatâ, meliores quidem saniorésque ex Patrum testimonijs,",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "cæteri verò ex Philosophicis etiam, adeóque utrique ex heteroge-",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "neis principijs conclusiones suas arcessunt. Propositis igitur quæstio-",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "nibus, non tam scripturæ locos & Apostolos, quam Philosophos, axio-",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "mata Logica, Maximas Topicas appellant: & si quando vetustos etiam",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "Doctores adhibent, eorum authoritatem cum scripturæ authorita-",
+     "heading": 0
+    },
+    {
+     "n": 36,
+     "text": "te confundunt. Nos verò tum Patrum testimonia, tum sanam so-",
+     "heading": 0
+    },
+    {
+     "n": 37,
+     "text": "briámque Philosophiam, quæ videlicet recta puráque ratione, non",
+     "heading": 0
+    },
+    {
+     "n": 38,
+     "text": "authoritate duntaxat vel Aristotelis, vel pejorum etiam nititur,",
+     "heading": 0
+    },
+    {
+     "n": 39,
+     "text": "si ad Verbi Divini regulam exactæ sint, minimè equidem as-",
+     "heading": 0
+    }
+   ],
+   "catchword": "perna-",
+   "notes": "Page is a single text column with no margin notes. Some words in the final heading run are set in a mixed/unclear form; the line \"ERRÂSSE\" was read tentatively as \"aberrâsse\" and the heading may be a running sentence rather than a head. Line-end \"perna-\" continues past the page. Heading text partly uncertain."
+  },
+  {
+   "n": 16,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "pernamur,sed admittimus laudamúsque hac lege,ne tam principium",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "& norma probationis, quàm testimonium consensus habeantur, &",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "explicationi duntaxat inserviant : ipsa verò scriptura, vox & Testa-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "mentum Patris sola clavum fidei nostræ teneat, regnet ac domine-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "tur. Etenim solum Dei Verbum potest <i>σοφίσαι sapientes reddere</i>, &",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "sufficit ad quemvis usum 2. Tim.III.15.16. <i>Canon</i> est fidei & morum,",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "Gal.VI.16. præter & contra quod ne Angelus quidem sub anathe-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "mate aliquid prædicare ausit Gal.I.8. Neque adeò inædificanda fides",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "nostra est fundamento vel hominum, quales etiam Ecclesiæ vetustis-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "simi Doctores fuère, vel rationis humanæ, utpote quæ non percipit",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "ea, quæ Spiritus Dei sunt : sed <i>Apostolorum & Prophetarum</i>, <i>ὄντων</i>",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "<i>ἀκρογωνιαίου αὐτῆς Ἰησοῦ Χριστοῦ ἐξισταμένου</i>, <i>angulari lapide Jesu Christo existen-</i>",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "<i>te</i>, Eph.II.20. Itaque de Theologia ex Theologicis principijs dispu-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "tandum docet ipsa etiam Analytica, quæ vetat <i>μεταβαίνειν</i>",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "<i>εἰς ἄλλο γένος</i>, & vagari extra orbem illius scientiæ, de qua disserendum institue-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "ris. Cúmque Theologia sit supra omnium scientiarum fastigium sub-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "limissimè posita, utique eam principijs Philosophicis subjici, adeóque",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "tantas in angustias ex sua Majestate detrahi, iniquissimum & in-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "dignissimum est. Taceo quòd Philosophiam heic adhibent spuriam,",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "& Christianis hominibus indignissimam, quæ otiosis & futilissimis in",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "speculationibus, quæstionum & terminorum monstris consumitur,",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "& nihil eorum, quæ in usu esse possunt, tractat, quæque adeò diser-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "tè jugulatur à Paulo Col.II.8. 1.Tim.VI.20. quódque vetustos Pa-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "tres ad dicendum testimonium pessima plerúmque fide detorquent.",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "XII. Alter scholasticæ Theologiæ error est, quòd de rebus",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 26,
+     "text": "Theologicis gravissimis etiam in utramque partem, ac topicè ex ar-",
+     "heading": 2
+    },
+    {
+     "n": 27,
+     "text": "gumentis probabilibus disputat.",
+     "heading": 2
+    },
+    {
+     "n": 28,
+     "text": "Cúm verò fides sit, teste Aposto-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 29,
+     "text": "lo, <i>eorum quæ sperantur, ὑπόστασις, & demonstratio rerum quæ non vident-</i>",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "<i>ur</i>, Hebr.XI.1. cúmque <i>πληροφορίαν νοὸς</i> certitudinem mentis postulet,",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "Rom XIV.5. & vetet scriptura <i>κλυδωνιζόμενοι καὶ περιφερόμενοι</i>",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "<i>παντὶ ἀνέμῳ τῆς διδασκαλίας</i>, fluctuare & circumagi quovis vento doctrinæ, in ne-",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "quitia hominum, in astutia ad insidias deceptionis, Ephes.IV.14. patet",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "sanè, minimè hanc methodum disputandi Theologiæ accommoda-",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "tam esse. Topicæ quidem in utramque partem disputationes relin-",
+     "heading": 0
+    },
+    {
+     "n": 36,
+     "text": "quuntur colloquijs & exercitationibus. Attractationes <i>ἀπαγγελματικαί</i>,",
+     "heading": 0
+    },
+    {
+     "n": 37,
+     "text": "cujusmodi sunt inprimis Theologicæ, requirunt Analyticas disputa-",
+     "heading": 0
+    },
+    {
+     "n": 38,
+     "text": "tiones, quæ veris, certis ac necessarijs argumentis niituntur. Et quid",
+     "heading": 0
+    }
+   ],
+   "marginalia": [
+    {
+     "side": "right",
+     "at": "Et quid",
+     "line_from": 38,
+     "line_to": 38,
+     "text": "magis"
+    }
+   ],
+   "notes": "The word \"magis\" at the lower right is a catchword set in the margin. Greek passages are transcribed as best read; the Greek on the first lines is partly illegible in the scan."
+  },
+  {
+   "n": 17,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: sed"
+    },
+    {
+     "type": "repaired_xml",
+     "text": "missing or unbalanced tag(s) repaired by the script; the words are unchanged"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "magis fidei contrarium esse potest,quàm illa debitatio & ἐπoχὴ Aca-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "demica,quam doctissimis Augustini aliorúmque veterum disputatio-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "nibus jugulatam pri dem & sepultam s. holastici quasi ab inferis susci-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "tárunt ? Olim Hieronymus Joviniano in apologia adversus ipsum",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "edita exprobravit, quòd de quæstione Theologica γομναστικῶς non",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "ὁραματικῶς disputaret. Quid quæso dicturus fuisset in istos,qui in",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "rebus gravissimis tam multis ac varijs argumentorum fluctibus mo-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "dò in hanc, modò in illam partem jactantur, & quem tandem se in",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "portum recipiant,vix inveniunt.Quomodo Scotus aliíque eum secu-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "ti σκοτινοὶ plerumque rem dubiam ac minimè definitam in medio re-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "linquunt,permittentes lectori,quam in partem inclinare mavelit. Si",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "in hanc,inquiunt,ita respondebo contrarijs argumentis. Sin mavis in il-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "lam,ecce tibi,quod rursus ad contraria argumenta respondeas. Item :",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "Quære solutionem. Qui potest respondere. Ἐπέχω,&c. Obsecro, hoc est",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "Theologicè disputare? Imò an philosophicè & apodicticè ? Ubi ju-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "bent Philosophi res ipsas εἰς ἀμετάκινητον ὑπόθεσιν in veritatis gradu fir-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "missimo collocare. Quantò rectius nos morem gerimus Apostolo",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "Timotheum suum fideliter monenti: Σὺ δὲ μένε ἐν οἷς ἔμαθες καὶ ἐπιστώθης,",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "εἰδὼς παρὰ τίνων ἔμαθες. Tu vero mane,(non vagare,jactare,flu-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "cta)in iis quæ didicisti,& de quibus fides,(non opinio,probabilis ratio)",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "tibi facta est,sciens(non dubitans, ariolans) à quo didiceris. Habemus ἀναλογίαν",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "τῆς πίστεως,quæ procedit à certis ac bene intelle-ctis,& præ-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "cipuè à fundamento. Hanc nuspiam deferamus, & κυβείαν illam seu",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "dubitationum aleam scholasticam, tanquam certissimam τῆς πλάνης",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "μεθοδείαν solicitè cautéque fugiamus.",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "XIII. In eo quoque reprehensionem tertio loco meretur",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 27,
+     "text": "Scholastica Theologia,quòd veritatem non tam illustrare,quàm om-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "nibus argutijs suis & terminorum abditissimorum prodigijs invol-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "vere & obscurare, adeóque exemplo legisperitorum, Luc. XI. 52.",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "τὴν κλεῖδα τῆς γνώσεως,clavim scientiæ occultare satagit. Etenim quæ",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "difficilia sunt,reddit contortis,spinosis quæstionibus,distinctionibus,",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "terminis difficiliora, & doctissimis etiam ἀνόητα, vel certè ἀξυνόητα,",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "quæ verò per se facilia,clara & perspicua sunt,illa intorta & confra-",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "gosa oratione difficilima reddit,& obscuris quæstionum,ad quas ex-",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "tricandas Oedipo aliquo conjectore,qui Sphingi interpres fuit, aut",
+     "heading": 0
+    },
+    {
+     "n": 36,
+     "text": "urinatore Delio opus videatur,involucris obducit,ut nodum in scir-",
+     "heading": 0
+    },
+    {
+     "n": 37,
+     "text": "po quæri appareat.Est verò cùm omnis orationis,tum inprimis ejus,",
+     "heading": 0
+    },
+    {
+     "n": 38,
+     "text": "quæ agit de rebus ad salutem æternam cuivis,non dosto duntaxat,",
+     "heading": 0
+    }
+   ],
+   "catchword": "sed",
+   "notes": "Scan shows a page of a printed book; the bottom of the text is partly faint. Greek and some abbreviated passages are transcribed with best reading; the Greek forms ἀξυνόητα, ἀνόητα, σκοτινοὶ, ὁραματικῶς, γομναστικῶς and κυβείαν are doubtful. Mid-line passages in italic (e.g. \"in hanc\", \"Quære solutionem\", \"tertio\") are italics in the original. Heading XIII. is a numbered paragraph and has been kept as a heading only for its section title line."
+  },
+  {
+   "n": 18,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "sed rudi etiam scitu necessariis, claritas, simplicitas & ingenuita potis-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "sima ac omnino necessaria virtus, & unicum decus. Nam <i>testimonium</i>",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "<i>Iehovæ est certum, sapientem faciens fatuum. Præceptum Iehovæ est</i> בְּרָר <i>cl-</i>",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "<i>arum, illuminans oculos,</i> Psal. XIX. 8.9. Sicut Deus est Doctor & com-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "monstrator integer, <i>ἀπλοῦς καὶ εἰλικρινὴς, simplex & sincerus,</i> 2. Cor.",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "I. 12. ita sermoni etiam de rebus Divinis debet inesse <i>ἀπλότης καὶ</i>",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "<i>εἰλικρίνεια, simplicitas & sinceritas.</i> Unde Paulus requirit à Timotheo",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "2. Ep. I. 13. ut habeat <i>ὑποτύπωσιν ὑγιαινόντων λόγων, exemplar sanorum</i>",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "<i>sermonum, quos ab ipso audivit in fide & charitate, quæ est in Christo</i>",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "<i>Iesu.</i> Eos igitur sermones sanos, quos Timotheus audivit à Paulo,",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "ipsum vult exemplar habere loquendi, cogitandi & faciendi, & qui-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "dem in fide & charitate, atque illud integrum, illustre, coram omnium",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "auribus & animis. Adeóque cum omnes fideles, tum inprimis Docto-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "res debent <i>φαίνεσθε ὡς φωστῆρες ἐν κόσμῳ, λόγον ζωῆς ἐπέχοντες, lucere</i>",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "<i>tanquam faces, luminaria in mundo, sermonem vitæ præferentes,</i> Phil.",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "II. 15.16. Hoc est vexillum Christianorum. Ita se homo Dei constituit <i>τὸν</i>",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "<i>ἀνθρωπον</i> alijs <i>ἐν λόγῳ,</i> quando sanos sermones Christi & Apostolorum sin-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "cerè clareque proponit, & hac ratione illis fit dux ad vitam æternam.",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "Atque ita <i>animus sapientis (Doctoris) intelligenter moderatur os suum</i>",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "<i>& labiis addit disciplinam, & fiunt sermones ejus</i> צוֹפ דְּבַשׁ אִמְרֵי",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "נֹעַם מְתוֹק לְנֶפֶשׁ וּמַרְפֵּא לְעַצְמוֹת <i>amœni ut favus mellis, res dulcis animæ, &</i>",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "<i>sanans ossa.</i> Prov. XVI. 24. Nunc vero quid Theologia scholastica cum",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "illa claritate, sinceritate, simplicitate, sanis sermonibus, qui amœni sint, ut",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "favus mellis, & res dulcis animæ, commune habet? Ecquis est, quin",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "vel audito duntaxat horrifico illo novorum vocabulorum, & novi",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "idiomatis, scholastici nimirum (nam certè à Latio alienissimum illud",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "idioma est. Cicero quippe salutatus, loquentem <i>Entitates, formalita-</i>",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "<i>tes, realitates, subjicibilitates, proportionabilitates,</i> resalutare minimè",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "potuisset) strepitu terreatur & refugiat, ac ea se desperet posse",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "unquam animo percipere, quæ ne patienti quidem aure percipere",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "potest? Sanè Erasmus vir doctissimus Comment. in 1. Tim. I. 8. testatur,",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "celebrem Theologum sibi fassum esse, vix novennium integrum sa-",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "tis esse ei, qui vel solam Scoti præfationem in Lombardum recte",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "intelligere cupiat. Non immeritò igitur quod olim Augustinus dixit,",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "<i>artem sophisticam esse caverna Caci persimilem,</i> egregius Theologus",
+     "heading": 0
+    },
+    {
+     "n": 36,
+     "text": "Anthonius Sadael applicat scholasticis, qui dum peregrinis dogmati-",
+     "heading": 0
+    },
+    {
+     "n": 37,
+     "text": "bus tanquam alienis divitiis gloriantur, adeò obscuritatem asse-",
+     "heading": 0
+    },
+    {
+     "n": 38,
+     "text": "ctent, & tenebrionum instar latebras quærant, ut quoties disputant,",
+     "heading": 0
+    }
+   ],
+   "catchword": "non",
+   "signature": "C",
+   "notes": "Hebrew and Greek words are rendered approximately from the scan; the Hebrew in the Prov. line and the Greek in several places are doubtful. Heavy show-through and faint print in places."
+  },
+  {
+   "n": 19,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: omni"
+    },
+    {
+     "type": "doubtful",
+     "text": "\"...\" in the text: a passage was skipped or a remark written as print"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "non res ipsas aperire sed operire, & non tam hominum vocem, quàm",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "obscuros quosdam mugitus ex tenebricosis illis quæstionum spelun-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "cis, & Trophonij antro edere videantur. Quid quòd non intelligi sibi",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "gloriosum ducunt, mirantúrque non intelligi, quæ ipsi somniârint,",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "quasi omnes sint Josephi aut Danieles, qui abdita interpretari calleant:",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "ipsi circulatoribus similimi, qui gaudent & magnificè se efferunt, quo-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "ties speƈtantium obtutum frustrantur, uti alicubi Ludovicus Vives",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "salsè illis exprobrat. Numquid verò hoc non est fastidire simplicita-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "tem sermonum Evangelij (quanquam tales simplicitatem fastidiunt, ut",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "vim & efficaciam verborum minimè assequuntur) <i>mutare verba Dei vi-</i>",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "<i>ventis, Jehova exercituum Dei nostri</i>, nempe in verba horrida, barbara,",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "Scythica Jerem. XXIII. 26. moliri, <i>ut populus Dei oblivisca-tur nominis</i>",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "<i>ejus</i>, ibid. v. 27. <i>pratumida vanitatis</i>",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "<i>verba loqui</i>, 2. Petr. II. 18. & dicere cum illis, <i>pro lingua nostra domina-</i>",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "<i>tum constituamus, labia nostra nobiscum sunt, quis nobis Dominus?</i> Psal.",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "XII. 5. Atque adeò verissimè impletur in ijs Dei de sapientibus vetus",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "querela: <i>quomodo dicitis, sapientes sumus, & lex Jehova est nobiscum?</i>",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "<i>atqui ecce in mendacium fecit stylus sal-</i>",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "<i>lax legis peritorum</i>, Jerem. VIII. 8.",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "XIV. Operæ pretium autem fuerit, diligenter expendere sen-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 21,
+     "text": "tentiam Apostoli 1. Cor. II. 12. 13. <i>Quæ (nempe ... etiam loquimur non in doctrinis humanæ sapientiæ verbis, sed in doctrinis</i>",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "<i>Spiritus, spiritualia cum spiritualibus comparantes)</i>, non in sermonibus, seu modis loquendi, à sapientia humana doctis, sed à Spiritu",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "sancto doctis, spiritualia cum spiritualibus comparantes.",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "Quà Apostoli",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 25,
+     "text": "sententiâ velut fulmine quodam percellitur Theologia Scholastica,",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "constans terminis obscuris, abditis, flexiloquis, denique talibus, ut du-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "bium non sit, quin in eorum sensu percipiendo plus insudandum sit,",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "quàm in rebus ipsis intelligendis. An igitur, obtestor, ejus modi ser-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "mones sunt doctri spiritus sancti λόγοι, docti à Spiritu S. sermones,",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "& annon potiùs sunt doctrinæ humanæ sapientiæ λόγοι, à",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "sapientia (vel potiùs insipientia) humana docti sermones? Quod omnes Apostolos in-",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "tradendis eloquendisque Dei mysterijs solicitè observâsse docet Apo-",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "stolus Paulus, id procul omni dubio Theologis omnibus, ut obser-",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "vent, quoties de ijsdem mysterijs loquuntur, incumbit, sdque eò magis,",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "quòd nemo hodie doctorum eodem cum Apostolis Spiritus sancti",
+     "heading": 0
+    },
+    {
+     "n": 36,
+     "text": "gradu, eademque infallibilitate donatur, & quòd postquam Apostoli",
+     "heading": 0
+    },
+    {
+     "n": 37,
+     "text": "locuti sunt, Ecclesia jam ditata est ἐν παντὶ λόγῳ καὶ πίστει",
+     "heading": 0
+    },
+    {
+     "n": 38,
+     "text": "γνώσει, in",
+     "heading": 0
+    }
+   ],
+   "catchword": "omni",
+   "notes": "Marginal and Greek/Hebrew text is partly illegible in the scan; the Hebrew phrase after \"ecce\" and the Greek passages are transcribed approximately. Catchword and signature not visible. Page has a fragment of a Greek phrase at the foot (\"omni\") as printed."
+  },
+  {
+   "n": 20,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "<i>omni sermone, & omni notitia,</i> 1.Cor.I.5.ut non habeat opus respicere",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "ad alios, quam Spiritus S. sermones. Oppidò utile est ad sermonis hu-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "jus Apostolici seriem & contextum paulò attendere diligentiùs. Indi-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "cat nempe Apostolus, mysterium salutis nostræ non potuisse revela-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "ri, nisi à Spiritu Dei, utpote qui solus scrutatur τὰ βάθη τῆς Θεοῦ, <i>pro-</i>",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "<i>funditates Dei,</i> v.9. Sicut enim ea, quæ homines concernunt, non no-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "verit, nisi præditus Spiritu hominis: ita τὰ τῆς Θεῦ, quæ Deum concer-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "nunt, non cognoscere, nisi Spiritum Dei, v.10. Utq; Evangelium suum",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "πίστεως ἀξίων, <i>omni receptione dignissimum esse</i> comprobet, v.12,",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "13. addit, se cum cæteris Apostolis non accepisse spiritum mundi, sed",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "spiritum illum, qui est ex Deo, ut sciant, quæ sibi donata sint à Deo.",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "Eadem autem χαρισθέντα <i>donata</i> subjicit se enuntiare sermonibus non",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "humanæ sapientiæ, sed Spiritus Dei. Atque eo sermonis & orationis",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "ordine haud obscurè innuit Apostolus, Evangelium Christi, ut sine",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "scrupulo & dubitatione à conscientiis recipiatur, non posse melio-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "ribus sapientioribúsque, quàm Spiritus S. verbis tradi atque doceri,",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "neminémque adeò sibi suffenum esse debere, ut mysterium Christi",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "aptioribus vocabulis & augustiore, quàm quo Spiritus S. illud vesti-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "vit, habitu publicum in conspectum Ecclesiæ produ-ere velit. Docu-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "mentum ejus rei in seipso præbet Salomon, Eccl.ef.XII.9.10.11. <i>Quò</i>",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "<i>magis,</i> inquit, <i>sapiens fuit Ecclesiastes, co magis docuit sapientiam popu-</i>",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "<i>lum ; quæsivit ut inveniat</i> דברי חפץ וכתוב ישר דברי אמת <i>verba vo-</i>",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "<i>luptatis & descriptam rectitudinem, verba veritatis. Verba enim sapien-</i>",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "<i>tum sunt,</i> כדרבנות וכמשמרות נטועים <i>tanquam stimuli & clavi infi-</i>",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "<i>xi, habentes contignationes, data</i> מרעה אחד <i>à pastore unico.</i> En profite-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "tur sapiens, quò magis sapientiæ studuit, hoc se curatiùs quæsivisse",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "דברי חפץ verba δόξης, <i>beneplaciti,</i> voluptatis, in quibus videlicet",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "legentis, audientis, attentis animus plenè & cum voluptate ac-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "quiescere queat, nec non כתוב <i>scriptum,</i> hoc est, verba scripturæ,",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "γράμματα, verba veritatis, ultra quæ sapere piaculum duxit, data à <i>Pa-</i>",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "<i>store unico,</i> Christo, per Spiritum videlicet suum in Prophetis, Evange-",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "listis, Apostolis loquentem. Quidni etiam Christiani Doctores ad",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "verba sapientum, voluptatis, scripturæ, veritatis ab uno eodemque",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "spiritu profecta se adstrictos teneri confiteantur?",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "XV. Pertinet eodem diserta admonitio Pauli 1. Tim. VI.3. <i>Si</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 36,
+     "text": "<i>quis ἑτεροδιδασκαλεῖ diversam doctrinam docet, neque accedit sanis ser-</i>",
+     "heading": 0
+    },
+    {
+     "n": 37,
+     "text": "<i>monibus Domini nostri Iesu Christi, & ei quæ secundum pietatem est</i>",
+     "heading": 0
+    },
+    {
+     "n": 38,
+     "text": "<i>doctrina, τετύφωται inflatus est, nihil sciens &c.</i> Ubi ἑτεροδιδασκαλίας illius,",
+     "heading": 0
+    }
+   ],
+   "catchword": "quam",
+   "signature": "C 2"
+  },
+  {
+   "n": 21,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "quam vitare jubet,duos facit modos, nempe cùm quis non inhæret",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "doctrinæ,quæ est secundùm pietatem, & cùm quis non accedit sanis",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "sermonibus Domini nostri Iesu Christi,hoc est,cùm quis in loquendo",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "se non conformat sermonibus,quos nobis ut normam & formam lo-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "quendi unicus bonus ille Pastor Iesus Christus in verbo suo præivit.",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "Argumentum porro, quo inducti assuescere debeamus sermonibus",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "Divinis, latet in eo, quòd sint λόγοι ὑγιαίνοντες <i>sermones sani</i>, uti etiam",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "vocantur 2.Tim.I.13. nempe tum quia nihil habent vitij & morbi, ni-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "hil scabiosi, adeòque ad munus & functionem, propter quam dati",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "sunt, idonei aptíque, secus quàm sermones humanæ sapientiæ, qui",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "plerumque sunt νοσηροί <i>morbosi</i>, ibid. v.4. serpentes instar gangrænæ,",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "2.Tim.II.17. tum quia <i>sanant</i>, hoc est, non tantùm doctrinam pietatis",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "non corrumpunt, palatum & aures piorum non offendunt, sed contrà",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "efficiunt, ut conceptus nostri judicia & desideria veritati & volunta-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "ti Dei examussim respondeant. Tales igitur sermones decent Virum",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "Dei, nempe in domo, schola & disciplina Patris & Doctoris nostri fa-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "miliares, & ab eo in verbo suo sanctificati, ut hac ratione demonstret",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "se bonum ministrum Iesu Christi, ἐντρεφόμενον τοῖς λόγοις τῆς",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "πίστεως καὶ τῆς καλῆς διδασκαλίας, <i>innutritum sermonibus fidei, & præclarae</i>",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "<i>doctrinæ</i>, 1.Tim.II.6. Cùm enim ea omnia, quæ de mysterio salutis no-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "stræ cognoscere nostrâ unicè referent, nonnisi ex Dei testimonio scia-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "mus & didicerimus, unde etiam doctrina salutis passim nomine עדות",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "<i>testimonij</i>, & ipse Deus, Pater, Filius & Spiritus S. nomine τριῶν μαρτύρων",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "<i>trium testium</i> veniunt, planè consequitur, omnem mysteriorum",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "Dei confessionem & prædicationem nihil aliud esse, quàm <i>narrationem</i>",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "<i>Divini testimonij</i>. Quòd si igitur homines narrantes alienum testimo-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "nium solicitè cavent, ut etiam verbis ipsis testimonij inhæreant, & ne",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "latum quidem unguem discedant, ne in testem injuriosi videri possint,",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "quantâ curâ præconi testimonij Divini in id incumbendum putabi-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "mus, ut vel ijsdem vel æquipollentibus testantis Dei verbis utatur,",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "quò sic verba narrantis, & Dei testantis penitissimè consentiant. Nunc",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "igitur ad hanc normam appendantur sermones Theologiæ schola-",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "sticæ obscuri, plus quàm ex Apollinis cortina nati, flexuosi, etiam do-",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "ctissimis, nisi maximo intelligendi labore se fatigent, ἀκαταλήπτου,",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "scandalosi, gregi Christiano prorsus inutiles, barbari, καχέμφατοι, sole",
+     "heading": 0
+    },
+    {
+     "n": 36,
+     "text": "meridiano clarius erit, eos à sanis & θεοδιδάκτοις sermonibus longiùs",
+     "heading": 0
+    },
+    {
+     "n": 37,
+     "text": "quàm Cœlum à terra distare. Contingit illis, quod olim Iudæorum mulieres",
+     "heading": 0
+    },
+    {
+     "n": 38,
+     "text": "Asdoditicas, Ammonitidas, & Moabitidas ducentium filijs, qui Asdo-",
+     "heading": 0
+    }
+   ],
+   "notes": "Greek and Hebrew transcribed as best read; the Hebrew word and some Greek words are uncertain. The final word \"Asdo-\" is a catchword-like fragment at the foot right; treated as a line-end fragment."
+  },
+  {
+   "n": 22,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: dis,"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "Asdodicè loquebantur, & nesciebant loqui Judaicè, quibus propterea",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "Deus maledixit, Nehem. XIII.24.",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "XVI. Cæterum cum verbis Spiritus S. Theologo utendum esse",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "contendimus, non id volumus, nefas esse verbis alijs, quàm quæ in",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "scripturis eorúmque accuratis versionibus extant, vel quandoque",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "etiam terminis artium, imò etiam varijs orationis generibus, formis, figuris",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "& schematibus uti. Etenim pia vocum nostrarum usurpatio, quæ",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "facit ad ἐξήγησιν testimonij divini, quæ Spiritus S. mentem exactè",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "refert, quæ verborum Dei æquipollentiam, & rerum in ijs revelatarum",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "consequentias demonstrat, ænigmata Spiritus S. aperit, prophetias",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "ad sua implementa, typos & figuras ad veritatem suam, imò omnia",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "ad fidem & vitæ sanctimoniam applicat; hæc, inquam, vocum",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "nostrarum usurpatio æquè innocens ac sancta videtur, ac cogitatio",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "ipsa, quâ eandem Spiritus S. mentem apprehendimus vel exprimimus.",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "Imò adversariorum impetuosa importunitas & malitia S. literas",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "earúmque sensum contorquentium, & ijs abutentium, quandoque cogit",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "nos nostris verbis uti, imò & ὀνοματοποιεῖν, & singularibus verbis",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "consensum nostrum adversus σοφιβλώστας maleferiatorum testari, uti non",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "semel in veteri etiam Ecclesia factum. Sed hoc potissimum perpendimus,",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "assuescendum esse, quantum fieri potest, scripturæ stylo, ut de",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "spiritualibus rebus cum Spiritu S. loqui discamus; ac de cætero, si",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "humanis etiam verbis utendum, caveamus, ne revelationi de ijsdem",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "rebus loquenti addant vel detrahant, vel quod pejus est, ejus sensum",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "pervertant & immutent: ne termini & distinctiones, quas Philosophi",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "& scholastici ad definiendas res naturales adhibuerunt, rebus su-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "pernaturalibus & spiritualibus temerè applicentur: ne phrases illæ & voces",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "sint significationis ambiguæ, & ad fallendum comparatæ, quæ apud",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "omnes certum definitúmque sensum non habeant, sed ab aliis",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "aliter accipiantur: ne sint obscuriores rebus ipsis, quæ in scripturis",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "docentur, ne præferantur scripturæ phrasibus, ita videlicet ut hæ",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "omittantur, & in illarum locum substituantur illæ tanquam significantiores &",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "ἐμφατικώτεροι, ac ἐνεργέστεροι, quod nihil foret aliud, quàm Spiri-",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "tum S. qui utique sapientissimè, & rebus ipsis longè convenientissimè",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "locutus est, accusare imperitiæ & ἀπαιδευσίας. Quibus universis &",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "pluribus etiam vitijs Theologiæ scholasticæ sermo refertissimus est.",
+     "heading": 0
+    },
+    {
+     "n": 36,
+     "text": "XVII. Quarto non exiguus etiam error est, quòd Scholastici, seu",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 37,
+     "text": "potiùs συζητηταὶ Quæstionarij Doctores tempus terunt in quæstionibus",
+     "heading": 0
+    },
+    {
+     "n": 38,
+     "text": "vanis, curiosis & futilibus, atque ijs quidem non tam explican-",
+     "heading": 0
+    }
+   ],
+   "catchword": "dis,",
+   "signature": "C 3"
+  },
+  {
+   "n": 23,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "number": "ne",
+   "lines": [
+    {
+     "n": 1,
+     "text": "dis,quàm implicandis. Atqui Apostolus 1.Tim.I.4. vetat <i>attendere μύ-</i>",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "<i>θοις καὶ γενεαλογίαις ἀπεράντοις, fabulis & genealogiis fine carentibus,</i>",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "<i>quæ quæstiones exhibent magis quàm ædificationem Dei in fide.</i> Ubi",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "μύθος intelligit quaslibet sermones, qui non habent certam authoritatem,",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "de quibus non potest quis <i>πιστῶσαι</i>, certior reddi ad fidem. Ita omnes",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "<i>ματαιολογίας</i> Col.II.24. <i>& probabilitates</i>, in quibus non est certitudo, quæ non habent <i>φανέρωσιν τῆς</i>",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "<i>ἀληθείας πρὸς τὴν συνείδησιν</i>, <i>manifestationem veritatis ad conscientiam</i> 2.Cor.IV.2. non aliud sunt quàm",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "<i>fabulæ</i>, ad quas attendere vetat Apostolus. Sed & 1.Tim.VI.5. graviter dehortatur à <i>ψευδωνύμου γνώσεως,</i>",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "<i>διεφθαρμένων τὸν νοῦν, καὶ ἀπεσερημένων τῆς ἀληθείας</i>, <i>inutilibus, superfluis, vanis occupationibus hominum mente</i>",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "<i>corruptorum, expertium veritatis</i>, qui putant <i>pietatem esse quæstum</i>.",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "Non immeritò tales, qui vanis & inutilibus quæstionibus indulgent,",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "& uti v.4. loquitur Apostolus, <i>νοσοῦντες περὶ ζητήσεις καὶ</i>",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "<i>λογομαχίας</i>, <i>ægrotant circa quæstiones & verborum pugnas</i>, vocat homines <i>mente</i>",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "<i>corruptos, & veritatis expertes</i>. Si enim veritatem quæ pietati est apta,",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "tenerent, neque quæ inquirenda non sunt quærerent, neque otiosis",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "conjecturis certarent, sed in mansuetudine veritatem docerent, &",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "eam esse veram ac salutarem sapientiam, omni conscientiæ pateface-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "rent. Hinc adeò idem Apostolus 2.Tim.II.23. jubet <i>μωρὰς καὶ</i>",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "<i>ἀπαιδεύτους ζητήσεις παραιτοῦ, stultas & indisciplinatas quæstiones reiicere</i>. Con-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "fer 1.Tim.I.4.VI.4. Tit.III.9. Quæstionibus <i>stultis</i> accensendæ sunt",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "vanæ, curiosæ, quæ non ex sapientia proveniunt, neque ad certam",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "utilitatem tendunt, in quibus magis labor & molestia, & depastio",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "spiritus, quàm fructus est, quæ si nescias, nihilo sis minor: si scias, nihil",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "profeceris. Ejusmodi quæstionem ponit & rejicit sapiens Eccl.VII.22.",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "Cur videlicet <i>dies priores meliores sint, istis?</i> Ita quæstio <i>ἀπαίδευτος in-</i>",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "<i>disciplinata</i> fuerit, si quis de rebus divinis quærat <i>τὸ λόγιον, ὡς</i> ve-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "luti quomodo Deus ex nihilo omnia creaverit? quomodo tres",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "sint unum? quomodo Deus præsciverit futura? Talia nempe quæ-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "runt homines <i>ἀπαίδευτοι</i>, qui Deo non alia lege credere inducunt",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "animum, quàm si dictorum ipsius rationem noverint, deteriores lon-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "ge gentilibus, quibus <i>sanctius ac reverentius visum de actis Deorum cre-</i>",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "<i>dere quàm scire</i>, notante Tacito in German.cap.34. At ejusmodi quæ-",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "stiones jubet Apostolus rejicere, non propterea quia solvi non pos-",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "sint, sed quia nihil necesse sit eas solvi, uti rectè Chrysostomus & Oe-",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "cumenius monent. Rectè enim docet Augustinus Enchirid. ad Laur. c.",
+     "heading": 0
+    },
+    {
+     "n": 36,
+     "text": "59. nihil opus esse, <i>ut ea cum discrimine definiantur, quæ fine discrimine</i>",
+     "heading": 0
+    }
+   ],
+   "signature": "ne",
+   "notes": "Greek and italic passages are partly illegible in the scan; Greek transcribed approximately, with doubtful readings uncertain. The Greek words in the first lines and in the Tit./Col. passages should be checked against the original."
+  },
+  {
+   "n": 24,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: unum?"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "<i>ne nesciuntur.</i> Curiosa delectatio scrutandi ea, quae nulli valeant esse",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "usui ad vitam, nihil ad pietatem proficit. Neque immensum Theolo-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "giae pelagus exigua humanae mentis scapha transfinitri potest, uti sa-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "pienter Pachymerius <i>lib.6.hist. Byzant.</i> monuit.",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "XVIII. Nunc vero Theologiam scholasticam ejusmodi qua-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "estionibus vanis, <i>ἀξιέρωτοις, μωρᾶις, ἀπαιδεύτοις, ἀσεβεστάτοις</i> refertam esse",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "quis dubitat? Senticetum Scholasticum ingressus quaeri audies: <i>Quo-</i>",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "<i>modo Deus diligat contraria, & quomodo nunquam existentia? Utrum</i>",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "<i>Deus possit quodvis malum, etiam odium sui pracipere? Utrum possibi-</i>",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "<i>lis sit propositio: Deus odit filium? Utrum Deus possit facere angelum</i>",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "<i>informare materiam? Utrum Deus possit aliqua distincte intelligere, si</i>",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "<i>ad illa non habeat distinctas relationes rationis? An idea in Deo pra-</i>",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "<i>ctica sint an speculativa? An intellectus in Deo sit activus, an passivus?</i>",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "<i>An numerus in Deo pertineat ad primam an secundam intentionem?</i>",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "<i>An haec & similes propositiones: Deus est upupa, est scarabaeus (absit ver-</i>",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "<i>bo blasphemia) aeque possibile sit atque illa, Deus est homo? Utrum na-</i>",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "<i>tura universi sit magis unibilis quam natura humana? Utrum naturam</i>",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "<i>mulieris, asini, serpentis vel columbae, Christus debuerit aut potuerit assu-</i>",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "<i>mere? Utrum suppositum Divinum possit assumere simul plures naturas</i>",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "<i>specie & numero distinctas? Utrum Christus meruerit incarnari? Ut-</i>",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "<i>rum salutatio Angelica Maria congrue incepta sit per Ave Maria?</i>",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "<i>Qualis natura fuerit Maria, carnosa an macilenta? An non possibile</i>",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "<i>fuerit habere Mariam plures filios unica generatione, qua genuit ver-</i>",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "<i>bum? An Maria virginitatem potuerit cognoscere Diabolus? An Ma-</i>",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "<i>ria dormiendo habuerit usum rationis? An fuerit Apostolorum Aposto-</i>",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "<i>la, & omnium artium mechanicarum perita? An Deus mundum hunc</i>",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "<i>facere potuerit meliorem? An Angeli sint producti ab aeterno? An ani-</i>",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "<i>ma sit creata ante corpus? An in statu innocentiae aequalis numerus su-</i>",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "<i>turus fuisset virorum & mulierum? An generaturus fuisset primus ho-</i>",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "<i>mo? An teneat baptismus: Ego te balneo in nomine Patris &c. vel</i>",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "<i>in nomine Patria & filia &c. An si conferatur baptismus in nomine S. An-</i>",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "<i>thony, vel sancti alicujus imo & Diaboli? An possit baptizari aliquis in</i>",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "<i>lixivio, mulso, cerevisia, aqua rosacea, jure carnium, brodio piscium, urina,</i>",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "<i>pruina, arena, rore, nive &c? An teneat baptismus collatus a Judaeo, pa-</i>",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "<i>gano? An sacerdos mutus, cocles, sex digitorum in una manu, leprosus,</i>",
+     "heading": 0
+    },
+    {
+     "n": 36,
+     "text": "<i>furiosus, lunaticus, daemoniacus possit consecrare & celebrare missam? An</i>",
+     "heading": 0
+    },
+    {
+     "n": 37,
+     "text": "<i>Christus sit in coena mediantibus dimensionibus propriis, an per modum</i>",
+     "heading": 0
+    },
+    {
+     "n": 38,
+     "text": "<i>substantiae? An Pontifex Romanus sit Deus, an homo, an ex utroque</i>",
+     "heading": 0
+    }
+   ],
+   "catchword": "unum?",
+   "notes": "Greek words in the XVIII paragraph are transcribed as best legible; accents uncertain. The text is slightly faded in places, notably the right ends of lines. The final word \"unum?\" is set right-aligned on its own line."
+  },
+  {
+   "n": 25,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: tiones / tiones"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "<i>unum ? An passeres & alia bruta Ecclesiam fœdantia liceat excommu-</i>",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "<i>nicare &c.</i> Taceo infinitas ejusmodi stultas, futiles, & ad blasphemiam",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "proximè accedentes quæstiones, & Cœciliano verbo tristes ineptias,",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "quæ passim in illo tenebrarum regno occurrunt, & vix sine maxi-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "mo fastidio ac detestatione legi vel repeti possunt, neque aliam et-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "iam ob causam, quàm ut accusationi fides habeatur, recenseri debent.",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "XIX. Atque ex hoc matæologiæ scholasticæ errore pullulat",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 8,
+     "text": "alius non minùs pudendus, quem <i>quinto</i> postremóque loco collo-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "co, nimirum contendendi, rixandi, depugnandi perpetua libido, &",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "<i>ψώεχς ἀπάσης κακὸν ἀνυσιατόπερον</i>, <i>omni scabie insanabilius malum</i>, ut",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "Galeni verba mea faciam. Nam quod Apostolus 2. Tim. II. 23. testa-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "tur, quæstiones <i>stultas & indisciplinatas γεννῶν μάχας</i>, <i>gignere pugnas</i>,",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "id verò hic maximè locum habet, ubi nil nisi testam testæ, ut est in",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "adagio, collisam, altercationum Euripum, aliam ex alia litem quasi re-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "nascentiæ Hydræ capita invenias. Nempe stolidarum &",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "<i>ἀπωδόντων</i> quæstionum hæc natura & indoles est, ut pugnas & concertationes",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "excitent. Faciunt enim ad <i>κενοδοξίαν</i>, & qui prudentes sunt in oculis",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "suis, eas commovent, ut aliis doctiores & albæ gallinæ filij ipsi videan-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "tur. In quo genere <i>μύθοι στοιχιζόμενοι</i>, & ingeniosè atque artificiosè,",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "<i>ἀποδείξεως</i>, & præter opinionem compositæ conjecturæ dominantur.",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "Nunc vix una est etiam gravissima quæstio, quam non sententiarum",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "totis castris diffidentium turpissimum divortium exerceat, adeò ut",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "illis scholæ hominibus apprimè conveniat, quod Ludovicus Vives",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "de Tradendis Disciplinis lib. 5. eruditis tribuit, nimirum latrones ac",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "leones majore inter se quàm illos consensione vivere. Quoties quæ-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "stio proponitur, non pudet illos sententias de ea fere ad digitum",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "enumerare his verbis: <i>Prima sententia, secunda, tertia &c.</i> De inter-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "pretatione verborum, <i>hoc enim est corpus meum</i>, tredecim opiniones",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "occurrunt, quarum si unam amplectare, duodecim rejicere tenearis.",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "Inter Thomam Aquinatem & Johannem Scotum dissensio tam perti-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "nax & capitalis intercessit, ut quod de Carneade & Chrysippo scribit",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "Cicero, idem de istis affirmari posset, nimirum nihil vel dicturum vel",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "scripturum fuisse Scotum, si nihil Thomas vel dixisset vel scripsisset",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "prior. Secutæ, hos sunt juratissimæ sectæ, in quibus impletum est id",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "quod oravit David Psal. LV. 10. <i>Corrumpe Domine, divide linguam</i>",
+     "heading": 0
+    },
+    {
+     "n": 36,
+     "text": "<i>eorum.</i> Quorum consilium fuerat, <i>Dominum constituere linguam suam</i>,",
+     "heading": 0
+    },
+    {
+     "n": 37,
+     "text": "Psal. XII. 5. ji tot in quæstiones inciderunt, ut ijs à nullo principe &",
+     "heading": 0
+    },
+    {
+     "n": 38,
+     "text": "judice finis imponi queat. Et quid tandem ejusmodi rixæ, conten-",
+     "heading": 0
+    }
+   ],
+   "catchword": "tiones",
+   "notes": "Greek and Hebrew-like words are transcribed as best legible; the Greek on this page is partly blurred and uncertain. The last word \"tiones\" appears as a catchword-like continuation at the bottom right and is included once above; verify."
+  },
+  {
+   "n": 26,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "tiones, contradictiones, pertinacia & irritatio omnia scalpendi, pu-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "gnæ, aliud sunt, quàm odiorum incentiva, & verissima Christianæ",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "charitatis venena? Quid aliud quàm doctrinæ incertitudinem pro-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "ducunt? Etenim in ijs disciplinis, quæ certæ sunt, veluti in Mathematicis,",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "ejusmodi pugnæ, lites & contentiones minimè locum habent. Quan-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "tò longiùs abesse debebant ab ea doctrina, quæ cœlestem sapien-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "tiam & divinorum dictorum enarrationem ac prædicationem pro-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "fitetur? Verissimus est ille acutus Mimi versiculus: <i>Nimium altercan-</i>",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "<i>do veritas amittitur.</i> Sicut enim qui pruritus titillatione acti nimium",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "scabunt, sanguinem eliciunt, dolore in locum suavitatis succedente,",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "& mali chirurgi, dum morbidum nimis resecant, sanum quoque at-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "tingunt: ita dum isti nimium veritatem scalpunt, eam amittunt, &",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "in falsum incidunt, quod majore se aliqua verisimilitudine quàm ve-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "rum ipsum prodit, ut orichalcum magis interdum colorem auri,",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "quàm aurum ipsum exprimit. Accedit quòd litigantium finis non",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "tam sit veritatis seria inquisitio, quàm affectata victoriæ laus. Unde",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "bellaces homines non minùs quàm Principes titulum <i>Invicti</i> sibi ar-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "rogare non erubuerunt. Imò fuisse Lutetiæ hominem, qui se <i>Horribi-</i>",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "<i>lem Sophistam</i> cognominaverit, non minùs gloriosam hanc appella-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "tionem ratus, quàm <i>Africani</i> aut <i>Asiatici</i>, testis est idem qui supra Lu-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "dovicus Vives <i>de Disciplinis lib. 3.</i>",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "XX.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 23,
+     "text": "Atque has aliásque ob causas, inprimis verò doctrinam",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 24,
+     "text": "tyrannidi Pontificis obnoxiam, & in plerisque falsam, pientissimi &",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "sapientissimi Ecclesiæ Reformatores, inprimis Zwinglius, Lutherus,",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "Melanchton, Oecolampadius, Bullingerus, Calvinus, alij Theologiam",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "Scholasticam ex Ecclesiæ Evangelicæ finibus exterminárunt, & pro",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "ea genus doctrinæ purum, sanum, simplex, perspicuum, ordinatum, &",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "ad normam sermonum Spiritus S. compositum ex Dei verbo tradi-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "derunt & contra Sophistas voce ityloque asseruerunt. Neque adeò",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "etiam sine causa viri docti Theologiam hanc innui observant in vati-",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "cinio Danielis cap. VIII. 20. ubi Rex פנים עז ἀναιδὴς πρόσωπον, <i>impudens</i>",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "<i>facie</i>, Antichristus videlicet, vocatur מבין החידות συνιὼν αἰνίγματα, <i>in-</i>",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "<i>telligens ænigmata</i>, problemata, quæstiones, sophismata. Quin & Apo-",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "calypseos Interpretes eandem portendi monent ab Angelo primo",
+     "heading": 0
+    },
+    {
+     "n": 36,
+     "text": "phialam suam in terram effundente, unde ἐγένετο ἕλκος κακὸν",
+     "heading": 0
+    },
+    {
+     "n": 37,
+     "text": "καὶ πονηρὸν, <i>ulcus malum & malignum in homines habentes signaturam bestiæ &</i>",
+     "heading": 0
+    },
+    {
+     "n": 38,
+     "text": "<i>imaginem ejus adorantes</i>, Apoc. XVI. 2. Sicut enim ulcus non statim",
+     "heading": 0
+    },
+    {
+     "n": 39,
+     "text": "cutim dividit, sed unionis speciem relinquit, dum intus caro fatiscit, in-",
+     "heading": 0
+    }
+   ],
+   "catchword": "in-",
+   "signature": "D",
+   "notes": "Greek and Hebrew words in the Daniel and Apocalypse passages are printed as near as the scan allows; Hebrew and Greek lines are approximate. Page number not printed on this scan."
+  },
+  {
+   "n": 27,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: adhibi."
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "inflamatur & putrefit, unde scabies, pruritus, erofio oritur: ita Theo-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "logiæ hæc & ex ea nata innumera dissidia, quæstiones ἀσεβεῖντοι, di-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "sputandi vitiligo, dissensio hæreditaria Thomistarum, Scotistarum &c.",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "in Regno Pontificio unionis quamvis speciem præferente, ulceris",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "instar fuit, quod sabiem & intestinam rupturam effecit, multúmque",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "adeò promovendo iniquitatis mysterio inservijt. Et quid fuerunt",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "quæso τὰ βάθη τῆς Σατανᾶ, profunditates Sathanæ, Apoc. 11.24. si non",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "sunt profunditates illæ scholasticæ? Quisquis etiam obiter inspexerit",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "dicta scripturæ 1.Cor.I. 19. 20. 21. &c. II.6. &c. Coloss. II. 4.8.18.",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "22.23.1.Tim.I.3.4.6.7.10.1.2.3.VI.20.21.2.Tim.II.14.15.16.22.&c.",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "Tit.III.9. is Theologiam Scholasticam secundùm omnes partes pe-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "nicillo Spiritus S. adumbratam, & ad vivum expressam inveniet.",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "XXI. Has quoq; ob causas, ne eas amplius desideret ineptus Mona-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 14,
+     "text": "chus, Atlanti suo cœlum humeris gestanti succollaturus, scholasticam",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "Theologiam alicubi artem sophisticam, lacunam lutulentum fluentem",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "(non truculentum ferentem) uti idem ille Latinæ linguæ non satis peri-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "tus mihi tribuit) insignio. Neque tamen magistros meos dedecore ita",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "afficio, uti exprobrat ille. Nuspiam enim fassus sum, quod mihi per",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "calumniam Monachis familiarem impingit, me hanc methodum ama-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "gistris meis olim didicisse, uti tamen ea nolle. Sic enim mea adversus",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "D.Baldingerum verba pag. 137, sonant: Formam syllogisticam non af-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "fectat synodalis differtatio, cujus author etsi eam didicit, & ubi commo-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "dum est, usurpat, tamen indignam esse putat, cui differtationes graves, &",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "in usum eruditorum scriptæ illigentur. De forma syllogistica locutus",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "sum, quam à præceptoribus meis didicisse me gratus profiteor, non",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "de mataeologia scholastica. Multùm hæc differunt. Alia voce psittacus,",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "aliâ coturnix loquitur. Et aliter catuli, aliterq; sues olent. Formæ por-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "ro syllogisticæ usum non rejeci, sed suo loco modóque adhibendum",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "monui. Mira verò levitas est illius sophistæ, qui Theologiam schola-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "sticam ab ipso Christo ex verbis Dei Exod.III.ubi se vocat Deum Abra-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "hami, Isaaci & Iacobi, articulum de resurrectione inferente consecratam,",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "& ab Apostolis, maximè à Paulo Atheniensium idololatriam improbante",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "usurpatam esse, scribere non erubuit. Scilicet Christus ex virtute &",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "potentia verborum Dei eliciens fidem resurrectionis, & Paulus ex",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "scripturæ conscientiæque judicio & argumento ad hominem directo",
+     "heading": 0
+    },
+    {
+     "n": 36,
+     "text": "profligans Atheniensium idololatriam, authores sunt illius Theolo-",
+     "heading": 0
+    },
+    {
+     "n": 37,
+     "text": "giæ, quæ ex mutilatis ac detortis Patrum scriptis, Philosophorum in-",
+     "heading": 0
+    },
+    {
+     "n": 38,
+     "text": "primis, Aristotelis & quidem corrupti placitis, Pontificum decretis,",
+     "heading": 0
+    }
+   ],
+   "catchword": "adhibi.",
+   "notes": "Right-hand edge of the page is dark shadow; the final word \"adhibi\" is cut off at the page foot. Greek and Hebrew-like fragments transcribed as best readable; some italic words uncertain."
+  },
+  {
+   "n": 28,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "number": "64",
+   "lines": [
+    {
+     "n": 1,
+     "text": "adhibitis monstrosis & obscuris terminis, in utramque partem scepti-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "cè & topicè disceptat, ac magistraliter, & præter ac contra scripturam,",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "ad ostentationem acuminis & sophistices exercitationem quidlibet",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "definit. Quin pudere debuisset illum disputatorem, <i>controversias</i> suas",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "<i>scholasticas ex proœmiali quæstione Theologiæ</i>, uti nuncupat, non ex",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "Christo & Apostolis, imò ne quidem ex Patribus, sed ex Aristotele &",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "Thoma disceptantem. Scilicet quæstiones jejunæ, frivolæ & futiles,",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "ab ipso ibidem motæ, quales sunt : <i>Quid intelligat Thomas nomine</i>",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "<i>doctrinæ? An Theologia sit in rigore Aristotelico scientia? An sit</i>",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "<i>scientia formaliter, eminenter simul practica ac speculativa? An Theo-</i>",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "<i>logia nostra proprie subalternetur Theologiæ beatorum? An sit una specie</i>",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "<i>infima scientia? An sit habitus quoad substantiam supernaturalis? An</i>",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "<i>Deus sub ratione Deitatis sit objectum formale Theologiæ?</i> aliæque",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "ejusmodi quæstiones infrunitæ, & quæ nullum cum pietate commer-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "cium habent, non alijs judicibus, quàm Aristotele, & ejus simijs agita-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "ri possunt. Quanquam dubitari potest, an Aristoteles Philosophus pru-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "dens & sapiens Theologiam principijs suis philosophicis superstrui",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "passus fuisset.",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "<i>XXII.</i> Neque verò cuiquam mirum esse debet, hanc Schola-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 20,
+     "text": "sticam Sophisticen, fœtam errorum matrem, mihi æquè ac bonis omni-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "bus sordere. Etenim non defuerunt in ipso Papatu homines emun-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "ctarum narium, quibus ea segniter probaretur. Sanè extat Alexan-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "dri III. Papæ contra Lombardi hæresin epistola ad Wilhelmum Seno-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "nensem Archiepiscopum exarata, apud Matthæum Parisiensem in Hi-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "storia ejus Anglicana p. 31. ubi inter alia vocat <i>pravâ Lombardi doctri-</i>",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "<i>nam, quâ dicitur, quòd Christus secundum quod est homo, non est aliquid</i>,",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "eámque doctrinam Apostolica autoritate jubet convocatis suffraga-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "neis, aliisque viris religiosis & prudentibus abrogare. Adducit ibidem",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "Alexander Papa Joachimum Florensis Cœnobii Abbatem, qui Lom-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "bardum vocaverit <i>hæreticum & insanum</i>, utpote qui non tam trinita-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "tem, quàm quaternitatem in Deo astruxerit. Trithemius Abbas Span-",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "heimensis in Petro Abelardo Dialectico, qui circa annum 1150. vixit,",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "hæc verba habet: <i>Ex hoc tempore Philosophia secularis sacram Theo-</i>",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "<i>logiam sua curiositate inutili fraudere cœpit.</i> Gerson Scholasticos",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "passim tanquam <i>curiosos</i> accusat. Nicolaus Beroaldus doctor Sorbo-",
+     "heading": 0
+    },
+    {
+     "n": 36,
+     "text": "nicus de Scholasticis ita conqueritur Catal. Test. lib. 16. <i>Sophisticis</i>",
+     "heading": 0
+    },
+    {
+     "n": 37,
+     "text": "<i>mugis arcana cœlestésque litera jam diu nimium depravata sunt, & ob-</i>",
+     "heading": 0
+    },
+    {
+     "n": 38,
+     "text": "<i>ruta. Non enim studiorum ingenia exacuunt ista captiuncula & ṽi-</i>",
+     "heading": 0
+    }
+   ],
+   "signature": "D 2"
+  },
+  {
+   "n": 29,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "<i>ea Spinosa, sed mentis succum omne exhauriunt.</i> Nicolaus Clemanges ma-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "gister Parisiensis & Archidiaconus Bajocensis, qui An. 1426. floruit, in",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "epistola <i>de Theologia studiosa</i>, Scholasticis Theologis applicat illa Pau-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "li: <i>Languent circa quaestiones & pugnas.</i> Theologiam quoque ipso-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "rum comparat <i>cum fructibus lacus Asphaltitis</i>, <i>qui foris speciem pul-</i>",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "<i>chram habeant, sed intus fumum ac cinerem.</i> Cornelius Musus Epi-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "scopus Bitontinus <i>Comment. ad Rom. 6.</i> graviter etiam de ea quaeri-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "tur. <i>Divina scriptura olim,</i> inquit, <i>quanto damno omnium negligeban-</i>",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "<i>tur? Vigebat Spinosa & molesta nescio qua Theologia, de instantibus, re-</i>",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "<i>lationibus, quiddidatibus, formalitatibus, itemque haec omnia Syllogismis ar-</i>",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "<i>te contortis & humanis duntaxat argutiis qua procul dubio qua autorita-</i>",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "<i>te recipiuntur, ea & refelli possunt, pertractabantur.</i> Is sublimis Theolo-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "gus habebatur, qui majora portenta pro suis traditiunculis affingere sci-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "ret; pretiyque pars erat gloriola inanis non intelligi grandia illa verba,",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "quae alto supercilio inter mulierculas de Sacris literis philosophantes truti-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "nabant. Juraverant universi divini verbi duces in magistrorum verba.",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "<i>Hinc sexcenta sectae, Thomistae, Scotistae, Occamistae, Bacconistae, Alberti-</i>",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "<i>stae, Aegidiani, Alexandrini, o scelus! Posthabebantur Evangelia, Epi-</i>",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "<i>stolae, Christiana Philosophia delitescebat, a paucissimis tractabatur, sed</i>",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "<i>frigide, non dicam insincere.</i> Ludovicus Vives <i>de Verit. Relig. Christ.</i>",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "<i>lib. 1. cap. 3.</i> queritur, Scholasticos fecisse <i>rationem fidei mensuram,</i>",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "subjicitque: <i>Quid quod eorum multi non lucem & rationem divinam ad</i>",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "<i>divina haec volunt adhiberi, sed humanam illam tot infectam & deprava-</i>",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "<i>tam sordibus, ut ea sit fundamentum velut totius pietatis.</i> Et paulo in-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "serius: <i>ex disputationibus & contentionibus circulorum Scholasticorum</i>",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "<i>orta est pertinacia & irritatio omnia scalpendi. Progressi quidem sunt</i>",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "<i>longissime, & ratiunculis sophisticis, vanis, invalidis, magnum pondus re-</i>",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "<i>bus gravissimis detraxerunt.</i> Alciatus I.C. celeberrimus Oratione de",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "Legibus Avenione habita, inter alia queritur, <i>infinita Scholasticorum</i>",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "<i>volumina & innumeras ineptas quaestiones in divino cultu posse, quod</i>",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "<i>canis in balneo.</i> B. Rhenanus <i>praefat. ad Tertullianum</i> ait, Scholasticos",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "potius philosophos, quam Theologos appellandos esse. Wesselus",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "Gansfortus, <i>lux mundi</i> suo tempore dictus, quoties ipsi in disputatio-",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "nibus autoritas hinc Thomae, inde Seraphici Doctoris objiceretur,",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "respondere solitus est: <i>Thomas fuit Doctor, quid tum postea? Et ego</i>",
+     "heading": 0
+    },
+    {
+     "n": 36,
+     "text": "<i>Doctor sum. Thomas vix Latine intellexit & unilinguis fuit: ego trium</i>",
+     "heading": 0
+    },
+    {
+     "n": 37,
+     "text": "<i>principalium linguarum mediocrem peritiam sum assecutus. Thomas vix</i>",
+     "heading": 0
+    },
+    {
+     "n": 38,
+     "text": "<i>umbram Aristotelicam vidit. Ego Aristotelem Graecum in ipsa Graecia</i>",
+     "heading": 0
+    }
+   ],
+   "notes": "Catchword-like word \"cia\" at lower right corner is the start of the next word \"Graecia\" split at the line end; treated as part of the line. Passages in italics in the source are rendered in <i>; some italic/roman distinctions are approximate. The word \"Wesselus\" and \"Asphaltitis\" read as printed; \"Musus\" may be a misreading of \"Musso\" and should be checked. Several words in the lower half are only partly legible."
+  },
+  {
+   "n": 30,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "number": "3",
+   "lines": [
+    {
+     "n": 1,
+     "text": "cia didici. Johannes Staupicius Lutheri præceptor Conradum Sum-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "merhard Theologum Tubingensem sæpe exclamasse retulit: <i>Quis</i>",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "<i>me liberabit tandem ab ista rixosa Theologia</i>, Scholastica videlicet!",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "Aventini de Scholasticis judicium superius retuli. Cornelius Agrip-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "pa <i>de Vanit. Scientiarum cap. 97.</i> de Scholastica Theologia prolixam",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "querelam texit. Ait, <i>eam a Parisiensi Sorbona mixtione quadam ex divi-</i>",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "<i>nis eloquiis & philosophicis rationibus tanquam ex Centaurorum genere</i>",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "<i>biformem disciplinam constatam esse: eam paulatim in Sophismatu dela-</i>",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "<i>psam esse, dum recentiores isti Theosophistæ ac verbi Dei cauponatores,</i>",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "<i>qui nonnisi empto titulo Theologi sint, ex tam sublimi facultate logoma-</i>",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "<i>chiam effecerint.</i> Multa alia in eandem sententiam subjicit, quæ no-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "stram de hac Theologia superius motam querelam validissime con-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "firmant. In ipso Tridentino Concilio Scholastica methodus a Patribus",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "improbata & rejecta est, renitentibus tamen & vincentibus Theolo-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "gis inprimis Italis, qui nisi in hoc pristino molere edocti non erant,",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "uti in historia Sess. XIII. & notis ad eandem ostendimus. Erasmi Ro-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "terdami de Scholasticis querelam consignatissimam, quæ extat pas-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "sim, inprimis <i>Comment. in 1 Tim. c. 1. 8. Moria</i> & libro <i>de ratione verae</i>",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "<i>Theologiae</i>, ad compendium ponere lubet.",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "XXIII. Quid quòd etiam cælesti visione sanctis quibusdam",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 21,
+     "text": "viris Theologiæ hujus vanitatem revelatam esse historiæ nonnullæ",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "referunt? Visionem Roberti Galli qui floruit circa An Chr. 1290. his",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "verbis recensset Catal. Test. lib. 17. pag. 1663.",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "<i>Fui videns</i>, inquiebat",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 25,
+     "text": "Robertus, <i>in spiritu, & ecce vir circumibat, panem delicatum portans</i>",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "<i>in humeris cum vino optimo, dependebantque panis & vinum per latera</i>",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "<i>ejus; ipse vero tenebat manibus oblongum durissimum, dentibus rodens il-</i>",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "<i>lum, ut famescens circa panem agere solet, nihil autem agebat, & ex la-</i>",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "<i>pide egrediebantur duo capita serpentum, & instruebat me Domini Spi-</i>",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "<i>ritus, dicens: lapis hic quaestiones inutiles & curiosæ sunt, in quibus fame-</i>",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "<i>scentes laborant animarum substantialia relinquentes. Et dixi, quid</i>",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "<i>ergo capita illa dicuntur, & dixit: nomen uni vana gloria: alteri dissipa-</i>",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "<i>tio religionis.</i> Fratri Nicolao Eremitæ Helvetio visionem postea de-",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "pictam tribuit Carolus Bovillus, qui ejus picturam a Nicolai filio sibi",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "monstratam & effigie expressam ad Nicolaum Horium Archiepisco-",
+     "heading": 0
+    },
+    {
+     "n": 36,
+     "text": "pum Rhemensem transmisit. Vidit nempe <i>splendenti & pellucido cir-</i>",
+     "heading": 0
+    },
+    {
+     "n": 37,
+     "text": "<i>culo inclusum caput Papale, redimitum trifido diademate, cujus fastigio</i>",
+     "heading": 0
+    },
+    {
+     "n": 38,
+     "text": "<i>orbiculus cum cruce impositus, sicut us Imperatoribus præferri consueve-</i>",
+     "heading": 0
+    },
+    {
+     "n": 39,
+     "text": "<i>rat. Caput ipsam mediam circuli aream occupabat. Facies rubicunda</i>",
+     "heading": 0
+    },
+    {
+     "n": 40,
+     "text": "<i>eras</i>",
+     "heading": 0
+    }
+   ],
+   "catchword": "erat",
+   "signature": "D 3",
+   "notes": "Page is a single column; the text is printed in italic for quoted passages. Several words at the end of the page are cut off by the scan edge (\"eras\" at the lower right, probably \"erat\" continuing from the catchword). Some letters are doubtful in the italic passages and marked as printed."
+  },
+  {
+   "n": 31,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: que"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "<i>erat, vultus atrox & valde minax. Frons corrugata, trucesque & mi-</i>",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "<i>nantes oculi excandescentis speciem pra se ferebant. Mentum barba</i>",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "<i>valde hirsuta & in tres cirros discreta vestiebat, sed canitiei situ squalida.</i>",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "<i>Superius labrum itidem mystace prominente ferociebat. Porro in faciem</i>",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "<i>ex circi circumferentia tres acuti gladiorum mucrones tendebant, quo-</i>",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "<i>rum unus ex imo circi progrediens perrupta barbaos Papale petebat, reli-</i>",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "<i>qua duo ab utroque latere oculos fodicabant. Contra hos ex ipso capite</i>",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "<i>totidem alii tendebant, duo nempe ex naribus, versus utrumque circuli la-</i>",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "<i>tus cuspides demittente, tertius ex caperata fronte sursum per diadema-</i>",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "<i>tis longitudinem versus orbiculum tiara super impositum vergebat &c.</i>",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "Eam visionem post Episcopum Rhemensem & Lutherum compara-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "tione plagae Regiae illustravit & explicavit Vir sagacissimus Conra-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "dus Graserus, Eques Francus <i>Plag. Reg. pag. 220. 221. &c. Cir-</i>",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "<i>cus</i> ipsi Papatus Romani ambitum: <i>Caput corona trifida cinctum</i> Pon-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "tificem: <i>Gladiorum positus</i> schismatis Europei, quod inter oppug-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "natores & propugnatores Papatus superiori seculo obortum est,",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "horrendam imaginem: <i>Superioris labri setosus mystax</i>, bifidam ordina-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "riae jurisdictionis sub Papatu potestatem: <i>Tres distincti cirri inferioris</i>",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "<i>barbae</i> tres nominatissimos Sophistarum (barbam enim Philosophicae",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "professionis symbolum veteres faciunt) ordinis Theologos Schola-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "sticos, Canonistas & recentiores Monachorum sectas designant.",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "Quanta verisimilitudine visionem istam interpretetur vir ὀξυδερκέστατος,",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "cui lubet, inspiciat. Nobis ista retulisse, & lectori judicium in-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "tegrum relinquere satis erit.",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "XXIV.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 26,
+     "text": "Sicut autem omnia ita sapienter Deus temperavit, ut",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 27,
+     "text": "nihil tam perversum malumque fit, quin ex eo boni quid, non innata,",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "sed aliena vi elici possit: ita id ipsum quoque in Scholastica Theolo-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "gia contingit. Etenim in ipso Scholastico coeno reperire est quan-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "doque unionem atque margaritam, sententiam puta auream, signifi-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "cantem & nervosam, quae nonnihil tradendae Theologiae positivae",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "inserviat, perinde atque apud Rabbinos, homines caeteroquin frivo-",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "los & nugivendulos nonnunquam occurrit gnome minime contem-",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "nenda. Neque enim fingunt omnia Cretes. Et fuit alias plerisque",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "vis magna judicii, qua si recte pie & sobrie usi fuissent, plurimum Ec-",
+     "heading": 0
+    },
+    {
+     "n": 36,
+     "text": "clesiam juvare & beare poterant. Deinde candide magis quam mo-",
+     "heading": 0
+    },
+    {
+     "n": 37,
+     "text": "derni aeruscatores, corruptae Theologiae suae mysteria tradunt, adeo-",
+     "heading": 0
+    },
+    {
+     "n": 38,
+     "text": "que occasionem praebent modernos lucifugas facilius captandi, con-",
+     "heading": 0
+    },
+    {
+     "n": 39,
+     "text": "vincendi, & in lucem protrahendi. Praeterea ipsa illorum in pleris-",
+     "heading": 0
+    }
+   ],
+   "catchword": "que",
+   "notes": "The first line is partly illegible in the scan; the Greek words are transcribed as best read. Marginal annotations appear absent. Catchword \"que\" at lower right."
+  },
+  {
+   "n": 32,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "number": "1",
+   "lines": [
+    {
+     "n": 1,
+     "text": "que fidei dogmatis pertinax discordia & sententiarum σύγξξεις eccle-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "siæ arma suppeditat, quæ in ipsa Sophistarum viscera nullo negotio",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "converti possunt. Jucundum enim est fidelibus spectare hos homi-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "nes sibi ipsis acutis concertationum mucronibus jugulum petentes,",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "& subinde in contradictionum æstu conquisitis undique rationibus",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "veritatis præsidium munientes: æquè atque olim jucundum & volu-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "pe fuit Israelitis spectare, quomodo ipsis quidem cornibus clangen-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "tibus, & cados seu hydrias collidentibus, Madianitæ mutua se cæde",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "truncaverint, Domino dirigente את הרב איש ברעהו <i>gladium c-</i>",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "<i>uique in proximum ejus</i>, Judic. VII.20.21.22. Adeò veritati nonnun-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "quam haud secus quàm Bileami asina & Cajaphas vates testimonium",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "perhibere coguntur. Unde non defuerunt viri docti, qui in Schola-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "sticorum scriptis exercitati & subacti, eorum confessionibus & testi-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "moniis veritatem feliciter suffultum irent. <i>Probatio</i> enim <i>vera &</i>",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "<i>minimè contradictioni obnoxia est, quæ ex adversariorum dictis elicitur</i>,",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "inquit B. Irenæus <i>lib. 4. adversus hæret. c. 14.</i> Versantur in manibus",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "eruditorum varia ejusmodi scripta inprimis <i>Scholastici Orthodoxi Spe-</i>",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "<i>cimen</i>, autore viro doctissimo Paulo Ferrio Metensi editum, nec non",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "Georgii Dorschæi <i>Thomas Aquinas Confessor Evangelicæ veritatis</i>,",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "aliique, quibus perlectis facile est cognoscere veritatem illius, quod",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "Augustinus monuit, nimirum apertam veritatem etiam clausos ferire",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "oculos, & ipsos adeò adversarios αὐτοκα-ταχρίτως efficere.",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "XXV.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 24,
+     "text": "Atque has ob causas non improbamus eorum studium,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 25,
+     "text": "qui post sedulam lectionem & meditationem Scripturæ & Patrum,",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "siquidem ita ingenii ἀγχίνοια & otium permiserint, melioris etiam no-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "tæ Scholasticos volunt, & si quid probi invenerint, in Ecclesiæ alvea-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "re import ant. Sed id omne παρέργου ὁδὸν, cum grano salis, adeoque par-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "cè faciundum, & consulenda eorum scripta, sicut Doctissimus Cha-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "mierus in epistolis Jesuiticis ad Cottonum se fecisse scribit, non aliter",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "quàm si quis aliquando palatium visitans, post aularum, cubiculorum,",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "cœnaculorum magnificentiam etiam latrinas non dedignetur aspice-",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "re, sed parcè ob fœtorem. Cautiones quoque & observationes va-",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "rias in Scholasticorum lectione saluberrimas vir doctus sanè Christo-",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "phorus Binderus tradit <i>Theologiæ Scholasticæ</i> c.3. & 4. quæ huc fere re-",
+     "heading": 0
+    },
+    {
+     "n": 36,
+     "text": "deunt, <i>ne Scholam hanc ingrediantur, nisi qui fundamenta prius jece-</i>",
+     "heading": 0
+    },
+    {
+     "n": 37,
+     "text": "<i>rint puræ & solidæ doctrinæ Christianæ, & qui Barbarorum horum lin-</i>",
+     "heading": 0
+    },
+    {
+     "n": 38,
+     "text": "<i>guam prius accurate intelligant: ne recepius intra Scholæ huius penetralia</i>",
+     "heading": 0
+    },
+    {
+     "n": 39,
+     "text": "<i>se oneret lectione omnium aut plurimorum, sed paucorum & optimorum,</i>",
+     "heading": 0
+    }
+   ],
+   "catchword": "qua",
+   "notes": "Hebrew phrase (את הרב איש ברעהו) and Greek words are transcribed as legibly as the scan allows; the Greek word after \"ἀγχίνοια\" and \"αὐτοκα-ταχρίτως\" and \"σύγξξεις\" are uncertain. The line \"qua\" at lower right is a catchword. The page number at the head is a faint mark and is not transcribed. Ornamental header mark omitted."
+  },
+  {
+   "n": 33,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "quales Lombardus eiusque interpres Paulus Cortesius, Thomas Aquinas,",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "& qui inter omnes maximè idoneus judicatur, Bonaventura, nec non Gre-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "gorius Ariminensis Augustini satis tenax: ne omnes quæ apud meliores",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "etiam occurrunt, quæstiones legantur, sed hæ potissimum, quæ aut occasio-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "nem habent ex Scriptura aut argumenta & examen veterum hæretico-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "rum continent, ne videlicet animi vigor in rebus non necessariis consu-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "matur: ut attendatur genuinus & generalis omnium Scholasticorum",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "dogmatum finis, qui est, ut otiosis & erroneis disputationibus præcipuos",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "Christianæ doctrinæ articulos convellant, & iisdem deinde reliquorum se-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "quentium & à prioribus dependentium articulorum cardines aggredian-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "tur: ut observetur, quemadmodum posteriores Scholastici fontes Israelis",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "semper magis turbarint, lutulentiores reddiderint, & in quibus doctrinæ",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "capitibus, quod potissimum in articulo justificationis gratuitæ, bonorum",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "operum, prædestinationis conspicuum futurum sit: ut potissimum legantur",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "eorum opera, inprimis Aquinatis contra gentes, Judæos, Saracenos: ut",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "animadvertatur, quemadmodum multa priores Scholastici dixerint dispu-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "tative, non assertive quæ posteriores primò suaserint, paulatim verò etiam",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "inter certa dogmata retulerint: denique ut alieno malo sapere discamus.",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "XXV. Non desunt, quibus videatur, Scholasticos legendos &",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 20,
+     "text": "in deliciis etiam habendos esse propter accuratam methodum, & di-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "sputandi artificium. At nos ad utrumque sufficere arbitramur co-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "gnitionem συναφείας Scripturæ & analogiæ fidei in ea traditæ, nec non",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "Philosophiæ sobriæ, inprimis Logicæ, & in ea ejus partis, quæ analy-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "tica vocatur. Id quod liquere potest exemplo doctissimorum &",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "μεθοδικοτάτων Theologorum, inprimis Piscatoris & Altingii, qui utru-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "mque sine Scholasticæ Theologiæ subsidio verè συντακτικοί & fuit. Et",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "de Piscatore quidem judicium est acutissimi Theologi Wilhelmi",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "Tuviffi, Vindic. de Electione lib. 1. p. 2. illum laude dignissimum esse",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "propter accuratam ejus Theologica non vulgariter, sed Scholasticè",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "tractandi rationem, quam assecutus fuerit sola sacrarum literarum",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "professione, communibus tantum disciplinis, Grammatica, Rhetorica",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "& Logica, in subsidium vocatis, ut in eo exemplum extare Deus vo-",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "luerit, quo demum accuratæ & Scholasticæ in rebus ad salutem con-",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "ducentibus eruditionis, vel ex sola Sacrarum Scripturarum lectione,",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "assidua meditatione, in eadem commentatione provehi possi-",
+     "heading": 0
+    },
+    {
+     "n": 36,
+     "text": "mus, mi[?] ministis, Sententiariis & Scholasticis adunum omnibus.",
+     "heading": 0
+    },
+    {
+     "n": 37,
+     "text": "Consula. [?]m Sadaelis utilissima præfatio de vera Methodo Theolo-",
+     "heading": 0
+    },
+    {
+     "n": 38,
+     "text": "gicè simul [?] Scholasticè disputandi. Denique timent alij, ne, si accuratè",
+     "heading": 0
+    }
+   ],
+   "notes": "The bottom of the page carries a short faint line \"rate\" at the right which is the start of a catchword-like fragment; the Greek words are transcribed as best read. Several words on the last lines are damaged by the fold and are marked [?]."
+  },
+  {
+   "n": 34,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "rate Theologiæ Scholasticæ non assuefiamus, in prælio cum hodiernis",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "Sophistis succumbendum nobis sit. At & is metus inanis est.",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "Neque enim Sophistæ legem nobis figere jure ausint, ut desertis Scri-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "pturæ testimonijs & sobriæ Philosophiæ ministerio eadem cum illis",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "arma tractemus, & cum Cretensibus cretizemus. Hoc enim perinde",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "esset, ac si olim Americani Europæis in novum orbem navigantibus",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "& bellum illis intentantibus legem indicere voluissent, ne aliis quàm",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "ipsi armis, sagittis videlicet, utantur, & ut æquè nudato corpore pu-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "gnent ac ipsi. quo simili Suecia Reginam cuidam Jesuitarum Meta-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "physicam eodem argumento commendanti argutè occurrisse, audire",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "me ex magno Freinshemio memini.",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "XXVII. Tandem verò discamus ex Scholasticis, alieno malo,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 13,
+     "text": "nobis quid ex usu siat. Non necessariis & curiosis disputationibus",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "ipsi quasi fine fine & fœdere pugnantes, veritatem amiserunt, vel certè",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "maximo damno suo demerserunt, semper discentes, & ad veri-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "tatem nunquam pervenientes. Nos verò præcordia timore Domini",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "muniti, & insistentes vestigiis primorum Reformatorum nostro-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "rum, qui cum Sophistica hac nihil constitutum habere voluerunt,",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "quorumq; piæ simplicitati Deus abundè & θαυμαστῶς mirabiliter bene-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "dixit, ipsi quoque veritatem eam, quæ est secundum pietatem, ex",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "Dei verbo religiosè scrutemur, atque ita disputemus, ut disputando",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "discamus & ædificemur. Jam olim Sanctissimus Martyr Cyprianus",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "<i>Dei arcana perspici non posse, & ideo fidem nostram simplicem esse debere</i>",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "<i>monuit, pluribusque S. literarum testimoniis comprobavit lib. 3.</i>",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "<i>adversus Judæos cap. 53.</i> Nihil igitur facientes ex αὐτοδεία, κενοδοξία &",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "φιλονεικία, ubique piam & Christianam simplicitatem diligamus, atque",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "παραδοθέντα nobis creditam, & ὑγιαινόντων λόγων pressis",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "manibus teneamus. Persuasissimi denique, stultis, curiosis & impiis",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "disputationibus nihil effici, nec legem, nec Prophetas, nec Evangelium",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "intelligi; neque adeò illas <i>cum piorum doctissimorumque hominum ser-</i>",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "<i>monibus per quos in Ecclesia catholica dignis aperiuntur oculi</i>, comparari",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "ulla ratione posse: uti alicubi contra Manichæos Augustinus loqui-",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "tur. Tu verò, Domine, ἁγίασον ἡμᾶς ἐν ἀληθείᾳ σου,",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "ὁ λόγος ὁ σὸς ἀλήθειά ἐστι. <i>Sanctifica nos in veritate</i>",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "<i>tua. Sermo Tuus veritas est!</i>",
+     "heading": 0
+    },
+    {
+     "n": 36,
+     "text": "FINIS.",
+     "heading": 1,
+     "para": true
+    }
+   ],
+   "notes": "Greek words in the text are rendered from the scan and may contain errors; the Greek line and the italic Latin lines beneath the text are set in a smaller italic hand. Some lines are faint or show-through from the reverse page (around \"ut disputando\" and \"Dei verbo\") and are doubtful."
+  },
+  {
+   "n": 35,
+   "type": "empty",
+   "model": "claude-haiku-5-5",
+   "notes": "The page carries only faint, blurred show-through (mirrored text from the other side of the leaf), in roughly two blocks: an upper block and a lower block, with a faint mark near the bottom centre. None of the lines can be read, so no text is transcribed. Marbled endpaper and binding edge at the right and the dark scanner background are not part of the page."
+  }
+ ]
+}
