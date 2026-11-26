@@ -1,0 +1,985 @@
+{
+ "work": "W02211_Erastus_Disputatio_de_medicamentorum_purgantium_facultate_1574",
+ "made": "2026-11-26T10:18:22",
+ "model": "claude-haiku-5-5",
+ "prompt": "655260ce46aa8978",
+ "candidates": 200,
+ "cost_usd": 0.02201,
+ "dropped": [
+  "order: {'ids': [133], 'level': 2, 'title': 'Cap. XLIX. An occulta vi agentia sola experientia inueniantur.'}",
+  "no scans for 1 wanted"
+ ],
+ "toc": [
+  {
+   "scan": 3,
+   "line": 1,
+   "lines": [
+    [
+     3,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Generis nobilitate, virtute, et doctrina praestantissimo viro, D. Eberhardto Vuambolto ab Vmstat, Iudicij Imper. Spir. A"
+  },
+  {
+   "scan": 6,
+   "line": 1,
+   "lines": [
+    [
+     6,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Author aequo et candido lectori S. P. D."
+  },
+  {
+   "scan": 9,
+   "line": 1,
+   "lines": [
+    [
+     9,
+     1
+    ],
+    [
+     9,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "De occultis medicamentorum proprietatibus: quid, & quotuplices ea sint: quibus in morbis, quomodo, quando, quem in curationibus usum habeant. Authore Thoma Erasto medico."
+  },
+  {
+   "scan": 9,
+   "line": 3,
+   "lines": [
+    [
+     9,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. I. Proœmium tractationis."
+  },
+  {
+   "scan": 10,
+   "line": 2,
+   "lines": [
+    [
+     10,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. II. Propositio præsentis disputationis."
+  },
+  {
+   "scan": 11,
+   "line": 2,
+   "lines": [
+    [
+     11,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. III. De nominum distinctione."
+  },
+  {
+   "scan": 11,
+   "line": 4,
+   "lines": [
+    [
+     11,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. IIII. An detur occulta proprietas."
+  },
+  {
+   "scan": 13,
+   "line": 2,
+   "lines": [
+    [
+     13,
+     2
+    ],
+    [
+     13,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. V. De quaestionis propositae difficultate."
+  },
+  {
+   "scan": 14,
+   "line": 2,
+   "lines": [
+    [
+     14,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. VI. De varietate opinionum circa praesentem quaestionem."
+  },
+  {
+   "scan": 15,
+   "line": 2,
+   "lines": [
+    [
+     15,
+     2
+    ],
+    [
+     15,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. VII. Occultae rerum potestates non sunt à cælo."
+  },
+  {
+   "scan": 17,
+   "line": 2,
+   "lines": [
+    [
+     17,
+     2
+    ],
+    [
+     17,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. VIII. Proprietates latentes non sunt idem quod forma."
+  },
+  {
+   "scan": 21,
+   "line": 1,
+   "lines": [
+    [
+     21,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. IX. Abdita potestates non sunt formarum substantialium potentia."
+  },
+  {
+   "scan": 31,
+   "line": 2,
+   "lines": [
+    [
+     31,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. X. An proprietates occultae sint temperamenti vires."
+  },
+  {
+   "scan": 31,
+   "line": 4,
+   "lines": [
+    [
+     31,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. XI. Proprietates occultae non sequuntur temperamenta."
+  },
+  {
+   "scan": 33,
+   "line": 2,
+   "lines": [
+    [
+     33,
+     2
+    ],
+    [
+     33,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. XII. Duo sunt genera occultarum proprietatum."
+  },
+  {
+   "scan": 38,
+   "line": 2,
+   "lines": [
+    [
+     38,
+     2
+    ],
+    [
+     38,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. XIII. De occultarum proprietatum definitionibus."
+  },
+  {
+   "scan": 39,
+   "line": 2,
+   "lines": [
+    [
+     39,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. XIIII. De formarum origine."
+  },
+  {
+   "scan": 41,
+   "line": 2,
+   "lines": [
+    [
+     41,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. XV. Quis formarum dator sit."
+  },
+  {
+   "scan": 43,
+   "line": 2,
+   "lines": [
+    [
+     43,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. XVI. An rerum formae ab astris pendeant."
+  },
+  {
+   "scan": 45,
+   "line": 1,
+   "lines": [
+    [
+     45,
+     1
+    ],
+    [
+     45,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. XVII. Philosophiae studio nihil detrahi, si Deus ponatur rebus cunctis formas indere."
+  },
+  {
+   "scan": 46,
+   "line": 2,
+   "lines": [
+    [
+     46,
+     2
+    ],
+    [
+     46,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. XVIII. De mundi aeternitate nonnulla dicuntur."
+  },
+  {
+   "scan": 48,
+   "line": 2,
+   "lines": [
+    [
+     48,
+     2
+    ],
+    [
+     48,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. XIX. Aristoteles nullibi explicatè docet, quid putauerit virtutem formatricem esse."
+  },
+  {
+   "scan": 49,
+   "line": 2,
+   "lines": [
+    [
+     49,
+     2
+    ],
+    [
+     49,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. XX. Epilogus supradictorum."
+  },
+  {
+   "scan": 50,
+   "line": 1,
+   "lines": [
+    [
+     50,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. XXI. Occulta prima speciei vires non magnum habent in medendo vsum."
+  },
+  {
+   "scan": 52,
+   "line": 1,
+   "lines": [
+    [
+     52,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. XXII. Occultae pharmacorum vires à temperamento seu materia fere proveniunt: non ab essentiali formarum proprietate."
+  },
+  {
+   "scan": 53,
+   "line": 2,
+   "lines": [
+    [
+     53,
+     2
+    ],
+    [
+     53,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. XXIII. Quanam qualitatibus manifestis & quae viribus occultis siue totis substantijs in nos agere dicantur."
+  },
+  {
+   "scan": 55,
+   "line": 1,
+   "lines": [
+    [
+     55,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. XXIIII. Quid per totam substantiam intelligere conueniat, plenior expositio."
+  },
+  {
+   "scan": 56,
+   "line": 2,
+   "lines": [
+    [
+     56,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. XXV. Quae à tota substantia agunt, non omnibus materiae partibus semper agunt."
+  },
+  {
+   "scan": 58,
+   "line": 2,
+   "lines": [
+    [
+     58,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. XXVI. Duo sunt hepaticorum medicamentorum genera: occultum & manifestum."
+  },
+  {
+   "scan": 60,
+   "line": 1,
+   "lines": [
+    [
+     60,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. XXVII. Quot sint differentiae seu species pharmacorum abdita virtute agentium."
+  },
+  {
+   "scan": 61,
+   "line": 2,
+   "lines": [
+    [
+     61,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. XXVIII. De vsu medicamentorum maleficorum, & Alexiteriorum."
+  },
+  {
+   "scan": 62,
+   "line": 2,
+   "lines": [
+    [
+     62,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. XXIX. Plura esse genera quàm quatuor virtute occulta agentium."
+  },
+  {
+   "scan": 64,
+   "line": 1,
+   "lines": [
+    [
+     64,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. XXX. Ad quod genus hepatica, splenica, nephritica, &c. referenda sint."
+  },
+  {
+   "scan": 64,
+   "line": 3,
+   "lines": [
+    [
+     64,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. XXXI. Enumerantur species medicamentorum occultorum particularium: & quis eorum in curationibus vsus sit indicatur."
+  },
+  {
+   "scan": 67,
+   "line": 2,
+   "lines": [
+    [
+     67,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. XXXII. Reprehensio eorum, qui in quouis morbo statim ad occultas vires confugiunt."
+  },
+  {
+   "scan": 68,
+   "line": 2,
+   "lines": [
+    [
+     68,
+     2
+    ],
+    [
+     68,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. XXXIII. De occultis Comitialium remedijs nonnulla."
+  },
+  {
+   "scan": 69,
+   "line": 2,
+   "lines": [
+    [
+     69,
+     2
+    ],
+    [
+     69,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. XXXIIII. Cur quidam tantopere abominentur feles."
+  },
+  {
+   "scan": 73,
+   "line": 2,
+   "lines": [
+    [
+     73,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. XXXV. Responsio ad primam quæstionem."
+  },
+  {
+   "scan": 74,
+   "line": 2,
+   "lines": [
+    [
+     74,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. XXXVI. Refellitur Galeni nuper citata sententia."
+  },
+  {
+   "scan": 75,
+   "line": 2,
+   "lines": [
+    [
+     75,
+     2
+    ],
+    [
+     75,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. XXXVII. An pharmaca inueniantur vi occulta certis solum partibus vel amica vel inimica."
+  },
+  {
+   "scan": 77,
+   "line": 1,
+   "lines": [
+    [
+     77,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. XXXVIII. Nullum pharmacum occulta vi, quae actu in eo insit, in vnam partem solam, aliis praeteritis agit."
+  },
+  {
+   "scan": 79,
+   "line": 2,
+   "lines": [
+    [
+     79,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. XXXIX. Dissoluitur obiectio, quæ aduersus modo dicta adduci posset."
+  },
+  {
+   "scan": 80,
+   "line": 2,
+   "lines": [
+    [
+     80,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. XL. Pharmaca actum à nobis accipientia non agunt in partem vnam solam."
+  },
+  {
+   "scan": 82,
+   "line": 1,
+   "lines": [
+    [
+     82,
+     1
+    ],
+    [
+     82,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. XLI. Modus explicatur, quo Cantharides tam velociter ad vesicam perferuntur."
+  },
+  {
+   "scan": 84,
+   "line": 1,
+   "lines": [
+    [
+     84,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. XLII. Pharmaca noxia non ducuntur à facultate corpus regente ad partes iniuria obnoxias."
+  },
+  {
+   "scan": 85,
+   "line": 2,
+   "lines": [
+    [
+     85,
+     2
+    ],
+    [
+     85,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. XLIII. De medicamentis pectus purgantibus."
+  },
+  {
+   "scan": 86,
+   "line": 2,
+   "lines": [
+    [
+     86,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. XLIIII. De sanguine hircino: qua vi calculos rumpat."
+  },
+  {
+   "scan": 88,
+   "line": 1,
+   "lines": [
+    [
+     88,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. XLV. De Galerita viribus in colicis sanandis: & Lupino stercore."
+  },
+  {
+   "scan": 90,
+   "line": 2,
+   "lines": [
+    [
+     90,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. XLVI. Quatenus medicamenta à tota substantia certis partibus praecipuè prodesse aut nocere putandum sit."
+  },
+  {
+   "scan": 92,
+   "line": 2,
+   "lines": [
+    [
+     92,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. XLVII. Duo sunt alimentorum genera certis partibus conuenientia."
+  },
+  {
+   "scan": 93,
+   "line": 2,
+   "lines": [
+    [
+     93,
+     2
+    ],
+    [
+     93,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. XLVIII. Responsio ad secundam quaestionem: & quid Artifex imperito in his praestet."
+  },
+  {
+   "scan": 94,
+   "line": 2,
+   "lines": [
+    [
+     94,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. L. Proprietates occultas fecunda speciei coniectura indagari posse."
+  },
+  {
+   "scan": 96,
+   "line": 2,
+   "lines": [
+    [
+     96,
+     2
+    ],
+    [
+     96,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. LI. Qua via Veteres rerum vires occultas inuestigasse videantur."
+  },
+  {
+   "scan": 98,
+   "line": 2,
+   "lines": [
+    [
+     98,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. LII. Cranium humanum, &c. male propinari Epilepticis."
+  },
+  {
+   "scan": 99,
+   "line": 2,
+   "lines": [
+    [
+     99,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. LIII. An & cur Brassica vitibus inimica sit."
+  },
+  {
+   "scan": 102,
+   "line": 1,
+   "lines": [
+    [
+     102,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. LIIII. Responsio ad quaestionem tertiam de Roborantibus."
+  },
+  {
+   "scan": 144,
+   "line": 2,
+   "lines": [
+    [
+     144,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. LV. Responsio ad quaestionem quartam, an iuuantia & roborantia eadem sint cum deducentibus."
+  },
+  {
+   "scan": 145,
+   "line": 2,
+   "lines": [
+    [
+     145,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. LVI. Responsio ad quaestionem quintam, de purgantibus: quae in ventre manere, non ad affecta loca ire ostenditur."
+  },
+  {
+   "scan": 149,
+   "line": 2,
+   "lines": [
+    [
+     149,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. LVII. Purgantium partem nullam in fumos verti, qui adversus affectum locum progressi purgationem efficiant."
+  },
+  {
+   "scan": 154,
+   "line": 1,
+   "lines": [
+    [
+     154,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. LVIII. De nimia purgatione, quam ὑπερκάθαρσιν Graeci vocant."
+  },
+  {
+   "scan": 155,
+   "line": 1,
+   "lines": [
+    [
+     155,
+     1
+    ],
+    [
+     155,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. LIX. Plurima purgare erosione & mordicatione sola."
+  },
+  {
+   "scan": 158,
+   "line": 2,
+   "lines": [
+    [
+     158,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. LX. Historia quorundam, quibus solo odore purgantium aluus turbatur."
+  },
+  {
+   "scan": 161,
+   "line": 2,
+   "lines": [
+    [
+     161,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. LXI. Perperam purgantibus misceri ad affectam partem ea deducentia."
+  },
+  {
+   "scan": 162,
+   "line": 2,
+   "lines": [
+    [
+     162,
+     2
+    ],
+    [
+     162,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. LXII. Quomodo purgantia, si non abeunt ad partes ægrotantes, eas iuuent?"
+  },
+  {
+   "scan": 165,
+   "line": 2,
+   "lines": [
+    [
+     165,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. LXIII. Epilogus eorum, quæ de purgantibus disputata sunt."
+  },
+  {
+   "scan": 166,
+   "line": 2,
+   "lines": [
+    [
+     166,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. LXIIII. De viribus hydrargyri nonnulla."
+  },
+  {
+   "scan": 167,
+   "line": 1,
+   "lines": [
+    [
+     167,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. LXV. De viribus & Antimonij vsu quadam."
+  },
+  {
+   "scan": 171,
+   "line": 2,
+   "lines": [
+    [
+     171,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Cap. LXVI. Refutatio rationis, qua Paracelsici vsum Stibij commendant."
+  },
+  {
+   "scan": 176,
+   "line": 1,
+   "lines": [
+    [
+     176,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Explicatio trium quaestionum de medicamentorum purgantium facultatibus: quibus tota fere natura eorum declaratur."
+  },
+  {
+   "scan": 194,
+   "line": 2,
+   "lines": [
+    [
+     194,
+     2
+    ],
+    [
+     194,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Quaestio secunda. Pharmaca purgantia non purgant trahendo."
+  },
+  {
+   "scan": 228,
+   "line": 2,
+   "lines": [
+    [
+     228,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Quaestio tertia."
+  },
+  {
+   "scan": 241,
+   "line": 1,
+   "lines": [
+    [
+     241,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Index copiosus rerum in utraque disputatione memorabilium."
+  }
+ ],
+ "book": "Thomas Erastus, Heidelberg 1574 (Basel, Pernus): a volume of two works, the Disputatio de occultis medicamentorum proprietatibus (66 numbered chapters) and the Disputatio de medicamentorum purgantium facultate (three quaestiones), preceded by a dedication and an address to the reader and followed by a combined subject index.",
+ "series": [
+  {
+   "label": "Cap.",
+   "first": "I",
+   "last": "LXVI",
+   "count": 66,
+   "level": 2,
+   "found": 67
+  },
+  {
+   "label": "Quaestio",
+   "first": "I",
+   "last": "III",
+   "count": 3,
+   "level": 2,
+   "found": 67
+  }
+ ],
+ "taste": 50,
+ "doubt": "",
+ "input": 32659,
+ "output": 31550
+}
