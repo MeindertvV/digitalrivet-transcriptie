@@ -1,0 +1,38 @@
+Translating 12 group(s) into English with claude-haiku-5-5, effort medium, batch
+Submitted batch msgbatch_01CuWAa8ynx5vp9jA6TVbzsc with 12 group(s)
+Batch msgbatch_01CuWAa8ynx5vp9jA6TVbzsc: 12 processing, 0 done, 0 errored
+Batch msgbatch_01CuWAa8ynx5vp9jA6TVbzsc: 12 processing, 0 done, 0 errored
+Batch msgbatch_01CuWAa8ynx5vp9jA6TVbzsc: 12 processing, 0 done, 0 errored
+Batch msgbatch_01CuWAa8ynx5vp9jA6TVbzsc: 12 processing, 0 done, 0 errored
+Batch msgbatch_01CuWAa8ynx5vp9jA6TVbzsc: 12 processing, 0 done, 0 errored
+Batch msgbatch_01CuWAa8ynx5vp9jA6TVbzsc: 12 processing, 0 done, 0 errored
+Batch msgbatch_01CuWAa8ynx5vp9jA6TVbzsc: 12 processing, 0 done, 0 errored
+    note: unit(s) [12] without the italics of the Latin
+  10.1: ok  [14 units, 2220 out (962 thinking), $0.0006, total $0.00]
+  12.11: 7 of 17 units ok, unit(s) ['12.16', '12.18', '12.21'] next to a unit that failed; unit(s) ['12.17'] much longer than the Latin; unit(s) ['12.22', '12.23', '12.24', '12.25', '12.26', '12.27'] missing  [17 units, 837 out (637 thinking), $0.0002, total $0.00]
+  17.22: ok  [2 units, 6459 out (3358 thinking), $0.0018, total $0.00]
+  29.3: 3 of 6 units ok, unit(s) ['29.3', '29.12'] next to a unit that failed; unit(s) ['29.4'] much longer than the Latin  [6 units, 2072 out (1540 thinking), $0.0006, total $0.00]
+  29.1: ok  [2 units, 57 out, $0.0000, total $0.00]
+  28.17: ok  [1 units, 769 out (463 thinking), $0.0002, total $0.00]
+  30.1: ok  [6 units, 579 out (221 thinking), $0.0002, total $0.00]
+  8.1: ok  [23 units, 1462 out (1108 thinking), $0.0005, total $0.00]
+  22.19: ok  [2 units, 402 out, $0.0002, total $0.00]
+  13.1: ok  [7 units, 7660 out (4581 thinking), $0.0021, total $0.01]
+  23.8: ok  [3 units, 4529 out (1293 thinking), $0.0014, total $0.01]
+  9.1: ok  [11 units, 693 out, $0.0002, total $0.01]
+Retrying 2 group(s) with units left directly
+    note: unit(s) [7, 8] without the italics of the Latin
+  12.16: ok  [10 units, 961 out (816 thinking), $0.0007, total $0.01]
+  29.3~2: FAILED: unit(s) ['29.3', '29.12'] next to a unit that failed; unit(s) ['29.4'] much longer than the Latin  [3 units, 1574 out (1224 thinking), $0.0011, total $0.01]
+  29.3~3: FAILED: unit(s) ['29.3', '29.12'] next to a unit that failed; unit(s) ['29.4'] much longer than the Latin  [3 units, 1501 out (1153 thinking), $0.0008, total $0.01]
+  29.3~4: FAILED: unit(s) ['29.3', '29.12'] next to a unit that failed; unit(s) ['29.4'] much longer than the Latin  [3 units, 1644 out (1304 thinking), $0.0009, total $0.01]
+  29.3: translating its 3 remaining units one by one
+  29.3~5: ok  [1 units, 33 out, $0.0001, total $0.01]
+  29.4: FAILED: unit(s) ['29.4'] much longer than the Latin  [1 units, 1086 out (817 thinking), $0.0006, total $0.01]
+  29.4~2: FAILED: unit(s) ['29.4'] much longer than the Latin  [1 units, 1055 out (803 thinking), $0.0006, total $0.01]
+  29.4~3: FAILED: unit(s) ['29.4'] much longer than the Latin  [1 units, 1120 out (830 thinking), $0.0006, total $0.01]
+  29.12: ok  [1 units, 10 out, $0.0001, total $0.01]
+Translated 1 of 1 running head(s)  [$0.0002]
+1 group(s) failed, listed in /home/user/digitalrivet-transcriptie/out/W08098_Wyss_Explicationes_systematis_theologici_Dn_Wollebii_in_disputati_1677/translation_en/failed.txt
+Spent this run: $0.013
+93 of 94 units translated -> /home/user/digitalrivet-transcriptie/out/W08098_Wyss_Explicationes_systematis_theologici_Dn_Wollebii_in_disputati_1677/translation_en.json

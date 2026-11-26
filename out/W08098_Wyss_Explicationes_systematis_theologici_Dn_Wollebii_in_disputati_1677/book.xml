@@ -193,8 +193,46 @@
     </bottom_margin>
     <notes>The first line of the text is partly cut at the top of the scan; a Greek word (ἀρχὴν) appears in the text. Ligature marks and the italic abbreviations (q; for -que) are kept as printed.</notes>
   </page>
-  <page type="missing" n="12">
-    <warning type="missing_page">page 12 was not transcribed: invalid XML: junk after document element: line 10, column 0</warning>
+  <page type="title" lines="ocr" n="12" model="claude-haiku-5-5">
+    <warning type="catchword_in_text">catchword taken out of the main text: I. Theo-</warning>
+    <layout>One printed page, left part of a title opening: a woodcut frieze at the top, then the title lines in capitals and italic, then a large woodcut initial P with the first lines of text beside and below it. No margin notes visible. Only the left part of the page is on this scan.; One block of text in the left part of the scan, a large title with a woodcut ornament above it, a historiated initial at the start of the paragraph; the printed page continues to the left and the right side is blank. No marginal notes.</layout>
+    <page_number>A 3</page_number>
+    <running_head>CHRISTIANÆ THEOLOGIÆ Exegesis</running_head>
+    <bottom_margin>
+      <signature>A 3</signature>
+      <catchword>I. Theo-</catchword>
+    </bottom_margin>
+    <main_text>
+      <l n="1">[ornamental woodcut frieze]</l>
+      <l n="2">CHRI</l>
+      <l n="3">THEO</l>
+      <l n="4">PRÆC</l>
+      <l n="5">E</l>
+      <l n="6">P[large woodcut initial]</l>
+      <l n="7" para="true">ratione, tandem ejusdem</l>
+      <l n="8" para="true">mô; <i>ista</i> Canone Tertiô</l>
+      <l n="9" para="true">Neq; cujusq; Theologiæ</l>
+      <l n="10" para="true">quæ sunt Christianæ, cuj</l>
+      <l n="11" type="heading" level="1" para="true">CHRISTIANÆ THEOLOGIÆ PROLEGOMENA.</l>
+      <l n="12" type="heading" level="2" para="true">Exegesis.</l>
+      <l n="13" para="true">Ræcognita vel Pro-</l>
+      <l n="14">legomena sunt, quæ</l>
+      <l n="15">viam sternunt mate-</l>
+      <l n="16">riæ, quæ ad tractan-</l>
+      <l n="17">dum est proposita.</l>
+      <l n="18">Constant Prolegome-</l>
+      <l n="19">na, quæ præsentis</l>
+      <l n="20">sunt tractationis, mem-</l>
+      <l n="21">bris tribus; Theologiæ</l>
+      <l n="22">Definitione, Principij</l>
+      <l n="23">Theologiæ commemoratione</l>
+      <l n="24">partitione. <i>Illa</i> Præceptô prima;</l>
+      <l n="25">
+        <i>hæc</i> præceptô ultimô traditur.</l>
+      <l n="26">Præcognita hic traduntur, sed</l>
+      <l n="27">ius summa est Christus.</l>
+    </main_text>
+    <notes>The title lines are cut off at the right edge of this part; the continuation lies in the other part. The initial P is a large woodcut; its letter is taken as P. Several words at the line ends are cut and are given as printed on this part only. The left part of the scan is cut off; the first line of the title and the start of the lines are incomplete. The large initial R is a woodcut letter. The catchword "I. Theo-" is a line at the foot of the text, read as a signature-line word and left in the text.</notes>
   </page>
   <page type="text" lines="ocr" n="13" model="claude-haiku-5-5">
     <layout>One printed page, single column of running text. Above the text a decorative ornament band (not text). Then a chapter number "I.", a centred title in italic, a centred subheading "Exegesis.", then the body paragraphs in one column. No marginal notes. No page number or running head visible.</layout>
