@@ -1,0 +1,834 @@
+{
+ "work": "W06110_Ramus_Dialectica_Audomari_Talaei_praelectionibus_illustrata_1585",
+ "made": "2026-11-26T00:25:18",
+ "model": "claude-haiku-5-5",
+ "prompt": "655260ce46aa8978",
+ "candidates": 327,
+ "cost_usd": 0.0195,
+ "dropped": [],
+ "toc": [
+  {
+   "scan": 6,
+   "line": 1,
+   "lines": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "P. Ramus. Lectori S."
+  },
+  {
+   "scan": 8,
+   "line": 1,
+   "lines": [
+    [
+     8,
+     1
+    ],
+    [
+     8,
+     2
+    ],
+    [
+     8,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Epistola. Secuta per Henricum regem à judicii tâ demētis invidia liberatio, & in solidam sanctioris judicii laudem regia professio?"
+  },
+  {
+   "scan": 9,
+   "line": 1,
+   "lines": [
+    [
+     9,
+     1
+    ],
+    [
+     9,
+     2
+    ],
+    [
+     9,
+     3
+    ],
+    [
+     9,
+     4
+    ],
+    [
+     9,
+     5
+    ]
+   ],
+   "level": 1,
+   "title": "Index capitum, quae duobus Dialecticae libris, & eorum commentariis tractantur: primus numerus paginam, secundus lineam significat."
+  },
+  {
+   "scan": 34,
+   "line": 15,
+   "lines": [
+    [
+     34,
+     15
+    ],
+    [
+     34,
+     16
+    ]
+   ],
+   "level": 1,
+   "title": "Petro Ramo D.D.D."
+  },
+  {
+   "scan": 36,
+   "line": 1,
+   "lines": [
+    [
+     36,
+     1
+    ],
+    [
+     36,
+     2
+    ],
+    [
+     36,
+     3
+    ],
+    [
+     36,
+     4
+    ]
+   ],
+   "level": 1,
+   "title": "P. Rami Dialecticae liber I. De inuentione."
+  },
+  {
+   "scan": 36,
+   "line": 5,
+   "lines": [
+    [
+     36,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Caput I. Quid dialectica."
+  },
+  {
+   "scan": 56,
+   "line": 1,
+   "lines": [
+    [
+     56,
+     1
+    ],
+    [
+     56,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput II. De partibus Dialecticae & inventionis."
+  },
+  {
+   "scan": 69,
+   "line": 1,
+   "lines": [
+    [
+     69,
+     1
+    ],
+    [
+     69,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput III. De efficiente procreante & conservante."
+  },
+  {
+   "scan": 76,
+   "line": 1,
+   "lines": [
+    [
+     76,
+     1
+    ],
+    [
+     76,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput IIII. De efficiente sola & cum aliis."
+  },
+  {
+   "scan": 79,
+   "line": 14,
+   "lines": [
+    [
+     79,
+     14
+    ],
+    [
+     79,
+     15
+    ]
+   ],
+   "level": 2,
+   "title": "Caput V. De efficiente per se & per accidens."
+  },
+  {
+   "scan": 85,
+   "line": 4,
+   "lines": [
+    [
+     85,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Caput VI. De Materia."
+  },
+  {
+   "scan": 88,
+   "line": 1,
+   "lines": [
+    [
+     88,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Caput VII. De Forma."
+  },
+  {
+   "scan": 92,
+   "line": 21,
+   "lines": [
+    [
+     92,
+     21
+    ]
+   ],
+   "level": 2,
+   "title": "Caput VIII. De Fine."
+  },
+  {
+   "scan": 98,
+   "line": 9,
+   "lines": [
+    [
+     98,
+     9
+    ]
+   ],
+   "level": 2,
+   "title": "Caput IX. De Effectu."
+  },
+  {
+   "scan": 107,
+   "line": 1,
+   "lines": [
+    [
+     107,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Caput X. De subjecto."
+  },
+  {
+   "scan": 115,
+   "line": 23,
+   "lines": [
+    [
+     115,
+     23
+    ],
+    [
+     115,
+     24
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XI. De Adjuncto."
+  },
+  {
+   "scan": 121,
+   "line": 24,
+   "lines": [
+    [
+     121,
+     24
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XII. De Diversis."
+  },
+  {
+   "scan": 126,
+   "line": 15,
+   "lines": [
+    [
+     126,
+     15
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XIII. De Disparatis."
+  },
+  {
+   "scan": 130,
+   "line": 19,
+   "lines": [
+    [
+     130,
+     19
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XIIII. De Relatis."
+  },
+  {
+   "scan": 135,
+   "line": 26,
+   "lines": [
+    [
+     135,
+     26
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XV. De Adversis."
+  },
+  {
+   "scan": 139,
+   "line": 17,
+   "lines": [
+    [
+     139,
+     17
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XVI. De Contradicentibus."
+  },
+  {
+   "scan": 145,
+   "line": 13,
+   "lines": [
+    [
+     145,
+     13
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XVII. De Privantibus."
+  },
+  {
+   "scan": 149,
+   "line": 16,
+   "lines": [
+    [
+     149,
+     16
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XVIII. De Paribus."
+  },
+  {
+   "scan": 167,
+   "line": 29,
+   "lines": [
+    [
+     167,
+     29
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XIX. De Majoribus."
+  },
+  {
+   "scan": 174,
+   "line": 3,
+   "lines": [
+    [
+     174,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XX. De Minoribus."
+  },
+  {
+   "scan": 181,
+   "line": 4,
+   "lines": [
+    [
+     181,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXI. De Similibus."
+  },
+  {
+   "scan": 196,
+   "line": 9,
+   "lines": [
+    [
+     196,
+     9
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXII. De Dissimilibus."
+  },
+  {
+   "scan": 206,
+   "line": 11,
+   "lines": [
+    [
+     206,
+     11
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXIII. De Conjugatis."
+  },
+  {
+   "scan": 210,
+   "line": 27,
+   "lines": [
+    [
+     210,
+     27
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXIIII. De Notatione."
+  },
+  {
+   "scan": 215,
+   "line": 16,
+   "lines": [
+    [
+     215,
+     16
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXV. De Distributione."
+  },
+  {
+   "scan": 226,
+   "line": 7,
+   "lines": [
+    [
+     226,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXVI. De Distributione ex causis."
+  },
+  {
+   "scan": 233,
+   "line": 5,
+   "lines": [
+    [
+     233,
+     5
+    ],
+    [
+     233,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXVII. De Distributione ex effectis: ubi de genere & specie."
+  },
+  {
+   "scan": 258,
+   "line": 17,
+   "lines": [
+    [
+     258,
+     17
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXVIII. De Distributione é subjectis."
+  },
+  {
+   "scan": 260,
+   "line": 29,
+   "lines": [
+    [
+     260,
+     29
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXIX. De Distributione ex adjunctis."
+  },
+  {
+   "scan": 263,
+   "line": 5,
+   "lines": [
+    [
+     263,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXX. De Definitione."
+  },
+  {
+   "scan": 274,
+   "line": 1,
+   "lines": [
+    [
+     274,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXXI. De Descriptione."
+  },
+  {
+   "scan": 280,
+   "line": 26,
+   "lines": [
+    [
+     280,
+     26
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXXII. De Testimonio divino."
+  },
+  {
+   "scan": 289,
+   "line": 22,
+   "lines": [
+    [
+     289,
+     22
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XXXIII. De Testimonio humano."
+  },
+  {
+   "scan": 303,
+   "line": 1,
+   "lines": [
+    [
+     303,
+     1
+    ],
+    [
+     303,
+     2
+    ],
+    [
+     303,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Petri Rami Dialecticae liber II. De judicio."
+  },
+  {
+   "scan": 303,
+   "line": 4,
+   "lines": [
+    [
+     303,
+     4
+    ],
+    [
+     303,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Caput I. Quid judicium & enuntiatum, enuntiatio, affirmatio & negatio."
+  },
+  {
+   "scan": 314,
+   "line": 11,
+   "lines": [
+    [
+     314,
+     11
+    ]
+   ],
+   "level": 2,
+   "title": "Caput II. De Differentiis veri & falsi."
+  },
+  {
+   "scan": 338,
+   "line": 16,
+   "lines": [
+    [
+     338,
+     16
+    ]
+   ],
+   "level": 2,
+   "title": "Caput III. De Enuntiato simplici."
+  },
+  {
+   "scan": 352,
+   "line": 1,
+   "lines": [
+    [
+     352,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Caput IIII. De Enuntiato copulato."
+  },
+  {
+   "scan": 357,
+   "line": 25,
+   "lines": [
+    [
+     357,
+     25
+    ]
+   ],
+   "level": 2,
+   "title": "Caput V. De Enuntiato connexo."
+  },
+  {
+   "scan": 362,
+   "line": 9,
+   "lines": [
+    [
+     362,
+     9
+    ]
+   ],
+   "level": 2,
+   "title": "Caput VI. De Enuntiato disgregato."
+  },
+  {
+   "scan": 364,
+   "line": 13,
+   "lines": [
+    [
+     364,
+     13
+    ]
+   ],
+   "level": 2,
+   "title": "Caput VII. De Enuntiato disjuncto."
+  },
+  {
+   "scan": 374,
+   "line": 3,
+   "lines": [
+    [
+     374,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput VIII. De Syllogismo."
+  },
+  {
+   "scan": 393,
+   "line": 21,
+   "lines": [
+    [
+     393,
+     21
+    ],
+    [
+     393,
+     22
+    ]
+   ],
+   "level": 2,
+   "title": "Caput IX. De prima specie primi generis."
+  },
+  {
+   "scan": 415,
+   "line": 4,
+   "lines": [
+    [
+     415,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Caput X. De secunda specie primi generis."
+  },
+  {
+   "scan": 428,
+   "line": 6,
+   "lines": [
+    [
+     428,
+     6
+    ],
+    [
+     428,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XI. De secundo genere syllogismi simplicis."
+  },
+  {
+   "scan": 455,
+   "line": 14,
+   "lines": [
+    [
+     455,
+     14
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XII. De Syllogismo connexo."
+  },
+  {
+   "scan": 466,
+   "line": 8,
+   "lines": [
+    [
+     466,
+     8
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XIII. De Connexo secundo."
+  },
+  {
+   "scan": 476,
+   "line": 6,
+   "lines": [
+    [
+     476,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XIIII. De Disjuncto primo."
+  },
+  {
+   "scan": 481,
+   "line": 20,
+   "lines": [
+    [
+     481,
+     20
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XV. De Disjuncto secundo."
+  },
+  {
+   "scan": 490,
+   "line": 17,
+   "lines": [
+    [
+     490,
+     17
+    ],
+    [
+     490,
+     18
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XVI. De Methodo secundum Aristotelem unica."
+  },
+  {
+   "scan": 564,
+   "line": 9,
+   "lines": [
+    [
+     564,
+     9
+    ],
+    [
+     564,
+     10
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XVII. De Prima methodi illustratione per exempla artium."
+  },
+  {
+   "scan": 585,
+   "line": 5,
+   "lines": [
+    [
+     585,
+     5
+    ],
+    [
+     585,
+     6
+    ],
+    [
+     585,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XVIII. De secunda Methodi illustratione per exempla poetarum, oratorum, historicorum."
+  },
+  {
+   "scan": 597,
+   "line": 6,
+   "lines": [
+    [
+     597,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "Caput XIX. De Crypticis Methodi."
+  }
+ ],
+ "book": "Petrus Ramus, Dialectica (Basel 1585), Ramus's text with Audomarus Talaeus's praelectiones interleaved: front matter (address to the reader, letter to the king, index of chapters, dedicatory verses to Ramus), then Liber I (De inuentione, Caput I-XXXIII), then Liber II (De judicio, Caput I-XIX), ending with closing verses.",
+ "series": [
+  {
+   "label": "Liber",
+   "first": "I",
+   "last": "II",
+   "count": 2,
+   "level": 1,
+   "found": 6
+  },
+  {
+   "label": "Caput",
+   "first": "I",
+   "last": "XXXIII",
+   "count": 52,
+   "level": 2,
+   "found": 52
+  }
+ ],
+ "taste": 50,
+ "doubt": "",
+ "input": 49316,
+ "output": 19870
+}
