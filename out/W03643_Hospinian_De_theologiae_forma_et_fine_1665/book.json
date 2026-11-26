@@ -1,0 +1,820 @@
+{
+ "source": "W03643_Hospinian_De_theologiae_forma_et_fine_1665.pdf",
+ "pages": [
+  {
+   "n": 1,
+   "type": "title",
+   "model": "claude-haiku-5-5",
+   "number": "7a",
+   "lines": [
+    {
+     "n": null,
+     "text": "GYMNASII THEOLOGICI",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Disputatio nona,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "De",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "THEOLOGIÆ",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "FORMA, ET",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "FINE.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Quam,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Favente Deo Ter-Opt-Max.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Sub Præsidio",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Plurimum Reverendi, Doctissimi,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "& Celeberrimi Viri,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "JOH. HENR. HOTTINGERI,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "S.S. Theologiæ Doctoris, ejusdémque in",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Lyceo Patrio Professoris primarii, p. t. Scholarchæ",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Magnifici, Mæcenatis, ac Fautoris sui",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "summè colendi,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Publicæ disquisitioni subjectam pro-",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "pugnare conabitur",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "RODOLPHUS HOSPINIANUS,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "S.S. Theologiæ Candidatus,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Loco horisque solitis die Maÿ",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "TIGURI,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Anno M DC LXV.",
+     "heading": 0
+    }
+   ],
+   "notes": "Handwritten \"7a\" at top right is not print and is given only as page_number reference. Background show-through from the reverse page is ignored. The date \"Maÿ\" is printed with a decorative sign before it; the day numeral appears to be missing or lost in the scan (blank gap after \"die\"). Long s rendered as s throughout."
+  },
+  {
+   "n": 2,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "merged_lines",
+     "text": "1 line(s) contain several printed lines merged together (longest 256 chars, median 61); line numbering is unreliable"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "Viris Nobilissimis, Amplissimis, Prudentissimis, Dn. JOH. HENRICO HIRZELIO, Tribuno-plebis prudentissimo.",
+     "heading": 1,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "Dn. ANDREÆ SCHMIDIO, Comitatus Kyburgici Præfecto gravissimo.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "Dn. JOH. HULDRICO ÆSCHERO, Baronatus Alto-Saxensis nuper Præfecto meritissimo.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "Dn. JOSEPHO ORELLIO, Mercatori spectatissimo.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "<i>Vt &</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "<i>Viris Reverendis, Clarissimis, Doctissimis,</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "Dn. JOH. JACOBO HULDRICO, Ecclesiæ Tigurinæ Antistiti Celeberrimo.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 8,
+     "text": "Dn. JOH. CONRADO HULDRICO, ejusdem Ecclesiæ Archidiacono dignissimo.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 9,
+     "text": "Dn. JOH. HENRICO HOSPINIANO, Ecclesiæ Reformatæ ad Fines, <i>Pastori</i> vigilantissimo.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 10,
+     "text": "Suo è sacri Baptismatis fonte susceptori, Cognatis, Patronis, Fautoribus eximiis, Avunculo, Patruo, omni officiorum & observantiæ genere colendis, honorandis, præsentem hanc Disputationem in grati animi, debitæque observantiæ σφεγγίδα consecratam esse vult",
+     "heading": 0,
+     "para": true,
+     "merged": true
+    },
+    {
+     "n": 11,
+     "text": "RODOLPHUS HOSPINIANUS.",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "notes": "The word \"Pastori\" in the red ink near \"Fines\" is a handwritten or stamped addition in colour, transcribed as shown. The Greek word after \"observantiæ\" is printed as σφεγγίδα in the scan and is uncertain [?]. The Greek word is rendered approximately; the printed form may differ. Dedication text is set in mixed roman and italic type."
+  },
+  {
+   "n": 3,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: , quàm"
+    },
+    {
+     "type": "doubtful",
+     "text": "\"...\" in the text: a passage was skipped or a remark written as print"
+    },
+    {
+     "type": "merged_lines",
+     "text": "1 line(s) contain several printed lines merged together (longest 258 chars, median 10); line numbering is unreliable"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "I.",
+     "heading": 1,
+     "caput": "1",
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "ORma sequitur Theologiæ Systematicæ, tum <i>interna</i>, tum <i>externa</i>. <i>Illa</i> est harmonia locorum communium, ceu materiæ proximæ, cum verbo Dei, tanquam materia remota: <i>Hæc</i> verò eorundem dispositio secundum Canones Logicæ Geneticos.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "Canones A <i>Etsi, ad declarandum vel illustrandum, Antiquitati etiam, consuetudini, consensui Adversariorum, rationi deniq; magnus sit in rebus Theologicis usus; probationes tamen materiarum simplicium, & merè Theologicarum ex sola peti possunt & debent Scriptura. Antiquitatem</i> Reformata Theologia non respuit: Hæc enim, quid factum olim sit, quæ ratio Ecclesiæ, & doctrinæ in ea, obtinuerit, affatim suppeditat. <i>Consuetudinis</i> etiam indicium, ubi Scriptura illa sequitur cynosuram, non est contemnendum. <i>Adversariorum consensus</i> causam nostram, multis sæpe liberat difficultatibus; evidenterque, immeritò nostram propterea odio premi Ecclesiam, quæ, totidem verbis, in Adversariorum, ubi sobrii sunt, reperiuntur scriptis, ostendit. De <i>ratione</i> supra jam à nobis actum est. Habent tamen hæc omnia in Reformatorum Theologia usum potiùs <i>indicativum</i>, & <i>vindicativum</i>: quàm <i>judicativum</i> & <i>decisivum</i>: Hic enim ex sola Scriptura petendus.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "B. <i>Systematica Theologia, quò arctius Methodi Logicæ est astricta legibus, eò etiam propius, & ad causæ Efficientis mentem accedit; & Finem, cateráque, quorum in tractatione locorum communium habenda est ratio, facilius assequitur.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "Sunt nonnulli ἀπαιδεύτοι qui, ut disciplinarum & artium oculum Reginæ nostræ Theologiæ, eruant, nihil relinquunt intentatum. Eam proinde Logicæ regulis, veluti vinculis, dirigi posse aut astringi, pertinaciter negant. Tales verò in ipsum Theologiæ authorem, <i>Deum</i>, peccant. Est ille μεταθλιβώδης ... Ordinis nempe Deus est, tam in <i>producendo</i>",
+     "heading": 0,
+     "para": true,
+     "merged": true
+    }
+   ],
+   "catchword": "quàm",
+   "signature": "A 2",
+   "notes": "Greek words in the last paragraphs are transcribed approximately; the Greek at \"ἀπαιδεύτοι\" and \"μεταθλιβώδης\" is doubtful. The last line of the page is partly illegible at the right edge. The Greek word before \"Ordinis\" is [?]. Woodcut border and initial are decorative only."
+  },
+  {
+   "n": 4,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "quàm <i>revelando.</i> Ipse Ideam praescripsit Tabernaculi & Arcæ Fœderis: Cur in spiritualis ædificii structura, Ecclesia, neque muslim ferat, neque regulam ? Si inter sapientiæ divinæ refertur elogia & effecta, quod orbem coelestem fecerit בתבונה <i>cum intelligentia, prudentia</i> (quod aliud nihil est, quàm artificiosè, Methodicè) <i>Psalm.</i> 136. 5. <i>Prov.</i> 3.19.Si ipsa se exerut πολυποικιλῶ σοφία Θεοῦ in revelatione gratiosæ per Christum redemtionis, cur ejusdem nulla habeatur ratio in universi illius ἐδαφος explicatione ? Sed & <i>Finis</i> Systematicæ tractationis, Methodi lucem necessariò requirit. <i>Superiorum seculorum eo nomine infelicior fuit praxis,</i> quòd non modò ipsæ in Scholis inter se confunderentur materiæ, sed dispositionis negligeretur beneficium: confusè proponebantur, quæ distinctè percipi debebant. Nulla vel materiarum ὁμογένεια observabatur, vel ordinis συνάφεια. Atq; hinc tam enormes & veterum, & recentiorum, ut plurimum, errores. Ex <i>illis</i> Pseudochristiani legem ab Evangelio; illius ἀδυναμίαν, quam vocat <i>Apostolus</i> Rom. 8.v.3. ab hujus δυνάμει Rom. I. v.16. non poterant distinguere. Unde perniciosa illa Legis cum Evangelio κρίσεως; quæ superioribus aliquot seculis in Scholas etiam Christianorum periculosissimos invexit errores, illum præsertim, quo radix Justificationis, cum sanctificationis fructu turpiter fuit commixta. <i>Alii,</i> vel nimia brevitate obscuri, vel prolixitate tædiosi posteros σωφρονέσης adhibere φρονίδας docuerunt. Unde, ut in sanctuarium Theologicum veram inferrent mensuram, justúmque pondus, hoc est, ut Methodi observatis legibus omnia, suo loco, breviter exhiberent, & perspicuè, singularem illi impenderunt operam. Atque sic paulatim id erant consecuti, ut cùm Cursus antea Theologicus multis vix annis absolvi potuerit; brevissimis jam ad metam properetur compendiis: Tantum utrinque discrimen. Neque verò mirum. Magna enim & spe successus, & insignis laboris præmio fraudarentur, si, qui emissitiis, ut ajunt, oculis, quid primum, quid medium, quid ultimum sit, lustrârunt, plus non viderent, quàm qui ultima primis miscent, causas effectis, vix per transennam vel observantes, vel indicantes,",
+     "heading": 0
+    }
+   ],
+   "notes": "Greek and Hebrew words are transcribed as far as legible; the Greek terms in the middle of the page are partly uncertain (e.g. \"πολυποικιλῶ\", \"ἐδαφος\", \"σωφρονέσης\", \"φρονίδας\", \"κρίσεως\") and may contain errors. The Hebrew word \"בתבונה\" is read as printed. The page shows no page number or running head."
+  },
+  {
+   "n": 5,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "tes, quâ tutissimè, in studio Theologico, eundum esset via. <i>Mate-riarum</i> accedit ubertas, quæ, nisi, accuratè secernatur, confusi-onem facilè pariet, & turpem Legis ὁμογενείας contemptum. Quin & <i>objecta</i> variant. Aut enim instituendi sunt ignari, aut redarguendi falsi, aut corrigendi mali, aut confirmandi boni: modò astruendum, modò destruendum. Cur ergò, pro diver-sitate materiæ, non alia atque alia magis expedita & utilis esse possit Methodus? Fræno, calcaribus, ephippio opus est, ante-quam insessoris commoda sit equitatio. Et ad hanc metam, si-ne subsidio, præcipites vel imparati ruamus? Quòd si ad Ocea-ni Theologici vastitatem, nautarum, remigū &c. tum imperi-tia accedat, tum tarditas, quàm, si non periculosa, lenta saltem & sinuosa erit navigatio? Ne vadum quidem hic, sine antenna, sine velis, remis aut cynosura tentandum.",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "C. In Systematica Methodo pro diversitate Subjecti, Objecti, & Finis, vel authoritative procedendum, vel ratiocinative, vel utroque modo.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "Non ergò eadem ubique observari potest Methodi ratio. Attendendum ad diversitatem <i>I. Subjectorum</i>. Sunt, quibus πῶλα ἀδολον <i>lac sincerum</i>, non adulteratum, prima rudimenta, per definitiones, divisiones, & Canones instillari debent. Atque sic, ut non abesse potest <i>authoritas</i>, Scripturæ præsertim, quæ sola sufficit; ita nec prorsus otiatur <i>ratio</i>. Sunt deinde adulliores, qui longius progressi, Systemata capiunt non minus authoritative, <i>Scripturâ</i> probata, <i>Patribus</i> illustrata, aliorum etiam <i>Theologorum</i> calculo suffulta; quàm <i>rationum</i> pondere sustentata. <i>II. Objectorum</i>, sunt ex Adversariis, quorum <i>alii</i> Scripturæ authoritatem elevant, alii Patres rejiciunt. <i>Alii</i> contrà, & illam venerantur, & hos admittunt. Ut ergò in militia corporali ea; quæ per hostium esse & valere possunt artes & stratagemata; arripimus arma: ita etiam in spirituali certamine, non à nobis simpliciter, sed ab adversariorum sæpe indole armorum selectus dependet: quanquam cum grano salis hæc sint accipienda. Nullius, vel astutissimi vafritie, πανοπλία Scripturæ sacræ nobis est extorquenda: Si tamen, salva ejus apud nos authoritate, cum Adversariis, qui forum",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "catchword": "rum",
+   "signature": "A 3",
+   "notes": "Greek words (ὁμογενείας, πῶλα ἀδολον, πανοπλία) are reproduced as best read from the scan; the Greek on \"lac sincerum\" line is uncertain. Two sections in the text (\"C.\" and \"I.\", \"II.\") are italicised and may be heading-like; the \"C.\" paragraph is treated as a heading. The page number is not printed; the signature \"A 3\" is at the foot."
+  },
+  {
+   "n": 6,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: illæ"
+    },
+    {
+     "type": "merged_lines",
+     "text": "1 line(s) contain several printed lines merged together (longest 232 chars, median 32); line numbering is unreliable"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "rum ejus detrectant, congrediendum; si, in principiis ab iis nobis concessis aliquid relinquatur subsidii, cur usum ejus negligamus? Ita contra Judæos ex Talmude, contra Muhammedanos ex Alkorano, Gentiles ex Platone, Aristotele &c. <bl>καὶ' ἀνθρώπων</bl> licebit argumentari. <i>III. Finis.</i> Et hujus accurata habenda est ratio. Prout enim tractatio nostra vel <bl>καθ' ὰ συμπλοκὴν</bl> de fine Theologiæ <i>totali</i> solicita est, vel singulis ejus & diversis tradendi modis: ita vel <i>authoritativa</i>, vel <i>ratiocinativa</i>, vel <i>utraque</i> adhibenda est Methodus. Qui enim hoc tantum agit, ut prima Didacticè proponat Christianismi fundamenta, illi satis fuerit, <i>authoritativè</i>, S.Sc. testimoniis, ea tradidisse munita. Qui verò controversias <i>polemicè</i> tractare instituit, omnia ille conquiret arma: ordine tamen, ita ut ex <i>Scriptura</i> primam; ex <i>Patribus, consensu Adversariorum, ratione &c.</i> sequentes instruat acies. Quòd si enim Adversarius in certamine Theologico, causæ suæ patrocinium vel in Patribus quærat, vel ratiocinio, licebit & nobis, incolumi semper sacrarum literarum authoritate, causæ nostræ bonitatem in iisdem experiri. Id fecit <i>Iuellus</i> contra Hartum, quando ad primorum seculorum Patres provocatum fuit. Idem & nobis fuit scopus in scripto nostro <i>Hodegetico</i>; ostendere nempe, non nostras ab exemplo & mandato Dominico discessisse Ecclesias; sed ipsas illas, quæ tam gravi, sine ratione, nos onerant reatu.",
+     "heading": 0,
+     "merged": true
+    },
+    {
+     "n": 2,
+     "text": "D. <i>Etsi parum referat, utra Methodo, Systemata nostra Scholastica procedant, Synthetica an Analytica, seculi tamen fata ad analysin potius, quàm Synthesin nos trahere videntur.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "Non malè quidam de Systematica: <i>tot Methodos esse, quot capita.</i> Et tamen si vel plures maximè essent, omnes vel <bl>κατὰ σύνθεσιν</bl> procedere, vel <bl>καθ' ἀνάλυσιν</bl>, necesse est. Utraque iterum ad <bl>διχοτομίαν</bl> fere redit. Vulgò enim Theologia dividitur, vel, ratione <i>Objecti</i>, in <i>Deum</i>, & opera seu actiones ejus: vel <i>Partium</i>, in Legem & Evangelium; æquipollenter in <bl>πολογικὴν & θεολογικὴν</bl>. Ab aliis in fœdus Naturæ, & Gratiæ: In notitiam Dei, ejusque cultum in <bl>πίστιν, πρᾶξιν</bl>: In fidem & fidei actiones: In fidem, spem & charitatem. Quanquam verò omnes",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "catchword": "illæ",
+   "notes": "Greek passages are copied from a small, rough print; accents and breathings in the Greek words are uncertain and may not match the printed forms exactly. The marginal note at \"III. Finis\" and the small marks at the left edge are not legible as text. Possible printing error: \"Hartum\" (for Hartum/Harum) left as printed."
+  },
+  {
+   "n": 7,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    },
+    {
+     "type": "repaired_xml",
+     "text": "missing or unbalanced tag(s) repaired by the script; the words are unchanged"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "illæ divisiones satis sint convenientes, & commodè in <i>principia & principiata</i>, in <i>finem</i> & <i>media</i> corpus Theologicum dispesci possit; nuper tamen, cùm de facili locorum Theologicorum distributione cogitaremus, <i>τεῖχοτομίαν</i> instituere placuit. <i>Prima</i> pars, <i>Θεολογία</i> stricte dicta, de Deo agit. <i>Secunda</i>, <i>Ἀγγελο-γεραφία</i>, de Angelis. <i>Tertia</i>, <i>Ἀνθρωπολογία</i> de Homine; excellentissimis Creatoris creaturis. In <i>illa</i> Dei consideranda occurrunt 1. Nomina. 2. Essentia. 3. Attributa. 4. Personæ, consideratæ tum <i>καθ' Θεολογίαν</i>, & <i>καθ' ἑαυτὸς</i>; tum <i>καθ' οἰκονομίαν</i>, & <i>καθ' ἡμᾶς</i>. 5. Operibus tàm Naturæ, quàm Gratiæ; Et in his tum revelatio <i>Subjectiva</i>, Scriptura sacra: tum <i>objectiva</i>, principia religionis Christianæ, inde deducta. <i>Ἀγγελογραφία</i> exhibet 1. Nomina. 2. Essentiam. 3. Attributa. 4. Discrimen, cujus respectu alii boni sunt, alii mali. 5. Effectâ. In <i>ἀνθρωπολογία</i> tradenda 1. hominum accepta à Deo gratuita <i>beneficia</i>. 2. justissima ejusdem in illos judicia; debita denique <i>officia</i>. <i>Beneficia</i> vel communia sunt, ut Creatio, Providentia, vocatio generalis, ad præconium verbi, & usum Sacramentorum; ubi de Ecclesia, ejusque natura & variostatu: Resuscitatio. <i>Propria</i> electis sunt Regeneratio, Fides, Vocatio efficax, justificatio, sanctificatio, glorificatio. <i>Iudicia</i> verò, Reprobatio, induratio, damnatio, mors æterna. <i>Officium</i> denique est <i>religio</i>, sive cultus, quo creatura Creatori, Redemtori redemtus obstringitur; tum internus, tum externus: qui consideratur tum <i>in se</i>, & absolutè, ex Dei mandato, hominisque debito: tum <i>relatè</i>, pro diverso quatuor statuum hominis respectu. Haberet fortè hæc Methodus lumen perfectionis, perspicuitatis, homogeneias, facilitatis. Et quamvis eadem in diversis capitibus recurrere videatur materia, adeò tamen diversis illud contingit rationibus, ut lux inde major exspectanda, quàm insulsa <i>ταυτολογία</i> metuenda. Suo hic quisque abundare potest sensu, & Methodi instituere selectum, modò ad usum omnia dirigantur, & publicam Ecclesiæ ædificationem. Monuimus autem, Analyticam his exulceratis nostris temporibus non malè convenire. Sive enim contra Satanæ technas, & tyrannorum insidias",
+     "heading": 0
+    }
+   ],
+   "notes": "Greek words in the text are transcribed as closely as the scan allows; several Greek words (e.g. τεῖχοτομίαν, Ἀγγελογραφία) are doubtful. The last word \"fidias\" is printed at the right below the last line, as a catchword-like line; it is kept as the final line of text."
+  },
+  {
+   "n": 8,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: quit."
+    },
+    {
+     "type": "merged_lines",
+     "text": "1 line(s) contain several printed lines merged together (longest 602 chars, median 99); line numbering is unreliable"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "sidias pusillo Gregi paranda sint arma; sive impiorum, effrænorum, atheorum pulsanda pectora, à progressu Analytico successus sperandus certissimus. A judicio ultimo, & animarum immortalitate tractationis Theologicæ faciendum initium, sive solatii fontes aperire velimus afflictis, sive perfrictas emollire frontes. Quam primùm de justitia, continentia, & ultimo judicio verba fecisset Paulus, Felix Præfectus ἔμφοβος ἐγένετο, Act. 24.25. Si qui forte rideant, Sardonius risus est, quo neque cauterio ullam conscientiam sanare miseri possunt, neque vel imminentem jam, vel certè futuram eludere poenam.",
+     "heading": 0,
+     "merged": true
+    },
+    {
+     "n": 2,
+     "text": "E. <i>Neque præter rem fuerit, si Theologus unum quemque locum communem charactere certo expresserit, signoque ἀλληγορικῶς Auditoribus, in ipso statim Theologicæ institutionis vestibulo, distinxerit.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "Idque non uno modo, ℵ κατὰ διδασκαλίαν. Ita Caput de Theologia ποιμνίλιον quoddam vocari potest, & <i>atrium</i> sancti sanctorum: Futuræ enim tractationis materiam ostendit, & dulcissimum ejus ingerit προγυμνασμα. <i>Scriptura</i> fundamentum est, cui universa religionis structes innititur. <i>Mysterium</i> de SS. Trinitate <i>primaria fidei Christianæ palæstra est</i>; in qua reverenter suscipi debet, quod scrupulosè investigari non potest. <i>Decretorum</i> ordo & origo <i>fons</i> sunt omnis spei nostræ in Christo & <i>solatij</i>, quo sine omnia turbida invenies & lutulenta. <i>Creationis & providentiæ</i> opera sunt <i>malleus</i>; quo atheismi hydra conteritur. <i>Lex</i>, tum nativæ nostræ corruptionis <i>speculum</i> est, tum <i>norma & amussis</i> castigatæ vitæ. <i>Peccatum</i>, ejusque poena, & justitiæ divinæ <i>vindices</i> sunt, & miseriæ nostræ <i>indices</i>. In <i>Evangelio</i>, ejusque authore Christo, & <i>Panacea</i> nobis proponitur, & <i>paries intergerinus</i>, quo oves Christi ab hædis, Orthodoxi ab Heterodoxis, Catholici ab Hæreticis maximè distinguuntur. Caput de Ecclesia est <i>Centrum</i>, ad quod reliquarum quæstionum omnium σκοπεία tendit. Nam qui hujus doctrinæ capita rectè est assecutus, in cæteris plurimùm juvabitur: Et qui veræ Ecclesiæ membrum est, bonis & privilegiis illi acquisitis defraudari nequit.",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "catchword": "quit.",
+   "notes": "Greek words are transcribed as closely as the scan allows and may contain errors; the marginal words \"Acts\" and the stray \"quit.\" at the foot of the page are taken as printed. A faint stain on the left margin is ignored. Several italic words are uncertain where the scan is faint."
+  },
+  {
+   "n": 9,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "quit. Unde omnium fere de hoc capite prima est cura. Est <i>asy-lum</i>, quo, qui recepti sunt, servantur: <i>Terra Gosen</i>, extra quam tenebris omnia involvuntur; <i>Arca Noë</i>, extra quam non est salus. Doctrina <i>Sacramentalis</i>, est totius quidem fidei Christianæ σφεγγὶς & sigillum; sed hominum malitiâ, in perpetuam militiam, & acerbum contentionis pomum conversa: Imò Ecclesiæ militantis molestissima, quam tot seculis reciprocavit, <i>serra. Vocatio, fides, resipiscentia, justificatio, sanctificatio, perseverantia</i> & Electorum <i>privilegia</i> sunt, & <i>Effecta Electionis</i>, per quæ, <i>à posteriori</i> tum de nostra, tum de aliorum salute, ex revelata charitatis regula non obscure possumus judicare: Sunt interioris judæi seu confessoris, de quo Apostolus, <i>Rom. 2. v. 29.</i> περιτομὴ καρδίας. <i>Resurrectio</i> trophæum est fidelium: <i>Vita æterna</i>, est cœlestis illa, quam ex gratia expectamus, Ecclesiæ triumphantis corona, omniúmque certaminum nostrorum βεβαῖον.",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "3. Ratione <i>Elenchi</i>: Singula quoque capita sua habent γνωρίσματα. Etsi enim vix materia occurrat Theologica, in quâ diversi diversimodè non impingant; reperias tamen, qui uni alicui Capiti, versutiæ & impietatis suæ potissimum admovent arietes. <i>Pontificy</i> maximè aptât lacertos in controversiis, de Scriptura, de Lege, Peccato, Libero arbitrio, Ecclesia, Sacramentis, Iustificatione, Sanctificatione, Glorificatione: <i>Anabaptistæ</i> de Scriptura, Lege, Christo, Sacramentis, Magistratu, Glorificatione: <i>Socinians</i> cum aliis Novatoribus, quicquid obvium, aut sanum est, veluti tineæ & blattæ, arrodunt, iis maximè infensi locis, quæ vel <i>sublimitate</i>, & Majestate <i>subjectiva</i>; vel <i>amplitudine</i> atque necessitate <i>objectiva</i> præcipuè eminent, ut sunt loca de Theologia, Deo, Essentia, Personis, & decretis, Providentia, peccato, Lege, Christi persona, officio & merito, justificatione, mortuorum Resurrectione, &c.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "1 Sed &, <i>necessitatis</i> respectu, alia Theologiæ capita facere ad <i>esse simpliciter</i>, alia ad <i>bene esse</i>: Alia requiri ad integritatem <i>partium essentialium</i>; alia <i>graduum distinctorum</i>: Alia ad com-",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "signature": "B",
+   "notes": "Printed text is in Latin with Greek words; Greek forms transcribed as legible. Several Greek words and the word \"Socinians\" were partly unclear at this scan resolution. The paragraph-number \"3.\" and \"1\" at the starts of paragraphs may be marginal or sectional marks; the \"1\" may be a misprint for a different sign. The last line is broken at the page edge (\"com-\"), continuing on the next page."
+  },
+  {
+   "n": 10,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "compositionem <i>Systematicam</i>, alia ad conjunctionem <i>animo-rum</i>, jam supra ostendimus.",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "7. Neque usu carebit, aut compendii beneficio, si ad eas cujuslibet Loci diligenter attendatur quaestiones & materias, quae, ut <i>in se</i>, & <i>actu</i> momentosae sunt; ita <i>potentia</i> & <i>eminentia</i> alias complectuntur, qualis, in primo loco, est quaestio de <i>Theologia communi</i>, quae non recte intellecta farraginem obtrudet religionum, discrimen Sacrorum tollet, gratitudinis, Deo, pro discretionis, vel, (ut in Scholis loqui solent) particularitatis gratia, fontes obthurabit. Talis, prae caeteris, est uberrimus ille disputationis indulgentiariae campus, qui, ut Tomo VII. Hist. Ecclesiast. palam facimus, universam de Lege & Evangelio doctrinam complectitur, adeo ut vera religio cum mensis illis Trapeziticis una sede morari non possit.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "F. <i>Quin & singulae sedes sive Loci Communes, quaestiones habent, quae in se, usu & amplitudine praeeunt, respectu vero conclusionum, quae inde formari possunt, cumprimis fertiles sunt, quarum proinde & in repetitionibus cursoriis, & in Examinibus Theologicis succinctioribus exactior habenda ratio.</i> Hoc nomine, Studiosis nostris in cursus Theologici Systemate, commendamus per universum Loci de <i>Theologia</i> quaestiones: An detur Theologia naturalis? An Communis. II. de <i>Scriptura</i>: An Scripturae authoritas & καθ' ἐαυτὴν, & καθ' ἡμᾶς sit Ecclesiā superior, adeoque origins divinae? An sola sit dogmatum & morum principium, Canon, Cynosura? III. de <i>Deo</i>: An Deus ita sit unus essentia, ut tamen trinus, tam in V. quam N. T. revelatur Personis. IV. de <i>Decretis</i>: An Decreta Dei tam immutabilia sint eventu, quam infallibilia praescientia? Sitne praedestinatio ex sola Dei εὐδοκία, an aliqua alia causa externa impellente? An numerus Electorum sit certus? V. de <i>Creatione</i>: Anne Creatio sit opus solius Dei? An Adamus & immortalis, & justitia originali praeditus, sit conditus? VI. de <i>Providentia</i>: an omnia Providentiae Dei subijciantur, bona & mala; magna, parva, & medioxyma? utrum proinde influxu tantum generali, an speci-",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "catchword": "speci-",
+   "notes": "The Greek words in section III (καθ' ἐαυτὴν, καθ' ἡμᾶς, εὐδοκία) are transcribed as best read from the scan; the accents are doubtful. The final word \"speci-\" is a line-end hyphenation, treated as catchword at the foot."
+  },
+  {
+   "n": 11,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "speciali cum creaturis, illa concurrat? VII. de <i>Peccato</i>: Quid sit peccatum originale? An omnes in Adamo peccârint, & peccati originalis rei facti sint? An peccata alia sint venialia, alia mortalia? VIII. de <i>Libero arbitrio</i>: An in homine irregenito ullae supersint vires ad bonum, quae ope Dei excitandae & confirmandae, num vero restaurandae & renovandae sint? An voluntas in statu peccati, ex se, sit indifferens ad bonum & ad malum? An arbitrium, sive voluntas hominis, ab omni necessitate sit liberum? I X. de <i>Poena peccati</i>: An fidelium afflictiones in hac vita sint verae, ac proprie dictae peccatorum poenae? An fidelium infantes absque baptismo decedentes vitâ aeternâ exclusi, poenam si non sensus, damni saltem subeant? X. de <i>Lege Dei</i>: An Christus legem moralem à Mose latam non modo ut imperfectam compleverit, sed etiam, ut doctrinae suae contrariam correxerit? An Concilia Evangelica sint diversa à praeceptis; & meritoria ad satisfaciendum? An salvis Decalogi praeceptis, vel sancti adorari, vel imagines coli, vel dies festi Sanctis destinari possint? An ad Legem Forensem Christiani Magistratus per omnia obligentur? X I. de <i>Evangelio</i>: An Evangelium proprie sic dictum sit doctrina operum, gradu perfectionis distincta à Lege? An foedus gratiae idem sit substantiâ in V. & N. T? XII. de <i>Persona & officio Christi</i>: An Christus carnem & sanguinem ex substantia Virginis Mariae assumserit? An Filius Dei sic assumpserit humanam naturam, ut Christus Deus & homo sit in una persona? An humanae Christi Naturae per unionem personalem, Essentiales Dei proprietates, Omnipraesentia, vis vivificandi sint communicatae? Quo sensu communicatio idiomatum vel verbalis sit, vel realis; propria, vel tropica? Sitne Christus Mediator secundum utramque naturam? An Christus passionibus, sanguine & morte sua, Deo patri pro peccatis nostris satisfecerit, remissionem illorum acquisiverit, sicque λύτρω sui interventu nos verè & proprie redemerit? Loc. XIII. de <i>Ecclesia</i>: Sitne Ecclesia V. & N.T. re, sive substantiâ eadem Ecclesia? An ita sancta sit Ec-clesia",
+     "heading": 0
+    }
+   ],
+   "catchword": "Ecclesia",
+   "signature": "B 2",
+   "notes": "The Greek word λύτρω is printed as \"λύτρω\" (in the scan \"λύτρω\" with a final sigma-like form); doubtful. The catchword \"Ecclesia\" and the signature \"B 2\" are read from the foot. Page number not printed. Some words are broken by the scan's show-through; the transcription follows the visible letters."
+  },
+  {
+   "n": 12,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: ope-"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "clesia, ut expers tamen non sit vel ignorantiæ & erroris in mente, vel defectûs, vitiique in voluntate, adeóque in fide etiam possit errare? An quævis Ecclesiæ particulares visibiles, possint aliquando obscurari, atq; etiam deficere? Sintne duæ tantùm veræ Ecclesiæ notæ? An X V. notæ Bellarmini, sint genuinæ veræ Ecclesiæ notæ? Loc. XIV. de <i>Vocatione Ecclesiæ militantis per Verbum & Sacramenta:</i> An detur gratia sufficiens, quâ possit homo credere, modò velit? Quotuplex sit phraseologia Sacramentalis? An differentia Sacramentorum V. & N.T. consistat in eo, quòd illa adumbrârint gratiam, hæc contineant; illa figuram, hæc ipsum corpus habeant? An, cùm duo tantùm sint N.T. Sacramenta, talia esse possint quinque spuria Pontificiorum Sacramenta? An aquæ Baptismus ad salutem simpliciter sit necessarius? An fidelium infantes sint baptizandi? An verba Cœnæ proprie & literaliter, an verò Tropicè & Sacramentaliter sint intelligenda? An vi verborum consecrationis, panis & vinum verè transsubstantientur in ipsum corpus & sanguinem Christi, externis tantùm speciebus panis & vini remanentibus? An omnis à cœna corporis Christi tollatur præsentia? An falsù sit, communionem sub utraq; specie, Laicis non modò non esse necessariam, sed etiam illicitâ, vel saltem adiaphoram? An impiũ sit asserere, in Cœna peragi verum, externum, & reale sacrificium, Missæ vulgò? Loc. XV. de <i>Gubernatione Ecclesiæ, tum Ecclesiastica, tum Civili:</i> Utrum Regimen Ecclesiæ externum ac ministeriale sit Monarchicum? An Pontifex Romanus sit Antichristus? An sibi rectè sumat Pontifex absolutam potestatem in spiritualibus & temporalibus? An Pastores Ecclesiæ Reformatæ habeant legitimam vocationem? An Concilia indicere, sive cogere, vel iis præesse, vel etiam authoritatem iisdem infallibilem conferre in dogmatibus fidei & Religionis, sit Pontificis Romani? An bona conscientiâ Magistratum gerere, Christianus seu fidelis possit? Loc. XVI. <i>de donatione Resipiscentiæ ac Fidei per Vocationem efficacem:</i> An in prima conversione seu vocatione interna voluntas hominis gratiæ Dei co-",
+     "heading": 0
+    }
+   ],
+   "catchword": "ope-"
+  },
+  {
+   "n": 13,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: curam"
+    },
+    {
+     "type": "merged_lines",
+     "text": "1 line(s) contain several printed lines merged together (longest 394 chars, median 88); line numbering is unreliable"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "operetur? An fidei justificantis objectum præcipuum sive specificum sit promissio specialis misericordiæ in Christo? An forma fidei justificantis recte statuatur fiduciali Christi, ac satisfactionis ejus apprehensio? An vera fides à dilectione possit separari? An verè fideles fidei suæ verè possint esse certi? An fides justificans, quoad immutabile Dei decretum, possit amitti? Loc. XVII. de <i>Justificatione</i>: An fides, & quidem sola, justificet ceu instrumentum? An fides justificet per modum dispositionis tantùm, justificationem videlicet inchoando? An Deus nobis remittat peccata, ex absoluta gratia citra satisfactionem? An, remissa culpa, poena etiam temporalis remittatur? An dentur satisfactiones humanæ pro peccatis sive propriæ, sive alienæ? An obedientia, justitia, & satisfactio Christi nobis imputetur ad justitiam? An fidelis per fidem suam certus esse possit de gratia Dei & remissione peccatorum? Loc. XVIII. de <i>Sanctificatione</i>: An Regeneratio sit opus solius Dei, non simul etiam humanæ voluntatis? An bona opera Sanctorum sint perfectè & absolutè bona? An lex Dei justificatis sit absolutè servatu possibilis? An dentur opera meritoria sive gratiæ ex congruo, sive gloriæ ex condigno? Loc. XIX. de <i>Perseverantia</i>: An perseverantia Sanctorum adeò sit certa, ut totaliter ac finaliter deficere à fide & salute sancti non possint? Loc. XX. de <i>Glorificatione</i>: An vanum sit figmentum de Purgatorio, in quo animæ fidelium purgentur à culpis venialibus? An eadem numero corpora, quæ hic gestârunt singuli, & in morte depositerunt, sint resurrectura?",
+     "heading": 0,
+     "merged": true
+    },
+    {
+     "n": 2,
+     "text": "II. Finis Theologiæ Systematicæ est, ut Theologiæ studiosi necessaria habeant subsidia, <i>quibus</i> ad futuram functionem sacram, sive Scholasticam, sive Ecclesiasticam apti reddantur, ἢ διδακτικοί, non modò in explicatione Locorum communium, sed etiam in applicatione eorundem ad varios in Ecclesia usus: Idque tam in assertione veri, quàm refutatione falsi, verbis utrumque convenientibus & appositis.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "Canones A. <i>Theologus, in tractatione Locorum Communium, tum de rebus solicitus erit; tum de Verbis.</i> Verborum",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "catchword": "Verborum curam",
+   "signature": "B 3",
+   "notes": "Greek word \"ἢ διδακτικοί\" is printed in a small, partly blurred form; transcription uncertain. Lower right corner of the scan is damaged. The paragraph \"II.\" is set as a numbered paragraph and has been marked as a heading, which may be a paragraph in the original."
+  },
+  {
+   "n": 14,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "curam Theologis commendet ℵ mandatum, & exemplum Apostolicum. Paulus discipulo suo Timotheo cordi esse voluit ὑποτύπωσιν ὑγιαινόντων λόγων, expressam sanorum verborum formam. ὑποτύπωσιν ἔχε ὑγιαινόντων λόγων, ὧν παρ' ἐμοῦ ἠκούσατε, expressam teneto formam sanorum sermonum, quos à me audisti, 2. Tim. 1.13. Dignus est locus, qui paulò accuratius expendatur. <i>Primò</i> meminit Apostolus ὑποτύπωσις expressa forma. Syrus habet ܛܘܦܣܐ in cujus Vocis explicatione variè se quidem torsit Tremellius, rationem tamen & Methodum locorum communiū non inepte inde elicuit. <i>Hæc Syra vox, inquit, vix alibi reperitur, ut ex collatione, quid significet, colligi non possit, puto tamen proprie significare formam, cujus singulare est חור usitatum: ac formulas dicit foramina, Metaphora sumta à numulariis, qui in diversis capsulis (quæ speciem habent foraminis) diversa monetarum genera, ordine certo, & sibi constituto, disponunt, ut in promtu singula habeant, quum opus fuerit.</i> Ingeniosa explicatio, sed longè petita Etymi ratio. Neque enim vox חורא pluralis est numeri (terminatione quippe singulari constanter vestita) neque ejus singulare est חור, quod Hebræis foramen significat: neque radix est ex quiescentibus; sed ex eorum classe, quæ ו habent mobile, ut apud Hebræos נוח expiravit, חור albus fuit, albicavit. Commodissimè Syrorum ܛܘܦܣܐ Apostoli ὑποτύπωσι respondet, quâ & lineamenta præformata ad illinendos colores, & impressa menti forma significantur, sive naturalis illa sit, sive acquisita. Est autem, ut ipse loquitur <i>Chrysostomus</i>, translatio à pictoribus mutuata, quasi dixisset: Ἐνετυπωσάμην εἰκόνα σοι τῆς ἀρετῆς, ἐκ τῶν Θεῷ δοκούντων ἀπαίνλων, ὥσπερ τινὰ κανόνα, καὶ ἀρχέτυπον ὑγιεινῶν λόγων εἰς τὴν σὴν ψυχὴν ἐγκεκολαμμένως, <i>Adumbravi tibi imaginem virtutis, omnium, quæ Deo probantur, tanquam regulam, & archetypum sanorum sermonū tibi insculpsi.</i> Eleganter atq;emphaticè Pauli Methodus, & absoluta, & facilis describitur, in ruborem & confusionem eorum, qui cœlum terrâ miscentes, Methodi lumen, revocatis tenebris Ægyptiacis, à terra Gosen, ab Eccle-siis",
+     "heading": 0
+    }
+   ],
+   "catchword": "fiis",
+   "notes": "Printed page is a single column; the running head is absent. Hebrew, Syriac and Greek passages were transcribed as best read; the Syriac and some Hebrew forms are uncertain and should be checked against the scan. The word \"Ecclesiis\" at the foot is a catchword (\"fiis\" as printed), and the faint show-through text at the bottom is omitted."
+  },
+  {
+   "n": 15,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "fiis & Scholis abesse volunt. Nec male Ifa, <i>Bar Ali</i>, Lexicographus Syro-Arabicus <i>ἀνεκδοτ⁠ον</i>, vocabulum, <i>Jia</i> vertit <i>typum</i>, <i>similitudinem</i>, (tabulam) <i>albam</i>, <i>tinctorium &c.</i> Quæ omnia finem à nobis positum confirmant.",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "II. Debet ergò Theologus sua proponere, <i>ὡς ἐν τύπῳ</i>, ut discipulus illa possit tenere, retinere. Alibi monuimus, Arabes hominem ab <i>oblivione</i> appellare, quòd primæ felicitatis jacturam passus, absque subsidio ea, quæ Dei sunt, nec apprehendere, nec retinere possit: juvandus ergò est Doctorum dexteritate.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "III. Apostolus non quorumlibet figmentorum requirit <i>ὑποτύπωσιν</i>; Fabulæ, Apologi &c. ne monitore quidem opus habent vel minorennibus inhærent. Imò <i>χαλεπώτερον μεταμαθάσκειν ἢ διδάσκειν</i>, major dediscendi, quàm addiscendi est difficultas. Ab his proinde Apostolus discipulum suum dehortatur: Profanas & aniles fabulas rejice, 1. Tim. 4. 7. Imò non <i>γεραιώδεις</i>, & sua spurcitie execrabiles tantū proscribere jubemur fabulas, febriculosarum vetularum somnia; sed & <i>σεσοφισμένους μύθους</i>, fabulas artificiosas; & artificiosè compositas, & ad fallendum natas, 2. Pet. 1. 16. ut non ad colum tantùm, sed & Scholam digitum intendant Apostoli, in qua superioribus seculis tantò periculosius fuit peccatum, quantò Scholasticorum nomen in majori & admiratione fuit, & veneratione.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "Hæc Paulus abesse cupit à Christianorum scholis. Hypotypo-sin requirit <i>ὑγιαινόντων λόγων</i>, <i>sanorum sermonum</i>. Non res tantùm sacræ esse debent, ad stateram sanctimonii expensæ; sed ipsi etiam sermones, ipsa verba.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "Dantur etiam <i>λόγοι σαπροί</i>, <i>sermones putridi</i>, Eph. 4. 19. Hos Apostolus ex ore nostro egredi non vult; sed, <i>qui commodus est</i>, ad ædificationis usum, ut gratiam Auditoribus adferat. Dantur <i>λόγοι ἀργοί</i>, <i>sermones otiosi</i>, Matth. 12. 36. de quibus nos reddituros rationem præmonet dulcissimus Servator.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "Non admisit veteris Testamenti Oeconomia ad usum sacrificii pecudem <i>ἀνυπή</i>, aut quocunque vitio notatam. Et nostra <i>λαλιά</i>, quæ est <i>λογική</i>, quidlibet, etiam corruptum, etiam contusum, etiam pestiferum recipiat? Non",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "catchword": "ita",
+   "notes": "Greek and Hebrew/Syriac/Arabic words are partly blurred; the Arabic script words (\"Jia\" vertit and the Arabic forms) are rendered approximately. Several Greek words are uncertain and marked by their approximate form. Possible [?] on Greek readings."
+  },
+  {
+   "n": 16,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "ita Paulus consuluit. Tradantur ergo Studiosis ejusmodi Hypotyposes, équibus & verba castigata habere possint, & res Theologicas. Non admittit Theologia ita vel non: Etiam Monosyllabæ voces ipsam sæpe rerum naturam invertere possunt. Parùm olim discriminis inter ὁμοούσιον Catholicorum, & ὁμοιούσιον Arianorum interesse videbatur, ubi Grammaticorum salutanda fuissent subsellia: In Theologicis tamen castris toto differebant cœlo. Ut ἀρρήτου incarnationis mysterium veteres non modo commodè proponerent, sed & Adversarios è latebris suis educerent, vel unicâ litera, Alpha πρηπικῶ, negotium expedierunt, unionem illam factam esse docentes ἀτρέπτως, ἀλλοιώτως, ἀχωρίστως, ἀσυγχύτως. Qui talia pensi habent; unius literæ neglectu vel contemtu, ipsam amittunt veritatem. De <i>Transsubstantiationis</i> voce & modo ingentia Scholasticorum extant volumina. Sed non ὑμαινόντων ab iis observari λόγων ὑποτυπώσεων alibi jam observavimus. Hæc <i>terminorum simplicium</i> ratio est: Neque in <i>Propositionum</i> integrarum examine Theologus magis erit securus. Assuescet enim cum Paulo de corrupto hominis statu loqui <i>demisse & humiliter</i>, Rom. Cap. 1. 2. 3. de Redemptionis beneficio <i>magnificè</i>, Rom. 3. 8. de decretis <i>reverenter & cum admiratione</i>, Rom. 11. de incarnatione Filii <i>sobriè</i>, & cum <i>veneratione</i>, Tit. 3. de Sacramentis ex <i>traditione</i> non Ecclesiæ, sed <i>Domini</i>, I. Cor. 11. In <i>assertione</i> falsi pressus, & fervidus contra errorem, συμπαθὴς in peccatorem errantem. In <i>explicatione</i> planus, tersus, facilis; in <i>applicatione</i> penetrans, & ἐνσχνήσεως. Quæ omnia nisi à peritis Magistris discat tyro, fructum sui Ministerii inglorius perdet. IV. Eorum denique sermonum Hypotyposin retinere Timotheus jubetur, quos ab Apostolo audivit. Non alieno hic relinquitur locus igni. Non nostra afferendasunt, sed quæ à Christo, ab Apostolis, primaris doctrinæ Christianæ fundatoribus percepimus & hausimus. Non ad Synagogam, Concilia; sed Dominicum & Apostolicum reijcimur tribunal: Inde ergò, & non aliunde nostrorum Systematum derivari debent origines.",
+     "heading": 0
+    }
+   ],
+   "catchword": "Peri-",
+   "signature": "J.",
+   "notes": "The Greek words are printed in small type and are only approximately legible in the scan; the transcription of Greek is uncertain. Faint show-through from the facing page appears below the text and was omitted."
+  },
+  {
+   "n": 17,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "3. <i>Periculum,</i>quod vel ex propriorum terminorum neglectu, vel promiscuo vocum usu, vel plurium <i>ἀχυρολογίαι</i> oboritur. Sunt enim <i>ἀχυρολογίαι, νεωπεισμὸς, καὶ βαρβαρισμὸς</i> vocum, latibula quaedam haereticorum, & heterodoxorum, quibus illi, veluti vehiculis, nova in Ecclesiam introduxerunt dogmata. Haec jam olim querela fuit apud antiquissimos Patres. Valentini <i>Achamot</i> aliud nihil, quàm Hebraeorum חכמה, quod in interpretabile dixit B. Rhenanus. Plane ut Gnosticorum <i>Ιαλδαβαωθ</i> ילרא צבאת <i>Filius Sabaoth:</i>Sabaoth autem veteribus nonnullis idem erat, quod <i>Dominus exercituum. Epiphan.</i> in Panar. p. 45. <i>ὄνομα Σαβαὼθ ἑρμηνεύεται ὑπὸ τῆς ἐβραϊκῆς Διαλέκτου, κυρίου τῶν δυνάμεων.</i> Non aliter <i>Hieronymus,</i>ceu diximus in <i>Fascic.Disput.Heidelb.</i> p. 278. Hoc fascino cum primis usus est Antichristus Orientalis, Muhammed, qui Haereticorum exemplo <i>ἐφαντασίαζε ὀνόμασιν βαρβαρικὰ φιλοπμέμῳ ἀπείρως Δὲ τῶν ὀνομάτων ἀπλήξεως, ἐ ἀπλάσει τῆς ὀνομαλῶ βαρβαρωνυμίας,</i> ut idem ingeniose loquitur <i>Epiphan.</i> p. 39. Et cùm multa hinc inde per Alcoranum occurrant monstra & portenta verborum, quatuordecim tamen potissimum sunt, de quibus ne Oedipus satisfecerit, aut Delius natator. <i>Occurrunt</i> (ita celeberrimus <i>Erpenius</i>) <i>in Capitum initiis in Alkorano hae quatuordecim vocula mystica</i> الم المص المر كهيعص <i>de quarum significatione nihil certi sibi constare ipsi profitentur Arabes, scientiam earum soli ascribentes Deo, ubi Abubecrus socer & successor Muhammedis dixisse fertur: Deum in omnibus suis libris, secreti aliquid sibi servasse, idque in Alcorano esse mystica illa capitum initia. Conjiciunt autem alii literis earum vocum nomina Alcorani, alii juramenta divina, alii alia designari magna in iis credentes latere mysteria. Unde non desunt, qui variis speculationibus & supputationibus Cabbalisticis mira ex iis elicere nituntur, puta Lunae motum, Imperii Saracenici & aliorum periodos, res etiam futuras, & id genus alia, vano & ridiculo prorsus conatu.</i> Eadem audacia & Scholae Christianorum novis paulatim & inusitatis primis seculis",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "catchword": "culis;",
+   "signature": "C",
+   "notes": "Greek and Arabic lines are transcribed as best read from the scan; the Arabic and some Greek words are only approximate. The Hebrew and Arabic in the text are uncertain in places."
+  },
+  {
+   "n": 18,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: sit"
+    },
+    {
+     "type": "merged_lines",
+     "text": "1 line(s) contain several printed lines merged together (longest 280 chars, median 67); line numbering is unreliable"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "culis, terminis Scholasticis, nova & prodigiosa obtruserunt dogmata, Ceremonias, regiminis rationes. Quot latent υπολα, sub Graeca, vel semi-Graeca λατρειας, δουλειας, & υπερδουλειας distinctione? Quot voluminum & disputationum plaustra sola peperit Transsubstantiationis vocula? <i>Indulgentia</i> usu deterrimos factosChristianos, ne Pontificii ausint negare. <i>Purorum naturalium</i> figmentum, quàm & gratiæ Dei, & primæ creationi statui insidiosum est vocabulum? <i>Monarchia</i> Pontificiæ nomine totus fere contremuit orbis.",
+     "heading": 0,
+     "merged": true
+    },
+    {
+     "n": 2,
+     "text": "<i>B. Felix autem esse poterit Theologiæ Systematicæ Auditor, si ita explicationem Doctoris fideliter imbibat, ut applicationis initium feliciter faciat à se ipso.</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "Theologiæ Studiosus non debet tantum esse ἀκροατὴς, ἀλλὰ ποιητὴς, ex regula Jacobi cap.I.v.22. Proinde non satis est, didicisse eum, <i>doctrinam de Theologia</i>, in genere, esse τερπνὸν ἀθλιον, atrium quoddam sanctum: Primæ ejus cogitationes, ne vel illotis manibus studia illa contrectet, vel pollutis pedibus ea contaminet, esse debent. Ad hunc montem Zionis, quod Deus ipse ab eo abesse vult, ne afferat. Nullam artem vel illiberalem esse cogitet, quæ non cum precibus requirat laborem: Quid igitur illa non desideret, quæ est Ars Artium, & Regina disciplinarum? Vix indignius Studii Theologici dignitatem, quàm ab iis, qui otio tempus terunt, & in lecto molli venerandâ ejus jacere scientiam somniant (quasi compressis manibus stando defungi possent) prostitui, tristi comperimus experientia.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "Multum est, ex primis compendii Systematici cognoscere principiis, <i>Sacram Scripturam</i>, unicam fidei & vitæ esse regulam; fundamentum, cui veritas religionis est innixa, ne Angelo quidem, ut aliud annunciet Evangelium, esse permissum; <i>Galat.1.v.8</i>. Quo verò aliorum id didicit commodo, si suo probaverit exemplo, aliam se & vitæ agnoscere regulam, & fidei sequi cynosuram, rationem, consuetudinem &c? Quantæ laudis est, pro veritate fontium Hebraeorum & Graecorum adeò acriter, in publicis etiam congressibus, certare, & tamen vix supremis eos degustare velle labris?",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "Præclarum est, ex sacris Pandectis didicisse, non modò quòd",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "catchword": "sit",
+   "notes": "Greek words in the lines are transcribed as best read from the scan; accents and the Greek of \"Kαταλογος\"-type forms are approximate. The final line is cut off at the foot of the page. Upper and lower edges show faint show-through, not transcribed."
+  },
+  {
+   "n": 19,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: est"
+    },
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "sit Deus, sed & <i>quid</i> sit, & <i>qualis</i> sit. Ubi vero ratio hic luxuriat, ubi Scholae sibi nimium sumunt, & vel otiosas Studiosi de Deo movent quaestiones, vel non <i>rem</i> tantum, sed & <i>modum rei</i>, modulo suae capacitatis metiri volunt; ubi terminis Scholasticis abstrusissima confecta dare conantur mysteria, negant utique, non sine rei Christianae incommodo, vel mysterium esse S.S. Trinitatem, vel <i>fidei palaestram</i>, revelationis summum apicem. Qui hic <bl>αὐθαδεσ</bl> nimium indulgent, & vel impias, vel indignas de Deo proponunt quaestiones, illius Ciceroniani memores esse deberent: <i>Mala & impia consuetudo est, contra Deos</i> (etiam de vero Deo, ultra praescriptas verbi lineas) <i>disputandi, sive ex animo hoc fiat, sive simulate</i>. 2. de Nat. Deor. Articulum cum primis de Praedestinatione neque spinosis controversiis Theologiae Studiosus involvat, neque impiis cavillis eludat, neque tamen affectata humilitate negligat. Exemplo praeat modestiae, & cum <i>Paulo</i> quidem exclamet: <i>Ὦ βάθος πλούτου, καὶ σοφίας, καὶ γνώσεως Θεοῦ· ὡς ἀνεξερεύνητα τὰ κρίματα αὐτοῦ, καὶ ἀνεξιχνίαστοι αἱ ὁδοὶ αὐτοῦ</i>, Rom. XI. v. 33. ex eodem tamen & ipse discat, & alios doceat, <i>firmum stare fundamentum Dei, & habere hoc sigillum: Novit Deus qui sunt sui</i>, 2. Tim. II. v. 19. Quicquid adversi evenerit; aliis probet, quam sit illis, qui hanc retinent anchoram, tutus portus. Corpus amitti posse, animam non item; Luc. XII. 5. Petrum, Paulum, Latronem graviter labi, diu Diaboli laqueis detineri potuisse, seduci tamen vel finaliter, vel totaliter; Matth. XXIV. v. 24. aut Christi manibus eripi, non potuisse; Ioh. X. v. 28. Et cum ne pilus quidem de capite nostro cadat; Matth. X. v. 30. cur non minus anima, sanguine Christi, filii Dei redempta?",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "Qui <i>Legem</i> Dei aliis, veluti certissimam regendae, dirigendaeque vitae suae cynosuram commendatam vult; ipse vero cursum suum alio obliquat, lineas praescriptas turbat aut transilit, ad Legem & testimonium non attendit, quem institutionis suae polliceri sibi ausit fructum? <i>Turpe est Doctori, si culpa redarguit ipsum</i>; <bl>ἀπρόσκλητον</bl> est. Si addas: <i>At fateor monitis sum minor ipse meis</i>; confessionis hoc quidem speciem saepe habet, sed scandalum propterea non tollit. Si Lucerna pedi nostro",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "catchword": "est",
+   "signature": "C 2"
+  },
+  {
+   "n": 20,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "line_split",
+     "text": "no usable OCR layer: paragraphs could not be split into printed lines"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "est Lex Jehovæ, & sux itineri nostro; <i>Psalm.</i> 1 19. v. 105. noh ve-luti myopes oculos claudere debemus, nostrumque sequi intelle-ctum, tenebris prorsus immersum.",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "Poterit <i>peccati</i> deformitatem Canonibus Systematicis aliis ponere ab oculos, qui vitiis ad ambas aures ingurgitatus est ipse? Prompta & expedita est derisorũ exceptio: Si peccatum monstro-sa est bestia, si venenatus serpens est, ut quid ita in smu illud fovent, & veluti fœtum lambunt illi, qui suis adeò alacres sunt rhetorica-tionibus? Asser Davidem, <i>2.Sam.</i> 12. v. 13. Danielem, cap. 9. v. 5. Publicanum, <i>Luc.</i> 11. v. 13. qui & peccati sui agnoverunt fœdita-tem, & humiles se Throno gratiæ Dei abjecerunt; Doctoris tamen desit exemplum, nomen Dei blasphemiæ exponitur, præconium fit inane, voxque auribus forte illapsa, cordis penetralia non tan-git; ipse vero Evangelii cursus periculose sufflaminatur.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "Quo cum fructu, aut successu, de <i>panacea</i> Evangelii, vel omniũ Theologorum volvet scripta, vel verba facie[t] vocatione sua digna Minister, nisi ipse aliis, magni se illam facere, debitâ reverentiâ, sin-gularique desiderio eam excipere, & amplecti, solicitè denique de gratitudine & sostro esse anxium, ostenderit? Non illi tantũ pec-cant, qui hanc medicinam plane respuunt, aut in ea non acquie-scant, sanctorum merita Christi satisfactionibus admiscentes; sed & cæteri, qui rationem & modum admittendæ illius, oblatam à cœlesti illo Archiatro non poscunt.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "De Privilegiis <i>Ecclesia</i> erudite loqui, garrire est, nisi & tibi, ut iis fruaris, curæ esse, palàm feceris. Non servati olim erant, qui arcam Noæ fabricabant, sed qui ingressi illam fuerunt. Quæ ad Æ-gyptios, cùm omnia nigrescerent tenebris, redire potuisset utilitas, si vel maximè lucis, Israelitis in terra Gosen concessæ, hyperbo-lici fuissent encomiastæ, ipsi interim pedem è tenebrosissimis sedi-bus non movi ssent?",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "Præceptorem, in Scholis <i>Baptismum</i>, lavacrum regenerati-onis appellare; Cathedræ verò consecratum discipulum, in Tem-plis, in conspectu & luce omnium, turpiter se canem; revertentem ad vomitum, & porcum lotum quidem, sed redeuntem ad colluvi-em stercoratam; prodere, quàm turpe est? Nonne præstitisset <i>μὴ ἐπι-γνωκέναι τὴν ὁδὸν τῆς δικαιοσύνης</i> 2. <i>Petr.</i> 2. v. 21. 22. <i>Cœnam Domini</i> & officii in Deum, & mutui inter homines amoris testeram esse, Scholæ satis fideliter tradunt; antiquitate cumprimis suffragante, quæ eam ob causam ab Emphatica <i>ἀγάπης</i> vocula, quâ cœnam Do-mini exprimerent, non abstinuit. At ubi ipse Minister <i>ἀσπνοδ</i>, <i>φίλως, δύσκολ</i>, ægre alios verbis docebit, quod ipse non satis se didicisse opere testatum reddit. Reliqua chartæ arcta spatia non capiunt.",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "notes": "Greek words in the last paragraph are transcribed approximately; the accents and the Greek of \"ἀσπνοδ\"/\"δύσκολ\" are doubtful. The first line begins mid-word (\"est\"), a fragment carried over from the previous page. Some ink is faint in the left margin; no marginal notes are printed."
+  }
+ ]
+}
