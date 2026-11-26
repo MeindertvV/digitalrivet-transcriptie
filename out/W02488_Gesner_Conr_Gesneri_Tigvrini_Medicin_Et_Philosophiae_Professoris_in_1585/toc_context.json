@@ -1,0 +1,2335 @@
+{
+ "work": "W02488_Gesner_Conr_Gesneri_Tigvrini_Medicin_Et_Philosophiae_Professoris_in_1585",
+ "made": "2026-11-26T10:19:43",
+ "model": "claude-haiku-5-5",
+ "prompt": "655260ce46aa8978",
+ "candidates": 1159,
+ "cost_usd": 0.0239,
+ "dropped": [
+  "title 'Tomi I, qui est de animalibus marinis: ordines XVII' moved from 'Tomi I. Ordines XVII. quibus continentur haec.' to 'TOMI II, QVI EST DE ANIMALIBVS AQVATILI-'",
+  "order: {'ids': [40, 41, 42], 'level': 1, 'title': 'Historiae animalium liber II. De quadrupedibus oviparis'}",
+  "order: {'ids': [542, 543, 544], 'level': 1, 'title': 'Historiae insectorum libellus, qui est de scorpione'}",
+  "order: {'ids': [600, 601], 'level': 3, 'title': 'Ordo I. De piscibus fluviatilibus'}"
+ ],
+ "toc": [
+  {
+   "scan": 9,
+   "line": 1,
+   "lines": [
+    [
+     9,
+     1
+    ],
+    [
+     9,
+     2
+    ],
+    [
+     9,
+     3
+    ],
+    [
+     9,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Clarissimo viro D. Valentino Gravio Decimario et senatori Fribergensi"
+  },
+  {
+   "scan": 10,
+   "line": 1,
+   "lines": [
+    [
+     10,
+     1
+    ],
+    [
+     10,
+     2
+    ],
+    [
+     10,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Epistola nuncupatoria"
+  },
+  {
+   "scan": 10,
+   "line": 21,
+   "lines": [
+    [
+     10,
+     21
+    ],
+    [
+     10,
+     22
+    ],
+    [
+     10,
+     23
+    ]
+   ],
+   "level": 2,
+   "title": "Enumeratio quadrupedum oviparorum eo ordine quo in hoc volumine describuntur"
+  },
+  {
+   "scan": 13,
+   "line": 4,
+   "lines": [
+    [
+     13,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "De chalcide seu chalcidica lacerta, quam et sepa nominant"
+  },
+  {
+   "scan": 14,
+   "line": 48,
+   "lines": [
+    [
+     14,
+     48
+    ]
+   ],
+   "level": 2,
+   "title": "De chamaeleonte"
+  },
+  {
+   "scan": 21,
+   "line": 21,
+   "lines": [
+    [
+     21,
+     21
+    ]
+   ],
+   "level": 2,
+   "title": "De crocodilo"
+  },
+  {
+   "scan": 35,
+   "line": 16,
+   "lines": [
+    [
+     35,
+     16
+    ]
+   ],
+   "level": 2,
+   "title": "De crocodilo Nilotico"
+  },
+  {
+   "scan": 35,
+   "line": 29,
+   "lines": [
+    [
+     35,
+     29
+    ],
+    [
+     35,
+     30
+    ]
+   ],
+   "level": 2,
+   "title": "De crocodilo terrestri Aegyptiaco vel Arabico"
+  },
+  {
+   "scan": 36,
+   "line": 1,
+   "lines": [
+    [
+     36,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "De crocodilo terrestri Brasiliensi"
+  },
+  {
+   "scan": 36,
+   "line": 11,
+   "lines": [
+    [
+     36,
+     11
+    ],
+    [
+     36,
+     12
+    ]
+   ],
+   "level": 2,
+   "title": "De scinco, quem et crocodilum terrestrem vocant"
+  },
+  {
+   "scan": 43,
+   "line": 11,
+   "lines": [
+    [
+     43,
+     11
+    ]
+   ],
+   "level": 2,
+   "title": "De scinco ex Bellonio"
+  },
+  {
+   "scan": 43,
+   "line": 21,
+   "lines": [
+    [
+     43,
+     21
+    ]
+   ],
+   "level": 2,
+   "title": "De lacerto aquatico"
+  },
+  {
+   "scan": 44,
+   "line": 37,
+   "lines": [
+    [
+     44,
+     37
+    ]
+   ],
+   "level": 2,
+   "title": "De lacerto"
+  },
+  {
+   "scan": 52,
+   "line": 32,
+   "lines": [
+    [
+     52,
+     32
+    ]
+   ],
+   "level": 2,
+   "title": "De lacerto viridi"
+  },
+  {
+   "scan": 55,
+   "line": 29,
+   "lines": [
+    [
+     55,
+     29
+    ]
+   ],
+   "level": 2,
+   "title": "De lacertis diversis"
+  },
+  {
+   "scan": 58,
+   "line": 1,
+   "lines": [
+    [
+     58,
+     1
+    ],
+    [
+     58,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "De rana aquatica et innoxia, et de iis quae ad ranas quasvis in genere spectant"
+  },
+  {
+   "scan": 72,
+   "line": 23,
+   "lines": [
+    [
+     72,
+     23
+    ]
+   ],
+   "level": 2,
+   "title": "De ranis temporariis, vel aestivis"
+  },
+  {
+   "scan": 72,
+   "line": 29,
+   "lines": [
+    [
+     72,
+     29
+    ],
+    [
+     72,
+     30
+    ]
+   ],
+   "level": 2,
+   "title": "De ranunculo viridi, sive rana calamite aut dryopete"
+  },
+  {
+   "scan": 75,
+   "line": 30,
+   "lines": [
+    [
+     75,
+     30
+    ],
+    [
+     75,
+     31
+    ]
+   ],
+   "level": 2,
+   "title": "De rana sive rubeta gibbosa, et aliis mutis ranis in genere"
+  },
+  {
+   "scan": 76,
+   "line": 38,
+   "lines": [
+    [
+     76,
+     38
+    ],
+    [
+     76,
+     39
+    ]
+   ],
+   "level": 2,
+   "title": "De ranis rubetis tum palustribus tum terrestribus, et de remediis contra omnes venenatas ranas"
+  },
+  {
+   "scan": 91,
+   "line": 52,
+   "lines": [
+    [
+     91,
+     52
+    ]
+   ],
+   "level": 2,
+   "title": "De cordula sive cordulo"
+  },
+  {
+   "scan": 92,
+   "line": 9,
+   "lines": [
+    [
+     92,
+     9
+    ]
+   ],
+   "level": 2,
+   "title": "De cordulo. Rursus ex Bellonio"
+  },
+  {
+   "scan": 92,
+   "line": 42,
+   "lines": [
+    [
+     92,
+     42
+    ]
+   ],
+   "level": 2,
+   "title": "De salamandra"
+  },
+  {
+   "scan": 102,
+   "line": 45,
+   "lines": [
+    [
+     102,
+     45
+    ]
+   ],
+   "level": 2,
+   "title": "De stellione"
+  },
+  {
+   "scan": 109,
+   "line": 51,
+   "lines": [
+    [
+     109,
+     51
+    ]
+   ],
+   "level": 2,
+   "title": "De testudinibus in genere"
+  },
+  {
+   "scan": 119,
+   "line": 21,
+   "lines": [
+    [
+     119,
+     21
+    ]
+   ],
+   "level": 2,
+   "title": "De testudine terrestri"
+  },
+  {
+   "scan": 122,
+   "line": 37,
+   "lines": [
+    [
+     122,
+     37
+    ],
+    [
+     122,
+     38
+    ]
+   ],
+   "level": 2,
+   "title": "De testudinibus quae in aqua dulci viuunt, sive palustri sive fluente"
+  },
+  {
+   "scan": 124,
+   "line": 42,
+   "lines": [
+    [
+     124,
+     42
+    ]
+   ],
+   "level": 2,
+   "title": "De testudine marina"
+  },
+  {
+   "scan": 126,
+   "line": 1,
+   "lines": [
+    [
+     126,
+     1
+    ],
+    [
+     126,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Altera figura testudinis marinae a Valerio Cordo missa"
+  },
+  {
+   "scan": 130,
+   "line": 38,
+   "lines": [
+    [
+     130,
+     38
+    ]
+   ],
+   "level": 2,
+   "title": "De testudinibus rursus ex Bellonio"
+  },
+  {
+   "scan": 131,
+   "line": 14,
+   "lines": [
+    [
+     131,
+     14
+    ]
+   ],
+   "level": 2,
+   "title": "De testudine polypode"
+  },
+  {
+   "scan": 133,
+   "line": 0,
+   "lines": [
+    [
+     133,
+     0
+    ],
+    [
+     133,
+     0
+    ],
+    [
+     133,
+     0
+    ],
+    [
+     133,
+     0
+    ],
+    [
+     133,
+     0
+    ],
+    [
+     133,
+     0
+    ],
+    [
+     145,
+     1
+    ],
+    [
+     145,
+     2
+    ],
+    [
+     145,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Historiae animalium liber V. De serpentibus"
+  },
+  {
+   "scan": 135,
+   "line": 1,
+   "lines": [
+    [
+     135,
+     1
+    ],
+    [
+     135,
+     2
+    ],
+    [
+     135,
+     3
+    ],
+    [
+     135,
+     4
+    ],
+    [
+     135,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Praestantissimo viro D. Horatio Palatiicino, domino suo colendissimo"
+  },
+  {
+   "scan": 136,
+   "line": 1,
+   "lines": [
+    [
+     136,
+     1
+    ],
+    [
+     136,
+     2
+    ],
+    [
+     136,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Epistola"
+  },
+  {
+   "scan": 137,
+   "line": 1,
+   "lines": [
+    [
+     137,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Nuncupatoria"
+  },
+  {
+   "scan": 138,
+   "line": 1,
+   "lines": [
+    [
+     138,
+     1
+    ],
+    [
+     138,
+     2
+    ],
+    [
+     138,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Epistola nuncupatoria"
+  },
+  {
+   "scan": 139,
+   "line": 1,
+   "lines": [
+    [
+     139,
+     1
+    ],
+    [
+     139,
+     2
+    ],
+    [
+     139,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Casparus Vuolphius Tigurinus medicus D. Iacobo Carrono Francfortensi amico suo"
+  },
+  {
+   "scan": 140,
+   "line": 1,
+   "lines": [
+    [
+     140,
+     1
+    ],
+    [
+     140,
+     2
+    ],
+    [
+     140,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Epistola"
+  },
+  {
+   "scan": 140,
+   "line": 10,
+   "lines": [
+    [
+     140,
+     10
+    ],
+    [
+     140,
+     11
+    ]
+   ],
+   "level": 2,
+   "title": "Enumeratio serpentum, eo ordine quo in hoc volumine describuntur"
+  },
+  {
+   "scan": 145,
+   "line": 4,
+   "lines": [
+    [
+     145,
+     4
+    ],
+    [
+     145,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Historia de serpentibus generalis"
+  },
+  {
+   "scan": 189,
+   "line": 15,
+   "lines": [
+    [
+     189,
+     15
+    ]
+   ],
+   "level": 2,
+   "title": "De acontia vel iaculo"
+  },
+  {
+   "scan": 191,
+   "line": 49,
+   "lines": [
+    [
+     191,
+     49
+    ]
+   ],
+   "level": 2,
+   "title": "De ammodyte"
+  },
+  {
+   "scan": 193,
+   "line": 2,
+   "lines": [
+    [
+     193,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "De amphisbaena"
+  },
+  {
+   "scan": 195,
+   "line": 2,
+   "lines": [
+    [
+     195,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "De angue"
+  },
+  {
+   "scan": 198,
+   "line": 48,
+   "lines": [
+    [
+     198,
+     48
+    ]
+   ],
+   "level": 2,
+   "title": "De arge serpente"
+  },
+  {
+   "scan": 199,
+   "line": 7,
+   "lines": [
+    [
+     199,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "De argolis serpentibus"
+  },
+  {
+   "scan": 199,
+   "line": 11,
+   "lines": [
+    [
+     199,
+     11
+    ]
+   ],
+   "level": 2,
+   "title": "De aspide"
+  },
+  {
+   "scan": 208,
+   "line": 25,
+   "lines": [
+    [
+     208,
+     25
+    ]
+   ],
+   "level": 2,
+   "title": "De basilisco"
+  },
+  {
+   "scan": 213,
+   "line": 56,
+   "lines": [
+    [
+     213,
+     56
+    ]
+   ],
+   "level": 2,
+   "title": "De bero"
+  },
+  {
+   "scan": 214,
+   "line": 26,
+   "lines": [
+    [
+     214,
+     26
+    ]
+   ],
+   "level": 2,
+   "title": "De boa"
+  },
+  {
+   "scan": 215,
+   "line": 3,
+   "lines": [
+    [
+     215,
+     3
+    ],
+    [
+     215,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "De caecilia serpente quae et typhlops a Graecis dicitur"
+  },
+  {
+   "scan": 216,
+   "line": 35,
+   "lines": [
+    [
+     216,
+     35
+    ],
+    [
+     216,
+     36
+    ]
+   ],
+   "level": 2,
+   "title": "De cenchrine serpente, qui et miliaris Latine dicitur"
+  },
+  {
+   "scan": 219,
+   "line": 6,
+   "lines": [
+    [
+     219,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "De ceraste"
+  },
+  {
+   "scan": 223,
+   "line": 15,
+   "lines": [
+    [
+     223,
+     15
+    ],
+    [
+     223,
+     16
+    ]
+   ],
+   "level": 2,
+   "title": "De cerastali, triscali, cristali vel sirtali"
+  },
+  {
+   "scan": 224,
+   "line": 2,
+   "lines": [
+    [
+     224,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "De colubro"
+  },
+  {
+   "scan": 226,
+   "line": 54,
+   "lines": [
+    [
+     226,
+     54
+    ]
+   ],
+   "level": 2,
+   "title": "De dipsade"
+  },
+  {
+   "scan": 230,
+   "line": 35,
+   "lines": [
+    [
+     230,
+     35
+    ]
+   ],
+   "level": 2,
+   "title": "De dracone"
+  },
+  {
+   "scan": 236,
+   "line": 9,
+   "lines": [
+    [
+     236,
+     9
+    ]
+   ],
+   "level": 2,
+   "title": "De Pindo a dracone amato"
+  },
+  {
+   "scan": 238,
+   "line": 54,
+   "lines": [
+    [
+     238,
+     54
+    ]
+   ],
+   "level": 2,
+   "title": "De remediis quae ex dracone percipi posse dicuntur"
+  },
+  {
+   "scan": 240,
+   "line": 3,
+   "lines": [
+    [
+     240,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "De veneno et morsu draconis, eiusque curatione"
+  },
+  {
+   "scan": 254,
+   "line": 13,
+   "lines": [
+    [
+     254,
+     13
+    ],
+    [
+     254,
+     14
+    ]
+   ],
+   "level": 2,
+   "title": "De dryino, qui et chelydrus dicitur"
+  },
+  {
+   "scan": 256,
+   "line": 60,
+   "lines": [
+    [
+     256,
+     60
+    ]
+   ],
+   "level": 2,
+   "title": "De elephantiis serpentibus"
+  },
+  {
+   "scan": 257,
+   "line": 2,
+   "lines": [
+    [
+     257,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "De elope vel elape"
+  },
+  {
+   "scan": 257,
+   "line": 33,
+   "lines": [
+    [
+     257,
+     33
+    ]
+   ],
+   "level": 2,
+   "title": "De haemorrhoo"
+  },
+  {
+   "scan": 261,
+   "line": 3,
+   "lines": [
+    [
+     261,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "De hyaena serpente"
+  },
+  {
+   "scan": 261,
+   "line": 13,
+   "lines": [
+    [
+     261,
+     13
+    ],
+    [
+     261,
+     14
+    ]
+   ],
+   "level": 2,
+   "title": "De hydro, qui et chersydrus et natrix dicitur"
+  },
+  {
+   "scan": 267,
+   "line": 1,
+   "lines": [
+    [
+     267,
+     1
+    ],
+    [
+     267,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "De hydra multicipite, fabulosa, quam Hercules confecit"
+  },
+  {
+   "scan": 270,
+   "line": 2,
+   "lines": [
+    [
+     270,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "De serpentibus aquaticis diversis"
+  },
+  {
+   "scan": 271,
+   "line": 24,
+   "lines": [
+    [
+     271,
+     24
+    ]
+   ],
+   "level": 2,
+   "title": "De libye serpente"
+  },
+  {
+   "scan": 271,
+   "line": 40,
+   "lines": [
+    [
+     271,
+     40
+    ]
+   ],
+   "level": 2,
+   "title": "De molouro"
+  },
+  {
+   "scan": 271,
+   "line": 51,
+   "lines": [
+    [
+     271,
+     51
+    ],
+    [
+     271,
+     52
+    ]
+   ],
+   "level": 2,
+   "title": "De myagro, orophia et spathiuro serpentibus domesticis et murium venatoribus"
+  },
+  {
+   "scan": 273,
+   "line": 7,
+   "lines": [
+    [
+     273,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "De parea"
+  },
+  {
+   "scan": 274,
+   "line": 10,
+   "lines": [
+    [
+     274,
+     10
+    ]
+   ],
+   "level": 2,
+   "title": "De peliade"
+  },
+  {
+   "scan": 274,
+   "line": 22,
+   "lines": [
+    [
+     274,
+     22
+    ]
+   ],
+   "level": 2,
+   "title": "De porphyro"
+  },
+  {
+   "scan": 274,
+   "line": 27,
+   "lines": [
+    [
+     274,
+     27
+    ]
+   ],
+   "level": 2,
+   "title": "De presterE"
+  },
+  {
+   "scan": 276,
+   "line": 10,
+   "lines": [
+    [
+     276,
+     10
+    ]
+   ],
+   "level": 2,
+   "title": "De scytale"
+  },
+  {
+   "scan": 278,
+   "line": 7,
+   "lines": [
+    [
+     278,
+     7
+    ],
+    [
+     278,
+     8
+    ],
+    [
+     278,
+     9
+    ]
+   ],
+   "level": 2,
+   "title": "De sepedone et sepe. De sepedone"
+  },
+  {
+   "scan": 279,
+   "line": 6,
+   "lines": [
+    [
+     279,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "De sepe"
+  },
+  {
+   "scan": 281,
+   "line": 0,
+   "lines": [
+    [
+     281,
+     0
+    ],
+    [
+     281,
+     0
+    ]
+   ],
+   "level": 2,
+   "title": "De serpente marino"
+  },
+  {
+   "scan": 283,
+   "line": 28,
+   "lines": [
+    [
+     283,
+     28
+    ],
+    [
+     283,
+     29
+    ]
+   ],
+   "level": 2,
+   "title": "De serpente rubescente"
+  },
+  {
+   "scan": 285,
+   "line": 2,
+   "lines": [
+    [
+     285,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "De spondyle"
+  },
+  {
+   "scan": 285,
+   "line": 28,
+   "lines": [
+    [
+     285,
+     28
+    ]
+   ],
+   "level": 2,
+   "title": "De tyro"
+  },
+  {
+   "scan": 286,
+   "line": 11,
+   "lines": [
+    [
+     286,
+     11
+    ]
+   ],
+   "level": 2,
+   "title": "De vipera"
+  },
+  {
+   "scan": 294,
+   "line": 49,
+   "lines": [
+    [
+     294,
+     49
+    ]
+   ],
+   "level": 2,
+   "title": "De remediis quae ex vipera sumi possunt"
+  },
+  {
+   "scan": 298,
+   "line": 17,
+   "lines": [
+    [
+     298,
+     17
+    ]
+   ],
+   "level": 2,
+   "title": "De theriaca et pastillis theriacis"
+  },
+  {
+   "scan": 300,
+   "line": 57,
+   "lines": [
+    [
+     300,
+     57
+    ]
+   ],
+   "level": 2,
+   "title": "De sale theriaco"
+  },
+  {
+   "scan": 302,
+   "line": 42,
+   "lines": [
+    [
+     302,
+     42
+    ],
+    [
+     302,
+     43
+    ]
+   ],
+   "level": 2,
+   "title": "De vipera veneno et morsu, deque morsus symptomatibus et curatione"
+  },
+  {
+   "scan": 314,
+   "line": 1,
+   "lines": [
+    [
+     314,
+     1
+    ],
+    [
+     314,
+     2
+    ],
+    [
+     314,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Appendix de serpentibus nonnullis ignotis et innominatis, vel quorum nomina tantum barbara habemus"
+  },
+  {
+   "scan": 319,
+   "line": 1,
+   "lines": [
+    [
+     319,
+     1
+    ],
+    [
+     319,
+     2
+    ],
+    [
+     319,
+     3
+    ],
+    [
+     319,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Celebri et experto viro D. Petro Hafnero, reipublicae Tigurinae chirurgo et lithotomo, amico suo"
+  },
+  {
+   "scan": 320,
+   "line": 1,
+   "lines": [
+    [
+     320,
+     1
+    ],
+    [
+     320,
+     2
+    ],
+    [
+     320,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Epistola"
+  },
+  {
+   "scan": 327,
+   "line": 16,
+   "lines": [
+    [
+     327,
+     16
+    ]
+   ],
+   "level": 2,
+   "title": "De remediis quae e scorpionibus parare consueuerunt"
+  },
+  {
+   "scan": 329,
+   "line": 31,
+   "lines": [
+    [
+     329,
+     31
+    ],
+    [
+     329,
+     32
+    ],
+    [
+     329,
+     33
+    ]
+   ],
+   "level": 2,
+   "title": "De ictu scorpionum et eius cura, et primo de scorpionis veneni temperamento"
+  },
+  {
+   "scan": 329,
+   "line": 57,
+   "lines": [
+    [
+     329,
+     57
+    ]
+   ],
+   "level": 2,
+   "title": "Quae scorpionis ictum sequantur symptomata"
+  },
+  {
+   "scan": 330,
+   "line": 48,
+   "lines": [
+    [
+     330,
+     48
+    ]
+   ],
+   "level": 2,
+   "title": "Quae cura ictus a scorpione adhibenda"
+  },
+  {
+   "scan": 334,
+   "line": 2,
+   "lines": [
+    [
+     334,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "De remediis topicis scorpionis punctura accommodatis"
+  },
+  {
+   "scan": 335,
+   "line": 44,
+   "lines": [
+    [
+     335,
+     44
+    ]
+   ],
+   "level": 2,
+   "title": "Amuleta, et incantationes, quae scorpionis ictui creduntur prodesse"
+  },
+  {
+   "scan": 336,
+   "line": 17,
+   "lines": [
+    [
+     336,
+     17
+    ]
+   ],
+   "level": 2,
+   "title": "De cura animalium brutorum a scorpionibus ictorum"
+  },
+  {
+   "scan": 337,
+   "line": 1,
+   "lines": [
+    [
+     337,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Scorpionis H."
+  },
+  {
+   "scan": 341,
+   "line": 1,
+   "lines": [
+    [
+     341,
+     1
+    ],
+    [
+     341,
+     3
+    ],
+    [
+     341,
+     4
+    ],
+    [
+     341,
+     5
+    ],
+    [
+     341,
+     6
+    ],
+    [
+     341,
+     7
+    ],
+    [
+     341,
+     8
+    ],
+    [
+     341,
+     17
+    ],
+    [
+     341,
+     24
+    ],
+    [
+     341,
+     26
+    ]
+   ],
+   "level": 1,
+   "title": "Nomenclator aquatilium animantium: icones animalium in mari et dulcibus aquis degentium plusquam DCC, cum nomenclaturis singulorum"
+  },
+  {
+   "scan": 343,
+   "line": 1,
+   "lines": [
+    [
+     343,
+     1
+    ],
+    [
+     343,
+     2
+    ],
+    [
+     343,
+     3
+    ],
+    [
+     343,
+     4
+    ],
+    [
+     343,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Serenissimo ac potentissimo regi Bohemorum D. Maximiliano, archiduci Austriae, duci Burgundiae, Domino suo clementissimo"
+  },
+  {
+   "scan": 344,
+   "line": 1,
+   "lines": [
+    [
+     344,
+     1
+    ],
+    [
+     344,
+     2
+    ],
+    [
+     344,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Epistola"
+  },
+  {
+   "scan": 345,
+   "line": 1,
+   "lines": [
+    [
+     345,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Nuncupatoria"
+  },
+  {
+   "scan": 346,
+   "line": 12,
+   "lines": [
+    [
+     346,
+     12
+    ]
+   ],
+   "level": 2,
+   "title": "Conradi Gesneri ad lectorem praefatio"
+  },
+  {
+   "scan": 347,
+   "line": 33,
+   "lines": [
+    [
+     347,
+     33
+    ],
+    [
+     347,
+     34
+    ]
+   ],
+   "level": 2,
+   "title": "Enumeratio ordinum, quos hoc in libro sequentem sumus"
+  },
+  {
+   "scan": 348,
+   "line": 33,
+   "lines": [
+    [
+     348,
+     33
+    ]
+   ],
+   "level": 2,
+   "title": "Tomi I, qui est de animalibus marinis: ordines XVII"
+  },
+  {
+   "scan": 369,
+   "line": 1,
+   "lines": [
+    [
+     369,
+     1
+    ],
+    [
+     369,
+     2
+    ],
+    [
+     369,
+     3
+    ],
+    [
+     369,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Ordo I. Animantium marinorum, qui continet pisces minores, nullo certo genere aut forma comprehensos"
+  },
+  {
+   "scan": 380,
+   "line": 1,
+   "lines": [
+    [
+     380,
+     1
+    ],
+    [
+     380,
+     2
+    ],
+    [
+     380,
+     3
+    ],
+    [
+     380,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Ordo II. Piscium marinorum, qui continet saxatiles, et aliquos eis proximos, magna ex parte latos et compressos"
+  },
+  {
+   "scan": 399,
+   "line": 9,
+   "lines": [
+    [
+     399,
+     9
+    ],
+    [
+     399,
+     10
+    ],
+    [
+     399,
+     11
+    ],
+    [
+     399,
+     12
+    ],
+    [
+     399,
+     13
+    ]
+   ],
+   "level": 3,
+   "title": "Ordo III. De lyra et similibus piscibus, quos lyriformes appellamus"
+  },
+  {
+   "scan": 409,
+   "line": 1,
+   "lines": [
+    [
+     409,
+     1
+    ],
+    [
+     409,
+     2
+    ],
+    [
+     409,
+     3
+    ],
+    [
+     409,
+     4
+    ],
+    [
+     409,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Ordo IIII. De piscibus latis et compressis, squamosis"
+  },
+  {
+   "scan": 433,
+   "line": 1,
+   "lines": [
+    [
+     433,
+     1
+    ],
+    [
+     433,
+     2
+    ],
+    [
+     433,
+     3
+    ],
+    [
+     433,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Ordo V. De piscibus simpliciter dictis, qui fere rotundi"
+  },
+  {
+   "scan": 455,
+   "line": 30,
+   "lines": [
+    [
+     455,
+     30
+    ],
+    [
+     455,
+     31
+    ],
+    [
+     455,
+     32
+    ]
+   ],
+   "level": 3,
+   "title": "Ordo VI. De piscibus longis, spinosis"
+  },
+  {
+   "scan": 462,
+   "line": 9,
+   "lines": [
+    [
+     462,
+     9
+    ],
+    [
+     462,
+     10
+    ]
+   ],
+   "level": 3,
+   "title": "Ordo VII. De piscibus marinis spinosis, planis"
+  },
+  {
+   "scan": 473,
+   "line": 3,
+   "lines": [
+    [
+     473,
+     3
+    ],
+    [
+     473,
+     4
+    ],
+    [
+     473,
+     5
+    ],
+    [
+     473,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "Ordo VIII. De lacertis, similibusque piscibus, et aliis quibusdam maximis, non tamen cetis"
+  },
+  {
+   "scan": 485,
+   "line": 12,
+   "lines": [
+    [
+     485,
+     12
+    ],
+    [
+     485,
+     13
+    ],
+    [
+     485,
+     14
+    ],
+    [
+     485,
+     15
+    ]
+   ],
+   "level": 3,
+   "title": "Ordo IX. De piscibus cartilagineis planis"
+  },
+  {
+   "scan": 509,
+   "line": 40,
+   "lines": [
+    [
+     509,
+     40
+    ],
+    [
+     509,
+     41
+    ]
+   ],
+   "level": 3,
+   "title": "Ordo X. De piscibus cartilagineis longis"
+  },
+  {
+   "scan": 522,
+   "line": 1,
+   "lines": [
+    [
+     522,
+     1
+    ],
+    [
+     522,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Ordo XI. De piscibus orbiculatis"
+  },
+  {
+   "scan": 528,
+   "line": 1,
+   "lines": [
+    [
+     528,
+     1
+    ],
+    [
+     528,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Ordo XII. De cetis proprie dictis"
+  },
+  {
+   "scan": 553,
+   "line": 9,
+   "lines": [
+    [
+     553,
+     9
+    ],
+    [
+     553,
+     10
+    ],
+    [
+     553,
+     11
+    ],
+    [
+     553,
+     12
+    ]
+   ],
+   "level": 3,
+   "title": "Ordo XIII. De mollibus dictis in mari animalibus"
+  },
+  {
+   "scan": 567,
+   "line": 12,
+   "lines": [
+    [
+     567,
+     12
+    ],
+    [
+     567,
+     13
+    ],
+    [
+     567,
+     14
+    ],
+    [
+     567,
+     15
+    ]
+   ],
+   "level": 3,
+   "title": "Ordo XIIII. De crustatis, seu crusta tenui contectis in mari animalibus"
+  },
+  {
+   "scan": 589,
+   "line": 27,
+   "lines": [
+    [
+     589,
+     27
+    ],
+    [
+     589,
+     28
+    ],
+    [
+     589,
+     29
+    ],
+    [
+     589,
+     30
+    ],
+    [
+     589,
+     31
+    ],
+    [
+     589,
+     32
+    ]
+   ],
+   "level": 3,
+   "title": "Ordo XV. De animalibus testaceis"
+  },
+  {
+   "scan": 635,
+   "line": 9,
+   "lines": [
+    [
+     635,
+     9
+    ],
+    [
+     635,
+     10
+    ]
+   ],
+   "level": 3,
+   "title": "Ordo XVI. De insectis marinis"
+  },
+  {
+   "scan": 639,
+   "line": 12,
+   "lines": [
+    [
+     639,
+     12
+    ],
+    [
+     639,
+     13
+    ],
+    [
+     639,
+     14
+    ],
+    [
+     639,
+     15
+    ],
+    [
+     639,
+     16
+    ]
+   ],
+   "level": 3,
+   "title": "Ordo XVII. De zoophytis marinis quibusdam, quae non corio duro sive testaceo integuntur"
+  },
+  {
+   "scan": 645,
+   "line": 1,
+   "lines": [
+    [
+     645,
+     1
+    ],
+    [
+     645,
+     2
+    ],
+    [
+     645,
+     3
+    ],
+    [
+     645,
+     4
+    ],
+    [
+     645,
+     5
+    ],
+    [
+     645,
+     6
+    ],
+    [
+     645,
+     7
+    ],
+    [
+     645,
+     8
+    ]
+   ],
+   "level": 2,
+   "title": "Tomus II. Libri nomenclatoris aquatilium animantium in suos ordines digestorum, cum picturis eorundem ad vivum expressis"
+  },
+  {
+   "scan": 647,
+   "line": 1,
+   "lines": [
+    [
+     647,
+     1
+    ],
+    [
+     647,
+     2
+    ],
+    [
+     647,
+     3
+    ],
+    [
+     647,
+     4
+    ],
+    [
+     647,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Amplissimis ac prudentissimis viris, coss. ac senatui illustris reipublicae Basiliensis, dominis suis honorandis, Conradus Gesnerus Tigurinus S.D."
+  },
+  {
+   "scan": 648,
+   "line": 1,
+   "lines": [
+    [
+     648,
+     1
+    ],
+    [
+     648,
+     2
+    ],
+    [
+     648,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Epistola nuncupatoria"
+  },
+  {
+   "scan": 649,
+   "line": 1,
+   "lines": [
+    [
+     649,
+     1
+    ],
+    [
+     649,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "De fluviatilium piscium differentiis et ordinibus"
+  },
+  {
+   "scan": 650,
+   "line": 46,
+   "lines": [
+    [
+     650,
+     46
+    ],
+    [
+     650,
+     47
+    ]
+   ],
+   "level": 4,
+   "title": "Animalium in dulcibus aquis ordinis I. Pars I. De pisciculis fluviatilibus"
+  },
+  {
+   "scan": 658,
+   "line": 41,
+   "lines": [
+    [
+     658,
+     41
+    ],
+    [
+     658,
+     42
+    ],
+    [
+     658,
+     43
+    ]
+   ],
+   "level": 4,
+   "title": "Animalium in dulcibus aquis ordinis I. Pars II. De piscibus saxatilibus"
+  },
+  {
+   "scan": 662,
+   "line": 35,
+   "lines": [
+    [
+     662,
+     35
+    ],
+    [
+     662,
+     36
+    ],
+    [
+     662,
+     37
+    ],
+    [
+     662,
+     38
+    ]
+   ],
+   "level": 4,
+   "title": "Animalium in dulcibus aquis ordinis I. Pars III. De piscibus fluviatilibus latis, qui et squamosi sunt omnes excepta tinca"
+  },
+  {
+   "scan": 670,
+   "line": 4,
+   "lines": [
+    [
+     670,
+     4
+    ],
+    [
+     670,
+     5
+    ],
+    [
+     670,
+     6
+    ]
+   ],
+   "level": 4,
+   "title": "Animalium in dulcibus aquis ordinis I. Pars IIII. De piscibus fluviatilibus simpliciter"
+  },
+  {
+   "scan": 689,
+   "line": 1,
+   "lines": [
+    [
+     689,
+     1
+    ],
+    [
+     689,
+     2
+    ],
+    [
+     689,
+     3
+    ],
+    [
+     689,
+     4
+    ]
+   ],
+   "level": 4,
+   "title": "Animalium in dulcibus aquis ordinis I. Pars V. De piscibus anadromis, hoc est, e mari subeuntibus amnes"
+  },
+  {
+   "scan": 705,
+   "line": 1,
+   "lines": [
+    [
+     705,
+     1
+    ],
+    [
+     705,
+     2
+    ],
+    [
+     705,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Ordo II. Animalium in dulcibus aquis degentium"
+  },
+  {
+   "scan": 706,
+   "line": 1,
+   "lines": [
+    [
+     706,
+     1
+    ],
+    [
+     706,
+     2
+    ],
+    [
+     706,
+     3
+    ],
+    [
+     706,
+     4
+    ],
+    [
+     706,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Magnifico et illustrissimo D. Sigismundo Libero, baroni in Herbersteain, Neyperg et Guttenhag, Conradus Gesnerus Tigurinus S.D."
+  },
+  {
+   "scan": 707,
+   "line": 1,
+   "lines": [
+    [
+     707,
+     1
+    ]
+   ],
+   "level": 4,
+   "title": "Animalium in dulcibus aquis ordinis II. Pars I. De piscibus lacustribus in genere"
+  },
+  {
+   "scan": 715,
+   "line": 18,
+   "lines": [
+    [
+     715,
+     18
+    ],
+    [
+     715,
+     19
+    ],
+    [
+     715,
+     20
+    ]
+   ],
+   "level": 4,
+   "title": "Animalium in dulcibus aquis ordinis II. Pars II. De crustaceis"
+  },
+  {
+   "scan": 716,
+   "line": 17,
+   "lines": [
+    [
+     716,
+     17
+    ],
+    [
+     716,
+     18
+    ],
+    [
+     716,
+     19
+    ],
+    [
+     716,
+     20
+    ]
+   ],
+   "level": 4,
+   "title": "Animalium in dulcibus aquis ordinis II. Pars III. De testaceis"
+  },
+  {
+   "scan": 718,
+   "line": 27,
+   "lines": [
+    [
+     718,
+     27
+    ],
+    [
+     718,
+     28
+    ],
+    [
+     718,
+     29
+    ]
+   ],
+   "level": 4,
+   "title": "Animalium in dulcibus aquis ordinis II. Pars IIII. De insectis"
+  },
+  {
+   "scan": 720,
+   "line": 36,
+   "lines": [
+    [
+     720,
+     36
+    ],
+    [
+     720,
+     37
+    ],
+    [
+     720,
+     38
+    ],
+    [
+     720,
+     39
+    ]
+   ],
+   "level": 4,
+   "title": "Animalium in dulcibus aquis ordinis II. Pars V. De amphibiis"
+  }
+ ],
+ "book": "A Latin natural-history volume by Conrad Gesner, bound from four separately printed works: quadrupeds oviparous (Historiae animalium liber II), serpents (liber V), insects (Historiae insectorum libellus), and the aquatic-animal nomenclator (marine Tomus I and freshwater Tomus II), each with dedications, prefaces and chapters or numbered orders.",
+ "series": [
+  {
+   "label": "Ordo",
+   "first": "I",
+   "last": "XVII",
+   "count": 19,
+   "level": 3,
+   "found": 19
+  },
+  {
+   "label": "Pars",
+   "first": "I",
+   "last": "V",
+   "count": 10,
+   "level": 4,
+   "found": 10
+  }
+ ],
+ "taste": 12,
+ "doubt": "",
+ "input": 76258,
+ "output": 17882
+}
