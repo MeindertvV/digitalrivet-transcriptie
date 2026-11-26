@@ -1,0 +1,49 @@
+Translating 22 group(s) into English with claude-haiku-5-5, effort medium, batch
+Submitted batch msgbatch_01VcjsbPxtAp4QsqSiiaHkR1 with 22 group(s)
+Batch msgbatch_01VcjsbPxtAp4QsqSiiaHkR1: 22 processing, 0 done, 0 errored
+Batch msgbatch_01VcjsbPxtAp4QsqSiiaHkR1: 22 processing, 0 done, 0 errored
+Batch msgbatch_01VcjsbPxtAp4QsqSiiaHkR1: 22 processing, 0 done, 0 errored
+Batch msgbatch_01VcjsbPxtAp4QsqSiiaHkR1: 22 processing, 0 done, 0 errored
+Batch msgbatch_01VcjsbPxtAp4QsqSiiaHkR1: 22 processing, 0 done, 0 errored
+Batch msgbatch_01VcjsbPxtAp4QsqSiiaHkR1: 22 processing, 0 done, 0 errored
+Batch msgbatch_01VcjsbPxtAp4QsqSiiaHkR1: 22 processing, 0 done, 0 errored
+  2.1: ok  [20 units, 1226 out (903 thinking), $0.0004, total $0.00]
+    note: unit(s) [2] without the italics of the Latin
+  36.28: ok  [3 units, 4182 out (1155 thinking), $0.0013, total $0.00]
+    note: unit(s) [2] without the italics of the Latin
+  23.17: 2 of 4 units ok, unit(s) ['23.17'] missing; unit(s) ['23.20'] next to a unit that failed  [4 units, 7703 out (4704 thinking), $0.0022, total $0.00]
+    note: unit(s) [1] without the italics of the Latin
+  45.1: ok  [3 units, 2357 out (1133 thinking), $0.0007, total $0.00]
+    note: unit(s) [2, 6] without the italics of the Latin
+  5.1: ok  [8 units, 3159 out (529 thinking), $0.0010, total $0.01]
+  19.21: ok  [1 units, 4038 out (1632 thinking), $0.0012, total $0.01]
+  17.15: ok  [3 units, 4488 out (2324 thinking), $0.0013, total $0.01]
+  7.4: ok  [2 units, 1423 out (937 thinking), $0.0004, total $0.01]
+  3.1: ok  [10 units, 1285 out (908 thinking), $0.0004, total $0.01]
+  33.40: ok  [1 units, 4760 out (1969 thinking), $0.0014, total $0.01]
+    note: unit(s) [3, 4] without the italics of the Latin
+  39.31: ok  [6 units, 5627 out (2986 thinking), $0.0016, total $0.01]
+  42.24: ok  [2 units, 518 out, $0.0002, total $0.01]
+  31.12: ok  [5 units, 4737 out (2593 thinking), $0.0014, total $0.01]
+    note: unit(s) [2, 4, 5] without the italics of the Latin
+  14.12: ok  [5 units, 5015 out (1307 thinking), $0.0015, total $0.01]
+    note: unit(s) [1, 2, 3, 4, 5, 6, 7, 8] without the italics of the Latin
+  12.31: ok  [8 units, 1734 out, $0.0006, total $0.02]
+  26.31: ok  [4 units, 3295 out (1513 thinking), $0.0010, total $0.02]
+  28.17: ok  [1 units, 4753 out (1507 thinking), $0.0014, total $0.02]
+  21.26: ok  [1 units, 3415 out (1503 thinking), $0.0010, total $0.02]
+    note: unit(s) [3, 4, 5, 6, 7, 8, 9, 10, 11, 12] without the italics of the Latin
+  46.5: 14 of 15 units ok, unit(s) ['47.27'] contains Cyrillic characters (U+0430 CYRILLIC SMALL LETTER A)  [15 units, 5448 out (2124 thinking), $0.0016, total $0.02]
+    note: unit(s) [2, 3, 4, 5, 6, 7] without the italics of the Latin
+  7.21: ok  [7 units, 3891 out (1202 thinking), $0.0012, total $0.02]
+  43.4: ok  [2 units, 2718 out (667 thinking), $0.0008, total $0.02]
+    note: unit(s) [6, 8] without the italics of the Latin
+  9.36: ok  [9 units, 6273 out (2868 thinking), $0.0018, total $0.02]
+Retrying 2 group(s) with units left directly
+  47.27: FAILED: unit(s) ['47.27'] contains Cyrillic characters (U+0430 CYRILLIC SMALL LETTER A)  [1 units, 1912 out (1366 thinking), $0.0013, total $0.03]
+  23.17~2: ok  [2 units, 2949 out (728 thinking), $0.0020, total $0.03]
+  47.27~2: FAILED: unit(s) ['47.27'] contains Cyrillic characters (U+0430 CYRILLIC SMALL LETTER A)  [1 units, 1325 out (777 thinking), $0.0008, total $0.03]
+  47.27~3: FAILED: unit(s) ['47.27'] contains Cyrillic characters (U+0430 CYRILLIC SMALL LETTER A)  [1 units, 2093 out (1591 thinking), $0.0012, total $0.03]
+1 group(s) failed, listed in /home/user/digitalrivet-transcriptie/out/W03835_Hottinger_Krystallologia_seu_dissertatio_de_crystallis_harum_naturam_a_1698/translation_en/failed.txt
+Spent this run: $0.029
+119 of 120 units translated -> /home/user/digitalrivet-transcriptie/out/W03835_Hottinger_Krystallologia_seu_dissertatio_de_crystallis_harum_naturam_a_1698/translation_en.json
