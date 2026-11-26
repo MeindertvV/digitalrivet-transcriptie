@@ -1,0 +1,67 @@
+{
+ "answer": {
+  "book": "A printed academic disputation (Bremen, 1613) in which respondent Ludovicus Crocius argues against Catholic claims about the universality of the church: a title page, then numbered theses, followed by conclusions with their arguments and solutions of authorities.",
+  "series": [
+   {
+    "label": "Conclusio",
+    "first": "prima",
+    "last": "quarta",
+    "count": 4,
+    "level": 3
+   }
+  ],
+  "entries": [
+   {
+    "ids": [
+     2
+    ],
+    "level": 1,
+    "title": "Disputationum theologicarum secunda, de universalitate ecclesiæ"
+   },
+   {
+    "ids": [
+     5
+    ],
+    "level": 2,
+    "title": "Theses I."
+   },
+   {
+    "ids": [
+     8
+    ],
+    "level": 3,
+    "title": "Conclusio secunda."
+   },
+   {
+    "ids": [
+     9
+    ],
+    "level": 4,
+    "title": "Solutio & vindicatio auctoritatum."
+   },
+   {
+    "ids": [
+     10
+    ],
+    "level": 3,
+    "title": "Conclusio quarta. Hæretici sunt qui a certis dogmatum auctoribus nomina trahunt."
+   }
+  ],
+  "missing": [
+   {
+    "title": "Conclusio prima",
+    "after": 5,
+    "level": 3
+   },
+   {
+    "title": "Conclusio tertia",
+    "after": 9,
+    "level": 3
+   }
+  ]
+ },
+ "cost": 0.004230920000000001,
+ "input": 4080,
+ "output": 7420,
+ "seconds": 34
+}
