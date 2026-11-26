@@ -1,0 +1,45 @@
+{
+  "units": [
+    "402.56",
+    "402.57",
+    "402.58",
+    "402.59",
+    "402.60",
+    "402.61",
+    "402.62",
+    "402.63",
+    "402.64",
+    "402.65",
+    "402.66",
+    "402.67",
+    "402.68",
+    "402.69",
+    "402.70",
+    "402.71",
+    "402.72",
+    "402.73",
+    "402.74"
+  ],
+  "model": "claude-haiku-5-5",
+  "prompt_sha256": "a5933e9414c59af3",
+  "stop_reason": "end_turn",
+  "batch": true,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 1787,
+    "inference_geo": "global",
+    "input_tokens": 552,
+    "output_tokens": 1459,
+    "output_tokens_details": {
+      "thinking_tokens": 1083
+    },
+    "server_tool_use": null,
+    "service_tier": "batch",
+    "speed": "standard"
+  },
+  "cost_usd": 0.0004
+}
