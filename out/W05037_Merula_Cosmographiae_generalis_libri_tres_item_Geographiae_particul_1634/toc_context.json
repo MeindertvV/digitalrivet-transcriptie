@@ -1,0 +1,3245 @@
+{
+ "work": "W05037_Merula_Cosmographiae_generalis_libri_tres_item_Geographiae_particul_1634",
+ "made": "2026-11-26T03:05:37",
+ "model": "claude-haiku-5-5",
+ "prompt": "655260ce46aa8978",
+ "candidates": 4004,
+ "cost_usd": 0.09351,
+ "dropped": [
+  "order: {'ids': [406, 407], 'level': 3, 'title': 'Caput I. Methodica Orbis Terrarum Distributio'}",
+  "no scans for 5 wanted"
+ ],
+ "toc": [
+  {
+   "scan": 7,
+   "line": 1,
+   "lines": [
+    [
+     7,
+     1
+    ],
+    [
+     7,
+     2
+    ],
+    [
+     7,
+     3
+    ],
+    [
+     7,
+     4
+    ],
+    [
+     7,
+     5
+    ],
+    [
+     7,
+     6
+    ],
+    [
+     7,
+     7
+    ],
+    [
+     7,
+     8
+    ],
+    [
+     7,
+     9
+    ],
+    [
+     7,
+     10
+    ],
+    [
+     7,
+     11
+    ]
+   ],
+   "level": 1,
+   "title": "Inlustr. Potentissimisque Dominis, Optimis maximisque Foederatarum Provinciarum Belgicæ ordinibus, Simulque Nobilissimis, Amplissimis, Doctissimis Viris, eorumdem consiliariis, fidelissimis Dominis summa mihi observantia colendis, Paullus G.F.P.N. Merula D.D."
+  },
+  {
+   "scan": 11,
+   "line": 1,
+   "lines": [
+    [
+     11,
+     1
+    ],
+    [
+     11,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Lectori meo S. dico."
+  },
+  {
+   "scan": 18,
+   "line": 1,
+   "lines": [
+    [
+     18,
+     1
+    ],
+    [
+     18,
+     11
+    ]
+   ],
+   "level": 1,
+   "title": "Synopsis præsentis voluminis"
+  },
+  {
+   "scan": 19,
+   "line": 1,
+   "lines": [
+    [
+     19,
+     1
+    ],
+    [
+     19,
+     2
+    ],
+    [
+     19,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Pars I"
+  },
+  {
+   "scan": 19,
+   "line": 5,
+   "lines": [
+    [
+     19,
+     5
+    ],
+    [
+     19,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "Liber I. De mundo"
+  },
+  {
+   "scan": 19,
+   "line": 9,
+   "lines": [
+    [
+     19,
+     9
+    ]
+   ],
+   "level": 3,
+   "title": "Caput I. Mundi diffinitio"
+  },
+  {
+   "scan": 20,
+   "line": 1,
+   "lines": [
+    [
+     20,
+     1
+    ],
+    [
+     20,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput II. Mundi causa efficiens, Deus"
+  },
+  {
+   "scan": 24,
+   "line": 21,
+   "lines": [
+    [
+     24,
+     21
+    ],
+    [
+     24,
+     22
+    ]
+   ],
+   "level": 3,
+   "title": "Caput III. Varia variis creandorum materia"
+  },
+  {
+   "scan": 31,
+   "line": 1,
+   "lines": [
+    [
+     31,
+     1
+    ],
+    [
+     31,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput IV. Ordo rerum ab Deo sex dierum spatio creatarum"
+  },
+  {
+   "scan": 36,
+   "line": 32,
+   "lines": [
+    [
+     36,
+     32
+    ],
+    [
+     36,
+     33
+    ]
+   ],
+   "level": 3,
+   "title": "Caput V. Mundum unum esse & finitum"
+  },
+  {
+   "scan": 37,
+   "line": 46,
+   "lines": [
+    [
+     37,
+     46
+    ],
+    [
+     37,
+     47
+    ]
+   ],
+   "level": 3,
+   "title": "Caput VI. Mundum esse rotundum"
+  },
+  {
+   "scan": 38,
+   "line": 4,
+   "lines": [
+    [
+     38,
+     4
+    ],
+    [
+     38,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Caput VII. Creta omnia admirandis inter se concentibus consonare"
+  },
+  {
+   "scan": 41,
+   "line": 3,
+   "lines": [
+    [
+     41,
+     3
+    ],
+    [
+     41,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Caput VIII. Mundum aliquando coepisse"
+  },
+  {
+   "scan": 43,
+   "line": 38,
+   "lines": [
+    [
+     43,
+     38
+    ],
+    [
+     43,
+     39
+    ]
+   ],
+   "level": 3,
+   "title": "Caput IX. Mundum finem habiturum"
+  },
+  {
+   "scan": 46,
+   "line": 39,
+   "lines": [
+    [
+     46,
+     39
+    ],
+    [
+     46,
+     40
+    ]
+   ],
+   "level": 3,
+   "title": "Caput X. Mundum ob varias causas esse factum"
+  },
+  {
+   "scan": 48,
+   "line": 9,
+   "lines": [
+    [
+     48,
+     9
+    ],
+    [
+     48,
+     10
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XI. Mundum ab Deo gubernari"
+  },
+  {
+   "scan": 51,
+   "line": 16,
+   "lines": [
+    [
+     51,
+     16
+    ],
+    [
+     51,
+     17
+    ]
+   ],
+   "level": 2,
+   "title": "Liber II. De potiore, quæ constans æternaque, Mundi parte"
+  },
+  {
+   "scan": 51,
+   "line": 18,
+   "lines": [
+    [
+     51,
+     18
+    ],
+    [
+     51,
+     19
+    ],
+    [
+     51,
+     20
+    ]
+   ],
+   "level": 3,
+   "title": "Caput I. Quidquid supra Elementa, æternum est & constans. Cœlum quid; unde dictum; jucundissimum in ejus contemplatione versari; Cœli forma"
+  },
+  {
+   "scan": 53,
+   "line": 45,
+   "lines": [
+    [
+     53,
+     45
+    ],
+    [
+     53,
+     46
+    ]
+   ],
+   "level": 3,
+   "title": "Caput II. De Cælo Empyreo"
+  },
+  {
+   "scan": 55,
+   "line": 3,
+   "lines": [
+    [
+     55,
+     3
+    ],
+    [
+     55,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Caput III. Volvi Cœlos reliquos circa Axem, cuius extremitatis Poli"
+  },
+  {
+   "scan": 56,
+   "line": 21,
+   "lines": [
+    [
+     56,
+     21
+    ],
+    [
+     56,
+     22
+    ]
+   ],
+   "level": 3,
+   "title": "Caput IV. De Circulis"
+  },
+  {
+   "scan": 56,
+   "line": 33,
+   "lines": [
+    [
+     56,
+     33
+    ],
+    [
+     56,
+     34
+    ]
+   ],
+   "level": 3,
+   "title": "Caput V. De Æquinoctiali"
+  },
+  {
+   "scan": 57,
+   "line": 45,
+   "lines": [
+    [
+     57,
+     45
+    ],
+    [
+     57,
+     46
+    ]
+   ],
+   "level": 3,
+   "title": "Caput VI. De Zodiaco"
+  },
+  {
+   "scan": 59,
+   "line": 28,
+   "lines": [
+    [
+     59,
+     28
+    ],
+    [
+     59,
+     29
+    ]
+   ],
+   "level": 3,
+   "title": "Caput VII. De Coluris"
+  },
+  {
+   "scan": 60,
+   "line": 14,
+   "lines": [
+    [
+     60,
+     14
+    ],
+    [
+     60,
+     15
+    ]
+   ],
+   "level": 3,
+   "title": "Caput VIII. De Horizonte"
+  },
+  {
+   "scan": 61,
+   "line": 21,
+   "lines": [
+    [
+     61,
+     21
+    ],
+    [
+     61,
+     22
+    ]
+   ],
+   "level": 3,
+   "title": "Caput IX. De Meridiano"
+  },
+  {
+   "scan": 62,
+   "line": 29,
+   "lines": [
+    [
+     62,
+     29
+    ],
+    [
+     62,
+     30
+    ]
+   ],
+   "level": 3,
+   "title": "Caput X. De Minoribus Circulis, & primo de Tropicis Cancri & Capricorni"
+  },
+  {
+   "scan": 63,
+   "line": 23,
+   "lines": [
+    [
+     63,
+     23
+    ],
+    [
+     63,
+     24
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XI. De Circulis Polaribus, Arctico & Antarctico"
+  },
+  {
+   "scan": 64,
+   "line": 20,
+   "lines": [
+    [
+     64,
+     20
+    ],
+    [
+     64,
+     21
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XII. De Circulis, quorum in Sphæra nullus usus"
+  },
+  {
+   "scan": 65,
+   "line": 13,
+   "lines": [
+    [
+     65,
+     13
+    ],
+    [
+     65,
+     14
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XIII. De Caelorum Volubilium Numero"
+  },
+  {
+   "scan": 68,
+   "line": 25,
+   "lines": [
+    [
+     68,
+     25
+    ],
+    [
+     68,
+     26
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XIV. De Motu Cœlestium Orbium"
+  },
+  {
+   "scan": 70,
+   "line": 1,
+   "lines": [
+    [
+     70,
+     1
+    ],
+    [
+     70,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XV. Brevis Stellarum Descriptio, eaque tractata membratim & excussa"
+  },
+  {
+   "scan": 73,
+   "line": 1,
+   "lines": [
+    [
+     73,
+     1
+    ],
+    [
+     73,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XVI. Astrologia quatenus licita"
+  },
+  {
+   "scan": 80,
+   "line": 1,
+   "lines": [
+    [
+     80,
+     1
+    ],
+    [
+     80,
+     2
+    ],
+    [
+     80,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XVII. Stellarum Distributio; Stellis Fixis unde Nomen; Numerus an certus; Classes secundum Magnitudinem"
+  },
+  {
+   "scan": 81,
+   "line": 1,
+   "lines": [
+    [
+     81,
+     1
+    ],
+    [
+     81,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XVIII. De Signis Cœlestibus universim"
+  },
+  {
+   "scan": 82,
+   "line": 1,
+   "lines": [
+    [
+     82,
+     1
+    ],
+    [
+     82,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XIX. Signorum in Zodiaco Syllabus; multiplex distinctio, Situs, Præfectura"
+  },
+  {
+   "scan": 89,
+   "line": 1,
+   "lines": [
+    [
+     89,
+     1
+    ],
+    [
+     89,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XX. De Signis Septemtrionalibus"
+  },
+  {
+   "scan": 93,
+   "line": 47,
+   "lines": [
+    [
+     93,
+     47
+    ],
+    [
+     93,
+     48
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXI. Signorum Meridionalium enumeratio"
+  },
+  {
+   "scan": 98,
+   "line": 1,
+   "lines": [
+    [
+     98,
+     1
+    ],
+    [
+     98,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXII. De Signis in Meridiana Cœli plaga noviter inventis"
+  },
+  {
+   "scan": 100,
+   "line": 1,
+   "lines": [
+    [
+     100,
+     1
+    ],
+    [
+     100,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXIII. De Planetis universim"
+  },
+  {
+   "scan": 102,
+   "line": 32,
+   "lines": [
+    [
+     102,
+     32
+    ],
+    [
+     102,
+     33
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXIV. De Saturno, Iove & Marte"
+  },
+  {
+   "scan": 103,
+   "line": 25,
+   "lines": [
+    [
+     103,
+     25
+    ],
+    [
+     103,
+     26
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXV. De Sole"
+  },
+  {
+   "scan": 108,
+   "line": 1,
+   "lines": [
+    [
+     108,
+     1
+    ],
+    [
+     108,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXVI. De Venere & Mercurio"
+  },
+  {
+   "scan": 109,
+   "line": 49,
+   "lines": [
+    [
+     109,
+     49
+    ],
+    [
+     109,
+     50
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXVII. De Luna"
+  },
+  {
+   "scan": 125,
+   "line": 20,
+   "lines": [
+    [
+     125,
+     20
+    ],
+    [
+     125,
+     21
+    ],
+    [
+     125,
+     22
+    ]
+   ],
+   "level": 2,
+   "title": "Liber III. De inconstante, & quæ perpetuis obnoxia mutationibus, universi parte"
+  },
+  {
+   "scan": 125,
+   "line": 23,
+   "lines": [
+    [
+     125,
+     23
+    ],
+    [
+     125,
+     24
+    ]
+   ],
+   "level": 3,
+   "title": "Caput I. De Elementis universim"
+  },
+  {
+   "scan": 127,
+   "line": 13,
+   "lines": [
+    [
+     127,
+     13
+    ],
+    [
+     127,
+     14
+    ]
+   ],
+   "level": 3,
+   "title": "Caput II. Elementa tantum tria. Ignis non vere Elementum"
+  },
+  {
+   "scan": 128,
+   "line": 1,
+   "lines": [
+    [
+     128,
+     1
+    ],
+    [
+     128,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput III. Elementorum distributio. De Aere"
+  },
+  {
+   "scan": 130,
+   "line": 1,
+   "lines": [
+    [
+     130,
+     1
+    ],
+    [
+     130,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput IV. De Aqua"
+  },
+  {
+   "scan": 131,
+   "line": 14,
+   "lines": [
+    [
+     131,
+     14
+    ],
+    [
+     131,
+     15
+    ]
+   ],
+   "level": 3,
+   "title": "Caput V. De Mari universim"
+  },
+  {
+   "scan": 145,
+   "line": 41,
+   "lines": [
+    [
+     145,
+     41
+    ],
+    [
+     145,
+     42
+    ]
+   ],
+   "level": 3,
+   "title": "Caput VI. De Oceano"
+  },
+  {
+   "scan": 148,
+   "line": 10,
+   "lines": [
+    [
+     148,
+     10
+    ],
+    [
+     148,
+     11
+    ]
+   ],
+   "level": 3,
+   "title": "Caput VII. De Internis Maribus, & primo de Mediterraneo"
+  },
+  {
+   "scan": 155,
+   "line": 1,
+   "lines": [
+    [
+     155,
+     1
+    ],
+    [
+     155,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput VIII. De reliquis Internis Maribus"
+  },
+  {
+   "scan": 156,
+   "line": 5,
+   "lines": [
+    [
+     156,
+     5
+    ],
+    [
+     156,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "Caput IX. De Euripis"
+  },
+  {
+   "scan": 158,
+   "line": 1,
+   "lines": [
+    [
+     158,
+     1
+    ],
+    [
+     158,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput X. De Aquis perpetuo defluentibus"
+  },
+  {
+   "scan": 164,
+   "line": 33,
+   "lines": [
+    [
+     164,
+     33
+    ],
+    [
+     164,
+     34
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XI. De Aquis natura sua Quietis"
+  },
+  {
+   "scan": 166,
+   "line": 1,
+   "lines": [
+    [
+     166,
+     1
+    ],
+    [
+     166,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XII. De Terra"
+  },
+  {
+   "scan": 167,
+   "line": 7,
+   "lines": [
+    [
+     167,
+     7
+    ],
+    [
+     167,
+     8
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XIII. De Forma Terræ"
+  },
+  {
+   "scan": 169,
+   "line": 1,
+   "lines": [
+    [
+     169,
+     1
+    ],
+    [
+     169,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XIV. De Fine creati Terrarum Orbis"
+  },
+  {
+   "scan": 186,
+   "line": 28,
+   "lines": [
+    [
+     186,
+     28
+    ],
+    [
+     186,
+     29
+    ],
+    [
+     186,
+     30
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XV. Terra medium obtinet Mundi Locum, esque Centrum Universi"
+  },
+  {
+   "scan": 190,
+   "line": 18,
+   "lines": [
+    [
+     190,
+     18
+    ],
+    [
+     190,
+     19
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XVI. De Terræ Quantitate"
+  },
+  {
+   "scan": 197,
+   "line": 2,
+   "lines": [
+    [
+     197,
+     2
+    ],
+    [
+     197,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XVII. De Circulis"
+  },
+  {
+   "scan": 198,
+   "line": 4,
+   "lines": [
+    [
+     198,
+     4
+    ],
+    [
+     198,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XVIII. De Circulis Longitudinis"
+  },
+  {
+   "scan": 200,
+   "line": 1,
+   "lines": [
+    [
+     200,
+     1
+    ],
+    [
+     200,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XIX. De Latitudinis Circulis"
+  },
+  {
+   "scan": 201,
+   "line": 1,
+   "lines": [
+    [
+     201,
+     1
+    ],
+    [
+     201,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XX. De Locorum Dimensionibus"
+  },
+  {
+   "scan": 202,
+   "line": 1,
+   "lines": [
+    [
+     202,
+     1
+    ],
+    [
+     202,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXI. De Amphiscijs, Heteroscijs, Periscijs"
+  },
+  {
+   "scan": 202,
+   "line": 21,
+   "lines": [
+    [
+     202,
+     21
+    ],
+    [
+     202,
+     22
+    ],
+    [
+     202,
+     23
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXII. De Zonis: primo universim; deinde an & quomodo habitentur Intemperatæ"
+  },
+  {
+   "scan": 210,
+   "line": 1,
+   "lines": [
+    [
+     210,
+     1
+    ],
+    [
+     210,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXIII. De Climatibus"
+  },
+  {
+   "scan": 222,
+   "line": 1,
+   "lines": [
+    [
+     222,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Breviarium partis I"
+  },
+  {
+   "scan": 227,
+   "line": 0,
+   "lines": [
+    [
+     227,
+     0
+    ]
+   ],
+   "level": 2,
+   "title": "Liber I. Europa"
+  },
+  {
+   "scan": 227,
+   "line": 46,
+   "lines": [
+    [
+     227,
+     46
+    ],
+    [
+     227,
+     47
+    ]
+   ],
+   "level": 3,
+   "title": "Caput II. Ab Europa quur ordiundum"
+  },
+  {
+   "scan": 228,
+   "line": 37,
+   "lines": [
+    [
+     228,
+     37
+    ],
+    [
+     228,
+     38
+    ]
+   ],
+   "level": 3,
+   "title": "Caput III. Europæ varia indicantur Nomina"
+  },
+  {
+   "scan": 229,
+   "line": 37,
+   "lines": [
+    [
+     229,
+     37
+    ],
+    [
+     229,
+     38
+    ]
+   ],
+   "level": 3,
+   "title": "Caput IV. Europæ diversa panduntur vel Nomina vel Cognomina"
+  },
+  {
+   "scan": 230,
+   "line": 30,
+   "lines": [
+    [
+     230,
+     30
+    ],
+    [
+     230,
+     31
+    ]
+   ],
+   "level": 3,
+   "title": "Caput V. Europæ Situs Cœlestis, ejusque Longitudo & Latitudo"
+  },
+  {
+   "scan": 231,
+   "line": 36,
+   "lines": [
+    [
+     231,
+     36
+    ],
+    [
+     231,
+     37
+    ]
+   ],
+   "level": 3,
+   "title": "Caput VI. Europæ Qualitas"
+  },
+  {
+   "scan": 232,
+   "line": 30,
+   "lines": [
+    [
+     232,
+     30
+    ],
+    [
+     232,
+     31
+    ]
+   ],
+   "level": 3,
+   "title": "Caput VII. Europæorum Mores"
+  },
+  {
+   "scan": 233,
+   "line": 43,
+   "lines": [
+    [
+     233,
+     43
+    ],
+    [
+     233,
+     44
+    ]
+   ],
+   "level": 3,
+   "title": "Caput VIII. Europæorum Linguæ"
+  },
+  {
+   "scan": 235,
+   "line": 1,
+   "lines": [
+    [
+     235,
+     1
+    ],
+    [
+     235,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput IX. Europa Divisio"
+  },
+  {
+   "scan": 236,
+   "line": 4,
+   "lines": [
+    [
+     236,
+     4
+    ],
+    [
+     236,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Liber II. De Hispania"
+  },
+  {
+   "scan": 236,
+   "line": 6,
+   "lines": [
+    [
+     236,
+     6
+    ],
+    [
+     236,
+     7
+    ]
+   ],
+   "level": 3,
+   "title": "Caput I. Hispania unde dicta, queque varia ejus Nomina"
+  },
+  {
+   "scan": 237,
+   "line": 37,
+   "lines": [
+    [
+     237,
+     37
+    ],
+    [
+     237,
+     38
+    ]
+   ],
+   "level": 3,
+   "title": "Caput II. Hispaniæ Fines, Longitudo, Latitudo, Circumitus, Forma"
+  },
+  {
+   "scan": 238,
+   "line": 22,
+   "lines": [
+    [
+     238,
+     22
+    ],
+    [
+     238,
+     23
+    ],
+    [
+     238,
+     24
+    ]
+   ],
+   "level": 3,
+   "title": "Caput III. Clima Hispaniæ, ejusque ex Situ Cœlesti Qualitas, & quæ inde commoda"
+  },
+  {
+   "scan": 243,
+   "line": 42,
+   "lines": [
+    [
+     243,
+     42
+    ],
+    [
+     243,
+     43
+    ]
+   ],
+   "level": 3,
+   "title": "Caput IV. Hispaniæ Montes"
+  },
+  {
+   "scan": 246,
+   "line": 1,
+   "lines": [
+    [
+     246,
+     1
+    ],
+    [
+     246,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput V. Hispaniæ Promontoria"
+  },
+  {
+   "scan": 247,
+   "line": 2,
+   "lines": [
+    [
+     247,
+     2
+    ],
+    [
+     247,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Caput VI. Hispaniæ Sinus & Portus"
+  },
+  {
+   "scan": 247,
+   "line": 21,
+   "lines": [
+    [
+     247,
+     21
+    ],
+    [
+     247,
+     22
+    ]
+   ],
+   "level": 3,
+   "title": "Caput VII. Hispaniæ Flumina, Lacus, Stagna, Fontes, &c."
+  },
+  {
+   "scan": 251,
+   "line": 41,
+   "lines": [
+    [
+     251,
+     41
+    ],
+    [
+     251,
+     42
+    ]
+   ],
+   "level": 3,
+   "title": "Caput VIII. Hispanorum Genius, Mores, Lingua"
+  },
+  {
+   "scan": 259,
+   "line": 17,
+   "lines": [
+    [
+     259,
+     17
+    ],
+    [
+     259,
+     18
+    ]
+   ],
+   "level": 3,
+   "title": "Caput IX. Hispaniarum Gubernatio Politica"
+  },
+  {
+   "scan": 263,
+   "line": 15,
+   "lines": [
+    [
+     263,
+     15
+    ],
+    [
+     263,
+     16
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XI. Variæ Hispaniarum Distributiones. Biscaia"
+  },
+  {
+   "scan": 266,
+   "line": 10,
+   "lines": [
+    [
+     266,
+     10
+    ],
+    [
+     266,
+     11
+    ],
+    [
+     266,
+     12
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XII. Guipuscoa"
+  },
+  {
+   "scan": 267,
+   "line": 1,
+   "lines": [
+    [
+     267,
+     1
+    ],
+    [
+     267,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XIII. Navarra"
+  },
+  {
+   "scan": 269,
+   "line": 7,
+   "lines": [
+    [
+     269,
+     7
+    ],
+    [
+     269,
+     8
+    ],
+    [
+     269,
+     9
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XIV. Aragonia"
+  },
+  {
+   "scan": 272,
+   "line": 20,
+   "lines": [
+    [
+     272,
+     20
+    ],
+    [
+     272,
+     21
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XV. Catalonia"
+  },
+  {
+   "scan": 276,
+   "line": 24,
+   "lines": [
+    [
+     276,
+     24
+    ],
+    [
+     276,
+     25
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XVI. Galecia"
+  },
+  {
+   "scan": 278,
+   "line": 49,
+   "lines": [
+    [
+     278,
+     49
+    ],
+    [
+     278,
+     50
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XVII. Asturia"
+  },
+  {
+   "scan": 280,
+   "line": 1,
+   "lines": [
+    [
+     280,
+     1
+    ],
+    [
+     280,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XVIII. Legio"
+  },
+  {
+   "scan": 281,
+   "line": 18,
+   "lines": [
+    [
+     281,
+     18
+    ],
+    [
+     281,
+     19
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XIX. Castellam Veterem"
+  },
+  {
+   "scan": 286,
+   "line": 9,
+   "lines": [
+    [
+     286,
+     9
+    ],
+    [
+     286,
+     10
+    ],
+    [
+     286,
+     11
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XX. Castella Nova"
+  },
+  {
+   "scan": 290,
+   "line": 1,
+   "lines": [
+    [
+     290,
+     1
+    ],
+    [
+     290,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXI. Valentia"
+  },
+  {
+   "scan": 293,
+   "line": 1,
+   "lines": [
+    [
+     293,
+     1
+    ],
+    [
+     293,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXII. Murcia"
+  },
+  {
+   "scan": 296,
+   "line": 1,
+   "lines": [
+    [
+     296,
+     1
+    ],
+    [
+     296,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXIII. Granata"
+  },
+  {
+   "scan": 301,
+   "line": 10,
+   "lines": [
+    [
+     301,
+     10
+    ],
+    [
+     301,
+     11
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXIV. Andaluzia"
+  },
+  {
+   "scan": 309,
+   "line": 1,
+   "lines": [
+    [
+     309,
+     1
+    ],
+    [
+     309,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXV. Estremadura"
+  },
+  {
+   "scan": 311,
+   "line": 1,
+   "lines": [
+    [
+     311,
+     1
+    ],
+    [
+     311,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXVI. Portugallia"
+  },
+  {
+   "scan": 316,
+   "line": 24,
+   "lines": [
+    [
+     316,
+     24
+    ],
+    [
+     316,
+     25
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXVII. Algarbia"
+  },
+  {
+   "scan": 318,
+   "line": 1,
+   "lines": [
+    [
+     318,
+     1
+    ],
+    [
+     318,
+     2
+    ],
+    [
+     318,
+     3
+    ],
+    [
+     318,
+     4
+    ],
+    [
+     318,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Liber III. De Gallia"
+  },
+  {
+   "scan": 318,
+   "line": 6,
+   "lines": [
+    [
+     318,
+     6
+    ],
+    [
+     318,
+     7
+    ]
+   ],
+   "level": 3,
+   "title": "Caput I. Gallia unde dicta, variaque ejus Nomina"
+  },
+  {
+   "scan": 319,
+   "line": 28,
+   "lines": [
+    [
+     319,
+     28
+    ],
+    [
+     319,
+     29
+    ]
+   ],
+   "level": 3,
+   "title": "Caput II. Galliæ Fines, Longitudo, Latitudo, Circuitus"
+  },
+  {
+   "scan": 320,
+   "line": 15,
+   "lines": [
+    [
+     320,
+     15
+    ],
+    [
+     320,
+     16
+    ]
+   ],
+   "level": 3,
+   "title": "Caput III. Galliæ Clima, Qualitas"
+  },
+  {
+   "scan": 323,
+   "line": 3,
+   "lines": [
+    [
+     323,
+     3
+    ],
+    [
+     323,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Caput IV. Galliæ Montes"
+  },
+  {
+   "scan": 324,
+   "line": 29,
+   "lines": [
+    [
+     324,
+     29
+    ],
+    [
+     324,
+     30
+    ]
+   ],
+   "level": 3,
+   "title": "Caput V. Galliæ Promontoria"
+  },
+  {
+   "scan": 325,
+   "line": 1,
+   "lines": [
+    [
+     325,
+     1
+    ],
+    [
+     325,
+     2
+    ],
+    [
+     325,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Caput VI. Galliæ Silvæ"
+  },
+  {
+   "scan": 325,
+   "line": 19,
+   "lines": [
+    [
+     325,
+     19
+    ],
+    [
+     325,
+     20
+    ]
+   ],
+   "level": 3,
+   "title": "Caput VII. Galliæ Sinus"
+  },
+  {
+   "scan": 326,
+   "line": 1,
+   "lines": [
+    [
+     326,
+     1
+    ],
+    [
+     326,
+     2
+    ],
+    [
+     326,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Caput VIII. Galliarum Portus"
+  },
+  {
+   "scan": 326,
+   "line": 25,
+   "lines": [
+    [
+     326,
+     25
+    ],
+    [
+     326,
+     26
+    ]
+   ],
+   "level": 3,
+   "title": "Caput IX. Fluvii Galliæ celebriores"
+  },
+  {
+   "scan": 331,
+   "line": 38,
+   "lines": [
+    [
+     331,
+     38
+    ],
+    [
+     331,
+     39
+    ]
+   ],
+   "level": 3,
+   "title": "Caput X. Lacus, Fontes"
+  },
+  {
+   "scan": 333,
+   "line": 23,
+   "lines": [
+    [
+     333,
+     23
+    ],
+    [
+     333,
+     24
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XI. Gallorum Genius; Mores item circa Res Sacras"
+  },
+  {
+   "scan": 339,
+   "line": 37,
+   "lines": [
+    [
+     339,
+     37
+    ],
+    [
+     339,
+     38
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XII. Gallorum Veterum Mores circa Res publicas, Domi"
+  },
+  {
+   "scan": 340,
+   "line": 16,
+   "lines": [
+    [
+     340,
+     16
+    ],
+    [
+     340,
+     17
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XIII. Gallorum Mores circa Res publicas, Militiæ"
+  },
+  {
+   "scan": 344,
+   "line": 35,
+   "lines": [
+    [
+     344,
+     35
+    ],
+    [
+     344,
+     36
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XIV. Gallorum Mores circa Res Privatas"
+  },
+  {
+   "scan": 347,
+   "line": 14,
+   "lines": [
+    [
+     347,
+     14
+    ],
+    [
+     347,
+     15
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XV. Gallorum, cum qui olim, tum qui hodie, Lingua"
+  },
+  {
+   "scan": 359,
+   "line": 7,
+   "lines": [
+    [
+     359,
+     7
+    ],
+    [
+     359,
+     8
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XVI. Gubernatio Galliarum Prisca tam in Sacris, quam Profanis"
+  },
+  {
+   "scan": 363,
+   "line": 1,
+   "lines": [
+    [
+     363,
+     1
+    ],
+    [
+     363,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XVII. Hodierna Galliarum in Politicis Gubernatio"
+  },
+  {
+   "scan": 366,
+   "line": 21,
+   "lines": [
+    [
+     366,
+     21
+    ],
+    [
+     366,
+     22
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XVIII. Hodiernus in Ecclesiasticis Galliarum Status"
+  },
+  {
+   "scan": 372,
+   "line": 10,
+   "lines": [
+    [
+     372,
+     10
+    ],
+    [
+     372,
+     11
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XIX. Varia Galliarum Distributiones"
+  },
+  {
+   "scan": 376,
+   "line": 1,
+   "lines": [
+    [
+     376,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "Notitia Provinciarum Galliæ"
+  },
+  {
+   "scan": 402,
+   "line": 2,
+   "lines": [
+    [
+     402,
+     2
+    ],
+    [
+     402,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XX. Picardia"
+  },
+  {
+   "scan": 411,
+   "line": 1,
+   "lines": [
+    [
+     411,
+     1
+    ],
+    [
+     411,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXI. Francia specialius strictiusque sumta"
+  },
+  {
+   "scan": 421,
+   "line": 1,
+   "lines": [
+    [
+     421,
+     1
+    ],
+    [
+     421,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXII. Belsia"
+  },
+  {
+   "scan": 429,
+   "line": 36,
+   "lines": [
+    [
+     429,
+     36
+    ],
+    [
+     429,
+     37
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXIII. Campania"
+  },
+  {
+   "scan": 435,
+   "line": 1,
+   "lines": [
+    [
+     435,
+     1
+    ],
+    [
+     435,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXIV. Lugdunensis Tractus"
+  },
+  {
+   "scan": 438,
+   "line": 5,
+   "lines": [
+    [
+     438,
+     5
+    ],
+    [
+     438,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXV. Bituricensis Tractus"
+  },
+  {
+   "scan": 441,
+   "line": 29,
+   "lines": [
+    [
+     441,
+     29
+    ],
+    [
+     441,
+     30
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXVI. Borbonius Tractus"
+  },
+  {
+   "scan": 443,
+   "line": 13,
+   "lines": [
+    [
+     443,
+     13
+    ],
+    [
+     443,
+     14
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXVII. Pictonius Tractus"
+  },
+  {
+   "scan": 446,
+   "line": 1,
+   "lines": [
+    [
+     446,
+     1
+    ],
+    [
+     446,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXVIII. Inculismensis Ager"
+  },
+  {
+   "scan": 447,
+   "line": 40,
+   "lines": [
+    [
+     447,
+     40
+    ],
+    [
+     447,
+     41
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXIX. Arvernia"
+  },
+  {
+   "scan": 451,
+   "line": 1,
+   "lines": [
+    [
+     451,
+     1
+    ],
+    [
+     451,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXX. Normannia"
+  },
+  {
+   "scan": 460,
+   "line": 1,
+   "lines": [
+    [
+     460,
+     1
+    ],
+    [
+     460,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXXI. Britannia"
+  },
+  {
+   "scan": 465,
+   "line": 6,
+   "lines": [
+    [
+     465,
+     6
+    ],
+    [
+     465,
+     7
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXXII. Lemovicium"
+  },
+  {
+   "scan": 466,
+   "line": 47,
+   "lines": [
+    [
+     466,
+     47
+    ],
+    [
+     466,
+     48
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXXIII. Petrocorium"
+  },
+  {
+   "scan": 468,
+   "line": 1,
+   "lines": [
+    [
+     468,
+     1
+    ],
+    [
+     468,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXXIV. Guienna"
+  },
+  {
+   "scan": 480,
+   "line": 3,
+   "lines": [
+    [
+     480,
+     3
+    ],
+    [
+     480,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXXV. Cadurcium"
+  },
+  {
+   "scan": 481,
+   "line": 8,
+   "lines": [
+    [
+     481,
+     8
+    ],
+    [
+     481,
+     9
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXXVI. Rutenium"
+  },
+  {
+   "scan": 481,
+   "line": 21,
+   "lines": [
+    [
+     481,
+     21
+    ],
+    [
+     481,
+     22
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXXVII. Languedokium"
+  },
+  {
+   "scan": 491,
+   "line": 4,
+   "lines": [
+    [
+     491,
+     4
+    ],
+    [
+     491,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXXVIII. Vasconia"
+  },
+  {
+   "scan": 509,
+   "line": 1,
+   "lines": [
+    [
+     509,
+     1
+    ],
+    [
+     509,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXXIX. Provincia"
+  },
+  {
+   "scan": 539,
+   "line": 1,
+   "lines": [
+    [
+     539,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XL. Delphinatus"
+  },
+  {
+   "scan": 543,
+   "line": 21,
+   "lines": [
+    [
+     543,
+     21
+    ],
+    [
+     543,
+     22
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XLI. Burgundiæ Ducatus"
+  },
+  {
+   "scan": 552,
+   "line": 37,
+   "lines": [
+    [
+     552,
+     37
+    ],
+    [
+     552,
+     38
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XLII. Avenionensis Comitatus"
+  },
+  {
+   "scan": 555,
+   "line": 1,
+   "lines": [
+    [
+     555,
+     1
+    ],
+    [
+     555,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XLIII. Sabaudiæ"
+  },
+  {
+   "scan": 560,
+   "line": 4,
+   "lines": [
+    [
+     560,
+     4
+    ],
+    [
+     560,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XLIV. Lotharingia"
+  },
+  {
+   "scan": 566,
+   "line": 21,
+   "lines": [
+    [
+     566,
+     21
+    ],
+    [
+     566,
+     22
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XLV. Benearnia"
+  },
+  {
+   "scan": 569,
+   "line": 25,
+   "lines": [
+    [
+     569,
+     25
+    ],
+    [
+     569,
+     26
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XLVI. Araufio"
+  },
+  {
+   "scan": 570,
+   "line": 22,
+   "lines": [
+    [
+     570,
+     22
+    ],
+    [
+     570,
+     23
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XLVII. Burgundiae Comitatus"
+  },
+  {
+   "scan": 587,
+   "line": 21,
+   "lines": [
+    [
+     587,
+     21
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XLVIII. Karolesium"
+  },
+  {
+   "scan": 589,
+   "line": 1,
+   "lines": [
+    [
+     589,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Breviarium librorum trium Partis II."
+  },
+  {
+   "scan": 591,
+   "line": 4,
+   "lines": [
+    [
+     591,
+     4
+    ],
+    [
+     591,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Liber IV. De Italia"
+  },
+  {
+   "scan": 591,
+   "line": 6,
+   "lines": [
+    [
+     591,
+     6
+    ],
+    [
+     591,
+     7
+    ],
+    [
+     591,
+     8
+    ]
+   ],
+   "level": 3,
+   "title": "Caput I. Italia nomen unde, & varia eius nomina sive cognomina"
+  },
+  {
+   "scan": 594,
+   "line": 7,
+   "lines": [
+    [
+     594,
+     7
+    ],
+    [
+     594,
+     8
+    ],
+    [
+     594,
+     9
+    ],
+    [
+     594,
+     10
+    ]
+   ],
+   "level": 3,
+   "title": "Caput II. Italiæ quantitas, quæ patet in finibus, longitudine, latitudine, circuitu, & similibus: Italiæ dorsum, umbilicus, figura."
+  },
+  {
+   "scan": 595,
+   "line": 44,
+   "lines": [
+    [
+     595,
+     44
+    ],
+    [
+     595,
+     45
+    ]
+   ],
+   "level": 3,
+   "title": "Caput III. Italiæ situs cœlestis."
+  },
+  {
+   "scan": 596,
+   "line": 5,
+   "lines": [
+    [
+     596,
+     5
+    ],
+    [
+     596,
+     6
+    ],
+    [
+     596,
+     7
+    ]
+   ],
+   "level": 3,
+   "title": "Caput IV. De qualitate, quæ pendet plurimum ex situ cœlesti, paretque in commodis, quæ inde proveniunt."
+  },
+  {
+   "scan": 603,
+   "line": 46,
+   "lines": [
+    [
+     603,
+     46
+    ],
+    [
+     603,
+     47
+    ]
+   ],
+   "level": 3,
+   "title": "Caput V. Italiæ montes."
+  },
+  {
+   "scan": 627,
+   "line": 31,
+   "lines": [
+    [
+     627,
+     31
+    ],
+    [
+     627,
+     32
+    ]
+   ],
+   "level": 3,
+   "title": "Caput VI. Italiæ promontoria, cornua, scopuli."
+  },
+  {
+   "scan": 632,
+   "line": 18,
+   "lines": [
+    [
+     632,
+     18
+    ],
+    [
+     632,
+     19
+    ]
+   ],
+   "level": 3,
+   "title": "Caput VII. Italiæ valles, campi, agri, prata, via."
+  },
+  {
+   "scan": 636,
+   "line": 6,
+   "lines": [
+    [
+     636,
+     6
+    ],
+    [
+     636,
+     7
+    ]
+   ],
+   "level": 3,
+   "title": "Caput VIII. Italiæ silvæ, luci, nemora."
+  },
+  {
+   "scan": 638,
+   "line": 1,
+   "lines": [
+    [
+     638,
+     1
+    ],
+    [
+     638,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput IX. Italiæ sinus."
+  },
+  {
+   "scan": 639,
+   "line": 22,
+   "lines": [
+    [
+     639,
+     22
+    ],
+    [
+     639,
+     23
+    ]
+   ],
+   "level": 3,
+   "title": "Caput X. Italiæ portus."
+  },
+  {
+   "scan": 643,
+   "line": 28,
+   "lines": [
+    [
+     643,
+     28
+    ],
+    [
+     643,
+     29
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XI. Italiæ flumina."
+  },
+  {
+   "scan": 688,
+   "line": 1,
+   "lines": [
+    [
+     688,
+     1
+    ],
+    [
+     688,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XII. Italiæ lacus, paludes, stagna, fossæ, fontes, aquæ."
+  },
+  {
+   "scan": 698,
+   "line": 11,
+   "lines": [
+    [
+     698,
+     11
+    ],
+    [
+     698,
+     12
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XIII. De variis, quæ cum in terra, tum in aquis Italiæ sunt, miraculis."
+  },
+  {
+   "scan": 706,
+   "line": 1,
+   "lines": [
+    [
+     706,
+     1
+    ],
+    [
+     706,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XIV. Italorum genius & indoles."
+  },
+  {
+   "scan": 711,
+   "line": 12,
+   "lines": [
+    [
+     711,
+     12
+    ],
+    [
+     711,
+     13
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XV. Italorum mores in rebus sacris."
+  },
+  {
+   "scan": 711,
+   "line": 39,
+   "lines": [
+    [
+     711,
+     39
+    ],
+    [
+     711,
+     40
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XVI. Italorum mores in rebus publicis, cum domi, tum militiæ."
+  },
+  {
+   "scan": 712,
+   "line": 21,
+   "lines": [
+    [
+     712,
+     21
+    ],
+    [
+     712,
+     22
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XVII. Italorum mores in rebus privatis."
+  },
+  {
+   "scan": 713,
+   "line": 40,
+   "lines": [
+    [
+     713,
+     40
+    ],
+    [
+     713,
+     41
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XVIII. Linguæ Italorum, quæ olim, quæ hodie."
+  },
+  {
+   "scan": 730,
+   "line": 36,
+   "lines": [
+    [
+     730,
+     36
+    ],
+    [
+     730,
+     37
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XIX. Gubernatio Italorum civilis & politica."
+  },
+  {
+   "scan": 759,
+   "line": 31,
+   "lines": [
+    [
+     759,
+     31
+    ],
+    [
+     759,
+     32
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XX. Gubernatio Italiæ sacra vel ecclesiastica."
+  },
+  {
+   "scan": 774,
+   "line": 19,
+   "lines": [
+    [
+     774,
+     19
+    ],
+    [
+     774,
+     20
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXI. Italiæ varia distributiones. Etruria."
+  },
+  {
+   "scan": 827,
+   "line": 11,
+   "lines": [
+    [
+     827,
+     11
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXII. Latium."
+  },
+  {
+   "scan": 969,
+   "line": 29,
+   "lines": [
+    [
+     969,
+     29
+    ],
+    [
+     969,
+     30
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXIII. Picenum."
+  },
+  {
+   "scan": 985,
+   "line": 3,
+   "lines": [
+    [
+     985,
+     3
+    ],
+    [
+     985,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXIV. Umbria."
+  },
+  {
+   "scan": 1000,
+   "line": 25,
+   "lines": [
+    [
+     1000,
+     25
+    ],
+    [
+     1000,
+     26
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXV. Campania Felix."
+  },
+  {
+   "scan": 1048,
+   "line": 1,
+   "lines": [
+    [
+     1048,
+     1
+    ],
+    [
+     1048,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXVII. Brutij."
+  },
+  {
+   "scan": 1054,
+   "line": 27,
+   "lines": [
+    [
+     1054,
+     27
+    ],
+    [
+     1054,
+     28
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXVIII. Magna Græcia."
+  },
+  {
+   "scan": 1063,
+   "line": 1,
+   "lines": [
+    [
+     1063,
+     1
+    ],
+    [
+     1063,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXIX. Samnites."
+  },
+  {
+   "scan": 1091,
+   "line": 16,
+   "lines": [
+    [
+     1091,
+     16
+    ],
+    [
+     1091,
+     17
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXX. Apulia Daunia."
+  },
+  {
+   "scan": 1097,
+   "line": 20,
+   "lines": [
+    [
+     1097,
+     20
+    ],
+    [
+     1097,
+     21
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXXI. Apulia Peucetia."
+  },
+  {
+   "scan": 1102,
+   "line": 24,
+   "lines": [
+    [
+     1102,
+     24
+    ],
+    [
+     1102,
+     25
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXXII. Salentini."
+  },
+  {
+   "scan": 1110,
+   "line": 1,
+   "lines": [
+    [
+     1110,
+     1
+    ],
+    [
+     1110,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXXIII. Flaminia vel Romanula."
+  },
+  {
+   "scan": 1131,
+   "line": 1,
+   "lines": [
+    [
+     1131,
+     1
+    ],
+    [
+     1131,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXXIV. Æmilia vel Langbardia Cis Padana."
+  },
+  {
+   "scan": 1142,
+   "line": 40,
+   "lines": [
+    [
+     1142,
+     40
+    ],
+    [
+     1142,
+     41
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXXV. Langbardia Trans-Padana."
+  },
+  {
+   "scan": 1171,
+   "line": 1,
+   "lines": [
+    [
+     1171,
+     1
+    ],
+    [
+     1171,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXXVI. Venetia vel Marca Tarvisina."
+  },
+  {
+   "scan": 1191,
+   "line": 36,
+   "lines": [
+    [
+     1191,
+     36
+    ],
+    [
+     1191,
+     37
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXXVII. Forum Iulij."
+  },
+  {
+   "scan": 1197,
+   "line": 58,
+   "lines": [
+    [
+     1197,
+     58
+    ],
+    [
+     1197,
+     59
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXXVIII. Istria."
+  },
+  {
+   "scan": 1200,
+   "line": 16,
+   "lines": [
+    [
+     1200,
+     16
+    ],
+    [
+     1200,
+     17
+    ]
+   ],
+   "level": 3,
+   "title": "Caput XXXIX. Liguria."
+  }
+ ],
+ "book": "Paulli G.F.P.N. Merulae Cosmographiae generalis libri tres, item Geographiae particularis (Amsterdam, Hondius, 1634), one work in two parts: Pars I, three books of general cosmography (heavens, elements, earth, zones); Pars II, particular geography in books on Europe, Spain, Gaul and Italy, each book divided into numbered chapters; the sheet covers scans 3 to 515 and does not reach Liber IV, Italia.",
+ "series": [
+  {
+   "label": "Pars",
+   "first": "I",
+   "last": "II",
+   "count": 2,
+   "level": 1,
+   "found": 4
+  },
+  {
+   "label": "Liber",
+   "first": "I",
+   "last": "III",
+   "count": 7,
+   "level": 2,
+   "found": 9
+  },
+  {
+   "label": "Caput",
+   "first": "I",
+   "last": "XI",
+   "count": 109,
+   "level": 3,
+   "found": 182
+  }
+ ],
+ "taste": 25,
+ "doubt": "",
+ "input": 258369,
+ "output": 85433
+}

@@ -1,0 +1,54 @@
+{
+  "units": [
+    "888.31",
+    "888.32",
+    "888.33",
+    "888.37",
+    "888.38",
+    "888.39",
+    "888.40",
+    "888.41",
+    "888.42",
+    "888.43",
+    "888.44",
+    "888.50",
+    "888.51",
+    "888.52",
+    "888.59",
+    "888.60",
+    "888.61",
+    "888.62",
+    "888.63",
+    "888.64",
+    "888.65",
+    "888.66",
+    "888.67",
+    "888.68",
+    "888.69",
+    "888.70",
+    "888.71",
+    "888.72"
+  ],
+  "model": "claude-haiku-5-5",
+  "prompt_sha256": "5fbd1c78b227e774",
+  "stop_reason": "end_turn",
+  "batch": false,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 1782,
+    "inference_geo": "global",
+    "input_tokens": 638,
+    "output_tokens": 1435,
+    "output_tokens_details": {
+      "thinking_tokens": 886
+    },
+    "server_tool_use": null,
+    "service_tier": "standard",
+    "speed": "standard"
+  },
+  "cost_usd": 0.0008
+}
