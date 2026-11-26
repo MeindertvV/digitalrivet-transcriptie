@@ -1,0 +1,5424 @@
+{
+ "source": "W03329_Heidegger_Dissertatio_de_baptismo_pro_mortuis_ad_illustrem_qui_est_I_C_1668.pdf",
+ "pages": [
+  {
+   "n": 1,
+   "type": "empty",
+   "model": "claude-haiku-5-5",
+   "notes": "Digitiser's cover sheet only (e-rara.ch title page and usage notes, with logos and links). Left out under the rules. For reference, the title information it gives: Heidegger, Johann Heinrich, \"Dissertatio De Baptismo Pro Mortuis\", Tiguri, M. DC LXVIII, Zentralbibliothek Zürich."
+  },
+  {
+   "n": 2,
+   "type": "title",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": null,
+     "text": "DISSERTATIO",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "De",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "BAPTISMO PRO",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "MORTUIS,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Ad illustrem qui est 1. Cor. XV. 29. locum:",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Quam",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Θεῖ οὺν παλάμῃ.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "SUB PRÆSIDIO",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Viri maximè Reverendi, atque Ex-",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "cellentissimi,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "DN. JOH. HENRICI HEIDEGGERI,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "SS. Theologiæ Doctoris, & ejusdem in Athe-",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "næo patrio Professoris celeberrimi, Dn. Patroni ac",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Præceptoris devoto animi cultu ætatem",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "prosequendi,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Examinandam sistit",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "JOH. CASPARUS BRUNNERUS, Tig.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Ad diem Novembris.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "H. L. Q. S.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "TIGURI,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Typis JOH. HEINRICI HAMBERGERI.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "M. DC LXVIII.",
+     "heading": 0
+    }
+   ],
+   "notes": "The Greek motto line is printed as \"Θεῷ οὐν παλάμῃ\" in the scan; the letters are small and partly uncertain, so the transcription may differ in a few accents. The Latin Greek-style title word \"Quam\" is set in italic and may be a display capital. Ornament (printer's device) between the H. L. Q. S. line and the place line is not transcribed. The Latin \"Dissertatio\" and \"De\" lines are printed with \"De\" in a decorative italic form."
+  },
+  {
+   "n": 3,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "Plurimùm Reverendis, Clarissimis, Excellen-",
+     "heading": 1,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "tissimisque Viris,",
+     "heading": 1
+    },
+    {
+     "n": 3,
+     "text": "DN. JOH. HENRICO ZELLERO, SS. Theologiæ Professori prima-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "rio, Scholarchæ p.t. Magnifico.",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "DN. JOH. CASPARO SVICERO, Linguarum principum Professori,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "& scriptorum juris communis faciendorum Censori accuratissimo,",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "Scholæ item Abbatissanæ Intendenti, ac ædilitatis ad Collegium",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "Carolinum spectantis Administratori fidelissimo.",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "DN. JOH. HENRICO LAVATERO, Utr. Med. Doctori Experientis-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 10,
+     "text": "simo, Archiatro dexterrimo, Physices ac Matheseos Professori",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "acutissimo.",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "DN. JOH. HENRICO HEIDEGGERO, SS. Theologiæ Doctori &",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 13,
+     "text": "ejusdem Professori eruditissimo, Scholæ Carolinæ Intendenti",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "dignissimo.",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "DN. JOHANNI LAVATERO, Logicæ ac Meraphysicæ Professori so-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 16,
+     "text": "lidissimo.",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "DN. JOHANNI MYLLERO, Templi Carolini Archidiacono zelo di-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 18,
+     "text": "vinæ gloriæ flagrantissimo, Historiæ Ecclesiasticæ antehac Pro-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "fessori nunquam sine veneratione memorando.",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "DN. JOH. RODOLPHO HOFFMEISTERO, SS. Literarum scruta-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 21,
+     "text": "tori indefesso, & earundem Professori solertissimo.",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "DN. JOH. HENRICO OTTIO, Eloquentiæ & Historiæ Ecclesiasticæ",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 23,
+     "text": "Professori meritissimo.",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "<i>DD. Præceptoribus, Patronis, Fautoribus, Cognatis,</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 25,
+     "text": "<i>levidense hoc studiorum suorum libamentum</i>",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "<i>in debiti obsequii ac observantiæ πεχμήριον,</i>",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "<i>degustandum summisse ac devotè defert</i>",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "JOH. CASPARUS BRUNNERUS,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 29,
+     "text": "Autor & Respondens.",
+     "heading": 0
+    }
+   ],
+   "notes": "Woodcut border at top is decorative. Library stamp \"STADT-BIBLIOTHEK ZUERICH\" at lower left omitted. Show-through text from the reverse page omitted. Bold/italic and Greek word \"πεχμήριον\" as printed (likely \"τεκμήριον\" in print; kept as shown). Several capitalised abbreviations (DN., SS.) rendered as printed."
+  },
+  {
+   "n": 4,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "number": "A 2",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: tiam"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "I.",
+     "heading": 1,
+     "caput": "1",
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "QUamvis S. Scriptura sit <i>lucerna pedibus</i> nostris Ps. CXIX. 105.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "ותורה אור <i>& lex lux</i> Prov. VI. 23. in qua <i>πεφωτισμένοι</i>",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "<i>τῆς ὀφθαλμὸς τῆς διανοίας</i> Eph. 1. 18. liquidissimam primariorum doctrinæ",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "Christianæ capitum fixo aspectu contemplari possunt veritatem: cer-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "tum tamen est, nec ulla cum dubitatione conjunctum, non quædam",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "tantùm Scripturæ loca noctuarum ad istud <i>λαμπρὸν φάος ἡελίοιο</i> cali-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "gantium perversitate, & eorum potissimùm, qui tanti Solis luminibus,",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "tenebrosas objiciendo nubeculas, obstruere non verecundantur, malitiâ",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "fidiculis torqueri, sed & alia splendore suo summa perstringere in-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "genia, simúlque omne tædium naúseámque abstergere iis qnoque, qui",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "tanquam <i>ἀεῖοι ἐν νεφέλαις</i> ultra communem hominum valentiam sunt",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "perspicaces.",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "II. Est exempli loco textus ad <i>ἀναστάσεως τῶν νεκρῶν</i> in Epi-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 15,
+     "text": "stolis Paulinis, monente Petro 2 Ep. III. 16. occurrentia meritissimò",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "adscribendus, quem 1. Cor. XV. 29. hunc in modum serae relictum posteritati legimus: <i>Ἐπεὶ τί ποιήσουσιν οἱ βαπτιζόμενοι ὑπὲρ τῶν νεκρῶν, εἰ ὅλως</i>",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "<i>νεκροὶ οὐκ ἐγείρονται; τί καὶ βαπτίζονται ὑπὲρ αὐτῶν νεκρῶν; Alioqui (vel praeterea) quid facient ij, qui baptizantur pro mortuis, si omnino mortui</i>",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "<i>non suscitantur? cur ergo baptizantur pro mortuis?</i> Hoc sanè",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "tremenda, quo magnus Doctor gentium præter gravissima, quibus in antece-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "dentibus pro cujusque pondere immoratus est, argumenta mortuorum",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "in vitam reversionem contra eos, qui in Corinthiorum Ecclesia occul-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "tos ad eam diruendam suffoderunt cuniculos, constabilire voluit; tum",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "veteres, tum recentiores Scripturæ Tractatores ita habuit exercitos, ut",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "in ejus enucleatione haud mediocriter desudando, mirabili judiciorum",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "discrepantiâ, propriam plerique dicere sententiam, quàm alienæ suffra-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "gium commodare præoptârint, & quò diutius considerârunt, eò avidius",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "scire desiderârint, ad quem morem & ritum Apostolus digitum in-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "dendat.",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "III. Etsi autem in hoc <i>ἄπορον τῆς θείας γραφῆς</i> inquirere pro mo-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 30,
+     "text": "re habeant <i>γνήσιοι Μωσέως ἑρμηνευταὶ καὶ ἱεροφάνται,</i> queis doctior orbis",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "submissis defert fascibus imperium: Quia tamen superiorum excellen-",
+     "heading": 0
+    }
+   ],
+   "catchword": "tiam",
+   "signature": "A 2",
+   "notes": "Greek and Hebrew passages transcribed as printed; the Greek of the Eph. 1. 18 and 1 Pet. passages and the Hebrew ותורה אור are set in the printed text. Catchword \"tiam\" is the first word of the next page. Some letters in the scan are faint and may be imperfect."
+  },
+  {
+   "n": 5,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: Rom."
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "tiam inferiorum restinguere studia & infringere audentiam minime",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "oportet, inque hujusmodi caligine & acutioribus & hebetioribus inge-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "niis eadem pene fors est, non erit <i>περιεργία ἀχρήστως πεάγματα</i>, ne-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "que verebor paulò confidentius dissonas multiplicesque variorum de",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "hoc loco opiniones, <i>Θεῦ χειραγωγῶν</i>, invicem collidere &",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "<i>αὐτόματα</i> penficulare, <i>falsas</i> & praeposteritatem habentes rejicere, <i>pias</i>",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "& probabiles inspicere, <i>τῶ ἀρέσκοντι</i> denique elicere, quae si minus vide-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "bitur consentanea, sat erit Aristarchis medicam manum offerendi atque",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "adeo meliora suggerendi occasionem obtulisse: sin forte ex ejusmodi",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "conflictatione pulchra quaedam veritatis scintilla dissiliet, bene laetae",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "eritis res.",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "IV. Ut vero <i>ἐκ τῶν ἀπόρων πρὸν εὑρίσκειν</i> proclivius fit, diversas",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 13,
+     "text": "interpretationes juxta tres potiores verbi <i>βαπτίζειν</i> significationes or-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "dine examinare pretium fuerit operae. <i>Βαπτίζειν</i> namque; quod <i>ἐκ τῆς</i>",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "<i>βάπτειν</i> mergere, inficere profluxit, & <i>κυρολεκτως</i> intingi, immergi,",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "denotat; per <i>Metaphoram</i> amarissimis gravissimarum afflictionum",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "undis submergi Matth.XX.22. Marc.X.38. Luc.XII.50. per <i>Synecdo-</i>",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "<i>chen</i> & <i>καὶ ἐξαίρετον</i> mystica lympha perfundi, h.e. Sacramenti imma-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "triculationis in Ecclesiam tessera, tanquam Christiani tinctura, notari;",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "per <i>Metonymiam finis</i> in genere lavari vel ablui significat. Harum signi-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "ficationum quamlibet varij variè loco proposito adaptare moliuntur.",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "V. Et <i>Metaphorica</i> quidem ad Pontificis Rom. gnathonum ac",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 23,
+     "text": "cineriorum est salivam, qui in dicto hoc Paulino se reperisse putant",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "non quod pueri in faba: Ex eo enim vivorum pro mortuis suffragia, un-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "de currente rota Purgatorij exeat urceus, exterebrare manibus pedi-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "busque nituntur. <i>Est igitur expositio vera & germana</i> (sic magistrali-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "ter argutatur primarius ille Thaidis Romanae procus <i>Bellarminus</i> disp.",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "T.II.l.1. de Purg.c.6. p.396.) <i>quod Apostolus loquatur de baptismo la-</i>",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "<i>crymarum & poenitentia, qui suscipitur orando, jejunando, eleemosy-</i>",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "<i>nas faciendo, &c. Et sensus sit:</i> Quid facient qui baptizantur pro",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "mortuis, si mortui non resurgent? <i>id est, quid facient qui orant, jeju-</i>",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "<i>nant, gemunt, affligunt se pro mortuis, si mortui non resurgunt?</i>",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "Ei praeter alios haud ita multos adhinnit Jesuita <i>Fr. Costerus</i> Enchir.",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "controv.c.16.p.m.498. cui <i>baptizari est affligi orationibus, jejuniis,</i>",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "<i>& id genus aliis modis.</i> En Chrysippeum acumen! De istis Synagogae",
+     "heading": 0
+    }
+   ],
+   "catchword": "Rom.",
+   "notes": "Greek passages are transcribed as closely as the scan allows; accents and some letters are approximate. Right margin shows a binding edge only."
+  },
+  {
+   "n": 6,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: defun-"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "Rom. Scipionibus excidit mihi exclamare, sicut de Scipione Nasica Ca-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "to major & de Chrysippo veteres ex Homero dicere consueverunt: <i>Οἱ</i>",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "<i>μὲν πεπνυμένοι, λοιπὸὶ σκιαὶ ἀίσσουσιν</i>: Hi soli sapiunt, alii velut umbra",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "feruntur, cum nemo ante ipsos tam argutus fuerit & acutus, qui hoc in",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "loco Purgatorium viderit aut suffragia.",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "VI.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "Veruntamen, si fas rem fari, isthaec loci evolutio, an involu-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 8,
+     "text": "tio, talis est, ut si posito certamine enarrationibus vitiosis aliqua corona",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "proponeretur, sola hoc nomine contra omnes coronanda videri queat.",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "Etenim 1. alienam verbo <i>baptizari</i>, cujus nec in <i>Scriptura</i>, nec apud",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "<i>Patres</i> extat exemplum, affingit significationem. In <i>Scriptura</i> quidem",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "figurata haec locutio <i>βαπτίζεσθαι βάπτισμα</i> afflictiones non quaslibet,",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "sed vehementes, easque non electitias aut ultro sumtas, sed forinsecus",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "illatas aut irruentes designat. Sicut enim non est, qui baptizer semetip-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "sum baptismo <i>fluminis</i> aut <i>flaminis</i>, sed illo Ecclesiae minister per",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "aquae elementi aspectabilis asperionem, hoc Christus ipse per grati-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "am donorum S. Spiritus effusionem: ita nec baptismo <i>sanguinis</i> seu",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "tribulationum dicuntur baptizari, qui sua sponte afflictant se ipsos, sed",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "qui calamitates a Deo immissas moderate ferunt. <i>Patres</i> vero, quibus",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "eandem fere cum baptismo Sacramentali tribuunt virtutem, iis quoque",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "baptismi vocem applicant. Ita martyrium ipsis est baptisma virtutis,",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "non afflictionis vel passionis, respectu, quod eo in Catechumenis ante",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "baptismum ad martyrium abrepris baptismus suppleatur, & iisdem",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "tantum commodet, quantum baptismus. Eodem plane modo lachry-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "mas & poenitentiam in iis, qui <i>ἀβαπτίστοι</i> decesserunt, cum lacrymis ta-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "men seriam egerunt poenitentiam, baptismi vicem, ratione valoris su-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "stinere censuerunt. Interim similitudini operationis addiderunt &",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "fundamenti loco posuerunt convenientiam quandam in ablutione,",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "quod quemadmodum in fluminis baptismo aqua perfundimur, sic mar-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "tyr sanguine suo, poenitens lacrymis suis irrigetur. Quid v. haec ad ora-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "tiones, eleemosynas, jejunia, afflictiones pro mortuis? 2. <i>Etiamsi lar-</i>",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "<i>giremur eis hanc interpretationem</i> (ita <i>Forbesius</i> Instruct. Hist. Theol. I. 13, c.",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "12. §. 30.) <i>non assequerentur quod intendunt. Nam Apostolus</i>",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "<i>hinc sumit argumentum pro corporum resurrectione: De animarum</i>",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "<i>autem separatarum ex aliquibus poenis liberatione ante diem resur-</i>",
+     "heading": 0
+    },
+    {
+     "n": 36,
+     "text": "<i>rectionis corporum nihil invenitur apud Apostolum.</i> Certe Meta-",
+     "heading": 0
+    },
+    {
+     "n": 37,
+     "text": "phoricus ille activae afflictionis baptismus a Papistis suscipitur non ut",
+     "heading": 0
+    }
+   ],
+   "catchword": "defun-",
+   "signature": "A 3"
+  },
+  {
+   "n": 7,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "defunctorum corpora resurgant, sed ut animulae in poenalibus Purgato-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "rii claustris detentae remissionem peccatorum & missionem a cruciatu",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "ante pancriticum resurrectionis diem impetrent.",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "3. Christianos, dum",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "viridior aetas Ecclesiae virginitatem tueretur, orâsse, jejunâsse, eleemo-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "synas erogâsse, eo fine & consilio, ut vitâ functorum animabus libera-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "tionem ex Igne quodam Purgatorio accelerarent, falsâ ratione receptum",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "est. Illud enim fabulosum πῦρ καθαρτήριον (quod post Apostolorum",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "decessum in scriptis Apocryphis, ex Judaismi, Poetarum ac Philosopho-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "rum Gentilium seminibus gravidi, reliquiis, sub nomine Jacobi, An-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "dreae, & Hermae vulgatis, docente Excell. Dn. Praesìde <i>qq. Theol. de fide</i>",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "<i>decret. Concil. Trid. p. 264.</i> primò quidem conceptum; lapsis deinde tem-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "poribus, praesertim florente Augustino, qui cum coaetaneis dubitanter",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "admodum & quasi problematicè de eo disseruit, enatum; demum saeculo",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "VI. sub Gregorio M. fovẽntibus superstitionem mortuorum spectris, ro-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "boratum; tum porrò Sacrificulorum φιλαργυρία amplificatum; tandem-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "que pro fidei Papisticae articulo obtrusum est) Ecclesiae nascenti fundi-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "t-us ignotum fuisse notius est, quàm ut à me commemorandum proban-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "dumque videatur.",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "VII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 21,
+     "text": "Neque est, quòd hoc argumentum, quo praeter alia quaedam",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 22,
+     "text": "indigna plane, quae in campum eliciantur, causam desperatam statumi-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "nare satagit Jesuitarum os, pulverem cuiquam ob oculos spargat:",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "<i>ipsam nempe Purgatorij poenam à Scriptura & Patribus vocari baptisma,</i>",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "ut Matth. III. 11, baptizabit vos Spiritu S. & igne: <i>adeoque qui se pro</i>",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "<i>mortuis affligunt oratione, jejunio, fletu, &c. suscipere in se partem</i>",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "<i>baptismi illius ignei.</i> Etenim 1. si in allegato Matthaei loco, in quo",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "ἡφαιστεῖον δεσμὸν se invenisse confidit Bellarminus, sub ignis vocabulo",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "delitescit Purgatorium, erit sanè illud beneficium, non supplicium, &",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "pertinebit ad omnes, qui S. Spiritu baptizantur: quae nugae Siculis ger-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "ris vaniores vel alicui Heraclito risum ἄσβεστον excuterent. 2. Genui-",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "nus loci sensus hic est: Christus <i>vos baptizabit Spiritu igneo,</i> in rege-",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "neratione ignis officium naturámque habente. Res enim una saepe nu-",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "mero conjunctione interveniente diducitur & duabus vocibus explica-",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "tur non solùm apud profanos autores, ut cùm Virgil. <i>pateris, inquit,</i>",
+     "heading": 0
+    },
+    {
+     "n": 36,
+     "text": "<i>libamus & auro,</i> pro, aureis pateris, <i>chalybem frenósque momordit,</i>",
+     "heading": 0
+    },
+    {
+     "n": 37,
+     "text": "h.e. chalybea fraena: Sed in ipsis etiam divinorum librorum monumen-",
+     "heading": 0
+    },
+    {
+     "n": 38,
+     "text": "tis, ut Matth. XVII. 21. Act. XIV. 13. Rom. I. 5. Ita Ioh. III. 5, <i>renasciex aquæ & Spi-</i>",
+     "heading": 0
+    }
+   ],
+   "notes": "The first Greek word is printed πῦρ with a Greek καθαρτήριον, transcribed as seen; the Greek words are uncertain in places. The marks \"3.\" and \"2.\" before the paragraphs are printed as small numerals; \"renasciex aquæ\" is hard to read and may be [?]. The Roman numeral VII. is set as a heading-like line but is a bare numeral. Several Greek and Latin words are blurred by the scan."
+  },
+  {
+   "n": 8,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "<i>& Spiritu</i> nihil est aliud, quàm renasci <bl>ex aqua spirituali</bl>, qnæ S. Spiri-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "tus est, Esaj. XLIV. 3. Joh. VII. 38. 39. sive è Spiritu, <i>qui</i>, ut loquitur",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "<i>πνευμάτεγας Calvinus</i> Instit. c. 17. §. 45. <i>purgando & irrigando fideles</i>",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "<i>animas vice aquæ fungitur.</i> Comparili ratione Matth. III. 11.",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "<i>ἐνδίκα δυοῖν</i> exprimitur, estque nomen ignis vice appositi: transfertur autem",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "ad Spiritum S. tum quia est instar ignis propter penetrationem virtu-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "tis suæ, dum sordes animarum nostrarum purgat, sicut ignis aurum à",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "scoriis excoquit, nos etiam ad amorem Dei & proximi accendit: tum",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "quia Christus Apostolos baptizaturus erat miraculosa donorum S. Spiri-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "tûs sub specie ignis seu ignearum linguarum effusione ad indicandam",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "vim ejus & efficacem in animis credentium operationem: huc pertinet",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "Act. I. s. 3. Antiqui Ecclesiæ Doctores, <i>Lactant. Ambros. Hieron.</i> alij,",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "<i>Origenem</i>, malum dogmatistam, secuti, sinxerunt, <i>Sanctos juxta om-</i>",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "<i>nes ac impios, nullu ne B. Virgine, Martyribus & Apostolis quidem ex-</i>",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "<i>ceptis</i>, in fine seculi <i>ejusmodi ignem transituros, quali olim ardebunt</i>",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "<i>omnes impii</i>, ut infit <i>Celeb. D. Præses loc. th. 6. cit.</i> vid. <i>Lactant. divin.</i>",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "<i>Instit. l. 7. c. 21.</i> Hunc ignem probatorium aliqui ex nominatis Patri-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "bus <i>baptismum ignis</i> nuncupârunt. At veròPurgatorium Papisticum,",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "elapsarum è corporibus humanis animarum, criminum venialium labe",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "contaminatarum, conventiculum, à sana & præstigiis Antichristi non-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "dum fascinata antiquitate baptisma esse appellatum, hoc probet Bel-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "larminus, <i>ἐχ ἀρίξας νικᾶσω.</i> Cùm itaque, qui Purgatoriam incudem",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "tanquam Cyclopes in antri sinuosi faucibus certatim tundunt, interpre-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "tationes nonnihil perplexas ac titubantes tanquam columnas tremulas",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "suæ sententiæ suffulciant, & ipsa de Metaphorico voluntariæ afflictionis",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "baptismo glossa, quocunque modo illis libeat <i>διαλεπτολογίας</i>,",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "sit, ei convellendæ diutius immorari supervacaneum",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "fuerit.",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "VIII. In saniore sententia locati sunt alii prosapiæ Pontificiæ vi-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 30,
+     "text": "ri, <i>Gagnejus</i> Doctor Sorbonæ, <i>Claud. Guiliaudus</i>, itidem Doctor Pari-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "siensis, apud <i>Corn. à Lapide comm. in Epist. Paul. p. 327. Maldonatus</i>",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "<i>comm. in Matth. XX. 22. & Luc. XII. 50.</i> quibus <i>baptizari pro mortuis</i>",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "idem est ac affligi seu mortem oppetere pro fide & articulo resurrectio-",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "nis mortuorum. Paria fere cum his facit vir multijugâ eruditione &",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "famâ nominis celeberrimus <i>D. Rivetus</i>, qui verba Apostoli <i>Cathol.</i>",
+     "heading": 0
+    },
+    {
+     "n": 36,
+     "text": "<i>Orthod.</i>",
+     "heading": 0
+    }
+   ],
+   "notes": "Greek words are printed in Greek; the transcription of the Greek is approximate. Several Greek and Latin words are rendered as best read from the scan. Some passages are blurred near the foot."
+  },
+  {
+   "n": 9,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "number": "397",
+   "running_head": "Orthod. Tr. II. q. 44. p. 397.",
+   "lines": [
+    {
+     "n": 1,
+     "text": "ita πααραφεάζει: <i>Quid agent, qui singulis</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "<i>diebus persecutiones patiuntur ob mortuos, nempe J. Christum adhuc</i>",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "<i>a morte, si qua dicunt vera sunt, detentum? itemque ut mortuorum</i>",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "<i>fidem ac confessionem defendant? denique ut Christi omniumque</i>",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "<i>Sanctorum resurrectionem propugnent?</i> Huc etiam tendit meditatio",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "Fr. Junii, quam in <i>Notis ad Versionem Paraphraseos Syriacæ Tremel-</i>",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "<i>lianam</i> hisce illigavit verbis: <i>Alioquin, ait Paulus, si Christus non re-</i>",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "<i>surrexerit, neque finem assequuntur, neque consilio sapiunt viventes,</i>",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "<i>quicunque adhuc in Ecclesia affliguntur & persequutiones patiuntur</i>",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "<i>credentes in mortem, sepulturam & resurrectionem Christi. Fine,</i>",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "<i>nam quid facturi sunt alioqui, aut quid eis futurum est? Consilio, nam</i>",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "<i>cur patiuntur ista, si none est resurrectio? Non potest esse inanis illorum</i>",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "<i>fides, aut illi adhuc jacere in peccatis suis,</i> h. e. carere redemtione Chri-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "sti. <i>Est autem baptizari super mortuos, eis qui pro Christo vitam ab-</i>",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "<i>jecerunt superaddi & contumulari eis.</i> Loquitur ergo Apostolus, Ju-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "nii arbitratu, de iis, qui <i>ultra</i> vel <i>praeter mortuos</i>, h. e. illos, qui in fide",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "resurrectionis Christi & spe propriae resurrectionis constituti coronam",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "martyrii receperunt, eâdem fide ac spe subnixi sanguinem suum Christo",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "largiri & per martyrum vestigia ambulare non dubitârunt.",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "IX. Cæterum, licet hæ expositiones nihil quicquam, quod ana-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 21,
+     "text": "logiæ fidei contrariâ gradiatur viâ, contineant, possunt tamen ad illas",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "infirmandas in scenam produci rationes, quas explico in hæc verba.",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "1. Duriusculum videtur, ut, qui patiuntur pro fide vel spe resurrectio-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 24,
+     "text": "nis mortuorum, ὑπὲρ τῶν νεκρῶν baptizari dicantur, cùm ita male stet",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "articulus τῶν, qui vocem indefinitam determinat & restringit: nec vo-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "cabulum ἀναστάσεως commodè subintelligi possit, cùm sic potius ὑπὲρ",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "τῆς ἀναστάσεως νεκρῶν dicendum fuisset. Nova quoque est versio parti-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "culæ ὑπὲρ per <i>ultra</i> vel <i>praeter</i>, cui Junius favet.",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "2. Si baptismum cru-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 30,
+     "text": "cis in argumentum duxisset Apostolus, non in tertia persona dixisset:",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "<i>Quid facient qui baptizantur:</i> sed in prima se ipsum iis adnumerasset,",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "cùm & ipse spei resurrectionis innixus præsentaneis periculis propter",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "Christum quotidie fuerit expositus, uti liquet ex v. 30. <i>Cur etiam nos</i>",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "<i>periclitamur omni momento?</i>",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "3. Non est exploratum & evidens,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 36,
+     "text": "quod juxta Gagnæi, Guiliandi, & Maldonati explanationem necessariò",
+     "heading": 0
+    },
+    {
+     "n": 37,
+     "text": "præsupponitur, quosdam nim. sub tempora Pauli afflictos & gloriosò marty-",
+     "heading": 0
+    }
+   ],
+   "notes": "Greek phrase in running head line is partly illegible; the Greek words after \"ita\" and in section 1 are transcribed as best read. Catchword not visible."
+  },
+  {
+   "n": 10,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "martyrio affectós esse propterea, quòd articulo de resurrectione mor-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "tuorum fidem adjunxerint. Si enim ad primam usque originem &",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "q. punctum, unde series seu processus persecutionum erga Christi mili-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "tiam professos ducitur, penetremus, solum Christi nomen & sanam de",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "eo confessionem, absque ulteriori dogmatum examine, persecutoribus",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "innatum adversus Christo initiatos odium dirissimis supplicis exsatu-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "randi ansam praebuisse comperiemus. Hinc Neronis, qui autor & de-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "dicator damnationis Christianorum extitit, hoc fuisse decretum tradi-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "tur: <i>Quisquis Christianum se esse confitetur, is tanquam generis hu-</i>",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "<i>mani convictus hostis sine ulteriore sui defensione capite plectitor,</i>",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "ut notant <i>Alsted. Thef. Chronol. tit. 35. p. m. 331. & Stratem. Theat. Hist.</i>",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "<i>exit. 6. p. 324.</i> Huic assertioni non obstat Paulus, qui Act. XXIII. 6.",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "<i>de spe,</i> inquit, <i>& resurrectione mortuorum ego in judicium vocor.</i> Id",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "enim verborum fecit, tum ut iniquos judices suos, Pharisaeos & Saddu-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "caeos, extremè quidem & odiis & dogmatibus disidentes, concordissi-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "mè tamen ad extinguendum Evangelii lumen conspirantes, inter se",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "committeret, & à Pharisaeis saltem salutarem extorqueret literam: tum",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "ut ipsis Pharisaeis <i>sublatâ causâ,</i> virtute sc. & resurrectione Christi cru-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "cifixi, qui illis erat scandalum 1. Cor. I. 23. <i>tolli quoque causatum,</i>",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "nostram putà resurrectionem, in mentem redigeret.",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "X. Seorsim ab aliis sentit nobilissimum Belgarum decus & pro-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 22,
+     "text": "fundioris doctrinae <i>ὑπερέχον φέγγος Anna Maria à Schurman,</i> quae",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "in <i>Epist. ad Jac. Lydium</i> perscripta locum nostrum refert ad mini-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "stros Christi, qui, dum propagandis Ecclesiis perpetuò invigilarent, ma-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "ximis eâ tempestate persecutionibus & calamitatibus obruebantur:",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "adeóq; in his verbis, <i>τί μισήσαιν οἱ βαπτιζόμενοι ὑπὲρ τῶν νεκρῶν;</i> ejusmodi",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "putat deductionem esse ad absurdum: <i>Si mortui non resurgunt, fru-</i>",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "<i>stra tot tantósque labores subeunt perferúntque pro mortuis, i. e. pro</i>",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "<i>fidelibus, quoniam nulla foret harum perpessionum retributio.</i> Elec-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "tos verò vocari <i>mortuos</i> existimat <i>per Ironiam, quia, juxta erroneam</i>",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "<i>adversariorum opinionem, pro mortuis & nunquam resurrecturis re-</i>",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "<i>vera erant habendi.</i>",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "XI. Pia quidem est & egregia isthæc ab admiranda elegantissimi",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 34,
+     "text": "ingenii sagacitate profecta animadversio, non tamen nullis obnoxia in-",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "commodis. Nam 1. insolens merito videtur viro haud ignorati nominis",
+     "heading": 0
+    }
+   ],
+   "catchword": "Ioh.",
+   "signature": "B"
+  },
+  {
+   "n": 11,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "running_head": "Joh. Cloppenburgio syntagm. select. Exerc. Theol. p. 444.",
+   "lines": [
+    {
+     "n": 1,
+     "text": "in tam exiguo orationis themate confluxus gemini tropi, & quidem ejusmodi, qui ra-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "rissime usurpatur, cum planissime loqui amet Apostolus, quando de iis,",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "quas ad aedificationem Ecclesiae sustinebant, perpessionibus loquitur,",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "ut intelligerent Corinthij aliique, <i>mortem in Apostolis agere, vitam</i>",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "<i>vero in illis</i>, 2. Cor. IV. 12. 2. Ironia sicubi sedem aliquam incolit, suo sta-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "tim se prodit indicio, nec difficulter ex orationis circumstantiis ejus ra-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "tio colligi potest: at hic nullum ejus apparet vestigium, quin potius ra-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "tio postulare videtur, ut <i>ὑπὲρ τῶν νεκρῶν</i> explicetur de mortuis proprie",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "dictis, praesertim si nomen <i>νεκροὶ</i> in medio versu sine articulo positum",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "cum eodem in principio & fine versus cum articulo posito comparemus",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "hunc in modum: <i>Quid facient qui baptizantur pro his vel illis mor-</i>",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "<i>tuis, si nulli plane mortui, & consequenter nec illi, in quorum gratiam</i>",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "<i>vivi baptizantur, sunt revicturi?</i> 3. Factum eorum, qui pro mortuis",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "baptizabantur, distinguit Apostolus a tropico calamitatum baptismo,",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "quo inundabantur antistites coelestis veritatis, de quo versu 30. agere in-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "cipit, ubi, ut commentatores plerique omnes consentiunt conscicunt-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "que, novam pro resurrectione & a priori distinctam urget rationem, vel,",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "si anaphoram in particula <i>ti</i> spectes, novam rationis partem annecten-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "dam praecedenti parti & rationi, ut ex utraque integra haec oratio con-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "fletur: Corpora mortalium ad vitae munera revocatum iri clarissima",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "elucet significatio ex praelustribus fidelium exemplis, quorum alii prop-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "ter hanc resurrectionis spem baptizantur pro mortuis: rursum alii, ac",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "nos in primis Ecclesiarum propagatores, eandem ob spem omnia pericu-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "la & labores audacter adimus, imo invadimus. <i>Conf. th. 9. rat. 2.</i>",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "XII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 26,
+     "text": "Hactenus interpretationes eorum, quibus <i>Metaphorica</i> ar-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 27,
+     "text": "ridet verbi <i>βαπτίζεσθαι</i> acceptio, ponderasse suffecerit: ordo est dein-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "ceps, an forte <i>Synecdochica</i> ejusdem verbi notio, qua pro Sacramento",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "baptismi Theologice usurpatur, quamque verborum domina con-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "suetudo usitatissimam voluit esse & paene propriam, huc quadret, dispi-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "cere. Eunt autem illius quoque assertores mirabile admodum inter se",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "diversi. Alii enim de <i>vicario baptismo</i>, alii de <i>baptismi pro refrigerio</i>",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "<i>charorum susceptione</i>, alii de <i>baptismo Clinicorum</i>, alii de <i>baptismo</i>",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "<i>sepulchrali</i>, alii de <i>baptismo ad officium certum quibusdam martyribus</i>",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "<i>debitum suscepto</i>, alii de <i>nominum in collatione baptismi impositione</i>,",
+     "heading": 0
+    },
+    {
+     "n": 36,
+     "text": "alii denique de <i>baptismo in genere</i> sermonem esse contendunt.",
+     "heading": 0
+    },
+    {
+     "n": 37,
+     "text": "XIII. Vica-",
+     "heading": 2,
+     "para": true
+    }
+   ],
+   "catchword": "Vica-",
+   "notes": "Printed page is a continuation; the running head is in italic black-letter-free roman with mixed type. Greek words transcribed as legible; the Greek in \"ὑπὲρ τῶν νεκρῶν\" and \"βαπτίζεσθαι\" is approximate and may be [?]. The word \"consciscuntque\" is read as \"conscisc-untque\" and is uncertain. The heading \"XIII. Vica-\" at foot is a running signature/catchword rather than a true heading."
+  },
+  {
+   "n": 12,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: scopo-"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "XIII. <i>Vicarij baptismatû</i> patroni verba Apostoli ita exponunt:",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "<i>Quid facient qui baptizantur ἀντὶ τῶν νεκρῶν, loco & vice mortuorum?</i>",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "Hæc nempe eos tenet opinio, Apostolum respicere perversam eorum",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "consuetudinem, qui, ubi quempiam subita mors baptismo privâsset, vi-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "vum aliquem mortui feretro suppositum pro eo baptizare soliti sunt.",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "Vecordiam hanc <i>Epiphanius hær.28.</i> Cerinthianis sive Merinthianis;",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "<i>Chrysostomus homil.40. in 1.Cor.</i> (ut & <i>Lamb. Danæus comm.in c.22.</i>",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "<i>l.August.de hæref.ad Quodvultd.p.67.</i>) Marcionistis seu Marcionitis",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "tribuit, cujus verba ex <i>Sim. Grynæi</i> translatione adpingere luber: Ita a.",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "ille: <i>Cùm quis apud ipsos</i> Marcionitas <i>initiatus obit, unum aliquem</i>",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "<i>sub mortui lectum recondunt, mortuum circumstant, alloquuntur, ro-</i>",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "<i>gant, velitne baptizari. Deinde cùm nil respondeat, is qui subtus</i>",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "<i>latet pro illo respondet, baptizari velle: eum deinceps pro mortuo bap-</i>",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "<i>tizant, sic quemadmodum in scena fieri solet ludentes.</i> Eadem habet",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "<i>Theophylactus ad h.l.</i> Hanc corruptelam, quam etiam apud Corin-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "thios invaluisse aliqui volunt, Apostolum designare, & vice argumenti",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "<i>πρὸς ἀνθρώπων</i> proferre autumant <i>Tertull. l. 5. adv. Marc. c. 10. & de</i>",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "<i>resurr. carn. c.48. Ambros.</i> aut quisquis est, qui sub ejus nomine ad h.l.",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "legitur, <i>Isid. Clarius, Zegerus, Grotius: annot. ad h. l. Camero myroth.</i>",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "<i>Evang. p. 229. Iac. Laurentius in Paulo ἀλυσονήτῳ loc.29.p.440.441.</i>",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "nec abnuunt <i>Zuinglius annot.ad h.l. & Bulling. comm.in 1.Cor.XV.</i>",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "XIV. Verùm in alia omnia transeundum sibi duxerunt viri, qui",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 23,
+     "text": "ad illustrem hominum memoriam inclaruerunt, alii, nec forte inconsul-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "tò. Nam 1. neque Marcionitæ, neque Cerinthiani exemplum Apostolo",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "exhibere potuerunt. Non <i>Marcionitæ,</i> tum quia eorum antesignanus",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "Marcion altero demum à N.C. seculo suas in Ecclesiæ agrum sevit cor-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "ruptelas, tum quia iidem cum Cerdonianis resurrectionem carnis ne-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "gârunt liquidò. Non <i>Cerinthiani,</i> tum quia, licèt superante adhuc",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "Paulo funestum proferre caput & facere vestigia cœperit coryphæus",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "eorum Cerinthus, in ambiguo tamen relinquitur, an Apostolicam ante",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "obitum Pauli manifestè deseruerit Ecclesiam, cùm eum mortuo Nero-",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "ne, cujus gladium cruentavit Paulus, Domitiano rerum gubernacula",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "tractante, per Asiam minorem & Syriam (<i>vid. Danæus comm. in c.8.l.</i>",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "<i>Aug.de hær.p.28.</i>) venenum suum sparsisse, & adversum ejus, ut &",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "Ebionis, dementiam Johannem, qui solus ex Apostolis supererat, Epi-",
+     "heading": 0
+    }
+   ],
+   "catchword": "Episcopo",
+   "signature": "B 2"
+  },
+  {
+   "n": 13,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: nenda"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "scoporum Asiæ rogatu, divinam Christi nativitatem ab aliis paulò tectius",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "relatam diserte & luculenter in Evangelio suo postremum edito expo-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "suisse, rerum explicatores tradant: tum quia multis suspectum est, an",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "Cerinthianis, qui velut observantissimi legalium ceremoniarum culto-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "res circumcisionem retinuerunt, vicarium baptisma vere tribuatur: tum",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "quia Apostolus anilem illam superstitionem, si suo jam tempore inole-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "visset, absque ullo vel levissimo ac perfunctorio dissensu publico mini-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "me transmisisset: tum denique quia ex facto clandestino & Apocry-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "pho, quale illud Cerinthianorum nonnulli faciunt, argumentari Apo-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "stolum in Epistola Catholica supra fidem est. In causæ igitur suæ pa-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "trocinium non Apostolus sive Marcionitarum, sive Cerinthianorum",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "somniationem, sed illi hunc Pauli locum arripuerunt & sinistro sensu",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "perverterunt.",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "2. Argumenta ad hominem",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 15,
+     "text": "tum demum stringunt,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 16,
+     "text": "quum ab ejus, qui cum res est, sunt persuasione. At vero apud Corin-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "thios vanum istum & insanum baptizandi alios pro defunctis ritum in-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "crebuisse, verisimilitudine caret. <i>An putamus,</i> verba sunt Calvini",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "comm. in Ep. Paul. p. 367. notatu dignissima, <i>si talis corruptela inva-</i>",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "<i>luisset apud Corinthios, Apostolum, quum singula prope eorum vitia</i>",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "<i>taxaverit, de hoc fuisse taciturum? Superius ritus quosdam reprehen-</i>",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "<i>dit non adeo magni momenti: de velandis mulierum capitibus & ali-</i>",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "<i>is ejus generis præcipere non gravatus est: vitiosam Cænæ admini-</i>",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "<i>strationem non reprehendit tantum, sed acerrime exagitavit: unde</i>",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "<i>tam fœda Baptismi profanatione nullum interea verbum dixisset, quæ</i>",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "<i>tamen gravitate præponderabat?</i> Et paucis interjectis: <i>Sed demum</i>",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "<i>potuisse subticere: quid dum eam nominat? Obsecro, an verisimile est,</i>",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "<i>sacrilegium, quo Baptismus inquinaretur ac traheretur in abusum</i>",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "<i>prorsus magicum, Apostolum protulisse vice argumenti, & non uno</i>",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "<i>saltem verbulo notâsse vitium? Quum de rebus non maximis agitur,</i>",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "<i>parenthesin tamen inserit, se loqui secundum hominem: an hic pa-</i>",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "<i>renthesi non erat aptior locus & opportunior? nunc quod sine ulla</i>",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "<i>reprehensione commemorat, quis non accipiat tanquam licitum?</i>",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "Hæc <i>Calvinus.</i>",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "3. Apostolum ad astruendam veritatem plumbeo",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 36,
+     "text": "hoc mucrone certâsse vero non est consentaneum: tum quia Prophetæ",
+     "heading": 0
+    },
+    {
+     "n": 37,
+     "text": "& Apostoli non solent falsa assumere ad corroborandum verum, sicuti",
+     "heading": 0
+    },
+    {
+     "n": 38,
+     "text": "nec facere mala suadent, ut eveniant bona: tum quia error pro obti-",
+     "heading": 0
+    }
+   ],
+   "catchword": "nenda",
+   "notes": "The page is a single text column; the final line \"nenda\" is a continuation word printed at the right after the last line, treated as the end of the paragraph. Headings \"2.\" and \"3.\" are numbered paragraph openings, so they were set as paragraphs or headings with uncertain level; the section numbering is visible in the scan. Some words in the italic passage are uncertain due to scan quality, e.g. \"vitia\", \"parenthesi\". Minor fidelity doubts remain in the first paragraph (\"Apocry-pho\", \"sinistro\" printed as \"siniftro\" in the scan, given as \"sinistro\" with long s rendered as s)."
+  },
+  {
+   "n": 14,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "nenda veritate ἐπικρίσια συνώνη est, præsertim ubi illa suis se munire copiis",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "abundè potest.",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "XV. Alium adolescentis Christianorum Ecclesiæ errorem in",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "textûs nostri explanatione sub aspectum protrahit Illustriss. <i>Jos. Scaliger</i>",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "<i>Critic. S.T.VII.p.3098.3099:</i> qui de <i>baptizatis pro refrigerio charorum</i>",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "ab Apostolo agi arbitratur. Opinio illius συλλήβδην hæc est:",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "Christiani veteres animas piorum, impiorum (martyribus, quos uno saltu",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "rectà in paradisum deferri æstimabant, exceptis) in centro terræ,",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "tanq. in quodam conceptaculo, expectare diem judicii putabant, quod",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "Tertull. eleganter dixit <i>in candida expectare diem judicii.</i> Hinc magna",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "incessebat eos solicitudo charorum suorum, qui jam defuncti eo in",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "carcere anxio extremæ diei desiderio conflictabantur. Quare pro iis annuâ",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "die offerebant (quæ oblatio εὐχαριστία erat, non ἱλαστικὴ, &, ut ait",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "August. <i>humanitatis officium, non salutis præsidium</i>) &, dicente",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "Tertull. <i>adpostulabant</i> aliquod <i>refrigerium</i> in die resurrectionis, quod",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "qualè sit, ipsi fortassis nesciebant. Antiquius verò, putà propius",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "Apostolorum tempora, pro eodem eorundem refrigerio baptizabantur",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "annuatim, Calendis sc. Februariis, quo die Dominum ipsum à Johanne",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "baptizatum vetustiores conjecturabant, quémque, ut vim verbi φωτίζεσθαι,",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "quod erat βαπτίζεσθαι, testarentur, non solùm φωσφόρον ἡμέραν vo-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "cabant, sed & cereos aut lucernas eodem accendebant, quæ φωτοχηΐα, licèt",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "recentiores ἐπιφάνια seu βάπτισμα κυριακὸν in VI. Januarii rejecerint,",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "Kal. tamen Feb. remansit, & propter solenne Purificationis in",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "perendinum translata hodièque durat in Ecclesiis, quæ errores Patrum",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "doctrinæ Christi præferre solent. Ab hac jam <i>baptismi pro refrigerio</i>",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "<i>charorum susceptione</i> argumentari Apostolum, & quamvis vesaniam",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "non laudet, eos tamen, qui <i>baptizabantur pro mortuis,</i> ut refrigerium",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "habeant in die resurrectionis, sui tamen obliti resurrectionem negabant, suo",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "sibi jugulare gladio, ille eruditionis aliger pronuntiat.",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "XVI. Erudita quidem illa, judice <i>Heinsio Exerc. S. ad N. T. p. 407.</i> nec",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 31,
+     "text": "tamen in eruditorum theatro, quantum perspicere datur, palmarem",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "impetraverè applausum. Nam 1. an turpis iste de baptismo nævus in ve-",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "nusta Ecclesiæ virginis facie apparuerit, μέγα λίαν ζήτημα. <i>Non existimamus,</i>",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "ait <i>Cloppenb.</i> disp. Theol. de sent. h.l. <i>Patrum illud anile deliramentum,</i>",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "<i>quod cumulárunt Pontificii suis hæresibus de satisfactione</i>",
+     "heading": 0
+    }
+   ],
+   "catchword": "pro",
+   "signature": "B 3",
+   "notes": "Greek words are transcribed as legible; several Greek terms are approximate due to the small type. Long s rendered as s throughout. The printed text ends mid-sentence at the foot; catchword \"pro\" repeats the start of the next page."
+  },
+  {
+   "n": 15,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: Græcam"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "<i>pro mortuorum animabus liberandis ex carcere Utopico Purgatorii</i>",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "<i>per baptismum Metaphoricum lacrymarum & poenitentia, qui sus-</i>",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "<i>cipiatur orando, jejunando, beneficentiam exercendo, proque mortuis</i>",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "<i>sese afflictando, Apostolo in mentem venisse. Quod deliramentum</i>",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "<i>siejus sit antiquitatis, ut jam pullulárit Apostolus viventibus, non eo</i>",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "<i>arreptum esse Apostoli argumentum censemus, sed contra arripuisse &</i>",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "<i>detorsisse homines imperitos & instabiles hunc Pauli & Pet. 1. Pet.</i>",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "<i>III. 19. locum ἀσνόητον.</i> 2. An eo errore laboraverint in specie Corinthii,",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "& in Corinthiis ii, qui ad Philosophorum placita adulterárunt resur-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "rectionis dogma, etiam atque etiam dubitabile. 3. Cur Apostolus er-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "rorem tam perniciosum sub baptismi nomine grassari permiserit & eun-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "dem politica sepelierit <i>ἀμνησίᾳ</i>: etiam ab eo argumentum, apud Eccle-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "siam praesertim & fideles, ad quos scripsit, desumserit, mirationem cui-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "am non abs re faciat. Redi sis ad th. 14.",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "XVII. Cùm itaque Scaligeri quoque expositio familiá summo-",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 16,
+     "text": "veatur, <i>Ἐντάφιον</i> Clinicorum <i>βάπτισμα</i>, ut instituimus, ad considera-",
+     "heading": 2
+    },
+    {
+     "n": 17,
+     "text": "tionem vocemus.",
+     "heading": 2
+    },
+    {
+     "n": 18,
+     "text": "Solebant antiquitus Catechumeni morbo graviore",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 19,
+     "text": "constricti, imminente lethali periculo, <i>πρὸ τῆς πλευτῆς</i> baptismum pete-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "re, tanquam itineris extremi viaticum, ne absque publico salutis testimonio",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "ex hac vita emigrarent, qui, quia <i>ἐν τῇ κλίνῃ</i> lectulis affixi aquâ affunde-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "bantur, Clinici inde seu Lectulari, Peripatetici à Cypriano l. 4. Ep. 7.",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "ad Magnum oppositi, audiebant. Horum de baptismo qui accipiunt",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "Apostolum, verba ejus ita vertunt: <i>Quid facient qui baptizantur vel</i>",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "<i>ὡσεὶ νεκροὶ jam quasi mortui, seu moribundi: vel sub mortis tempus:</i>",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "<i>vel pro statu mortuorum, ut illic bene habeant & resurrectionem glo-</i>",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "<i>riosam consequantur.</i> Præitque hanc <i>ἑρμηνείαν</i> Epiphan. hær. 28. de Ce-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "rinth. ut videre est Observ. S. Clariss. Dn. Suic. c. 3. p. 69. Ei astipulatores",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "se præbent plurimi magnæ famæ & eruditionis viri, Calvin. comm. in",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "Ep. Paul. p. 367. Gualth. Archet. homil. in Ep. Apost. p. 147. Hemming.",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "comm. in Epist. Apost. p. 238. Iac. Cappellus annot. ad h. l. Estius comm.",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "in h. l. Marlorat. Expos. Eccl. in h. l. Corn. à Lapide comm. in Epist.",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "Paul. p. 327. b. alii, quos nominare haud attinet.",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "XVIII. Verùm neque hæc explicatio ponitur extra tela, quod di-",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 35,
+     "text": "citur, & pulverem.",
+     "heading": 2
+    },
+    {
+     "n": 36,
+     "text": "Nam 1. obstat ei conciliatio phraseos, tum quia",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 37,
+     "text": "<i>ὡσεὶ νεκροὶ & ὑπὲρ τῶν νεκρῶν</i> Synonyma esse vix possunt: tum quia Lati-",
+     "heading": 0
+    },
+    {
+     "n": 38,
+     "text": "næ præpositioni <i>Pro</i> in hoc usu, quo dicimus <i>habere pro derelicto</i>,",
+     "heading": 0
+    }
+   ],
+   "catchword": "Græcam",
+   "notes": "Marginal notes in the margins were not legible enough to transcribe reliably; the marginal references printed beside the text (e.g. \"Pet. III.\", \"Cypriano l. 4. Ep. 7.\") are included inline. Greek passages transcribed with approximate accuracy; some Greek words may be [?]."
+  },
+  {
+   "n": 16,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: monia,"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "Græcam ὑπερ̀ non respondere οἱ τῶν γραμματικῶν παιδίςς nõrūnt:tum",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "quia ὑπερ̀ τῶν νεκρῶν reddere cum Cappello <i>sub mortis tempu.</i> nimis",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "violentum: tum quia vox νεκροὶ nullibi abstractè solum <i>statum mortuo-</i>",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "<i>rum,</i> sine connotatione eorum qui in isto statu sunt, designat, quum",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "phrasis <i>resurgere ex mortuis</i> non de resurrectione universali, quæ <i>re-</i>",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "<i>surrectio mortuorum</i> nominatur, sed semper tum usurpetur, quando",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "quis alios mortuos in morte relinquit: tum denique quia Apostolus",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "loqui de iis qui baptizabantur pro aliis, non pro se ipsis, series contextus",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "innuit.",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "2. Morem illum requirendi baptismum in agone, qui trahe-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 11,
+     "text": "bat perniciem veniens in ævum, superstite Paulo receptum fuisse nus-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "quam neque pictum, neque scriptum, cùm è diverso Apostolos baptis-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "matis ritu conversos suos confestim initiâsse, nec longas nexuisse mo-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "ras, ex Actis eorum constet. Probabilius ergo statuitur, morem illum",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "post Apostolorum tum excessum, tum defectum, seculo vel <i>secundo,</i> quo",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "Victor Episcopus Rom. Catholicum baptisma nonnisi die Paschatis ex-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "tra casum necessitatis celebrari decrevit, uti nos informant <i>Magde-</i>",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "<i>burg.cent.2.c.6 p.m.111. & Stratem.theat.hist.p.396.</i> vel <i>tertio</i>; quo",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "Cyprianus Carthaginensis Episcopus, cùm existeret quæstio, utrum bap-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "tismus Clinicorum aspersione duntaxat legitimè perageretur, patroci-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "nium eorum suscepit, <i>l.4.Epist.7.ad Magnum</i>; irrepsisse, & eam in su-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "perstitionem abiisse, ut baptismi usum plurimi vel ex metu, ne gratiam",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "in baptismo perceptam, surrepentibus novis delictis, denuo perderent,",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "vel aliis de causis, cujusmodi in Constantino M. fuit desiderium baptis-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "mi in Jordane fluvio suscipiendi, usque ad extremum vitæ spatium con-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "sultò distulerint: quibus tamen, si forte convaluerunt, omnis Ecclesiasti-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "cæ promotionis spes præcisa fuit, ut alii exemplum sumerent cautius",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "mercandi & maturius baptismum solicitandi.",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "3. Argumentum à baptis-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 30,
+     "text": "mo Clinicorum adscitum pondere destituitur & momento, cùm οἱ",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "ἐξ ἐναντίας baptismum morituris per solam peccatorum remissionem,",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "& quod ad animum non mediocri emolumento esse, etiam si corpora non",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "resurgant, excipere potuerint. Neque enim in hypothesin, quòd bap-",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "tismi fructus ad corpora etiam redundet, adversariorum animi fuissent",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "propensi, & si illâ nixus fuisset Apostolus, controversum probâsset per",
+     "heading": 0
+    },
+    {
+     "n": 36,
+     "text": "æquè controversum.",
+     "heading": 0
+    },
+    {
+     "n": 37,
+     "text": "XIX. 'A lectulis moribundorum provolvamur ad sepulchra mor-",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 38,
+     "text": "tuorum, ubi se nobis objicit alia quædam baptizandi Christianos cere-",
+     "heading": 2
+    },
+    {
+     "n": 39,
+     "text": "monia,",
+     "heading": 2
+    }
+   ],
+   "catchword": "monia,",
+   "notes": "Greek passages copied as printed; the Greek on line one and in \"ex ἐναντίας\" is typeset with some irregular accents. \"Magdeburg.cent.\" and other citations are printed in italics. Line \"monia,\" is a catchword-like continuation at the foot right; treated as the end of the text. Page number not printed on this scan."
+  },
+  {
+   "n": 17,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: turorum"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "monia, quâ nempe in sepulcretis mortuorum, inprimis martyrum, &",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "ad eorum ossa vel tumbas, sive ibi fons aliquis fuerit, sive baptisterium",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "fabrefactum, baptizabantur, ut se mortuorum causæ hyperaspistas esse",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "& cum Christo mori peccato publicè profiterentur, fidem quoque su-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "am partim de resurrectione mortuorum, partim de spirituali baptizato-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "rum vivorum cum membris unius ejusdemque corporis mystici conso-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "ciatione redderent contestatam. Ad particularem hunc in delectu lo-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "ci ritum qui volunt alludere Apostolum, verba ejus ita transferunt:",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "<i>Quid facient qui baptizantur ὑπερ̀ τῶν νεκρῶν supra mortuos,</i>",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "h.e. supra cadavera sepulchris commissa seu super monumenta defunc-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "torum. Hæc διάνοια placet <i>Luthero in verf. Germ. & expos. h.l.</i> à quo",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "denso agmine stant, qui ab eo ἐπωνυμίαν habent plerique, <i>Centuriato-</i>",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "<i>res Magdeburgici cent. 1. l. 2. c. 4. p. 247. 464. & c. 6. p. 490. Osiander</i>",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "<i>ad h.l. Sim. Pauli method. LL. doctr. Christ. part. 4. meth. 35. p. 9. Hun-</i>",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "<i>nius comm. ad h. l. Pfeilius clav. Theol. art. 17. p. 613. Glassius Philol.</i>",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "<i>S. l. 3. tr. 6. p. 559.</i> nec non ex ἰουστίνου πίστεως consecraneis <i>Piscator an-</i>",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "<i>not. ad h.l. Bucanus Instit. Theol. loc. 47. p. 681. 682. Pastor Lex: N. T. in</i>",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "<i>voc. νέκυς & ὑπὲρ p. 478. & 672. Celeb. Marefcoll. Theol. loc. 14. p. 559.</i>",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "deniq; <i>etiam Anabaptista hist. de bapt. Germ. p. 100.</i>",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "XX. Tametsi autem plausibilis ista videatur interpretatio, non-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 21,
+     "text": "dum tamen ad extremam manum suâ perfectione est perducta. Ete-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "nim 1. solido historicæ veritatis tibicine non est fulta. <i>Incertum</i> certè,",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "an simplices <i>martyrum memoriæ</i>; quæ fuerunt partim <i>Encomiastica</i>",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "seu <i>panegyricæ</i> eorum laudationes bonâ intentione ad alios è veterno",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "vitiorum excitandos & ad similem virtutis excellentiam inflammandos",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "institutæ, partim <i>Eucharistica</i> Dei pro eorum constantia donisque ce-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "lebrationes, partim <i>preces</i> ad Deum pro simili gratia & consummata ip-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "sorum gloria ardenter fusæ, partim denique ut mutuæ charitatis, ita",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "communis fidei & spei omnium Christianorum <i>testificationes</i>; ætate",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "Apostolorum cœperint: Smyrnensis enim Ecclesiæ fratres primos doc-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "toris sui Polycarpi, viri Apostolici, qui circiter A.D. 170. sub M. Antonino",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "Vero (errare nanq; Socratem asserentem Polycarpum sub Gordiano pas-",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "sum esse l. 5. c. 22. satis crassè, monent <i>Magdeb. cent. 2. c. 10. p. 176.</i>)",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "ætate ad senectutem præcipitatâ Smyrnæ crematus est, natalem cum",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "exultatione & gaudio <i>ad memoriam eorum qui antea certârunt & su-</i>",
+     "heading": 0
+    }
+   ],
+   "catchword": "futurorum",
+   "notes": "Ornamental Greek and Hebrew-free; Greek passages transcribed as printed, with some approximation in accents. Marginal citations are run into the text and are copied in italics. Page number, running head and signature absent from the scan."
+  },
+  {
+   "n": 18,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: contex-"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "<i>turorum exercitationem ac praeparationem</i> celebrâsse, ex literis eo-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "rum ad Ponti Ecclesias datis, quæ extant apud <i>Eusebh.hist.Eccl.l.4.c.15.</i>",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "palàm evadit. <i>Incertum</i>, an martyrum memoriæ, Apostolis adhuc",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "spiritum è cœlo ducentibus, viguerint etiam in baptismi susceptione.",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "<i>Incertissimum</i>, an viguerint cum ritu superaddito, quem postulat ex-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "positio particulæ ὑπὲρ per ὑπεράνω, qui non Apostolicam simplicita-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "tem, sed περισσωπολη ψίαν seu nimiam mortuorum admirationem & su-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "perstitionem olet, quam Apostolus haud dissimulaturus fuisset. 2. Quo-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "niam igitur Catechumeni cæmeteria seligere & in iis se baptizandos",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "sistere potuerunt in honorem maximè & memoriam morte affectorum,",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "argumenti vis pro resurrectione non constat. 3. Quum inter prima",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "Christianæ rei initia flagrârit persecutionum ignis, omnémque tyranni",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "in Christianos rabiem exegerint, ritum illum baptizandi in polyandriis",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "ullibi potuisse exerceri non est verisimile.",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "XXI. Memorias martyrum in baptismi susceptione recoli soli-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 16,
+     "text": "tas restringit vir omni memoria dignissimus <i>Joh. Cloppenburgius syn-</i>",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "<i>tag.select.Exerc. Theol.p.444.445.</i> non ad locum, sed ad personas &",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "certos quosdam martyres, illos nimirum, qui tum ex Apostolis, tum ex",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "quingentis resurrectionis Christi testibus oculatis martyrio coronati",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "sunt, de quibus sermo inchoatus fuit v.6. continuatus v.11.15.18. & ad",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "quos sermo redit v. 29. sicut ad viventes superstites v.30.31. Illos igitur",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "martyres, siquidem censendi essent ψευδομάρτυρες in causa Dei, non sibi",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "tantum suæ perditionis autores fuisse, sed & iis, qui <i>propter illos bapti-</i>",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "<i>zabantur</i>, h.e. qui postquàm viventes illos audiissent aut spectâssent",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "morientium in testimonio de Christi resurrectione constantiam, & vali-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "dissimarum consolationum in morte experientiam, illis magistris glo-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "riabantur, se Christum didicisse, & ad illorum memorias, officio per se",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "pio, baptismum flagitabant, fraudem dedisse, Apostolus, Cloppenburgii",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "sententiâ, inculcat.",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "XXII. Ad quam exegesin suffecerit attulisse accuratam Ultrajec-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 31,
+     "text": "tinæ Palladis <i>A.M.Schurmanna επικρισιν</i>, quam suppeditat <i>Epist.</i> ejus",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "<i>ad Cloppenb.</i> exarata. <i>Primum non satis solidè</i>, inquit illa, <i>saltem ex</i>",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "<i>hoc cap. probari posse existimem, nonnullos ex illis quingentis fratri-</i>",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "<i>bus, quos obdormivisse prædicat Apostolus v.6. martyrii coronam con-</i>",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "<i>secutos fuisse. Deinde v.11. intelligendum esse de iisdem sive viventi-</i>",
+     "heading": 0
+    },
+    {
+     "n": 36,
+     "text": "<i>bus adhuc, sive jam mortuis, abnuere videtur ipsa series & orationis</i>",
+     "heading": 0
+    }
+   ],
+   "catchword": "contex-",
+   "signature": "C",
+   "notes": "Greek words in the text are transcribed as best read; accents on the Greek are uncertain. Marked doubtful: \"περισσωπολη ψίαν\" and \"επικρισιν\" are approximate. The passage from \"XXII.\" onward is set in italic in the original and is rendered so."
+  },
+  {
+   "n": 19,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: non-"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "<i>contextus v.7.8.9.10. & 11. Ubi non agitur de martyribus illis vita</i>",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "<i>modò defunctis, sed de Apostolis tum temporis, cùm S. Paulus haec</i>",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "<i>scriberet, resurrectionem Christi annunciantibus. Idem fere dixerim</i>",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "<i>de v.15. quando ibid. ex falsa haereticorum hypothesi, Apostolos potius,</i>",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "<i>quàm alios quoslibet criminis ψευδομαρτυρίας argui vero consen-</i>",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "<i>taneum est.</i> Postremo exempla mihi nunc quidem non occurrunt,",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "quibus certò evinci queat, verba & phrasin Apostolicam ultro admit-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "tere hanc interpretationem, <i>τί ποιήσουσιν οἱ βαπτιζόμενοι ὑπὲρ τῶν</i>",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "<i>νεκρῶν;</i> nihil aliud denotare, quàm quosdam Christianorum olim &",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "tunc temporis Baptismum recepisse, commotos scil. exemplo istorum",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "Martyrum, qui hanc veritatem proprio sanguine obsignaverant. Hu-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "iusque <i>Schurmanna</i>, in cujus judicio haud repugnanter acquiescimus.",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "XXIII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 14,
+     "text": "In peculiari semita versatur etiam summus & incompa-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 15,
+     "text": "rabilis <i>Heinsius S. Exerc. ad N.T. l.7. c.13 p.407.408.</i> qui argumentari",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "Apostolum existimat a ritu ex circumcisione in Ecclesiam N.T. propaga-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "to, quo Christiani plerunque Apostolorum Martyrum, S. Patrum, aut",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "suorum, qui virtute, ac probitate excelluissent, nomen suis impone-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "bant, ut sic vivere, sic superesse viderentur, aut ut, postea resurrecturi,",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "quiescere ac dormire ad tempus crederentur. Quia v. quibus <i>τῶν</i>",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "<i>τεθνεώτων</i> nomina imponebantur, baptizari in defunctorum nomina, quod",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "soli Deo convenit, dici non poterant, <i>ὑπὲρ ἐκείνων</i>, <i>in eorum vel hono-</i>",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "<i>rem vel memoriam baptizari</i> dicebantur, quod non male <i>nomen de-</i>",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "<i>functi suscitare</i> dicas, alia in reIudaeis usitatum Deut.XXV.v.7. Ruth.IV.",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "v.10. Ex his jam Heinsius hanc extruit paraphrasin: <i>Nam quid illis fiet,</i>",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "<i>aut quid respondebunt, si de resurrectione dubitant, nec eam credunt,</i>",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "<i>qui in mortuorum suos vel baptizant memoriam, vel baptizantur?</i>",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "<i>Resurrectionem enim si non credunt, quare mortuos considerant ut vi-</i>",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "<i>vos, cùm eorum nomina aut aliis imponant, aut imponi sibi patiantur?</i>",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "XXIV.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 31,
+     "text": "Expositio haec, uti censet <i>Laurent. in Paulo</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 32,
+     "text": "<i>p.440. magis erudita ac subtilis est, quàm certa vel etiam multùm pro-</i>",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "<i>babilis.</i> Nec enim liquet, quâ ratione pro aliquo baptizari idem valeat,",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "quod nomen alicujus accipere in baptismo. De tempore autem, quo",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "Christianis primùm in baptismi impertitione nomina sint imposita, hi-",
+     "heading": 0
+    },
+    {
+     "n": 36,
+     "text": "storici certant & adhuc sub judice lis est. Incunabula N.T. qui allegant,",
+     "heading": 0
+    }
+   ],
+   "catchword": "non-",
+   "notes": "Greek words in the text are transcribed from the scan and may contain small errors. The first line is a fragment continuing from the previous page. The Greek in the XXIV heading line (Ἀνυσνοήτως-like marks) is partly illegible; the running Greek at \"ἀνυσνοής\" is uncertain."
+  },
+  {
+   "n": 20,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "nonnisi conjecturis nituntur. Sane Cornelio Centurioni in baptismo",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "vetus nomen haesit Act. X. uti prius Eunucho caloribus Aethiopicis infus-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "cato Act. VIII ipsi etiam Saulo Act. IX. 18. coll. cum XI. 25. 30. XIII. 1. 7. 9.",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "quo proximo loco primum Paulus appellatur, vel quia id nominis tanq.",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "tropaeum subjugati Christo Sergii Pauli Proconsulis Cypri sibi ascivit,",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "uti putat <i>Hieron.</i> vel quia a Sergio Paulo amicitiae gratia familiae suae no-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "mine est nobilitatus, ut opinatur <i>Crocius comm. in Ep. ad Ephes. p. 26.</i>",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "vel quia binomius fuit, ita ut nomini gentilitio Saulis, quod religio-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "nem & genus indicabat, ob summam <i>φιλοτιμίαν</i> additum fuerit Roma-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "num illud Pauli, quod jus Romanae civitatis testaretur, ut praeeunte",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "<i>Origene</i> judicant <i>Calvin. comm. in Ep. ad Rom. c. 1. & Martyr comm. in</i>",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "<i>1. Cor. 1.</i> Antiqua igitur adulti, qui ad Christianam religionem conflu-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "xerunt, plerunque retinuerunt nomina, quae quidem ante perceptum",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "baptismum dare debuerunt, sed non ea fini, ut postmodum in baptismi",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "administratione vel servarentur, vel immutarentur, verum ut nomine-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "tenus ad examen citarentur, ad baptismum praepararentur, & concinno",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "ordine in tabulis collocarentur. Quod vero Dionysius Alexandrinus",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "A.C. 260. juxta <i>Alstedii</i> calculum <i>Chron. tit. 41. p. 401.</i> Episcopus, <i>comm.</i>",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "<i>de promissionib. contra Nepotem</i> Aegyptiorum Episcopum apud <i>Eused.</i>",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "<i>H.E. l. 7. c. 25.</i> multos B. Johannis Apostoli temporibus, eo quod illum",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "amarent, suspicerent, aemularentur, & in simili apud Deum pretio esse",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "discuperent, Johannis nomen sibi usurpasse arbitratur, opinio est ex ani-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "mo de autore Apocalypseos ambigente profecta. Morem enim Aposto-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "lorum appellationes arripiendi seculo II. nondum fuisse hinc colligunt",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "<i>Magdeburg. quia paucissimi ejus seculi Episcopi Apostoli cujusquam</i>",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "<i>nomen referant,</i> cent. 2. c. 6. p. 111, 112. Quicquid sit, ante aetatem Chry-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "sostomi, qui circa A.C. 390. inclaruit, <i>ὀνοματοθεσίαν</i> baptismalem, praeser-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "tim in Ecclesia Orientali, non fuisse in usu, ex perverso quodam more, in",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "cujus mentionem delabitur ille Christianorum Demosthenes <i>hom. 12.</i>",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "<i>in 1. Cor.</i> etiam inter Christianos frequentato, quo infanti nomen im-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "ponituri accensis lucernis nomina assignabant, atque ejus demum, quae",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "caeteris extinctis supervixerat, nomen puero indebant, hinc eum diutur-",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "nius victurum augurantes, optime conjectat <i>Georg. Konig. caf. consc.</i>",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "<i>Catech. p. 242. 243.</i> Oppessulatus namque fuisset abusus iste, si propria",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "infantibus nomina in baptismi collatione publica auctoritate fuissent",
+     "heading": 0
+    },
+    {
+     "n": 36,
+     "text": "impositia. Hinc quoque sudo clarius elucescit, eos qui sponsores, quorum",
+     "heading": 0
+    }
+   ],
+   "catchword": "rum",
+   "signature": "C 2",
+   "notes": "Page is a single text column. The printed text is set in roman with italic citations; the running text is near-illegible in places around the line ends, and several Greek words (φιλοτιμίαν, ὀνοματοθεσίαν) are transcribed from the scan with some doubt. The first line's \"Cornelio\" and the ligature \"s\" forms were read as s. No running head or page number is printed."
+  },
+  {
+   "n": 21,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "number": "p.357",
+   "lines": [
+    {
+     "n": 1,
+     "text": "rum originem sub Hygino Romano circa A.D.140. Episcopo ex <i>Platina</i>",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "<i>de vit. Pont. p. m. 17.</i> ostendunt, nomina sua in susceptos transtulisse volunt,",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "nihil habere quo se tueri possint.",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "XXV. Sed navim avertentes ab istis argutiarum salebris velifica-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "tionem dirigamus ad eos, qui locum nostrum Apostolicum non de speciali",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "aliquo ritu, sed in genere <i>de baptismo</i> intelligunt, quem prisci",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "temporibus ut plurimum immersione agi solitum arguit vel ipsa vocis",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "tum Graecae <i>βαπτίζειν</i> immergere notantis, tum vernaculae <bl>Tauffen</bl> vel ab Heb.",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "<i>טבל</i> immersit, vel a simpliciori <bl>Tief</bl> deductae proprietas. Cum autem",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "immersio illa symbolum fuerit spiritualis mortificationis, qua caro",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "submergitur & sepelitur, <i>σημαντικώτερον</i> Rom. VI. 3.4. ab hac Apostolum",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "afferre argumentum nonnulli censent, in hunc sensum: <i>Quid facient qui</i>",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "<i>baptizantur ὡς νεκροί, tanquam mortui</i> peccato & commortui Christo:",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "vel <i>pro mortuis</i> (h.e. operibus peccati vita gratiae carentibus & mortem",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "generantibus) <i>abluendis</i>? Frustra enim & temere in baptismo testamur,",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "nos in mundo pro mortuis haberi & praesentis vitae voluptatibus nuntium",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "mittere velle, si resurrectio non est futura. Laudantur in hanc sententiam",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "<i>Sedul. Primas. Haymo, Thomas, Contarenus:</i> quibus <i>ὁμοίως Vorstius</i>",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "<i>tessarad. Antipist. par. 2. c. 12. sect. 11. p. 416. & Alting. Elenct. N. L. 20. p.</i>",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "<i>831. 832.</i> Eadem immersio in aquam & mora sub aqua sicut illustris",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "fuit typus & pictura mortis corporum, ita emersio ex aqua resurrectionis",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "fuit <i>τυπος</i>, Rom. VI. 5. Hinc <i>Chrysostomo</i> hom. 40. in 1. Cor. <i>bapti-</i>",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "<i>zari pro mortuis</i> est super professione articuli, <i>οὐ πιστεύω εἰς νεκρῶν ἀνάστασιν</i>,",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "quem inter caeteros ex Symbolo recitabant Catechumeni, ad si-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "militudinem mortuorum baptizari & demergi, dein sursum remeare &",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "emergere. Ita <i>Theodoreto</i> comm. ad h.l. <i>baptismus pro mortuis</i> suscipitur,",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "quod morientis ac resurgentis speciem quandam praefe ferat. Ex",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "his exurgit hujuscemodi explicatus: <i>Quid facient οἱ βαπτιζόμενοι ἐπ' ἐλπίδι</i>",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "<i>τῆς ἀναστάσεως τῶν νεκρῶν, qui baptizantur in spem rei quam</i>",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "<i>post mortem assecuturi sunt, videl. resurrectionis</i>, cujus testera est bap-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "tismus. Suffragatores hujus explicationis citantur <i>Oecumenius, Theo-</i>",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "<i>phylactus, Photius: Hugo de S. Charo Cardin. & Glossa apud eundem,</i>",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "<i>Cajetanus.</i> Quibus suum addunt calculum <i>P. Martyr comm. in 1. Cor.</i>",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "<i>p. 418. Seb. Castalio annot. ad h.l. Polanus Syntag. Theol. T. II. l. 7. c. 25.</i>",
+     "heading": 0
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "running_head": "p.3575. Scharpius cur. Theol. T.II. p.552. Alsted. Theol. Polem. par. 4. p.327.",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: lum"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "qui tamen calculum reduxit Turr.Bab. p. 116.",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "XXVI. Verum & his expositionibus, cum extra aleam non sint,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "difficilius accedimus. Nam 1. Apostolum speciale quid attingere, nec",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "de communi omnium baptismo, sed de quibusdam saltem baptizatis",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "agere manifesta res docet, & personae mutatio evincit. <i>Non enim un-</i>",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "<i>quam solet Apostolus de fidelibus in tertia persona loqui, cum de iis a-</i>",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "<i>git, quae fidelibus omnibus communia sunt,</i> inquit <i>Camerom yroth. E-</i>",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "<i>vang. p. 229.</i> 2. Coacta est interpretatio phraseos, tum quia <i>ὡς νεκροὶ</i>",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "& <i>ὑπὲρ τῶν νεκρῶν,</i> item baptizari pro mortuis & in baptismo repraesen-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "tare mortem ac resurrectionem seu baptizari in spem resurrectionis, sub",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "idem significationis jugum devinciri nequeunt: tum quia articulus pla-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "ne est incommodus: tum denique quia importuna ambiguitas suspen-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "sum redderet pium lectorem, si sub vocabulo <i>νεκρῶν</i> comprehenderen-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "tur peccata cum illud non nisi substantivo additum peccata notet, ut",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "Heb. VI, 1. IX, 14. <i>Conf. th. p. rat. 1.</i> 3. Catechumeni quondam, quod ad",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "Chrysost. sententiam observandum, non unum tantum Symboli articu-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "lum de resurrectione profitebantur, sed totum Symbolum. Quaprop-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "ter si pro mortuis baptizari & in confessionem resurrectionis mortuo-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "rum baptizari eodem recidunt; pari ratione dici poterant pro Patre, Fi-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "lio & Spiritu S. baptizari, quia in fidem de Patre, Filio & Spiritu S. bap-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "tizantur, quod tamen inusitatum.",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "XXVII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 23,
+     "text": "Sic quoque in explicationibus ex <i>Synecdochica</i> sive <i>Ec-</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 24,
+     "text": "<i>clesiastica</i> verbi <i>βαπτίζεσθαι</i> acceptione promanantibus morati sumus:",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "<i>Metonymica,</i> qua verbum istud prolotionibus generatim usurpatur, re-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "stat ut in deliberationem adducatur.",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "XXVIII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 28,
+     "text": "Nihil autem hic nominatius versione venerabilis",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 29,
+     "text": "<i>Beza: Alioqui quid facient βαπτισμαῖς χρώμενοι ὑπὲρ τῶν νεκρῶν, qui ab-</i>",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "<i>lutione utuntur super mortuis?</i> Existimat nimirum ille, <i>τὸ βαπτίζεσθαι</i>",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "significatione media notare ablutionem mortualem Gentilibus & Ju-",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "daeis consuetam, qua mortuorum corpora in fidem & spem resurrectio-",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "nis lavabantur. Haec opinio tulit puncta haud infimi subsellii viro-",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "rum, <i>Parei ad h.l. Chamieri Panstrat. Catholic. T. III. l. 26. c. 19. p. 1217.</i>",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "<i>Crocii Anti-Becan. T. II. contr. 8. sect. 6. §. 25. p. 149. & Vvendelini</i>",
+     "heading": 0
+    },
+    {
+     "n": 36,
+     "text": "<i>Christ. Theol. l. 1. c. 27. p. m. 556.</i> Germana huic, quam suggerit <i>Bullin-</i>",
+     "heading": 0
+    },
+    {
+     "n": 37,
+     "text": "<i>gerus</i> noster, Theologus veteranus, qui <i>comm. in 1. Cor. p. 200,</i> Aposto-",
+     "heading": 0
+    }
+   ],
+   "catchword": "lum",
+   "signature": "C 3",
+   "notes": "Marginal citations at head of page are part of the running head area. Greek passages transcribed as best read from the scan; some Greek accents uncertain. Catchword \"lum\" read at lower right."
+  },
+  {
+   "n": 23,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: mun-"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "lum Corinthiis objecisse putat Gentilium ceremoniam, quâ super mor-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "tua & sepulta corpora baptizabant, i.e. tingebant & aquam spargebant,",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "sicque rigando aperte testabantur, flaccida ista in terram seminata corpo-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "ra refloritura: ac proinde textum nostrum <i>per enallagen</i> legi posse cen-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "set: <i>Si omnino non resurgent mortui, quid baptizant super mortuos?</i>",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "XXIX. Subigit equidem fateri veritas, istum abluendi cadavera",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "morem Apostoli aetate usurpari solitum fuisse partim à <i>Gentilibus</i>,",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "apud quos mortui, membris ad naturalem corporis formam perductis,",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "non aquâ tantum vivâ & purâ, sed admistis liquoribus odoratissimis aut",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "floribus eliquatis lavabantur, & unguentis non vulgaribus ungebantur",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "à pollinctoribus, ab ungenda pelle ita dictis, & à mulieribus, uti conjici-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "tur ex illo Ennij: <i>Tarquinij corpus bona femina lavit & unxit:</i>",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "partim ab ipsis Judaeis, ut indicium praebet locus Act. IX, 37. de Tabitha",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "mortua: <i>λούσαντες αὐτὴν ἔθηκαν ἐν ὑπερῴῳ, laverunt eam ac posuerunt</i>",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "<i>in cænaculo:</i> unde apud posteros eorum adhuc dum <i>aquâ calidâ stu-</i>",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "<i>diosè abluitur mortuus, ut purus & mundus sit, quum peccatorum</i>",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "<i>ratio reddenda erit</i>, teste in illorum scriptis exercitatissimo D. Bux-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "torsio <i>synag. Iud. c. 35. p. m. 431.</i> Neque etiam inficiamur, claram",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "subinde lucem fulgetri instar sub obscura nocte coruscantis irradiasse",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "Ethnicorum animos, cujus ductu mortem non interitum esse omnia de-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "lentem, sed quandam q. migrationem & vitae commutationem agnove-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "rint, id quod ceremoniae eorum sepulchrales & summa in procurandis",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "cadaveribus occupatio probabile efficiunt: hinc ille apud Ausonium, cui",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "perpetuum ver agit iIlacrymabilis urna, <i>commutavit secula, non obiit.</i>",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "Quia tamen τὸ βαπτίζεσθαι in significatione verbi medij de actione in a-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "liud subjectum transeunte nullibi sumitur, & juxta illas interpretatio-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "nes ὑπὲρ τῆς νεκρᾶς potius, quàm ὑπὲρ τῶν νεκρῶν dicendum fuisset, Apo-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "stoli dictum ad morem illum vel abluendi exanimes, vel (ut habet Au-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "sonius) cineres mero spargendi, & odoro nardo, rosis puniceis, balsamó-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "que perluendi referendum esse haud assentimur.",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "XXX. Unica superest expositio, quae locum nostrum accipien-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 32,
+     "text": "dum dictitat de baptismo seu lotione ceremoniali Judaeorum, qui tan-",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "gebant mortuos, quae praecipitur Num. XIX 11. & seqq. <i>Qui tetigerit</i>",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "<i>mortuum quodcunque cadaver hominis, is erit immundus septem diebs.</i>",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "<i>Ubi autem purgaverit se aquâ separationis die tertio & die septimo,</i>",
+     "heading": 0
+    }
+   ],
+   "catchword": "mun-",
+   "notes": "Catchword-like word \"mun-\" at the foot is a hyphenated line end, kept as part of the text. Faint show-through of the facing page is ignored. Greek and Hebrew copied as far as legible; the Greek in the Ausonius and Acts passages is printed in a larger form and some accents may be imperfect."
+  },
+  {
+   "n": 24,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: dæum."
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "<i>mundus erit: quòd si non purgabit se die tertio & die septimo, non erit</i>",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "<i>mundus. Quisquis tacto mortuo, cadavere hominis qui mortuum est,</i>",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "<i>non purgaverit se, tabernaculum Jehova polluit, ideò exscindetur a-</i>",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "<i>nima illa ex Israële, quia aqua separationis non fuit aspersa super eum.</i>",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "Baptismum hunc eapropter à Deo per Mosen institutum, ut populus",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "Israeliticus commonefieret resurrectionis mortuorum, qui autumant",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "subiisse mentem Apostoli, verba ejus ita exponunt: <i>Quid facient</i>",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "<i>ij qui lavantur seu se lavant ὑπὲρ τῶν νεκρῶν, propter mortuos vel</i>",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "<i>mortuorum gratiâ?</i> Hunc sensum <i>τῶν ἀμφοῖν</i> amplectuntur approba-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "tâ eruditione viri, <i>Bonaventura Cornelius Bertramus, ὁμηλιξ Bezæ,</i>",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "<i>lucubr. Franktall c.8.p.102.& seqq. Sebastianus Schmidt</i>, Theologus",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "Argentinensis, <i>disp. Theol. de bapt. super mortuis th. 31. & seqq.</i>",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "qui <i>ὑπὲρ τῶν νεκρῶν</i> vertit <i>super mortuis</i>: <i>& ἐλλογιμώτατος</i> ille in Rep. Litt.",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "heros, <i>ὁ ἐν μαχαιρίτης Hottingerus</i> noster, Præceptor nunquam sine e-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "logio dicendus, <i>dissert. de variis Orientis inscriptionib. & mensuris,</i>",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "<i>præmissa cippis Hebr. p.10.11.</i>",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "XXXI.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 18,
+     "text": "Equidem, utrum cadat explicatio isthæc, an rectò stet ta-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 19,
+     "text": "lo, Candidi Lectoris judicio permissum esto. Nos sanè illam, monitu in-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "structúque Clarissimi ac Reverendi Dn. Præsidis edocti, & nube examinata-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "rum opinionum, quarum singulæ non unâ laborant difficultate, detersâ",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "oculos aperientes, <i>τὰ πρωτεῖα</i> obtinere, genuinámque esse & <i>αὐτόφυη</i>",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "asserere non veremur. Ut autem sententiæ nostræ fides abundantior",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "sit, nei neque <i>phraseologiam</i>, neque <i>modum argumentandi</i> Apostolicum",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "adversari demonstratum ibimus.",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "XXXII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 27,
+     "text": "Circa <i>phraseologiam</i> singulorum vocabulorum pondus",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 28,
+     "text": "seriâ mentis indagine expendendum occurrit. <i>Ἐπεὶ τί ποιήσουσιν οἱ</i>",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "<i>βαπτιζόμενοι ὑπὲρ τῶν νεκρῶν;</i> inquit Apostolus. Particulam <i>ἐπεὶ</i> appositè",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "per <i>præterea</i> cum Grotio, vel cum plerisque aliis per <i>ἐπεὶ μὴ</i>, <i>alioqui</i>",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "vertere possumus, quippe quæ, veluti transitionis nota, novum pro re-",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "surrectione argumentum ab absurdo consequenti petitum in medium",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "poni indicat. Vocula <i>τί</i>, Apostolum bonitate causæ suæ fretum ipsos",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "Corinthios, ut testimonium eorum extorqueat, in consilium adhibere",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "sententiámque rogare, nobis demonstrat. Persona tertia <i>ποιήσουσιν</i> &",
+     "heading": 0
+    },
+    {
+     "n": 36,
+     "text": "articulus distinctivus <i>οἱ</i> verbo <i>βαπτιζόμενοι</i> appositus ritum non univer-",
+     "heading": 0
+    },
+    {
+     "n": 37,
+     "text": "salem & ubique receptum, sed particularem & aliquibus saltem, putà",
+     "heading": 0
+    },
+    {
+     "n": 38,
+     "text": "Judæis etiam conversis, usitatum indigitat. Se ipsum tamen, utpote Ju-",
+     "heading": 0
+    }
+   ],
+   "catchword": "dæum.",
+   "notes": "Greek words are rendered as best legible; the scan is low in contrast in places. The top line is partly faint. The catchword and signature are not visible."
+  },
+  {
+   "n": 25,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "dæum natione, non inclusit Apostolus, vel quia Gentiles infirmiores of-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "fendere religioni habuit, vel quia inter gentes, cùm factus fuerit",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "<i>τοῖς πᾶσι τὰ πάντα</i> 1. Cor. IX. 22. isto ritu Judaico non fuit usus. Verbum <i>βαπτίζεσθαι</i>",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "lavari nobis & ablutionibus expurgari designat. Derivatur e-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "nim à <i>βάπτειν</i>, quod est lanam aut aliud quidvis immersum in lacum",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "aliquem aquâ tinctoriâ plenum inficere & colorare, indeque <i>βαπτίζειν</i>",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "proprie tingendi causâ est immergere: Quia verò quæ ex aquis emer-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "guntur lota apparent & munda, idcirco ex consequenti <i>βαπτίζειν</i> notat",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "immunditias loto etiam toto corpore emaculare & munditiem in ea-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "rum locum inducere: hinc <i>βαπτισμοὶ</i> in N.T. frequenter",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "<i>καθαρισμὸς</i> seu ablutiones, easque vel legales seu Leviticas, quarum meminit autor",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "Epistolæ ad Hebræos (quam Paulo, non Barnabæ, non Lucæ, non Mar-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "co, non Clementi Rom. non denique alii transscribimus) c. IX. v. 10.",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "vel superstitiosas seu Pharisaicas, ut Marc. VII. 4. 8. significant. Est verò",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "<i>τὸ βαπτίζεσθαι</i> hujuscemodi passivum, per quod passio reflectitur seu re-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "ciprocatur in ipsum agentem, adeóque reddi potest <i>lavare, abluere se</i>",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "<i>ipsum.</i> Cui versioni infignitius favet locus Marc. VII. 4. de Pharisæis: <i>Καὶ ἀπὸ ἀγορᾶς, ἐὰν μὴ βαπτίσωνται,</i>",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "<i>οὐκ ἐσθίουσι, & à foro (sub. ὅταν ἔλθωσι, quum venerint) nisi se abluant, non edunt:</i> Cùm enim Pharisæi",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "<i>βαπτιζόμενοι</i> è publico tanq. à contagione & pollutione עם האיש vel עם",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "הארץ vulgi redirent, totum corpus lavabant, qua de re videri poterit",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "<i>Drusius comm. de trib. sect. Iud. l. 2. p. 97.</i> Consimilis est usus verbi",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "<i>νίπτεσθαι</i> l. c. v. 3. <i>Pharisæi & omnes Iudæi, ἐὰν μὴ πυγμῇ νίψωνται τὰς</i>",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "<i>χεῖρας, non edunt,</i> ubi phrasis <i>πυγμὴ νίπτεσθαι</i> aliis idem est quod <i>πύκτα</i>",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "seu <i>πυκνῶς</i> frequenter; aliis sedulò ac diligenter, certatim, iterum atque",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "iterum, metaphorâ à <i>πυγμῇ</i> h. e. pugna pugilum, qui iteratis pugnis de-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "certando ad palmam contendebant, deducta, unde <i>πυγμὴ πλίειν</i> est cre-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "brò ferire; aliis idem quod באגרף <i>πυγμῇ</i> pugno in cavum manus alte-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "rius immisso defricare sordes; aliis denique נטילת ידיים <i>χειραφρίαν</i> seu",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "elevationem manuum in pugni figuram compositarum notat, quâ Ju-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "dæi manuum lotioni operam daturi quinque digitorum <i>ἄκρα</i> inter se",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "jungunt, de qua <i>χειρολαβία</i> nos instruit Dictator ille Reip. Litt. <i>Iof. Sca-</i>",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "<i>liger Elench. Trihæres. c. 7.</i> Ita Jacobus Patriarcha, Sichemitidas fœ-",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "mellas, aliósque, qui jam apud eum versati sunt, Ethnicos in familiam",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "Ecclesiámque suam cooptaturus Gen. XXXV. 2. והטהרו <i>& mundami-ni,</i>",
+     "heading": 0
+    }
+   ],
+   "notes": "Greek and Hebrew words are transcribed as best read from the scan; the Greek accents and some Hebrew points are uncertain. The line \"Ecclesiámque... mundami-ni,\" continues from the preceding page sense. Faint show-through from the reverse side is ignored. A small stain near the middle is not text."
+  },
+  {
+   "n": 26,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: piam"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "ni, inquit, h. e. mundate seu lavate vos: quo in loco originem Baptismi",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "Proselytici טבילת גרות dicti, qui traductio fuit Gentilium in religio-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "nem Judaicam, ostendit <i>Lightfootus Hor. Hebr. in Matth. III. 6.</i> Et",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "haec ipsa τὸ βαπτίζεσθαι actionem notare reciprocam satis superque con-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "firmant. Sequitur ὑπὲρ τῶν νεκρῶν, quod jam interpretati sumus <i>prop-</i>",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "<i>ter mortuos</i> vel <i>mortuorum causa.</i> In hoc significatu saepissime sumi",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "praepositionem ὑπὲρ cum secundo casu constructam satis obvium est",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "Rom. I. v. 5. XV. v. 8, 9. 2. Cor. I. v. 6. Eph. III. v. 13. Phil. I. v. 29. II. 13. Col. I. v.",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "24. 2. Thess. I. 5. II. 1. aliisque locis. Ita νεκρὸς maximè proprie sonare",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "mortuos homines, tam apertum est ut nihil aliud magis. Articulus",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "τῶν, cujus ut absentia ἀόριστος, ita adjectio, ex Scaligeri effato, ἐμφατικὴ est",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "ἡ ὀρισμένη, vocabulo νεκρῶν limites ponit, ut comprehendat τὰς ζῶντας",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "νεκρὰς, certos mortuos, illos nempe, qui tanguntur & propter quos tan-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "gentes abluuntur. Denique a phrasi βαπτίζεσθαι ὑπὲρ τῶν νεκρῶν haud",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "abludit illa Siracid. XXXIV. 29. <i>baptizari ἀπὸ τῆς νεκρῶς,</i> a cadavere seu",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "post tactum cadaver se lavare.",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "XXXIII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 18,
+     "text": "Sicut autem versio nostra phraseologiae, ita <i>modo</i> etiam",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 19,
+     "text": "<i>argumentandi</i> Apostolico quàm optimè congruit. Eò namque colli-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "neat Apostolus, ut resurrectionem mortuorum ab exemplis toto quasi",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "orbe conspicuis confirmet. Horsum merito refert tam laboriosos lotio-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "num Judaicarum apparatus, qui Israelitis recordationem resurrectionis",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "dare debuerunt. Cùm enim demortui homines tumulari nequiverint,",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "quin eorum cadavera contingerentur; cura verò corporum sepulchris",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "afficiendorum, ut ipsa sepulchrorum religio, momentosum speratae re-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "surrectionis corporum argumentum perhibeatur & monimentum: con-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "venienter Apostolum ex lotionibus Judaeorum propter mortuos ad of-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "ficium sepulturae iteratis argumentum repetiisse censet <i>Bertramus lu-</i>",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "<i>cubr. Franktall. c. 8. p. 103.</i> qui textum nostrum istâ paraphrasi oppor-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "tunè illustravit: <i>Praeterea si nulla est spes resurrectionis, quorsum He-</i>",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "<i>braei nostri ex antiquissimo aeterni Dei mandato cum tanta tam-</i>",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "<i>que exquisita sedulitate mortuorum sepulturam procurant? itaut</i>",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "<i>se repetitis per aliquot dies ablutionibus fatigare non dubitent, qui-</i>",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "<i>bus expurgent pollutiones, quas ex humatis corporibus mortuorum</i>",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "<i>contraxerunt. Quin potiùs illi qui etiamnum hodie sese & alios sepe-</i>",
+     "heading": 0
+    },
+    {
+     "n": 36,
+     "text": "<i>liendis mortuorum corporibus miris modis fatigant, curam illam tam</i>",
+     "heading": 0
+    }
+   ],
+   "catchword": "piam",
+   "signature": "D",
+   "notes": "Greek and Hebrew words transcribed as far as legible; the Greek accents and breathings are approximate where the scan is faint. The section numeral \"XXXIII.\" is set as a heading although it is a bare numeral; it is kept as a paragraph-opening heading. Final catchword \"piam\" is printed in italic at the foot right. Some words in the text are faint and may need checking."
+  },
+  {
+   "n": 27,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "<i>piam; & sanctâ deinceps missam facient, neq; amplius mortuorum cor-</i>",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "<i>pora contingere sustinebunt, imò nec contingendis in posterum mortu-</i>",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "<i>orum corporibus sese polluere volent, postq. nullum percipient levamen-</i>",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "<i>tum laborum illorum, quos sepeliendis mortuorum corporibus impen-</i>",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "<i>dunt: neque ullum lotionum illarum quas ipsi aliíque in eorum gra-ti-</i>",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "<i>am ingeminant, ut pollutiones contractas ex contactu inter sepelien-</i>",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "<i>dum mortuorum corporibus eluant, operaque sua tam accurata a-</i>",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "<i>quamentum vel certè solatium situm in resurrectionis corporum de-</i>",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "<i>mortuorum spe & fide, quam jam inde ab Orbis conditu omnes fere</i>",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "<i>gentes in cura sepeliendis mortuis adhibita testata sunt & adumbrâ-</i>",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "<i>runt.</i> Hæc <i>Bertramus,</i> in cujus sententiam pedibus imus. Sed & ille ipse",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "baptismus legalis, quo (prout prolixiori tractu orationis describitur",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "Num. XIX.) mortui attactu inquinati aquâ lustrationis cinere junicis ru-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "fæ extra castra combustæ condita & instar lixivii colatâ purgandi fuerût,",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "& sine quo ad res sacras admitti non potuerût, fuit veluti reditus à mor-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "te ad vitam. Nam pollutio legalis per contactum cadaveris significabat",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "lege communé peccati & mortis: unde pollutus talis & legaliter non pu-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "rificatus <i>exscindendus</i> dicitur <i>ex Israële</i> Num. XIX.13. Ablutio autem illa",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "ceremonialis, ceu medium redeundi à morte ad vitam, typus erat resur-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "rectionis, quam meditari necesse habuit populus Israeliticus. Hinc opti-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "mo jure argumentū pro resurrectione tale petit Apostolus: Si non est re-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "surrectio, frustra quidam <bl>Βαπτιζονται υπερ των νεκρων</bl>, cum eo baptismo",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "obsignantes spem resurrectionis: imò frustra Deus ritum illum mole-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "stum instituit, quod dicere non tantùm absurdum, sed & impium.",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "XXXIV. Quorsum verò, <i>inquias,</i> Apostolus ista ex lege Mo-",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 26,
+     "text": "saica ad Corinthiorum, ceu Gentilium, errores explodendos eruit?",
+     "heading": 2
+    },
+    {
+     "n": 27,
+     "text": "<i>Resp.</i> 1. Corinthum, Achajæ caput, aliuisse Judæos, quorum bene mul-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 28,
+     "text": "ti Christo nomen dederint, ex Act. XVIII.2.4.8.& 1.Cor.I.14. liquidò",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "patescit. Illos autem, ut familiarius se cum Judæis aliis, qui in ceremo-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "niis Judaicis toti adhuc hærebant, conjungerent, eósque Christo lucri-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "facerent, ad horum mores sese attemperâsse, testis locuples est locus Act.",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "XXI.20. <i>Vides frater quot myriades sint Iudæorum qui crediderunt,</i>",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "<i>& omnes amulatores sunt legis.</i> Alioquin Judæis Ecclesiæ filiis, ipsi",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "etiam Paulo vel Barnabæ, in Synagogas Judæorum nondum converso-",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "rum intrare non fuisset integrum, nisi purificationum Mosaicarum ali-",
+     "heading": 0
+    },
+    {
+     "n": 36,
+     "text": "quam habuissent rationem. Actum igitur Apostolus suo adhuc tempo-re",
+     "heading": 0
+    }
+   ],
+   "catchword": "re",
+   "notes": "Gothic and Greek passages are transcribed as printed; Greek approximated in the Greek letters visible. The printed word \"Ioan.\" style references are none on this page. Some letters in the scan are blurred, especially in the first lines."
+  },
+  {
+   "n": 28,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "re in Ecclesia vigentem Corinthiis diligenti æstimatione",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "perpendendum sistit. 2. Allusiones & argumentationes ex legis Mosaicæ",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "ceremoniis plurimas expromit S. Apostolus tum in reliquis suis Epistolis,",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "tum in hac ipsa: vid. 1 Cor. V. 7. 8. IX. 8. 1 3. X. 2. 1 8. Ita v. 20. cap. nostri XV. Chri-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "stus dicitur <i>ἀπαρχὴ τῶν κεκοιμημένων, primitia eorum qui</i>",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "<i>obdormiverunt,</i> similitudine a primitiis in V. T. oblatis desumptâ, quam",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "erudite explanat <i>Clariss. Dn. Hoffmeist. Panac. p. 147. 148. 3.</i> Quoniam",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "Apostoli argumentum nititur autoritate ipsius Dei, qui baptismum illum",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "ceremonialem, ut esset resurrectionis mortuorum commonitorium,",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "sanxit, levi apud Corinthios pendere momento neutiquam potuit. Stat",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "igitur expositio nostra: <i>Quid facient qui se lavant propter mortuos?</i> nec",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "vel phraseologiæ, vel modo argumentandi Apostolico quicquam adversatur, <i>ὅπερ ἐδλει δξιξαι.</i>",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "Προσφωνήματα.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 14,
+     "text": "I.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 15,
+     "text": "Primitiæ messis faciunt spem divitis, atque",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "Qua fructus produnt sit bonitate sequens.",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "Primitiæ ingenii, quid sit de messe tenendum",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "Doctrinæ, erudiunt dexteritate sua.",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "Ingenii quas tu profers Cognate diserte",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "Primitias, laudem non mereantur eæ?",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "Quidni? Nam messem promittunt (spero) refertam",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "Doctrinæ pulchris frugibus atque bonis.",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "Eja cole ingenii proporro fideliter agrum,",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "Et quo coepisti currere perge pede.",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "Namque tibi largam messem cumulabis honorum",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "Aoniis studiis invigilando probè.",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "Ut decus esse queas patriæ spésque ampla tuorum",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "Concedat summi gratia summa Dei.",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "Hisce dilectiss. D. Cognato inter negotiorum",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 30,
+     "text": "turmas qualitercunque applaudere voluit",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "JOH. HERRLIBERGERUS",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 32,
+     "text": "coetûs Stekboraei",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "Reformati Pastor.",
+     "heading": 0
+    }
+   ],
+   "notes": "The Greek words in the first paragraph and the heading line \"Προσφωνήματα\" are set in Greek type; transcribed as best read. The verse lines are set with a large initial P and E, and the rest of the verse is roman. The signature line of the pastor is printed in larger capitals."
+  },
+  {
+   "n": 29,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "II.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "Felix est animi Dædala quem suis",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "ditavit variis dotibus ingeni,",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "donavitque Minerva",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "sanæ mentis acumine.",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "Felix ille virûm dicitur omnium,",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "quem Musæ gremio suscipiunt suo",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "Diuæ, quemve fovent in",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "sincero quoque pectore.",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "Fausus terque quater, dicier ampliùs",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "& si quid poterit, Tuque merebere,",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "Nam Te Pallas amica",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "lymphis Aoniis rigat.",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "Finxit Te manibus Clio suis sacra",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "Instruxit(nec enim prospicit omnib.)",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "ac Tritonia virgo",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "claris dotibus ingeni.",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "Ergo Tu vigilans, ut potes,excole",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "nec vires animi neglige, sedulus",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "Musùm castra secutus,",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "exhauri latices sacros.",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "Donec Castalidum cantet adoream",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "Coetus, maneant sertáque laurea",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "Te perchare profundam",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "non visura caliginem.",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "ἀειφιλίας ἕνεκα p.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 27,
+     "text": "HENRICUS WYSSIUS, Ecclesiarum",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 28,
+     "text": "in Valle VVeningana administer.",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "III.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 30,
+     "text": "Falleris Ausoni Præsul, qui dogma nefandum,",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "Purgantem hinc ignem, cudere ritè cupis.",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "Purpureo CHRISTI jam sunt qui sanguine loti,",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "Sulphureo tristi, non opus,igne luant.",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "Si tu, síque tui Stygiis immergier undis",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "Mavultis, per me, crede, manere licet.",
+     "heading": 0
+    },
+    {
+     "n": 36,
+     "text": "Interea, Cognate,loci te vindice sensus",
+     "heading": 0
+    },
+    {
+     "n": 37,
+     "text": "Quòd patet, hinc laus est certa reposta tibi.",
+     "heading": 0
+    },
+    {
+     "n": 38,
+     "text": "His Agnate meo conabar munere",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 39,
+     "text": "fungi FELIX WYSSIUS, Tig. V.D.M.",
+     "heading": 0
+    },
+    {
+     "n": 40,
+     "text": "IV.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 41,
+     "text": "Pro fato functis quondam qui flumine lori,",
+     "heading": 0
+    },
+    {
+     "n": 42,
+     "text": "Isthæc",
+     "heading": 0
+    },
+    {
+     "n": 43,
+     "text": "Fontani charta diserta docet.",
+     "heading": 0
+    },
+    {
+     "n": 44,
+     "text": "p. JOH. RODOLPHUS HOSPITALERUS, V.D.M.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 45,
+     "text": "V.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 46,
+     "text": "\"Ἀνθεα μυσῶν ἀρξέψας, πηγόρρυτε ἱκμάς,",
+     "heading": 0
+    },
+    {
+     "n": 47,
+     "text": "Ἐιρεσίης ἀρξης ταλάγγες μέγα κῦδ[?] ἀροιο,",
+     "heading": 0
+    },
+    {
+     "n": 48,
+     "text": "Λεπτὰ διακρίνων πολυΐδμονες ὀργια μύσης,",
+     "heading": 0
+    },
+    {
+     "n": 49,
+     "text": "Αἱ γὰρ σε ςομάτεσιν ἀνηρείψαντο μέλιτσαι.",
+     "heading": 0
+    },
+    {
+     "n": 50,
+     "text": "f. SOLOMON HOTTINGERUS ἰατρόφιλος",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "notes": "The Greek verse under V. is only partly legible at this scan resolution; the readings marked [?] are doubtful. Greek lines are copied as best read. The library stamp (STADT-BIBLIOTHEK ZUERICH) is not transcribed. The printed \"p.\" after the first Greek line and the bare numerals are kept as printed. The verse lines are copied with their printed line breaks, which may not correspond exactly to the source layout."
+  }
+ ]
+}
