@@ -1,0 +1,1235 @@
+{
+ "work": "W05693_Petit_Leges_atticae_Sam_Petitus_collegit_digessit_et_libro_comment_1635",
+ "made": "2026-11-25T06:41:19",
+ "model": "claude-haiku-5-5",
+ "prompt": "655260ce46aa8978",
+ "candidates": 808,
+ "cost_usd": 0.03469,
+ "dropped": [
+  "title 'Titulus tertius. De civibus aborigines' moved from 'De civibus aborgi TITULUS TERTIVS.' to 'De civibus aborgi'",
+  "title 'Titulus tertius. De praeparatoriis iudiciorum' is not in 'De Præparat TITULUS De I TITULUS TERTIVS.': to the scan",
+  "title 'Titulus quintus. De arbitris' is not in 'De Arbitris. TITVLVS V.': to the scan",
+  "title 'Titulus sextus. De iureiurando' is not in 'De iur TITV [?]LVS VI.': to the scan",
+  "title 'Titulus nonus. De poenis' is not in 'Pænis. S NONVS.': to the scan",
+  "title 'Titulus quintus. De puerorum amoribus, et productione et scortis' is not in 'De puerorum amoribus, TITV[illegible, ~3 letters] LVS V.': to the scan",
+  "title 'Titulus sextus. De convicis' moved from 'IN HORTOS IRRUMPE CAPIT De C TITV RE FICOSQVE DELIGERE AL ESTO. LVS VI. ΑΝΔΡΟΦΟΝΟΝ μὴ λέγειν.' to 'TITVLVS SEPTIMVS.'",
+  "title 'Titulus octavus. De ingratis' is not in '[?]gratis. [illegible, ~3 letters]US VIII.': to the scan",
+  "title 'Titulus nonus. De designandis Atheniensibus' is not in 'Atheniensibus. US IX.': to the scan",
+  "title 'Titulus decimus. De indicibus' moved from '[?]dicibus. US X.' to 'TITVLVS SEPTIMVS.'",
+  "title 'Titulus undecimus. De conviviis' is not in '[?]nuiuÿs. US XI.': to the scan",
+  "title 'Titulus tertius decimus. De eisangelia' is not in 'ΠΕΡΙ[?] ΤΗΣ Ε[?] TITVLV ΙΣΑΓΓΕΛΙΑΣ. LVS XIII.': to the scan",
+  "title 'Titulus secundus. De vacatione militiae' is not in 'De vacat TITVL': to the scan",
+  "order: {'ids': [6, 7], 'level': 1, 'title': 'Samuelis Petiti in leges Atticas. Praefatio'}",
+  "order: {'ids': [234, 235], 'level': 2, 'title': 'Titulus septimus. De negotiis gestis'}",
+  "no scans for 10 wanted"
+ ],
+ "toc": [
+  {
+   "scan": 11,
+   "line": 8,
+   "lines": [
+    [
+     11,
+     8
+    ]
+   ],
+   "level": 1,
+   "title": "Summa privilegii"
+  },
+  {
+   "scan": 12,
+   "line": 1,
+   "lines": [
+    [
+     12,
+     1
+    ],
+    [
+     12,
+     2
+    ],
+    [
+     12,
+     3
+    ],
+    [
+     12,
+     4
+    ],
+    [
+     12,
+     5
+    ],
+    [
+     12,
+     6
+    ]
+   ],
+   "level": 1,
+   "title": "Viro illustrissimo Francisco Augusto Thuano, Iacobi Augusti filio, consistoriano comiti, et libellorum supplicum in regia magistro"
+  },
+  {
+   "scan": 14,
+   "line": 4,
+   "lines": [
+    [
+     14,
+     4
+    ],
+    [
+     14,
+     5
+    ],
+    [
+     14,
+     6
+    ]
+   ],
+   "level": 1,
+   "title": "Liber primus. De deorum cultu, sacris aedibus, diebus festis et ludis"
+  },
+  {
+   "scan": 14,
+   "line": 24,
+   "lines": [
+    [
+     14,
+     24
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus primus"
+  },
+  {
+   "scan": 17,
+   "line": 12,
+   "lines": [
+    [
+     17,
+     12
+    ],
+    [
+     17,
+     47
+    ],
+    [
+     17,
+     48
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus secundus"
+  },
+  {
+   "scan": 18,
+   "line": 7,
+   "lines": [
+    [
+     18,
+     7
+    ]
+   ],
+   "level": 1,
+   "title": "Liber secundus. De legibus"
+  },
+  {
+   "scan": 18,
+   "line": 8,
+   "lines": [
+    [
+     18,
+     8
+    ],
+    [
+     18,
+     25
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus primus. Legum recensio"
+  },
+  {
+   "scan": 21,
+   "line": 1,
+   "lines": [
+    [
+     21,
+     1
+    ],
+    [
+     21,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus secundus. De senatusconsultis et plebiscitis"
+  },
+  {
+   "scan": 21,
+   "line": 14,
+   "lines": [
+    [
+     21,
+     14
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus tertius. De civibus aborigines"
+  },
+  {
+   "scan": 22,
+   "line": 6,
+   "lines": [
+    [
+     22,
+     6
+    ],
+    [
+     22,
+     7
+    ],
+    [
+     22,
+     43
+    ],
+    [
+     22,
+     44
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus quartus. De liberis legitimis, nothis, adoptivis, et patria potestate"
+  },
+  {
+   "scan": 24,
+   "line": 9,
+   "lines": [
+    [
+     24,
+     9
+    ],
+    [
+     24,
+     46
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus quintus. De inquilinis"
+  },
+  {
+   "scan": 25,
+   "line": 4,
+   "lines": [
+    [
+     25,
+     4
+    ],
+    [
+     25,
+     5
+    ],
+    [
+     25,
+     46
+    ],
+    [
+     25,
+     47
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus sextus. De servis et libertis"
+  },
+  {
+   "scan": 26,
+   "line": 2,
+   "lines": [
+    [
+     26,
+     2
+    ],
+    [
+     26,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Liber tertius. De Senatu Quingentorum et concione"
+  },
+  {
+   "scan": 26,
+   "line": 4,
+   "lines": [
+    [
+     26,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus primus"
+  },
+  {
+   "scan": 27,
+   "line": 31,
+   "lines": [
+    [
+     27,
+     31
+    ],
+    [
+     27,
+     32
+    ],
+    [
+     27,
+     53
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus secundus. De magistratibus"
+  },
+  {
+   "scan": 31,
+   "line": 10,
+   "lines": [
+    [
+     31,
+     10
+    ],
+    [
+     31,
+     11
+    ],
+    [
+     31,
+     14
+    ],
+    [
+     31,
+     44
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus tertius. De oratorum vita quaestio"
+  },
+  {
+   "scan": 32,
+   "line": 2,
+   "lines": [
+    [
+     32,
+     2
+    ],
+    [
+     32,
+     3
+    ],
+    [
+     32,
+     22
+    ],
+    [
+     32,
+     23
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus quartus. De muneribus et honoribus"
+  },
+  {
+   "scan": 33,
+   "line": 34,
+   "lines": [
+    [
+     33,
+     34
+    ],
+    [
+     33,
+     35
+    ],
+    [
+     33,
+     48
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus quintus. De excusationibus"
+  },
+  {
+   "scan": 34,
+   "line": 1,
+   "lines": [
+    [
+     34,
+     1
+    ],
+    [
+     34,
+     2
+    ],
+    [
+     34,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus sextus. De praemiis bene de republica meritorum"
+  },
+  {
+   "scan": 35,
+   "line": 1,
+   "lines": [
+    [
+     35,
+     1
+    ],
+    [
+     35,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus septimus. De gymnasiis"
+  },
+  {
+   "scan": 35,
+   "line": 21,
+   "lines": [
+    [
+     35,
+     21
+    ],
+    [
+     35,
+     40
+    ],
+    [
+     35,
+     41
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus octavus. De medicis et philosophis"
+  },
+  {
+   "scan": 35,
+   "line": 30,
+   "lines": [
+    [
+     35,
+     30
+    ],
+    [
+     35,
+     31
+    ],
+    [
+     35,
+     46
+    ]
+   ],
+   "level": 1,
+   "title": "Liber quartus. De iudiciis"
+  },
+  {
+   "scan": 35,
+   "line": 48,
+   "lines": [
+    [
+     35,
+     48
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus primus"
+  },
+  {
+   "scan": 37,
+   "line": 3,
+   "lines": [
+    [
+     37,
+     3
+    ],
+    [
+     37,
+     4
+    ],
+    [
+     37,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus secundus. De in ius vocando"
+  },
+  {
+   "scan": 37,
+   "line": 51,
+   "lines": [
+    [
+     37,
+     51
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus quartus"
+  },
+  {
+   "scan": 39,
+   "line": 21,
+   "lines": [
+    [
+     39,
+     21
+    ],
+    [
+     39,
+     22
+    ],
+    [
+     39,
+     24
+    ],
+    [
+     39,
+     36
+    ],
+    [
+     39,
+     39
+    ],
+    [
+     39,
+     40
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus septimus. De testibus"
+  },
+  {
+   "scan": 40,
+   "line": 11,
+   "lines": [
+    [
+     40,
+     11
+    ],
+    [
+     40,
+     12
+    ],
+    [
+     40,
+     15
+    ],
+    [
+     40,
+     16
+    ],
+    [
+     40,
+     40
+    ],
+    [
+     40,
+     41
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus octavus. De re iudicata et integri restitutione"
+  },
+  {
+   "scan": 42,
+   "line": 7,
+   "lines": [
+    [
+     42,
+     7
+    ],
+    [
+     42,
+     8
+    ],
+    [
+     42,
+     9
+    ],
+    [
+     42,
+     48
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus decimus. De redemptoribus vectigalium"
+  },
+  {
+   "scan": 43,
+   "line": 29,
+   "lines": [
+    [
+     43,
+     29
+    ],
+    [
+     43,
+     30
+    ],
+    [
+     43,
+     51
+    ],
+    [
+     43,
+     52
+    ]
+   ],
+   "level": 1,
+   "title": "Liber quintus. Finium regundorum"
+  },
+  {
+   "scan": 43,
+   "line": 31,
+   "lines": [
+    [
+     43,
+     31
+    ],
+    [
+     43,
+     53
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus primus"
+  },
+  {
+   "scan": 44,
+   "line": 46,
+   "lines": [
+    [
+     44,
+     46
+    ],
+    [
+     44,
+     47
+    ],
+    [
+     44,
+     48
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus secundus. De agris, armento atque grege"
+  },
+  {
+   "scan": 45,
+   "line": 11,
+   "lines": [
+    [
+     45,
+     11
+    ],
+    [
+     45,
+     12
+    ],
+    [
+     45,
+     22
+    ],
+    [
+     45,
+     23
+    ],
+    [
+     45,
+     40
+    ],
+    [
+     45,
+     41
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus tertius. De emptione, venditione et evictione"
+  },
+  {
+   "scan": 45,
+   "line": 47,
+   "lines": [
+    [
+     45,
+     47
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus quartus. De usuris"
+  },
+  {
+   "scan": 46,
+   "line": 4,
+   "lines": [
+    [
+     46,
+     4
+    ],
+    [
+     46,
+     5
+    ],
+    [
+     46,
+     6
+    ],
+    [
+     46,
+     13
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus quintus. De rebus Athenis aliunde importandis vel exportandis"
+  },
+  {
+   "scan": 47,
+   "line": 20,
+   "lines": [
+    [
+     47,
+     20
+    ],
+    [
+     47,
+     21
+    ],
+    [
+     47,
+     45
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus sextus. De artibus"
+  },
+  {
+   "scan": 48,
+   "line": 0,
+   "lines": [
+    [
+     48,
+     0
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus septimus. De collegiis et pollicitationibus"
+  },
+  {
+   "scan": 48,
+   "line": 8,
+   "lines": [
+    [
+     48,
+     8
+    ],
+    [
+     48,
+     9
+    ],
+    [
+     48,
+     43
+    ],
+    [
+     48,
+     44
+    ]
+   ],
+   "level": 1,
+   "title": "Liber sextus. De connubiis"
+  },
+  {
+   "scan": 48,
+   "line": 10,
+   "lines": [
+    [
+     48,
+     10
+    ],
+    [
+     48,
+     45
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus primus"
+  },
+  {
+   "scan": 50,
+   "line": 12,
+   "lines": [
+    [
+     50,
+     12
+    ],
+    [
+     50,
+     13
+    ],
+    [
+     50,
+     48
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus secundus. De dotibus"
+  },
+  {
+   "scan": 51,
+   "line": 36,
+   "lines": [
+    [
+     51,
+     36
+    ],
+    [
+     51,
+     37
+    ],
+    [
+     51,
+     47
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus tertius. De divortiis"
+  },
+  {
+   "scan": 52,
+   "line": 1,
+   "lines": [
+    [
+     52,
+     1
+    ],
+    [
+     52,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus quartus. De adulteriis"
+  },
+  {
+   "scan": 54,
+   "line": 6,
+   "lines": [
+    [
+     54,
+     6
+    ],
+    [
+     54,
+     39
+    ],
+    [
+     54,
+     40
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus sextus. De testamentis et hereditario iure"
+  },
+  {
+   "scan": 56,
+   "line": 11,
+   "lines": [
+    [
+     56,
+     11
+    ],
+    [
+     56,
+     12
+    ],
+    [
+     56,
+     43
+    ],
+    [
+     56,
+     44
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus septimus. De tutelis"
+  },
+  {
+   "scan": 57,
+   "line": 16,
+   "lines": [
+    [
+     57,
+     16
+    ],
+    [
+     57,
+     17
+    ],
+    [
+     57,
+     40
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus octavus. De sepulchris"
+  },
+  {
+   "scan": 58,
+   "line": 15,
+   "lines": [
+    [
+     58,
+     15
+    ],
+    [
+     58,
+     16
+    ],
+    [
+     58,
+     44
+    ],
+    [
+     58,
+     45
+    ]
+   ],
+   "level": 1,
+   "title": "Liber septimus. De sicariis"
+  },
+  {
+   "scan": 58,
+   "line": 17,
+   "lines": [
+    [
+     58,
+     17
+    ],
+    [
+     58,
+     46
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus primus. De sicariis"
+  },
+  {
+   "scan": 61,
+   "line": 29,
+   "lines": [
+    [
+     61,
+     29
+    ],
+    [
+     61,
+     30
+    ],
+    [
+     61,
+     46
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus secundus. De accusationibus"
+  },
+  {
+   "scan": 61,
+   "line": 33,
+   "lines": [
+    [
+     61,
+     33
+    ],
+    [
+     61,
+     34
+    ],
+    [
+     61,
+     49
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus tertius. De damnis"
+  },
+  {
+   "scan": 62,
+   "line": 2,
+   "lines": [
+    [
+     62,
+     2
+    ],
+    [
+     62,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus quartus. De vi bonorum raptorum"
+  },
+  {
+   "scan": 62,
+   "line": 5,
+   "lines": [
+    [
+     62,
+     5
+    ],
+    [
+     62,
+     6
+    ],
+    [
+     62,
+     7
+    ],
+    [
+     62,
+     8
+    ],
+    [
+     62,
+     17
+    ],
+    [
+     62,
+     18
+    ],
+    [
+     62,
+     19
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus quintus. De furtis"
+  },
+  {
+   "scan": 64,
+   "line": 2,
+   "lines": [
+    [
+     64,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus sextus. De convicis"
+  },
+  {
+   "scan": 64,
+   "line": 2,
+   "lines": [
+    [
+     64,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus decimus. De indicibus"
+  },
+  {
+   "scan": 65,
+   "line": 1,
+   "lines": [
+    [
+     65,
+     1
+    ],
+    [
+     65,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus duodecimus. De metallicis actionibus"
+  },
+  {
+   "scan": 65,
+   "line": 26,
+   "lines": [
+    [
+     65,
+     26
+    ],
+    [
+     65,
+     27
+    ],
+    [
+     65,
+     39
+    ],
+    [
+     65,
+     40
+    ]
+   ],
+   "level": 1,
+   "title": "Liber octavus. De militia"
+  },
+  {
+   "scan": 65,
+   "line": 28,
+   "lines": [
+    [
+     65,
+     28
+    ],
+    [
+     65,
+     41
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus primus. De militia"
+  },
+  {
+   "scan": 66,
+   "line": 12,
+   "lines": [
+    [
+     66,
+     12
+    ],
+    [
+     66,
+     13
+    ],
+    [
+     66,
+     30
+    ],
+    [
+     66,
+     31
+    ],
+    [
+     66,
+     35
+    ],
+    [
+     66,
+     36
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus tertius. De praemiis et poenis militum"
+  },
+  {
+   "scan": 67,
+   "line": 16,
+   "lines": [
+    [
+     67,
+     16
+    ],
+    [
+     67,
+     17
+    ],
+    [
+     67,
+     42
+    ],
+    [
+     67,
+     43
+    ]
+   ],
+   "level": 2,
+   "title": "Titulus quartus. Miscella"
+  }
+ ],
+ "book": "Samuel Petit, Leges Atticae (Paris, 1635): one work in eight books, a Latin and Greek edition of the Attic laws with the Latin text of each title and a commentary, preceded by privilege, dedication and preface; the laws are divided into Liber and Titulus.",
+ "series": [
+  {
+   "label": "Liber",
+   "first": "I",
+   "last": "VIII",
+   "count": 8,
+   "level": 1,
+   "found": 10
+  },
+  {
+   "label": "Titulus (Liber I)",
+   "first": "I",
+   "last": "II",
+   "count": 2,
+   "level": 2,
+   "found": 47
+  },
+  {
+   "label": "Titulus (Liber II)",
+   "first": "I",
+   "last": "VI",
+   "count": 6,
+   "level": 2,
+   "found": 47
+  },
+  {
+   "label": "Titulus (Liber III)",
+   "first": "I",
+   "last": "VIII",
+   "count": 8,
+   "level": 2,
+   "found": 47
+  },
+  {
+   "label": "Titulus (Liber IV)",
+   "first": "I",
+   "last": "X",
+   "count": 10,
+   "level": 2,
+   "found": 47
+  },
+  {
+   "label": "Titulus (Liber V)",
+   "first": "I",
+   "last": "VII",
+   "count": 7,
+   "level": 2,
+   "found": 47
+  },
+  {
+   "label": "Titulus (Liber VI)",
+   "first": "I",
+   "last": "VIII",
+   "count": 8,
+   "level": 2,
+   "found": 47
+  },
+  {
+   "label": "Titulus (Liber VII)",
+   "first": "I",
+   "last": "XIII",
+   "count": 13,
+   "level": 2,
+   "found": 47
+  },
+  {
+   "label": "Titulus (Liber VIII)",
+   "first": "I",
+   "last": "IV",
+   "count": 4,
+   "level": 2,
+   "found": 47
+  }
+ ],
+ "taste": 25,
+ "doubt": "619 of 686 scans without an entry",
+ "input": 88703,
+ "output": 34479
+}
