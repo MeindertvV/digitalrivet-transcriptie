@@ -1,0 +1,962 @@
+{
+ "work": "W03080_Grynaeus_Ionae_Prophetae_Liber_Cum_Enarratione_1581",
+ "made": "2026-11-25T08:44:55",
+ "model": "claude-haiku-5-5",
+ "prompt": "655260ce46aa8978",
+ "candidates": 353,
+ "cost_usd": 0.02293,
+ "dropped": [
+  "title '12. De fontium inquisitione' is not in 'VERSUS VII.': to the scan",
+  "title '65. De luti cum figulo, id est, hominis cum Deo lucta impari, methodus' is not in 'DE IMPARI LVCTA luti cum figulo.': to the scan",
+  "no scans for 4 wanted"
+ ],
+ "toc": [
+  {
+   "scan": 3,
+   "line": 1,
+   "lines": [
+    [
+     3,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Inclytis et generosis comitibus, D. Iohanni, & D. Nicolao, Comitibus ab Ostrorog, S. D."
+  },
+  {
+   "scan": 19,
+   "line": 1,
+   "lines": [
+    [
+     19,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Prooemium in Ionae prophetae libellum"
+  },
+  {
+   "scan": 31,
+   "line": 4,
+   "lines": [
+    [
+     31,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "De canonica libri huius auctoritate"
+  },
+  {
+   "scan": 34,
+   "line": 2,
+   "lines": [
+    [
+     34,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "ΑΝΑΚΕΦΑΛΑΙΩΣΙΣ"
+  },
+  {
+   "scan": 35,
+   "line": 3,
+   "lines": [
+    [
+     35,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Caput I. Reductio capitis primi, quod est historicon, ad suas theses"
+  },
+  {
+   "scan": 39,
+   "line": 3,
+   "lines": [
+    [
+     39,
+     3
+    ],
+    [
+     39,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "3. De causis oraculorum propheticorum"
+  },
+  {
+   "scan": 51,
+   "line": 1,
+   "lines": [
+    [
+     51,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "4. Dei solius esse officij gradum cuiq; delegare"
+  },
+  {
+   "scan": 53,
+   "line": 2,
+   "lines": [
+    [
+     53,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "5. De poenitentia"
+  },
+  {
+   "scan": 60,
+   "line": 2,
+   "lines": [
+    [
+     60,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "6. De fuga è conspectu Dei"
+  },
+  {
+   "scan": 62,
+   "line": 3,
+   "lines": [
+    [
+     62,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "7. De recusatione officij diuinitus demandati"
+  },
+  {
+   "scan": 67,
+   "line": 2,
+   "lines": [
+    [
+     67,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "8. De Theologici studij desertoribus"
+  },
+  {
+   "scan": 74,
+   "line": 1,
+   "lines": [
+    [
+     74,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "9. De uindicta diuina ob neglectionem officij"
+  },
+  {
+   "scan": 82,
+   "line": 3,
+   "lines": [
+    [
+     82,
+     3
+    ],
+    [
+     82,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "10. De reprehensione peccantium"
+  },
+  {
+   "scan": 85,
+   "line": 4,
+   "lines": [
+    [
+     85,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "11. De securitatis humanae reprehensione"
+  },
+  {
+   "scan": 91,
+   "line": 2,
+   "lines": [
+    [
+     91,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "13. Methodus didascalica de sorte"
+  },
+  {
+   "scan": 102,
+   "line": 2,
+   "lines": [
+    [
+     102,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "14. De veri Dei descriptione, & de nomine Iehouae, axiomata"
+  },
+  {
+   "scan": 108,
+   "line": 4,
+   "lines": [
+    [
+     108,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "15. De caelo"
+  },
+  {
+   "scan": 109,
+   "line": 15,
+   "lines": [
+    [
+     109,
+     15
+    ]
+   ],
+   "level": 2,
+   "title": "16. De operibus Dei"
+  },
+  {
+   "scan": 110,
+   "line": 4,
+   "lines": [
+    [
+     110,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "17. De vera religione, & de timore Dei"
+  },
+  {
+   "scan": 117,
+   "line": 6,
+   "lines": [
+    [
+     117,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "18. De motibus qui excitantur in cordibus resipiscentium"
+  },
+  {
+   "scan": 122,
+   "line": 3,
+   "lines": [
+    [
+     122,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "19. De conscientia methodus ἐρωτικὴ, & exempla syllogismorum accusan"
+  },
+  {
+   "scan": 129,
+   "line": 1,
+   "lines": [
+    [
+     129,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Exempla syllogismorum apologeticorum"
+  },
+  {
+   "scan": 133,
+   "line": 4,
+   "lines": [
+    [
+     133,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Syllogismi kategorikoi"
+  },
+  {
+   "scan": 136,
+   "line": 1,
+   "lines": [
+    [
+     136,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Obseruabitis autem initio has quatuor hypotheses de Iona"
+  },
+  {
+   "scan": 145,
+   "line": 2,
+   "lines": [
+    [
+     145,
+     2
+    ],
+    [
+     145,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Thesis"
+  },
+  {
+   "scan": 150,
+   "line": 2,
+   "lines": [
+    [
+     150,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "De bona intentione"
+  },
+  {
+   "scan": 154,
+   "line": 2,
+   "lines": [
+    [
+     154,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "De infelici eorum lusta, qui cursum & executionem iudiciorum Dei seu impedire, seu remorari conantur"
+  },
+  {
+   "scan": 158,
+   "line": 2,
+   "lines": [
+    [
+     158,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Estne Dei potentia actiua solum, non etiam passiua?"
+  },
+  {
+   "scan": 164,
+   "line": 4,
+   "lines": [
+    [
+     164,
+     4
+    ],
+    [
+     164,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Thesis I"
+  },
+  {
+   "scan": 166,
+   "line": 2,
+   "lines": [
+    [
+     166,
+     2
+    ],
+    [
+     166,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Thesis II"
+  },
+  {
+   "scan": 167,
+   "line": 2,
+   "lines": [
+    [
+     167,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Exempla animaduersionis diuinae in sanctorum"
+  },
+  {
+   "scan": 167,
+   "line": 6,
+   "lines": [
+    [
+     167,
+     6
+    ],
+    [
+     167,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "Thesis III"
+  },
+  {
+   "scan": 168,
+   "line": 3,
+   "lines": [
+    [
+     168,
+     3
+    ],
+    [
+     168,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Thesis IIII"
+  },
+  {
+   "scan": 169,
+   "line": 4,
+   "lines": [
+    [
+     169,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "De sanctorum afflictionibus"
+  },
+  {
+   "scan": 174,
+   "line": 3,
+   "lines": [
+    [
+     174,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "De timore Iehovae"
+  },
+  {
+   "scan": 176,
+   "line": 3,
+   "lines": [
+    [
+     176,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "De sacrorum λειτουργία"
+  },
+  {
+   "scan": 177,
+   "line": 2,
+   "lines": [
+    [
+     177,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Quae sunt Christianorum sacrificia eucharistica?"
+  },
+  {
+   "scan": 178,
+   "line": 0,
+   "lines": [
+    [
+     178,
+     0
+    ]
+   ],
+   "level": 2,
+   "title": "Praelectiones de religioso voto"
+  },
+  {
+   "scan": 179,
+   "line": 4,
+   "lines": [
+    [
+     179,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Historia de signo Ionae prophetae"
+  },
+  {
+   "scan": 181,
+   "line": 4,
+   "lines": [
+    [
+     181,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "De sepultura Christi, et eius fructu ad nos redeunte"
+  },
+  {
+   "scan": 184,
+   "line": 3,
+   "lines": [
+    [
+     184,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Caput II. Capitis secundi enarratio"
+  },
+  {
+   "scan": 188,
+   "line": 5,
+   "lines": [
+    [
+     188,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Thesis de oratione fidei"
+  },
+  {
+   "scan": 197,
+   "line": 4,
+   "lines": [
+    [
+     197,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Demonstratio secundae partis Thesis, in qua de exauditionis fiducia agitur"
+  },
+  {
+   "scan": 201,
+   "line": 4,
+   "lines": [
+    [
+     201,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "De patientia Christianae causis"
+  },
+  {
+   "scan": 221,
+   "line": 2,
+   "lines": [
+    [
+     221,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "De fiducia exauditionis precum"
+  },
+  {
+   "scan": 234,
+   "line": 2,
+   "lines": [
+    [
+     234,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "De huius loci mysterio"
+  },
+  {
+   "scan": 235,
+   "line": 3,
+   "lines": [
+    [
+     235,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Caput III. Prolegomena in caput tertium"
+  },
+  {
+   "scan": 235,
+   "line": 4,
+   "lines": [
+    [
+     235,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "I. Genus caussae"
+  },
+  {
+   "scan": 236,
+   "line": 1,
+   "lines": [
+    [
+     236,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "2. Propositio et usus"
+  },
+  {
+   "scan": 236,
+   "line": 3,
+   "lines": [
+    [
+     236,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "3. Partes capitis"
+  },
+  {
+   "scan": 236,
+   "line": 5,
+   "lines": [
+    [
+     236,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "4. Hypotheseon, quae in decem huius capitis versibus occurrunt, reductio ad suas Thesis"
+  },
+  {
+   "scan": 240,
+   "line": 1,
+   "lines": [
+    [
+     240,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Qui tandem fructus ex huius doctrinae meditatione ad pios redeunt?"
+  },
+  {
+   "scan": 245,
+   "line": 7,
+   "lines": [
+    [
+     245,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "De obedientia Ionae, in munere sibi delegato capessendo declarata"
+  },
+  {
+   "scan": 247,
+   "line": 2,
+   "lines": [
+    [
+     247,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Descriptio civitatis Ninivch"
+  },
+  {
+   "scan": 357,
+   "line": 1,
+   "lines": [
+    [
+     357,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Caput IIII. In caput quartum, tum prolegomena"
+  },
+  {
+   "scan": 362,
+   "line": 1,
+   "lines": [
+    [
+     362,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Versus primus capitis IIII"
+  },
+  {
+   "scan": 364,
+   "line": 0,
+   "lines": [
+    [
+     364,
+     0
+    ]
+   ],
+   "level": 2,
+   "title": "De humanae mentis, Dei opera & iudicia temere improbantis et oppugnantis"
+  },
+  {
+   "scan": 367,
+   "line": 4,
+   "lines": [
+    [
+     367,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "De praeposterà Dei invocatione"
+  },
+  {
+   "scan": 372,
+   "line": 2,
+   "lines": [
+    [
+     372,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "De attributis quibusdam Dei"
+  },
+  {
+   "scan": 373,
+   "line": 3,
+   "lines": [
+    [
+     373,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "De nomine El"
+  },
+  {
+   "scan": 378,
+   "line": 1,
+   "lines": [
+    [
+     378,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Poenitens super malo"
+  },
+  {
+   "scan": 379,
+   "line": 4,
+   "lines": [
+    [
+     379,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "De vita et morte hominis, aphorismi"
+  },
+  {
+   "scan": 389,
+   "line": 2,
+   "lines": [
+    [
+     389,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "De taedio eorum quae haec sunt & fiunt"
+  },
+  {
+   "scan": 395,
+   "line": 3,
+   "lines": [
+    [
+     395,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Thesis de solitaria vita"
+  },
+  {
+   "scan": 399,
+   "line": 3,
+   "lines": [
+    [
+     399,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Quid igitur statuendum nobis est de Eremitis & Anachoretis, & in universum de Monachis?"
+  },
+  {
+   "scan": 406,
+   "line": 4,
+   "lines": [
+    [
+     406,
+     4
+    ],
+    [
+     406,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "61. De recta aestimatione corporalium Dei donorum"
+  },
+  {
+   "scan": 407,
+   "line": 4,
+   "lines": [
+    [
+     407,
+     4
+    ],
+    [
+     407,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "62. De providentia Dei erga inferiores creaturas"
+  },
+  {
+   "scan": 412,
+   "line": 3,
+   "lines": [
+    [
+     412,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "63. De aegra valetudine, methodus"
+  },
+  {
+   "scan": 422,
+   "line": 2,
+   "lines": [
+    [
+     422,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "64. Quomodo Dei servum affectu esse oporteat, canones XII"
+  },
+  {
+   "scan": 444,
+   "line": 2,
+   "lines": [
+    [
+     444,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Psalmus CIII, redactus in carmen heroicum"
+  },
+  {
+   "scan": 446,
+   "line": 7,
+   "lines": [
+    [
+     446,
+     7
+    ],
+    [
+     446,
+     8
+    ]
+   ],
+   "level": 2,
+   "title": "Psalmus CXX"
+  },
+  {
+   "scan": 447,
+   "line": 3,
+   "lines": [
+    [
+     447,
+     3
+    ],
+    [
+     447,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Psalmus LXXIII. Quàm bonus Israeli Deus"
+  },
+  {
+   "scan": 451,
+   "line": 6,
+   "lines": [
+    [
+     451,
+     6
+    ],
+    [
+     451,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "Ad B. Pom. Εὐχὴ"
+  }
+ ],
+ "book": "Commentary lectures (Praelectiones) on the prophet Jonah, printed at Basel 1581 by Johann Jakob Grynaeus: a dedication to the Counts of Ostrorog, a prooemium and preliminary matter, then the exposition of Jonah's four chapters, each divided into verses, theses and loci communes, with a numbered list of the loci communes at the front.",
+ "series": [
+  {
+   "label": "Caput",
+   "first": "I",
+   "last": "IIII",
+   "count": 4,
+   "level": 1,
+   "found": 6
+  },
+  {
+   "label": "Loci communes",
+   "first": "1",
+   "last": "65",
+   "count": 65,
+   "level": 2,
+   "found": 67
+  }
+ ],
+ "taste": 50,
+ "doubt": "",
+ "input": 64298,
+ "output": 20736
+}
