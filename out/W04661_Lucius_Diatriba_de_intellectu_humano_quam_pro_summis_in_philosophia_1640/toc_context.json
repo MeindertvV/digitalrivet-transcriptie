@@ -1,0 +1,191 @@
+{
+ "work": "W04661_Lucius_Diatriba_de_intellectu_humano_quam_pro_summis_in_philosophia_1640",
+ "made": "2026-11-26T01:00:14",
+ "model": "claude-haiku-5-5",
+ "prompt": "655260ce46aa8978",
+ "candidates": 63,
+ "cost_usd": 0.00757,
+ "dropped": [
+  "title 'Thesis II' moved from 'mæ humanæ consummatione, cujus' to 'DIATRIBA'",
+  "title 'Thesis VII' moved from 'VII. Unde crasse hallucinantur ii, qui indivi-' to 'DIATRIBÆ'",
+  "title 'Thesis X' is not in 'lib. 6. de rerum princip. & affect. cap. 4. partialiter, cum': to the scan",
+  "title 'Thesis XXXVII' moved from 'lib. 2. de secta Pythag. c. 4. Proclus in Tim. lib. 4. Trismeg.' to 'XXXIII. Altera mentis vis, quae intellectionis'",
+  "title 'Thesis XLI' moved from 'XLI. Composita est, quæ incomplexos conce-' to 'lib. 2. de secta Pythag. c. 4. Proclus in Tim. lib. 4. Trismeg.'",
+  "title 'Thesis XLV' moved from 'exerc. 307. sect. 23. qui à se invicem ipsâ naturâ non se-' to 'lib. 2. de secta Pythag. c. 4. Proclus in Tim. lib. 4. Trismeg.'",
+  "order: {'ids': [1], 'level': 2, 'title': 'Thesis II'}",
+  "order: {'ids': [15.5], 'level': 2, 'title': 'Thesis VII'}",
+  "order: {'ids': [26.5], 'level': 2, 'title': 'Thesis XXXVII'}",
+  "order: {'ids': [35], 'level': 2, 'title': 'Thesis XLI'}",
+  "order: {'ids': [35.5], 'level': 2, 'title': 'Thesis XLV'}",
+  "no scans for 34 wanted"
+ ],
+ "toc": [
+  {
+   "scan": 3,
+   "line": 1,
+   "lines": [
+    [
+     3,
+     1
+    ],
+    [
+     3,
+     2
+    ],
+    [
+     3,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Viris nobilissimis, amplissimis, sapientissimis, reverendis, consultissimis, spectatissimis, scholarchis ac patronis colendissimis"
+  },
+  {
+   "scan": 4,
+   "line": 1,
+   "lines": [
+    [
+     4,
+     1
+    ],
+    [
+     4,
+     2
+    ],
+    [
+     4,
+     3
+    ]
+   ],
+   "level": 1,
+   "title": "Diatribæ. De animâ humanâ, ejusque potentiâ intellectivâ"
+  },
+  {
+   "scan": 4,
+   "line": 4,
+   "lines": [
+    [
+     4,
+     4
+    ]
+   ],
+   "level": 2,
+   "title": "Thesis I"
+  },
+  {
+   "scan": 19,
+   "line": 5,
+   "lines": [
+    [
+     19,
+     5
+    ],
+    [
+     19,
+     6
+    ],
+    [
+     19,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "Thesis XXXIII"
+  },
+  {
+   "scan": 19,
+   "line": 12,
+   "lines": [
+    [
+     19,
+     12
+    ],
+    [
+     19,
+     13
+    ]
+   ],
+   "level": 2,
+   "title": "Thesis XXXIV"
+  },
+  {
+   "scan": 22,
+   "line": 17,
+   "lines": [
+    [
+     22,
+     17
+    ],
+    [
+     22,
+     18
+    ],
+    [
+     22,
+     19
+    ],
+    [
+     22,
+     20
+    ]
+   ],
+   "level": 2,
+   "title": "Thesis XXXIX"
+  },
+  {
+   "scan": 22,
+   "line": 21,
+   "lines": [
+    [
+     22,
+     21
+    ]
+   ],
+   "level": 2,
+   "title": "Thesis XL"
+  },
+  {
+   "scan": 22,
+   "line": 34,
+   "lines": [
+    [
+     22,
+     34
+    ]
+   ],
+   "level": 2,
+   "title": "Thesis XLII"
+  },
+  {
+   "scan": 25,
+   "line": 1,
+   "lines": [
+    [
+     25,
+     1
+    ],
+    [
+     25,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Ad ornatissimum Dn. Respondentem"
+  }
+ ],
+ "book": "Academic disputation (diatriba) in Latin, Basel 1640, on the human soul and its intellective power: front dedications, then the diatriba divided into numbered theses, then a closing verse dedication to the respondent.",
+ "series": [
+  {
+   "label": "Thesis",
+   "first": "I",
+   "last": "XLV",
+   "count": 45,
+   "level": 2,
+   "found": 6
+  }
+ ],
+ "taste": 50,
+ "doubt": "6 of 45 of series 'Thesis'",
+ "input": 7068,
+ "output": 12905
+}
