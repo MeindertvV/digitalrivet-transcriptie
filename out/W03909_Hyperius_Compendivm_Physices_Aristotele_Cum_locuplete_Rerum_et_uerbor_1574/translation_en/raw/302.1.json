@@ -1,0 +1,50 @@
+{
+  "units": [
+    "302.1",
+    "302.3",
+    "302.7",
+    "302.8",
+    "302.16",
+    "302.18",
+    "302.26",
+    "303.2",
+    "303.4",
+    "303.8",
+    "303.13",
+    "303.15",
+    "303.18",
+    "303.22",
+    "303.26",
+    "304.10",
+    "304.14",
+    "304.18",
+    "304.19",
+    "304.23",
+    "305.1",
+    "305.3",
+    "305.9",
+    "305.12"
+  ],
+  "model": "claude-haiku-5-5",
+  "prompt_sha256": "fad51868961d4b8d",
+  "stop_reason": "end_turn",
+  "batch": true,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 1791,
+    "inference_geo": "global",
+    "input_tokens": 2240,
+    "output_tokens": 2472,
+    "output_tokens_details": {
+      "thinking_tokens": 878
+    },
+    "server_tool_use": null,
+    "service_tier": "batch",
+    "speed": "standard"
+  },
+  "cost_usd": 0.00074
+}
