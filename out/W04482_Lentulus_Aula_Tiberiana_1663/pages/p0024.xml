@@ -1,0 +1,32 @@
+<page type="text" lines="none">
+  <warning type="merged_lines">2 line(s) contain several printed lines merged together (longest 531 chars, median 59); line numbering is unreliable</warning>
+  <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+  <layout>One column of running text with centred thesis titles; a running head at the top with the page number; margin notes in the left margin; a catchword at the bottom right.</layout>
+  <page_number>24</page_number>
+  <running_head>Cyriaci Lentuli</running_head>
+  <bottom_margin>
+    <catchword>Circe</catchword>
+  </bottom_margin>
+  <main_text>
+    <l n="1">quod non raro fallit, è corporis lineamento conje-ctantibus.</l>
+    <l n="2" para="true">XI.</l>
+    <l n="3" type="heading" level="3" para="true">Non est in dissolutione imperii, nec in vaga licentia, libertas.</l>
+    <l n="4" para="true">Armenii pulsis aut interfectis regibus <i>incerti folu-tique, &amp; magis sine domino, quam in libertate, profu-gum Vononem in regnum acceperunt.</i> Libertas enim est populi sub lege, aut justo rege, non servilis conglutina-tio. A quâ in diversum abeunt, qui libertatem in pro-tervia, nobilitatem in disjectione quaerunt.</l>
+    <l n="5" para="true">XII.</l>
+    <l n="6" type="heading" level="3" para="true">Nusquam, nisi in obscuritate, ab offensa potentiorum perfugium.</l>
+    <l n="7" para="true" merged="true">Receptus quidem in regnum Armeniae Vononès erat. Sed ubi minitari Artabanus, &amp; parum subsidio in Armenia, vel si Romana vi defenderetur, bellum adversus Parthos sumendum erat; rector Syria Creti-cui Sylanus excitum custodia circumdat.</l>
+    <l n="8" para="true">XIII.</l>
+    <l n="9" type="heading" level="3" para="true">Ludibrium est victus regius &amp; regium sine autoritate nomen.</l>
+    <l n="10" para="true" merged="true">Manente in custodia luxu &amp; regio nomine, quod lu-dibrium ut effugere agitaverit Vonones, in loco reddemus. A quo ludibrio non longe abfunt, qui crapulis &amp; otio marcidi, rerum administrationem, &amp; cum ea potentiam, proximis aulae ministris mandant. Cujus-modi reges Galli, senescente Merovingiorum stirpe, vernaculo non magis quam vernili vocabulo, Fai-neants à reappellavere. Ludibrium sibi ipsis accersunt, qui regno nunquam degustato exules, regium sibi nomen imponunt: perinde quasi naturae id nomen esset, non supremi regiminis.</l>
+    <l n="11" para="true">XIV.</l>
+    <l n="12" type="heading" level="3" para="true">Honoris offa multis Circeum est po-culum.</l>
+  </main_text>
+  <marginalia>
+    <note side="left" at="Armenii pulsis aut" line_from="4" line_to="4">Libertas.</note>
+    <note side="left" at="Libertas enim est" line_from="4" line_to="4">Solutio.</note>
+    <note side="left" at="Receptus quidem in" line_from="7" line_to="7">Longa re-gum manus.</note>
+    <note side="left" at="Manente in custodia" line_from="10" line_to="10">Regnum non est in otio.</note>
+    <note side="left" at="Cujus-modi reges Galli," line_from="10" line_to="10">non in exi-lio.</note>
+  </marginalia>
+  <notes>The page has no lines that could not be read. Long s is transcribed as plain s throughout, so "fine" is read as sine, "fubfidio" as subsidio, "effet" as esset. Ornamental ")" mark at the lower right is not printed text and is left out. The "&amp;" is written as an XML entity for the printed ampersand. "Vononès" is printed with an accent over the final vowel as shown on the scan; it may be a printing mark rather than a letter.</notes>
+</page>
