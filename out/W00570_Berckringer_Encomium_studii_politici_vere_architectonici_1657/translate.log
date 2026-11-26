@@ -1,0 +1,26 @@
+Translating 6 group(s) into English with claude-haiku-5-5, effort medium, batch
+Submitted batch msgbatch_01LJbvWG1kfNn2tH6dHMY5qC with 6 group(s)
+Batch msgbatch_01LJbvWG1kfNn2tH6dHMY5qC: 6 processing, 0 done, 0 errored
+Batch msgbatch_01LJbvWG1kfNn2tH6dHMY5qC: 6 processing, 0 done, 0 errored
+Batch msgbatch_01LJbvWG1kfNn2tH6dHMY5qC: 6 processing, 0 done, 0 errored
+Batch msgbatch_01LJbvWG1kfNn2tH6dHMY5qC: 6 processing, 0 done, 0 errored
+Batch msgbatch_01LJbvWG1kfNn2tH6dHMY5qC: 6 processing, 0 done, 0 errored
+Batch msgbatch_01LJbvWG1kfNn2tH6dHMY5qC: 6 processing, 0 done, 0 errored
+Batch msgbatch_01LJbvWG1kfNn2tH6dHMY5qC: 6 processing, 0 done, 0 errored
+  14.2: 1 of 2 units ok, unit(s) ['14.2'] contains Cyrillic characters (U+0435 CYRILLIC SMALL LETTER IE)  [2 units, 6605 out (3403 thinking), $0.0019, total $0.00]
+    note: unit(s) [2] without the italics of the Latin
+  3.1: ok  [3 units, 3945 out (2475 thinking), $0.0011, total $0.00]
+    note: unit(s) [1] without the italics of the Latin
+  21.1: FAILED: unit(s) ['21.1'] next to a unit that failed; unit(s) ['21.6'] much longer than the Latin; unit(s) ['23.2', '23.3'] missing  [4 units, 4828 out (953 thinking), $0.0015, total $0.00]
+  2.1: ok  [3 units, 1650 out (1185 thinking), $0.0005, total $0.00]
+  5.2: ok  [1 units, 6116 out (1005 thinking), $0.0020, total $0.01]
+  28.2: ok  [3 units, 560 out (285 thinking), $0.0002, total $0.01]
+Retrying 2 group(s) with units left directly
+  14.2~2: ok  [1 units, 2260 out (306 thinking), $0.0016, total $0.01]
+  21.1~2: FAILED: unit(s) ['21.1'] next to a unit that failed; unit(s) ['21.6'] much longer than the Latin; unit(s) ['23.2', '23.3'] missing  [4 units, 11050 out (7182 thinking), $0.0063, total $0.01]
+    note: unit(s) [1] without the italics of the Latin
+  21.1~3: FAILED: unit(s) ['21.1'] next to a unit that failed; unit(s) ['21.6'] much longer than the Latin; unit(s) ['23.2', '23.3'] missing  [4 units, 5103 out (1230 thinking), $0.0031, total $0.02]
+  21.1~4: ok  [4 units, 11305 out (7367 thinking), $0.0062, total $0.02]
+Translated 3 of 3 running head(s)  [$0.0003]
+Spent this run: $0.024
+16 of 16 units translated -> /home/user/digitalrivet-transcriptie/out/W00570_Berckringer_Encomium_studii_politici_vere_architectonici_1657/translation_en.json
