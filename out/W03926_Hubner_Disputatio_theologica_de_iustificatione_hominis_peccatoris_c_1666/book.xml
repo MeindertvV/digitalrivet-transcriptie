@@ -1,0 +1,1381 @@
+<?xml version='1.0' encoding='utf-8'?>
+<book source="W03926_Hubner_Disputatio_theologica_de_iustificatione_hominis_peccatoris_c_1666.pdf">
+  <page type="empty" n="1" model="claude-haiku-5-5">
+    <notes>Digitiser's cover sheet of e-rara.ch (Visual Library, Universitätsbibliothek Bern), not a printed page of the book. It carries the e-rara logo, the platform descriptions in German, English, French and Italian, the terms-of-use notices and the persistent link. Per the rules it is left out. The title shown on it, "Disputatio theologica de iustificatione hominis peccatoris coram Deo", Hübner, Johann Rudolf, [Bernae], 1666, is the catalogue record of the digitised book, not text of its title page.</notes>
+  </page>
+  <page type="title" n="2" model="claude-haiku-5-5">
+    <layout>One printed page, a title page, all centred lines; no margin notes. Handwritten "24" at top right and a library shelf mark "A-601253O" below the imprint are not transcribed.</layout>
+    <main_text>
+      <l>DISPUTATIO THEOLOGICA</l>
+      <l>De</l>
+      <l>JUSTIFICATIONE</l>
+      <l>HOMINIS PECCA-</l>
+      <l>TORIS CORAM</l>
+      <l>DEO,</l>
+      <l>Quam</l>
+      <l>Christo, justitiâ nostrâ, favente,</l>
+      <l>SUB PRÆSIDIO</l>
+      <l>
+        <i>Reverendi, Clarissimi, Doctissimi Viri,</i>
+      </l>
+      <l>DN. JOH. RODOLPHI HYBNERI,</l>
+      <l>in Illustrissimæ Reipublicæ Bernensis Athenæo</l>
+      <l>Professoris Theologi Eximij, Solidissimi,</l>
+      <l>Mecoenatis, Fautoris &amp; Præcepto-</l>
+      <l>ris sui summâ observantiâ</l>
+      <l>colendi,</l>
+      <l>
+        <i>Publico &amp; placido examini subjiciet</i>
+      </l>
+      <l>NICOLAUS RÜTIMEIERUS, SS. Min. Cand.</l>
+      <l>A. &amp; Resp.</l>
+      <l>
+        <i>Ad diem 15. Martij, horis locoq; solitis.</i>
+      </l>
+      <l>Excudebat ILLUSTRISSIMÆ REIPUBLICÆ</l>
+      <l>BERNENNSIS TYPOGRAPHUS,</l>
+      <l>Georgius Sonnleitnerus.</l>
+      <l>M DC LXVI.</l>
+    </main_text>
+    <notes>Woodcut ornament between the "Ad diem" line and the imprint, not transcribed. Ornamental "Quam" and "De" are script-style display type. Some italic words in the title block are set in italic; the letter "s" appears as long s and is rendered as s per rules. Spelling as printed: "Reipublicæ", "Mecoenatis", "Præcepto-ris", "horis locoq;" (locoq; reads as printed).</notes>
+  </page>
+  <page type="text" lines="ocr" n="3" model="claude-haiku-5-5">
+    <layout>One printed page, single column, centred dedication text. Ornamental printer's rule at the top. No margin notes. No page number, running head or catchword visible.</layout>
+    <main_text>
+      <l n="1" type="heading" level="1" para="true">Magnificis, Amplissimis, Prudentissimis, Consultissimisq;</l>
+      <l n="2" type="heading" level="1">Viris ac Dominis, Patriæ Patribus,</l>
+      <l n="3" para="true">
+        <i>Dn.</i> JOH. JACOBO BUCHERO, Illustrissimæ ac Po-</l>
+      <l n="4">tentissimæ Reipubl. Bernensis, quoad ditionem Germani-</l>
+      <l n="5">cam, Quæstori Dignissimo, Gravissimo, ut legationibus plu-</l>
+      <l n="6">rimis summa cum laude peractis, ita imprimis nuperā ad Se-</l>
+      <l n="7">renissimum Galliarum Regem Claro, Mecoenati &amp; Fautori</l>
+      <l n="8">suo magno, Cognato, omnis obsequij humilimi genere ad aras</l>
+      <l n="9">Colendo.</l>
+      <l n="10" para="true">
+        <i>Dn.</i> ABRAHAMO HENNIO, ejusdem laudatæ Reipubl.</l>
+      <l n="11">Tribuno Dignissimo, Mecoenati, Patrono, Agnato &amp; Benefa-</l>
+      <l n="12">ctori nunquàm satis demerendo.</l>
+      <l n="13" para="true">
+        <i>Dn.</i> SAMUELI FISCHERO, itidem apud Bernates Sena-</l>
+      <l n="14">tori Prudentissimo, Fautori &amp; Agnato Faventissimo, pluri-</l>
+      <l n="15">mùm Honorando.</l>
+      <l n="16" type="heading" level="2" para="true">Reverendis, Disertissimis, Celeberrimis Viris:</l>
+      <l n="17" para="true">
+        <i>Dn.</i> Pastoribus &amp; Professoribus Ecclesiæ &amp; Scholæ Patriæ, adeoq; toti Venerando</l>
+      <l n="18">coetui Ecclesiastico, &amp; præsertim hujus non infimo membro;</l>
+      <l n="19" para="true">
+        <i>Dn.</i> NICOLAO MOLITORI, in eadem Ecclesia Pastori, &amp; Eloquiorum</l>
+      <l n="20">Dei Dispensatori Fidelissimo, Gravissimo, Avunculo, Fautori &amp; Euergetæ</l>
+      <l n="21">suo æternùm suspiciendo.</l>
+      <l n="22" type="heading" level="2" para="true">Reverendis, Consultissimis, Doctissimis Viris, Dominis:</l>
+      <l n="23" para="true">
+        <i>Dn.</i> SALOMONI REGI, Illust. Reipubl. Bernensis Medico ordinario &amp; ex-</l>
+      <l n="24">perientissimo,</l>
+      <l n="25" para="true">
+        <i>Dn.</i> SAMUELI BUNDELINO, Comitatûs Wangensis Præfecto Di-</l>
+      <l n="26">gnissimo.</l>
+      <l n="27" para="true">
+        <i>Dn.</i> DANIELI IM HOOFF, rarâ prudentiâ &amp; defæcatâ eruditione Cla-</l>
+      <l n="28">ro, Præfecto Grandissonensi Meritissimo.</l>
+      <l n="29" para="true">
+        <i>Dn.</i> BALTHASARO IM HOOFF, Ducentum-viro Spectatissimo, In-</l>
+      <l n="30">tegerrimo.</l>
+      <l n="31" para="true">Dominis Avunculis, Cognatis, Fautoribus &amp; Amicis ætatem honorandis.</l>
+      <l n="32" para="true">
+        <i>In cultûs devotissimi testificationem, debiti amoris,</i>
+      </l>
+      <l n="33">
+        <i>gratiâ animi indicium hocce exercitium sacrum quàm</i>
+      </l>
+      <l n="34">
+        <i>officiosissimè D. D. C. O.</i>
+      </l>
+      <l n="35" para="true">NICOL. RÜTIMEIERUS, A. &amp; R.</l>
+    </main_text>
+    <notes>The Latin dedication is set in roman and italic; the printed "Dn." abbreviations are italic in the original. Some lines are faint and damaged at the right edge; readings such as "Grandissonensi" and "Ducentum-viro" are uncertain and may need checking. The faint show-through at the foot is not transcribed.</notes>
+  </page>
+  <page type="text" lines="ocr" n="4" model="claude-haiku-5-5">
+    <warning type="catchword_in_text">catchword taken out of the main text: gotio</warning>
+    <layout>One printed page: woodcut headpiece and title block at top, then one column of running text with a large woodcut initial; no margin notes; signature and catchword line at foot.</layout>
+    <running_head />
+    <bottom_margin>
+      <signature>A 2</signature>
+      <catchword>gotio</catchword>
+    </bottom_margin>
+    <main_text>
+      <l n="1" type="heading" level="1" para="true">DISPUTATIO THEOLOGICA</l>
+      <l n="2" type="heading" level="1">De JUSTIFICATIONE HOMINIS</l>
+      <l n="3" type="heading" level="1">PECCATORIS CORAM</l>
+      <l n="4" type="heading" level="1">DEO.</l>
+      <l n="5" type="heading" level="3" para="true">THESIS I.</l>
+      <l n="6" para="true">PRÆCIPUUS ut facilè est justificatio-</l>
+      <l n="7">nis articulus eorum, qui inter Nos &amp;</l>
+      <l n="8">Pontificios agitantur, ita rectè intelle-</l>
+      <l n="9">ctus quàm maximè illustrat &amp; ampli-</l>
+      <l n="10">ficat honorem Christi, veram Dei ec-</l>
+      <l n="11">clesiam à Judæis, Paganis, ecclesia</l>
+      <l n="12">Antichristi aliorumque hæreticorum separat,</l>
+      <l n="13">in hocq; cardo salutis nostræ &amp; solidæ consolationis</l>
+      <l n="14">unicè vertitur: dignus igitur cognitione nostrâ:</l>
+      <l n="15">cognoscemus autem illius præstantiam, si naturam ejus in</l>
+      <l n="16">causis &amp; annexis ex S. Scripturæ monumentis (imprimis</l>
+      <l n="17">ex Epistola ad Romanos &amp; Galatas ubi propria hujus loci</l>
+      <l n="18">sedes est) Orthodoxorum Theologorum documentis,</l>
+      <l n="19">Conciliorum &amp; Confessionum publicarum constanti</l>
+      <l n="20">harmonia consideremus: quô pensô breviter ex</l>
+      <l n="21">demandato superiorum, bono cum Deo, defungemur.</l>
+      <l n="22" type="heading" level="3" para="true">II.</l>
+      <l n="23" para="true">Ordiamur ab ipsa voce: Vox <i>justificationis</i> in hoc ne-</l>
+    </main_text>
+    <notes>The large initial "P" is a woodcut letter, read as P with the rest of the word "RÆCIPUUS" (printed "PRÆCIPUUS"); "PRÆCIPUUS" set with a woodcut initial. Title lines set in capitals and larger type. The text is only partly legible at the catchword; "gotio" is the catchword continuing onto the next page. Some letters in the body are worn and read with some doubt.</notes>
+  </page>
+  <page type="text" lines="ocr" n="5" model="claude-haiku-5-5">
+    <warning type="catchword_in_text">catchword taken out of the main text: inter-</warning>
+    <layout>One page of running text in a single column; a section numeral "III." centred within the text; no margin notes; no running head or page number printed.</layout>
+    <main_text>
+      <l n="1">gotio <i>sensu forensi</i> sumitur, &amp; significat, <i>justum pronuncia-</i>
+      </l>
+      <l n="2">
+        <i>re, absolvere reum a culpa reatu &amp; poena, insontem declarare,</i>
+      </l>
+      <l n="3">
+        <i>a peccatis immunem reputare</i>: Non enim putamus fieri</l>
+      <l n="4">posse,ut verbum hoc <i>justificare</i> sensu &amp; significatione Pon-</l>
+      <l n="5">tif. invenias, ut significet, ex <i>injusto</i> reddere &amp; facere ali-</l>
+      <l n="6">quem <i>justum</i> per infusionem aliquam justitiae aut sancti-</l>
+      <l n="7">tatis: hunc enim sensum si adhibeas in iis Scripturae lo-</l>
+      <l n="8">cis, in quibus verbum hoc deprehenderis, sensus <i>vel</i> erit</l>
+      <l n="9">impossibilis, <i>vel</i> absurdus, <i>vel</i> a vero alienus: deinde</l>
+      <l n="10">cum haec vox no in Latio,sed in ecclesia nata sit,ad expri-</l>
+      <l n="11">mendam vocem Hebraeam הצדיק &amp; Graecam <i>δικαίω</i>, ejus</l>
+      <l n="12">significatio non ad Grammaticorum placita est vexanda,</l>
+      <l n="13">nec ex etymo vocis, sed ex usu linguarum &amp; S. Scriptu-</l>
+      <l n="14">rae idiotismo est exponenda.</l>
+      <l n="15" type="heading" level="2" para="true">III.</l>
+      <l n="16" para="true">
+        <i>Hebraeum</i> ergo הצדיק ex proprietate &amp; usu linguae He-</l>
+      <l n="17">braeae proprie &amp; semper notat <i>forensem</i> actionem, judicis</l>
+      <l n="18">scilicet absolventis reum, oppositae ad condemnantis,</l>
+      <l n="19">
+        <i>Deut. 25:1. Prov. 17:15.</i> imprimis vero &amp; speciatim illo sen-</l>
+      <l n="20">su sumitur, cum agitur de judicio Dei absolventis pecca-</l>
+      <l n="21">torem, <i>Psal. 143:2.</i> Similiter in <i>Graeca</i> lingua <i>δικαίω</i> fo-</l>
+      <l n="22">rense vocabulum est: ex multis unicum tantum, eumque</l>
+      <l n="23">manifestissimum &amp; maxime praegnantem adducamus lo-</l>
+      <l n="24">cum, <i>Rom. 8:33.</i> Quis intentabit crimina adversus electos?</l>
+      <l n="25">Deus est qui justificat; quis est qui condemnet? Christus est</l>
+      <l n="26">qui mortuus est, &amp;c. Hic habemus primum disertam effi-</l>
+      <l n="27">giem <i>tribunalis</i>: deinde, <i>reum, accusatorem, advocatum,</i>
+      </l>
+      <l n="28">
+        <i>judicem</i>: opponitur quoq; hic, ut &amp; alibi, <i>justificatio con-</i>
+      </l>
+      <l n="29">
+        <i>demnationi</i>, quae oppositio si legitima est &amp; justificatio sit</l>
+      <l n="30">infusio justitiae, tum condemnationem oportebit esse in-</l>
+      <l n="31">fusionem injustitiae; quod quam sit absurdum nemo non</l>
+      <l n="32">videt: adhaec, opponit <i>condemnationem</i> Christi <i>passioni &amp;</i>
+      </l>
+    </main_text>
+    <notes>Greek and Hebrew words are rendered as closely as possible; the Hebrew word הצדיק and the Greek δικαίω are approximations of the printed forms. The line "ejus significatio" and some italic words are uncertain. The printed "Deut." and "Prov." references are given as printed. The page ends mid-word "inter-" continuing on the next page.</notes>
+    <bottom_margin>
+      <catchword>inter-</catchword>
+    </bottom_margin>
+  </page>
+  <page type="text" lines="ocr" n="6" model="claude-haiku-5-5">
+    <layout>One printed page, single column of running text; no marginal notes. Catchword "sectari" at the lower right; signature "A 3" at the foot left.</layout>
+    <running_head />
+    <bottom_margin>
+      <catchword>sectari</catchword>
+      <signature>A 3</signature>
+    </bottom_margin>
+    <main_text>
+      <l n="1">
+        <i>intercessioni</i>, manifeste innuens causam cur non simus</l>
+      <l n="2">condemnandi, esse <i>mortem Christi</i> &amp; ejus <i>intercessionem</i>; at-</l>
+      <l n="3">qui haec utraq; ad imputationem facit, nihil ad infusio-</l>
+      <l n="4">nem; quia &amp; <i>mors</i> significat datas poenas pro nobis, quod</l>
+      <l n="5">sine imputatione consistere non potest: &amp; <i>intercessio</i> de-</l>
+      <l n="6">notat gratiam, qua Christus potens est apud Patre, ut eum</l>
+      <l n="7">judicem nostrum moveat, ne condemnet, at haec gratia</l>
+      <l n="8">non est inhaerens nobis, sed ipsi Christo.</l>
+      <l n="9" para="true">Adde insuper, quod ea quae tanquam aequipollentia su-</l>
+      <l n="10">muntur pro <i>justificatione</i> itidem sunt <i>judicialia</i>, ut sunt,</l>
+      <l n="11">
+        <i>peccata remittere</i>, <i>Psal. 32: 1. Rom. 4: 7. Joh. 20: 23. Matth. 9:</i>
+      </l>
+      <l n="12">
+        <i>2. peccata solvere</i>, <i>Matth. 16: 19. &amp; 18: 18. condonare pecca-</i>
+      </l>
+      <l n="13">
+        <i>ta</i>, <i>2. Cor. 5: 19. delere chirographum</i>, <i>Col. 2: 14.</i> Vocabuli</l>
+      <l n="14">igitur <i>justificationis</i> significatio <i>forensis</i> est, actum judicia-</l>
+      <l n="15">lem denotans, non vero infusionem justitiae alicujus inhae-</l>
+      <l n="16">rentis.</l>
+      <l n="17" type="heading" level="2" para="true">IV.</l>
+      <l n="18" para="true">At <i>dices</i>: nemo potest justificari, nisi is, qui eum ju-</l>
+      <l n="19">stum pronunciat, etiam faciat justum inhaerenter: sed</l>
+      <l n="20">
+        <i>notandum</i>, nos non negare etiam fieri &amp; esse <i>justum</i>, quem</l>
+      <l n="21">Deus pronunciat <i>justum</i>. Deus enim dum imputat ali-</l>
+      <l n="22">cui <i>justitiam</i> eo ipso facto constituit eum ex imputatione</l>
+      <l n="23">
+        <i>justum</i> in conspectu suo, unde paulatim sanctificatur in-</l>
+      <l n="24">novatus per Spiritum S. Nam Deus nos non ideo a pec-</l>
+      <l n="25">catis absolvit, ut deinceps peccare pergamus, sed e con-</l>
+      <l n="26">trario, ut nunc spiritu viventes ad spiritualis &amp; perennis</l>
+      <l n="27">illius vitae, nobis per imputatam illam Christi <i>justitiam</i>
+      </l>
+      <l n="28">donatae, fruitionem sic perveniamus: mittit enim in vere</l>
+      <l n="29">credentium corda S. sui Spiritus <i>ἐνέργειαν</i>, quae <i>tum</i> men-</l>
+      <l n="30">tem nostram illustrat, <i>tum</i> voluntatem &amp; affectus nostros</l>
+      <l n="31">ita sensim immutat, &amp; corruptionem illam nobis inna-</l>
+      <l n="32">tam usque adeo emendat, ut &amp; malum odisse &amp; bonum</l>
+    </main_text>
+    <notes>Page is a single column; the heading "IV." is set centred and is treated as a heading. Greek word "ἐνέργειαν" is printed as ἐνέργειαν in the scan as "ἐνέργειαν"-like form; read as printed with doubt. Scan shows show-through at the top-left edge only.</notes>
+  </page>
+  <page type="text" lines="ocr" n="7" model="claude-haiku-5-5">
+    <warning type="catchword_in_text">catchword taken out of the main text: Deus</warning>
+    <layout>One column of text, full width; no margin notes; no page number or running head printed. Section numerals V, VI, VII are centred headings-like lines within the text.</layout>
+    <main_text>
+      <l n="1">sectari &amp; ex sanctæ ipsius legis præscripto vivere inci-</l>
+      <l n="2">piamus.</l>
+      <l n="3" type="heading" level="2" para="true">V.</l>
+      <l n="4" para="true">
+        <i>Justificatio</i> dicitur à <i>justitia</i>, quæ est vel <i>persona</i>, vel</l>
+      <l n="5">
+        <i>causa</i>: illa iterum est vel <i>legalis</i>, quæ est inhærens recti-</l>
+      <l n="6">tudo, integritas &amp; sanctimonia omnibus numeris absolu-</l>
+      <l n="7">ta; hæc erat in primo homine, est in Christo &amp; beatis an-</l>
+      <l n="8">gelis, eritq; in hominibus plenè sanctificatis: vel <i>Evan-</i>
+      </l>
+      <l n="9">
+        <i>gelica</i>, quæ est remissio peccatorum &amp; imputatio justitiæ</l>
+      <l n="10">Christi per fidem apprehensæ, juxta quam solam in ju-</l>
+      <l n="11">dicio Dei consistere possumus, <i>Rom. 5: 1. 9.</i> Hinc duplex</l>
+      <l n="12">quoq; <i>justificatio</i> à Theologis solet constitui; <i>Una legalis</i>,</l>
+      <l n="13">qua homo per inhærentem justitiam est justus: Verùm</l>
+      <l n="14">cùm nulla caro ex operibus legis justificabitur, hæc <i>lega-</i>
+      </l>
+      <l n="15">
+        <i>lis</i> plané redditur nulla, &amp; est impossibilis post lapsum,</l>
+      <l n="16">non <i>vitio legis</i>, sed propter <i>infirmitatem carnis</i>: Hinc re-</l>
+      <l n="17">jicimus ut Pelagianorum errorem, volentium hominem</l>
+      <l n="18">suis viribus Dei legem ipsi propositam perfectè in hac</l>
+      <l n="19">vita posse implere; ita &amp; Semipelagianorum, qui conten-</l>
+      <l n="20">dunt hominem renatum posse implere hïc perfectè le-</l>
+      <l n="21">gem, non suis tamen, sed Spiritûs S. viribus.</l>
+      <l n="22" para="true">
+        <i>Altera Evangelica</i>, de qua proprie hic agimus.</l>
+      <l n="23" type="heading" level="2" para="true">VI.</l>
+      <l n="24" para="true">
+        <i>Est hæc actio Dei gratuita, quâ, propter Christum imputa-</i>
+      </l>
+      <l n="25">
+        <i>tum, solâ &amp; verâ fide apprehensum, electos à peccato &amp; morte</i>
+      </l>
+      <l n="26">
+        <i>absolvit &amp; justos reputat ad vitam æternam</i>: totidem ferè</l>
+      <l n="27">verbis habetur, <i>Rom. 3: 22. 24. Justitia Dei per fidem Jesu</i>
+      </l>
+      <l n="28">
+        <i>Christi in omnes &amp; super omnes qui credunt, ut qui justificen-</i>
+      </l>
+      <l n="29">
+        <i>tur gratis per redemptionem factam in Christo Jesu.</i>
+      </l>
+      <l n="30" type="heading" level="2" para="true">VII.</l>
+      <l n="31" para="true">Est igitur <i>actio solius Dei</i>, quæ non concipienda,</l>
+      <l n="32">ut immanens, prout tale quid est decretum, quo scilicet</l>
+    </main_text>
+    <notes>Printed page signature/catchword "Deus" appears at lower right as catchword. Greek and marginal references are as printed; Roman numerals V, VI, VII set as centred section headings.</notes>
+    <bottom_margin>
+      <catchword>Deus</catchword>
+    </bottom_margin>
+  </page>
+  <page type="text" lines="ocr" n="8" model="claude-haiku-5-5">
+    <warning type="catchword_in_text">catchword taken out of the main text: gratuitus</warning>
+    <layout>One printed page, single column of running text, with inline marginal references set in the text block; no margin notes beside the column; a centred heading "VIII." mid-page; a catchword-free bottom with no page number printed.</layout>
+    <main_text>
+      <l n="1" para="true">Deus statuerit nobis non imputare peccata propter</l>
+      <l n="2">Christum, talis enim actio Dei quidem efficit <i>decre-</i>
+      </l>
+      <l n="3">
+        <i>tum de justificatione</i>, sed non ipsam <i>justificationem</i>, quae</l>
+      <l n="4">duo differunt, <i>illud</i> enim ab aeterno est, <i>hoc</i> fit in tem-</l>
+      <l n="5">pore, <i>Gal. 3: 8.</i> aliud ergo est decretum seu praevisio justi-</l>
+      <l n="6">ficationis, aliud ipsa justificatio, quae concipitur ut actio</l>
+      <l n="7">transiens, qua Deus hominem actu &amp; in tempore ubi cre-</l>
+      <l n="8">dit justificat &amp; absolvit: Est <i>actio Dei</i>; &amp; quidem Dei</l>
+      <l n="9">
+        <i>ϑεοδῶς</i> consideratí, qui solus est judex vitae &amp; necis: <i>Ego</i>
+      </l>
+      <l n="10">
+        <i>sum, qui deleo defectiones tuas, &amp; qui peccatorum tuorum non</i>
+      </l>
+      <l n="11">
+        <i>recordor</i>, <i>Esai. 43: 12. Rom. 3: 26.</i> hinc illa Judaeorum con-</l>
+      <l n="12">sessio, <i>Marc. 2: 7. quis potest remittere peccata, nisi solus Deus.</i>
+      </l>
+      <l n="13">Sic <i>Rom. 4: 5. Gal. 3: 8.</i> Etsi autem haec actio, ut opus ad</l>
+      <l n="14">extra, sit omnibus personis S.S. Trinitatis communis, ta-</l>
+      <l n="15">men propter divinarum personarum variam oeconomiam</l>
+      <l n="16">aliter atque aliter concipitur. <i>Pater</i> enim, qui judicis par-</l>
+      <l n="17">tes agit, <i>justificat</i> ut judex nos absolvendo &amp; justos pro-</l>
+      <l n="18">nunciando, <i>Rom. 8: 33. Filius</i>, qui sponsoris &amp; advocati par-</l>
+      <l n="19">tibus fungitur, justificat tum merendo &amp; justitiam impu-</l>
+      <l n="20">tando, &amp; causam nostram, ut advocatus circa clientem,</l>
+      <l n="21">apud Patrem agendo, dicendo Patri, <i>redime eum, ne de-</i>
+      </l>
+      <l n="22">
+        <i>scendat in foveam, ego lytrum inveni</i>, <i>Job. 33: 24. Rom. 8: 34.</i>
+      </l>
+      <l n="23">
+        <i>Spiritus S.</i> qui cancellarij coelestis quasi partes obit, imo</l>
+      <l n="24">&amp; arrhabonis &amp; obsidis, hoc diploma in cordibus nostris</l>
+      <l n="25">confirmat &amp; obsignat, ingeminans &amp; clamans in cordi-</l>
+      <l n="26">bus nostris: <i>Confide fili, remissa sunt tibi peccata</i>, <i>Matt. 9: 2.</i>
+      </l>
+      <l n="27">
+        <i>Rom. 8: 16. Gal. 4: 6.</i>
+      </l>
+      <l n="28" type="heading" level="2" para="true">VIII.</l>
+      <l n="29" para="true">
+        <i>Causam</i>, quae Deum ad justificandum nos commovit</l>
+      <l n="30">facimus duplicem: INTERNAM &amp; EXTERNAM.</l>
+      <l n="31" para="true">INTERNA est sola &amp; mera justificantis <i>gratia</i>, <i>favor</i>
+      </l>
+    </main_text>
+    <notes />
+    <bottom_margin>
+      <catchword>gratuitus</catchword>
+    </bottom_margin>
+  </page>
+  <page type="text" lines="ocr" n="9" model="claude-haiku-5-5">
+    <warning type="catchword_in_text">catchword taken out of the main text: sti nos</warning>
+    <layout>One column of running text, full width; a centred heading "IX." followed by a paragraph. No margin notes, no page number, no running head visible.</layout>
+    <main_text>
+      <l n="1">gratuitus, amor &amp; benevolentia : Per <i>gratiam</i> autem non</l>
+      <l n="2">intelligimus donum aliquod nobis inhærens, quod aliis</l>
+      <l n="3">charitas est, aliis aliquod donum spirituale essentiæ ani-</l>
+      <l n="4">mæ infusum, ex quo charitas &amp; spes fluat, quodq; ideo</l>
+      <l n="5">vocetur gratia, quòd ex gratia detur : concedimus qui-</l>
+      <l n="6">dem ejusmodi donum aliquod nobis communicari, quan-</l>
+      <l n="7">do justificamur &amp; vocari posse gratiam, sed negamus</l>
+      <l n="8">quando de justificatione agitur sic vocem gratiæ sumen-</l>
+      <l n="9">dam esse: sed per illam intelligimus gratuitum Dei favo-</l>
+      <l n="10">rem, misericordiam &amp; benevolentiam: Eâ enim <i>sive</i> præ-</l>
+      <l n="11">destinationem nostri in adoptionem filiorum Dei, <i>sive</i> or-</l>
+      <l n="12">dinationem Filij aliorumq; mediorum ad perfectionem</l>
+      <l n="13">hujus gratiosi operis, <i>sive</i> applicationem beneficij à Filio</l>
+      <l n="14">nobis parti spectes, nullam aliam superiorem causam in</l>
+      <l n="15">salutis nostræ negotio agnoscimus, sed justitiæ nostræ</l>
+      <l n="16">omne fundamentum extra nos in principalis Dei agentis</l>
+      <l n="17">gratia collocamus: Hinc dicimur <i>justificari gratis, ejus gra-</i>
+      </l>
+      <l n="18">
+        <i>tia</i>, <i>Rom. 3: 24. per ejus gratiam justificati hæredes efficimur</i>
+      </l>
+      <l n="19">
+        <i>secundum spem vitæ æternæ</i>, <i>Tit. 3: 7.</i> hinc etiam Scriptura</l>
+      <l n="20">cum de salutis nostræ ratione agit, hanc gratiam <i>gratis</i>
+      </l>
+      <l n="21">
+        <i>dantem</i>, à donis salvandis <i>gratis datis</i> distinguens, illi cau-</l>
+      <l n="22">sam salutis adscribit in solidum, <i>Eph. 2: 8. Gratiâ servati</i>
+      </l>
+      <l n="23">
+        <i>estis per fidem ( &amp; hoc non ex vobis, Dei donum est ) non ex</i>
+      </l>
+      <l n="24">
+        <i>operibus, ne quis glorietur</i>, sic <i>2. Tim. 1: 9. Tit. 3. 5.</i>
+      </l>
+      <l n="25" type="heading" level="2" para="true">IX.</l>
+      <l n="26" para="true">EXTERNA est satisfactio &amp; meritum Christi, <i>Rom. 3:</i>
+      </l>
+      <l n="27">
+        <i>24. 25. ut qui justificentur gratis ejus gratiâ, per redemptionem</i>
+      </l>
+      <l n="28">
+        <i>factam in Jesu Christo, quem proposuit Deus placamentum per</i>
+      </l>
+      <l n="29">
+        <i>fidem in sanguine ejus</i>, <i>Rom. 5: 9. justificati ejus sanguine.</i>
+      </l>
+      <l n="30">Adeò ut cùm ex sola Dei gratia &amp; misericordia nos ju-</l>
+      <l n="31">stificari dicimus, non excludamus tamen <i>ἀντίλυτρον</i> Filij</l>
+      <l n="32">Dei: non enim pugnant hæc duo, gratia &amp; merito Chri-</l>
+    </main_text>
+    <notes>Greek word "ἀντίλυτρον" in the text is printed in Greek letters, copied as best read. Some words in the italic passages are uncertain due to scan quality.</notes>
+    <bottom_margin>
+      <catchword>sti nos</catchword>
+    </bottom_margin>
+  </page>
+  <page type="text" lines="ocr" n="10" model="claude-haiku-5-5">
+    <layout>One text block of full lines, one column; below the last line a signature mark "B" at the foot, and a catchword "necesse" at the right. No margin notes, no running head, no page number.</layout>
+    <main_text>
+      <l n="1">fti nos justificari, sed Christi meritum subordinatur gra-</l>
+      <l n="2">tiæ &amp; dependet ab ea, quia eadem est gratia, quæ Chri-</l>
+      <l n="3">stum ordinavit, ut esset propitiatio per meritum suum, &amp;</l>
+      <l n="4">quæ illud nobis in justificatione applicat gratuitò: adeò</l>
+      <l n="5">ut quà iram Dei placatam per Filium respicimus, habea-</l>
+      <l n="6">mus meritum scilicet Christi pro nobis, gratiam tamen</l>
+      <l n="7">etiam, quà Deus illud nobis gratis donat &amp; imputat:</l>
+      <l n="8">Christum igitur cum sua justitia consideramus ut causam</l>
+      <l n="9">meritoriam nostræ justificationis: nam cùm Deus nō tan-</l>
+      <l n="10">tùmsit misericors, sed etiam justus, non potuit nos justifi-</l>
+      <l n="11">care, nili per omnia, sive per nos, sive pro nobis per alium</l>
+      <l n="12">justitiæ legis &amp; pœnæ, violationi ejus debitæ factum fue-</l>
+      <l n="13">rit satis: at quid pro nobis satisfacere potuit illi justitiæ,</l>
+      <l n="14">præter solam Christi justitiam &amp; obedientiam? allega-</l>
+      <l n="15">bit quis justitiam politicam? imò ne hilum juvat, <i>Matt.</i>
+      </l>
+      <l n="16">
+        <i>5: 20. nisi abundaverit justitia vestra plus quàm Scribarum &amp;</i>
+      </l>
+      <l n="17">
+        <i>Pharisæorum, non potestis introire in regnum cœlorum</i>: quid</l>
+      <l n="18">igitur? an bona opera id præstabunt? at id fieri nequit,</l>
+      <l n="19">quia omnium hominum opera deficiunt &amp; manca sunt,</l>
+      <l n="20">si ad justitiam legis comparentur: dicemus quòd id præ-</l>
+      <l n="21">stet sanctificatio nostra, per quam renovati sumus ad ima-</l>
+      <l n="22">ginem Dei in justitia &amp; sanctitate vera? verùm &amp; hæc est</l>
+      <l n="23">imperfecta, nec respondet <i>δικαιώματα</i> legis; <i>omnes enim</i>
+      </l>
+      <l n="24">
+        <i>nostræ justitiæ sunt sicut panniculus abjectissimus, Esai. 64: 10.</i>
+      </l>
+      <l n="25">Conscientiam habere puram in conspectu Dei, præcipua</l>
+      <l n="26">sanè pars est <i>justitiæ interna</i>, nec tamen veretur Paulus de</l>
+      <l n="27">seipso dicere, <i>1. Cor. 4: 4. nullius rei mihi conscius sum, per</i>
+      </l>
+      <l n="28">
+        <i>hoc tamen non justificatus sum</i>: Proinde causa alia nulla est,</l>
+      <l n="29">quæ posset nobis impetrare absolutionem aut acceptatio-</l>
+      <l n="30">nem præter solam Christi justitiam &amp; meritum: Cōsidere-</l>
+      <l n="31">mus quæso, nos aliquando debere sisti coram Dei tribu-</l>
+      <l n="32">nali, ut ibi judicemur conformiter justitiæ ejus, tunc enim</l>
+      <l n="33">necesse</l>
+      <l n="34" type="foot" para="true">B</l>
+    </main_text>
+    <notes>Greek word δικαιώματα is printed in Greek letters, rendered approximately. Signature "B" and catchword "necesse" are at the foot.</notes>
+  </page>
+  <page type="text" lines="ocr" n="11" model="claude-haiku-5-5">
+    <warning type="catchword_in_text">catchword taken out of the main text: fideratio-</warning>
+    <layout>One column of running text, full width; a centred section numeral "X." above the second paragraph. No margin notes, no running head, no page number, no catchword.</layout>
+    <main_text>
+      <l n="1">necesse est nos producere quippiam, quod respondeat</l>
+      <l n="2">justitiæ Dei, ut non acceptemur tantum ex misericordia,</l>
+      <l n="3">sed etiam approbemur ex justitia: quomodo autem ap-</l>
+      <l n="4">probaremur, <i>nisi facta essent propitiatio per sacrificium, quod</i>
+      </l>
+      <l n="5">
+        <i>pro nobis oblatum est? sanguis innocens fusus delevit omnia</i>
+      </l>
+      <l n="6">
+        <i>delicta nocentium, pretium tantum datum redemit captivos de</i>
+      </l>
+      <l n="7">
+        <i>manu captivantis inimici</i>, <i>Augusti in Psal. 130.</i>
+      </l>
+      <l n="8" type="heading" level="2" para="true">X.</l>
+      <l n="9" para="true">Hanc Christi satisfactionem &amp; meritum ut admirari</l>
+      <l n="10">&amp; debitas Deo pro ea solvere grates, ita &amp; eandem con-</l>
+      <l n="11">tra Pontificios eam mutilantes, imprimis vero contra im-</l>
+      <l n="12">puram Socinianorum hæresin defendere &amp; propugnare</l>
+      <l n="13">nos oportet: quâ non tantum ejus veritatem, sed &amp; neces-</l>
+      <l n="14">sitatem negare satagunt, statuentes nec vere &amp; proprie</l>
+      <l n="15">Christum satisfecisse, sed redemisse nos <i>metaphorico quo-</i>
+      </l>
+      <l n="16">
+        <i>dam</i> (si Diis placet) <i>sensu</i>, quatenus scilicet, salutis æter-</l>
+      <l n="17">næ viam nobis indicarit, doctrinamq; suam, vitæ sancti-</l>
+      <l n="18">tate, morte suâ &amp; resurrectione confirmarit, &amp;c. cùm</l>
+      <l n="19">tamen Scriptura diserte doceat, eum nos redemisse &amp;</l>
+      <l n="20">pro nobis satisfecisse per interpositionem pretij, <i>san-</i>
+      </l>
+      <l n="21">
+        <i>guinis</i> scilicet sui, <i>1. Pet. 1:18. vita &amp; anima suæ in λύτρον</i>
+      </l>
+      <l n="22">
+        <i>ἀντὶ πολλῶν, Marc. 10:45. Joh. 10:11.</i> quæ &amp; similes Scriptu-</l>
+      <l n="23">ræ phrases, non <i>metaphoricam tantum substitutionem</i> desi-</l>
+      <l n="24">gnant: Statuunt insuper impuri isti hæretici, nec neces-</l>
+      <l n="25">sariam fuisse illam Christi satisfactionem, eò quòd Deus</l>
+      <l n="26">absq; ulla satisfactione posset remittere peccatum, non</l>
+      <l n="27">enim credendum, ajunt, justitiam vindicativam ita esse</l>
+      <l n="28">Deo essentialem, quæ posito peccato requirat necessariò</l>
+      <l n="29">ejusdem punitionem; imò alio modo nos potuisse redi-</l>
+      <l n="30">mi, quàm per satisfactionem Christi: Verùm hocce frivo-</l>
+      <l n="31">lum &amp; ἀπόλογον commentum refutatur vel unicâ hac con-</l>
+    </main_text>
+    <notes>Page ends mid-word "confideratio-" (continues on next page). Greek in the sentence "λύτρον ἀντὶ πολλῶν" and "ἀπόλογον" transcribed as printed, accents uncertain. Stray "Augusti" read as printed "Augustin." abbreviated; the printed form is "Augusti." with a superscript mark; treat as doubtful.</notes>
+    <bottom_margin>
+      <catchword>fideratio-</catchword>
+    </bottom_margin>
+  </page>
+  <page type="text" lines="ocr" n="12" model="claude-haiku-5-5">
+    <warning type="catchword_in_text">catchword taken out of the main text: sarij,</warning>
+    <layout>One page of text, single column; no margin notes; no running head; signature "B 2" at the foot left of centre.</layout>
+    <main_text>
+      <l n="1">sideratione: vix imo plane non concipi potest, quomo-</l>
+      <l n="2">do Deus Filium suum dilectissimum, unicum, principem</l>
+      <l n="3">gloriae, tam diris, servilibus &amp; ignominiosissimis poenis</l>
+      <l n="4">&amp; suppliciis exponere voluisset, si sine morte &amp; satisfa-</l>
+      <l n="5">ctione nobis potuisset elargiri veniam &amp; remissionem pec-</l>
+      <l n="6">catorum, aut si aliter redemptionis nostrae opus potuis-</l>
+      <l n="7">set peragi; imo posito non concesso, potuisse Deum pro</l>
+      <l n="8">infinita sua sapientia alium redemptionis modum inve-</l>
+      <l n="9">nire, nondum tamen constabit, an ille futurus fuisset sa-</l>
+      <l n="10">tisfactionis expers, nec ne.</l>
+      <l n="11" type="heading" level="1" caput="11" para="true">XI.</l>
+      <l n="12" para="true">
+        <i>Causae instrumentales</i> sunt vel <i>externae</i>, <i>verbum</i> scilicet</l>
+      <l n="13">
+        <i>Evangelij</i>, quod <i>est potentia Dei ad salutem cuivis credenti</i>,</l>
+      <l n="14">
+        <i>Rom. 1: 16. Sacramenta</i>, quae sunt veluti <i>signa &amp; sigilla justi-</i>
+      </l>
+      <l n="15">
+        <i>tiae fidei</i>, <i>Rom. 4: 11. 13. 1. Pet. 3: 21.</i> &amp; <i>utrorum{ } ministerium</i>;</l>
+      <l n="16">dumnempe ministri annunciando verbum Evangelij in-</l>
+      <l n="17">strumentaliter eodem modo solvunt, servant &amp; justifi-</l>
+      <l n="18">cant recte institutos &amp; dociles, quo ligant &amp; condem-</l>
+      <l n="19">nant contumaces, <i>Dan. 12: v. 3. 1. Tim. 4: 16. Matth. 18: 18.</i>
+      </l>
+      <l n="20">Vel <i>interna</i>, quae est <i>fides</i>; quatenus scilicet hoc solum</l>
+      <l n="21">instrumentum est analogum &amp; determinatum ad perci-</l>
+      <l n="22">piendum illud Dei beneficium: est vero haec <i>fides</i>, non</l>
+      <l n="23">ea quae est communis reprobis, qua tantum commu-</l>
+      <l n="24">niter Dei voluntatem de salute &amp; mediis ad eam novi-</l>
+      <l n="25">mus, sed quae electorum est propria, qua etiam Christum</l>
+      <l n="26">in verbo cum omnibus suis beneficiis oblatum, &amp; ex eo</l>
+      <l n="27">cognitum, firma fiducia apprehendimus nobisque; appli-</l>
+      <l n="28">camus: de fide autem ut pluribus hic agamus nihil atti-</l>
+      <l n="29">net: sufficit indicasse, quomodo se habeat ad <i>justificatio-</i>
+      </l>
+      <l n="30">
+        <i>nem</i>, &amp; quomodo dicamur <i>sola fide justificari.</i>
+      </l>
+      <l n="31" type="heading" level="1" caput="12" para="true">XII.</l>
+      <l n="32" para="true">Fide nos justificari certum est, nec diffitentur adver-</l>
+    </main_text>
+    <page_number />
+    <notes>Marginal text: none. Signature "B 2" at foot. Printed Greek or Hebrew: none. The "{ }" in "utrorum{ }" marks an illegible abbreviation mark over the m; the word is printed "utrorumq;" with a superscript sign.</notes>
+    <bottom_margin>
+      <catchword>sarij,</catchword>
+    </bottom_margin>
+  </page>
+  <page type="text" lines="ocr" n="13" model="claude-haiku-5-5">
+    <warning type="catchword_in_text">catchword taken out of the main text: plicatur:</warning>
+    <layout>One page of text; marginal references in the text block as italic run-in citations; no separate margin notes.</layout>
+    <running_head />
+    <bottom_margin>
+      <catchword>plicatur:</catchword>
+    </bottom_margin>
+    <main_text>
+      <l n="1">sarij, &amp; toties Scriptura illud nnuit, quoties pronunciat</l>
+      <l n="2">credentes in Christum justificari, <i>Act. 13. vers. 39. fide homi-</i>
+      </l>
+      <l n="3">
+        <i>nem justificari, Rom. 3. vers. 28. per fidem nos justificari, Gal.</i>
+      </l>
+      <l n="4">
+        <i>2: 16. fidem imputari ad justitiam, Rom. 4: 5. 9. Deum ju-</i>
+      </l>
+      <l n="5">
+        <i>stificare eum, qui est ex fide Jesu, Rom. 3. v. 26. prævidisse</i>
+      </l>
+      <l n="6">
+        <i>Scripturam Deum ex fide justificaturum gentes, Gal. 3. vers. 8.</i>
+      </l>
+      <l n="7">quibus modus &amp; medium <i>justificationis</i> indigitatur, quòd</l>
+      <l n="8">scilicet fides fit illud medium &amp; organum, quo benefi-</l>
+      <l n="9">cia Christi in Evangelio oblata apprehendimus, nobisq;</l>
+      <l n="10">applicamus: Adeò ut hîc non sint audiendi Pontificij,</l>
+      <l n="11">qui volunt fidem justificare ut est præparatio, initium &amp;</l>
+      <l n="12">radix ad <i>justificationem</i>, post quam timor, spes, &amp; aliæ vir-</l>
+      <l n="13">tutes, <i>Concil. Trid. sess. 6. can. 9.</i> Nam cum nullas præpa-</l>
+      <l n="14">rationes ejusmodi Scriptura agnoscat, manifestum est</l>
+      <l n="15">ne quidem eas justificare: quis enim nescit longè aliud</l>
+      <l n="16">esse præparare quàm efficere, differunt enim ut poten-</l>
+      <l n="17">tia &amp; actus, fides verò cùm se habeat ut actus &amp; verè ju-</l>
+      <l n="18">stificet, necesse est fidem non esse præparationem: Nec</l>
+      <l n="19">etiam admittimus Remonstrantium opinionem, quâ fi-</l>
+      <l n="20">dem ipsam nobis ad justitiam imputari volunt: quia enim</l>
+      <l n="21">in legis fœdere homo propter carnis impotentiam servari</l>
+      <l n="22">non poterat, volunt, Deum aliud fœdus Evangelicum</l>
+      <l n="23">scil. cum hominibus inivisse, quo obedientia fidei exi-</l>
+      <l n="24">gatur, &amp; proinde illam fidem tanquam partem obedien-</l>
+      <l n="25">tiæ debitæ, nobis imputari ad justitiam: sed cùm Scri-</l>
+      <l n="26">ptura soli Christi merito perfectam satisfactionem &amp; so-</l>
+      <l n="27">lutionem tribuat, non potest fides nostra illius pretij pars</l>
+      <l n="28">aliqua esse.</l>
+      <l n="29" type="heading" level="2" para="true">XIII.</l>
+      <l n="30" para="true">Nos ergò fidem hîc consideramus, ut jam dictum,</l>
+      <l n="31">ut medium apprehensionis &amp; instrumentum, per quod</l>
+      <l n="32">Christi meritum apprehenditur, ejusq; justitia nobis ap-</l>
+    </main_text>
+    <notes />
+  </page>
+  <page type="text" lines="ocr" n="14" model="claude-haiku-5-5">
+    <warning type="catchword_in_text">catchword taken out of the main text: meritum</warning>
+    <layout>One page of text, single column, no margin notes. Signature "B 3" at foot left-centre, catchword "meritum" at lower right.</layout>
+    <running_head />
+    <bottom_margin>
+      <catchword>meritum</catchword>
+      <signature>B 3</signature>
+    </bottom_margin>
+    <main_text>
+      <l n="1">plicatur : &amp; hoc modo fides &amp; quidem sola justificat:</l>
+      <l n="2">nullum enim aliud instrumentum vel ex tota Scriptura,</l>
+      <l n="3">vel ex tota rei natura monstrari potest : non certe cha-</l>
+      <l n="4">ritate aut bonis operibus haec accipiuntur, sed solam fi-</l>
+      <l n="5">dem Deus ad hoc ordinavit. Particula <i>sola</i> licet ἀνταφος</l>
+      <l n="6">sit &amp; haeretica ab adversariis proclametur, non nuper ta-</l>
+      <l n="7">men excogitata, sed ab Orthodoxa antiquitate usurpata</l>
+      <l n="8">firmum in Scriptura habet fundamentum: Paulus certe</l>
+      <l n="9">particulis exclusivis non minus significantibus utitur in</l>
+      <l n="10">hoc articulo, <i>Rom. 3: 21. absq; lege manifestata est justitia</i>
+      </l>
+      <l n="11">
+        <i>Dei. Gal. 2: 16. Scientes quod non justificetur homo ex operibus</i>
+      </l>
+      <l n="12">
+        <i>legis, nisi per fidem Jesu Christi: &amp; nos in Christum credimus,</i>
+      </l>
+      <l n="13">
+        <i>ut justificaremur ex fide Christi &amp; non ex operibus legis, propterea</i>
+      </l>
+      <l n="14">
+        <i>quod ex operibus legis nulla caro justificabitur, Rom. 4: 6. David</i>
+      </l>
+      <l n="15">
+        <i>pronuntiat beatum eum cui Deus imputat justitiam absq; operi-</i>
+      </l>
+      <l n="16">
+        <i>bus. Tit. 3: 5. non ex operibus justitia, sed ex sua misericordia ser-</i>
+      </l>
+      <l n="17">
+        <i>vavit nos. Rom. 3: 28. Colligimus igitur fide justificari hominem</i>
+      </l>
+      <l n="18">
+        <i>absq; operibus legis.</i> Has voculas aequipollentes ex Pauli E-</l>
+      <l n="19">pistolis tollant, qui exclusivam hanc, <i>sola fide</i>, hactenus</l>
+      <l n="20">usurpatam, ferre nolunt: Adde quod Scriptura solam fi-</l>
+      <l n="21">dem nonnunquam nominet, <i>Marc. 5: 36. noli timere, so-</i>
+      </l>
+      <l n="22">
+        <i>lum crede, Luc. 8: 50. tantum crede &amp; salvabitur.</i> Ubi licet</l>
+      <l n="23">agatur de impetratione sanitatis corporeae, sufficit ut o-</l>
+      <l n="24">stendat locus <i>fide sola</i> promissiones accipi: Hinc etiam</l>
+      <l n="25">Scriptura saepe nihil nominat praeter fidem, quum a Deo</l>
+      <l n="26">tum alia beneficia, tum imprimis hoc, hominibus conse-</l>
+      <l n="27">runtur, <i>Matth. 15: 28. Luc. 7: 50. Rom. 1: 17. Rom. 3: 28, &amp; ali-</i>
+      </l>
+      <l n="28">
+        <i>bi passim.</i>
+      </l>
+      <l n="29" type="heading" level="1" caput="14" para="true">XIV.</l>
+      <l n="30" para="true">Sola fide nos justificari cum dicimus, non excludi-</l>
+      <l n="31">mus causas extra nos, scil. gratiam Dei &amp; meritum Chri-</l>
+      <l n="32">sti, sed includimus &amp; statuimus, nos gratia Dei, propter</l>
+    </main_text>
+    <notes />
+  </page>
+  <page type="text" lines="ocr" n="15" model="claude-haiku-5-5">
+    <warning type="catchword_in_text">catchword taken out of the main text: stificari</warning>
+    <layout>One page of text, one column of running text; no margin notes; no page number, running head or signature visible.</layout>
+    <main_text>
+      <l n="1">meritum Christi fide apprehensum justificari: excludimus</l>
+      <l n="2">autem omnia opera nostra etiam optima sive ante fidem,</l>
+      <l n="3">sive post fidem facta, eaq; censemus quàm alienissima à</l>
+      <l n="4">nostræ <i>justificationis</i> actu; idq; ex mente Apostoli, <i>Rom. 3:</i>
+      </l>
+      <l n="5">
+        <i>24. gratis ejus gratiâ justificamur. Gal. 2: 16. non ex operibus</i>
+      </l>
+      <l n="6">
+        <i>legis justificabitur homo: justitia non est ex lege, sed ex fide:</i>
+      </l>
+      <l n="7">
+        <i>Si enim per legem justitia; ergo Christus gratis mortuus est:</i>
+      </l>
+      <l n="8">
+        <i>si ex lege hereditas; ergo non ex promissione; evacuati estis,</i>
+      </l>
+      <l n="9">
+        <i>qui in lege justificamini, ex gratia excidistis, exinanita est fi-</i>
+      </l>
+      <l n="10">
+        <i>des, abolita est promissio:</i> sic disputat Paulus, <i>Gal. 2. &amp; 3.</i> ubi</l>
+      <l n="11">probè notandum, eos, contra quos Apostolus hîc dispu-</l>
+      <l n="12">tat, non fuisse simpliciter Judæos, sed tales qui Christum</l>
+      <l n="13">professi, legem cum Evangelio, vires humanas cum gra-</l>
+      <l n="14">tia, opera cum fide in justificationis negotio conjun-</l>
+      <l n="15">gerent, omninò prout hodierni Semipelagiani; hoc</l>
+      <l n="16">clamat Paulus indignum Christo, quia ex fide non ex</l>
+      <l n="17">operibus legis constat nostra justificatio, &amp; ne opera qui-</l>
+      <l n="18">dem legis cum fide quenquam justificare; si enim de</l>
+      <l n="19">operibus sine fide loqueretur, discederet à causa Galata-</l>
+      <l n="20">rum qui fidem nullo modo excludebant. Adhæc in hoc</l>
+      <l n="21">negotio debet abesse omnis nostra gloriatio &amp; exclusa</l>
+      <l n="22">manere: at si justificatio constaret ex operibus, homi-</l>
+      <l n="23">nes jactare possent studium suum &amp; industriam, cùm au-</l>
+      <l n="24">tem justificemur gratis ex fide nihil loci relictum est glo-</l>
+      <l n="25">riationi: itaq; Paulus ait, <i>Rom. 3: 27. ubi igitur est gloria-</i>
+      </l>
+      <l n="26">
+        <i>tio? exclusa est: per quam legem? operum? non, imò per le-</i>
+      </l>
+      <l n="27">
+        <i>gem fidei:</i> &amp; concludit: <i>colligimus igitur fide justificari</i>
+      </l>
+      <l n="28">
+        <i>hominem absq; operibus legis:</i> Præterea jam imperfectionem</l>
+      <l n="29">operum etiam præstantissimorum enarrare, notum quip-</l>
+      <l n="30">pe, etiam sanctissimos suos habere nævos, &amp; nos <i>omnes</i>
+      </l>
+      <l n="31">
+        <i>in multis impignere, Jac. 3: 2. justum etiam de die septies ca-</i>
+      </l>
+      <l n="32">
+        <i>dere:</i> &amp; proinde nos nostris imperfectis operibus non ju-</l>
+    </main_text>
+    <notes>Marginal notes: none visible. Page ends mid-sentence ("non justificari" continues on next page). Some words in italics with Latin references; "Gal. 2. &amp; 3." and "Rom. 3: 24." transcribed as printed. Possible doubtful readings: "Semipelagiani" and "impignere" as printed.</notes>
+    <bottom_margin>
+      <catchword>stificari</catchword>
+    </bottom_margin>
+  </page>
+  <page type="text" lines="ocr" n="16" model="claude-haiku-5-5">
+    <warning type="catchword_in_text">catchword taken out of the main text: themata.</warning>
+    <layout>One block of running text in a single column, with a heading "XV." and "XVI." set centred; one printed page on the scan; no margin notes; no page number, running head or catchword visible.</layout>
+    <main_text>
+      <l n="1">stificari patet: Observandum tamen nos non omnino ex-</l>
+      <l n="2">cludere opera a justificatione, excludimus quidem ea a com-</l>
+      <l n="3">municatione efficientia, sed non ab actu praesentia: &amp; verum</l>
+      <l n="4">est illud Theologorem, sola fides justificat, sed tamen non</l>
+      <l n="5">solitaria sive separata a charitate, verum viva &amp; efficax per</l>
+      <l n="6">charitatem, &amp; vero charitas a vera fide est inseparabilis.</l>
+      <l n="7" type="heading" level="2" para="true">XV.</l>
+      <l n="8" para="true">Fidei actus, quo circa justificationem occupata est,</l>
+      <l n="9">eamq; quantum in se est absolvit, triplex concipi potest:</l>
+      <l n="10" para="true">1. <i>Dispositivus</i>, quo credo juxta Evangelium, Christum</l>
+      <l n="11">meritum esse remissionem peccatorum electis in se credi-</l>
+      <l n="12">turis, adeoq; &amp; mihi si credam, cum quo actu simul est</l>
+      <l n="13">agnitio miseriae, famis &amp; sitis justitiae, <i>Matth. 5: 6.</i> dicitur</l>
+      <l n="14">
+        <i>dispositivus</i>, non sensu Pontif. quod nos disponat ad <i>justifica-</i>
+      </l>
+      <l n="15">
+        <i>tionem</i>: sed talis dicitur respectu aliorum actuum fidei,</l>
+      <l n="16">qui sequuntur &amp; coplent justificationem nostram. 2.</l>
+      <l n="17">
+        <i>Justificatorius formaliter</i>, quo exeo ex me ipso, recumbens in</l>
+      <l n="18">Deum per Christum, quem apprehendo cum omnibus</l>
+      <l n="19">ejus meritis &amp; beneficiis ad remissionem omnium meo-</l>
+      <l n="20">rum peccatorum, praeteritorum, praesentium, &amp; futuro-</l>
+      <l n="21">rum, &amp; ad imputationem perfectae ipsius obedientiae &amp;</l>
+      <l n="22">justitiae, ad acquirendum inde jus vitae aeternae. 3. <i>Conso-</i>
+      </l>
+      <l n="23">
+        <i>latorius</i>, quo percipio sensum justificationis &amp; remissionis</l>
+      <l n="24">peccatorum, &amp; quo jam certus sum, mihi in individuo es-</l>
+      <l n="25">se remissa peccata, ut non amplius subsim condemnatio-</l>
+      <l n="26">ni, <i>Rom. 8: 1.</i> ex quo sensu me etiam consolor in futurum</l>
+      <l n="27">contra lapsus &amp; tentationes omnes. <i>Primus actus</i> se ha-</l>
+      <l n="28">bet ad justificationem antecedenter, <i>secundus</i>, simultaneè,</l>
+      <l n="29">
+        <i>tertius</i> consequenter, qui enim duos priores habet,</l>
+      <l n="30">consequetur certò etiam tertium.</l>
+      <l n="31" type="heading" level="2" para="true">XVI.</l>
+      <l n="32" para="true">Hic directè Pontif. contra nos militant, &amp; tot ana-</l>
+    </main_text>
+    <notes />
+    <bottom_margin>
+      <catchword>themata.</catchword>
+    </bottom_margin>
+  </page>
+  <page type="text" lines="ocr" n="17" model="claude-haiku-5-5">
+    <warning type="catchword_in_text">catchword taken out of the main text: certè</warning>
+    <layout>One page of text, single column; no margin notes; no page number or running head visible.</layout>
+    <main_text>
+      <l n="1">themata in hanc nostram sententiam <i>de sola fide</i> sul-</l>
+      <l n="2">minant, <i>Concil. Trid. sess 6. can. 3. seq.</i> quot vix Stygius Plu-</l>
+      <l n="3">to evomere potuisset flammas. Volunt quippè nos non so-</l>
+      <l n="4">lâ fide, sed &amp; bonis operibus &amp; meritis nostris justificari,</l>
+      <l n="5">imò ulterius progressi, vim justificandi tribuunt etiam</l>
+      <l n="6">superstitionibus à se inventis &amp; confictis: quis enim igno-</l>
+      <l n="7">rat rythmos,publicè jactatos, de aqua lustrali; aquâ be-</l>
+      <l n="8">nedictâ, deleantur tua delicta, sit tibi laus &amp; vita? cucul-</l>
+      <l n="9">lis etiam, usui candelarum, peregrinationibus, &amp; quibus</l>
+      <l n="10">non? affixæ sunt peccatorum condonationes: sic nem-</l>
+      <l n="11">pè ex his, quæ malè interpretati sunt ex sacris literis de</l>
+      <l n="12">meritis, progressi sunt ad tam stulta &amp; impia: Ne tamen</l>
+      <l n="13">videantur idem plane sentire cum impio Pelagio,qui vo-</l>
+      <l n="14">luit hominem posse naturæ viribus legem implere, atq;</l>
+      <l n="15">adeò per id justificari: se extricare conantur distinctio-</l>
+      <l n="16">ne <i>operum ante &amp; post fidem</i>, sive <i>quæ fiunt vi legis &amp; vi</i>
+      </l>
+      <l n="17">
+        <i>Evangelij</i>; &amp; dicunt, operibus legis &amp; quæ fiunt ante fi-</l>
+      <l n="18">dem non justificari hominem, congruum tamen esse ut</l>
+      <l n="19">bene utenti bono naturæ propter Deum, Deus, qui est</l>
+      <l n="20">maximè munificus, bona gratiæ largiatur; facienti enim</l>
+      <l n="21">quod in se est, Deum non denegare ulteriorem gratiam:</l>
+      <l n="22">Operibus verò fidei &amp; quæ fiunt per gratiam, vim justifi-</l>
+      <l n="23">candi posse tribui: Verùm si nec hoc posterius in Scri-</l>
+      <l n="24">ptura fundamentum habet,prius sua sponte corruet. Cer-</l>
+      <l n="25">tæ enim &amp; indubitatæ veritatis est nobis, omnia opera</l>
+      <l n="26">nullis exceptis excludi à justificatione: Nam,<i>non fit ex ope-</i>
+      </l>
+      <l n="27">
+        <i>ribus, non operanti, sed credenti, non secundum opera, ne quis</i>
+      </l>
+      <l n="28">
+        <i>glorietur</i>, <i>Rom. 4.</i> sed in solidû gratiæ Dei tribuitur, <i>Rom.</i>
+      </l>
+      <l n="29">
+        <i>11. 6. si ex gratia, jam non ex operibus, alioquin gratia non esset gra-</i>
+      </l>
+      <l n="30">
+        <i>tia; si ex operibus non amplius ex gratia: imò, facti sumus i-</i>
+      </l>
+      <l n="31">
+        <i>plius creatura in Christo Iesu ad bona opera, quæ præparavit Deus,</i>
+      </l>
+      <l n="32">
+        <i>ut in iis ambulemus</i>, <i>Eph. 2. 10.</i> si Deus nos ad ea præparavit, </l>
+    </main_text>
+    <notes>Catchword "certè" at lower right may be the catchword; the final line is shown as the last line. Some italic and Greek-free marginal references are inline in the text; the page has no marginal notes. Several words are uncertain in the small italic text of the final lines.</notes>
+    <bottom_margin>
+      <catchword>certè</catchword>
+    </bottom_margin>
+  </page>
+  <page type="text" lines="ocr" n="18" model="claude-haiku-5-5">
+    <layout>One page of text, one column; no margin notes; catchword-like signature line at foot: "C" centred and "XVII. A-" at right (signature).</layout>
+    <page_number />
+    <running_head />
+    <bottom_margin>
+      <catchword />
+      <signature>C XVII. A-</signature>
+    </bottom_margin>
+    <main_text>
+      <l n="1">certè nō ex operibus salvati sumus: Hinc Auguft. scitè,<i>bona</i>
+      </l>
+      <l n="2">
+        <i>opera non præcedunt justificandū, sed sequuntur justificatum</i>: Et</l>
+      <l n="3">Bern: non <i>sunt causa regnandi, sed via ad regnum</i>: Bona ergò</l>
+      <l n="4">opera cùm fiant post justificationem non possunt esse in ul-</l>
+      <l n="5">lo genere causarum, cùm omnis causa præcedat suum esse-</l>
+      <l n="6">ctum: adde locum supra citatum, <i>Gal.2.</i> Res etiam clarior</l>
+      <l n="7">evadet ex exemplo Abrahami, de quo <i>Rom. 4.</i> is fide non</l>
+      <l n="8">operibus dicitur <i>justificatus</i>, qui tamen ex fide multa bo-</l>
+      <l n="9">na opera præstiterat &amp; præstabat, <i>Heb.11:8. per fidem voca-</i>
+      </l>
+      <l n="10">
+        <i>tus Abraham auscultavit Deo, ut abiret in locum, quem acce-</i>
+      </l>
+      <l n="11">
+        <i>ptfurus erat in hæreditatem, &amp; exivit, nesciens, quo esset ven-</i>
+      </l>
+      <l n="12">
+        <i>turus</i>: ubi constat, jam tum habuisse fidem veram Abra-</l>
+      <l n="13">hamum, cùm primùm egressus est ex Ur Chaldæorum,</l>
+      <l n="14">itaq; quicquid post id temporis boni fecit, id ex fide &amp;</l>
+      <l n="15">cum fide fecit.</l>
+      <l n="16" para="true">Sed ipsa fides est opus. Ergo,&amp;c. Præclarè ad hoc</l>
+      <l n="17">solidissimus Chamierus; <i>Frustra</i>; inquit, <i>dicendum enim</i>
+      </l>
+      <l n="18">
+        <i>esset, fides est omnia opera, quod falsum: est enim unicum dun-</i>
+      </l>
+      <l n="19">
+        <i>taxat opus: at unum opus nullum aut justificat aut justificare</i>
+      </l>
+      <l n="20">
+        <i>potest</i>; <i>sed omnia simul</i>; <i>itaq; cùm fides non sit omnia opera</i>;</l>
+      <l n="21">
+        <i>non tantùm non omnia opera justificant</i>, <i>sed ne ullum quidem</i>
+      </l>
+      <l n="22">
+        <i>opus</i>; <i>unde dicLum, fidem non justificare, quatenus est opus, sive</i>
+      </l>
+      <l n="23">
+        <i>per se, sed relativè, quatenus dicit applicationem justitiæ Chri-</i>
+      </l>
+      <l n="24">
+        <i>sti</i>: manet ergò inconcussæ veritatis nostrum dogma; <i>ne-</i>
+      </l>
+      <l n="25">
+        <i>minem ex operibus justificari</i>; quod &amp; ipse Bellarm. non dis-</l>
+      <l n="26">sitetur, postquàm enim integris aliquot libris omnes ner-</l>
+      <l n="27">vos intenderat, in meritis humanis contra gratiam, omni</l>
+      <l n="28">genere sophismatum, propugnandis, â veritatis luce tan-</l>
+      <l n="29">dem superatus, omnem usum meritorum tollit &amp; ad so-</l>
+      <l n="30">lam gratiam confugit, dicens: <i>propter incertitudinem pro-</i>
+      </l>
+      <l n="31">
+        <i>priæ justitiæ &amp; periculum inanis gloriæ, tutissimum est, fiduciam</i>
+      </l>
+      <l n="32">
+        <i>in sola Dei misericordia &amp; benignitate conslituere, cap. 7. de ju-</i>
+      </l>
+      <l n="33">
+        <i>stif. lib. 5. tom. 4.</i>
+      </l>
+    </main_text>
+    <notes>Right page edge and show-through not transcribed. Catchword absent. Signature "C" and "XVII. A-" read from foot of page; the "C" is a centred gathering mark.</notes>
+  </page>
+  <page type="text" lines="ocr" n="19" model="claude-haiku-5-5">
+    <layout>One page of text, one column; marginal references appear inline as small italic citations within the text block; no separate margin notes.</layout>
+    <running_head />
+    <bottom_margin>
+  </bottom_margin>
+    <main_text>
+      <l n="1" type="heading" level="1" para="true">XVII.</l>
+      <l n="2" para="true">Agnoscimus tamen necessitatem bonorum operum</l>
+      <l n="3">in renatis, sed tamen non coactionis, aut quæ sit obliga-</l>
+      <l n="4">tio ad perfectam obedientiam, tanquam ad causam &amp;</l>
+      <l n="5">meritum salutis, illud enim legale est debitum, à quo di-</l>
+      <l n="6">mittimur beneficio Christi, qui fregit <i>baculum exactoris</i>,</l>
+      <l n="7">
+        <i>Esai. 9: 4.</i> sed solum Evangelicæ gratitudinis, <i>tum</i> propter</l>
+      <l n="8">mandatum &amp; voluntatem Dei, debitæ, <i>1. Thess. 4:3. Joh. 15:12.</i>
+      </l>
+      <l n="9">
+        <i>tum</i> ratione ipsorum renatorum, qui ideo mundantur, ut</l>
+      <l n="10">sint populus zelotes bonorum operum, <i>Tit. 2: 14.</i> quibus</l>
+      <l n="11">imaginaria à vera fide discernitur, <i>qui enim non diligit,</i>
+      </l>
+      <l n="12">
+        <i>manet in morte, 1. Joh. 3:14. tum</i> deniq; ratione proximi, ut vi-</l>
+      <l n="13">dentes bona nostra opera glorificent Deum, <i>Matth. 5: 16.</i>
+      </l>
+      <l n="14">extra hosce terminos si protrahatur necessitas operum,</l>
+      <l n="15">sit conscientiarum venenum &amp; lethifera vox Antichristi.</l>
+      <l n="16" type="heading" level="1" para="true">XVIII.</l>
+      <l n="17" para="true">
+        <i>Materia</i> justificationis <i>ex qua</i>, est satisfactio præstita</l>
+      <l n="18">per Christum, <i>quem Deus propositi placamentum per fidem</i>
+      </l>
+      <l n="19">
+        <i>in sanguine ipsius ad declarandam justitiam suam per remissionem</i>
+      </l>
+      <l n="20">
+        <i>peccatorum, Rom. 3: 25. ipse factus est nobis justitia, 1. Cor. 1: 30.</i>
+      </l>
+      <l n="21" para="true">
+        <i>Materia in qua</i>, quæ &amp; <i>subiectum</i> dicitur sunt electi</l>
+      <l n="22">soli, in se quidem peccatores, ac proinde legis accusatio-</l>
+      <l n="23">ni &amp; maledictioni obnoxij, sed à Deo ex gratia ad salu-</l>
+      <l n="24">tem vocati efficaciter &amp; verâ fide donati: Fideles dico</l>
+      <l n="25">&amp; electos, <i>quos enim prædestinavit, vocavit, &amp; quos voca-</i>
+      </l>
+      <l n="26">
+        <i>vit, eos etiam justificavit, Rom. 8: 29. 30. Christo dant omnes</i>
+      </l>
+      <l n="27">
+        <i>Prophetæ testimonium, remissionem peccatorum accepturum per</i>
+      </l>
+      <l n="28">
+        <i>nomen ejus quemvis, qui credit in eum, Act 10: 43.</i> Solos di-</l>
+      <l n="29">co; quia infideles &amp; omnibus modis impij certò damna-</l>
+      <l n="30">tioni sunt addicti, nec participes fiunt hujus privilegij fi-</l>
+      <l n="31">delium: juxta illud, <i>qui non credit jam condemnatus est,</i>
+      </l>
+      <l n="32">
+        <i>Joh. 3: 18. Jesus liberabit populum suum à peccatis, Matth.</i>
+      </l>
+      <l n="33">
+        <i>1: 20.</i>
+      </l>
+    </main_text>
+    <notes>Marginal references are printed inline in the text and are transcribed where they stand. Doubtful: "Fideles dico" and running head absent; page number not printed.</notes>
+  </page>
+  <page type="text" lines="ocr" n="20" model="claude-haiku-5-5">
+    <warning type="catchword_in_text">catchword taken out of the main text: pecca</warning>
+    <layout>One page of text, single column, with a centred heading "XIX." in the middle. No margin notes. Running head at top with page number at top left. Catchword/signature line at foot: "C 2" and "pecca" at right (catchword).</layout>
+    <page_number>1:20.</page_number>
+    <running_head>(none)</running_head>
+    <bottom_margin>
+      <catchword>pecca</catchword>
+      <signature>C 2</signature>
+    </bottom_margin>
+    <main_text>
+      <l n="1">rejicimus igitur errorem omnium illorum, qui hoc beneficium ad omnes etiam reprobos extendunt, non</l>
+      <l n="2">sine diminutione gloriæ Dei &amp; Christi.</l>
+      <l n="3" para="true">
+        <i>Dubium</i> hic movetur <i>de infantibus, quomodo illi possint</i>
+      </l>
+      <l n="4">
+        <i>dici justificari, cum adhuc sub judice lis sit, an fidem habeant,</i>
+      </l>
+      <l n="5">
+        <i>nec ne, quâ deberent justificari?</i> dicimus ipsis sufficere <i>ju-</i>
+      </l>
+      <l n="6">
+        <i>stificationem activam</i> à parte Dei, quâ scil. Deus ipsis impu-</l>
+      <l n="7">tat justitiam Christi, prout in adultis, qui rationis usu</l>
+      <l n="8">gaudent, necessaria est insuper <i>justificatio passiva</i>, quâ ve-</l>
+      <l n="9">ra fide amplectuntur meritum Christi: nec enim existi-</l>
+      <l n="10">mamus necesse esse, concedere infantibus fidem vel <i>actua-</i>
+      </l>
+      <l n="11">
+        <i>lem</i> cum quibusdam crudioribus Lutheranis &amp; Pontifi-</l>
+      <l n="12">ciis, vel <i>habitualem</i> sive <i>seminalem</i>, cum quibusdam è</l>
+      <l n="13">Nostratibus: nam cum fides in suo formali conceptu di-</l>
+      <l n="14">cat aliquid practicum, notitiam &amp; assensum fiducialem,</l>
+      <l n="15">non potest infantibus, utpote rationis usu nondum gau-</l>
+      <l n="16">dentibus, fides tribui: &amp; cum personalia peccata non-</l>
+      <l n="17">dum admiserint, personales quoq; fidei actus non neces-</l>
+      <l n="18">sario debent exercere.</l>
+      <l n="19" type="heading" level="1" para="true">XIX.</l>
+      <l n="20" para="true">
+        <i>Forma justificationis</i> ex parte justificantis est imputatio</l>
+      <l n="21">justitiæ Christi. Quidam Theologi formam hanc dicunt</l>
+      <l n="22">absolvi <i>duabus</i> partibus, <i>remissione</i> scil. <i>peccatorum</i> (quæ di-</l>
+      <l n="23">cit condonationem omnis culpæ quoad reatum &amp; pœ-</l>
+      <l n="24">nam) &amp; <i>imputatione justitiæ Christi</i>: sed hæ non sunt partes</l>
+      <l n="25">diversæ aut distinctæ, nam utravis seorsim sumpta totam</l>
+      <l n="26">justificationis naturam exprimit, &amp; una alteram includit,</l>
+      <l n="27">ut patet, <i>Rom. 4:6.7.</i> ubi Apostolus ex professo tractans</l>
+      <l n="28">hoc argumentum, <i>remittere peccata &amp; imputare justitiam</i>
+      </l>
+      <l n="29">tanquam æquipollentia usurpat: &amp; illa distinctio respi-</l>
+      <l n="30">cit tantum terminum <i>à quo &amp; ad quem</i>, simulq; sunt tem-</l>
+      <l n="31">pore, uno enim eodemq; justificationis actu, homo &amp;</l>
+      <l n="32">â</l>
+    </main_text>
+    <notes>Running head and page number "1:20." read from top left; the printed head is "7:20." as best read. Catchword "pecca" at lower right; signature "C 2" at lower left. Some words in the first line of the final paragraph are uncertain, notably "pecca" which is a catchword. Doubtful: "7:20." may be "1:20.".</notes>
+  </page>
+  <page type="text" lines="ocr" n="21" model="claude-haiku-5-5">
+    <layout>One page of text, single column; a centred heading "XX." in the middle of the page; no margin notes; no page number or running head printed.</layout>
+    <page_number />
+    <running_head />
+    <bottom_margin>
+      <catchword />
+      <signature />
+    </bottom_margin>
+    <main_text>
+      <l n="1">peccato absolvitur &amp; justus pronunciatur. Alij tamen,ut</l>
+      <l n="2">Calvinus, Walæus &amp; alij aliter has partes enunciant, ita</l>
+      <l n="3">ut præponant <i>imputationem justitiæ</i> Christi <i>remissioni</i> pec-</l>
+      <l n="4">catorum, quia illa hujus sit causa, quemadmodū forma li-</l>
+      <l n="5">berationis captivi in applicatione lytri &amp; actuali libera-</l>
+      <l n="6">tione consistit, ita quoq; rem se hic habere: interim ta-</l>
+      <l n="7">men etiam statuunt hasce phrases idem sonare &amp; signifi-</l>
+      <l n="8">care, &amp; utramq; requiri ad nostri <i>justificationem.</i>
+      </l>
+      <l n="9" type="heading" level="2" para="true">XX.</l>
+      <l n="10" para="true">
+        <i>Imputationem</i> autem illam justitiæ Christi melius ex-</l>
+      <l n="11">primere non possumus, quàm verbis Catechismi nostri re-</l>
+      <l n="12">ligionis Christianæ, dum dicimus &amp; confitemur, quòd sit</l>
+      <l n="13">ea, <i>quâ mihi perfecta satisfactio, justitia &amp; sanctitas Christi</i>
+      </l>
+      <l n="14">
+        <i>imputatur ac donatur, perinde ac si nec ullum peccatum ad-</i>
+      </l>
+      <l n="15">
+        <i>misissem, nec ulla labes mihi inhæreret, imo quasi eam obe-</i>
+      </l>
+      <l n="16">
+        <i>dientiam, quam Christus pro me præstitit ipse perfectè præstitissem.</i>
+      </l>
+      <l n="17" para="true">Justificatio hæc per imputatam Christi justitiam fir-</l>
+      <l n="18">miter contra Pontif. tenenda, qui ubique suam inhæren-</l>
+      <l n="19">tem obtrudere volunt: Constanter certè illam Scriptu-</l>
+      <l n="20">ra asserit, <i>Rom. 4:3. 4. Credidit Abraham Deo &amp; imputatum</i>
+      </l>
+      <l n="21">
+        <i>est ei ad justitiam: atqui ei qui operatur merces non datur ex</i>
+      </l>
+      <l n="22">
+        <i>gratia, sed ex debito: ei verò qui non operatur, sed credit in</i>
+      </l>
+      <l n="23">
+        <i>eum, qui justificat impium, fides sua imputatur ad justitiam:</i>
+      </l>
+      <l n="24">hic habemus expressam phrasin, justitiam scil. imputatam,</l>
+      <l n="25">&amp; naturam ejus indicatam, imputatur absque operibus,</l>
+      <l n="26">sive non operanti: Sic <i>v. 25. traditus est Christus morti pro-</i>
+      </l>
+      <l n="27">
+        <i>pter offensas nostras, &amp; suscitatus ad nostri justificationem, 2.</i>
+      </l>
+      <l n="28">
+        <i>Cor. 5:21. fecit Deus, ut qui peccatum non norat, pro nobis pec-</i>
+      </l>
+      <l n="29">
+        <i>catum esset, ut nos essemus justitia Dei in illo:</i> eandem hic</l>
+      <l n="30">ponit rationem peccati seu injustitiæ nostræ in Christo,</l>
+      <l n="31">&amp; justitiæ Christi in nobis, quæ nulla est alia nisi per im-</l>
+      <l n="32">putationem. Sic <i>Rom. 5:18. Sicut per unius offensam morsregnavit.</i>
+      </l>
+    </main_text>
+    <notes />
+  </page>
+  <page type="text" lines="ocr" n="22" model="claude-haiku-5-5">
+    <warning type="catchword_in_text">catchword taken out of the main text: utram-</warning>
+    <layout>One page of text, single column; no margin notes; signature "C 3" at the foot centre-right.</layout>
+    <running_head />
+    <bottom_margin>
+      <signature>C 3</signature>
+      <catchword>utram-</catchword>
+    </bottom_margin>
+    <main_text>
+      <l n="1">
+        <i>gnavit in omnes ad condemnatione, ita per unius justitiam bene-</i>
+      </l>
+      <l n="2">
+        <i>ficium pervenit in omnes ad justificationem vitae</i>: sicut scil. tum</l>
+      <l n="3">cum peccavit Adam damnatum fuit universum genus hu-</l>
+      <l n="4">manum, sive factum reum inobedientiae in Deum, ita in</l>
+      <l n="5">Christo universa multitudo fidelium dicitur justificata,</l>
+      <l n="6">omnes in Christo justificati, quatenus Christi justitia</l>
+      <l n="7">nobis est communicata per gratiam, tam certo ac si ipsi</l>
+      <l n="8">praestitissemus quod non potuimus. Pontificij gratuitam</l>
+      <l n="9">hanc Christi justitiam sibi imputari nolunt, sed ju-</l>
+      <l n="10">sto justissimi hujus judicis judicio excaecati, hominum</l>
+      <l n="11">mortuorum, &amp; Monachorum mundo viventium, redun-</l>
+      <l n="12">dantem scil. ipsis &amp; supervacaneam justitiam pretio com-</l>
+      <l n="13">paratam sibi imputari malunt; viderint ipsi, qui gratiae</l>
+      <l n="14">&amp; vitae authorem aspernantur, ne mortis principi ejusq;</l>
+      <l n="15">mancipiis mancipentur.</l>
+      <l n="16" type="heading" level="1" caput="21" para="true">XXI.</l>
+      <l n="17" para="true">Justitia in Christo consideratur vel qua Deus est, vel</l>
+      <l n="18">qua Θεάνθρωπος: Illa est essentialis Dei justitia, increata,</l>
+      <l n="19">infinita, imo ipsa Deitas adeoq; Patri &amp; Spiritui S. quoq;</l>
+      <l n="20">communis: hac voluit Osiander nos justificari &amp; hanc</l>
+      <l n="21">infundi animis nostris, adeo ut Dei justitia fiat essen-</l>
+      <l n="22">tialiter nostra: sed haec sunt deliria, &amp; Deo &amp; Christo con-</l>
+      <l n="23">tumeliosa: si enim essentiali Dei justitiâ sumus justi, quid</l>
+      <l n="24">opus fuit Filium Dei incarnari, &amp; in assumpta humana</l>
+      <l n="25">natura pro peccatis nostris tanto labore satisfacere?</l>
+      <l n="26" para="true">Justitiam Θεάνθρωπος Theologi distinguunt in <i>activam</i>
+      </l>
+      <l n="27">
+        <i>&amp; passivam</i>: Illa est, qua Christus ita implevit legem Dei,</l>
+      <l n="28">ut per eam dicatur absque peccato fuisse, totamque</l>
+      <l n="29">composuisse vitam suam ad illam amussim, ut nec facto,</l>
+      <l n="30">nec cogitatione ab ea declinaverit: Haec est, qua Chri-</l>
+      <l n="31">stus maledictioni legis pro nobis satisfecit, &amp; <i>obediens fuit</i>
+      </l>
+      <l n="32">
+        <i>factus Patri ad mortem, mortem autem crucis</i>, Phil. 2:8. Hanc</l>
+    </main_text>
+    <notes>Greek words in the text (Θεάνθρωπος) are transcribed from the scan; the second occurrence is a faint reading. Catchword "utram-" treated as running text continuation at line end; the Greek lines are partly unclear.</notes>
+  </page>
+  <page type="text" lines="ocr" n="23" model="claude-haiku-5-5">
+    <layout>One page of text, single column; no margin notes, no running head, no page number visible.</layout>
+    <page_number />
+    <running_head />
+    <bottom_margin>
+  </bottom_margin>
+    <main_text>
+      <l n="1">utramq; justitiam nobis imputari statuimus; nec metuen-</l>
+      <l n="2">dum, ne nimis divites fimus in Christo, fi totam Christi</l>
+      <l n="3">justitiam nobis imputari dicimus: Non ergo hæc duo</l>
+      <l n="4">separanda cum quibusdam, quasi <i>illa</i> fuerit tantùm præ-</l>
+      <l n="5">paratio &amp; conditio requisita in mediatore, <i>hæc</i> verò de-</l>
+      <l n="6">mum verè satisfactoria, quæ nobis imputetur: nam hæc</l>
+      <l n="7">duo in Christi vita &amp; morte perpetuò fuerunt conjuncta,</l>
+      <l n="8">adeò ut inde Christi vita perpetua quædam passio vocari</l>
+      <l n="9">soleat; nec enim in Christi passione fuit tantùm <i>justitia</i>
+      </l>
+      <l n="10">
+        <i>passiva</i>, sed etiam suo respectu <i>activa</i>; <i>obedivit</i> enim <i>pa-</i>
+      </l>
+      <l n="11">
+        <i>tiendo</i>, &amp; <i>passus est obediendo</i>, &amp; non solùm fuit victima pa-</l>
+      <l n="12">tiens, sed etiam justus Dei servus &amp; sacerdos, qui <i>per spi-</i>
+      </l>
+      <l n="13">
+        <i>ritum æternum seipsum obtulit inculpatum Deo</i>, Heb. 9: 14. ideo-</l>
+      <l n="14">que quia in Christi passione, sanguinis effusione &amp; morte</l>
+      <l n="15">quasi colophon fuit justitiæ Christi tam <i>activæ</i>, quæ aliis</l>
+      <l n="16">etiam dicitur charitatis &amp; vitæ, Joh. 15: 13. Rom. 5: 6. 7. 8.</l>
+      <l n="17">quàm <i>passivæ</i>, Phil. 2: 8. propterea justificatio &amp; salus, pas-</l>
+      <l n="18">sioni &amp; morti, non exclusivè, sed synechdochicè &amp; κατ'</l>
+      <l n="19">ἐξοχὴν attribuitur. Id magis adhuc confirmatur, si atten-</l>
+      <l n="20">damus, illam justitiam Christi, per quam cōstituimur justi,</l>
+      <l n="21">dici obedientiam, Rom. 5: 18. 19. Sic Rom. 8: 3. constituitur ju-</l>
+      <l n="22">stificatio nostri in eo, quòd impletum fit jus legis <i>in nobis</i>,</l>
+      <l n="23">quod, lege viribus destituta per carnem, impleri non pote-</l>
+      <l n="24">rat.</l>
+      <l n="25" type="heading" level="2" para="true">XXII.</l>
+      <l n="26" para="true">
+        <i>Forma</i> justificationis <i>ex parte justificati</i>, est apprehensio</l>
+      <l n="27">justitiæ Christi per fidem; quæ non quatenus opus concur-</l>
+      <l n="28">rit, sed quatenus Christum cum toto suo merito apprehen-</l>
+      <l n="29">dit, credentiq; applicat: haud secus ac cum manu pauper</l>
+      <l n="30">eleemosynā à divite recipit; ea manus recipiens eleemo-</l>
+      <l n="31">synam non est ipsa eleemosyna, nec causa eleemosynæ,</l>
+      <l n="32">neq; propter ipsam, quasi sua pulchritudine id mereatur,</l>
+      <l n="33">datur eleemosyna, sed tantùm instrumentaliter &amp; relativè</l>
+      <l n="34">concurrit ad eam obtinendam: sed de his superius.</l>
+    </main_text>
+    <notes>Marginal reference marks in the text are not separately printed in the margins; the scan shows no margin notes. Some words are slightly blurred; "per" and "fuit" read with some doubt.</notes>
+  </page>
+  <page type="text" lines="ocr" n="24" model="claude-haiku-5-5">
+    <warning type="catchword_in_text">catchword taken out of the main text: Gomarus</warning>
+    <layout>One page of text in a single column; marginal reference "Joh.3:14" set in the left margin beside the first paragraph; no running head, no page number visible.</layout>
+    <main_text>
+      <l n="1" para="true">Notamus hic obiter cum Beza: Esse liberrimam Dei transactio-</l>
+      <l n="2">nem quod fides hanc habitudinem &amp; vim habeat, qua tanquam po-</l>
+      <l n="3">tentia quaedam supernaturalis in supernaturale suum obiectum fer-</l>
+      <l n="4">tur; ut liquet exemplo Israelitarum intuentium serpentem aeneum,</l>
+      <l n="5">quemadmodum visus, natura sua quidem apprehendere</l>
+      <l n="6">potuit serpentem ex vi in creatione oculis insita, sed per visum il-</l>
+      <l n="7">lum fanationem recipere non potuit, verum ex sola Dei sic transfi-</l>
+      <l n="8">gentis gratia: ita &amp; hic statuendum: fidei ex supernaturali &amp; divi-</l>
+      <l n="9">na gratia, hanc vim obiectum suum intuendi &amp; recipiendi inesse,</l>
+      <l n="10">sed quod hoc modo id intuens, justitiae Christi fiat particeps, id est</l>
+      <l n="11">ex promissione gratuita &amp; stipulatione, qua eam ut instrumentum</l>
+      <l n="12">justificationis constituere voluit.</l>
+      <l n="13" type="heading" level="2" para="true">XXIII.</l>
+      <l n="14" para="true">
+        <i>Justificationis finis</i> respectu Dei, est Dei solius <i>gloria</i>, imprimis <i>ju-</i>
+      </l>
+      <l n="15">
+        <i>stitiae &amp; misericordiae</i> suae, cujus utriusque singulare temperamentum hic</l>
+      <l n="16">elucet, <i>Rom.3: 24.26. justificantur gratis, ejus gratia ad ostensionem justitia-</i>
+      </l>
+      <l n="17">
+        <i>e ejus ut sit ipse justus. Eph.2:7. ut ostenderet in seculis supervenientibus exube-</i>
+      </l>
+      <l n="18">
+        <i>rantes divitias gratiae ejus in bonitate erga nos in Christo Jesu.</i> Respectu ho-</l>
+      <l n="19">minum, est <i>salus</i> &amp; vita aeterna; <i>justificati sanguine Christi servabimur</i>
+      </l>
+      <l n="20">
+        <i>ab ira; &amp; reportabimus finem fidei nostrae, salutem animarum, 1.Pet.1:9.</i>
+      </l>
+      <l n="21">
+        <i>illius gratia justificati, haeredes efficimur secundum spem vitae aeternae, Tit.3:7.</i>
+      </l>
+      <l n="22">Unde etiam patent illius <i>effectus</i>: ut sunt: <i>liberatio a peccato non tan-</i>
+      </l>
+      <l n="23">
+        <i>tum quoad reatum, sed etiam poenam, per quam nulla est condemnatio</i>
+      </l>
+      <l n="24">
+        <i>iis qui sunt in Christo Jesu, Rom.8:1. quis accusabit electos? v.33. adoptio</i>
+      </l>
+      <l n="25">
+        <i>in filios Dei: quotquot Christum exceperunt, dedit eis hoc jus ut filii Dei fie-</i>
+      </l>
+      <l n="26">
+        <i>rent, Joh.1:12. pax &amp; tranquillitas cum Deo; justificati pacem habemus cum</i>
+      </l>
+      <l n="27">
+        <i>Deo, Rom.5:1. aditus liber ad Deum; gloriatio in afflictionibus, Heb.4:16.</i>
+      </l>
+      <l n="28">
+        <i>Rom.5:3.</i>
+      </l>
+      <l n="29" type="heading" level="2" para="true">XXIV.</l>
+      <l n="30" para="true">Variae etiam ejus sunt <i>proprietates.</i> Est enim. 1. <i>Unica &amp; perfecta:</i>
+      </l>
+      <l n="31">Ex parte enim Dei unico &amp; individuo actu semel peragitur, nam</l>
+      <l n="32">cum Deus nobis remittit peccata &amp; justitiam Christi imputat, ita</l>
+      <l n="33">remittit, ut non unum jam, alterum postea, &amp; sic porro remittat,</l>
+      <l n="34">sed omnia simul &amp; semel, praeterita, praesentia, &amp; futura, <i>2.Cor.5:</i>
+      </l>
+      <l n="35">
+        <i>18.19.</i> licet sensus justificationis modo intendatur, modo remittatur:</l>
+      <l n="36">Rejicimus ergo duplicem Pontif. justificationem, <i>primam,</i> qua quis</l>
+      <l n="37">ex injusto fit justus, &amp; <i>secundam,</i> qua quis justior fit operum merito:</l>
+    </main_text>
+    <marginalia>
+      <note side="left" at="Notamus hic obiter" line_from="1" line_to="1">Joh.3:14.</note>
+    </marginalia>
+    <notes>Marginal note "Joh.3:14" reconstructed from the left margin; the signature "Gomarus" is set right-aligned and is treated as a closing name. Small italic and superscript numbers are partly uncertain.</notes>
+    <bottom_margin>
+      <catchword>Gomarus</catchword>
+    </bottom_margin>
+  </page>
+  <page type="text" lines="ocr" n="25" model="claude-haiku-5-5">
+    <layout>One page of text, one column, full width; no margin notes; below the text a closing line "Sit soli summo gloria summa Deo." and "FINIS" centred.</layout>
+    <page_number />
+    <running_head />
+    <bottom_margin>
+  </bottom_margin>
+    <main_text>
+      <l n="1">Gomarus quidem hac distinctione quoq; utitur, sed longe alio quàm</l>
+      <l n="2">Pontific. Ienius, per primam enim nihil aliud quàm justificationem,</l>
+      <l n="3">per secundam sanctificationem intelligit. Est 2. Æqualis omnium</l>
+      <l n="4">electorum tam V. quam N. Testamenti, eodem enim modo omnes</l>
+      <l n="5">justificantur, quo Abraham fuit justificatus, scilicet fide, &amp; <i>credimus</i>
+      </l>
+      <l n="6">
+        <i>nos per gratiam Domini nostri Jesu Christi eodem modo servatum iri, quem-</i>
+      </l>
+      <l n="7">
+        <i>admodum &amp; illos</i>, Act. 15:11. Est 3. <i>Immutabilis &amp; certa</i>, Rom. 8:29. <i>quos</i>
+      </l>
+      <l n="8">
+        <i>justificavit, eos etiam glorificavit.</i> 1. Joh. 3:9. <i>omnis qui ex Deo natus est non</i>
+      </l>
+      <l n="9">
+        <i>peccat, nec potest peccare, quia semen Dei in eo manet:</i> ubi non potest pec-</l>
+      <l n="10">care Apostolo idem est, ac non posse pervenire in regnum Sathanæ</l>
+      <l n="11">vel ab eo seduci, quod patet ex antithesi v. 8. <i>omnis qui peccatum fa-</i>
+      </l>
+      <l n="12">
+        <i>cit ex diabolo est. Virtutis Dei præsidio custodimur per fidem ad salutem,</i>
+      </l>
+      <l n="13">
+        <i>paratam revelari præstituto tempore,</i> 1. Pet. 1:5. <i>Christus novit oves suas nec</i>
+      </l>
+      <l n="14">
+        <i>quisquam rapiet eas e manu sua,</i> Joh. 10. hinc hujus pastoris potentia</l>
+      <l n="15">&amp; fidelitate freti in omnis generis adversitatibus cum gaudio exul-</l>
+      <l n="16">tant, dicentes, <i>Novi cui crediderim, &amp; quòd potens sit depositum meum</i>
+      </l>
+      <l n="17">
+        <i>servare integrum in diem adventus Domini nostri Jesu Christi,</i> 2. Tim. 1:12.</l>
+      <l n="18" para="true">Et hæc est vera &amp; Orthodoxa de justificatione nostri coram Deo</l>
+      <l n="19">articuli explicatio; quam &amp; Vetus ecclesia primitiva agnovit, quam</l>
+      <l n="20">etiam adhuc hodie Protestantes contra varios adversarios fortiter de-</l>
+      <l n="21">fendunt; qui illius veritatem ab ecclesia primitiva assertam &amp; in</l>
+      <l n="22">Conciliis &amp; Confessionibus publicis approbatâ &amp; defensam videre</l>
+      <l n="23">voluerit, adeat Catalogum testium veritatis, Harmoniam confessio-</l>
+      <l n="24">num, Syntagma &amp; corpus confessionum fidei, aliosq; authores. Ad-</l>
+      <l n="25">dam tantùm unicum testimonium ex Confess. Græcorum edita à</l>
+      <l n="26">Cyrillo Lucare Patriarcha Constantinopolitano: sic habetur autem</l>
+      <l n="27">
+        <i>cap.13. Credimus hominem justificari per fidem, non ex operibus: Quum autem</i>
+      </l>
+      <l n="28">
+        <i>dicimus per fidem, intelligimus fidei correlativum, quod est justitia Christi,</i>
+      </l>
+      <l n="29">
+        <i>quam fides apprehendit nobisq; applicat ad salutem: hoc autem optimè sine</i>
+      </l>
+      <l n="30">
+        <i>operum præjudicio stare posse cognoscimus: nam &amp; opera non esse negligenda,</i>
+      </l>
+      <l n="31">
+        <i>esseq; media necessaria &amp; fidei nostræ testimonia, ad vocationis nostræ confir-</i>
+      </l>
+      <l n="32">
+        <i>mationem, veritas ipsa nos docet: ipsa verò esse sufficientia per se hominem</i>
+      </l>
+      <l n="33">
+        <i>salvare, in tribunali Christi comparere posse, ut ex condigno salutem retri-</i>
+      </l>
+      <l n="34">
+        <i>buant, hoc esse falsum testatur humana fragilitas: at Christi justitia applica-</i>
+      </l>
+      <l n="35">
+        <i>ta resipiscentibus sola justificat atq; salvat fidelem.</i>
+      </l>
+      <l n="36" type="heading" level="2" para="true">Sit soli summo gloria summa Deo.</l>
+      <l n="37" para="true">FINIS</l>
+    </main_text>
+    <notes>Marginal notes: none visible. Italic passages are transcribed as printed; the text is in Latin with several Scripture references in the body.</notes>
+  </page>
+</book>

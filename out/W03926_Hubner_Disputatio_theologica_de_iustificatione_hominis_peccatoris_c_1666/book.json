@@ -1,0 +1,4244 @@
+{
+ "source": "W03926_Hubner_Disputatio_theologica_de_iustificatione_hominis_peccatoris_c_1666.pdf",
+ "pages": [
+  {
+   "n": 1,
+   "type": "empty",
+   "model": "claude-haiku-5-5",
+   "notes": "Digitiser's cover sheet of e-rara.ch (Visual Library, Universitätsbibliothek Bern), not a printed page of the book. It carries the e-rara logo, the platform descriptions in German, English, French and Italian, the terms-of-use notices and the persistent link. Per the rules it is left out. The title shown on it, \"Disputatio theologica de iustificatione hominis peccatoris coram Deo\", Hübner, Johann Rudolf, [Bernae], 1666, is the catalogue record of the digitised book, not text of its title page."
+  },
+  {
+   "n": 2,
+   "type": "title",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": null,
+     "text": "DISPUTATIO THEOLOGICA",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "De",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "JUSTIFICATIONE",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "HOMINIS PECCA-",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "TORIS CORAM",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "DEO,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Quam",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Christo, justitiâ nostrâ, favente,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "SUB PRÆSIDIO",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "<i>Reverendi, Clarissimi, Doctissimi Viri,</i>",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "DN. JOH. RODOLPHI HYBNERI,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "in Illustrissimæ Reipublicæ Bernensis Athenæo",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Professoris Theologi Eximij, Solidissimi,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Mecoenatis, Fautoris & Præcepto-",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "ris sui summâ observantiâ",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "colendi,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "<i>Publico & placido examini subjiciet</i>",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "NICOLAUS RÜTIMEIERUS, SS. Min. Cand.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "A. & Resp.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "<i>Ad diem 15. Martij, horis locoq; solitis.</i>",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Excudebat ILLUSTRISSIMÆ REIPUBLICÆ",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "BERNENNSIS TYPOGRAPHUS,",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "Georgius Sonnleitnerus.",
+     "heading": 0
+    },
+    {
+     "n": null,
+     "text": "M DC LXVI.",
+     "heading": 0
+    }
+   ],
+   "notes": "Woodcut ornament between the \"Ad diem\" line and the imprint, not transcribed. Ornamental \"Quam\" and \"De\" are script-style display type. Some italic words in the title block are set in italic; the letter \"s\" appears as long s and is rendered as s per rules. Spelling as printed: \"Reipublicæ\", \"Mecoenatis\", \"Præcepto-ris\", \"horis locoq;\" (locoq; reads as printed)."
+  },
+  {
+   "n": 3,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "Magnificis, Amplissimis, Prudentissimis, Consultissimisq;",
+     "heading": 1,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "Viris ac Dominis, Patriæ Patribus,",
+     "heading": 1
+    },
+    {
+     "n": 3,
+     "text": "<i>Dn.</i> JOH. JACOBO BUCHERO, Illustrissimæ ac Po-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "tentissimæ Reipubl. Bernensis, quoad ditionem Germani-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "cam, Quæstori Dignissimo, Gravissimo, ut legationibus plu-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "rimis summa cum laude peractis, ita imprimis nuperā ad Se-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "renissimum Galliarum Regem Claro, Mecoenati & Fautori",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "suo magno, Cognato, omnis obsequij humilimi genere ad aras",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "Colendo.",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "<i>Dn.</i> ABRAHAMO HENNIO, ejusdem laudatæ Reipubl.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 11,
+     "text": "Tribuno Dignissimo, Mecoenati, Patrono, Agnato & Benefa-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "ctori nunquàm satis demerendo.",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "<i>Dn.</i> SAMUELI FISCHERO, itidem apud Bernates Sena-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 14,
+     "text": "tori Prudentissimo, Fautori & Agnato Faventissimo, pluri-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "mùm Honorando.",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "Reverendis, Disertissimis, Celeberrimis Viris:",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 17,
+     "text": "<i>Dn.</i> Pastoribus & Professoribus Ecclesiæ & Scholæ Patriæ, adeoq; toti Venerando",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 18,
+     "text": "coetui Ecclesiastico, & præsertim hujus non infimo membro;",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "<i>Dn.</i> NICOLAO MOLITORI, in eadem Ecclesia Pastori, & Eloquiorum",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 20,
+     "text": "Dei Dispensatori Fidelissimo, Gravissimo, Avunculo, Fautori & Euergetæ",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "suo æternùm suspiciendo.",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "Reverendis, Consultissimis, Doctissimis Viris, Dominis:",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 23,
+     "text": "<i>Dn.</i> SALOMONI REGI, Illust. Reipubl. Bernensis Medico ordinario & ex-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 24,
+     "text": "perientissimo,",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "<i>Dn.</i> SAMUELI BUNDELINO, Comitatûs Wangensis Præfecto Di-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 26,
+     "text": "gnissimo.",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "<i>Dn.</i> DANIELI IM HOOFF, rarâ prudentiâ & defæcatâ eruditione Cla-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 28,
+     "text": "ro, Præfecto Grandissonensi Meritissimo.",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "<i>Dn.</i> BALTHASARO IM HOOFF, Ducentum-viro Spectatissimo, In-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 30,
+     "text": "tegerrimo.",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "Dominis Avunculis, Cognatis, Fautoribus & Amicis ætatem honorandis.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 32,
+     "text": "<i>In cultûs devotissimi testificationem, debiti amoris,</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 33,
+     "text": "<i>gratiâ animi indicium hocce exercitium sacrum quàm</i>",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "<i>officiosissimè D. D. C. O.</i>",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "NICOL. RÜTIMEIERUS, A. & R.",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "notes": "The Latin dedication is set in roman and italic; the printed \"Dn.\" abbreviations are italic in the original. Some lines are faint and damaged at the right edge; readings such as \"Grandissonensi\" and \"Ducentum-viro\" are uncertain and may need checking. The faint show-through at the foot is not transcribed."
+  },
+  {
+   "n": 4,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: gotio"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "DISPUTATIO THEOLOGICA",
+     "heading": 1,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "De JUSTIFICATIONE HOMINIS",
+     "heading": 1
+    },
+    {
+     "n": 3,
+     "text": "PECCATORIS CORAM",
+     "heading": 1
+    },
+    {
+     "n": 4,
+     "text": "DEO.",
+     "heading": 1
+    },
+    {
+     "n": 5,
+     "text": "THESIS I.",
+     "heading": 3,
+     "para": true
+    },
+    {
+     "n": 6,
+     "text": "PRÆCIPUUS ut facilè est justificatio-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 7,
+     "text": "nis articulus eorum, qui inter Nos &",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "Pontificios agitantur, ita rectè intelle-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "ctus quàm maximè illustrat & ampli-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "ficat honorem Christi, veram Dei ec-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "clesiam à Judæis, Paganis, ecclesia",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "Antichristi aliorumque hæreticorum separat,",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "in hocq; cardo salutis nostræ & solidæ consolationis",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "unicè vertitur: dignus igitur cognitione nostrâ:",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "cognoscemus autem illius præstantiam, si naturam ejus in",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "causis & annexis ex S. Scripturæ monumentis (imprimis",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "ex Epistola ad Romanos & Galatas ubi propria hujus loci",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "sedes est) Orthodoxorum Theologorum documentis,",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "Conciliorum & Confessionum publicarum constanti",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "harmonia consideremus: quô pensô breviter ex",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "demandato superiorum, bono cum Deo, defungemur.",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "II.",
+     "heading": 3,
+     "para": true
+    },
+    {
+     "n": 23,
+     "text": "Ordiamur ab ipsa voce: Vox <i>justificationis</i> in hoc ne-",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "catchword": "gotio",
+   "signature": "A 2",
+   "notes": "The large initial \"P\" is a woodcut letter, read as P with the rest of the word \"RÆCIPUUS\" (printed \"PRÆCIPUUS\"); \"PRÆCIPUUS\" set with a woodcut initial. Title lines set in capitals and larger type. The text is only partly legible at the catchword; \"gotio\" is the catchword continuing onto the next page. Some letters in the body are worn and read with some doubt."
+  },
+  {
+   "n": 5,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: inter-"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "gotio <i>sensu forensi</i> sumitur, & significat, <i>justum pronuncia-</i>",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "<i>re, absolvere reum a culpa reatu & poena, insontem declarare,</i>",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "<i>a peccatis immunem reputare</i>: Non enim putamus fieri",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "posse,ut verbum hoc <i>justificare</i> sensu & significatione Pon-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "tif. invenias, ut significet, ex <i>injusto</i> reddere & facere ali-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "quem <i>justum</i> per infusionem aliquam justitiae aut sancti-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "tatis: hunc enim sensum si adhibeas in iis Scripturae lo-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "cis, in quibus verbum hoc deprehenderis, sensus <i>vel</i> erit",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "impossibilis, <i>vel</i> absurdus, <i>vel</i> a vero alienus: deinde",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "cum haec vox no in Latio,sed in ecclesia nata sit,ad expri-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "mendam vocem Hebraeam הצדיק & Graecam <i>δικαίω</i>, ejus",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "significatio non ad Grammaticorum placita est vexanda,",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "nec ex etymo vocis, sed ex usu linguarum & S. Scriptu-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "rae idiotismo est exponenda.",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "III.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 16,
+     "text": "<i>Hebraeum</i> ergo הצדיק ex proprietate & usu linguae He-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 17,
+     "text": "braeae proprie & semper notat <i>forensem</i> actionem, judicis",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "scilicet absolventis reum, oppositae ad condemnantis,",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "<i>Deut. 25:1. Prov. 17:15.</i> imprimis vero & speciatim illo sen-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "su sumitur, cum agitur de judicio Dei absolventis pecca-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "torem, <i>Psal. 143:2.</i> Similiter in <i>Graeca</i> lingua <i>δικαίω</i> fo-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "rense vocabulum est: ex multis unicum tantum, eumque",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "manifestissimum & maxime praegnantem adducamus lo-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "cum, <i>Rom. 8:33.</i> Quis intentabit crimina adversus electos?",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "Deus est qui justificat; quis est qui condemnet? Christus est",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "qui mortuus est, &c. Hic habemus primum disertam effi-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "giem <i>tribunalis</i>: deinde, <i>reum, accusatorem, advocatum,</i>",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "<i>judicem</i>: opponitur quoq; hic, ut & alibi, <i>justificatio con-</i>",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "<i>demnationi</i>, quae oppositio si legitima est & justificatio sit",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "infusio justitiae, tum condemnationem oportebit esse in-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "fusionem injustitiae; quod quam sit absurdum nemo non",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "videt: adhaec, opponit <i>condemnationem</i> Christi <i>passioni &</i>",
+     "heading": 0
+    }
+   ],
+   "catchword": "inter-",
+   "notes": "Greek and Hebrew words are rendered as closely as possible; the Hebrew word הצדיק and the Greek δικαίω are approximations of the printed forms. The line \"ejus significatio\" and some italic words are uncertain. The printed \"Deut.\" and \"Prov.\" references are given as printed. The page ends mid-word \"inter-\" continuing on the next page."
+  },
+  {
+   "n": 6,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "<i>intercessioni</i>, manifeste innuens causam cur non simus",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "condemnandi, esse <i>mortem Christi</i> & ejus <i>intercessionem</i>; at-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "qui haec utraq; ad imputationem facit, nihil ad infusio-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "nem; quia & <i>mors</i> significat datas poenas pro nobis, quod",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "sine imputatione consistere non potest: & <i>intercessio</i> de-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "notat gratiam, qua Christus potens est apud Patre, ut eum",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "judicem nostrum moveat, ne condemnet, at haec gratia",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "non est inhaerens nobis, sed ipsi Christo.",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "Adde insuper, quod ea quae tanquam aequipollentia su-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 10,
+     "text": "muntur pro <i>justificatione</i> itidem sunt <i>judicialia</i>, ut sunt,",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "<i>peccata remittere</i>, <i>Psal. 32: 1. Rom. 4: 7. Joh. 20: 23. Matth. 9:</i>",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "<i>2. peccata solvere</i>, <i>Matth. 16: 19. & 18: 18. condonare pecca-</i>",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "<i>ta</i>, <i>2. Cor. 5: 19. delere chirographum</i>, <i>Col. 2: 14.</i> Vocabuli",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "igitur <i>justificationis</i> significatio <i>forensis</i> est, actum judicia-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "lem denotans, non vero infusionem justitiae alicujus inhae-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "rentis.",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "IV.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 18,
+     "text": "At <i>dices</i>: nemo potest justificari, nisi is, qui eum ju-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 19,
+     "text": "stum pronunciat, etiam faciat justum inhaerenter: sed",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "<i>notandum</i>, nos non negare etiam fieri & esse <i>justum</i>, quem",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "Deus pronunciat <i>justum</i>. Deus enim dum imputat ali-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "cui <i>justitiam</i> eo ipso facto constituit eum ex imputatione",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "<i>justum</i> in conspectu suo, unde paulatim sanctificatur in-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "novatus per Spiritum S. Nam Deus nos non ideo a pec-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "catis absolvit, ut deinceps peccare pergamus, sed e con-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "trario, ut nunc spiritu viventes ad spiritualis & perennis",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "illius vitae, nobis per imputatam illam Christi <i>justitiam</i>",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "donatae, fruitionem sic perveniamus: mittit enim in vere",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "credentium corda S. sui Spiritus <i>ἐνέργειαν</i>, quae <i>tum</i> men-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "tem nostram illustrat, <i>tum</i> voluntatem & affectus nostros",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "ita sensim immutat, & corruptionem illam nobis inna-",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "tam usque adeo emendat, ut & malum odisse & bonum",
+     "heading": 0
+    }
+   ],
+   "catchword": "sectari",
+   "signature": "A 3",
+   "notes": "Page is a single column; the heading \"IV.\" is set centred and is treated as a heading. Greek word \"ἐνέργειαν\" is printed as ἐνέργειαν in the scan as \"ἐνέργειαν\"-like form; read as printed with doubt. Scan shows show-through at the top-left edge only."
+  },
+  {
+   "n": 7,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: Deus"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "sectari & ex sanctæ ipsius legis præscripto vivere inci-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "piamus.",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "V.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "<i>Justificatio</i> dicitur à <i>justitia</i>, quæ est vel <i>persona</i>, vel",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 5,
+     "text": "<i>causa</i>: illa iterum est vel <i>legalis</i>, quæ est inhærens recti-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "tudo, integritas & sanctimonia omnibus numeris absolu-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "ta; hæc erat in primo homine, est in Christo & beatis an-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "gelis, eritq; in hominibus plenè sanctificatis: vel <i>Evan-</i>",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "<i>gelica</i>, quæ est remissio peccatorum & imputatio justitiæ",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "Christi per fidem apprehensæ, juxta quam solam in ju-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "dicio Dei consistere possumus, <i>Rom. 5: 1. 9.</i> Hinc duplex",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "quoq; <i>justificatio</i> à Theologis solet constitui; <i>Una legalis</i>,",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "qua homo per inhærentem justitiam est justus: Verùm",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "cùm nulla caro ex operibus legis justificabitur, hæc <i>lega-</i>",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "<i>lis</i> plané redditur nulla, & est impossibilis post lapsum,",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "non <i>vitio legis</i>, sed propter <i>infirmitatem carnis</i>: Hinc re-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "jicimus ut Pelagianorum errorem, volentium hominem",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "suis viribus Dei legem ipsi propositam perfectè in hac",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "vita posse implere; ita & Semipelagianorum, qui conten-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "dunt hominem renatum posse implere hïc perfectè le-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "gem, non suis tamen, sed Spiritûs S. viribus.",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "<i>Altera Evangelica</i>, de qua proprie hic agimus.",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 23,
+     "text": "VI.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 24,
+     "text": "<i>Est hæc actio Dei gratuita, quâ, propter Christum imputa-</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 25,
+     "text": "<i>tum, solâ & verâ fide apprehensum, electos à peccato & morte</i>",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "<i>absolvit & justos reputat ad vitam æternam</i>: totidem ferè",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "verbis habetur, <i>Rom. 3: 22. 24. Justitia Dei per fidem Jesu</i>",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "<i>Christi in omnes & super omnes qui credunt, ut qui justificen-</i>",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "<i>tur gratis per redemptionem factam in Christo Jesu.</i>",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "VII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 31,
+     "text": "Est igitur <i>actio solius Dei</i>, quæ non concipienda,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 32,
+     "text": "ut immanens, prout tale quid est decretum, quo scilicet",
+     "heading": 0
+    }
+   ],
+   "catchword": "Deus",
+   "notes": "Printed page signature/catchword \"Deus\" appears at lower right as catchword. Greek and marginal references are as printed; Roman numerals V, VI, VII set as centred section headings."
+  },
+  {
+   "n": 8,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: gratuitus"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "Deus statuerit nobis non imputare peccata propter",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "Christum, talis enim actio Dei quidem efficit <i>decre-</i>",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "<i>tum de justificatione</i>, sed non ipsam <i>justificationem</i>, quae",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "duo differunt, <i>illud</i> enim ab aeterno est, <i>hoc</i> fit in tem-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "pore, <i>Gal. 3: 8.</i> aliud ergo est decretum seu praevisio justi-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "ficationis, aliud ipsa justificatio, quae concipitur ut actio",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "transiens, qua Deus hominem actu & in tempore ubi cre-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "dit justificat & absolvit: Est <i>actio Dei</i>; & quidem Dei",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "<i>ϑεοδῶς</i> consideratí, qui solus est judex vitae & necis: <i>Ego</i>",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "<i>sum, qui deleo defectiones tuas, & qui peccatorum tuorum non</i>",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "<i>recordor</i>, <i>Esai. 43: 12. Rom. 3: 26.</i> hinc illa Judaeorum con-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "sessio, <i>Marc. 2: 7. quis potest remittere peccata, nisi solus Deus.</i>",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "Sic <i>Rom. 4: 5. Gal. 3: 8.</i> Etsi autem haec actio, ut opus ad",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "extra, sit omnibus personis S.S. Trinitatis communis, ta-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "men propter divinarum personarum variam oeconomiam",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "aliter atque aliter concipitur. <i>Pater</i> enim, qui judicis par-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "tes agit, <i>justificat</i> ut judex nos absolvendo & justos pro-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "nunciando, <i>Rom. 8: 33. Filius</i>, qui sponsoris & advocati par-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "tibus fungitur, justificat tum merendo & justitiam impu-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "tando, & causam nostram, ut advocatus circa clientem,",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "apud Patrem agendo, dicendo Patri, <i>redime eum, ne de-</i>",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "<i>scendat in foveam, ego lytrum inveni</i>, <i>Job. 33: 24. Rom. 8: 34.</i>",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "<i>Spiritus S.</i> qui cancellarij coelestis quasi partes obit, imo",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "& arrhabonis & obsidis, hoc diploma in cordibus nostris",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "confirmat & obsignat, ingeminans & clamans in cordi-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "bus nostris: <i>Confide fili, remissa sunt tibi peccata</i>, <i>Matt. 9: 2.</i>",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "<i>Rom. 8: 16. Gal. 4: 6.</i>",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "VIII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 29,
+     "text": "<i>Causam</i>, quae Deum ad justificandum nos commovit",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 30,
+     "text": "facimus duplicem: INTERNAM & EXTERNAM.",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "INTERNA est sola & mera justificantis <i>gratia</i>, <i>favor</i>",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "catchword": "gratuitus"
+  },
+  {
+   "n": 9,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: sti nos"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "gratuitus, amor & benevolentia : Per <i>gratiam</i> autem non",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "intelligimus donum aliquod nobis inhærens, quod aliis",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "charitas est, aliis aliquod donum spirituale essentiæ ani-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "mæ infusum, ex quo charitas & spes fluat, quodq; ideo",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "vocetur gratia, quòd ex gratia detur : concedimus qui-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "dem ejusmodi donum aliquod nobis communicari, quan-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "do justificamur & vocari posse gratiam, sed negamus",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "quando de justificatione agitur sic vocem gratiæ sumen-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "dam esse: sed per illam intelligimus gratuitum Dei favo-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "rem, misericordiam & benevolentiam: Eâ enim <i>sive</i> præ-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "destinationem nostri in adoptionem filiorum Dei, <i>sive</i> or-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "dinationem Filij aliorumq; mediorum ad perfectionem",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "hujus gratiosi operis, <i>sive</i> applicationem beneficij à Filio",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "nobis parti spectes, nullam aliam superiorem causam in",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "salutis nostræ negotio agnoscimus, sed justitiæ nostræ",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "omne fundamentum extra nos in principalis Dei agentis",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "gratia collocamus: Hinc dicimur <i>justificari gratis, ejus gra-</i>",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "<i>tia</i>, <i>Rom. 3: 24. per ejus gratiam justificati hæredes efficimur</i>",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "<i>secundum spem vitæ æternæ</i>, <i>Tit. 3: 7.</i> hinc etiam Scriptura",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "cum de salutis nostræ ratione agit, hanc gratiam <i>gratis</i>",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "<i>dantem</i>, à donis salvandis <i>gratis datis</i> distinguens, illi cau-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "sam salutis adscribit in solidum, <i>Eph. 2: 8. Gratiâ servati</i>",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "<i>estis per fidem ( & hoc non ex vobis, Dei donum est ) non ex</i>",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "<i>operibus, ne quis glorietur</i>, sic <i>2. Tim. 1: 9. Tit. 3. 5.</i>",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "IX.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 26,
+     "text": "EXTERNA est satisfactio & meritum Christi, <i>Rom. 3:</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 27,
+     "text": "<i>24. 25. ut qui justificentur gratis ejus gratiâ, per redemptionem</i>",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "<i>factam in Jesu Christo, quem proposuit Deus placamentum per</i>",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "<i>fidem in sanguine ejus</i>, <i>Rom. 5: 9. justificati ejus sanguine.</i>",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "Adeò ut cùm ex sola Dei gratia & misericordia nos ju-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "stificari dicimus, non excludamus tamen <i>ἀντίλυτρον</i> Filij",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "Dei: non enim pugnant hæc duo, gratia & merito Chri-",
+     "heading": 0
+    }
+   ],
+   "catchword": "sti nos",
+   "notes": "Greek word \"ἀντίλυτρον\" in the text is printed in Greek letters, copied as best read. Some words in the italic passages are uncertain due to scan quality."
+  },
+  {
+   "n": 10,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "fti nos justificari, sed Christi meritum subordinatur gra-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "tiæ & dependet ab ea, quia eadem est gratia, quæ Chri-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "stum ordinavit, ut esset propitiatio per meritum suum, &",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "quæ illud nobis in justificatione applicat gratuitò: adeò",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "ut quà iram Dei placatam per Filium respicimus, habea-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "mus meritum scilicet Christi pro nobis, gratiam tamen",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "etiam, quà Deus illud nobis gratis donat & imputat:",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "Christum igitur cum sua justitia consideramus ut causam",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "meritoriam nostræ justificationis: nam cùm Deus nō tan-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "tùmsit misericors, sed etiam justus, non potuit nos justifi-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "care, nili per omnia, sive per nos, sive pro nobis per alium",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "justitiæ legis & pœnæ, violationi ejus debitæ factum fue-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "rit satis: at quid pro nobis satisfacere potuit illi justitiæ,",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "præter solam Christi justitiam & obedientiam? allega-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "bit quis justitiam politicam? imò ne hilum juvat, <i>Matt.</i>",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "<i>5: 20. nisi abundaverit justitia vestra plus quàm Scribarum &</i>",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "<i>Pharisæorum, non potestis introire in regnum cœlorum</i>: quid",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "igitur? an bona opera id præstabunt? at id fieri nequit,",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "quia omnium hominum opera deficiunt & manca sunt,",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "si ad justitiam legis comparentur: dicemus quòd id præ-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "stet sanctificatio nostra, per quam renovati sumus ad ima-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "ginem Dei in justitia & sanctitate vera? verùm & hæc est",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "imperfecta, nec respondet <i>δικαιώματα</i> legis; <i>omnes enim</i>",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "<i>nostræ justitiæ sunt sicut panniculus abjectissimus, Esai. 64: 10.</i>",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "Conscientiam habere puram in conspectu Dei, præcipua",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "sanè pars est <i>justitiæ interna</i>, nec tamen veretur Paulus de",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "seipso dicere, <i>1. Cor. 4: 4. nullius rei mihi conscius sum, per</i>",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "<i>hoc tamen non justificatus sum</i>: Proinde causa alia nulla est,",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "quæ posset nobis impetrare absolutionem aut acceptatio-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "nem præter solam Christi justitiam & meritum: Cōsidere-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "mus quæso, nos aliquando debere sisti coram Dei tribu-",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "nali, ut ibi judicemur conformiter justitiæ ejus, tunc enim",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "necesse",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "B",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "notes": "Greek word δικαιώματα is printed in Greek letters, rendered approximately. Signature \"B\" and catchword \"necesse\" are at the foot."
+  },
+  {
+   "n": 11,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: fideratio-"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "necesse est nos producere quippiam, quod respondeat",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "justitiæ Dei, ut non acceptemur tantum ex misericordia,",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "sed etiam approbemur ex justitia: quomodo autem ap-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "probaremur, <i>nisi facta essent propitiatio per sacrificium, quod</i>",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "<i>pro nobis oblatum est? sanguis innocens fusus delevit omnia</i>",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "<i>delicta nocentium, pretium tantum datum redemit captivos de</i>",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "<i>manu captivantis inimici</i>, <i>Augusti in Psal. 130.</i>",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "X.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 9,
+     "text": "Hanc Christi satisfactionem & meritum ut admirari",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 10,
+     "text": "& debitas Deo pro ea solvere grates, ita & eandem con-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "tra Pontificios eam mutilantes, imprimis vero contra im-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "puram Socinianorum hæresin defendere & propugnare",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "nos oportet: quâ non tantum ejus veritatem, sed & neces-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "sitatem negare satagunt, statuentes nec vere & proprie",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "Christum satisfecisse, sed redemisse nos <i>metaphorico quo-</i>",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "<i>dam</i> (si Diis placet) <i>sensu</i>, quatenus scilicet, salutis æter-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "næ viam nobis indicarit, doctrinamq; suam, vitæ sancti-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "tate, morte suâ & resurrectione confirmarit, &c. cùm",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "tamen Scriptura diserte doceat, eum nos redemisse &",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "pro nobis satisfecisse per interpositionem pretij, <i>san-</i>",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "<i>guinis</i> scilicet sui, <i>1. Pet. 1:18. vita & anima suæ in λύτρον</i>",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "<i>ἀντὶ πολλῶν, Marc. 10:45. Joh. 10:11.</i> quæ & similes Scriptu-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "ræ phrases, non <i>metaphoricam tantum substitutionem</i> desi-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "gnant: Statuunt insuper impuri isti hæretici, nec neces-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "sariam fuisse illam Christi satisfactionem, eò quòd Deus",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "absq; ulla satisfactione posset remittere peccatum, non",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "enim credendum, ajunt, justitiam vindicativam ita esse",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "Deo essentialem, quæ posito peccato requirat necessariò",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "ejusdem punitionem; imò alio modo nos potuisse redi-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "mi, quàm per satisfactionem Christi: Verùm hocce frivo-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "lum & ἀπόλογον commentum refutatur vel unicâ hac con-",
+     "heading": 0
+    }
+   ],
+   "catchword": "fideratio-",
+   "notes": "Page ends mid-word \"confideratio-\" (continues on next page). Greek in the sentence \"λύτρον ἀντὶ πολλῶν\" and \"ἀπόλογον\" transcribed as printed, accents uncertain. Stray \"Augusti\" read as printed \"Augustin.\" abbreviated; the printed form is \"Augusti.\" with a superscript mark; treat as doubtful."
+  },
+  {
+   "n": 12,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: sarij,"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "sideratione: vix imo plane non concipi potest, quomo-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "do Deus Filium suum dilectissimum, unicum, principem",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "gloriae, tam diris, servilibus & ignominiosissimis poenis",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "& suppliciis exponere voluisset, si sine morte & satisfa-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "ctione nobis potuisset elargiri veniam & remissionem pec-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "catorum, aut si aliter redemptionis nostrae opus potuis-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "set peragi; imo posito non concesso, potuisse Deum pro",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "infinita sua sapientia alium redemptionis modum inve-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "nire, nondum tamen constabit, an ille futurus fuisset sa-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "tisfactionis expers, nec ne.",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "XI.",
+     "heading": 1,
+     "caput": "11",
+     "para": true
+    },
+    {
+     "n": 12,
+     "text": "<i>Causae instrumentales</i> sunt vel <i>externae</i>, <i>verbum</i> scilicet",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 13,
+     "text": "<i>Evangelij</i>, quod <i>est potentia Dei ad salutem cuivis credenti</i>,",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "<i>Rom. 1: 16. Sacramenta</i>, quae sunt veluti <i>signa & sigilla justi-</i>",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "<i>tiae fidei</i>, <i>Rom. 4: 11. 13. 1. Pet. 3: 21.</i> & <i>utrorum{ } ministerium</i>;",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "dumnempe ministri annunciando verbum Evangelij in-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "strumentaliter eodem modo solvunt, servant & justifi-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "cant recte institutos & dociles, quo ligant & condem-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "nant contumaces, <i>Dan. 12: v. 3. 1. Tim. 4: 16. Matth. 18: 18.</i>",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "Vel <i>interna</i>, quae est <i>fides</i>; quatenus scilicet hoc solum",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "instrumentum est analogum & determinatum ad perci-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "piendum illud Dei beneficium: est vero haec <i>fides</i>, non",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "ea quae est communis reprobis, qua tantum commu-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "niter Dei voluntatem de salute & mediis ad eam novi-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "mus, sed quae electorum est propria, qua etiam Christum",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "in verbo cum omnibus suis beneficiis oblatum, & ex eo",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "cognitum, firma fiducia apprehendimus nobisque; appli-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "camus: de fide autem ut pluribus hic agamus nihil atti-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "net: sufficit indicasse, quomodo se habeat ad <i>justificatio-</i>",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "<i>nem</i>, & quomodo dicamur <i>sola fide justificari.</i>",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "XII.",
+     "heading": 1,
+     "caput": "12",
+     "para": true
+    },
+    {
+     "n": 32,
+     "text": "Fide nos justificari certum est, nec diffitentur adver-",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "catchword": "sarij,",
+   "notes": "Marginal text: none. Signature \"B 2\" at foot. Printed Greek or Hebrew: none. The \"{ }\" in \"utrorum{ }\" marks an illegible abbreviation mark over the m; the word is printed \"utrorumq;\" with a superscript sign."
+  },
+  {
+   "n": 13,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: plicatur:"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "sarij, & toties Scriptura illud nnuit, quoties pronunciat",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "credentes in Christum justificari, <i>Act. 13. vers. 39. fide homi-</i>",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "<i>nem justificari, Rom. 3. vers. 28. per fidem nos justificari, Gal.</i>",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "<i>2: 16. fidem imputari ad justitiam, Rom. 4: 5. 9. Deum ju-</i>",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "<i>stificare eum, qui est ex fide Jesu, Rom. 3. v. 26. prævidisse</i>",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "<i>Scripturam Deum ex fide justificaturum gentes, Gal. 3. vers. 8.</i>",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "quibus modus & medium <i>justificationis</i> indigitatur, quòd",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "scilicet fides fit illud medium & organum, quo benefi-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "cia Christi in Evangelio oblata apprehendimus, nobisq;",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "applicamus: Adeò ut hîc non sint audiendi Pontificij,",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "qui volunt fidem justificare ut est præparatio, initium &",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "radix ad <i>justificationem</i>, post quam timor, spes, & aliæ vir-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "tutes, <i>Concil. Trid. sess. 6. can. 9.</i> Nam cum nullas præpa-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "rationes ejusmodi Scriptura agnoscat, manifestum est",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "ne quidem eas justificare: quis enim nescit longè aliud",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "esse præparare quàm efficere, differunt enim ut poten-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "tia & actus, fides verò cùm se habeat ut actus & verè ju-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "stificet, necesse est fidem non esse præparationem: Nec",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "etiam admittimus Remonstrantium opinionem, quâ fi-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "dem ipsam nobis ad justitiam imputari volunt: quia enim",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "in legis fœdere homo propter carnis impotentiam servari",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "non poterat, volunt, Deum aliud fœdus Evangelicum",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "scil. cum hominibus inivisse, quo obedientia fidei exi-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "gatur, & proinde illam fidem tanquam partem obedien-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "tiæ debitæ, nobis imputari ad justitiam: sed cùm Scri-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "ptura soli Christi merito perfectam satisfactionem & so-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "lutionem tribuat, non potest fides nostra illius pretij pars",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "aliqua esse.",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "XIII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 30,
+     "text": "Nos ergò fidem hîc consideramus, ut jam dictum,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 31,
+     "text": "ut medium apprehensionis & instrumentum, per quod",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "Christi meritum apprehenditur, ejusq; justitia nobis ap-",
+     "heading": 0
+    }
+   ],
+   "catchword": "plicatur:"
+  },
+  {
+   "n": 14,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: meritum"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "plicatur : & hoc modo fides & quidem sola justificat:",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "nullum enim aliud instrumentum vel ex tota Scriptura,",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "vel ex tota rei natura monstrari potest : non certe cha-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "ritate aut bonis operibus haec accipiuntur, sed solam fi-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "dem Deus ad hoc ordinavit. Particula <i>sola</i> licet ἀνταφος",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "sit & haeretica ab adversariis proclametur, non nuper ta-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "men excogitata, sed ab Orthodoxa antiquitate usurpata",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "firmum in Scriptura habet fundamentum: Paulus certe",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "particulis exclusivis non minus significantibus utitur in",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "hoc articulo, <i>Rom. 3: 21. absq; lege manifestata est justitia</i>",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "<i>Dei. Gal. 2: 16. Scientes quod non justificetur homo ex operibus</i>",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "<i>legis, nisi per fidem Jesu Christi: & nos in Christum credimus,</i>",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "<i>ut justificaremur ex fide Christi & non ex operibus legis, propterea</i>",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "<i>quod ex operibus legis nulla caro justificabitur, Rom. 4: 6. David</i>",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "<i>pronuntiat beatum eum cui Deus imputat justitiam absq; operi-</i>",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "<i>bus. Tit. 3: 5. non ex operibus justitia, sed ex sua misericordia ser-</i>",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "<i>vavit nos. Rom. 3: 28. Colligimus igitur fide justificari hominem</i>",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "<i>absq; operibus legis.</i> Has voculas aequipollentes ex Pauli E-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "pistolis tollant, qui exclusivam hanc, <i>sola fide</i>, hactenus",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "usurpatam, ferre nolunt: Adde quod Scriptura solam fi-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "dem nonnunquam nominet, <i>Marc. 5: 36. noli timere, so-</i>",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "<i>lum crede, Luc. 8: 50. tantum crede & salvabitur.</i> Ubi licet",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "agatur de impetratione sanitatis corporeae, sufficit ut o-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "stendat locus <i>fide sola</i> promissiones accipi: Hinc etiam",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "Scriptura saepe nihil nominat praeter fidem, quum a Deo",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "tum alia beneficia, tum imprimis hoc, hominibus conse-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "runtur, <i>Matth. 15: 28. Luc. 7: 50. Rom. 1: 17. Rom. 3: 28, & ali-</i>",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "<i>bi passim.</i>",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "XIV.",
+     "heading": 1,
+     "caput": "14",
+     "para": true
+    },
+    {
+     "n": 30,
+     "text": "Sola fide nos justificari cum dicimus, non excludi-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 31,
+     "text": "mus causas extra nos, scil. gratiam Dei & meritum Chri-",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "sti, sed includimus & statuimus, nos gratia Dei, propter",
+     "heading": 0
+    }
+   ],
+   "catchword": "meritum",
+   "signature": "B 3"
+  },
+  {
+   "n": 15,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: stificari"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "meritum Christi fide apprehensum justificari: excludimus",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "autem omnia opera nostra etiam optima sive ante fidem,",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "sive post fidem facta, eaq; censemus quàm alienissima à",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "nostræ <i>justificationis</i> actu; idq; ex mente Apostoli, <i>Rom. 3:</i>",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "<i>24. gratis ejus gratiâ justificamur. Gal. 2: 16. non ex operibus</i>",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "<i>legis justificabitur homo: justitia non est ex lege, sed ex fide:</i>",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "<i>Si enim per legem justitia; ergo Christus gratis mortuus est:</i>",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "<i>si ex lege hereditas; ergo non ex promissione; evacuati estis,</i>",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "<i>qui in lege justificamini, ex gratia excidistis, exinanita est fi-</i>",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "<i>des, abolita est promissio:</i> sic disputat Paulus, <i>Gal. 2. & 3.</i> ubi",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "probè notandum, eos, contra quos Apostolus hîc dispu-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "tat, non fuisse simpliciter Judæos, sed tales qui Christum",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "professi, legem cum Evangelio, vires humanas cum gra-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "tia, opera cum fide in justificationis negotio conjun-",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "gerent, omninò prout hodierni Semipelagiani; hoc",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "clamat Paulus indignum Christo, quia ex fide non ex",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "operibus legis constat nostra justificatio, & ne opera qui-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "dem legis cum fide quenquam justificare; si enim de",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "operibus sine fide loqueretur, discederet à causa Galata-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "rum qui fidem nullo modo excludebant. Adhæc in hoc",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "negotio debet abesse omnis nostra gloriatio & exclusa",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "manere: at si justificatio constaret ex operibus, homi-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "nes jactare possent studium suum & industriam, cùm au-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "tem justificemur gratis ex fide nihil loci relictum est glo-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "riationi: itaq; Paulus ait, <i>Rom. 3: 27. ubi igitur est gloria-</i>",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "<i>tio? exclusa est: per quam legem? operum? non, imò per le-</i>",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "<i>gem fidei:</i> & concludit: <i>colligimus igitur fide justificari</i>",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "<i>hominem absq; operibus legis:</i> Præterea jam imperfectionem",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "operum etiam præstantissimorum enarrare, notum quip-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "pe, etiam sanctissimos suos habere nævos, & nos <i>omnes</i>",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "<i>in multis impignere, Jac. 3: 2. justum etiam de die septies ca-</i>",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "<i>dere:</i> & proinde nos nostris imperfectis operibus non ju-",
+     "heading": 0
+    }
+   ],
+   "catchword": "stificari",
+   "notes": "Marginal notes: none visible. Page ends mid-sentence (\"non justificari\" continues on next page). Some words in italics with Latin references; \"Gal. 2. & 3.\" and \"Rom. 3: 24.\" transcribed as printed. Possible doubtful readings: \"Semipelagiani\" and \"impignere\" as printed."
+  },
+  {
+   "n": 16,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: themata."
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "stificari patet: Observandum tamen nos non omnino ex-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "cludere opera a justificatione, excludimus quidem ea a com-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "municatione efficientia, sed non ab actu praesentia: & verum",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "est illud Theologorem, sola fides justificat, sed tamen non",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "solitaria sive separata a charitate, verum viva & efficax per",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "charitatem, & vero charitas a vera fide est inseparabilis.",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "XV.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 8,
+     "text": "Fidei actus, quo circa justificationem occupata est,",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 9,
+     "text": "eamq; quantum in se est absolvit, triplex concipi potest:",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "1. <i>Dispositivus</i>, quo credo juxta Evangelium, Christum",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 11,
+     "text": "meritum esse remissionem peccatorum electis in se credi-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "turis, adeoq; & mihi si credam, cum quo actu simul est",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "agnitio miseriae, famis & sitis justitiae, <i>Matth. 5: 6.</i> dicitur",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "<i>dispositivus</i>, non sensu Pontif. quod nos disponat ad <i>justifica-</i>",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "<i>tionem</i>: sed talis dicitur respectu aliorum actuum fidei,",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "qui sequuntur & coplent justificationem nostram. 2.",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "<i>Justificatorius formaliter</i>, quo exeo ex me ipso, recumbens in",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "Deum per Christum, quem apprehendo cum omnibus",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "ejus meritis & beneficiis ad remissionem omnium meo-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "rum peccatorum, praeteritorum, praesentium, & futuro-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "rum, & ad imputationem perfectae ipsius obedientiae &",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "justitiae, ad acquirendum inde jus vitae aeternae. 3. <i>Conso-</i>",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "<i>latorius</i>, quo percipio sensum justificationis & remissionis",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "peccatorum, & quo jam certus sum, mihi in individuo es-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "se remissa peccata, ut non amplius subsim condemnatio-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "ni, <i>Rom. 8: 1.</i> ex quo sensu me etiam consolor in futurum",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "contra lapsus & tentationes omnes. <i>Primus actus</i> se ha-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "bet ad justificationem antecedenter, <i>secundus</i>, simultaneè,",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "<i>tertius</i> consequenter, qui enim duos priores habet,",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "consequetur certò etiam tertium.",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "XVI.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 32,
+     "text": "Hic directè Pontif. contra nos militant, & tot ana-",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "catchword": "themata."
+  },
+  {
+   "n": 17,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: certè"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "themata in hanc nostram sententiam <i>de sola fide</i> sul-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "minant, <i>Concil. Trid. sess 6. can. 3. seq.</i> quot vix Stygius Plu-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "to evomere potuisset flammas. Volunt quippè nos non so-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "lâ fide, sed & bonis operibus & meritis nostris justificari,",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "imò ulterius progressi, vim justificandi tribuunt etiam",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "superstitionibus à se inventis & confictis: quis enim igno-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "rat rythmos,publicè jactatos, de aqua lustrali; aquâ be-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "nedictâ, deleantur tua delicta, sit tibi laus & vita? cucul-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "lis etiam, usui candelarum, peregrinationibus, & quibus",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "non? affixæ sunt peccatorum condonationes: sic nem-",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "pè ex his, quæ malè interpretati sunt ex sacris literis de",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "meritis, progressi sunt ad tam stulta & impia: Ne tamen",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "videantur idem plane sentire cum impio Pelagio,qui vo-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "luit hominem posse naturæ viribus legem implere, atq;",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "adeò per id justificari: se extricare conantur distinctio-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "ne <i>operum ante & post fidem</i>, sive <i>quæ fiunt vi legis & vi</i>",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "<i>Evangelij</i>; & dicunt, operibus legis & quæ fiunt ante fi-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "dem non justificari hominem, congruum tamen esse ut",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "bene utenti bono naturæ propter Deum, Deus, qui est",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "maximè munificus, bona gratiæ largiatur; facienti enim",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "quod in se est, Deum non denegare ulteriorem gratiam:",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "Operibus verò fidei & quæ fiunt per gratiam, vim justifi-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "candi posse tribui: Verùm si nec hoc posterius in Scri-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "ptura fundamentum habet,prius sua sponte corruet. Cer-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "tæ enim & indubitatæ veritatis est nobis, omnia opera",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "nullis exceptis excludi à justificatione: Nam,<i>non fit ex ope-</i>",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "<i>ribus, non operanti, sed credenti, non secundum opera, ne quis</i>",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "<i>glorietur</i>, <i>Rom. 4.</i> sed in solidû gratiæ Dei tribuitur, <i>Rom.</i>",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "<i>11. 6. si ex gratia, jam non ex operibus, alioquin gratia non esset gra-</i>",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "<i>tia; si ex operibus non amplius ex gratia: imò, facti sumus i-</i>",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "<i>plius creatura in Christo Iesu ad bona opera, quæ præparavit Deus,</i>",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "<i>ut in iis ambulemus</i>, <i>Eph. 2. 10.</i> si Deus nos ad ea præparavit,",
+     "heading": 0
+    }
+   ],
+   "catchword": "certè",
+   "notes": "Catchword \"certè\" at lower right may be the catchword; the final line is shown as the last line. Some italic and Greek-free marginal references are inline in the text; the page has no marginal notes. Several words are uncertain in the small italic text of the final lines."
+  },
+  {
+   "n": 18,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "certè nō ex operibus salvati sumus: Hinc Auguft. scitè,<i>bona</i>",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "<i>opera non præcedunt justificandū, sed sequuntur justificatum</i>: Et",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "Bern: non <i>sunt causa regnandi, sed via ad regnum</i>: Bona ergò",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "opera cùm fiant post justificationem non possunt esse in ul-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "lo genere causarum, cùm omnis causa præcedat suum esse-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "ctum: adde locum supra citatum, <i>Gal.2.</i> Res etiam clarior",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "evadet ex exemplo Abrahami, de quo <i>Rom. 4.</i> is fide non",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "operibus dicitur <i>justificatus</i>, qui tamen ex fide multa bo-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "na opera præstiterat & præstabat, <i>Heb.11:8. per fidem voca-</i>",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "<i>tus Abraham auscultavit Deo, ut abiret in locum, quem acce-</i>",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "<i>ptfurus erat in hæreditatem, & exivit, nesciens, quo esset ven-</i>",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "<i>turus</i>: ubi constat, jam tum habuisse fidem veram Abra-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "hamum, cùm primùm egressus est ex Ur Chaldæorum,",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "itaq; quicquid post id temporis boni fecit, id ex fide &",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "cum fide fecit.",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "Sed ipsa fides est opus. Ergo,&c. Præclarè ad hoc",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 17,
+     "text": "solidissimus Chamierus; <i>Frustra</i>; inquit, <i>dicendum enim</i>",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "<i>esset, fides est omnia opera, quod falsum: est enim unicum dun-</i>",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "<i>taxat opus: at unum opus nullum aut justificat aut justificare</i>",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "<i>potest</i>; <i>sed omnia simul</i>; <i>itaq; cùm fides non sit omnia opera</i>;",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "<i>non tantùm non omnia opera justificant</i>, <i>sed ne ullum quidem</i>",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "<i>opus</i>; <i>unde dicLum, fidem non justificare, quatenus est opus, sive</i>",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "<i>per se, sed relativè, quatenus dicit applicationem justitiæ Chri-</i>",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "<i>sti</i>: manet ergò inconcussæ veritatis nostrum dogma; <i>ne-</i>",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "<i>minem ex operibus justificari</i>; quod & ipse Bellarm. non dis-",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "sitetur, postquàm enim integris aliquot libris omnes ner-",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "vos intenderat, in meritis humanis contra gratiam, omni",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "genere sophismatum, propugnandis, â veritatis luce tan-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "dem superatus, omnem usum meritorum tollit & ad so-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "lam gratiam confugit, dicens: <i>propter incertitudinem pro-</i>",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "<i>priæ justitiæ & periculum inanis gloriæ, tutissimum est, fiduciam</i>",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "<i>in sola Dei misericordia & benignitate conslituere, cap. 7. de ju-</i>",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "<i>stif. lib. 5. tom. 4.</i>",
+     "heading": 0
+    }
+   ],
+   "signature": "C XVII. A-",
+   "notes": "Right page edge and show-through not transcribed. Catchword absent. Signature \"C\" and \"XVII. A-\" read from foot of page; the \"C\" is a centred gathering mark."
+  },
+  {
+   "n": 19,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "XVII.",
+     "heading": 1,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "Agnoscimus tamen necessitatem bonorum operum",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 3,
+     "text": "in renatis, sed tamen non coactionis, aut quæ sit obliga-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "tio ad perfectam obedientiam, tanquam ad causam &",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "meritum salutis, illud enim legale est debitum, à quo di-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "mittimur beneficio Christi, qui fregit <i>baculum exactoris</i>,",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "<i>Esai. 9: 4.</i> sed solum Evangelicæ gratitudinis, <i>tum</i> propter",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "mandatum & voluntatem Dei, debitæ, <i>1. Thess. 4:3. Joh. 15:12.</i>",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "<i>tum</i> ratione ipsorum renatorum, qui ideo mundantur, ut",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "sint populus zelotes bonorum operum, <i>Tit. 2: 14.</i> quibus",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "imaginaria à vera fide discernitur, <i>qui enim non diligit,</i>",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "<i>manet in morte, 1. Joh. 3:14. tum</i> deniq; ratione proximi, ut vi-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "dentes bona nostra opera glorificent Deum, <i>Matth. 5: 16.</i>",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "extra hosce terminos si protrahatur necessitas operum,",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "sit conscientiarum venenum & lethifera vox Antichristi.",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "XVIII.",
+     "heading": 1,
+     "para": true
+    },
+    {
+     "n": 17,
+     "text": "<i>Materia</i> justificationis <i>ex qua</i>, est satisfactio præstita",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 18,
+     "text": "per Christum, <i>quem Deus propositi placamentum per fidem</i>",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "<i>in sanguine ipsius ad declarandam justitiam suam per remissionem</i>",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "<i>peccatorum, Rom. 3: 25. ipse factus est nobis justitia, 1. Cor. 1: 30.</i>",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "<i>Materia in qua</i>, quæ & <i>subiectum</i> dicitur sunt electi",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 22,
+     "text": "soli, in se quidem peccatores, ac proinde legis accusatio-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "ni & maledictioni obnoxij, sed à Deo ex gratia ad salu-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "tem vocati efficaciter & verâ fide donati: Fideles dico",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "& electos, <i>quos enim prædestinavit, vocavit, & quos voca-</i>",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "<i>vit, eos etiam justificavit, Rom. 8: 29. 30. Christo dant omnes</i>",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "<i>Prophetæ testimonium, remissionem peccatorum accepturum per</i>",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "<i>nomen ejus quemvis, qui credit in eum, Act 10: 43.</i> Solos di-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "co; quia infideles & omnibus modis impij certò damna-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "tioni sunt addicti, nec participes fiunt hujus privilegij fi-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "delium: juxta illud, <i>qui non credit jam condemnatus est,</i>",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "<i>Joh. 3: 18. Jesus liberabit populum suum à peccatis, Matth.</i>",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "<i>1: 20.</i>",
+     "heading": 0
+    }
+   ],
+   "notes": "Marginal references are printed inline in the text and are transcribed where they stand. Doubtful: \"Fideles dico\" and running head absent; page number not printed."
+  },
+  {
+   "n": 20,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "number": "1:20.",
+   "running_head": "(none)",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: pecca"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "rejicimus igitur errorem omnium illorum, qui hoc beneficium ad omnes etiam reprobos extendunt, non",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "sine diminutione gloriæ Dei & Christi.",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "<i>Dubium</i> hic movetur <i>de infantibus, quomodo illi possint</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 4,
+     "text": "<i>dici justificari, cum adhuc sub judice lis sit, an fidem habeant,</i>",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "<i>nec ne, quâ deberent justificari?</i> dicimus ipsis sufficere <i>ju-</i>",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "<i>stificationem activam</i> à parte Dei, quâ scil. Deus ipsis impu-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "tat justitiam Christi, prout in adultis, qui rationis usu",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "gaudent, necessaria est insuper <i>justificatio passiva</i>, quâ ve-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "ra fide amplectuntur meritum Christi: nec enim existi-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "mamus necesse esse, concedere infantibus fidem vel <i>actua-</i>",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "<i>lem</i> cum quibusdam crudioribus Lutheranis & Pontifi-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "ciis, vel <i>habitualem</i> sive <i>seminalem</i>, cum quibusdam è",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "Nostratibus: nam cum fides in suo formali conceptu di-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "cat aliquid practicum, notitiam & assensum fiducialem,",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "non potest infantibus, utpote rationis usu nondum gau-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "dentibus, fides tribui: & cum personalia peccata non-",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "dum admiserint, personales quoq; fidei actus non neces-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "sario debent exercere.",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "XIX.",
+     "heading": 1,
+     "para": true
+    },
+    {
+     "n": 20,
+     "text": "<i>Forma justificationis</i> ex parte justificantis est imputatio",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 21,
+     "text": "justitiæ Christi. Quidam Theologi formam hanc dicunt",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "absolvi <i>duabus</i> partibus, <i>remissione</i> scil. <i>peccatorum</i> (quæ di-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "cit condonationem omnis culpæ quoad reatum & pœ-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "nam) & <i>imputatione justitiæ Christi</i>: sed hæ non sunt partes",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "diversæ aut distinctæ, nam utravis seorsim sumpta totam",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "justificationis naturam exprimit, & una alteram includit,",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "ut patet, <i>Rom. 4:6.7.</i> ubi Apostolus ex professo tractans",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "hoc argumentum, <i>remittere peccata & imputare justitiam</i>",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "tanquam æquipollentia usurpat: & illa distinctio respi-",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "cit tantum terminum <i>à quo & ad quem</i>, simulq; sunt tem-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "pore, uno enim eodemq; justificationis actu, homo &",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "â",
+     "heading": 0
+    }
+   ],
+   "catchword": "pecca",
+   "signature": "C 2",
+   "notes": "Running head and page number \"1:20.\" read from top left; the printed head is \"7:20.\" as best read. Catchword \"pecca\" at lower right; signature \"C 2\" at lower left. Some words in the first line of the final paragraph are uncertain, notably \"pecca\" which is a catchword. Doubtful: \"7:20.\" may be \"1:20.\"."
+  },
+  {
+   "n": 21,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "peccato absolvitur & justus pronunciatur. Alij tamen,ut",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "Calvinus, Walæus & alij aliter has partes enunciant, ita",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "ut præponant <i>imputationem justitiæ</i> Christi <i>remissioni</i> pec-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "catorum, quia illa hujus sit causa, quemadmodū forma li-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "berationis captivi in applicatione lytri & actuali libera-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "tione consistit, ita quoq; rem se hic habere: interim ta-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "men etiam statuunt hasce phrases idem sonare & signifi-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "care, & utramq; requiri ad nostri <i>justificationem.</i>",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "XX.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 10,
+     "text": "<i>Imputationem</i> autem illam justitiæ Christi melius ex-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 11,
+     "text": "primere non possumus, quàm verbis Catechismi nostri re-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "ligionis Christianæ, dum dicimus & confitemur, quòd sit",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "ea, <i>quâ mihi perfecta satisfactio, justitia & sanctitas Christi</i>",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "<i>imputatur ac donatur, perinde ac si nec ullum peccatum ad-</i>",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "<i>misissem, nec ulla labes mihi inhæreret, imo quasi eam obe-</i>",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "<i>dientiam, quam Christus pro me præstitit ipse perfectè præstitissem.</i>",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "Justificatio hæc per imputatam Christi justitiam fir-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 18,
+     "text": "miter contra Pontif. tenenda, qui ubique suam inhæren-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "tem obtrudere volunt: Constanter certè illam Scriptu-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "ra asserit, <i>Rom. 4:3. 4. Credidit Abraham Deo & imputatum</i>",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "<i>est ei ad justitiam: atqui ei qui operatur merces non datur ex</i>",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "<i>gratia, sed ex debito: ei verò qui non operatur, sed credit in</i>",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "<i>eum, qui justificat impium, fides sua imputatur ad justitiam:</i>",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "hic habemus expressam phrasin, justitiam scil. imputatam,",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "& naturam ejus indicatam, imputatur absque operibus,",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "sive non operanti: Sic <i>v. 25. traditus est Christus morti pro-</i>",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "<i>pter offensas nostras, & suscitatus ad nostri justificationem, 2.</i>",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "<i>Cor. 5:21. fecit Deus, ut qui peccatum non norat, pro nobis pec-</i>",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "<i>catum esset, ut nos essemus justitia Dei in illo:</i> eandem hic",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "ponit rationem peccati seu injustitiæ nostræ in Christo,",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "& justitiæ Christi in nobis, quæ nulla est alia nisi per im-",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "putationem. Sic <i>Rom. 5:18. Sicut per unius offensam morsregnavit.</i>",
+     "heading": 0
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: utram-"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "<i>gnavit in omnes ad condemnatione, ita per unius justitiam bene-</i>",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "<i>ficium pervenit in omnes ad justificationem vitae</i>: sicut scil. tum",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "cum peccavit Adam damnatum fuit universum genus hu-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "manum, sive factum reum inobedientiae in Deum, ita in",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "Christo universa multitudo fidelium dicitur justificata,",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "omnes in Christo justificati, quatenus Christi justitia",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "nobis est communicata per gratiam, tam certo ac si ipsi",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "praestitissemus quod non potuimus. Pontificij gratuitam",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "hanc Christi justitiam sibi imputari nolunt, sed ju-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "sto justissimi hujus judicis judicio excaecati, hominum",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "mortuorum, & Monachorum mundo viventium, redun-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "dantem scil. ipsis & supervacaneam justitiam pretio com-",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "paratam sibi imputari malunt; viderint ipsi, qui gratiae",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "& vitae authorem aspernantur, ne mortis principi ejusq;",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "mancipiis mancipentur.",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "XXI.",
+     "heading": 1,
+     "caput": "21",
+     "para": true
+    },
+    {
+     "n": 17,
+     "text": "Justitia in Christo consideratur vel qua Deus est, vel",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 18,
+     "text": "qua Θεάνθρωπος: Illa est essentialis Dei justitia, increata,",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "infinita, imo ipsa Deitas adeoq; Patri & Spiritui S. quoq;",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "communis: hac voluit Osiander nos justificari & hanc",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "infundi animis nostris, adeo ut Dei justitia fiat essen-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "tialiter nostra: sed haec sunt deliria, & Deo & Christo con-",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "tumeliosa: si enim essentiali Dei justitiâ sumus justi, quid",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "opus fuit Filium Dei incarnari, & in assumpta humana",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "natura pro peccatis nostris tanto labore satisfacere?",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "Justitiam Θεάνθρωπος Theologi distinguunt in <i>activam</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 27,
+     "text": "<i>& passivam</i>: Illa est, qua Christus ita implevit legem Dei,",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "ut per eam dicatur absque peccato fuisse, totamque",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "composuisse vitam suam ad illam amussim, ut nec facto,",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "nec cogitatione ab ea declinaverit: Haec est, qua Chri-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "stus maledictioni legis pro nobis satisfecit, & <i>obediens fuit</i>",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "<i>factus Patri ad mortem, mortem autem crucis</i>, Phil. 2:8. Hanc",
+     "heading": 0
+    }
+   ],
+   "catchword": "utram-",
+   "signature": "C 3",
+   "notes": "Greek words in the text (Θεάνθρωπος) are transcribed from the scan; the second occurrence is a faint reading. Catchword \"utram-\" treated as running text continuation at line end; the Greek lines are partly unclear."
+  },
+  {
+   "n": 23,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "utramq; justitiam nobis imputari statuimus; nec metuen-",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "dum, ne nimis divites fimus in Christo, fi totam Christi",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "justitiam nobis imputari dicimus: Non ergo hæc duo",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "separanda cum quibusdam, quasi <i>illa</i> fuerit tantùm præ-",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "paratio & conditio requisita in mediatore, <i>hæc</i> verò de-",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "mum verè satisfactoria, quæ nobis imputetur: nam hæc",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "duo in Christi vita & morte perpetuò fuerunt conjuncta,",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "adeò ut inde Christi vita perpetua quædam passio vocari",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "soleat; nec enim in Christi passione fuit tantùm <i>justitia</i>",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "<i>passiva</i>, sed etiam suo respectu <i>activa</i>; <i>obedivit</i> enim <i>pa-</i>",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "<i>tiendo</i>, & <i>passus est obediendo</i>, & non solùm fuit victima pa-",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "tiens, sed etiam justus Dei servus & sacerdos, qui <i>per spi-</i>",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "<i>ritum æternum seipsum obtulit inculpatum Deo</i>, Heb. 9: 14. ideo-",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "que quia in Christi passione, sanguinis effusione & morte",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "quasi colophon fuit justitiæ Christi tam <i>activæ</i>, quæ aliis",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "etiam dicitur charitatis & vitæ, Joh. 15: 13. Rom. 5: 6. 7. 8.",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "quàm <i>passivæ</i>, Phil. 2: 8. propterea justificatio & salus, pas-",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "sioni & morti, non exclusivè, sed synechdochicè & κατ'",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "ἐξοχὴν attribuitur. Id magis adhuc confirmatur, si atten-",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "damus, illam justitiam Christi, per quam cōstituimur justi,",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "dici obedientiam, Rom. 5: 18. 19. Sic Rom. 8: 3. constituitur ju-",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "stificatio nostri in eo, quòd impletum fit jus legis <i>in nobis</i>,",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "quod, lege viribus destituta per carnem, impleri non pote-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "rat.",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "XXII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 26,
+     "text": "<i>Forma</i> justificationis <i>ex parte justificati</i>, est apprehensio",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 27,
+     "text": "justitiæ Christi per fidem; quæ non quatenus opus concur-",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "rit, sed quatenus Christum cum toto suo merito apprehen-",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "dit, credentiq; applicat: haud secus ac cum manu pauper",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "eleemosynā à divite recipit; ea manus recipiens eleemo-",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "synam non est ipsa eleemosyna, nec causa eleemosynæ,",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "neq; propter ipsam, quasi sua pulchritudine id mereatur,",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "datur eleemosyna, sed tantùm instrumentaliter & relativè",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "concurrit ad eam obtinendam: sed de his superius.",
+     "heading": 0
+    }
+   ],
+   "notes": "Marginal reference marks in the text are not separately printed in the margins; the scan shows no margin notes. Some words are slightly blurred; \"per\" and \"fuit\" read with some doubt."
+  },
+  {
+   "n": 24,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "warnings": [
+    {
+     "type": "catchword_in_text",
+     "text": "catchword taken out of the main text: Gomarus"
+    }
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "text": "Notamus hic obiter cum Beza: Esse liberrimam Dei transactio-",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 2,
+     "text": "nem quod fides hanc habitudinem & vim habeat, qua tanquam po-",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "tentia quaedam supernaturalis in supernaturale suum obiectum fer-",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "tur; ut liquet exemplo Israelitarum intuentium serpentem aeneum,",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "quemadmodum visus, natura sua quidem apprehendere",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "potuit serpentem ex vi in creatione oculis insita, sed per visum il-",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "lum fanationem recipere non potuit, verum ex sola Dei sic transfi-",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "gentis gratia: ita & hic statuendum: fidei ex supernaturali & divi-",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "na gratia, hanc vim obiectum suum intuendi & recipiendi inesse,",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "sed quod hoc modo id intuens, justitiae Christi fiat particeps, id est",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "ex promissione gratuita & stipulatione, qua eam ut instrumentum",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "justificationis constituere voluit.",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "XXIII.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 14,
+     "text": "<i>Justificationis finis</i> respectu Dei, est Dei solius <i>gloria</i>, imprimis <i>ju-</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 15,
+     "text": "<i>stitiae & misericordiae</i> suae, cujus utriusque singulare temperamentum hic",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "elucet, <i>Rom.3: 24.26. justificantur gratis, ejus gratia ad ostensionem justitia-</i>",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "<i>e ejus ut sit ipse justus. Eph.2:7. ut ostenderet in seculis supervenientibus exube-</i>",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "<i>rantes divitias gratiae ejus in bonitate erga nos in Christo Jesu.</i> Respectu ho-",
+     "heading": 0
+    },
+    {
+     "n": 19,
+     "text": "minum, est <i>salus</i> & vita aeterna; <i>justificati sanguine Christi servabimur</i>",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "<i>ab ira; & reportabimus finem fidei nostrae, salutem animarum, 1.Pet.1:9.</i>",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "<i>illius gratia justificati, haeredes efficimur secundum spem vitae aeternae, Tit.3:7.</i>",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "Unde etiam patent illius <i>effectus</i>: ut sunt: <i>liberatio a peccato non tan-</i>",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "<i>tum quoad reatum, sed etiam poenam, per quam nulla est condemnatio</i>",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "<i>iis qui sunt in Christo Jesu, Rom.8:1. quis accusabit electos? v.33. adoptio</i>",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "<i>in filios Dei: quotquot Christum exceperunt, dedit eis hoc jus ut filii Dei fie-</i>",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "<i>rent, Joh.1:12. pax & tranquillitas cum Deo; justificati pacem habemus cum</i>",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "<i>Deo, Rom.5:1. aditus liber ad Deum; gloriatio in afflictionibus, Heb.4:16.</i>",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "<i>Rom.5:3.</i>",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "XXIV.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 30,
+     "text": "Variae etiam ejus sunt <i>proprietates.</i> Est enim. 1. <i>Unica & perfecta:</i>",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 31,
+     "text": "Ex parte enim Dei unico & individuo actu semel peragitur, nam",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "cum Deus nobis remittit peccata & justitiam Christi imputat, ita",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "remittit, ut non unum jam, alterum postea, & sic porro remittat,",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "sed omnia simul & semel, praeterita, praesentia, & futura, <i>2.Cor.5:</i>",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "<i>18.19.</i> licet sensus justificationis modo intendatur, modo remittatur:",
+     "heading": 0
+    },
+    {
+     "n": 36,
+     "text": "Rejicimus ergo duplicem Pontif. justificationem, <i>primam,</i> qua quis",
+     "heading": 0
+    },
+    {
+     "n": 37,
+     "text": "ex injusto fit justus, & <i>secundam,</i> qua quis justior fit operum merito:",
+     "heading": 0
+    }
+   ],
+   "marginalia": [
+    {
+     "side": "left",
+     "at": "Notamus hic obiter",
+     "line_from": 1,
+     "line_to": 1,
+     "text": "Joh.3:14."
+    }
+   ],
+   "catchword": "Gomarus",
+   "notes": "Marginal note \"Joh.3:14\" reconstructed from the left margin; the signature \"Gomarus\" is set right-aligned and is treated as a closing name. Small italic and superscript numbers are partly uncertain."
+  },
+  {
+   "n": 25,
+   "type": "text",
+   "model": "claude-haiku-5-5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "Gomarus quidem hac distinctione quoq; utitur, sed longe alio quàm",
+     "heading": 0
+    },
+    {
+     "n": 2,
+     "text": "Pontific. Ienius, per primam enim nihil aliud quàm justificationem,",
+     "heading": 0
+    },
+    {
+     "n": 3,
+     "text": "per secundam sanctificationem intelligit. Est 2. Æqualis omnium",
+     "heading": 0
+    },
+    {
+     "n": 4,
+     "text": "electorum tam V. quam N. Testamenti, eodem enim modo omnes",
+     "heading": 0
+    },
+    {
+     "n": 5,
+     "text": "justificantur, quo Abraham fuit justificatus, scilicet fide, & <i>credimus</i>",
+     "heading": 0
+    },
+    {
+     "n": 6,
+     "text": "<i>nos per gratiam Domini nostri Jesu Christi eodem modo servatum iri, quem-</i>",
+     "heading": 0
+    },
+    {
+     "n": 7,
+     "text": "<i>admodum & illos</i>, Act. 15:11. Est 3. <i>Immutabilis & certa</i>, Rom. 8:29. <i>quos</i>",
+     "heading": 0
+    },
+    {
+     "n": 8,
+     "text": "<i>justificavit, eos etiam glorificavit.</i> 1. Joh. 3:9. <i>omnis qui ex Deo natus est non</i>",
+     "heading": 0
+    },
+    {
+     "n": 9,
+     "text": "<i>peccat, nec potest peccare, quia semen Dei in eo manet:</i> ubi non potest pec-",
+     "heading": 0
+    },
+    {
+     "n": 10,
+     "text": "care Apostolo idem est, ac non posse pervenire in regnum Sathanæ",
+     "heading": 0
+    },
+    {
+     "n": 11,
+     "text": "vel ab eo seduci, quod patet ex antithesi v. 8. <i>omnis qui peccatum fa-</i>",
+     "heading": 0
+    },
+    {
+     "n": 12,
+     "text": "<i>cit ex diabolo est. Virtutis Dei præsidio custodimur per fidem ad salutem,</i>",
+     "heading": 0
+    },
+    {
+     "n": 13,
+     "text": "<i>paratam revelari præstituto tempore,</i> 1. Pet. 1:5. <i>Christus novit oves suas nec</i>",
+     "heading": 0
+    },
+    {
+     "n": 14,
+     "text": "<i>quisquam rapiet eas e manu sua,</i> Joh. 10. hinc hujus pastoris potentia",
+     "heading": 0
+    },
+    {
+     "n": 15,
+     "text": "& fidelitate freti in omnis generis adversitatibus cum gaudio exul-",
+     "heading": 0
+    },
+    {
+     "n": 16,
+     "text": "tant, dicentes, <i>Novi cui crediderim, & quòd potens sit depositum meum</i>",
+     "heading": 0
+    },
+    {
+     "n": 17,
+     "text": "<i>servare integrum in diem adventus Domini nostri Jesu Christi,</i> 2. Tim. 1:12.",
+     "heading": 0
+    },
+    {
+     "n": 18,
+     "text": "Et hæc est vera & Orthodoxa de justificatione nostri coram Deo",
+     "heading": 0,
+     "para": true
+    },
+    {
+     "n": 19,
+     "text": "articuli explicatio; quam & Vetus ecclesia primitiva agnovit, quam",
+     "heading": 0
+    },
+    {
+     "n": 20,
+     "text": "etiam adhuc hodie Protestantes contra varios adversarios fortiter de-",
+     "heading": 0
+    },
+    {
+     "n": 21,
+     "text": "fendunt; qui illius veritatem ab ecclesia primitiva assertam & in",
+     "heading": 0
+    },
+    {
+     "n": 22,
+     "text": "Conciliis & Confessionibus publicis approbatâ & defensam videre",
+     "heading": 0
+    },
+    {
+     "n": 23,
+     "text": "voluerit, adeat Catalogum testium veritatis, Harmoniam confessio-",
+     "heading": 0
+    },
+    {
+     "n": 24,
+     "text": "num, Syntagma & corpus confessionum fidei, aliosq; authores. Ad-",
+     "heading": 0
+    },
+    {
+     "n": 25,
+     "text": "dam tantùm unicum testimonium ex Confess. Græcorum edita à",
+     "heading": 0
+    },
+    {
+     "n": 26,
+     "text": "Cyrillo Lucare Patriarcha Constantinopolitano: sic habetur autem",
+     "heading": 0
+    },
+    {
+     "n": 27,
+     "text": "<i>cap.13. Credimus hominem justificari per fidem, non ex operibus: Quum autem</i>",
+     "heading": 0
+    },
+    {
+     "n": 28,
+     "text": "<i>dicimus per fidem, intelligimus fidei correlativum, quod est justitia Christi,</i>",
+     "heading": 0
+    },
+    {
+     "n": 29,
+     "text": "<i>quam fides apprehendit nobisq; applicat ad salutem: hoc autem optimè sine</i>",
+     "heading": 0
+    },
+    {
+     "n": 30,
+     "text": "<i>operum præjudicio stare posse cognoscimus: nam & opera non esse negligenda,</i>",
+     "heading": 0
+    },
+    {
+     "n": 31,
+     "text": "<i>esseq; media necessaria & fidei nostræ testimonia, ad vocationis nostræ confir-</i>",
+     "heading": 0
+    },
+    {
+     "n": 32,
+     "text": "<i>mationem, veritas ipsa nos docet: ipsa verò esse sufficientia per se hominem</i>",
+     "heading": 0
+    },
+    {
+     "n": 33,
+     "text": "<i>salvare, in tribunali Christi comparere posse, ut ex condigno salutem retri-</i>",
+     "heading": 0
+    },
+    {
+     "n": 34,
+     "text": "<i>buant, hoc esse falsum testatur humana fragilitas: at Christi justitia applica-</i>",
+     "heading": 0
+    },
+    {
+     "n": 35,
+     "text": "<i>ta resipiscentibus sola justificat atq; salvat fidelem.</i>",
+     "heading": 0
+    },
+    {
+     "n": 36,
+     "text": "Sit soli summo gloria summa Deo.",
+     "heading": 2,
+     "para": true
+    },
+    {
+     "n": 37,
+     "text": "FINIS",
+     "heading": 0,
+     "para": true
+    }
+   ],
+   "notes": "Marginal notes: none visible. Italic passages are transcribed as printed; the text is in Latin with several Scripture references in the body."
+  }
+ ]
+}
