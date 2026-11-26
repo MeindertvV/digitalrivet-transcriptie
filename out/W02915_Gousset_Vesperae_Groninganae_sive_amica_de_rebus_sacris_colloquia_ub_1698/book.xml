@@ -6587,8 +6587,19 @@
     </main_text>
     <notes>Page is a single column; the first line is set partly in Greek (τυπωθέντα) and partly in Latin with some ligature damage. Some words near the top are uncertain due to scan blur. The page is numbered 453 (printed as 4&lt;sup&gt;5&lt;/sup&gt;3). Catchword and signature not visible.</notes>
   </page>
-  <page type="missing" n="470">
-    <warning type="missing_page">page 470 was not transcribed: invalid XML: not well-formed (invalid token): line 7, column 967</warning>
+  <page type="text" lines="none" n="470" model="claude-haiku-5-5">
+    <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
+    <layout>One page of text, single column; running head at top; page number at top left; catchword-like signature "gn" at lower right of the text block (a gathering/catchword mark, treated as catchword). No margin notes.</layout>
+    <page_number>454</page_number>
+    <running_head>VESPERÆ</running_head>
+    <bottom_margin>
+      <catchword>gn</catchword>
+    </bottom_margin>
+    <main_text>
+      <l n="1">nis, quia Signum illud erat non peritu- ram Domum Davidicam quin prius Virgo peperisset.</l>
+      <l n="2" para="true">Altera paulò est reconditior, concedit signum Achazo à Prophetâ propo- situm fuisse quo confirmaretur id quod Dei nomine ei credendum fuerat pro- positum, non simpliciter irrita fore consilia Regum Retfini &amp; Pekakiæ de Judæâ capiendâ, &amp; Rege Filio Tabeæ in eâ constituendo, sed ideò irrita fore quia Caput Syriæ, Damascus, &amp; Caput Damasci Retfin, Caput Ephraïm, Samaria, &amp; Caput Samariæ, Filius Romeliæ, quo significatur Regnorum Syriæ, &amp; Ephraim nullum aliud ef- fe Caput Retzino &amp; Filio Romeliæ superius, unde penderet illorum vis &amp; imperium, &amp; innuitur in Regno Judæ, rem non ita fe habere, Achazum non esse illius Caput quo nullum fit su- perius, supremum illius Caput esse Deum qui vim duorum Regum Regnum istud infestantium cohiberet, cum adesset tempus, &amp; Regnum Judæ tueretur; illud autem fuisse confirmatum non visibili signi exhibitione sed declaratione folenni veritatis notas præ fe ferente, fore ut Caput illud Re-</l>
+    </main_text>
+    <notes />
   </page>
   <page type="text" lines="none" n="471" model="claude-haiku-5-5">
     <warning type="line_split">no usable OCR layer: paragraphs could not be split into printed lines</warning>
