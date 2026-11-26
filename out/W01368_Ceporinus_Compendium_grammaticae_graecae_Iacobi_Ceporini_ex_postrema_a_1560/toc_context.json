@@ -1,0 +1,2869 @@
+{
+ "work": "W01368_Ceporinus_Compendium_grammaticae_graecae_Iacobi_Ceporini_ex_postrema_a_1560",
+ "made": "2026-11-26T01:03:02",
+ "model": "claude-haiku-5-5",
+ "prompt": "655260ce46aa8978",
+ "candidates": 1343,
+ "cost_usd": 0.18873,
+ "dropped": [
+  "title 'ἄρτι' moved from 'APTI.' to 'AΥΘΙΣ & ΕΙΣΑΕΙ.'",
+  "title 'ἐκ & ἐξ' is not in 'EK EΞ.': to the scan",
+  "title 'περί cum genitiuo' is not in 'ΠΡΟ.': to the scan",
+  "title 'μετά' is not in 'META.': to the scan",
+  "title 'ἀντί' is not in 'ANTI.': to the scan",
+  "title 'ἀμφί' is not in 'AMΦI.': to the scan",
+  "title 'μέν' is not in 'MEN.': to the scan",
+  "title 'Μέντοι' is not in 'MENTOI.': to the scan",
+  "title 'καί' is not in 'KAI.': to the scan",
+  "title 'Καν' is not in 'KAN.': to the scan",
+  "title 'Καὶ εἰ' is not in 'KAN EI.': to the scan",
+  "title 'ἤ' moved from 'H.' to 'ΕΠΕΙ & ΕΠΕΙΔΗ.'",
+  "title 'εἰ' moved from 'EI.' to 'ΕΠΕΙ & ΕΠΕΙΔΗ.'",
+  "title 'ἐάν & ἐπειδάν' moved from 'EAN KAI EΠEIΔAN.' to 'ΕΠΕΙ & ΕΠΕΙΔΗ.'",
+  "title 'ἵνα' is not in 'INA.': to the scan",
+  "title 'ἄρα' moved from 'APA.' to 'ΓΑΡ.'",
+  "title 'οὖν' moved from 'OYN.' to 'ΗΠΟΥ.'",
+  "title 'ἄττα' is not in 'ATTA.': to the scan",
+  "title 'μήν' is not in 'MHN.': to the scan",
+  "title 'τοι' is not in 'TOI.': to the scan",
+  "title 'ἄν' is not in 'AN.': to the scan",
+  "title 'ἄν indefinite' moved from 'AN ΑΟΡΙΣΤΟΛΟΓΙΚΩΣ.' to 'Av potentialiter acceptum, siue indefinite saepe deest in oratione. Demosth. οὐδείς ποτε ἀνθρώπων εὕρεγι τὸ κατ᾽ ἐμὲ ἁδλ'",
+  "order: {'ids': [1253.5], 'level': 3, 'title': 'ἐάν & ἐπειδάν'}",
+  "order: {'ids': [1253.5], 'level': 3, 'title': 'ἐπεί & ἐπειδή'}",
+  "order: {'ids': [1255.5], 'level': 3, 'title': 'ἄρα'}",
+  "no scans for 19 wanted"
+ ],
+ "toc": [
+  {
+   "scan": 7,
+   "line": 1,
+   "lines": [
+    [
+     7,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Priori editioni accessere"
+  },
+  {
+   "scan": 8,
+   "line": 1,
+   "lines": [
+    [
+     8,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Doctissimo et ornatissimo iuveni Hieronymo Manuel Bernensi"
+  },
+  {
+   "scan": 9,
+   "line": 2,
+   "lines": [
+    [
+     9,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Conradus Gesnerus Hieronymo Manuel"
+  },
+  {
+   "scan": 10,
+   "line": 1,
+   "lines": [
+    [
+     10,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Iacobi Ceporini Compendium grammaticae Graecae"
+  },
+  {
+   "scan": 10,
+   "line": 3,
+   "lines": [
+    [
+     10,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "De vocalibus"
+  },
+  {
+   "scan": 10,
+   "line": 5,
+   "lines": [
+    [
+     10,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "De diphthongis"
+  },
+  {
+   "scan": 10,
+   "line": 7,
+   "lines": [
+    [
+     10,
+     7
+    ]
+   ],
+   "level": 2,
+   "title": "De consonantibus & earum divisione"
+  },
+  {
+   "scan": 11,
+   "line": 1,
+   "lines": [
+    [
+     11,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "De accentibus"
+  },
+  {
+   "scan": 11,
+   "line": 4,
+   "lines": [
+    [
+     11,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Varietas tonorum"
+  },
+  {
+   "scan": 12,
+   "line": 3,
+   "lines": [
+    [
+     12,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "De spirituum sede"
+  },
+  {
+   "scan": 13,
+   "line": 2,
+   "lines": [
+    [
+     13,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "De apostropho"
+  },
+  {
+   "scan": 14,
+   "line": 2,
+   "lines": [
+    [
+     14,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "De partibus orationis"
+  },
+  {
+   "scan": 14,
+   "line": 4,
+   "lines": [
+    [
+     14,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "De numero"
+  },
+  {
+   "scan": 14,
+   "line": 6,
+   "lines": [
+    [
+     14,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "De casibus"
+  },
+  {
+   "scan": 14,
+   "line": 8,
+   "lines": [
+    [
+     14,
+     8
+    ]
+   ],
+   "level": 3,
+   "title": "Canones flectendi universales"
+  },
+  {
+   "scan": 15,
+   "line": 2,
+   "lines": [
+    [
+     15,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput I. De articulo"
+  },
+  {
+   "scan": 15,
+   "line": 4,
+   "lines": [
+    [
+     15,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Praepositiui masculini"
+  },
+  {
+   "scan": 15,
+   "line": 6,
+   "lines": [
+    [
+     15,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "Praepositiui foeminini"
+  },
+  {
+   "scan": 15,
+   "line": 8,
+   "lines": [
+    [
+     15,
+     8
+    ]
+   ],
+   "level": 3,
+   "title": "Praepositiui neutri"
+  },
+  {
+   "scan": 16,
+   "line": 2,
+   "lines": [
+    [
+     16,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Subiunctiui masculini"
+  },
+  {
+   "scan": 16,
+   "line": 4,
+   "lines": [
+    [
+     16,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Subiunctiui foeminini"
+  },
+  {
+   "scan": 16,
+   "line": 6,
+   "lines": [
+    [
+     16,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "Subiunctiui neutri"
+  },
+  {
+   "scan": 16,
+   "line": 8,
+   "lines": [
+    [
+     16,
+     8
+    ]
+   ],
+   "level": 3,
+   "title": "Significatus articulorum"
+  },
+  {
+   "scan": 17,
+   "line": 2,
+   "lines": [
+    [
+     17,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Caput II. De nomine"
+  },
+  {
+   "scan": 18,
+   "line": 1,
+   "lines": [
+    [
+     18,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "Prima in ας & ης"
+  },
+  {
+   "scan": 20,
+   "line": 1,
+   "lines": [
+    [
+     20,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "Secunda in α & η"
+  },
+  {
+   "scan": 21,
+   "line": 4,
+   "lines": [
+    [
+     21,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Tertia in ῳ & ῶν ov."
+  },
+  {
+   "scan": 23,
+   "line": 4,
+   "lines": [
+    [
+     23,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Quarta declinatio"
+  },
+  {
+   "scan": 24,
+   "line": 4,
+   "lines": [
+    [
+     24,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "De contractione"
+  },
+  {
+   "scan": 25,
+   "line": 5,
+   "lines": [
+    [
+     25,
+     5
+    ]
+   ],
+   "level": 4,
+   "title": "Prima contractorum declinatio in ης, ες, & ω"
+  },
+  {
+   "scan": 27,
+   "line": 2,
+   "lines": [
+    [
+     27,
+     2
+    ]
+   ],
+   "level": 4,
+   "title": "Tertia contractorum declinatio in ὡς"
+  },
+  {
+   "scan": 27,
+   "line": 4,
+   "lines": [
+    [
+     27,
+     4
+    ]
+   ],
+   "level": 4,
+   "title": "Quarta contractorum declinatio in ω & ως"
+  },
+  {
+   "scan": 28,
+   "line": 1,
+   "lines": [
+    [
+     28,
+     1
+    ]
+   ],
+   "level": 4,
+   "title": "Quinta contractorum declinatio in as purum & ε͞as"
+  },
+  {
+   "scan": 28,
+   "line": 3,
+   "lines": [
+    [
+     28,
+     3
+    ]
+   ],
+   "level": 4,
+   "title": "De nominibus quae contractionem in omnibus casibus patiuntur"
+  },
+  {
+   "scan": 29,
+   "line": 4,
+   "lines": [
+    [
+     29,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Terminationes masculinae in as"
+  },
+  {
+   "scan": 34,
+   "line": 2,
+   "lines": [
+    [
+     34,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "De dialecto"
+  },
+  {
+   "scan": 34,
+   "line": 5,
+   "lines": [
+    [
+     34,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Finitiones neutra in α"
+  },
+  {
+   "scan": 36,
+   "line": 4,
+   "lines": [
+    [
+     36,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Notio de accusatiuo singulari"
+  },
+  {
+   "scan": 36,
+   "line": 7,
+   "lines": [
+    [
+     36,
+     7
+    ]
+   ],
+   "level": 3,
+   "title": "De vocatiuo singulari"
+  },
+  {
+   "scan": 37,
+   "line": 7,
+   "lines": [
+    [
+     37,
+     7
+    ]
+   ],
+   "level": 3,
+   "title": "Notio datiui pluralis"
+  },
+  {
+   "scan": 38,
+   "line": 3,
+   "lines": [
+    [
+     38,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "De datiuo Ionico"
+  },
+  {
+   "scan": 38,
+   "line": 5,
+   "lines": [
+    [
+     38,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Motio et comparatio adiectiuorum"
+  },
+  {
+   "scan": 41,
+   "line": 3,
+   "lines": [
+    [
+     41,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Paradigmata"
+  },
+  {
+   "scan": 42,
+   "line": 2,
+   "lines": [
+    [
+     42,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Comparationes irregulares"
+  },
+  {
+   "scan": 44,
+   "line": 2,
+   "lines": [
+    [
+     44,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "De patronymicis"
+  },
+  {
+   "scan": 45,
+   "line": 1,
+   "lines": [
+    [
+     45,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "De diminutiuis masculinorum"
+  },
+  {
+   "scan": 45,
+   "line": 7,
+   "lines": [
+    [
+     45,
+     7
+    ]
+   ],
+   "level": 3,
+   "title": "De possessiuis"
+  },
+  {
+   "scan": 46,
+   "line": 1,
+   "lines": [
+    [
+     46,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "Appendix nominum"
+  },
+  {
+   "scan": 48,
+   "line": 2,
+   "lines": [
+    [
+     48,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "De numeralibus"
+  },
+  {
+   "scan": 49,
+   "line": 2,
+   "lines": [
+    [
+     49,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Nomina mensium"
+  },
+  {
+   "scan": 50,
+   "line": 1,
+   "lines": [
+    [
+     50,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Caput III. De verbo"
+  },
+  {
+   "scan": 50,
+   "line": 3,
+   "lines": [
+    [
+     50,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Prima coniugatio in ω"
+  },
+  {
+   "scan": 50,
+   "line": 6,
+   "lines": [
+    [
+     50,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "Secunda coniugatio"
+  },
+  {
+   "scan": 51,
+   "line": 1,
+   "lines": [
+    [
+     51,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "Tertia coniugatio"
+  },
+  {
+   "scan": 51,
+   "line": 6,
+   "lines": [
+    [
+     51,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "Quarta coniugatio"
+  },
+  {
+   "scan": 52,
+   "line": 3,
+   "lines": [
+    [
+     52,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Forma temporum indicatiui"
+  },
+  {
+   "scan": 56,
+   "line": 2,
+   "lines": [
+    [
+     56,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Peculiare verbis coniugationis quartae"
+  },
+  {
+   "scan": 57,
+   "line": 3,
+   "lines": [
+    [
+     57,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Indicatiuus"
+  },
+  {
+   "scan": 59,
+   "line": 2,
+   "lines": [
+    [
+     59,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "De modis aliis"
+  },
+  {
+   "scan": 59,
+   "line": 4,
+   "lines": [
+    [
+     59,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Imperatiuus"
+  },
+  {
+   "scan": 60,
+   "line": 1,
+   "lines": [
+    [
+     60,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "Optatiuus"
+  },
+  {
+   "scan": 60,
+   "line": 3,
+   "lines": [
+    [
+     60,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Subiunctiuus"
+  },
+  {
+   "scan": 60,
+   "line": 5,
+   "lines": [
+    [
+     60,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Infinitiuus"
+  },
+  {
+   "scan": 60,
+   "line": 7,
+   "lines": [
+    [
+     60,
+     7
+    ]
+   ],
+   "level": 3,
+   "title": "Participium"
+  },
+  {
+   "scan": 60,
+   "line": 10,
+   "lines": [
+    [
+     60,
+     10
+    ]
+   ],
+   "level": 3,
+   "title": "Imperatiuus"
+  },
+  {
+   "scan": 61,
+   "line": 11,
+   "lines": [
+    [
+     61,
+     11
+    ]
+   ],
+   "level": 3,
+   "title": "Optatiuus"
+  },
+  {
+   "scan": 62,
+   "line": 18,
+   "lines": [
+    [
+     62,
+     18
+    ]
+   ],
+   "level": 3,
+   "title": "Subiunctiuus"
+  },
+  {
+   "scan": 63,
+   "line": 14,
+   "lines": [
+    [
+     63,
+     14
+    ]
+   ],
+   "level": 3,
+   "title": "Infinitiuus"
+  },
+  {
+   "scan": 64,
+   "line": 4,
+   "lines": [
+    [
+     64,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Participium"
+  },
+  {
+   "scan": 66,
+   "line": 2,
+   "lines": [
+    [
+     66,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Indicatiuus passiuus"
+  },
+  {
+   "scan": 70,
+   "line": 17,
+   "lines": [
+    [
+     70,
+     17
+    ]
+   ],
+   "level": 3,
+   "title": "Subiunctiuus passiuus"
+  },
+  {
+   "scan": 71,
+   "line": 5,
+   "lines": [
+    [
+     71,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Infinitiuus passiuus"
+  },
+  {
+   "scan": 80,
+   "line": 9,
+   "lines": [
+    [
+     80,
+     9
+    ]
+   ],
+   "level": 3,
+   "title": "Secunda coniugatio"
+  },
+  {
+   "scan": 86,
+   "line": 1,
+   "lines": [
+    [
+     86,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "Indicatiuus passiuus"
+  },
+  {
+   "scan": 87,
+   "line": 13,
+   "lines": [
+    [
+     87,
+     13
+    ]
+   ],
+   "level": 3,
+   "title": "Imperatiuus"
+  },
+  {
+   "scan": 91,
+   "line": 7,
+   "lines": [
+    [
+     91,
+     7
+    ]
+   ],
+   "level": 3,
+   "title": "Verbum medium"
+  },
+  {
+   "scan": 92,
+   "line": 21,
+   "lines": [
+    [
+     92,
+     21
+    ]
+   ],
+   "level": 3,
+   "title": "Imperatiuus"
+  },
+  {
+   "scan": 93,
+   "line": 13,
+   "lines": [
+    [
+     93,
+     13
+    ]
+   ],
+   "level": 3,
+   "title": "Optatiuus"
+  },
+  {
+   "scan": 96,
+   "line": 13,
+   "lines": [
+    [
+     96,
+     13
+    ]
+   ],
+   "level": 3,
+   "title": "Tertia coniugatio"
+  },
+  {
+   "scan": 97,
+   "line": 21,
+   "lines": [
+    [
+     97,
+     21
+    ]
+   ],
+   "level": 3,
+   "title": "Imperatiuus"
+  },
+  {
+   "scan": 103,
+   "line": 18,
+   "lines": [
+    [
+     103,
+     18
+    ]
+   ],
+   "level": 3,
+   "title": "Optatiuus"
+  },
+  {
+   "scan": 108,
+   "line": 9,
+   "lines": [
+    [
+     108,
+     9
+    ]
+   ],
+   "level": 3,
+   "title": "Imperatiuus"
+  },
+  {
+   "scan": 109,
+   "line": 1,
+   "lines": [
+    [
+     109,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "Optatiuus"
+  },
+  {
+   "scan": 112,
+   "line": 1,
+   "lines": [
+    [
+     112,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "Quarta coniugatio"
+  },
+  {
+   "scan": 115,
+   "line": 1,
+   "lines": [
+    [
+     115,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "Subiunctiuus"
+  },
+  {
+   "scan": 115,
+   "line": 18,
+   "lines": [
+    [
+     115,
+     18
+    ]
+   ],
+   "level": 3,
+   "title": "Infinitiuus"
+  },
+  {
+   "scan": 116,
+   "line": 1,
+   "lines": [
+    [
+     116,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "Participium"
+  },
+  {
+   "scan": 118,
+   "line": 13,
+   "lines": [
+    [
+     118,
+     13
+    ]
+   ],
+   "level": 3,
+   "title": "Imperatiuus"
+  },
+  {
+   "scan": 122,
+   "line": 13,
+   "lines": [
+    [
+     122,
+     13
+    ]
+   ],
+   "level": 3,
+   "title": "Medium"
+  },
+  {
+   "scan": 124,
+   "line": 13,
+   "lines": [
+    [
+     124,
+     13
+    ]
+   ],
+   "level": 3,
+   "title": "Optatiuus"
+  },
+  {
+   "scan": 127,
+   "line": 13,
+   "lines": [
+    [
+     127,
+     13
+    ]
+   ],
+   "level": 3,
+   "title": "De verbis contractis"
+  },
+  {
+   "scan": 161,
+   "line": 5,
+   "lines": [
+    [
+     161,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Notio verborum contractorum"
+  },
+  {
+   "scan": 163,
+   "line": 3,
+   "lines": [
+    [
+     163,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "De verbis in μι"
+  },
+  {
+   "scan": 166,
+   "line": 3,
+   "lines": [
+    [
+     166,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "De prima coniugatione verborum in μι"
+  },
+  {
+   "scan": 178,
+   "line": 17,
+   "lines": [
+    [
+     178,
+     17
+    ]
+   ],
+   "level": 3,
+   "title": "De secunda coniugatione verborum in μι"
+  },
+  {
+   "scan": 189,
+   "line": 9,
+   "lines": [
+    [
+     189,
+     9
+    ]
+   ],
+   "level": 3,
+   "title": "De tertia coniugatione verborum in μι"
+  },
+  {
+   "scan": 199,
+   "line": 13,
+   "lines": [
+    [
+     199,
+     13
+    ]
+   ],
+   "level": 3,
+   "title": "De quarta coniugatione verborum in μι"
+  },
+  {
+   "scan": 219,
+   "line": 5,
+   "lines": [
+    [
+     219,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "De nominibus verbalibus"
+  },
+  {
+   "scan": 221,
+   "line": 11,
+   "lines": [
+    [
+     221,
+     11
+    ]
+   ],
+   "level": 3,
+   "title": "De verbis defectiuis"
+  },
+  {
+   "scan": 224,
+   "line": 4,
+   "lines": [
+    [
+     224,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Quae defectiua proprie"
+  },
+  {
+   "scan": 225,
+   "line": 5,
+   "lines": [
+    [
+     225,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "De verbis in μι anomalis, ac coniugatu difficilibus"
+  },
+  {
+   "scan": 228,
+   "line": 5,
+   "lines": [
+    [
+     228,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "De εἰμι quod est uado"
+  },
+  {
+   "scan": 231,
+   "line": 8,
+   "lines": [
+    [
+     231,
+     8
+    ]
+   ],
+   "level": 3,
+   "title": "De ἵημι"
+  },
+  {
+   "scan": 236,
+   "line": 2,
+   "lines": [
+    [
+     236,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Notio de verbis in μι"
+  },
+  {
+   "scan": 242,
+   "line": 1,
+   "lines": [
+    [
+     242,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "De pronomine"
+  },
+  {
+   "scan": 245,
+   "line": 3,
+   "lines": [
+    [
+     245,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Demonstrativa"
+  },
+  {
+   "scan": 246,
+   "line": 6,
+   "lines": [
+    [
+     246,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "Relatiuum αὐτός"
+  },
+  {
+   "scan": 247,
+   "line": 3,
+   "lines": [
+    [
+     247,
+     3
+    ]
+   ],
+   "level": 2,
+   "title": "Caput VI. De adverbio"
+  },
+  {
+   "scan": 247,
+   "line": 5,
+   "lines": [
+    [
+     247,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Deductitia"
+  },
+  {
+   "scan": 250,
+   "line": 2,
+   "lines": [
+    [
+     250,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Temporis"
+  },
+  {
+   "scan": 250,
+   "line": 4,
+   "lines": [
+    [
+     250,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Loci"
+  },
+  {
+   "scan": 250,
+   "line": 6,
+   "lines": [
+    [
+     250,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "Qualitatis"
+  },
+  {
+   "scan": 250,
+   "line": 8,
+   "lines": [
+    [
+     250,
+     8
+    ]
+   ],
+   "level": 3,
+   "title": "Quantitatis"
+  },
+  {
+   "scan": 250,
+   "line": 10,
+   "lines": [
+    [
+     250,
+     10
+    ]
+   ],
+   "level": 3,
+   "title": "Hortandi"
+  },
+  {
+   "scan": 253,
+   "line": 2,
+   "lines": [
+    [
+     253,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "De praepositione"
+  },
+  {
+   "scan": 253,
+   "line": 5,
+   "lines": [
+    [
+     253,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "De coniunctione"
+  },
+  {
+   "scan": 254,
+   "line": 1,
+   "lines": [
+    [
+     254,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "Subiunctiuae"
+  },
+  {
+   "scan": 254,
+   "line": 3,
+   "lines": [
+    [
+     254,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Causales"
+  },
+  {
+   "scan": 254,
+   "line": 5,
+   "lines": [
+    [
+     254,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Dubitatiuae"
+  },
+  {
+   "scan": 254,
+   "line": 7,
+   "lines": [
+    [
+     254,
+     7
+    ]
+   ],
+   "level": 3,
+   "title": "Collectiuae seu rationales"
+  },
+  {
+   "scan": 254,
+   "line": 9,
+   "lines": [
+    [
+     254,
+     9
+    ]
+   ],
+   "level": 3,
+   "title": "Repletiuae siue expletiuae"
+  },
+  {
+   "scan": 254,
+   "line": 11,
+   "lines": [
+    [
+     254,
+     11
+    ]
+   ],
+   "level": 3,
+   "title": "Potentiales"
+  },
+  {
+   "scan": 254,
+   "line": 13,
+   "lines": [
+    [
+     254,
+     13
+    ]
+   ],
+   "level": 3,
+   "title": "Discretiuae seu electiuae"
+  },
+  {
+   "scan": 255,
+   "line": 1,
+   "lines": [
+    [
+     255,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "De constructione"
+  },
+  {
+   "scan": 255,
+   "line": 2,
+   "lines": [
+    [
+     255,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Constructio articuli praepositiui"
+  },
+  {
+   "scan": 259,
+   "line": 6,
+   "lines": [
+    [
+     259,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "Articulus cum verbo"
+  },
+  {
+   "scan": 260,
+   "line": 6,
+   "lines": [
+    [
+     260,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "Articulus cum participio"
+  },
+  {
+   "scan": 261,
+   "line": 2,
+   "lines": [
+    [
+     261,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Articulus cum praepositione"
+  },
+  {
+   "scan": 263,
+   "line": 3,
+   "lines": [
+    [
+     263,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Articulus cum aduerbio"
+  },
+  {
+   "scan": 264,
+   "line": 5,
+   "lines": [
+    [
+     264,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Articulus cum μὲν & δὲ"
+  },
+  {
+   "scan": 266,
+   "line": 5,
+   "lines": [
+    [
+     266,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Constructio nominum"
+  },
+  {
+   "scan": 266,
+   "line": 6,
+   "lines": [
+    [
+     266,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "De comparatiui constructione"
+  },
+  {
+   "scan": 268,
+   "line": 2,
+   "lines": [
+    [
+     268,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Enallage graduum comparationis"
+  },
+  {
+   "scan": 268,
+   "line": 4,
+   "lines": [
+    [
+     268,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Constructio superlatiui"
+  },
+  {
+   "scan": 268,
+   "line": 6,
+   "lines": [
+    [
+     268,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "Datiuus post nomen"
+  },
+  {
+   "scan": 270,
+   "line": 4,
+   "lines": [
+    [
+     270,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Accusatiuus post nomen"
+  },
+  {
+   "scan": 270,
+   "line": 6,
+   "lines": [
+    [
+     270,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "Verbalia in εον"
+  },
+  {
+   "scan": 272,
+   "line": 3,
+   "lines": [
+    [
+     272,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Atticismus"
+  },
+  {
+   "scan": 272,
+   "line": 6,
+   "lines": [
+    [
+     272,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "Eclipsis quorundam substantiuorum"
+  },
+  {
+   "scan": 274,
+   "line": 2,
+   "lines": [
+    [
+     274,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Pluralia singularibus uerbis iuncta"
+  },
+  {
+   "scan": 276,
+   "line": 5,
+   "lines": [
+    [
+     276,
+     5
+    ]
+   ],
+   "level": 2,
+   "title": "Constructio pronominum"
+  },
+  {
+   "scan": 276,
+   "line": 6,
+   "lines": [
+    [
+     276,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "Speciei enallage"
+  },
+  {
+   "scan": 276,
+   "line": 8,
+   "lines": [
+    [
+     276,
+     8
+    ]
+   ],
+   "level": 3,
+   "title": "Possessiua"
+  },
+  {
+   "scan": 277,
+   "line": 2,
+   "lines": [
+    [
+     277,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "De pronomine relatiuo αὐτός"
+  },
+  {
+   "scan": 278,
+   "line": 6,
+   "lines": [
+    [
+     278,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "Composita"
+  },
+  {
+   "scan": 282,
+   "line": 1,
+   "lines": [
+    [
+     282,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "De constructione verborum"
+  },
+  {
+   "scan": 285,
+   "line": 2,
+   "lines": [
+    [
+     285,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Verba accusandi"
+  },
+  {
+   "scan": 286,
+   "line": 2,
+   "lines": [
+    [
+     286,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Verba passiua"
+  },
+  {
+   "scan": 286,
+   "line": 5,
+   "lines": [
+    [
+     286,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Verbum substantiuum"
+  },
+  {
+   "scan": 288,
+   "line": 2,
+   "lines": [
+    [
+     288,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Verba certandi"
+  },
+  {
+   "scan": 288,
+   "line": 6,
+   "lines": [
+    [
+     288,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "Verba significatiua motus"
+  },
+  {
+   "scan": 289,
+   "line": 4,
+   "lines": [
+    [
+     289,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Impersonalia"
+  },
+  {
+   "scan": 293,
+   "line": 2,
+   "lines": [
+    [
+     293,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Cum uerbis motus ad locum"
+  },
+  {
+   "scan": 294,
+   "line": 5,
+   "lines": [
+    [
+     294,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Accusatiuus quando praecedat infinitiuum"
+  },
+  {
+   "scan": 295,
+   "line": 2,
+   "lines": [
+    [
+     295,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Accusatiuus post infinitiuum"
+  },
+  {
+   "scan": 296,
+   "line": 6,
+   "lines": [
+    [
+     296,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "Appendix prima. Ellipsis uerborum"
+  },
+  {
+   "scan": 300,
+   "line": 1,
+   "lines": [
+    [
+     300,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Constructio participii"
+  },
+  {
+   "scan": 301,
+   "line": 2,
+   "lines": [
+    [
+     301,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Participium loco uerbi"
+  },
+  {
+   "scan": 302,
+   "line": 3,
+   "lines": [
+    [
+     302,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Atticorum mos loquendi"
+  },
+  {
+   "scan": 302,
+   "line": 5,
+   "lines": [
+    [
+     302,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Participium loco infinitiui ponitur"
+  },
+  {
+   "scan": 304,
+   "line": 6,
+   "lines": [
+    [
+     304,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "Constructio adverbiorum"
+  },
+  {
+   "scan": 305,
+   "line": 2,
+   "lines": [
+    [
+     305,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "De adverbiis exclamandi"
+  },
+  {
+   "scan": 307,
+   "line": 1,
+   "lines": [
+    [
+     307,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "ἄρτι"
+  },
+  {
+   "scan": 308,
+   "line": 2,
+   "lines": [
+    [
+     308,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "νῦν"
+  },
+  {
+   "scan": 308,
+   "line": 4,
+   "lines": [
+    [
+     308,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "ἤδη"
+  },
+  {
+   "scan": 308,
+   "line": 8,
+   "lines": [
+    [
+     308,
+     8
+    ]
+   ],
+   "level": 3,
+   "title": "ὅτε & τότε"
+  },
+  {
+   "scan": 309,
+   "line": 8,
+   "lines": [
+    [
+     309,
+     8
+    ]
+   ],
+   "level": 3,
+   "title": "πρίν"
+  },
+  {
+   "scan": 310,
+   "line": 4,
+   "lines": [
+    [
+     310,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Localia"
+  },
+  {
+   "scan": 313,
+   "line": 1,
+   "lines": [
+    [
+     313,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "ὡς"
+  },
+  {
+   "scan": 314,
+   "line": 11,
+   "lines": [
+    [
+     314,
+     11
+    ]
+   ],
+   "level": 3,
+   "title": "De negatiuis & prohibitiuis"
+  },
+  {
+   "scan": 317,
+   "line": 1,
+   "lines": [
+    [
+     317,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "Οὐ uaria significatio & constructio"
+  },
+  {
+   "scan": 323,
+   "line": 6,
+   "lines": [
+    [
+     323,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "Attica eclipsis negationis"
+  },
+  {
+   "scan": 326,
+   "line": 9,
+   "lines": [
+    [
+     326,
+     9
+    ]
+   ],
+   "level": 3,
+   "title": "Coniectandi"
+  },
+  {
+   "scan": 327,
+   "line": 5,
+   "lines": [
+    [
+     327,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Interrogandi"
+  },
+  {
+   "scan": 328,
+   "line": 1,
+   "lines": [
+    [
+     328,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "Πῶς emphaticum"
+  },
+  {
+   "scan": 329,
+   "line": 4,
+   "lines": [
+    [
+     329,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Optandi"
+  },
+  {
+   "scan": 331,
+   "line": 1,
+   "lines": [
+    [
+     331,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Constructio praepositionum"
+  },
+  {
+   "scan": 333,
+   "line": 5,
+   "lines": [
+    [
+     333,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "σύν"
+  },
+  {
+   "scan": 334,
+   "line": 2,
+   "lines": [
+    [
+     334,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "πρός"
+  },
+  {
+   "scan": 336,
+   "line": 4,
+   "lines": [
+    [
+     336,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "ἀνά"
+  },
+  {
+   "scan": 338,
+   "line": 2,
+   "lines": [
+    [
+     338,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "διά"
+  },
+  {
+   "scan": 339,
+   "line": 5,
+   "lines": [
+    [
+     339,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "παρά"
+  },
+  {
+   "scan": 341,
+   "line": 6,
+   "lines": [
+    [
+     341,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "ἐπί"
+  },
+  {
+   "scan": 345,
+   "line": 3,
+   "lines": [
+    [
+     345,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "ἀπό"
+  },
+  {
+   "scan": 345,
+   "line": 7,
+   "lines": [
+    [
+     345,
+     7
+    ]
+   ],
+   "level": 3,
+   "title": "ὑπό"
+  },
+  {
+   "scan": 346,
+   "line": 3,
+   "lines": [
+    [
+     346,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "ὑπέρ"
+  },
+  {
+   "scan": 347,
+   "line": 2,
+   "lines": [
+    [
+     347,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Praepositiones compositae cum verbis"
+  },
+  {
+   "scan": 348,
+   "line": 2,
+   "lines": [
+    [
+     348,
+     2
+    ]
+   ],
+   "level": 2,
+   "title": "Constructio coniunctionum"
+  },
+  {
+   "scan": 348,
+   "line": 4,
+   "lines": [
+    [
+     348,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "ἀλλά"
+  },
+  {
+   "scan": 349,
+   "line": 2,
+   "lines": [
+    [
+     349,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "δέ"
+  },
+  {
+   "scan": 355,
+   "line": 4,
+   "lines": [
+    [
+     355,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "ἤ"
+  },
+  {
+   "scan": 355,
+   "line": 4,
+   "lines": [
+    [
+     355,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "εἰ"
+  },
+  {
+   "scan": 356,
+   "line": 4,
+   "lines": [
+    [
+     356,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "γάρ"
+  },
+  {
+   "scan": 356,
+   "line": 6,
+   "lines": [
+    [
+     356,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "ὅτι"
+  },
+  {
+   "scan": 358,
+   "line": 4,
+   "lines": [
+    [
+     358,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "οὖν"
+  },
+  {
+   "scan": 358,
+   "line": 4,
+   "lines": [
+    [
+     358,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "ἦτοι"
+  },
+  {
+   "scan": 360,
+   "line": 4,
+   "lines": [
+    [
+     360,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "γε"
+  },
+  {
+   "scan": 360,
+   "line": 6,
+   "lines": [
+    [
+     360,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "δή"
+  },
+  {
+   "scan": 361,
+   "line": 4,
+   "lines": [
+    [
+     361,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "που"
+  },
+  {
+   "scan": 368,
+   "line": 2,
+   "lines": [
+    [
+     368,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "ἄν indefinite"
+  },
+  {
+   "scan": 371,
+   "line": 1,
+   "lines": [
+    [
+     371,
+     1
+    ]
+   ],
+   "level": 2,
+   "title": "Caput IX. De accentibus et obiter de quantitate uocalium"
+  },
+  {
+   "scan": 371,
+   "line": 2,
+   "lines": [
+    [
+     371,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Rectus declinationis primae"
+  },
+  {
+   "scan": 371,
+   "line": 4,
+   "lines": [
+    [
+     371,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Secundae"
+  },
+  {
+   "scan": 372,
+   "line": 7,
+   "lines": [
+    [
+     372,
+     7
+    ]
+   ],
+   "level": 3,
+   "title": "Tertiae"
+  },
+  {
+   "scan": 373,
+   "line": 3,
+   "lines": [
+    [
+     373,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Substantiua neutra in ιον"
+  },
+  {
+   "scan": 374,
+   "line": 1,
+   "lines": [
+    [
+     374,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "Verbalia in μῷ & τῷ"
+  },
+  {
+   "scan": 374,
+   "line": 4,
+   "lines": [
+    [
+     374,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Quartae declinationis"
+  },
+  {
+   "scan": 374,
+   "line": 6,
+   "lines": [
+    [
+     374,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "Foeminina in as"
+  },
+  {
+   "scan": 374,
+   "line": 8,
+   "lines": [
+    [
+     374,
+     8
+    ]
+   ],
+   "level": 3,
+   "title": "In ais & aiξ"
+  },
+  {
+   "scan": 374,
+   "line": 10,
+   "lines": [
+    [
+     374,
+     10
+    ]
+   ],
+   "level": 3,
+   "title": "Adiectiua in ης"
+  },
+  {
+   "scan": 376,
+   "line": 2,
+   "lines": [
+    [
+     376,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "In εις adiectiua"
+  },
+  {
+   "scan": 376,
+   "line": 4,
+   "lines": [
+    [
+     376,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "In ων"
+  },
+  {
+   "scan": 376,
+   "line": 6,
+   "lines": [
+    [
+     376,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "Composita"
+  },
+  {
+   "scan": 376,
+   "line": 8,
+   "lines": [
+    [
+     376,
+     8
+    ]
+   ],
+   "level": 3,
+   "title": "Neutra"
+  },
+  {
+   "scan": 376,
+   "line": 10,
+   "lines": [
+    [
+     376,
+     10
+    ]
+   ],
+   "level": 3,
+   "title": "Monosyllaba in υς"
+  },
+  {
+   "scan": 377,
+   "line": 5,
+   "lines": [
+    [
+     377,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Quartae declinationis uocatiuus"
+  },
+  {
+   "scan": 378,
+   "line": 2,
+   "lines": [
+    [
+     378,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Vocatiuus in ὀ"
+  },
+  {
+   "scan": 378,
+   "line": 4,
+   "lines": [
+    [
+     378,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Ancipites finales"
+  },
+  {
+   "scan": 378,
+   "line": 6,
+   "lines": [
+    [
+     378,
+     6
+    ]
+   ],
+   "level": 3,
+   "title": "Accentus uerborum"
+  },
+  {
+   "scan": 381,
+   "line": 1,
+   "lines": [
+    [
+     381,
+     1
+    ]
+   ],
+   "level": 3,
+   "title": "Imperatiuus"
+  },
+  {
+   "scan": 381,
+   "line": 3,
+   "lines": [
+    [
+     381,
+     3
+    ]
+   ],
+   "level": 3,
+   "title": "Infinitum α"
+  },
+  {
+   "scan": 381,
+   "line": 5,
+   "lines": [
+    [
+     381,
+     5
+    ]
+   ],
+   "level": 3,
+   "title": "Infinitum α participij"
+  },
+  {
+   "scan": 381,
+   "line": 9,
+   "lines": [
+    [
+     381,
+     9
+    ]
+   ],
+   "level": 2,
+   "title": "De inclinatiuis"
+  },
+  {
+   "scan": 381,
+   "line": 10,
+   "lines": [
+    [
+     381,
+     10
+    ]
+   ],
+   "level": 3,
+   "title": "Notio de inclinatiuis"
+  },
+  {
+   "scan": 382,
+   "line": 2,
+   "lines": [
+    [
+     382,
+     2
+    ]
+   ],
+   "level": 3,
+   "title": "Dictio inclinatiua quid"
+  },
+  {
+   "scan": 383,
+   "line": 4,
+   "lines": [
+    [
+     383,
+     4
+    ]
+   ],
+   "level": 3,
+   "title": "Pronomina inclinatiua"
+  },
+  {
+   "scan": 384,
+   "line": 6,
+   "lines": [
+    [
+     384,
+     6
+    ]
+   ],
+   "level": 2,
+   "title": "Περὶ τῶν ἀνωμάλων ῥημάτων"
+  },
+  {
+   "scan": 384,
+   "line": 7,
+   "lines": [
+    [
+     384,
+     7
+    ]
+   ],
+   "level": 3,
+   "title": "Ἀρχὴ τοῦ α"
+  },
+  {
+   "scan": 401,
+   "line": 1,
+   "lines": [
+    [
+     401,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Εἰς τὴν Ἰακώβου Κηπώριον γραμματικὴν τέχνην"
+  },
+  {
+   "scan": 402,
+   "line": 2,
+   "lines": [
+    [
+     402,
+     2
+    ]
+   ],
+   "level": 1,
+   "title": "Rodolphus Gualtherus Iohanni Frisio suo"
+  },
+  {
+   "scan": 404,
+   "line": 1,
+   "lines": [
+    [
+     404,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Eorum quae praecipue hoc in libello tractantur, index"
+  },
+  {
+   "scan": 405,
+   "line": 1,
+   "lines": [
+    [
+     405,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Index"
+  },
+  {
+   "scan": 406,
+   "line": 1,
+   "lines": [
+    [
+     406,
+     1
+    ]
+   ],
+   "level": 1,
+   "title": "Index"
+  },
+  {
+   "scan": 407,
+   "line": 0,
+   "lines": [
+    [
+     407,
+     0
+    ]
+   ],
+   "level": 1,
+   "title": "Index"
+  }
+ ],
+ "book": "Greek grammar in Latin, Iacobi Ceporini Compendium grammaticae Graecae (Zurich, Froschauer, 1560), edited by Johannes Frisius: front matter (additions list, dedication, Gesner's poem), the grammar in three parts with numbered chapters I–IX and unnumbered sections, Greek verses, and a printed index.",
+ "series": [
+  {
+   "label": "Caput",
+   "first": "I",
+   "last": "IX",
+   "count": 9,
+   "level": 2,
+   "found": 26
+  },
+  {
+   "label": "Coniugatio",
+   "first": "Prima",
+   "last": "Quarta",
+   "count": 4,
+   "level": 3,
+   "found": 193
+  }
+ ],
+ "taste": 12,
+ "doubt": "",
+ "input": 107162,
+ "output": 33218
+}
